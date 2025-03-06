@@ -1,0 +1,50 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/.flattened-pom.xml
+!**/**/.flattened-pom.xml
+.flattened-pom.xml
+
+!**/lombok.config
+!**/**/lombok.config
+lombok.config
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.gradle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+out/
+!**/out
+
+
+### VS Code ###
+.vscode/
+.DS_Store
+!**/.DS_Store
+!**/**/.DS_Store
+!**/**/**/.DS_Store
+!**/**/**/**/.DS_Store
+!**/**/**/**/**/.DS_Store
