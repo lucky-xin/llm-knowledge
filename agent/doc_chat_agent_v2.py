@@ -1,5 +1,7 @@
+
 import os
 import uuid
+from typing import Sequence
 
 import streamlit as st
 from langchain import hub
@@ -8,19 +10,23 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.callbacks import StreamlitCallbackHandler
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain_core.prompts import BasePromptTemplate
-from llama_index.core import Settings, VectorStoreIndex, SimpleDirectoryReader, Document
+from llama_index.core import Settings, VectorStoreIndex, SimpleDirectoryReader, StorageContext
 from llama_index.core.base.base_query_engine import BaseQueryEngine
+from llama_index.core.extractors import KeywordExtractor
 from llama_index.core.indices.query.query_transform import HyDEQueryTransform
+from llama_index.core.ingestion import run_transformations, IngestionCache
 from llama_index.core.langchain_helpers.agents import create_llama_agent, LlamaToolkit, IndexToolConfig
-from llama_index.core.node_parser import SentenceSplitter
+from llama_index.core.node_parser import SentenceWindowNodeParser, SentenceSplitter
 from llama_index.core.query_engine import TransformQueryEngine
+from llama_index.core.schema import BaseNode
+from llama_index.core.storage.kvstore.types import BaseInMemoryKVStore
 from llama_index.core.vector_stores.types import BasePydanticVectorStore
 from llama_index.embeddings.dashscope import DashScopeEmbedding
-from llama_index.llms.openai_like import OpenAILike
 from llama_index.vector_stores.postgres import PGVectorStore
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
-from factory.ai_factory import create_llm
+from factory.ai_factory import create_llm, create_llama_index_llm
+from transform.transform import IdGenTransform, CleanCharTransform
 
 
 # Write uploaded file in temp dir
@@ -67,37 +73,77 @@ def create_index_vector_stores() -> BasePydanticVectorStore:
         # openai embedding dimension
         embed_dim=1536,
         # Enable half precision
-        use_halfvec=True
+        use_halfvec=False,
+        create_engine_kwargs={
+        }
     )
 
+
+def generate_md5(i: int, doc: BaseNode) -> str:
+    print("---------------------------")
+    """将string值进行MD5加密"""
+    import hashlib
+    sha256 = hashlib.sha256()
+    sha256.update(doc.text.encode('utf-8'))
+    res = sha256.hexdigest()
+
+    # 加密
+    print(res)
+    print("---------------------------\n\n")
+    return res
+
+
+def node_id_func(i: int, doc: BaseNode) -> str:
+    return f"{doc.node_id}-{i}"
 
 def init_context():
     # Set Qwen2.5 as the language model and set generation config
-    Settings.llm = OpenAILike(
-        api_base="https://dashscope.aliyuncs.com/compatible-mode/v1",
-        api_key=os.getenv("DASHSCOPE_API_KEY"),
-        model="qwen-turbo-latest",
-        is_chat_model=True,
-        context_window=30000
-    )
-
+    Settings.llm = create_llama_index_llm()
+    Settings.chunk_size = 1024
+    Settings.chunk_overlap = 200
     # LlamaIndex默认使用的Embedding模型被替换为百炼的Embedding模型
     Settings.embed_model = DashScopeEmbedding(model_name="text-embedding-v2")
     # Set the size of the text chunk for retrieval
-    Settings.transformations = [SentenceSplitter(chunk_size=1024)]
+    sentence_window_parse = SentenceWindowNodeParser(id_func=node_id_func)
+    sentence_splitter_parse = SentenceSplitter(id_func=node_id_func)
+    Settings.node_parser = sentence_window_parse
+    Settings.text_splitter = sentence_window_parse
 
+    keyword_extractor = KeywordExtractor()
+    Settings.transformations = [
+        CleanCharTransform(),
+        keyword_extractor,
+        sentence_splitter_parse,
+        IdGenTransform()
+    ]
 
 def create_query_engine(vector_store: BasePydanticVectorStore) -> BaseQueryEngine:
     # from_documents 方法包含对文档进行切片与建立索引两个步骤
     index = VectorStoreIndex.from_vector_store(
         vector_store=vector_store,
         # 指定embedding 模型
-        embed_model=Settings.embed_model
+        embed_model=Settings.embed_model,
+        transformations=Settings.transformations
     )
-
     hyde = HyDEQueryTransform(include_original=True)
     query_engine = index.as_query_engine(Settings.llm)
     return TransformQueryEngine(query_engine=query_engine, query_transform=hyde)
+
+
+def create_vector_store_index(vector_store: BasePydanticVectorStore) -> VectorStoreIndex:
+    storage_context = StorageContext.from_defaults(
+        vector_store=vector_store
+    )
+
+    index = VectorStoreIndex(
+        nodes=[],
+        storage_context=storage_context,
+        vector_store=vector_store,
+        embed_model=Settings.embed_model,
+        store_nodes_override=True,
+        transformations=Settings.transformations
+    )
+    return index
 
 
 def create_agent() -> AgentExecutor:
@@ -126,15 +172,20 @@ def create_agent() -> AgentExecutor:
 
 
 def init():
-    if "vs" not in st.session_state:
-        st.session_state.vs = create_index_vector_stores()
+    if "index" not in st.session_state:
+        vector_store = create_index_vector_stores()
+        st.session_state.vector_store_index = create_vector_store_index(vector_store)
     if "messages" not in st.session_state:
         st.session_state.messages = []
+    if "ingest_cache" not in st.session_state:
+        st.session_state.ingest_cache = IngestionCache(
+            cache=BaseInMemoryKVStore(),
+        )
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
 
-def to_documents(uf: UploadedFile) -> list[Document]:
+def load_documents(uf: UploadedFile) -> Sequence[BaseNode]:
     parent_path = "/tmp/agent/" + str(uuid.uuid4())
     create_tmp_dir(parent_path)
     # writing the file from RAM to the current directory on disk
@@ -142,6 +193,20 @@ def to_documents(uf: UploadedFile) -> list[Document]:
     print(f'Writing {uf.name} to {file_path}')
     write_file(file_path, uf.read())
     return SimpleDirectoryReader(parent_path).load_data()
+
+
+def add_docs(docs: Sequence[BaseNode]) -> None:
+    new_nodes = run_transformations(
+        nodes=docs,
+        transformations=Settings.transformations
+    )
+    node_ids = [node.node_id for node in new_nodes]
+    exist_nodes = st.session_state.vector_store_index.vector_store.get_nodes(node_ids=node_ids)
+    exist_ids = [node.node_id for node in exist_nodes]
+
+    inserts = [node for node in new_nodes if node.node_id not in exist_ids]
+    if len(inserts):
+        st.session_state.vector_store_index.insert_nodes(inserts)
 
 
 if __name__ == "__main__":
@@ -158,8 +223,8 @@ if __name__ == "__main__":
         add_data = st.button('Add Data', on_click=clear_history)
         if uploaded_file and add_data:  # if the user browsed a file
             with st.spinner('Reading, chunking and embedding file ...'):
-                docs = to_documents(uploaded_file)
-                st.session_state.vs.add(docs)
+                nodes = load_documents(uploaded_file)
+                add_documents(nodes)
 
     q = st.chat_input(placeholder="请问我任何关于文章的问题")
     if q:
