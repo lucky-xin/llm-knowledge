@@ -195,7 +195,7 @@ def load_documents(uf: UploadedFile) -> Sequence[BaseNode]:
     return SimpleDirectoryReader(parent_path).load_data()
 
 
-def add_docs(docs: Sequence[BaseNode]) -> None:
+def add_documents(docs: Sequence[BaseNode]) -> None:
     new_nodes = run_transformations(
         nodes=docs,
         transformations=Settings.transformations
