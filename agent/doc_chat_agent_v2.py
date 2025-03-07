@@ -21,7 +21,7 @@ from llama_index.core.query_engine import TransformQueryEngine
 from llama_index.core.schema import BaseNode
 from llama_index.core.storage.kvstore.types import BaseInMemoryKVStore
 from llama_index.core.vector_stores.types import BasePydanticVectorStore
-from llama_index.embeddings.dashscope import DashScopeEmbedding
+from llama_index.embeddings.dashscope import DashScopeEmbedding, DashScopeTextEmbeddingModels
 from llama_index.vector_stores.postgres import PGVectorStore
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
@@ -102,7 +102,7 @@ def init_context():
     Settings.chunk_size = 1024
     Settings.chunk_overlap = 200
     # LlamaIndex默认使用的Embedding模型被替换为百炼的Embedding模型
-    Settings.embed_model = DashScopeEmbedding(model_name="text-embedding-v2")
+    Settings.embed_model = DashScopeEmbedding(model_name=DashScopeTextEmbeddingModels.TEXT_EMBEDDING_V2)
     # Set the size of the text chunk for retrieval
     sentence_window_parse = SentenceWindowNodeParser(id_func=node_id_func)
     sentence_splitter_parse = SentenceSplitter(id_func=node_id_func)
