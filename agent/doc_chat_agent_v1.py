@@ -1,9 +1,7 @@
-import textwrap
-
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
 
-from agent.doc_chat_agent_v2 import create_index_vector_stores, init_context, create_vector_store_index
+from agent.doc_chat_agent_v2 import create_index_vector_stores, init_context, create_vector_store_index, create_agent
 
 init_context()
 
@@ -32,9 +30,11 @@ query_engine = index.as_query_engine()
 # )
 
 
-# agent = create_agent()
+agent = create_agent(query_engine)
 while True:
     q = input("请问我任何关于文章的问题")
     if q:
-        response = query_engine.query(q)
-        print(textwrap.fill(str(response), 100))
+        stream = agent.stream({"input": q})
+        for chunk in stream:
+            if "output" in chunk:
+                print(chunk.get("output"))

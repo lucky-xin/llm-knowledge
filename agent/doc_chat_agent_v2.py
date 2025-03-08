@@ -1,9 +1,9 @@
-
 import os
 import uuid
 from typing import Sequence
 
 import streamlit as st
+import torch
 from langchain import hub
 from langchain.agents import AgentExecutor
 from langchain.memory import ConversationBufferMemory
@@ -15,18 +15,21 @@ from llama_index.core.base.base_query_engine import BaseQueryEngine
 from llama_index.core.extractors import KeywordExtractor
 from llama_index.core.indices.query.query_transform import HyDEQueryTransform
 from llama_index.core.ingestion import run_transformations, IngestionCache
-from llama_index.core.langchain_helpers.agents import create_llama_agent, LlamaToolkit, IndexToolConfig
+from llama_index.core.langchain_helpers.agents import  LlamaToolkit, IndexToolConfig, \
+    create_llama_chat_agent
 from llama_index.core.node_parser import SentenceWindowNodeParser, SentenceSplitter
 from llama_index.core.query_engine import TransformQueryEngine
 from llama_index.core.schema import BaseNode
-from llama_index.core.storage.kvstore.types import BaseInMemoryKVStore
+from llama_index.core.storage.kvstore import SimpleKVStore
 from llama_index.core.vector_stores.types import BasePydanticVectorStore
 from llama_index.embeddings.dashscope import DashScopeEmbedding, DashScopeTextEmbeddingModels
 from llama_index.vector_stores.postgres import PGVectorStore
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
-from factory.ai_factory import create_llm, create_llama_index_llm
+from factory.ai_factory import create_llm, create_llama_index_llm, create_chat_ai
 from transform.transform import IdGenTransform, CleanCharTransform
+
+torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)]
 
 
 # Write uploaded file in temp dir
@@ -96,6 +99,7 @@ def generate_md5(i: int, doc: BaseNode) -> str:
 def node_id_func(i: int, doc: BaseNode) -> str:
     return f"{doc.node_id}-{i}"
 
+
 def init_context():
     # Set Qwen2.5 as the language model and set generation config
     Settings.llm = create_llama_index_llm()
@@ -116,6 +120,7 @@ def init_context():
         sentence_splitter_parse,
         IdGenTransform()
     ]
+
 
 def create_query_engine(vector_store: BasePydanticVectorStore) -> BaseQueryEngine:
     # from_documents 方法包含对文档进行切片与建立索引两个步骤
@@ -146,7 +151,7 @@ def create_vector_store_index(vector_store: BasePydanticVectorStore) -> VectorSt
     return index
 
 
-def create_agent() -> AgentExecutor:
+def create_agent(base_query_engine: BaseQueryEngine) -> AgentExecutor:
     msgs = StreamlitChatMessageHistory()
     memory = ConversationBufferMemory(
         memory_key="chat_history",
@@ -158,11 +163,11 @@ def create_agent() -> AgentExecutor:
         IndexToolConfig(
             name="docs",
             description="useful for when you need to answer questions about the documents",
-            query_engine=create_query_engine(st.session_state.vs)
+            query_engine=base_query_engine
         )
     ]
     llama_toolkit = LlamaToolkit(index_configs=index_configs)
-    return create_llama_agent(
+    return create_llama_chat_agent(
         toolkit=llama_toolkit,
         llm=create_llm(),
         memory=memory,
@@ -172,6 +177,9 @@ def create_agent() -> AgentExecutor:
 
 
 def init():
+    if "settings" not in st.session_state:
+        init_context()
+    st.session_state.settings = True
     if "index" not in st.session_state:
         vector_store = create_index_vector_stores()
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
@@ -179,8 +187,11 @@ def init():
         st.session_state.messages = []
     if "ingest_cache" not in st.session_state:
         st.session_state.ingest_cache = IngestionCache(
-            cache=BaseInMemoryKVStore(),
+            cache=SimpleKVStore(),
         )
+    if "agent" not in st.session_state:
+        query_engine = create_query_engine(st.session_state.vector_store_index.vector_store)
+        st.session_state.agent = create_agent(query_engine)
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
@@ -234,11 +245,11 @@ if __name__ == "__main__":
         with st.chat_message("assistant"):
             output_placeholder = st.empty()
             st_cb = StreamlitCallbackHandler(st.container())
-            agent = create_agent()
-            stream = agent.stream({"input": q}, config={"callbacks": [st_cb]})
+
+            stream = st.session_state.agent.stream({"input": q}, config={"callbacks": [st_cb]})
             for chunk in stream:
                 if "output" in chunk:
                     collected_messages += chunk.get("output")
                     output_placeholder.markdown(collected_messages + "▌")
-            output_placeholder.markdown(collected_messages)
+                output_placeholder.markdown(collected_messages)
             st.session_state.messages.append({"role": "assistant", "content": collected_messages})

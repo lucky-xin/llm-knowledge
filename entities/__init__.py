@@ -1,5 +1,9 @@
+from pydantic import Field
+
+
 class File:
-    name: str
-    type: str
-    doc_id: str
-    md5: str
+    id: int = Field(description="File id")
+    name: str = Field(description="File name")
+    type: str = Field(description="File type")
+    doc_id: str = Field(description="Doc id")
+    md5: str = Field(description="File md5")
