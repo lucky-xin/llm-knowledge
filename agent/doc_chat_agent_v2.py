@@ -1,22 +1,23 @@
 import os
+import threading
 import uuid
-from typing import Sequence
+from typing import Sequence, TypedDict, List, Annotated
 
 import streamlit as st
 import torch
-from langchain import hub
-from langchain.agents import AgentExecutor
-from langchain.memory import ConversationBufferMemory
-from langchain_community.callbacks import StreamlitCallbackHandler
-from langchain_community.chat_message_histories import StreamlitChatMessageHistory
-from langchain_core.prompts import BasePromptTemplate
+from langchain_core.messages import BaseMessage, HumanMessage, AIMessageChunk
+from langchain_core.prompts import BasePromptTemplate, ChatPromptTemplate
+from langgraph.checkpoint.memory import MemorySaver
+from langgraph.constants import START, END
+from langgraph.graph import add_messages, StateGraph
+from langgraph.graph.graph import CompiledGraph
+from langgraph.prebuilt import create_react_agent
 from llama_index.core import Settings, VectorStoreIndex, SimpleDirectoryReader, StorageContext
 from llama_index.core.base.base_query_engine import BaseQueryEngine
 from llama_index.core.extractors import KeywordExtractor
 from llama_index.core.indices.query.query_transform import HyDEQueryTransform
 from llama_index.core.ingestion import run_transformations, IngestionCache
-from llama_index.core.langchain_helpers.agents import  LlamaToolkit, IndexToolConfig, \
-    create_llama_chat_agent
+from llama_index.core.langchain_helpers.agents import LlamaToolkit, IndexToolConfig
 from llama_index.core.node_parser import SentenceWindowNodeParser, SentenceSplitter
 from llama_index.core.query_engine import TransformQueryEngine
 from llama_index.core.schema import BaseNode
@@ -26,10 +27,15 @@ from llama_index.embeddings.dashscope import DashScopeEmbedding, DashScopeTextEm
 from llama_index.vector_stores.postgres import PGVectorStore
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
-from factory.ai_factory import create_llm, create_llama_index_llm, create_chat_ai
+from callback.streamlit_callback_utils import get_streamlit_cb
+from factory.ai_factory import create_llama_index_llm, create_chat_ai
 from transform.transform import IdGenTransform, CleanCharTransform
 
 torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)]
+
+
+class State(TypedDict):
+    messages: Annotated[List[BaseMessage], add_messages]
 
 
 # Write uploaded file in temp dir
@@ -54,15 +60,18 @@ def create_tmp_dir(tmp_dir: str):
     os.makedirs(tmp_dir, exist_ok=True)
 
 
-@st.cache_resource(ttl="1d")
+# @st.cache_resource(ttl="1d")
 def create_prompt() -> BasePromptTemplate:
     # 指令模板
     instructions = """你是一个设计用于査询文档来回答问题的代理您可以使用文档检索工具，
     并优先基于检索内容来回答问题，如果从文档中找不到任何信息用于回答问题，可以通过其他工具搜索答案，如果所有的工具都不能找到答案，则只需返回“抱歉，这个问题我还不知道。”作为答案。
-    你需要以JSON结构返回。JSON结构体包含output字段，output是你给用户返回的内容。
     """
-    base_prompt = hub.pull("hwchase17/react")
-    return base_prompt.partial(instructions=instructions)
+    return ChatPromptTemplate.from_messages(
+        [
+            ("system", instructions),
+            ("placeholder", "{messages}"),
+        ]
+    )
 
 
 def create_index_vector_stores() -> BasePydanticVectorStore:
@@ -78,22 +87,9 @@ def create_index_vector_stores() -> BasePydanticVectorStore:
         # Enable half precision
         use_halfvec=False,
         create_engine_kwargs={
+
         }
     )
-
-
-def generate_md5(i: int, doc: BaseNode) -> str:
-    print("---------------------------")
-    """将string值进行MD5加密"""
-    import hashlib
-    sha256 = hashlib.sha256()
-    sha256.update(doc.text.encode('utf-8'))
-    res = sha256.hexdigest()
-
-    # 加密
-    print(res)
-    print("---------------------------\n\n")
-    return res
 
 
 def node_id_func(i: int, doc: BaseNode) -> str:
@@ -112,8 +108,8 @@ def init_context():
     sentence_splitter_parse = SentenceSplitter(id_func=node_id_func)
     Settings.node_parser = sentence_window_parse
     Settings.text_splitter = sentence_window_parse
-
     keyword_extractor = KeywordExtractor()
+
     Settings.transformations = [
         CleanCharTransform(),
         keyword_extractor,
@@ -151,14 +147,7 @@ def create_vector_store_index(vector_store: BasePydanticVectorStore) -> VectorSt
     return index
 
 
-def create_agent(base_query_engine: BaseQueryEngine) -> AgentExecutor:
-    msgs = StreamlitChatMessageHistory()
-    memory = ConversationBufferMemory(
-        memory_key="chat_history",
-        return_messages=True,
-        output_key="output",
-        chat_memory=msgs
-    )
+def create_agent(base_query_engine: BaseQueryEngine) -> CompiledGraph:
     index_configs = [
         IndexToolConfig(
             name="docs",
@@ -167,19 +156,19 @@ def create_agent(base_query_engine: BaseQueryEngine) -> AgentExecutor:
         )
     ]
     llama_toolkit = LlamaToolkit(index_configs=index_configs)
-    return create_llama_chat_agent(
-        toolkit=llama_toolkit,
-        llm=create_llm(),
-        memory=memory,
-        verbose=True,
-        handle_parsing_errors="没有从知识库检索到相似的内容"
-    )
+    tools = llama_toolkit.get_tools()
+    return create_react_agent(create_chat_ai(), tools, prompt=create_prompt())
+
+
+def search_chain(state: State):
+    resp = st.session_state.agent.invoke(state)
+    return resp
 
 
 def init():
     if "settings" not in st.session_state:
         init_context()
-    st.session_state.settings = True
+        st.session_state.settings = True
     if "index" not in st.session_state:
         vector_store = create_index_vector_stores()
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
@@ -190,8 +179,21 @@ def init():
             cache=SimpleKVStore(),
         )
     if "agent" not in st.session_state:
+        print("Creating agent...")
         query_engine = create_query_engine(st.session_state.vector_store_index.vector_store)
         st.session_state.agent = create_agent(query_engine)
+
+    if "graph" not in st.session_state:
+        print("Creating graph...")
+        # 初始化 MemorySaver 共例
+        workflow = StateGraph(State)
+        workflow.add_node("searcher", search_chain)
+        workflow.add_edge(START, "searcher")
+        workflow.add_edge("searcher", END)
+        checkpointer = MemorySaver()
+        graph = workflow.compile(checkpointer=checkpointer)
+        st.session_state.graph = graph
+
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
@@ -212,44 +214,58 @@ def add_documents(docs: Sequence[BaseNode]) -> None:
         transformations=Settings.transformations
     )
     node_ids = [node.node_id for node in new_nodes]
+    # get the nodes that already exist in the vector store
     exist_nodes = st.session_state.vector_store_index.vector_store.get_nodes(node_ids=node_ids)
+    # nodes already exist in the vector store
     exist_ids = [node.node_id for node in exist_nodes]
-
+    # nodes that need to be inserted into the vector store
     inserts = [node for node in new_nodes if node.node_id not in exist_ids]
     if len(inserts):
+        # insert the nodes that need to be inserted into the vector store
         st.session_state.vector_store_index.insert_nodes(inserts)
 
 
-if __name__ == "__main__":
-    init()
-    # st.image('img.png')
-    st.subheader('Qwen🤖')
-    with st.sidebar:
-        # file uploader widget
-        uploaded_file = st.file_uploader('Upload a file:', type=['pdf', 'docx', 'txt'])
-        # chunk size number widget
-        chunks = st.number_input('Chunk size:', min_value=2000, max_value=4000, value=2000, on_change=clear_history)
+init()
+# st.image('img.png')
+st.subheader('Qwen🤖')
+with st.sidebar:
+    # file uploader widget
+    uploaded_file = st.file_uploader('Upload a file:', type=['pdf', 'docx', 'txt'])
+    # chunk size number widget
+    chunks = st.number_input('Chunk size:', min_value=2000, max_value=4000, value=2000, on_change=clear_history)
 
-        # add data button widget
-        add_data = st.button('Add Data', on_click=clear_history)
-        if uploaded_file and add_data:  # if the user browsed a file
-            with st.spinner('Reading, chunking and embedding file ...'):
-                nodes = load_documents(uploaded_file)
-                add_documents(nodes)
+    # add data button widget
+    add_data = st.button('Add Data', on_click=clear_history)
+    if uploaded_file and add_data:  # if the user browsed a file
+        with st.spinner('Reading, chunking and embedding file ...'):
+            nodes = load_documents(uploaded_file)
+            add_documents(nodes)
 
-    q = st.chat_input(placeholder="请问我任何关于文章的问题")
-    if q:
-        st.chat_message("user").markdown(q)
-        st.session_state.messages.append({"role": "user", "content": q})
-        collected_messages = ""
-        with st.chat_message("assistant"):
-            output_placeholder = st.empty()
-            st_cb = StreamlitCallbackHandler(st.container())
-
-            stream = st.session_state.agent.stream({"input": q}, config={"callbacks": [st_cb]})
-            for chunk in stream:
-                if "output" in chunk:
-                    collected_messages += chunk.get("output")
+q = st.chat_input(placeholder="请问我任何关于文章的问题")
+if q:
+    st.chat_message("user").markdown(q)
+    st.session_state.messages.append({"role": "user", "content": q})
+    collected_messages = ""
+    with st.chat_message("assistant"):
+        output_placeholder = st.empty()
+        st_cb = get_streamlit_cb(st.container())
+        config = {
+            "recursion_limit": 50,
+            "configurable": {
+                "run_id": str(uuid.uuid4()),
+                "thread_id": str(threading.current_thread().ident)
+            },
+            "callbacks": [st_cb]
+        }
+        stream = st.session_state.graph.stream(
+            input={"messages": [HumanMessage(content=q)]},
+            config=config,
+            stream_mode="messages"
+        )
+        for chunks in stream:
+            for chunk in chunks:
+                if isinstance(chunk, AIMessageChunk) and chunk.content:
+                    collected_messages += chunk.content
                     output_placeholder.markdown(collected_messages + "▌")
-                output_placeholder.markdown(collected_messages)
-            st.session_state.messages.append({"role": "assistant", "content": collected_messages})
+            output_placeholder.markdown(collected_messages)
+        st.session_state.messages.append({"role": "assistant", "content": collected_messages})
