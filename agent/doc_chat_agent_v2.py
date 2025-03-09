@@ -8,6 +8,7 @@ import torch
 from langchain_core.messages import HumanMessage, AIMessageChunk
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
+from langchain_neo4j import GraphCypherQAChain
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.constants import START, END
 from langgraph.graph import StateGraph
@@ -15,6 +16,7 @@ from llama_index.core import Settings
 from llama_index.core.ingestion import run_transformations, IngestionCache
 from llama_index.core.schema import BaseNode, Document
 from llama_index.core.storage.kvstore import SimpleKVStore
+from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LangchainDocumentAdapter
 from callback.streamlit_callback_utils import get_streamlit_cb
@@ -25,7 +27,7 @@ from entities import State
 from factory.ai_factory import create_tongyi_chat_ai
 
 from utils import create_index_vector_stores, create_vector_store_index, create_query_engine, create_agent, \
-    load_documents, create_neo4j_graph, convert_to_graph_documents
+    load_documents, create_neo4j_graph, convert_to_graph_documents, create_combine_prompt
 
 
 # clear the chat history from streamlit session state
@@ -35,9 +37,35 @@ def clear_history():
     # del st.session_state['history']
 
 
-def search_chain(state: State):
-    resp = st.session_state.agent.invoke(state)
+def searcher_chain(state: State):
+    chain = create_combine_prompt() | st.session_state.llm_tongyi
+    resp = chain.invoke(state)
     return resp
+
+
+def graph_retriever_chain(state: State):
+    messages = state.get("messages")
+    question = messages[-1].content
+    resp = st.session_state.graph_cypher_qa_chain.invoke({"query": question})
+    graph_data = resp.get("result")
+    return {"graph_data": graph_data, "question": question}
+
+
+def vector_store_retriever_chain(state: State):
+    # 根据向量获取文档
+    messages = state.get("messages")
+    question = messages[-1].content
+    embedding = Settings.embed_model.get_text_embedding(question)
+
+    # 根据用户问题中包含的实体获取图谱数据库中内容
+    resp = st.session_state.index.vector_store.query(
+        VectorStoreQuery(
+            query_embedding=embedding,
+            query_str=question
+        )
+    )
+    vector_data = [el.get_content() for el in resp.nodes]
+    return {"vector_data": "\n".join(vector_data)}
 
 
 def fetch(doc: Document, c: Optional[RunnableConfig] = None):
@@ -45,6 +73,8 @@ def fetch(doc: Document, c: Optional[RunnableConfig] = None):
 
 
 def init():
+    if "llm_tongyi" not in st.session_state:
+        st.session_state.llm_tongyi = create_tongyi_chat_ai()
     if "index" not in st.session_state:
         vector_store = create_index_vector_stores()
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
@@ -68,15 +98,23 @@ def init():
         print("Creating graph...")
         # 初始化 MemorySaver 共例
         workflow = StateGraph(State)
-        workflow.add_node("searcher", search_chain)
+        workflow.add_node("searcher", searcher_chain)
         workflow.add_edge(START, "searcher")
         workflow.add_edge("searcher", END)
         checkpointer = MemorySaver()
         graph = workflow.compile(checkpointer=checkpointer)
         st.session_state.graph = graph
     if "llm_transformer" not in st.session_state:
-        st.session_state.llm_transformer = LLMGraphTransformer(llm=create_tongyi_chat_ai())
+        st.session_state.llm_transformer = LLMGraphTransformer(llm=st.session_state.llm_tongyi)
 
+    if "graph_cypher_qa_chain" not in st.session_state:
+        st.session_state.graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
+            llm=st.session_state.llm_tongyi,
+            graph=st.session_state.neo4j_graph,
+            verbose=True,
+            return_intermediate_steps=True,
+            allow_dangerous_requests=True,
+        )
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
