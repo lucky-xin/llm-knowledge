@@ -44,6 +44,7 @@ def searcher_chain(state: State):
 
 
 def graph_retriever_chain(state: State):
+    # 根据用户问题中包含的实体获取图谱数据库中内容
     messages = state.get("messages")
     question = messages[-1].content
     resp = st.session_state.graph_cypher_qa_chain.invoke({"query": question})
@@ -57,7 +58,6 @@ def vector_store_retriever_chain(state: State):
     question = messages[-1].content
     embedding = Settings.embed_model.get_text_embedding(question)
 
-    # 根据用户问题中包含的实体获取图谱数据库中内容
     resp = st.session_state.index.vector_store.query(
         VectorStoreQuery(
             query_embedding=embedding,
