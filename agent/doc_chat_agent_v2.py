@@ -13,9 +13,8 @@ from langgraph.checkpoint.memory import MemorySaver
 from langgraph.constants import START, END
 from langgraph.graph import StateGraph
 from llama_index.core import Settings
-from llama_index.core.ingestion import run_transformations, IngestionCache
+from llama_index.core.ingestion import run_transformations
 from llama_index.core.schema import BaseNode, Document
-from llama_index.core.storage.kvstore import SimpleKVStore
 from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LangchainDocumentAdapter
@@ -26,8 +25,7 @@ torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__
 from entities import State
 from factory.ai_factory import create_tongyi_chat_ai
 
-from utils import create_index_vector_stores, create_vector_store_index, create_query_engine, create_agent, \
-    load_documents, create_neo4j_graph, convert_to_graph_documents, create_combine_prompt
+from utils import create_index_vector_stores, create_vector_store_index, load_documents, create_neo4j_graph, convert_to_graph_documents, create_combine_prompt
 
 
 # clear the chat history from streamlit session state
@@ -80,14 +78,6 @@ def init():
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
     if "messages" not in st.session_state:
         st.session_state.messages = []
-    if "ingest_cache" not in st.session_state:
-        st.session_state.ingest_cache = IngestionCache(
-            cache=SimpleKVStore(),
-        )
-    if "agent" not in st.session_state:
-        print("Creating agent...")
-        query_engine = create_query_engine(st.session_state.vector_store_index.vector_store)
-        st.session_state.agent = create_agent(query_engine)
     if "neo4j_graph" not in st.session_state:
         neo4j_graph = create_neo4j_graph()
         neo4j_graph.query(
