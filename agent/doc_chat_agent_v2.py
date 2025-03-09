@@ -25,7 +25,8 @@ torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__
 from entities import State
 from factory.ai_factory import create_tongyi_chat_ai
 
-from utils import create_index_vector_stores, create_vector_store_index, load_documents, create_neo4j_graph, convert_to_graph_documents, create_combine_prompt
+from utils import create_index_vector_stores, create_vector_store_index, load_documents, create_neo4j_graph, \
+    convert_to_graph_documents, create_combine_prompt
 
 
 # clear the chat history from streamlit session state
@@ -38,6 +39,13 @@ def clear_history():
 def searcher_chain(state: State):
     chain = create_combine_prompt() | st.session_state.llm_tongyi
     resp = chain.invoke(state)
+    return resp
+
+
+def sender_chain_v2(state: State):
+    graph_data = graph_retriever_chain(state)
+    vector_data = vector_store_retriever_chain(state)
+    resp = dict(graph_data, **vector_data)
     return resp
 
 
@@ -88,8 +96,11 @@ def init():
         print("Creating graph...")
         # 初始化 MemorySaver 共例
         workflow = StateGraph(State)
+        workflow.add_edge(START, "sender")
+        workflow.add_node("sender", sender_chain_v2)
         workflow.add_node("searcher", searcher_chain)
-        workflow.add_edge(START, "searcher")
+
+        workflow.add_edge("sender", "searcher")
         workflow.add_edge("searcher", END)
         checkpointer = MemorySaver()
         graph = workflow.compile(checkpointer=checkpointer)
