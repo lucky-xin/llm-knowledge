@@ -2,7 +2,6 @@ import threading
 import uuid
 
 from langchain_community.document_loaders import WikipediaLoader
-from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, AIMessageChunk
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j import GraphCypherQAChain, Neo4jGraph
@@ -16,12 +15,32 @@ from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
 from llama_index.core.vector_stores import VectorStoreQuery
 
-from adapter import LangchainDocumentAdapter
+from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
-from factory.ai_factory import create_tongyi_chat_ai
+from factory.llm import LLMFactory, LLMType
 from utils import create_index_vector_stores, create_vector_store_index, generate_full_text_query, \
     create_neo4j_graph, extract_entities, create_combine_prompt
 
+llm_factory = LLMFactory(
+    llm_type=LLMType.LLM_TYPE_QWENAI,
+)
+llm = llm_factory.create_chat_llm()
+llm_transformer = LLMGraphTransformer(llm=llm)
+vector_store = create_index_vector_stores()
+index = create_vector_store_index(vector_store)
+neo4j_graph = create_neo4j_graph()
+neo4j_graph.query(
+    "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
+)
+graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
+    llm=llm,
+    graph=neo4j_graph,
+    verbose=True,
+    validate_cypher=True,
+    use_function_response=True,
+    return_intermediate_steps=True,
+    allow_dangerous_requests=True,
+)
 
 # https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663
 # Fulltext index query
@@ -51,7 +70,26 @@ def structured_retriever(ng: Neo4jGraph, question: str) -> str:
     return result
 
 
-def add_docs(llm: BaseChatModel, ng: GraphStore):
+# # Read the wikipedia article
+def add_wiki_docs(ng: GraphStore):
+    raw_documents = WikipediaLoader(query="Elizabeth I").load()
+    # # Define chunking strategy
+    text_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=24)
+    langchain_documents = text_splitter.split_documents(raw_documents)
+
+    llam_index_document_adapter = LLamIndexDocumentAdapter()
+    llam_index_documents = llam_index_document_adapter(langchain_documents)
+
+    nodes = run_transformations(
+        nodes=llam_index_documents,
+        transformations=Settings.transformations
+    )
+    index.insert_nodes(nodes)
+    graph_documents = llm_transformer.convert_to_graph_documents(langchain_documents)
+    ng.add_graph_documents(graph_documents)
+
+
+def add_docs():
     reader = SimpleDirectoryReader("/tmp/agent")
     documents: list[Document] = reader.load_data()
     nodes = run_transformations(
@@ -59,52 +97,13 @@ def add_docs(llm: BaseChatModel, ng: GraphStore):
         transformations=Settings.transformations
     )
     langchain_document_adapter = LangchainDocumentAdapter()
-    llm_transformer = LLMGraphTransformer(llm=llm)
     graph_documents = llm_transformer.convert_to_graph_documents(langchain_document_adapter(nodes))
 
-    ng.add_graph_documents(graph_documents)
-    node_ids = [node.node_id for node in nodes]
-    exist_nodes = index.vector_store.get_nodes(node_ids=node_ids)
-    exist_ids = [node.node_id for node in exist_nodes]
-    inserts = [node for node in nodes if node.node_id not in exist_ids]
-    if len(inserts):
-        index.insert_nodes(nodes)
+    neo4j_graph.add_graph_documents(graph_documents)
+    index.insert_nodes(nodes)
 
 
-vector_store = create_index_vector_stores()
-index = create_vector_store_index(vector_store)
-llm_tongyi = create_tongyi_chat_ai()
-neo4j_graph = create_neo4j_graph()
-neo4j_graph.query(
-    "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
-)
-
-add_docs(llm_tongyi, neo4j_graph)
-
-
-def load_test_data():
-    # Read the wikipedia article
-    raw_documents = WikipediaLoader(query="Elizabeth I").load()
-    # Define chunking strategy
-    text_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=24)
-    documents = text_splitter.split_documents(raw_documents[:3])
-    llm_transformer = LLMGraphTransformer(llm=llm_tongyi)
-    graph_documents = llm_transformer.convert_to_graph_documents(documents)
-    neo4j_graph.add_graph_documents(
-        graph_documents=graph_documents,
-        baseEntityLabel=True,
-        include_source=True
-    )
-
-
-graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
-    llm=llm_tongyi,
-    graph=neo4j_graph,
-    verbose=True,
-    return_intermediate_steps=True,
-    allow_dangerous_requests=True,
-)
-
+add_docs()
 
 def graph_retriever_chain(state: State):
     messages = state.get("messages")
@@ -140,7 +139,7 @@ def sender_chain_v2(state: State):
 
 
 def searcher_chain(state: State):
-    chain = create_combine_prompt() | llm_tongyi
+    chain = create_combine_prompt() | llm
     resp = chain.invoke(state)
     return resp
 
@@ -162,18 +161,10 @@ def should_continue_v1(state: State):
 
 workflow.add_edge(START, "sender")
 workflow.add_node("sender", sender_chain_v2)
-# workflow.add_node("graph_retriever", graph_retriever_chain)
-# workflow.add_node("vector_store_retriever", vector_store_retriever_chain)
 workflow.add_node("searcher", searcher_chain)
 
 workflow.add_edge("sender", "searcher")
 workflow.add_edge("searcher", END)
-
-# workflow.add_edge(["graph_retriever", "vector_store_retriever"], "searcher")
-# workflow.add_edge("sender", "graph_retriever")
-# workflow.add_edge("sender", "vector_store_retriever")
-# workflow.add_conditional_edges("searcher", should_continue,
-#                                ["searcher", "sender", "vector_store_retriever", "graph_retriever", END])
 
 checkpointer = MemorySaver()
 graph = workflow.compile(checkpointer=checkpointer)

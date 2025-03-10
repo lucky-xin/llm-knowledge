@@ -12,10 +12,14 @@ from llama_index.core.ingestion import run_transformations
 from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LLamIndexDocumentAdapter
-from factory.ai_factory import create_tongyi_chat_ai
+from factory.llm import LLMType, LLMFactory
 from utils import create_neo4j_graph, create_index_vector_stores, create_vector_store_index
 
-llm = create_tongyi_chat_ai()
+llm_factory = LLMFactory(
+    llm_type=LLMType.LLM_TYPE_QWENAI,
+)
+llm = llm_factory.create_chat_llm()
+
 neo4j_graph = create_neo4j_graph()
 neo4j_graph.query(
     "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"

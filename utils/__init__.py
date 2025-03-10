@@ -26,7 +26,7 @@ from llama_index.vector_stores.neo4jvector import Neo4jVectorStore
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
 from entities import Entities
-from factory.ai_factory import create_llama_index_llm, create_openai_chat_ai
+from factory.llm import LLMFactory, LLMType
 from transform.transform import CleanCharTransform, IdGenTransform
 
 
@@ -81,7 +81,10 @@ def node_id_func(i: int, doc: BaseNode) -> str:
 
 def init() -> None:
     # Set Qwen2.5 as the language model and set generation config
-    Settings.llm = create_llama_index_llm()
+    llm_factory = LLMFactory(
+        llm_type=LLMType.LLM_TYPE_QWENAI,
+    )
+    Settings.llm = llm_factory.create_llama_index_llm()
     # Settings.chunk_size = 1024
     # Settings.chunk_overlap = 200
     # LlamaIndex默认使用的Embedding模型被替换为百炼的Embedding模型
@@ -119,7 +122,8 @@ def create_index_vector_stores() -> BasePydanticVectorStore:
         # Enable half precision
         use_halfvec=False,
         hybrid_search=True,
-        # index_name="llama_index_vector",  # 向量索引名称
+        node_label="LlamaIndexDocument",
+        index_name="llama_index_vector",  # 向量索引名称
         embedding_dimension=1024,  # 向量维度（需与模型匹配）
         create_engine_kwargs={}
     )
@@ -164,7 +168,10 @@ def create_agent(base_query_engine: BaseQueryEngine) -> CompiledGraph:
     ]
     llama_toolkit = LlamaToolkit(index_configs=index_configs)
     tools = llama_toolkit.get_tools()
-    return create_react_agent(create_openai_chat_ai(), tools, prompt=create_prompt())
+    llm_factory = LLMFactory(
+        llm_type=LLMType.LLM_TYPE_QWENAI,
+    )
+    return create_react_agent(llm_factory.create_chat_llm(), tools, prompt=create_prompt())
 
 
 def load_documents(uf: UploadedFile) -> Sequence[BaseNode]:
@@ -211,7 +218,10 @@ def generate_full_text_query(input: str) -> str:
 
 def extract_entities(q: str, llm: BaseChatModel = None) -> Entities:
     if not llm:
-        llm = create_openai_chat_ai()
+        llm_factory = LLMFactory(
+            llm_type=LLMType.LLM_TYPE_QWENAI,
+        )
+        llm = llm_factory.create_chat_llm()
     entity_chain = extract_entities_prompt() | llm.with_structured_output(Entities)
     entities = entity_chain.invoke({"question": q})
     return entities
