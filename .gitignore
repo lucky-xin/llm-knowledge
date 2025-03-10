@@ -10,7 +10,7 @@ target/
 !**/lombok.config
 !**/**/lombok.config
 lombok.config
-
+.data
 ### STS ###
 .apt_generated
 .classpath
