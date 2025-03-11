@@ -14,8 +14,9 @@ def create_pg_vector_store() -> BasePydanticVectorStore:
         user=os.getenv("SQL_USER"),
         port=os.getenv("SQL_PORT"),
         schema_name="llama_index_vector",
+        table_name="llamaindex",
         embed_dim=1024,  # openai embedding dimension
-        use_halfvec=True  # Enable half precision
+        use_halfvec=False  # Enable half precision
     )
     return store
 

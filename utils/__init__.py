@@ -85,7 +85,7 @@ def create_pg_connect_pool(search_path: str) -> ConnectionPool:
     connection_kwargs = {
         "autocommit": True,
         "prepare_threshold": 0,
-        "search_path": search_path
+        "current_schema": search_path
     }
     sql_user = os.getenv("SQL_USER")
     sql_pwd = os.getenv("SQL_PWD")
@@ -99,6 +99,11 @@ def create_pg_connect_pool(search_path: str) -> ConnectionPool:
         kwargs=connection_kwargs
     )
 
+
+def db_init():
+    connect_pool = create_pg_connect_pool("llama_index_vector")
+    connection = connect_pool.getconn()
+    connection.execute("create extension if not exists vector;")
 
 
 def init() -> None:
@@ -130,6 +135,8 @@ def init() -> None:
         sentence_splitter_parse,
         IdGenTransform()
     ]
+
+    db_init()
 
 
 def create_query_engine(vector_store: BasePydanticVectorStore) -> BaseQueryEngine:
