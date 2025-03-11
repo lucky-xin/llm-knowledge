@@ -7,12 +7,11 @@ from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_core.prompts import BasePromptTemplate, ChatPromptTemplate
 from langchain_core.runnables import RunnableConfig
-from langchain_neo4j import Neo4jGraph
 from langchain_neo4j.graphs.graph_document import GraphDocument
 from langchain_neo4j.vectorstores.neo4j_vector import remove_lucene_chars
 from langgraph.graph.graph import CompiledGraph
 from langgraph.prebuilt import create_react_agent
-from llama_index.core import VectorStoreIndex, StorageContext, Settings, SimpleDirectoryReader
+from llama_index.core import VectorStoreIndex, Settings, SimpleDirectoryReader
 from llama_index.core.base.base_query_engine import BaseQueryEngine
 from llama_index.core.extractors import KeywordExtractor
 from llama_index.core.indices.query.query_transform import HyDEQueryTransform
@@ -22,7 +21,9 @@ from llama_index.core.query_engine import TransformQueryEngine
 from llama_index.core.schema import BaseNode, Document
 from llama_index.core.vector_stores.types import BasePydanticVectorStore
 from llama_index.embeddings.dashscope import DashScopeTextEmbeddingModels, DashScopeEmbedding
-from llama_index.vector_stores.neo4jvector import Neo4jVectorStore
+from psycopg import Connection
+from psycopg2.extras import DictRow
+from psycopg_pool import ConnectionPool
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
 from entities import Entities
@@ -79,7 +80,31 @@ def node_id_func(i: int, doc: BaseNode) -> str:
     return f"{doc.node_id}-{i}"
 
 
+def create_pg_connect_pool(search_path: str) -> ConnectionPool:
+    # 如果缓存中不存在，则创建新的历史记录并缓存
+    connection_kwargs = {
+        "autocommit": True,
+        "prepare_threshold": 0,
+        "search_path": search_path
+    }
+    sql_user = os.getenv("SQL_USER")
+    sql_pwd = os.getenv("SQL_PWD")
+    sql_host = os.getenv("SQL_HOST")
+    sql_port = os.getenv("SQL_PORT")
+    sql_db = os.getenv("SQL_DB")
+    connection_string = f"postgresql://{sql_user}:{sql_pwd}@{sql_host}:{sql_port}/{sql_db}?sslmode=disable"
+    return ConnectionPool[Connection[DictRow]](
+        conninfo=connection_string,
+        max_size=10,
+        kwargs=connection_kwargs
+    )
+
 def init() -> None:
+    os.environ['SQL_HOST'] = 'localhost'
+    os.environ['SQL_USER'] = 'temp_test_user'
+    os.environ['SQL_PWD'] = 'test_userpassword'
+    os.environ['SQL_DB'] = 'llm_knowledge'
+    os.environ['SQL_PORT'] = '5432'
     # Set Qwen2.5 as the language model and set generation config
     llm_factory = LLMFactory(
         llm_type=LLMType.LLM_TYPE_QWENAI,
@@ -103,46 +128,6 @@ def init() -> None:
         sentence_splitter_parse,
         IdGenTransform()
     ]
-
-
-def create_neo4j_graph() -> Neo4jGraph:
-    return Neo4jGraph(
-        url="bolt://localhost:7687",
-        username="neo4j",
-        password="neo4j5025",
-        enhanced_schema=True,
-    )
-
-
-def create_index_vector_stores() -> BasePydanticVectorStore:
-    return Neo4jVectorStore(
-        url="bolt://localhost:7687",
-        username="neo4j",
-        password="neo4j5025",
-        # Enable half precision
-        use_halfvec=False,
-        hybrid_search=True,
-        node_label="LlamaIndexDocument",
-        index_name="llama_index_vector",  # 向量索引名称
-        embedding_dimension=1024,  # 向量维度（需与模型匹配）
-        create_engine_kwargs={}
-    )
-
-
-def create_vector_store_index(vector_store: BasePydanticVectorStore) -> VectorStoreIndex:
-    storage_context = StorageContext.from_defaults(
-        vector_store=vector_store
-    )
-    index = VectorStoreIndex(
-        nodes=[],
-        storage_context=storage_context,
-        vector_store=vector_store,
-        embed_model=Settings.embed_model,
-        store_nodes_override=True,
-        transformations=Settings.transformations,
-        insert_batch_size=10
-    )
-    return index
 
 
 def create_query_engine(vector_store: BasePydanticVectorStore) -> BaseQueryEngine:

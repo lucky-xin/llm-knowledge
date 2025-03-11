@@ -1,31 +1,30 @@
-from typing import Optional, List, Dict
+from typing import Optional, List, Sequence
 
 from langchain_community.document_loaders import WikipediaLoader
 from langchain_core.documents import Document
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j import GraphCypherQAChain
-from langchain_neo4j.graphs.graph_store import GraphStore
 from langchain_text_splitters import TokenTextSplitter
 from llama_index.core import Settings
 from llama_index.core.ingestion import run_transformations
+from llama_index.core.schema import BaseNode
 from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LLamIndexDocumentAdapter
+from factory.age_graph import create_age_graph
 from factory.llm import LLMType, LLMFactory
-from utils import create_neo4j_graph, create_index_vector_stores, create_vector_store_index
+from factory.store_index import create_vector_store_index
+from factory.vector_store import create_pg_vector_store
 
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
 )
 llm = llm_factory.create_chat_llm()
 
-neo4j_graph = create_neo4j_graph()
-neo4j_graph.query(
-    "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
-)
+age_graph = create_age_graph()
 llm_transformer = LLMGraphTransformer(llm=llm)
-vector_store = create_index_vector_stores()
+vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
 base_query_engine = index.as_query_engine(llm=llm)
 
@@ -34,32 +33,27 @@ def fetch(doc: Document, config: Optional[RunnableConfig] = None):
     return llm_transformer.process_response(doc, config)
 
 
-def batch_query_by_ids(ids: List[str]) -> Dict[str, Dict]:
-    """批量查询节点数据，返回 {id: 数据} 的映射"""
-    cypher_query = """
-    MATCH (n)
-    WHERE n.id IN $ids
-    RETURN n.id AS id, n.text AS text, n.embedding AS embedding, n.metadata AS metadata
-    """
-
+def batch_query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
+    """批量查询节点数据，返回 Node列表"""
     # 返回原始字典格式
     try:
-        results = vector_store.query(
+        result = vector_store.query(
             VectorStoreQuery(
                 node_ids=ids,
-                query_str=cypher_query,
+                query_embedding=[],
+                similarity_top_k=3,
+                embedding_field="embedding",
+                query_str="",
             )
         )
-
-        # 转换为 {id: data} 的映射结构
-        return {item["id"]: item for item in results}
+        return result.nodes
     except Exception as e:
         print(f"批量查询失败: {e}")
-        return {}
+        return []
 
 
 # # Read the wikipedia article
-def add_docs(ng: GraphStore):
+def add_docs():
     raw_documents = WikipediaLoader(query="Elizabeth I").load()
     # # Define chunking strategy
     text_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=24)
@@ -87,14 +81,14 @@ def add_docs(ng: GraphStore):
 
 chain = GraphCypherQAChain.from_llm(
     llm=llm,
-    graph=neo4j_graph,
+    graph=age_graph,
     verbose=True,
     validate_cypher=True,
     return_intermediate_steps=True,
     allow_dangerous_requests=True,
 )
 
-add_docs(neo4j_graph)
+add_docs()
 
 question = "Which house did Elizabeth I belong to?"
 embedding = Settings.embed_model.get_text_embedding(question)

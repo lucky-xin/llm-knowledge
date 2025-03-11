@@ -17,24 +17,23 @@ from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
+from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
-from utils import create_index_vector_stores, create_vector_store_index, generate_full_text_query, \
-    create_neo4j_graph, extract_entities, create_combine_prompt
+from factory.store_index import create_vector_store_index
+from factory.vector_store import create_pg_vector_store
+from utils import generate_full_text_query, extract_entities, create_combine_prompt
 
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
 )
 llm = llm_factory.create_chat_llm()
 llm_transformer = LLMGraphTransformer(llm=llm)
-vector_store = create_index_vector_stores()
+vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
-neo4j_graph = create_neo4j_graph()
-neo4j_graph.query(
-    "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
-)
+age_graph = create_age_graph()
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
-    graph=neo4j_graph,
+    graph=age_graph,
     verbose=True,
     validate_cypher=True,
     use_function_response=True,
@@ -99,7 +98,7 @@ def add_docs():
     langchain_document_adapter = LangchainDocumentAdapter()
     graph_documents = llm_transformer.convert_to_graph_documents(langchain_document_adapter(nodes))
 
-    neo4j_graph.add_graph_documents(graph_documents)
+    age_graph.add_graph_documents(graph_documents)
     index.insert_nodes(nodes)
 
 

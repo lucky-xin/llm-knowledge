@@ -23,10 +23,12 @@ from callback.streamlit_callback_utils import get_streamlit_cb
 torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)]
 
 from entities import State
+from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
+from factory.store_index import create_vector_store_index
+from factory.vector_store import create_pg_vector_store
 
-from utils import create_index_vector_stores, create_vector_store_index, load_documents, create_neo4j_graph, \
-    convert_to_graph_documents, create_combine_prompt
+from utils import load_documents, convert_to_graph_documents, create_combine_prompt
 
 
 # clear the chat history from streamlit session state
@@ -78,6 +80,7 @@ def fetch(doc: Document, c: Optional[RunnableConfig] = None):
     return st.session_state.llm_transformer.process_response(doc, c)
 
 
+
 def init():
     if "llm_tongyi" not in st.session_state:
         llm_factory = LLMFactory(
@@ -85,12 +88,12 @@ def init():
         )
         st.session_state.llm_tongyi = llm_factory.create_chat_llm()
     if "index" not in st.session_state:
-        vector_store = create_index_vector_stores()
+        vector_store = create_pg_vector_store()
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
     if "messages" not in st.session_state:
         st.session_state.messages = []
     if "neo4j_graph" not in st.session_state:
-        neo4j_graph = create_neo4j_graph()
+        neo4j_graph = create_age_graph()
         neo4j_graph.query(
             "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
         )

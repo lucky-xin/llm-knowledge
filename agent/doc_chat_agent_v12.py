@@ -1,6 +1,6 @@
 import threading
 import uuid
-from typing import Optional
+from typing import Optional, List, Sequence
 
 from langchain_community.document_loaders import WikipediaLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
@@ -13,12 +13,16 @@ from langgraph.constants import END, START
 from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
-from llama_index.core.vector_stores import VectorStoreQuery
+from llama_index.core.schema import BaseNode
+from llama_index.core.vector_stores import VectorStoreQuery, MetadataFilter, FilterOperator, MetadataFilters
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
+from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
-from utils import create_index_vector_stores, create_vector_store_index, create_neo4j_graph, create_combine_prompt, \
+from factory.store_index import create_vector_store_index
+from factory.vector_store import create_pg_vector_store
+from utils import  create_combine_prompt, \
     convert_to_graph_documents
 
 llm_factory = LLMFactory(
@@ -26,15 +30,12 @@ llm_factory = LLMFactory(
 )
 llm = llm_factory.create_chat_llm()
 llm_transformer = LLMGraphTransformer(llm=llm)
-vector_store = create_index_vector_stores()
+vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
-neo4j_graph = create_neo4j_graph()
-neo4j_graph.query(
-    "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
-)
+age_graph = create_age_graph()
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
-    graph=neo4j_graph,
+    graph=age_graph,
     verbose=True,
     validate_cypher=True,
     use_function_response=True,
@@ -45,6 +46,33 @@ graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
 
 def fetch(doc: Document, c: Optional[RunnableConfig] = None):
     return llm_transformer.process_response(doc, c)
+
+
+def query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
+    """批量查询节点数据，返回 Node列表"""
+    # 返回原始字典格式
+    try:
+        result = vector_store.query(
+            VectorStoreQuery(
+                node_ids=ids,
+                query_embedding=[],
+                similarity_top_k=3,
+                embedding_field="embedding",
+                filters=MetadataFilters(
+                    filters=[
+                        MetadataFilter(
+                            key="id",
+                            value=ids,
+                            operator=FilterOperator.IN
+                        ),
+                    ]
+                ),
+            )
+        )
+        return result.nodes
+    except Exception as e:
+        print(f"批量查询失败: {e}")
+        return []
 
 
 # # Read the wikipedia article
@@ -63,7 +91,7 @@ def add_wiki_docs():
     )
     index.insert_nodes(nodes)
     graph_documents = convert_to_graph_documents(langchain_documents, fetch)
-    neo4j_graph.add_graph_documents(graph_documents)
+    age_graph.add_graph_documents(graph_documents)
 
 
 def add_docs():
@@ -75,7 +103,7 @@ def add_docs():
     )
     langchain_document_adapter = LangchainDocumentAdapter()
     graph_documents = convert_to_graph_documents(langchain_document_adapter(nodes), fetch)
-    neo4j_graph.add_graph_documents(graph_documents)
+    age_graph.add_graph_documents(graph_documents)
     index.insert_nodes(nodes)
 
 

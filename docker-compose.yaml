@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   postgres-db:
-    image: postgres:17.4-alpine
+    image: postgres:16.4-alpine
     restart: always
     environment:
       POSTGRES_DB: postgres
@@ -10,6 +10,7 @@ services:
       PGDATA: /var/lib/postgresql/data
     volumes:
       - ./data/postgres:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d/
     ports:
       - "5432:5432"
 
@@ -28,4 +29,17 @@ services:
     ports:
       - "7474:7474"
       - "7687:7687"
+
+  age-graph:
+    image: apache/age
+    container_name: age-graph
     restart: always
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: temp_test_user
+      POSTGRES_PASSWORD: test_userpassword
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - ./data/age-graph:/var/lib/postgresql/data
+    ports:
+      - "5432:5455"
