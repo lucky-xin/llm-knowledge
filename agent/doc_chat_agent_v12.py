@@ -18,13 +18,11 @@ from llama_index.core.vector_stores import VectorStoreQuery, MetadataFilter, Fil
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
-from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_pg_vector_store
-from utils import create_combine_prompt, \
-    convert_to_graph_documents
+from utils import create_combine_prompt, convert_to_graph_documents
 
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
