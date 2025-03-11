@@ -11,3 +11,13 @@ psycopg_pool==3.2.6
 pydantic==2.10.6
 streamlit==1.43.0
 torch==2.6.0
+
+langchain-core~=0.3.43
+langchain-experimental~=0.3.4
+llama-index-core~=0.12.23.post2
+langchain-community~=0.3.19
+langchain-text-splitters~=0.3.6
+langchain~=0.3.20
+psycopg2-binary~=2.9.10
+psycopg-pool~=3.2.6
+langchain-openai~=0.3.8

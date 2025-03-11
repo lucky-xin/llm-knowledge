@@ -6,9 +6,7 @@ from langchain_community.document_loaders import WikipediaLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
-from langchain_neo4j import GraphCypherQAChain
 from langchain_text_splitters import TokenTextSplitter
-from langgraph.checkpoint.memory import MemorySaver
 from langgraph.constants import END, START
 from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
@@ -18,10 +16,13 @@ from llama_index.core.vector_stores import VectorStoreQuery, MetadataFilter, Fil
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
+from factory.checkpointer import create_checkpointer
 from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
+from factory.store import create_store
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_pg_vector_store
+from graph.cypher import GraphCypherQAChain
 from utils import create_combine_prompt, convert_to_graph_documents
 
 llm_factory = LLMFactory(
@@ -106,7 +107,7 @@ def add_docs():
     index.insert_nodes(nodes)
 
 
-add_wiki_docs()
+# add_wiki_docs()
 add_docs()
 
 
@@ -193,8 +194,8 @@ workflow.add_edge("sender", "searcher")
 workflow.add_edge("searcher", END)
 
 workflow.add_conditional_edges("sender", should_continue_v2)
-checkpointer = MemorySaver()
-graph = workflow.compile(checkpointer=checkpointer)
+
+graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
 run_id = str(uuid.uuid4())
 
 config = {

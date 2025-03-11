@@ -7,7 +7,7 @@ from llama_index.vector_stores.postgres import PGVectorStore
 
 def create_pg_vector_store() -> BasePydanticVectorStore:
     # Create PGVectorStore instance
-    return PGVectorStore.from_params(
+    store = PGVectorStore.from_params(
         database=os.getenv("SQL_DB"),
         host=os.getenv("SQL_HOST"),
         password=os.getenv("SQL_PWD"),
@@ -17,6 +17,7 @@ def create_pg_vector_store() -> BasePydanticVectorStore:
         embed_dim=1024,  # openai embedding dimension
         use_halfvec=True  # Enable half precision
     )
+    return store
 
 def create_index_vector_stores() -> BasePydanticVectorStore:
     return Neo4jVectorStore(
