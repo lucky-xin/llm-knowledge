@@ -84,8 +84,7 @@ def create_pg_connect_pool(search_path: str) -> ConnectionPool:
     # 如果缓存中不存在，则创建新的历史记录并缓存
     connection_kwargs = {
         "autocommit": True,
-        "prepare_threshold": 0,
-        "current_schema": search_path
+        "prepare_threshold": 0
     }
     sql_user = os.getenv("SQL_USER")
     sql_pwd = os.getenv("SQL_PWD")
