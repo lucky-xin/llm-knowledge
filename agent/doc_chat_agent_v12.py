@@ -2,11 +2,11 @@ import threading
 import uuid
 from typing import Optional, List, Sequence
 
-from langchain_community.document_loaders import WikipediaLoader
+from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
-from langchain_text_splitters import TokenTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langgraph.constants import END, START
 from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
@@ -77,10 +77,13 @@ def query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
 
 # # Read the wikipedia article
 def add_wiki_docs():
-    raw_documents = WikipediaLoader(query="Elizabeth I").load()
+    loader = WebBaseLoader("https://zh.wikipedia.org/wiki/%E7%8C%AB")
+    raw_documents = loader.load()
     # # Define chunking strategy
-    text_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=24)
-    langchain_documents = text_splitter.split_documents(raw_documents)
+    langchain_documents = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200
+    ).split_documents(raw_documents)
 
     llam_index_document_adapter = LLamIndexDocumentAdapter()
     llam_index_documents = llam_index_document_adapter(langchain_documents)
@@ -107,8 +110,10 @@ def add_docs():
     index.insert_nodes(nodes)
 
 
-# add_wiki_docs()
-add_docs()
+add_wiki_docs()
+
+
+# add_docs()
 
 
 def graph_retriever_chain(state: State):
