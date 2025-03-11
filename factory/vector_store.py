@@ -20,14 +20,15 @@ def create_pg_vector_store() -> BasePydanticVectorStore:
     )
     return store
 
-def create_index_vector_stores() -> BasePydanticVectorStore:
+
+def create_neo4j_vector_store() -> BasePydanticVectorStore:
     return Neo4jVectorStore(
         url="bolt://localhost:7687",
         username="neo4j",
         password="neo4j5025",
         # Enable half precision
         use_halfvec=False,
-        hybrid_search=False,
+        hybrid_search=True,
         # database="llama_index_vector",
         node_label="Chunk",
         index_name="vector",  # 向量索引名称

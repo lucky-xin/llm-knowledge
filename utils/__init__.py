@@ -80,7 +80,7 @@ def node_id_func(i: int, doc: BaseNode) -> str:
     return f"{doc.node_id}-{i}"
 
 
-def create_pg_connect_pool(search_path: str) -> ConnectionPool:
+def create_pg_connect_pool(db_name: str) -> ConnectionPool:
     # 如果缓存中不存在，则创建新的历史记录并缓存
     connection_kwargs = {
         "autocommit": True,
@@ -90,13 +90,18 @@ def create_pg_connect_pool(search_path: str) -> ConnectionPool:
     sql_pwd = os.getenv("SQL_PWD")
     sql_host = os.getenv("SQL_HOST")
     sql_port = os.getenv("SQL_PORT")
-    sql_db = os.getenv("SQL_DB")
+    sql_db = db_name if db_name else os.getenv("SQL_DB")
     connection_string = f"postgresql://{sql_user}:{sql_pwd}@{sql_host}:{sql_port}/{sql_db}?sslmode=disable"
-    return ConnectionPool[Connection[DictRow]](
+    pool = ConnectionPool[Connection[DictRow]](
         conninfo=connection_string,
         max_size=10,
         kwargs=connection_kwargs
     )
+    # with pool.getconn() as conn:
+    #     conn.execute(f"create database if not exists {db_name};")
+    #     conn.commit()
+    #     conn.close()
+    return pool
 
 
 def db_init():

@@ -31,6 +31,7 @@ llm_transformer = LLMGraphTransformer(llm=llm)
 vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
 age_graph = create_neo4j_graph()
+
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
     graph=age_graph,
