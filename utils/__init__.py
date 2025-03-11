@@ -99,6 +99,8 @@ def create_pg_connect_pool(search_path: str) -> ConnectionPool:
         kwargs=connection_kwargs
     )
 
+
+
 def init() -> None:
     os.environ['SQL_HOST'] = 'localhost'
     os.environ['SQL_USER'] = 'temp_test_user'

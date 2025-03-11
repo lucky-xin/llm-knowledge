@@ -17,8 +17,8 @@ from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
-from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
+from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_pg_vector_store
 from utils import generate_full_text_query, extract_entities, create_combine_prompt
@@ -30,7 +30,7 @@ llm = llm_factory.create_chat_llm()
 llm_transformer = LLMGraphTransformer(llm=llm)
 vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
-age_graph = create_age_graph()
+age_graph = create_neo4j_graph()
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
     graph=age_graph,

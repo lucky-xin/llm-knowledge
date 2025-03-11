@@ -2,6 +2,7 @@ version: "3.8"
 services:
   postgres-db:
     image: postgres:16.4-alpine
+    container_name: postgres-db
     restart: always
     environment:
       POSTGRES_DB: postgres
@@ -42,4 +43,4 @@ services:
     volumes:
       - ./data/age-graph:/var/lib/postgresql/data
     ports:
-      - "5432:5455"
+      - "5455:5432"

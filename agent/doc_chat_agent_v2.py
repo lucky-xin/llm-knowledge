@@ -23,8 +23,8 @@ from callback.streamlit_callback_utils import get_streamlit_cb
 torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)]
 
 from entities import State
-from factory.age_graph import create_age_graph
 from factory.llm import LLMFactory, LLMType
+from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_pg_vector_store
 
@@ -93,7 +93,7 @@ def init():
     if "messages" not in st.session_state:
         st.session_state.messages = []
     if "neo4j_graph" not in st.session_state:
-        neo4j_graph = create_age_graph()
+        neo4j_graph = create_neo4j_graph()
         neo4j_graph.query(
             "CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]"
         )

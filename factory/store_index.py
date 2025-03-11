@@ -1,5 +1,5 @@
 from llama_index.core import StorageContext, VectorStoreIndex, Settings, PropertyGraphIndex
-from llama_index.core.data_structs import IndexDict, IndexLPG
+from llama_index.core.data_structs import IndexLPG
 from llama_index.core.indices.base import BaseIndex
 from llama_index.core.indices.property_graph import DynamicLLMPathExtractor
 from llama_index.core.vector_stores.types import BasePydanticVectorStore

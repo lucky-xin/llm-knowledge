@@ -9,10 +9,9 @@ def create_age_graph() -> GraphStore:
         graph_name="llama_index_graph",
         conf={
             "host": os.getenv("SQL_HOST"),
-            "port": os.getenv("SQL_PORT"),
-            "database": os.getenv("SQL_DB"),
+            "port": "5455",
+            "database": "postgres",
             "user": os.getenv("SQL_USER"),
-            "password": os.getenv("SQL_PWD"),
-            "options": "-c search_path=llama_index_graph"
+            "password": os.getenv("SQL_PWD")
         }
     )

@@ -12,8 +12,8 @@ from llama_index.core.schema import BaseNode
 from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LLamIndexDocumentAdapter
-from factory.age_graph import create_age_graph
 from factory.llm import LLMType, LLMFactory
+from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_pg_vector_store
 
@@ -22,7 +22,7 @@ llm_factory = LLMFactory(
 )
 llm = llm_factory.create_chat_llm()
 
-age_graph = create_age_graph()
+age_graph = create_neo4j_graph()
 llm_transformer = LLMGraphTransformer(llm=llm)
 vector_store = create_pg_vector_store()
 index = create_vector_store_index(vector_store)
