@@ -1,6 +1,6 @@
 import threading
 import uuid
-from typing import Optional, List, Sequence
+from typing import Optional
 
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
@@ -12,8 +12,7 @@ from langgraph.constants import END, START
 from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
-from llama_index.core.schema import BaseNode
-from llama_index.core.vector_stores import VectorStoreQuery, MetadataFilter, FilterOperator, MetadataFilters
+from llama_index.core.vector_stores import VectorStoreQuery
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
@@ -46,34 +45,6 @@ graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
 
 def fetch(doc: Document, c: Optional[RunnableConfig] = None):
     return llm_transformer.process_response(doc, c)
-
-
-def query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
-    """批量查询节点数据，返回 Node列表"""
-    # 返回原始字典格式
-    try:
-        result = vector_store.query(
-            VectorStoreQuery(
-                node_ids=ids,
-                query_embedding=[],
-                similarity_top_k=3,
-                embedding_field="embedding",
-                filters=MetadataFilters(
-                    filters=[
-                        MetadataFilter(
-                            key="id",
-                            value=ids,
-                            operator=FilterOperator.IN
-                        ),
-                    ]
-                ),
-            )
-        )
-        return result.nodes
-    except Exception as e:
-        print(f"批量查询失败: {e}")
-        return []
-
 
 # # Read the wikipedia article
 def add_wiki_docs():

@@ -24,7 +24,7 @@ class LLMFactory:
     llm_type: LLMType = LLMType.LLM_TYPE_QWENAI
     api_base: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
     api_key: str = os.getenv("DASHSCOPE_API_KEY")
-    model: str = "qwen-turbo-latest"
+    model: str = "qwq-plus-latest"
     temperature: float = 0.51
 
     def create_chat_llm(self) -> BaseChatModel:
