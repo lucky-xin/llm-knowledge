@@ -80,7 +80,7 @@ def node_id_func(i: int, doc: BaseNode) -> str:
     return f"{doc.node_id}-{i}"
 
 
-def create_pg_connect_pool(db_name: str) -> ConnectionPool:
+def create_pg_connect_pool(db_name: str = None) -> ConnectionPool:
     # 如果缓存中不存在，则创建新的历史记录并缓存
     connection_kwargs = {
         "autocommit": True,
@@ -97,17 +97,24 @@ def create_pg_connect_pool(db_name: str) -> ConnectionPool:
         max_size=10,
         kwargs=connection_kwargs
     )
-    # with pool.getconn() as conn:
-    #     conn.execute(f"create database if not exists {db_name};")
-    #     conn.commit()
-    #     conn.close()
     return pool
 
 
 def db_init():
-    connect_pool = create_pg_connect_pool("llama_index_vector")
+    connect_pool = create_pg_connect_pool()
     connection = connect_pool.getconn()
+    db_names = ["llm_knowledge", "llama_index_vector", "langgraph_store", "langgraph_checkpointer"]
+    cursor = connection.execute("SELECT datname FROM pg_database;")
+    exists = [row[0] for row in cursor]
+    creates = [db_name for db_name in db_names if db_name not in exists]
+    for db_name in creates:
+        connection.execute(f"create database {db_name};")
     connection.execute("create extension if not exists vector;")
+    connection.commit()
+    connection.close()
+
+
+
 
 
 def init() -> None:

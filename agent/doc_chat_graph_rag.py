@@ -77,7 +77,8 @@ def query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
 
 # # Read the wikipedia article
 def add_wiki_docs():
-    loader = WebBaseLoader("https://zh.wikipedia.org/wiki/%E7%8C%AB")
+    loader = WebBaseLoader(
+        "https://zh.wikipedia.org/wiki/%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7")
     raw_documents = loader.load()
     # # Define chunking strategy
     langchain_documents = RecursiveCharacterTextSplitter(
@@ -110,7 +111,7 @@ def add_docs():
     index.insert_nodes(nodes)
 
 
-# add_wiki_docs()
+add_wiki_docs()
 # add_docs()
 
 
@@ -154,22 +155,6 @@ def searcher_chain(state: State):
     chain = create_combine_prompt() | llm
     resp = chain.invoke(state)
     return {"messages": [resp]}
-
-
-def should_continue_v1(state: State):
-    vector_data = state.get("vector_data")
-    graph_data = state.get("graph_data")
-    answer = state.get("answer")
-    if answer:
-        return END
-    if vector_data and graph_data:
-        return "searcher"
-    if not vector_data and graph_data:
-        return "vector_store_retriever"
-    if not graph_data and vector_data:
-        return "graph_retriever"
-    return "sender"
-
 
 def should_continue_v2(state: State):
     messages = state.get("messages")
