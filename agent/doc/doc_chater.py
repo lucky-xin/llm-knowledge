@@ -1,9 +1,10 @@
+import json
 import threading
 import uuid
 from typing import Optional
 
 from langchain_community.document_loaders import WebBaseLoader
-from langchain_core.messages import HumanMessage, AIMessageChunk
+from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j import GraphCypherQAChain
@@ -19,7 +20,6 @@ from entities import State
 from factory.checkpointer import create_checkpointer
 from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
-from factory.store import create_store
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_neo4j_vector_store
 from utils import create_combine_prompt, convert_to_graph_documents
@@ -37,9 +37,11 @@ graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     graph=neo4j_graph,
     verbose=True,
     validate_cypher=True,
+    return_direct=False,
     use_function_response=True,
     return_intermediate_steps=True,
     allow_dangerous_requests=True,
+    top_k=10,
 )
 
 
@@ -82,7 +84,7 @@ def add_docs():
     index.insert_nodes(nodes)
 
 
-add_wiki_docs()
+# add_wiki_docs()
 # add_docs()
 
 
@@ -91,7 +93,13 @@ def graph_retriever_chain(state: State):
     question = messages[-1].content
     resp = graph_cypher_qa_chain.invoke({"query": question})
     graph_data = resp.get("result")
-    return {"graph_data": graph_data, "question": question}
+    steps = resp.get("intermediate_steps", [])
+    cypher = steps[0].get("query", '') if steps else ''
+    return {
+        "graph_data": json.dumps(graph_data, indent=2, ensure_ascii=False),
+        "question": question,
+        "cypher": cypher
+    }
 
 
 def vector_store_retriever_chain(state: State):
@@ -154,7 +162,8 @@ workflow.add_edge("searcher", END)
 
 workflow.add_conditional_edges("sender", should_continue_v2)
 
-graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
+# graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
+graph = workflow.compile(checkpointer=create_checkpointer())
 run_id = str(uuid.uuid4())
 
 config = {
@@ -171,11 +180,11 @@ while True:
         stream = graph.stream(
             input={"messages": [HumanMessage(content=q)]},
             config=config,
-            stream_mode="messages"
+            stream_mode="values"
         )
         collected_messages = ""
         for chunks in stream:
-            for chunk in chunks:
-                if isinstance(chunk, AIMessageChunk) and chunk.content:
-                    collected_messages += chunk.content
-                    print(collected_messages + "▌")
+            messages = chunks.get("messages")
+            if messages and isinstance(messages[-1], AIMessage) and messages[-1].content:
+                collected_messages += messages[-1].content
+                print(collected_messages + "▌")
