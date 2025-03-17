@@ -4,7 +4,7 @@ import uuid
 from typing import Optional
 
 from langchain_community.document_loaders import WebBaseLoader
-from langchain_core.messages import HumanMessage, AIMessage
+from langchain_core.messages import HumanMessage, AIMessageChunk
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j import GraphCypherQAChain
@@ -177,14 +177,14 @@ config = {
 while True:
     q = input("请问我任何关于文章的问题")
     if q:
+        collected_messages = ""
         stream = graph.stream(
             input={"messages": [HumanMessage(content=q)]},
             config=config,
-            stream_mode="values"
+            stream_mode="messages"
         )
-        collected_messages = ""
         for chunks in stream:
-            messages = chunks.get("messages")
-            if messages and isinstance(messages[-1], AIMessage) and messages[-1].content:
-                collected_messages += messages[-1].content
-                print(collected_messages + "▌")
+            for chunk in chunks:
+                if isinstance(chunk, AIMessageChunk) and chunk.content:
+                    collected_messages += chunk.content
+            print(collected_messages)

@@ -47,11 +47,11 @@ def create_prompt() -> BasePromptTemplate:
 def create_combine_prompt() -> BasePromptTemplate:
     # 指令模板
     instructions = """你是一个设计用于査询文档来回答问题的代理。
-    你只能基于以下内容回答用户问题：
-    向量数据库召回文档：{vector_data}
-    图数据库召回文档：{graph_data}
+    你只能综合以下文档回答用户问题：
+    文档1：{vector_data}
+    文档2：{graph_data}
     
-    如果所有的工具都不能找到答案，则只需返回“抱歉，这个问题我还不知道。”作为答案。
+    如果根据以上文档不能回答用户问题，则只需返回“抱歉，这个问题我还不知道。”作为答案。
     """
     return ChatPromptTemplate.from_messages(
         [
