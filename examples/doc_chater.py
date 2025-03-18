@@ -1,7 +1,7 @@
 import json
 import threading
 import uuid
-from typing import Optional, Dict, Any, List
+from typing import Optional
 
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
@@ -15,7 +15,6 @@ from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
 from llama_index.core.vector_stores import VectorStoreQuery
-from pyvis.network import Network
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
@@ -23,7 +22,7 @@ from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
 from factory.vector_store import create_neo4j_vector_store
-from utils import create_combine_prompt, convert_to_graph_documents
+from utils import create_combine_prompt, convert_to_graph_documents, generate_visualization
 
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
@@ -46,8 +45,11 @@ graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     return_intermediate_steps=True,
     graph=neo4j_graph,
 )
-def fetch(doc: Document, c: Optional[RunnableConfig] = None):
+
+
+def fetch(llm_transformer, doc: Document, c: Optional[RunnableConfig] = None):
     return llm_transformer.process_response(doc, c)
+
 
 # # Read the wikipedia article
 def add_wiki_docs():
@@ -68,7 +70,7 @@ def add_wiki_docs():
         transformations=Settings.transformations
     )
     index.insert_nodes(nodes)
-    graph_documents = convert_to_graph_documents(langchain_documents, fetch)
+    graph_documents = convert_to_graph_documents(llm_transformer, langchain_documents, fetch)
     neo4j_graph.add_graph_documents(graph_documents)
 
 
@@ -80,7 +82,7 @@ def add_docs():
         transformations=Settings.transformations
     )
     langchain_document_adapter = LangchainDocumentAdapter()
-    graph_documents = convert_to_graph_documents(langchain_document_adapter(nodes), fetch)
+    graph_documents = convert_to_graph_documents(llm_transformer,langchain_document_adapter(nodes), fetch)
     neo4j_graph.add_graph_documents(graph_documents)
     index.insert_nodes(nodes)
 
@@ -155,43 +157,6 @@ def should_continue(state: State):
     return "sender"
 
 
-# 可视化生成函数
-def generate_visualization(data: List[Dict[str, Any]]):
-    net = Network(
-        height="800px",
-        width="100%",
-        bgcolor="#1E1E1E",
-        font_color="white",
-        directed=True
-    )
-
-    # 设置布局参数
-    net.barnes_hut()
-
-    for datum in data:
-        # 添加节点和边
-        for node in datum["nodes"]:
-            net.add_node(
-                n_id=node["id"],
-                label=node["label"],
-                title=json.dumps(node["properties"], indent=2),
-                color="#4CAF50" if node["type"] == "Person" else "#2196F3",
-                shape="dot" if node["type"] == "Entity" else "diamond"
-            )
-
-        for edge in datum["edges"]:
-            net.add_edge(
-                source=edge["source"],
-                to=edge["target"],
-                label=edge["type"],
-                color="#FF9800",
-                width=2
-            )
-
-    # 生成HTML文件
-    net.save_graph("temp.html")
-    return open("temp.html", "r", encoding="utf-8").read()
-
 workflow.add_edge(START, "sender")
 workflow.add_node("sender", sender_chain)
 workflow.add_node("searcher", searcher_chain)
@@ -200,8 +165,6 @@ workflow.add_edge("sender", "searcher")
 workflow.add_edge("searcher", END)
 
 workflow.add_conditional_edges("sender", should_continue)
-
-
 
 # graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
 graph = workflow.compile(checkpointer=InMemorySaver())
@@ -215,11 +178,63 @@ config = {
     },
     # "callbacks": [st_cb]
 }
-cypher = "MATCH (p:Person{id:\"哪吒\"})-[r]-(c) RETURN p, r, c"
-values = neo4j_graph.query(cypher)
-html = generate_visualization(values)
-print(html)
 
+
+def create_html():
+    cypher = """
+    MATCH (n:Person)
+    OPTIONAL MATCH (n)-[r]->(m)
+    RETURN 
+      id(n) AS n_id,
+      labels(n) AS n_labels,
+      properties(n) AS n_properties,
+      id(m) AS m_id,
+      labels(m) AS m_labels,
+      properties(m) AS m_properties,
+      TYPE(r) AS r_type,
+      properties(r) AS r_properties
+    """
+    values = neo4j_graph.query(cypher)
+    nodes = []
+    edges = []
+    for record in values:
+        n_id = record.get('n_id', None)
+        n_labels = record.get('n_labels', [])
+        n_properties = record.get('n_properties', {})
+        m_id = record.get('m_id', None)
+        m_labels = record.get('m_labels', [])
+        m_properties = record.get('m_properties', {})
+        r_type = record.get('r_type', None)
+        r_properties = record.get('r_properties', [])
+
+        if n_id:
+            nodes.append({
+                "id": n_id,
+                "label": n_labels[0] if n_labels else "none",
+                "properties": n_properties
+            })
+        if m_id:
+            nodes.append({
+                "id": m_id,
+                "label": m_labels[0] if m_labels else "none",
+                "properties": m_properties
+            })
+        if r_type:
+            edges.append({
+                "source": n_id,
+                "target": m_id,
+                "type": r_type,
+                "properties": r_properties
+            })
+
+    return generate_visualization({
+        "nodes": nodes,
+        "edges": edges,
+    })
+
+
+html = create_html()
+print(html)
 while True:
     q = input("请问我任何关于文章的问题")
     if q:

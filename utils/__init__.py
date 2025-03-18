@@ -1,12 +1,14 @@
+import json
 import os
 import uuid
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
-from typing import Sequence, List, Optional, Callable
+from typing import Sequence, List, Optional, Callable, Dict, Any
 
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_core.prompts import BasePromptTemplate, ChatPromptTemplate
 from langchain_core.runnables import RunnableConfig
+from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j.graphs.graph_document import GraphDocument
 from langchain_neo4j.vectorstores.neo4j_vector import remove_lucene_chars
 from langgraph.graph.graph import CompiledGraph
@@ -24,6 +26,7 @@ from llama_index.embeddings.dashscope import DashScopeTextEmbeddingModels, DashS
 from psycopg import Connection
 from psycopg2.extras import DictRow
 from psycopg_pool import ConnectionPool
+from pyvis.network import Network
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
 from entities import Entities
@@ -115,9 +118,6 @@ def db_init():
     connection.execute("create extension if not exists vector;")
     connection.commit()
     connection.close()
-
-
-
 
 
 def init() -> None:
@@ -235,8 +235,10 @@ def extract_entities(q: str, llm: BaseChatModel = None) -> Entities:
     return entities
 
 
-def convert_to_graph_documents(documents: Sequence[Document],
-                               fetch: Callable[[Document, Optional[RunnableConfig]], GraphDocument],
+def convert_to_graph_documents(transformer: LLMGraphTransformer,
+                               documents: Sequence[Document],
+                               fetch: Callable[
+                                   [LLMGraphTransformer, Document, Optional[RunnableConfig]], GraphDocument],
                                config: Optional[RunnableConfig] = None) -> List[GraphDocument]:
     """Convert a sequence of documents into graph documents.
 
@@ -251,7 +253,7 @@ def convert_to_graph_documents(documents: Sequence[Document],
     """使用线程池并发请求并合并结果"""
     with ThreadPoolExecutor(max_workers=64) as executor:
         # 提交任务到线程池
-        futures = [executor.submit(fetch, doc, config) for doc in documents]
+        futures = [executor.submit(fetch, transformer, doc, config) for doc in documents]
 
         # 按任务提交顺序收集结果
 
@@ -264,6 +266,44 @@ def convert_to_graph_documents(documents: Sequence[Document],
             except Exception as e:
                 print(f"任务异常: {e}")
     return results
+
+
+# 可视化生成函数
+def generate_visualization(data: Dict[str, Any]):
+    net = Network(
+        height="800px",
+        width="100%",
+        bgcolor="#1E1E1E",
+        font_color="white",
+        directed=True
+    )
+
+    # 设置布局参数
+    net.barnes_hut()
+
+    # 添加节点和边
+    for node in data["nodes"]:
+        properties = node["properties"]
+        net.add_node(
+            n_id=node["id"],
+            label=node["label"],
+            title=json.dumps(properties, indent=2) if properties else "",
+            color="#4CAF50" if node["label"] == "Person" else "#2196F3",
+            shape="dot" if node["label"] == "Entity" else "diamond"
+        )
+
+    for edge in data["edges"]:
+        net.add_edge(
+            source=edge["source"],
+            to=edge["target"],
+            label=edge["type"],
+            color="#FF9800",
+            width=2
+        )
+
+    # 生成HTML文件
+    net.save_graph("temp.html")
+    return open("temp.html", "r", encoding="utf-8").read()
 
 
 init()

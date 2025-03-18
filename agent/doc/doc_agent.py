@@ -2,7 +2,7 @@ import json
 import os
 import threading
 import uuid
-from typing import Sequence, Optional, Dict, Any, List
+from typing import Sequence, Optional
 
 import streamlit as st
 import torch
@@ -17,7 +17,6 @@ from llama_index.core import Settings
 from llama_index.core.ingestion import run_transformations
 from llama_index.core.schema import BaseNode, Document
 from llama_index.core.vector_stores import VectorStoreQuery
-from pyvis.network import Network
 
 from adapter import LangchainDocumentAdapter
 from callback.streamlit_callback_utils import get_streamlit_cb
@@ -82,8 +81,8 @@ def vector_store_retriever_chain(state: State):
     return {"vector_data": "\n".join(vector_data)}
 
 
-def fetch(doc: Document, c: Optional[RunnableConfig] = None):
-    return st.session_state.llm_transformer.process_response(doc, c)
+def fetch(llm_transformer: LLMGraphTransformer, doc: Document, c: Optional[RunnableConfig] = None):
+    return llm_transformer.process_response(doc, c)
 
 
 def should_continue(state: State):
@@ -102,49 +101,6 @@ def should_continue(state: State):
     if not graph_data and vector_data:
         return "graph_retriever"
     return "sender"
-
-
-# 可视化生成函数
-def generate_visualization(data: List[Dict[str, Any]]):
-    net = Network(
-        height="800px",
-        width="100%",
-        bgcolor="#1E1E1E",
-        font_color="white",
-        directed=True
-    )
-
-    # 设置布局参数
-    if st.session_state.layout == "力导向布局":
-        net.force_atlas_2based(gravity=-50)
-    elif st.session_state.layout == "层次布局":
-        net.hrepulsion()
-    else:
-        net.barnes_hut()
-
-    for datum in data:
-        # 添加节点和边
-        for node in datum["nodes"]:
-            net.add_node(
-                n_id=node["id"],
-                label=node["label"],
-                title=json.dumps(node["properties"], indent=2),
-                color="#4CAF50" if node["type"] == "Person" else "#2196F3",
-                shape="dot" if node["type"] == "Entity" else "diamond"
-            )
-
-        for edge in datum["edges"]:
-            net.add_edge(
-                source=edge["source"],
-                to=edge["target"],
-                label=edge["type"],
-                color="#FF9800",
-                width=2
-            )
-
-    # 生成HTML文件
-    net.save_graph("temp.html")
-    return open("temp.html", "r", encoding="utf-8").read()
 
 
 def init():
@@ -195,8 +151,6 @@ def init():
             return_intermediate_steps=True,
             graph=st.session_state.neo4j_graph,
         )
-    if "layout" not in st.session_state:
-        st.session_state.layout = st.selectbox("布局方案", ["力导向布局", "层次布局", "圆形布局"])
     for msg in st.session_state.messages:
         st.chat_message(msg["role"]).write(msg["content"])
 
@@ -212,16 +166,12 @@ def add_documents(docs: Sequence[BaseNode]) -> None:
     # 插入文档中三元组数据
     langchain_document_adapter = LangchainDocumentAdapter()
     langchain_documents = langchain_document_adapter(docs)
-    graph_documents = convert_to_graph_documents(langchain_documents, fetch)
+    graph_documents = convert_to_graph_documents(st.session_state.llm_transformer, langchain_documents, fetch)
     st.session_state.neo4j_graph.add_graph_documents(graph_documents)
 
 
 st.subheader('Qwen🤖')
 init()
-cypher = "MATCH (p:Person{id:\"哪吒\"})-[r]-(c) RETURN p, r, c"
-values = st.session_state.neo4j_graph.query(cypher)
-html = generate_visualization(values)
-st.html(html, height=800, scrolling=True)
 with st.sidebar:
     # file uploader widget
     uploaded_file = st.file_uploader('Upload a file:', type=['pdf', 'docx', 'txt'])

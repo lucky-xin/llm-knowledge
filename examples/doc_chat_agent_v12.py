@@ -1,40 +1,41 @@
 import threading
 import uuid
+from typing import Optional, List, Sequence
 
-from langchain_community.document_loaders import WikipediaLoader
+from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
+from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
-from langchain_neo4j import GraphCypherQAChain, Neo4jGraph
-from langchain_neo4j.graphs.graph_store import GraphStore
-from langchain_text_splitters import TokenTextSplitter
-from langgraph.checkpoint.memory import MemorySaver
+from langchain_neo4j import GraphCypherQAChain
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langgraph.constants import END, START
 from langgraph.graph import StateGraph
-from langgraph.types import Send
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
-from llama_index.core.vector_stores import VectorStoreQuery
+from llama_index.core.schema import BaseNode
+from llama_index.core.vector_stores import VectorStoreQuery, MetadataFilter, FilterOperator, MetadataFilters
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
+from factory.checkpointer import create_checkpointer
 from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
+from factory.store import create_store
 from factory.store_index import create_vector_store_index
-from factory.vector_store import create_pg_vector_store
-from utils import generate_full_text_query, extract_entities, create_combine_prompt
+from factory.vector_store import create_neo4j_vector_store
+from utils import create_combine_prompt, convert_to_graph_documents
 
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
 )
 llm = llm_factory.create_chat_llm()
 llm_transformer = LLMGraphTransformer(llm=llm)
-vector_store = create_pg_vector_store()
+vector_store = create_neo4j_vector_store()
 index = create_vector_store_index(vector_store)
-age_graph = create_neo4j_graph()
-
+neo4j_graph = create_neo4j_graph()
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
-    graph=age_graph,
+    graph=neo4j_graph,
     verbose=True,
     validate_cypher=True,
     use_function_response=True,
@@ -42,40 +43,47 @@ graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     allow_dangerous_requests=True,
 )
 
-# https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663
-# Fulltext index query
-def structured_retriever(ng: Neo4jGraph, question: str) -> str:
-    """
-    Collects the neighborhood of entities mentioned
-    in the question
-    """
-    result = ""
-    entities = extract_entities(question)
-    for entity in entities.names:
-        resp = ng.query(
-            """CALL db.index.fulltext.queryNodes('entity', $query, {limit:2})
-            YIELD node,score
-            CALL {
-              MATCH (node)-[r:!MENTIONS]->(neighbor)
-              RETURN node.id + ' - ' + type(r) + ' -> ' + neighbor.id AS output
-              UNION
-              MATCH (node)<-[r:!MENTIONS]-(neighbor)
-              RETURN neighbor.id + ' - ' + type(r) + ' -> ' +  node.id AS output
-            }
-            RETURN output LIMIT 50
-            """,
-            {"query": generate_full_text_query(entity)},
+
+def fetch(llm_transformer, doc: Document, c: Optional[RunnableConfig] = None):
+    return llm_transformer.process_response(doc, c)
+
+
+def query_by_ids(ids: List[str]) -> Sequence[BaseNode]:
+    """批量查询节点数据，返回 Node列表"""
+    # 返回原始字典格式
+    try:
+        result = vector_store.query(
+            VectorStoreQuery(
+                node_ids=ids,
+                query_embedding=[],
+                similarity_top_k=3,
+                embedding_field="embedding",
+                filters=MetadataFilters(
+                    filters=[
+                        MetadataFilter(
+                            key="id",
+                            value=ids,
+                            operator=FilterOperator.IN
+                        ),
+                    ]
+                ),
+            )
         )
-        result += "\n".join([el['output'] for el in resp])
-    return result
+        return result.nodes
+    except Exception as e:
+        print(f"批量查询失败: {e}")
+        return []
 
 
 # # Read the wikipedia article
-def add_wiki_docs(ng: GraphStore):
-    raw_documents = WikipediaLoader(query="Elizabeth I").load()
+def add_wiki_docs():
+    loader = WebBaseLoader("https://zh.wikipedia.org/wiki/%E7%8C%AB")
+    raw_documents = loader.load()
     # # Define chunking strategy
-    text_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=24)
-    langchain_documents = text_splitter.split_documents(raw_documents)
+    langchain_documents = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200
+    ).split_documents(raw_documents)
 
     llam_index_document_adapter = LLamIndexDocumentAdapter()
     llam_index_documents = llam_index_document_adapter(langchain_documents)
@@ -85,8 +93,8 @@ def add_wiki_docs(ng: GraphStore):
         transformations=Settings.transformations
     )
     index.insert_nodes(nodes)
-    graph_documents = llm_transformer.convert_to_graph_documents(langchain_documents)
-    ng.add_graph_documents(graph_documents)
+    graph_documents = convert_to_graph_documents(llm_transformer, langchain_documents, fetch)
+    neo4j_graph.add_graph_documents(graph_documents)
 
 
 def add_docs():
@@ -97,13 +105,14 @@ def add_docs():
         transformations=Settings.transformations
     )
     langchain_document_adapter = LangchainDocumentAdapter()
-    graph_documents = llm_transformer.convert_to_graph_documents(langchain_document_adapter(nodes))
-
-    age_graph.add_graph_documents(graph_documents)
+    graph_documents = convert_to_graph_documents(llm_transformer, langchain_document_adapter(nodes), fetch)
+    neo4j_graph.add_graph_documents(graph_documents)
     index.insert_nodes(nodes)
 
 
-add_docs()
+# add_wiki_docs()
+# add_docs()
+
 
 def graph_retriever_chain(state: State):
     messages = state.get("messages")
@@ -116,19 +125,22 @@ def graph_retriever_chain(state: State):
 def vector_store_retriever_chain(state: State):
     messages = state.get("messages")
     question = messages[-1].content
-    resp = index.vector_store.query(VectorStoreQuery(query_str=question))
+    embedding = Settings.embed_model.get_text_embedding(question)
+
+    resp = index.vector_store.query(
+        VectorStoreQuery(
+            query_embedding=embedding,
+            query_str=question
+        )
+    )
     vector_data = [el.get_content() for el in resp.nodes]
-    return {"vector_data": vector_data}
+    return {"vector_data": "\n".join(vector_data)}
 
 
 query_engine = index.as_query_engine()
 print("Creating graph...")
 # 初始化 MemorySaver 共例
 workflow = StateGraph(State)
-
-
-def sender_chain_v1(state: State):
-    return [Send("graph_retriever", state), Send("vector_store_retriever", state)]
 
 
 def sender_chain_v2(state: State):
@@ -141,10 +153,28 @@ def sender_chain_v2(state: State):
 def searcher_chain(state: State):
     chain = create_combine_prompt() | llm
     resp = chain.invoke(state)
-    return resp
+    return {"messages": [resp]}
 
 
 def should_continue_v1(state: State):
+    vector_data = state.get("vector_data")
+    graph_data = state.get("graph_data")
+    answer = state.get("answer")
+    if answer:
+        return END
+    if vector_data and graph_data:
+        return "searcher"
+    if not vector_data and graph_data:
+        return "vector_store_retriever"
+    if not graph_data and vector_data:
+        return "graph_retriever"
+    return "sender"
+
+
+def should_continue_v2(state: State):
+    messages = state.get("messages")
+    if not messages and not isinstance(messages[-1], HumanMessage):
+        return END
     vector_data = state.get("vector_data")
     graph_data = state.get("graph_data")
     answer = state.get("answer")
@@ -166,8 +196,9 @@ workflow.add_node("searcher", searcher_chain)
 workflow.add_edge("sender", "searcher")
 workflow.add_edge("searcher", END)
 
-checkpointer = MemorySaver()
-graph = workflow.compile(checkpointer=checkpointer)
+workflow.add_conditional_edges("sender", should_continue_v2)
+
+graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
 run_id = str(uuid.uuid4())
 
 config = {
