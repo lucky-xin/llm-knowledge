@@ -11,7 +11,6 @@ class State(TypedDict):
     answer: str
     vector_data: str
     graph_data: str
-    cypher: str
 
 
 class File:

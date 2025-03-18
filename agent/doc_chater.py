@@ -1,7 +1,7 @@
 import json
 import threading
 import uuid
-from typing import Optional
+from typing import Optional, Dict, Any, List
 
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_core.messages import HumanMessage, AIMessageChunk
@@ -9,15 +9,16 @@ from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j import GraphCypherQAChain
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.constants import END, START
 from langgraph.graph import StateGraph
 from llama_index.core import SimpleDirectoryReader, Document, Settings
 from llama_index.core.ingestion import run_transformations
 from llama_index.core.vector_stores import VectorStoreQuery
+from pyvis.network import Network
 
 from adapter import LangchainDocumentAdapter, LLamIndexDocumentAdapter
 from entities import State
-from factory.checkpointer import create_checkpointer
 from factory.llm import LLMFactory, LLMType
 from factory.neo4j import create_neo4j_graph
 from factory.store_index import create_vector_store_index
@@ -27,24 +28,24 @@ from utils import create_combine_prompt, convert_to_graph_documents
 llm_factory = LLMFactory(
     llm_type=LLMType.LLM_TYPE_QWENAI,
 )
-llm = llm_factory.create_chat_llm()
+llm = llm_factory.create_llm()
+chat_llm = llm_factory.create_chat_llm()
 llm_transformer = LLMGraphTransformer(llm=llm)
 vector_store = create_neo4j_vector_store()
 index = create_vector_store_index(vector_store)
 neo4j_graph = create_neo4j_graph()
 graph_cypher_qa_chain = GraphCypherQAChain.from_llm(
     llm=llm,
-    graph=neo4j_graph,
-    verbose=True,
-    validate_cypher=True,
-    return_direct=False,
-    use_function_response=True,
-    return_intermediate_steps=True,
-    allow_dangerous_requests=True,
+    input_key="question",
     top_k=10,
+    verbose=True,
+    return_direct=False,
+    validate_cypher=True,
+    use_function_response=False,
+    allow_dangerous_requests=True,
+    return_intermediate_steps=True,
+    graph=neo4j_graph,
 )
-
-
 def fetch(doc: Document, c: Optional[RunnableConfig] = None):
     return llm_transformer.process_response(doc, c)
 
@@ -91,7 +92,7 @@ def add_docs():
 def graph_retriever_chain(state: State):
     messages = state.get("messages")
     question = messages[-1].content
-    resp = graph_cypher_qa_chain.invoke({"query": question})
+    resp = graph_cypher_qa_chain.invoke({"question": question})
     graph_data = resp.get("result")
     steps = resp.get("intermediate_steps", [])
     cypher = steps[0].get("query", '') if steps else ''
@@ -123,7 +124,7 @@ print("Creating graph...")
 workflow = StateGraph(State)
 
 
-def sender_chain_v2(state: State):
+def sender_chain(state: State):
     graph_data = graph_retriever_chain(state)
     vector_data = vector_store_retriever_chain(state)
     resp = dict(graph_data, **vector_data)
@@ -131,11 +132,12 @@ def sender_chain_v2(state: State):
 
 
 def searcher_chain(state: State):
-    chain = create_combine_prompt() | llm
+    chain = create_combine_prompt() | chat_llm
     resp = chain.invoke(state)
     return {"messages": [resp]}
 
-def should_continue_v2(state: State):
+
+def should_continue(state: State):
     messages = state.get("messages")
     if not messages and not isinstance(messages[-1], HumanMessage):
         return END
@@ -153,17 +155,56 @@ def should_continue_v2(state: State):
     return "sender"
 
 
+# 可视化生成函数
+def generate_visualization(data: List[Dict[str, Any]]):
+    net = Network(
+        height="800px",
+        width="100%",
+        bgcolor="#1E1E1E",
+        font_color="white",
+        directed=True
+    )
+
+    # 设置布局参数
+    net.barnes_hut()
+
+    for datum in data:
+        # 添加节点和边
+        for node in datum["nodes"]:
+            net.add_node(
+                n_id=node["id"],
+                label=node["label"],
+                title=json.dumps(node["properties"], indent=2),
+                color="#4CAF50" if node["type"] == "Person" else "#2196F3",
+                shape="dot" if node["type"] == "Entity" else "diamond"
+            )
+
+        for edge in datum["edges"]:
+            net.add_edge(
+                source=edge["source"],
+                to=edge["target"],
+                label=edge["type"],
+                color="#FF9800",
+                width=2
+            )
+
+    # 生成HTML文件
+    net.save_graph("temp.html")
+    return open("temp.html", "r", encoding="utf-8").read()
+
 workflow.add_edge(START, "sender")
-workflow.add_node("sender", sender_chain_v2)
+workflow.add_node("sender", sender_chain)
 workflow.add_node("searcher", searcher_chain)
 
 workflow.add_edge("sender", "searcher")
 workflow.add_edge("searcher", END)
 
-workflow.add_conditional_edges("sender", should_continue_v2)
+workflow.add_conditional_edges("sender", should_continue)
+
+
 
 # graph = workflow.compile(checkpointer=create_checkpointer(), store=create_store())
-graph = workflow.compile(checkpointer=create_checkpointer())
+graph = workflow.compile(checkpointer=InMemorySaver())
 run_id = str(uuid.uuid4())
 
 config = {
@@ -174,6 +215,11 @@ config = {
     },
     # "callbacks": [st_cb]
 }
+cypher = "MATCH (p:Person{id:\"哪吒\"})-[r]-(c) RETURN p, r, c"
+values = neo4j_graph.query(cypher)
+html = generate_visualization(values)
+print(html)
+
 while True:
     q = input("请问我任何关于文章的问题")
     if q:
@@ -187,4 +233,4 @@ while True:
             for chunk in chunks:
                 if isinstance(chunk, AIMessageChunk) and chunk.content:
                     collected_messages += chunk.content
-            print(collected_messages)
+            print(collected_messages + "\n---")

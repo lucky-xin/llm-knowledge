@@ -46,12 +46,15 @@ def create_prompt() -> BasePromptTemplate:
 
 def create_combine_prompt() -> BasePromptTemplate:
     # 指令模板
-    instructions = """你是一个设计用于査询文档来回答问题的代理。
+    instructions = """你是一个设计用于基于文档来回答问题的助理。
+    用户问题：{question}
+    
     你只能综合以下文档回答用户问题：
     文档1：{vector_data}
     文档2：{graph_data}
     
     如果根据以上文档不能回答用户问题，则只需返回“抱歉，这个问题我还不知道。”作为答案。
+    回答用户问题内容不包括任何Cypher语句。
     """
     return ChatPromptTemplate.from_messages(
         [
