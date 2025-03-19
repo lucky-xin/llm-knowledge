@@ -4,13 +4,11 @@ import uuid
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 from typing import Sequence, List, Optional, Callable, Dict, Any
 
-from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_core.prompts import BasePromptTemplate, ChatPromptTemplate
 from langchain_core.runnables import RunnableConfig
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_neo4j.graphs.graph_document import GraphDocument
-from langchain_neo4j.vectorstores.neo4j_vector import remove_lucene_chars
 from langgraph.graph.graph import CompiledGraph
 from langgraph.prebuilt import create_react_agent
 from llama_index.core import VectorStoreIndex, Settings, SimpleDirectoryReader
@@ -29,7 +27,6 @@ from psycopg_pool import ConnectionPool
 from pyvis.network import Network
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
-from entities import Entities
 from factory.llm import LLMFactory, LLMType
 from transform.transform import CleanCharTransform, IdGenTransform
 
@@ -57,7 +54,6 @@ def create_combine_prompt() -> BasePromptTemplate:
     文档2：{graph_data}
     
     如果根据以上文档不能回答用户问题，则只需返回“抱歉，这个问题我还不知道。”作为答案。
-    回答用户问题内容不包括任何Cypher语句。
     """
     return ChatPromptTemplate.from_messages(
         [
@@ -205,36 +201,6 @@ def extract_entities_prompt():
         ]
     )
 
-
-def generate_full_text_query(input: str) -> str:
-    """
-    Generate a full-text search query for a given input string.
-
-    This function constructs a query string suitable for a full-text search.
-    It processes the input string by splitting it into words and appending a
-    similarity threshold (~2 changed characters) to each word, then combines
-    them using the AND operator. Useful for mapping entities from user questions
-    to database values, and allows for some misspelings.
-    """
-    full_text_query = ""
-    words = [el for el in remove_lucene_chars(input).split() if el]
-    for word in words[:-1]:
-        full_text_query += f" {word}~2 AND"
-    full_text_query += f" {words[-1]}~2"
-    return full_text_query.strip()
-
-
-def extract_entities(q: str, llm: BaseChatModel = None) -> Entities:
-    if not llm:
-        llm_factory = LLMFactory(
-            llm_type=LLMType.LLM_TYPE_QWENAI,
-        )
-        llm = llm_factory.create_chat_llm()
-    entity_chain = extract_entities_prompt() | llm.with_structured_output(Entities)
-    entities = entity_chain.invoke({"question": q})
-    return entities
-
-
 def convert_to_graph_documents(transformer: LLMGraphTransformer,
                                documents: Sequence[Document],
                                fetch: Callable[
@@ -246,6 +212,7 @@ def convert_to_graph_documents(transformer: LLMGraphTransformer,
         documents (Sequence[Document]): The original documents.
         config: Additional keyword arguments.
         fetch:  转换函数
+        transformer:  转换器
     Returns:
         Sequence[GraphDocument]: The transformed documents as graphs.
     """

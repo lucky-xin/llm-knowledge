@@ -105,12 +105,9 @@ def should_continue(state: State):
 
 def init():
     if "llm" not in st.session_state:
-        llm_factory = LLMFactory(
-            llm_type=LLMType.LLM_TYPE_QWENAI,
-        )
+        llm_factory = LLMFactory(llm_type=LLMType.LLM_TYPE_QWENAI)
         st.session_state.llm = llm_factory.create_llm()
         st.session_state.chat_llm = llm_factory.create_chat_llm()
-
     if "index" not in st.session_state:
         vector_store = create_pg_vector_store()
         st.session_state.vector_store_index = create_vector_store_index(vector_store)
