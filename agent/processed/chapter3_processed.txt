@@ -1,9 +1,9 @@
 productive / prəˈdʌktɪv /
 adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、庄稼或财富）的，生产性的；产生……的，引起……的（productive of）；有构词能力的；（咳嗽）生痰的，分泌黏液的
 [例]
-1.She is a very productive writer. 她是一位非常高产的作家。（解释：她写了很多作品。）
-2.The factory has become more productive this year. 今年工厂的生产效率提高了。（解释：工厂生产的产品数量增加了。）
-3.A productive meeting resulted in many new ideas. 一次富有成效的会议产生了许多新想法。（解释：会议上讨论了很多建设性的内容。）
+1.She is a very productive writer. 她是一位非常高产的作家。
+2.The factory has become more productive this year. 今年工厂的生产效率提高了。
+3.A productive meeting resulted in many new ideas. 一次富有成效的会议产生了许多新想法。
 [搭]
 1.highly productive 非常高效的
 2.productive soil 肥沃的土地
@@ -12,9 +12,9 @@ adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、
 efficient / ɪˈfɪʃnt /
 adj. 效率高的，有能力的。
 [例]
-1.This machine is very efficient. 这台机器效率很高。（解释：它能快速完成任务。）
-2.He is an efficient worker. 他是一名高效能的工人。（解释：他能以最少的时间完成最多的工作。）
-3.An efficient government can improve people's lives. 一个高效的政府可以改善人民的生活。（解释：政府通过有效的政策提高生活质量。）
+1.This machine is very efficient. 这台机器效率很高。
+2.He is an efficient worker. 他是一名高效能的工人。
+3.An efficient government can improve people's lives. 一个高效的政府可以改善人民的生活。
 [搭]
 1.energy-efficient 节能的
 2.time-efficient 时间效率高的
@@ -23,9 +23,9 @@ adj. 效率高的，有能力的。
 considerable / kənˈsɪdərəb(ə)l /
 adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
 [例]
-1.We received a considerable amount of donations. 我们收到了相当多的捐款。（解释：捐款数额较大。）
-2.There is a considerable difference between the two plans. 两个计划之间有很大的差别。（解释：差异显著。）
-3.He has made considerable progress in his studies. 他在学习上取得了相当大的进步。（解释：他的成绩提升明显。）
+1.We received a considerable amount of donations. 我们收到了相当多的捐款。
+2.There is a considerable difference between the two plans. 两个计划之间有很大的差别。
+3.He has made considerable progress in his studies. 他在学习上取得了相当大的进步。
 [搭]
 1.considerable improvement 显著进步
 2.considerable influence 相当大的影响
@@ -34,9 +34,9 @@ adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
 massive / ˈmæsɪv /
 adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的
 [例]
-1.The earthquake caused massive damage. 地震造成了巨大的破坏。（解释：破坏程度严重。）
-2.A massive crowd gathered in the square. 广场上聚集了大量人群。（解释：人数众多。）
-3.The mountain range is massive. 这座山脉非常庞大。（解释：山脉规模宏大。）
+1.The earthquake caused massive damage. 地震造成了巨大的破坏。
+2.A massive crowd gathered in the square. 广场上聚集了大量人群。
+3.The mountain range is massive. 这座山脉非常庞大。
 [搭]
 1.massive construction 大型建筑
 2.massive investment 大量投资
@@ -45,9 +45,9 @@ adj. 大而重的，结实的；非常严重的；大量的，大规模的；<�
 immense / ɪˈmens /
 adj. 极大的，巨大的；非常好，极好；无边无际的
 [例]
-1.The ocean is immense. 海洋是巨大的。（解释：海洋面积广阔。）
-2.His knowledge is immense. 他的知识非常渊博。（解释：他对很多领域都有深入研究。）
-3.They achieved an immense victory. 他们取得了巨大的胜利。（解释：胜利意义重大。）
+1.The ocean is immense. 海洋是巨大的。
+2.His knowledge is immense. 他的知识非常渊博。
+3.They achieved an immense victory. 他们取得了巨大的胜利。
 [搭]
 1.immense potential 巨大潜力
 2.immense wealth 巨大财富
@@ -56,9 +56,9 @@ adj. 极大的，巨大的；非常好，极好；无边无际的
 maximal / ˈmæksɪml /
 adj. 最大的，最高的，最大限度的；最带总括性的，最全面的
 [例]
-1.The temperature reached its maximal level. 温度达到了最高点。（解释：温度升至极限。）
-2.He worked at maximal capacity. 他全力以赴地工作。（解释：他发挥出了最大能力。）
-3.The company aims for maximal profit. 公司追求最大利润。（解释：公司希望获得最高的收益。）
+1.The temperature reached its maximal level. 温度达到了最高点。
+2.He worked at maximal capacity. 他全力以赴地工作。
+3.The company aims for maximal profit. 公司追求最大利润。
 [搭]
 1.maximal effort 最大努力
 2.maximal output 最大产量
@@ -67,39 +67,37 @@ adj. 最大的，最高的，最大限度的；最带总括性的，最全面的
 minimal / ˈmɪnɪml /
 adj. 极小的，极少的；极简抽象艺术的；简朴的，朴实无华的；极简的（指短小乐句不断重复并逐渐变化）；最小差别的
 [例]
-1.The cost was minimal. 成本很低。（解释：成本几乎可以忽略不计。）
-2.She made only minimal changes to the plan. 她只对计划做了微小的修改。（解释：改动很小。）
-3.The noise was reduced to a minimal level. 噪音降到了最低水平。（解释：噪音几乎听不见。）
+1.The cost was minimal. 成本很低。
+2.She made only minimal changes to the plan. 她只对计划做了微小的修改。
+3.The noise was reduced to a minimal level. 噪音降到了最低水平。
 [搭]
 1.minimal impact 最小影响
 2.minimal risk 最低风险
 [联] minimum (最小值) + -al (形容词后缀) ——> 最小的。
 
-optimal /ˈɑːptɪml/
-adj.
-- 美式发音/ˈɑːptɪml/
-1. 表示“最佳的，最理想的”。
-   - [例]
-     1. This is the optimal solution. 这是最优解。（解释：这是最好的解决办法。）
-     2. The athlete trained at an optimal pace. 运动员以最佳速度训练。（解释：他达到了最佳状态。）
-     3. The weather conditions were optimal for hiking. 徒步旅行的天气条件是最好的。（解释：徒步旅行的条件非常理想。）
-   - [搭]
-     1. optimal performance 最佳表现
-     2. optimal growth 最佳增长
-   - [联] optimum (最佳的) + -al (形容词后缀) ——> 最佳的。
+optimal / ˈɑːptɪməl /
+adj. 最佳的，最适的
+[例]
+1.This is the optimal solution. 这是最优解。
+2.The athlete trained at an optimal pace. 运动员以最佳速度训练。
+3.The weather conditions were optimal for hiking. 徒步旅行的天气条件是最好的。
+[搭]
+1.optimal performance 最佳表现
+2.optimal growth 最佳增长
+[联] optimum (最佳的) + -al (形容词后缀) ——> 最佳的。
 
-biologist /baɪˈɑːləʤst/
-n.
-- 美式发音/baɪˈɑːləʤst/
-1. 表示“生物学家”。
-   - [例]
-     1. She is a marine biologist. 她是一位海洋生物学家。（解释：她专门研究海洋生物。）
-     2. The biologist conducted an experiment. 生物学家进行了一项实验。（解释：他正在做实验。）
-     3. The biologist gave a lecture on evolution. 生物学家做了一场关于进化的讲座。（解释：他分享了进化理论的知识。）
-   - [搭]
-     1. field biologist 野外生物学家
-     2. evolutionary biologist 进化生物学家
-   - [联] biology (生物学) + -ist (表示从事某种职业的人) ——> 生物学研究者。zoologist /zoʊˈɒlədʒɪst/, /zuˈɒlədʒɪst/
+biologist / baɪˈɑːlədʒɪst /
+n. 生物学家
+[例]
+1. She is a marine biologist. 她是一位海洋生物学家。
+2. The biologist conducted an experiment. 生物学家进行了一项实验。
+3. The biologist gave a lecture on evolution. 生物学家做了一场关于进化的讲座。
+[搭]
+1. field biologist 野外生物学家
+2. evolutionary biologist 进化生物学家
+[联] biology (生物学) + -ist (表示从事某种职业的人) ——> 生物学研究者。
+
+zoologist / zoʊˈɒlədʒɪst /, / zuˈɒlədʒɪst /
 n. 动物学家（读音不同是因为重音位置不同）
 [例]
 1.A zoologist is studying the behavior of mammals in the wild. 动物学家正在研究野生哺乳动物的行为。
@@ -109,8 +107,8 @@ n. 动物学家（读音不同是因为重音位置不同）
 zoologist research 动物学研究
 [联] zoo (动物园) + logy (学科) ——> 研究动物的学科。
 
-ecologist /ikˈɒlədʒɪst/, /ekˈɒlədʒɪst/
-n. 生态学家（读音不同是因为重音位置不同）
+ecologist / iˈkɑːlədʒɪst /
+n. 生态学家；生态保护论者
 [例]
 1.An ecologist is studying how pollution affects ecosystems. 生态学家正在研究污染如何影响生态系统。
 2.Ecologists argue that biodiversity is crucial for maintaining ecological balance. 生态学家认为生物多样性对于维持生态平衡至关重要。
@@ -119,7 +117,7 @@ n. 生态学家（读音不同是因为重音位置不同）
 ecologist study 生态学研究
 [联] eco (生态) + logy (学科) ——> 研究生态的学科。
 
-botanist /ˈbɑːtənɪst/
+botanist / ˈbɑːtənɪst /
 n. 植物学家
 [例]
 1.A botanist is conducting research on rare plants in the rainforest. 植物学家正在雨林中研究稀有植物。
@@ -129,7 +127,7 @@ n. 植物学家
 botanist research 植物学研究
 [联] botany (植物学) + ist (从事者) ——> 研究植物的人。
 
-mammal /ˈmæməl/
+mammal / ˈmæm(ə)l /
 n. 哺乳动物
 [例]
 1.Dolphins are highly intelligent mammals. 海豚是高度智能的哺乳动物。
@@ -139,8 +137,9 @@ n. 哺乳动物
 mammal conservation 哺乳动物保护
 [联] mammary (乳腺的) + al (形容词后缀) ——> 与乳腺相关的动物。
 
-primate /ˈpraɪmeɪt/
-n. 灵长类动物
+primate / ˈpraɪmeɪt /
+n. 灵长目动物（包括人、猴子等）；大主教；首领
+adj. 灵长目动物的；大主教的
 [例]
 1.Humans are classified as primates. 人类被归类为灵长类动物。
 2.Monkeys and apes are both primates. 猴子和猿猴都是灵长类动物。
@@ -149,18 +148,20 @@ n. 灵长类动物
 primate behavior 灵长类行为
 [联] prime (主要的) + ate (名词后缀) ——> 主要的动物。
 
-vertebrate /ˈvɜːrtɪbrət/
+vertebrate / ˈvɜːrtɪbrət /
 n. 脊椎动物
+adj. 脊椎动物（有关）的；有脊椎的
 [例]
 1.Fish, amphibians, reptiles, birds, and mammals are all vertebrates. 鱼、两栖动物、爬行动物、鸟类和哺乳动物都是脊椎动物。
 2.Vertebrae protect the spinal cord in vertebrates. 脊椎骨保护脊椎动物的脊髓。
-3.Vertbrates have a backbone. 脊椎动物有脊柱。
+3.Vertebrates have a backbone. 脊椎动物有脊柱。
 [搭] 
 vertebrate anatomy 脊椎动物解剖学
 [联] vertebra (脊椎骨) + ate (形容词后缀) ——> 有脊椎的动物。
 
-reptile /ˈrep taɪl/
-n. 爬行动物
+reptile / ˈreptaɪl /
+n. 爬行动物；（非正式）卑鄙的人
+adj. 爬行动物的
 [例]
 1.Snakes and lizards are reptiles. 蛇和蜥蜴是爬行动物。
 2.Reptiles lay eggs and are cold-blooded. 爬行动物产卵且是冷血动物。
@@ -169,8 +170,9 @@ n. 爬行动物
 reptile habitat 爬行动物栖息地
 [联] reptilian (爬虫类的) ——> 与爬行动物相关的。
 
-amphibian /æmˈfɪbiən/
-n. 两栖动物
+amphibian / æmˈfɪbiən /
+n. 两栖动物；水陆两用车，水陆两用飞机
+adj. 两栖类的；两栖的
 [例]
 1.Frogs and salamanders are amphibians. 青蛙和蝾螈是两栖动物。
 2.Amphibians can live both in water and on land. 两栖动物既能生活在水中也能生活在陆地上。
@@ -179,8 +181,8 @@ n. 两栖动物
 amphibian migration 两栖动物迁徙
 [联] amph (双) + i (连接) + bian (形容词后缀) ——> 双栖的动物。
 
-carnivore /ˈkɑːrnɪvɔːr/
-n. 肉食动物
+carnivore / ˈkɑːrnɪvɔːr /
+n. 食肉动物；喜欢吃肉的人，食肉动物（诙谐说法）
 [例]
 1.Lions are carnivores. 狮子是肉食动物。
 2.Carnivores hunt other animals for food. 肉食动物猎杀其他动物作为食物。
