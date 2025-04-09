@@ -675,7 +675,8 @@ adj. 平坦的，无装饰的
 [联] 将“plane”（平面）与“-ly”结合，表示平坦的表面。  
 
 plateau /plæˈtoʊ/  
-n. 高原，高原地区  
+n. 高原，高原地区；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
+v.（在一段时间的发展之后）趋于平稳，进入停滞期
 [例]  
 1.The Tibetan Plateau is known as the Roof of the World. 青藏高原被称为世界屋脊。  
 2.They climbed up to the plateau to enjoy the view. 他们爬上高原去欣赏风景。  
