@@ -9,7 +9,7 @@ n. 生物学家
 2. evolutionary biologist 进化生物学家
 [联] biology (生物学) + -ist (表示从事某种职业的人) ——> 生物学研究者。
 
-zoologist / zoʊˈɒlədʒɪst /, / zuˈɒlədʒɪst /
+zoologist / zoʊˈɒlədʒɪst;  zuˈɒlədʒɪst /
 n. 动物学家（读音不同是因为重音位置不同）
 [例]
 1.A zoologist is studying the behavior of mammals in the wild. 动物学家正在研究野生哺乳动物的行为。
@@ -17,7 +17,7 @@ n. 动物学家（读音不同是因为重音位置不同）
 3.The zoologist published a paper on the migration patterns of primates. 这位动物学家发表了一篇关于灵长类动物迁徙模式的论文。
 [搭] 
 zoologist research 动物学研究
-[联] zoo (动物园) + logy (学科) ——> 研究动物的学科。
+[联] zoo (动物园) +ology (学科；科学；学问) ——> 研究动物的学科。
 
 ecologist / iˈkɑːlədʒɪst /
 n. 生态学家；生态保护论者
@@ -27,7 +27,7 @@ n. 生态学家；生态保护论者
 3.The ecologist presented her findings on climate change at the conference. 这位生态学家在会议上展示了她关于气候变化的研究成果。
 [搭] 
 ecologist study 生态学研究
-[联] eco (生态) + logy (学科) ——> 研究生态的学科。
+[联] eco (生态) + ology (学科；科学；学问) ——> 研究生态的学科。
 
 botanist / ˈbɑːtənɪst /
 n. 植物学家
@@ -58,7 +58,7 @@ adj. 灵长目动物的；大主教的
 3.Primates have opposable thumbs and large brains. 灵长类动物有可对握的手拇指和较大的大脑。
 [搭] 
 primate behavior 灵长类行为
-[联] prime (主要的) + ate (名词后缀) ——> 主要的动物。
+[联] prima (主要的) + ate (名词后缀) ——> 主要的动物。
 
 vertebrate / ˈvɜːrtɪbrət /
 n. 脊椎动物
@@ -93,6 +93,27 @@ adj. 两栖类的；两栖的
 amphibian migration 两栖动物迁徙
 [联] amph (双) + i (连接) + bian (形容词后缀) ——> 双栖的动物。
 
+amphibious / æmˈfɪbiəs /
+adj. [生物] 两栖的，水陆两用的；具有双重性的
+[例]
+1.A third brigade is at sea, ready for an amphibious assault. 第三旅在海上待命，随时准备从海上发起进攻。
+2.THE AMPHIBIOUS ERA IS FAR FROM OVER. 两栖协同作战的时代远未结束
+[搭]
+1.amphibious warfare 军 两栖作战; 两栖战
+2.amphibious vehicle 两栖车辆; 车辆 水陆两用车; 水陆两用汽车; 车辆 两栖车
+3.amphibious warfare ship 两栖战舰; 两栖战舰艇; 船,军 两栖作战舰艇; 登陆舰艇
+
+amphiphilic / ˌæmfəˈfɪlɪk /
+adj. 两亲的，两亲性质的；两性分子团的
+[例]
+1.Molecules with both hydrophilic and hydrophobic groups are called amphipathic or amphiphilic. 分子兼有亲水的和疏水的两个基团，叫做两性的或两亲的。
+2.Using a series of water and oil amphiphilic resins to treat wastewater containing emulsifying oil. 用亲水亲油树脂组成的系统对乳化油废水进行处理的研究。
+3.On this basic, we studied the amphiphilic polymer's application to pure organic hydrophilic coating for air-condition. 在此基础上研究了两亲聚合物作为纯有机空调用亲水涂料的应用。
+[搭]
+1.amphiphilic polymer 两亲聚合物; 亲聚合物; 性高分子; 亲性聚合物
+2.amphiphilic surfactant 助剂 两亲型表面活性剂; 面活性剂
+3. amphiphilic block copolymer 两亲嵌段共聚物; 两亲性嵌段共聚物; 两性团联共聚物
+
 carnivore / ˈkɑːrnɪvɔːr /
 n. 食肉动物；喜欢吃肉的人，食肉动物（诙谐说法）
 [例]
@@ -103,7 +124,7 @@ n. 食肉动物；喜欢吃肉的人，食肉动物（诙谐说法）
 carnivore diet 肉食动物饮食
 [联] carn (肉) + i (连接) +vore (吃) ——> 吃肉的。
 
-herbivore /ˈhɜːrbɪvɔːr/
+herbivore / ˈɜːrbɪvɔːr /
 n. 草食动物
 [例]
 1.Rabbits are herbivores. 兔子是草食动物。
@@ -111,8 +132,10 @@ n. 草食动物
 3.Herbivores have flat teeth for grinding plant material. 草食动物有平坦的牙齿用于磨碎植物材料。
 [搭] 
 herbivore behavior 草食动物行为
-[联] herb (草本植物) + i (连接) +vore (吃) ——> 吃草的。请提供下一个单词或词组，我将按照要求逐一输出内容。beast /bizt/, /biːst/
-n.野兽，猛兽；残暴的人。
+[联] herb (草本植物) + i (连接) +vore (吃) ——> 吃草的。
+
+beast / biːst /
+n. 野兽，猛兽，牲畜；凶暴残忍的人，道德败坏的人；（具有某种特性的）东西，货色
 [例]
 1.The lion is known as the king of all beasts. 狮子被称为百兽之王。
 2.The beast within him was awakened. 他内心深处的野性被唤醒了。
@@ -121,38 +144,40 @@ n.野兽，猛兽；残暴的人。
 1.beast of prey 捕食动物
 [联] beast = "best"（旧拼写），意为“最好的”，这里指强大的、有力的生物。
 
-creature / ˈkriːtʃər /, / ˈkriːtər /
-n. 生物，动物；（尤指）怪兽，怪物。（读音不同是因为美式发音中“-ture”可弱化为/ər/）
+creature / ˈkriːtʃər /
+n. 生物，动物；（具有某种特征的）人；怪物；受支配的人，产物
 [例]
 1.This creature has never been seen before. 这种生物以前从未被发现过。
 2.The creature in the movie was terrifying. 电影里的那个生物非常可怕。
 3.In this story, the creature is friendly and helpful. 在这个故事中，这个生物友好且乐于助人。
 [搭] 
 1.creatures of habit 守旧的人
-wild creatures 野生动物
+2.wild creatures 野生动物
 [联] creature = create（创造）+ -ure（名词后缀）——> 被创造之物。
 
 wildlife / ˈwaɪldlaɪf /
-n. 野生动植物；野外生活。
+n. 野生动植物；野外生活
+adj. 野生动植物的
 [例]
 1.The wildlife in this area is very diverse. 这个地区的野生动植物种类非常丰富。
 2.The documentary focuses on the beauty of wildlife. 这部纪录片聚焦于野生动植物之美。
 3.Protecting wildlife is essential for maintaining biodiversity. 保护野生动植物对于维持生物多样性至关重要。
 [搭] 
 1.wildlife conservation 野生动植物保护
-endangered wildlife 濒危野生动植物
+2.endangered wildlife 濒危野生动植物
 
 fauna / ˈfɔːnə /
-n. （一个地区或时期的）动物群；动物界。（读音：美式/ˈfɔːnə/, 英式/ˈfɒnə/)
+n. 动物群；[动]动物区系
 [例]
 1.The book provides an overview of local fauna. 这本书概述了当地的动物群。
 2.Marine fauna is fascinating to study. 海洋动物群研究起来很有趣。
 3.Many species of fauna have become extinct due to habitat loss. 因栖息地丧失，许多动物物种已经灭绝。
 [搭] 
-fauna and flora 动植物
+1.fauna and flora 动植物群
+2.wild fauna and flora 野生动植物群
 
 flora / ˈflɔːrə /
-n. （一个地区或时期的）植物群；植物界。（读音：美式/ˈflɔːrə/, 英式/ˈflɒrə/)
+n. （某地区、栖息地或地质时期的）植物群，植物区系；植物志
 [例]
 1.The book introduces the native flora of the region. 这本书介绍了该地区的本土植物群。
 2.Flora and fauna are both important for ecosystem health. 植物和动物对于生态系统健康都很重要。
@@ -161,109 +186,140 @@ n. （一个地区或时期的）植物群；植物界。（读音：美式/ˈfl
 flora and fauna 植物和动物
 
 species / ˈspiːʃiːz /
-n. 物种；种类。（复数形式为species，读音不变）
+n.（动植物的）种，物种；种类；（具有相同特征的）一类人；（化学，物理）核素；（圣餐中用的）面包和圣酒
+adj. 原种的
 [例]
 1.Human beings belong to the species Homo sapiens. 人类属于智人这一物种。
 2.There are many endangered species in the world. 世界上有许多濒危物种。
 3.The scientist discovered a new species of insect. 这位科学家发现了一种新的昆虫物种。
 [搭] 
 1.endangered species 濒危物种
-native species 土著物种
-[联] species = speci（看）+ -es（名词后缀）——> 可识别的东西。
+2.native species 土著物种
+[联] spec(规格说明) + -ies（名词后缀）——> 可识别的东西。
 
-flock / flɑːk /, / flɑːk /
-n. 群；羊群；鸟群；（人群）蜂拥而至。（读音：第一种为美式发音，第二种为英式发音）
-v. 成群结队地走；成群聚集。
+flock / flɑːk /
+n.（鸟或羊等动物）群；一大群人；（某个教堂的）会众，全体教徒；（填充垫子的）絮屑，毛棉填料；（植绒用的）短绒，绒屑
+v. 群集，蜂拥
 [例]
 1.A flock of birds flew over the lake. 一群鸟飞过了湖面。
 2.The sheep flocked together in the field. 羊群在田野里聚集在一起。
 3.Tourists flocked to the museum during the holidays. 假期期间游客蜂拥至博物馆。
 [搭] 
 1.flock of birds 鸟群
-a flock of sheep 羊群
+2.a flock of sheep 羊群
 
 herd / hɜːrd /
-n. 群；畜群；牧群。
-v. 赶，驱赶（牲畜）。
+n. 兽群，畜群；人群，民众
+v. 驱赶（兽群），放牧；使（人）成群移动
 [例]
 1.A herd of cows grazed in the meadow. 一群奶牛在草地上吃草。
 2.The shepherd herded the sheep into the pen. 牧羊人把羊群赶进了围栏。
 3.The wildlife park has a large herd of deer. 这个野生动物园有一大群鹿。
 [搭] 
-herd of cattle 牛群
+1.herd of cattle 牛群
+2.Herd Effect 羊群效应
+3.Herd behavior 羊群行为; 从众行为; 羊群效应; 追风行为
+4.herd immunity 免疫 群体免疫; 群体免疫力; 人群免疫性; 族群免疫力
 
-swarm / swɑːrm /
-n. 蜂群；一大群。
-v. （蜜蜂等）成群飞舞；（人）涌向。
+swarm / swɔːrm /
+n. 一大群（移动中的昆虫）；（移动着的）一大群人；（多指发生在火山附近的）地震群；（天文）一大群小型天体同时在空中出现
+v. 昆虫）成群飞行；（人）蜂涌，涌动；挤满，云集；成群地包围；爬（梯子等），攀
 [例]
 1.The bees swarmed around the flower. 蜜蜂成群飞舞在花周围。
 2.A swarm of people gathered at the entrance. 一群人涌向入口。
 3.The children swarmed out of the school after class. 放学后孩子们蜂拥而出。
 [搭] 
 1.swarm of bees 蜜蜂群
+2.swarm intelligence 群体智能; 群智能; 群集智能
 
-throng / θrɑːŋ /
-n. 涌入的人群；密集的人群。
-v. 涌入；密集。
+throng / θrɔːŋ /
+n. 一大群，众多
+v. 蜂拥，群集
+adj. <苏格兰，北英格兰>拥挤的
 [例]
 1.The city square was thronged with people. 城市广场上挤满了人。
 2.The fans thronged the stadium to see the match. 球迷涌入体育场观看比赛。
 3.The tourists thronged the narrow streets. 游客涌入狭窄的街道。
 [搭] 
-throng of people 人群
+1.throng of people 人群
+2.throng to crowd together 群集
+3.come in a throng 接连不断地到来
+4.Join the throng of people 加入到人群中
 
 crowd / kraʊd /
-n. 人群；群众。
-v. 挤满；聚集。
+n. 人群；一伙人；百姓，凡夫俗子；（尤指体育运动赛事的）观众，听众
+v. 聚集，群集；靠近，盯着；催促，催逼（因而把人激怒或惹恼）；挤满，塞满
 [例]
 1.The crowd cheered loudly at the concert. 观众在音乐会上大声欢呼。
 2.The subway station was crowded with commuters. 地铁站挤满了通勤者。
 3.The students crowded into the classroom. 学生们涌入教室。
 [搭] 
 1.large crowd 大型人群
+2.The IT Crowd IT狂人; IT一族;
+3.The Crowd 群众; 大众心理研究; 人群
 
-brute /brut/, /bruːt/
-n.野兽，粗鲁的人；adj.残忍的，野蛮的。
+brute / bruːt /
+n. 粗野的人，残忍的人；强壮的男子；大野兽，牲畜；笨重难看的东西，麻烦事
+adj. 不理智的，野兽似的；蛮干不动脑筋的；根本而令人不快的，赤裸裸的
 [例]
 1.The brute hit him without warning. 那个野蛮人毫无预警地打了他。
 2.His behavior towards animals is nothing short of a brute. 他对动物的行为简直像个野兽。
 3.He treated her like a brute. 他对待她就像对待一个野蛮人。
 [搭]
 1.brute force 暴力，蛮力
+2.Brute force attack 蛮力破解; 暴力破解; 蛮力攻击; 请参阅蛮力攻击
+3.Brute Force 血溅虎头门; 暴力破解; 准蒙特卡罗
+4.brute wars 野兽战役; 宠物战争
 [联] brute = "brusque"（粗鲁的），形容像野兽一样的行为或性格。
 
-cruel /ˈkruəl/
-adj.残酷的，残忍的。
+cruel / ˈkruːəl /
+adj. 残酷的，残忍的；引起痛苦的
+v. <非正式>弄糟，使没有成功可能
 [例]
 1.His cruelty to animals shocked everyone. 他对动物的残忍让每个人都震惊。
 2.The cruel punishment left deep scars on his soul. 那种残酷的惩罚在他的灵魂上留下了深深的伤痕。
 3.Nothing is more cruel than indifference. 没有什么比冷漠更残酷了。
 [搭]
 1.cruel joke 残忍的玩笑
-[联] cruel = "cru"（痛苦）+ "el"（小的）——> 给人带来痛苦的小东西。
+2.extremely cruel 极其残忍；惨绝人寰
 
-originate /əˈrɪdʒɪneɪt/
-v.起源，发源；首创，发明。
+originate / əˈrɪdʒɪneɪt /
+v. 起源，产生；创始，开创
 [例]
 1.The tradition originates from ancient times. 这个传统起源于古代。
 2.New ideas originated from the discussion. 新的想法来自讨论。
 3.This theory originated with Einstein. 这个理论由爱因斯坦提出。
 [搭]
-1.originate from 起源于
+1.originate from 源于; 发自; 起源于; 发源于
+2.originate in 首创; 起源于; 产于; 起源
+3.originate in from 起源于
 [联] originate = "origin"（起源）+ "-ate"（动词后缀）——> 使某事物产生。
 
-derive /dɪˈraɪv/
-v.取得，获得；推导出；源自。
+original / əˈrɪdʒən(ə)l /
+adj. 起初的，原先的；原作的，真迹的；新创作的，未发表的；独创的，新颖的；有独到见解的，有独创性的
+n. （艺术作品或文件的）原件，原稿；（文学作品中人物或地点的）原型；原版书，原版唱片；（根据服装展特制图样定做的）真品原板服装；<非正式>（举止、服装等）怪异滑稽的人，独特有趣的人
+[例]
+1.The original station opened in 1954. 原来的车站是1954年启用的。
+2.The original manuscript has been lost. 原稿已经遗失。
+3.That line isn't in the original script. 原剧本中没有那句台词。
+[搭]
+1.original design 原设计；初始设计
+2.original data 原始资料；源数据
+3.original image 原始图像
+
+derive / dɪˈraɪv /
+v. 获得，取得；起源于，来自；提取，衍生（化学物质）
 [例]
 1.He derived great pleasure from helping others. 他从帮助他人中获得了极大的乐趣。
 2.The word "derive" is derived from Latin. “derive”这个词源自拉丁语。
 3.Most knowledge is derived through experience. 大多数知识是通过经验获得的。
 [搭]
 1.derive from 源自于
-[联] derive = "de-"（向下）+ "rive"（流动）——> 从源头流下来。
+[联] derive = "de-"（向下）+ "rive"（劈开，撕开）——> 劈开获取东西。
 
-stem /stem/
-n.茎，干；v.制止，遏制。
+stem / stem /
+n.（植物、灌木的）茎，干；（高脚酒杯的）柄脚；烟斗柄；主干；船头，艏柱；（机械装置的）阀杆，导杆，棒；（文字的）干线，（音符的）符干；
+v. 阻止，遏制；止住（液体的流动）；起源于；去梗，去柄；（船）逆流而行；（滑雪）向外转动（滑雪屐）以便转弯（或减速）；给……装柄
 [例]
 1.The stem of the flower is very long. 这朵花的茎很长。
 2.We must stem the tide of corruption. 我们必须遏制腐败的潮流。
@@ -272,28 +328,33 @@ n.茎，干；v.制止，遏制。
 1.stem the flow 阻止流动
 [联] stem = "st-um"（树干）——> 植物的主干。
 
-ancestor /ˈænsistər/
-n.祖先，祖宗；先驱，原型。
+ancestor / ˈænsestər /
+n. 祖先，祖宗；（动植物）原种；原型，雏形
 [例]
 1.Our ancestors were farmers. 我们的祖先是农民。
 2.The computer is an ancestor of modern technology. 计算机是现代技术的先驱。
 3.The species has evolved from its ancestors. 这个物种是从其祖先进化而来的。
 [搭]
 1.ancestral home 祖宅
-[联] ancestor = "ante-"（前面的）+ "cestor"（追溯者）——> 追溯到前面的人。
+2.ancestor worship 祖先崇拜; 祭祖; 清明过纸; 敬奉祖先
+3.ancestor node 先辈节点; 原始节点; 计 祖先节点
 
-descendant /dɪˈsendənt/
-n.后代，子孙。
+descendant / dɪˈsendənt /
+n. 后裔，子孙；派生物，衍生物
+adj. 下降的；祖传的
 [例]
 1.He is a descendant of a famous family. 他是某个著名家族的后代。
 2.Descendants of immigrants often preserve their culture. 移民的后代常常保留着他们的文化。
 3.The descendants gathered for the family reunion. 子孙们聚集在一起参加家庭团聚。
 [搭]
 1.lineage descendant 血统上的后代
-[联] descendant = "de-"（向下）+ "scend"（下降）+ "-ant"（名词后缀）——> 向下延续的人。
+2.descendant selectors 使用子选择器; 包含选择符; 选择器; 包含选择器
+3.Chinese descendant in America 美籍华裔; 美籍华侨
+4.Descendant of a warrior 战士的后代; 兵士的后代
+[联] descendant = "de-"（向下）+ "scend"（波浪的推动力，后浪）+ "-ant"（名词后缀）——> 向下延续的人。
 
-offspring /ˈɔfspriŋ/
-n.后代，子女。
+offspring / ˈɔːfsprɪŋ /
+n.（人的）后代，子女；（动物的）幼崽，崽兽；结果，产物
 [例]
 1.The couple had two offspring. 这对夫妇有两个孩子。
 2.The experiment produced several successful offspring. 这项实验产生了几个成功的成果。
@@ -302,134 +363,208 @@ n.后代，子女。
 1.offspring generation 后代一代
 [联] offspring = "off-"（离开）+ "spring"（来源）——> 离开父母的新生命。
 
-subgroup /ˈsʌbɡruːp/
-n.子群，分组。
+subgroup / ˈsʌbɡruːp /
+n. 小群，隶属的小组织；子群
+v. 分成小组
 [例]
 1.The subgroup consists of ten members. 这个子群由十名成员组成。
 2.The subgroup was formed based on common interests. 这个子群是基于共同兴趣形成的。
 3.The subgroup presented their findings to the main group. 这个子群向主要群体展示了他们的发现。
 [搭]
 1.subgroup analysis 子群分析
-feed /fiːd/  
-v. （给动物或人）喂养，供给；（使充满、提供）供给，供应；（通过媒体等）接收信息。  
+
+feed / fiːd /
+v. 饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；使（缓慢平稳地）移动，使穿过（有限的空间）；传球；流入，进入
+n. 哺乳，喂养；动物的饲料，植物的肥料；（机器的）进料装置；（机器、设备的）原料供给；（卫星或网络）转播，（信号）传输；（计算机）订阅源；（给舞台演员的）提词，提白；
 [例]  
-1.The farmer feeds his cows every morning. 农民每天早上喂他的奶牛。（读音：fiːd）  
-2.The machine is fed by electricity. 这台机器由电力供能。（读音：fiːd）  
-3.I feed on news from different sources. 我从不同的渠道获取新闻。（读音：fiːd）  
+1.The farmer feeds his cows every morning. 农民每天早上喂他的奶牛。
+2.The machine is fed by electricity. 这台机器由电力供能。
+3.I feed on news from different sources. 我从不同的渠道获取新闻。
 [搭]  
 1.feed on 吃…为生；以…为食  
 2.feed into 提供，输入（数据、信息等）。  
-[联] feed与food有关联，都是与“食物”相关。  
+[联] feed与food有关联，都是与“食物”相关。
+[时] 复数feeds 第三人称单数feeds 现在分词feeding 过去式fed 过去分词fed
 
-breed /briːd/  
-v. （使）繁殖，生育；（使）产生，引起；（使）发展。  
+breed / briːd /
+v. 交配繁殖；饲养，培育；养育，培养；引起，酿成；（通过核反应）增殖可裂变物质
+n. 品种；（人的）类型，种类
 [例]  
-1.Dogs breed quickly if not spayed or neutered. 如果不绝育，狗会繁殖得很快。（读音：briːd）  
-2.War and famine breed poverty. 战争和饥荒滋生贫困。（读音：briːd）  
-3.The new policy aims to breed innovation in education. 新政策旨在促进教育创新。（读音：briːd）  
+1.Dogs breed quickly if not spayed or neutered. 如果不绝育，狗会繁殖得很快。
+2.War and famine breed poverty. 战争和饥荒滋生贫困。
+3.The new policy aims to breed innovation in education. 新政策旨在促进教育创新。
 [搭]  
-1.breed true 繁殖出纯种后代。  
-2.breed resentment 引发怨恨。  
+1.breed true 繁殖出纯种后代
+2.breed resentment 引发怨恨
+3.The Breed 繁殖; 嗜血狂犬; 惊天计划; 犬种
+4.dog breed 犬种; 狗品种
+5.breed crimes 滋生犯罪
 [联] breed与birth有关，都与“出生”相关。
+[时] 复数breeds 第三人称单数breeds 现在分词breeding 过去式bred 过去分词bred
 
-interbreed /ˌɪntərˈbriːd/  
-v. 杂交；（动植物之间）交配。  
+interbreed / ˌɪntərˈbriːd /
+vt. 异种交配；混种；使品种间杂交
+vi. 异种交配；混种；杂种繁殖
 [例]  
-1.Some plants can interbreed with others of the same genus. 有些植物可以与其他同属植物杂交。（读音：ˌɪntərˈbriːd）  
-2.Cross-cultural marriages often result in children who interbreed with local populations. 跨文化交流婚姻常导致后代与当地人群杂交。（读音：ˌɪntərˈbriːd）  
-3.Lions and tigers can interbreed under certain conditions. 在特定条件下，狮子和老虎可以杂交。（读音：ˌɪntərˈbriːd）  
+1.Some plants can interbreed with others of the same genus. 有些植物可以与其他同属植物杂交。
+2.Cross-cultural marriages often result in children who interbreed with local populations. 跨文化交流婚姻常导致后代与当地人群杂交。
+3.Lions and tigers can interbreed under certain conditions. 在特定条件下，狮子和老虎可以杂交。
 
-hybridize /ˈhaɪbrɪdaɪz/  
-v. 杂交；使杂交。  
+hybridize / ˈhaɪbrɪdaɪz /
+vt. 使杂交；混合生成
+vi. 杂交；混合
 [例]  
-1.Scientists hybridize crops to increase yield. 科学家们让作物杂交以提高产量。（读音：ˈhaɪbrɪdaɪz）  
-2.Hybridizing roses has been a popular practice for centuries. 几百年来，杂交玫瑰一直是一种流行的做法。（读音：ˈhaɪbrɪdaɪz）  
-3.Geneticists hybridize animals to study inheritance patterns. 遗传学家通过杂交动物研究遗传模式。（读音：ˈhaɪbrɪdaɪz）  
+1.Scientists hybridize crops to increase yield. 科学家们让作物杂交以提高产量。
+2.Hybridizing roses has been a popular practice for centuries. 几百年来，杂交玫瑰一直是一种流行的做法。
+3.Geneticists hybridize animals to study inheritance patterns. 遗传学家通过杂交动物研究遗传模式。
+[搭]
+1.to hybridize 杂配
+2.s-p hybridize sp 杂化
+3.to mixto hybridize 杂配
+[时] 第三人称单数hybridizes 现在分词hybridizing 过去式hybridized 过去分词hybridized
 
-proliferate /prəˈlɪfəreɪt/  
-v. 繁殖，增殖；迅速增加；扩散，蔓延。  
+proliferate / prəˈlɪfəreɪt /
+v. <正式>（在数或量上）激增，猛增；使（细胞、组织、结构等）增生，速生
 [例]  
-1.Population tends to proliferate in favorable conditions. 人口在有利条件下会迅速增长。（读音：prəˈlɪfəreɪt）  
-2.Corruption can proliferate in poorly governed systems. 腐败会在治理不善的系统中蔓延。（读音：prəˈlɪfəreɪt）  
-3.Technology proliferates rapidly in modern society. 技术在现代社会中迅速传播。（读音：prəˈlɪfəreɪt）  
+1.Population tends to proliferate in favorable conditions. 人口在有利条件下会迅速增长。
+2.Corruption can proliferate in poorly governed systems. 腐败会在治理不善的系统中蔓延。
+3.Technology proliferates rapidly in modern society. 技术在现代社会中迅速传播。
+[搭]
+1.Anemone Proliferate-Flower Form 托桂台阁型
+2.Lotus Proliferate-Flower Form 荷花台阁型
+3.Rose Proliferate-Flower Form 蔷薇台阁型
 
-sterility /stəˈrɪləti/  
-n. 不孕；无菌；呆板，贫乏。  
+sterile / ˈsterəl /
+adj. 无生殖能力的，不育的；无菌的，消过毒的；（争论或讨论）毫无新意的，无结果的；（建筑、房间等）呆板的，乏味的；（土地）贫瘠的，不长作物的
+[例]
+1.He was able to bring large sterile acreages back to fertility. 他能把大片不毛之地变回沃土。
+2.He always made sure that any cuts were protected by sterile dressings. 他总是确保所有伤口都用无菌的敷料包好。
+3.This top fits over the bottle and keeps the teat sterile. 这个盖子盖在瓶子上，保持奶嘴无菌。
+[搭]
+1.sterile neutrino 惰性中微子; 惰性微中子
+2.The Sterile Cuckoo 何日卿再来; 三月情花开
+3.male sterile line 不育系
+
+sterility / stəˈrɪləti /
+n. [泌尿] 不育；[妇产] 不孕；无菌；不毛；内容贫乏
 [例]  
-1.The sterility of the soil made it difficult to grow crops. 土壤的贫瘠使得种植庄稼变得困难。（读音：stəˈrɪləti）  
-2.The sterility of the conversation left everyone feeling unfulfilled. 交谈的贫乏让所有人都感到失落。（读音：stəˈrɪləti）  
-3.Sterility is a common problem in older women. 不孕是老年女性常见的问题。（读音：stəˈrɪləti）  
+1.The sterility of the soil made it difficult to grow crops. 土壤的贫瘠使得种植庄稼变得困难。
+2.The sterility of the conversation left everyone feeling unfulfilled. 交谈的贫乏让所有人都感到失落。
+3.Sterility is a common problem in older women. 不孕是老年女性常见的问题。
 [搭]  
-1.medical sterility 医学上的无菌状态。  
+1.medical sterility 医学上的无菌状态
+2.sterility infertility 不孕不育; 不孕不育检查
+3.male sterility 遗 雄性不育; 遗 雄性不育性; 男性不育; 泌尿 男性不育症
+4.Fertility and Sterility 生育与不孕; 生育与不育; 生殖与不孕; 期刊
 [联] sterility与sterile相关，都表示“无生育能力”。  
 
-mate /meɪt/  
-n. 配偶；同伴；伙伴；同类；v. 交配；使配对。  
+mate / meɪt /
+n. <英，非正式>朋友，伙伴；同伴，同事；配偶，伴侣；配对物，一对中的一个；<英>助手，下手；（船上的）大副；（美国海军的）军士；（国际象棋比赛中的）将死
+v.（使）交配；连接，配备；（国际象棋中把对方）将死
 [例]  
-1.My cat is looking for a mate. 我的猫正在寻找配偶。（读音：meɪt）  
-2.Two players mated in chess. 两名棋手在国际象棋比赛中对决。（读音：meɪt）  
-3.The lioness mates with the male once a year. 母狮每年与雄狮交配一次。（读音：meɪt）  
+1.My cat is looking for a mate. 我的猫正在寻找配偶。
+2.Two players mated in chess. 两名棋手在国际象棋比赛中对决。
+3.The lioness mates with the male once a year. 母狮每年与雄狮交配一次。
 [搭]  
-1.mating call 求偶叫声。  
+1.mating call 求偶叫声
+2.soul mate  灵魂伴侣; 心灵伴侣; 性情相投的人; 心心相印的伙伴
 [联] mate与pair相关，都与“配对”有关。  
 
-courtship /ˈkɔːr(t)ʃɪp/  
+court / kɔːrt /
+n. 法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；董事（会），理事（会）；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼
+v. 奉承，讨好；设法取得，追求；招致，引起（不愉快的事）；谈恋爱，求爱
+[例]
+1.The court adjourned for lunch. 午餐时间法庭休庭。
+2.The court is now in session. 法庭现在正在开庭。
+3.Please tell the court what happened. 请向法庭陈述事情的经过。
+[搭]
+1.Supreme Court 最高法院; 高等法院; 最高法庭; 最高裁判所
+2.tennis court 网球场; 国度网球场; 网球场图片; 球场
+3.High Court 法 高等法院; 高级法院; 最高法院; 高等法庭
+
+courtship / ˈkɔːrtʃɪp /
 n. 求爱；求婚；求偶行为。  
 [例]  
-1.Their courtship lasted for three years before they got married. 他们经历了三年的恋爱才结婚。（读音：ˈkɔːr(t)ʃɪp）  
-2.Romantic courtship rituals vary across cultures. 不同文化中的浪漫求偶仪式各不相同。（读音：ˈkɔːr(t)ʃɪp）  
-3.The bird's elaborate courtship display impressed its potential mate. 这只鸟复杂的求偶表演给潜在配偶留下了深刻印象。（读音：ˈkɔːr(t)ʃɪp）  
+1.Their courtship lasted for three years before they got married. 他们经历了三年的恋爱才结婚。
+2.Romantic courtship rituals vary across cultures. 不同文化中的浪漫求偶仪式各不相同。
+3.The bird's elaborate courtship display impressed its potential mate. 这只鸟复杂的求偶表演给潜在配偶留下了深刻印象。
+[搭]
+1.courtship display 求偶表态; 示爱; 求爱表示
+2.a cathedral courtship 教堂求婚记
+3.The Courtship 求爱; 求爱时期
 
-lay /leɪ/  
-v. 放置，安放；产卵，下蛋；铺设；使处于某种状态。  
+lay / leɪ /
+v. 安放，放置；铺放，铺设；下（蛋），产（卵）；<英>摆放（餐具）；提出，提交；使处于特定状态；阻止（某物）从地面扬起；安葬（某人）；
+n. 诗，民歌；（某物的）位置，方向；地势，地貌；（捻绳索时每股的）捻向；产卵，产卵期；<非正式>性伙伴
+adj. 外行的，非专业的；平信徒的，在俗的
+v. 躺；平放；存在，在于（lie 的过去式）
 [例]  
-1.The teacher laid the book on the desk. 老师把书放在桌子上。（读音：leɪ）  
-2.The hen lays an egg every day. 母鸡每天下一颗蛋。（读音：leɪ）  
-3.The architect laid the foundation for the building. 建筑师为大楼奠定了基础。（读音：leɪ）  
+1.The teacher laid the book on the desk. 老师把书放在桌子上。
+2.The hen lays an egg every day. 母鸡每天下一颗蛋。
+3.The architect laid the foundation for the building. 建筑师为大楼奠定了基础。
 [搭]  
-1.lay eggs 下蛋。  
-[联] lay与place有关，都与“放置”相关。  
+1.lay eggs 下蛋
+2.lay off 解雇; 休息; 裁员
+3.lay down 放下; 制定; 铺设; 规定
+[时] 复数lays 第三人称单数lays 现在分词laying 过去式laid 过去分词laid
 
-hatch /hætʃ/  
-v. 孵化；使出世；设计；密谋。  
+hatch / hætʃ /
+v. 孵化，孵出；密谋，策划
+n.（船甲板或飞机底部装货物的）舱口；（尤指厨房和餐厅之间供传递食物的）两室之间的小窗口；（飞机或宇宙飞船的）舱门；（地面或天花板的）开口
 [例]  
-1.The chick hatched from the egg after 21 days. 小鸡在鸡蛋孵化后21天破壳而出。（读音：hætʃ）  
-2.They hatched a plan to escape. 他们策划了一个逃跑计划。（读音：hætʃ）  
-3.The baby hatches out of the womb. 婴儿从子宫里出生。（读音：hætʃ）  
+1.The chick hatched from the egg after 21 days. 小鸡在鸡蛋孵化后21天破壳而出。
+2.They hatched a plan to escape. 他们策划了一个逃跑计划。
+3.The baby hatches out of the womb. 婴儿从子宫里出生。
 [搭]  
-1.hatch a plot 密谋。  
-[联] hatch与egg有关，都与“孵化”相关。brood /bruːd/, /broʊd/
-v. （母鸡等）孵（蛋）；焦虑地想（坏事）；沉思，深思
+1.hatch a plot 密谋
+2.baby hatch 弃婴保护舱; 弃婴岛
+3.hatch cover 舱口盖; 舱口盖板; 舱盖; 护盖
+4.Loading hatch 装货口; 装货舱口
+
+brood / bruːd /
+v. 孵蛋；沉思，担忧
+n. 一窝幼雏；一大家孩子；幼蜂
+adj. 传种的，为繁殖而饲养的
 [例]
 1.Mother hen is brooding over her eggs. 母鸡正在孵蛋。
 2.He brooded over his failure for days. 他几天来一直为失败而苦恼。
 3.Brood on your problems, and you will find solutions. 深思你的问题，你会找到解决办法。
 [搭] 
-brood over 沉浸于（不愉快的事）
+1.brood over 沉浸于（不愉快的事）；郁闷地沉思
+2.brood patch 抱卵点
+3.brood parasite 巢寄生; 幼体寄生
+4.brood on 念念不忘， 计较
+5.brood pouch 育仔囊；育儿袋
 [联] brood 像“broth”（汤），想象母鸡在温暖的汤中孵蛋。
 
-spawn /spɔːn/
-v. 产卵；引起，导致
+spawn / spɑːn /
+v.（鱼、青蛙、软体动物、甲壳类等）产卵；引发，促生；大量生产；<贬>（人）生（孩子，多指不想要的孩子）；用菌种体栽培
+n.（鱼、青蛙、软体动物、甲壳类等的）卵；产卵；<贬>（指人或地方所孕育的）产物，孽种；菌种体
 [例]
 1.Fish spawn in the spring. 鱼类在春天产卵。
 2.Her words spawned many new ideas. 她的话引发了诸多新想法。
 3.This incident has spawned numerous discussions. 这件事引发了无数讨论。
 [搭] 
-spawn off 引发，产生
+1.spawn off 引发，产生
+2.Particle Spawn 粒子产卵; 应用
+3.Spawn Trails 沿轨迹产卵
+4.liquid spawn 液体菌种
 [联] spawn 联想到“span”（跨度），想象鱼卵像桥梁一样连接生命。
 
-mature /məˈtʃʊr/, /məˈtjʊr/
-adj. 成熟的；成年人的；晚年的
-v. （使）成熟；长成；发育
+mature / məˈtʃʊr /
+adj. 成熟的，理智的；成年的，发育完全的；发酵成熟的，酿成的；中老年的；技艺精湛的，技巧娴熟的；审慎考虑的，深思熟虑的；（经济，行业，市场）成熟的，发展余地不大的
+v.（使）成熟，（使）长成；变理智，（举止）变成熟；酿成，制成；到期
 [例]
 1.Apples are mature when they turn red. 苹果变红时就成熟了。
 2.He matured into a fine young man. 他长大成人，成为一个优秀的年轻人。
 3.The company must mature its strategy before launching. 公司必须在推出前完善其策略。
 [搭] 
-mature market 成熟市场
+1.mature market 成熟市场
+2.mature stage 成熟期; 成熟阶段; 壮年期
+3.Mature market 成熟市场; 成熟的市场
 [联] mature 联想到“mature”（成熟的），记住这个词与年龄和成长相关。
 
-skin /skɪn/
+skin / skɪn /
 n. 皮肤；皮毛；果皮；薄层
 v. 剥皮；去皮
 [例]
@@ -439,19 +574,21 @@ v. 剥皮；去皮
 [搭] 
 skin care 护肤
 [联] skin 联想到“kin”（亲人），想象亲人的皮肤一样重要。
+[时] 复数skins 第三人称单数skins 现在分词skinning 过去式skinned 过去分词skinned
 
-claw /klɔː/
-n. 爪子；爪状物
-v. 用爪抓；紧紧抓住
+claw / klɔː /
+n.（动物的）爪，爪子；（水生有壳动物的）螯，钳；爪形器具，钳形工具
+v.（用爪）撕，抓；挠痒；（帆船）迎风而行
 [例]
 1.The bird has sharp claws. 那只鸟有尖锐的爪子。
 2.He clawed his way out of the ruins. 他用爪子从废墟中爬了出来。
 3.The cat clawed at the carpet. 猫抓挠地毯。
 [搭] 
-claw one's way through... 用尽全力穿过……
+1.claw one's way through... 用尽全力穿过……
+2.claw hammer 羊角锤; 五金 拔钉锤; 燕尾服
 [联] claw 联想到“clasp”（抓住），想象像爪子一样紧紧抓住东西。
 
-paw /pɔː/
+paw / pɔː /
 n. （猫、狗等动物的）爪子；手，爪
 v. 用爪拨弄；乱摸
 [例]
@@ -462,8 +599,8 @@ v. 用爪拨弄；乱摸
 paw through 翻找，乱翻
 [联] paw 联想到“paddle”（划桨），想象爪子拨动东西的样子。
 
-beak /bik/
-n. 喙，鸟嘴
+beak / biːk /
+n. 鸟嘴，喙；鹰鈎鼻，尖鼻；
 [例]
 1.The bird used its beak to break the nut. 鸟用喙打破坚果。
 2.The woodpecker pecked at the tree with its beak. 啄木鸟用喙啄树。
@@ -472,38 +609,47 @@ n. 喙，鸟嘴
 beak-to-beak 直视，面对面
 [联] beak 联想到“peak”（山峰），想象鸟喙像山峰一样尖锐。
 
-fin /fɪn/
-n. 鳍；鳍状物
+fin / fɪn /
+n.（鱼的）鳍；鳍状物，（飞机或汽车的）尾翅，尾翼；（潜水者的）脚蹼；散热片
+v.（穿着脚蹼）在水下游泳
 [例]
 1.The shark swam gracefully with its fins. 鲨鱼优雅地游动着它的鳍。
 2.The fish have several fins. 鱼有几片鳍。
 3.A dolphin uses its fins to steer. 海豚用鳍来转向。
 [搭] 
-finned vehicle 带鳍的交通工具
+1.finned vehicle 带鳍的交通工具
+2.fin whale 长须鲸; 鳍鲸
 [联] fin 联想到“finale”（结尾），想象最后的鳍。
 
-wing /wɪŋ/
-n. 翅膀；翼；翅膀状物
-v. （飞机等）飞行
+wing / wɪŋ /
+n.（鸟、昆虫或蝙蝠的）翅膀，翼；（飞机的）机翼；（建筑的）侧翼，耳房，厢房，配楼；（舞台的）侧面，侧翼（the wings）；（组织或政党的）派系，翼；<英>（汽车等的）挡泥板，翼子板；
+v. 飞，飞行；被迅速送往；擦伤（尤指手臂或翅膀）；用力扔（某物）；射伤（鸟的）翅膀
 [例]
 1.The bird spread its wings. 鸟展开了翅膀。
 2.The plane winged across the sky. 飞机飞过天空。
 3.Butterflies have colorful wings. 蝴蝶有彩色的翅膀。
 [搭] 
-wing it 临时应付，即兴发挥
+1.wing it 临时应付，即兴发挥
+2.left wing 左翼；左派（名词left-winger，形容词left-wing）
+3.right wing 右翼；右派
+4.on the wing 在飞行中；奔波着
 [联] wing 联想到“wind”（风），想象翅膀带风飞翔。
 
-plume /plum/
-n. 羽毛；羽毛饰物；羽毛状物
-v. 装饰；使成羽毛状
+plume / pluːm /
+n. 羽毛；羽毛装饰物；飘升之物；（尤指污染物）一团物质；地幔柱
+v. 用羽毛装饰；羽毛状展开；（鸟）整理羽毛；（人）搔首弄姿；引以为傲；飘升
 [例]
 1.The peacock has beautiful plumes. 孔雀有美丽的羽毛。
 2.The bird plumed itself. 鸟儿梳理自己的羽毛。
 3.The artist used a quill to write with a plume. 艺术家用鹅毛笔书写。
 [搭] 
-plume oneself 自豪，自夸
-[联] plume 联想到“plump”（丰满），想象羽毛丰满的样子。feather / ˈfeðər /
+1.plume oneself 自豪，自夸
+2.Shining Plume 闪亮的羽毛; 闪耀之羽
+[联] plume 联想到“plump”（丰满），想象羽毛丰满的样子。
+
+feather / ˈfeðər /
 n. 羽毛；绒毛；饰羽
+v.用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；
 [例]
 1.The bird used its feathers to keep warm. 这只鸟用羽毛来保暖。
 2.His hat had a feather in it. 他的帽子上插着一根羽毛。
@@ -513,30 +659,34 @@ feather bed 羽毛床垫；非常柔软的床。
 [联] feather 和“翅膀”相关联，翅膀由羽毛组成。
 
 fur / fɜːr /
-n. 毛皮；被毛；密生的短毛
-v. 被毛覆盖；变得多毛
+n.（某些动物的）软毛，柔毛；毛皮，裘皮；毛皮衣服，皮草；<英> 水垢，水碱；舌苔
+v. 积垢，生苔；通过插木条使（地板，墙面木料）齐平；用某种毛皮覆盖（或制成）的
 [例]
 1.The cat's fur was soft and smooth. 这只猫的毛发柔软光滑。
 2.The animal's fur thickened in winter. 动物的毛发在冬天变得更厚。
 3.The fur of this coat is real. 这件外套的毛皮是真皮的。
 [搭] 
-wear fur 穿毛皮；穿皮草。
+1.wear fur 穿毛皮；穿皮草
+2.fur coat 皮毛大衣
+3.fox fur 狐皮
+4.fur garment 裘皮服装
 [联] fur 和“动物”相关联，许多动物有毛皮。
 
-bristle / ˈbrɪsl /
-n. 刷毛；刚毛；短而硬的毛
-v. （因愤怒等）竖起；怒目而视
+bristle / ˈbrɪs(ə)l /
+n. 刚毛；粗硬短须，胡子楂；刷子毛；猪鬃
+v.（毛发）竖起；发怒；被侵犯；戒备
 [例]
 1.The brush has hard bristles. 这把刷子有硬毛。
 2.His hair bristled with anger. 他因愤怒而头发竖立。
 3.The cat's bristles stood up. 这只猫的刚毛竖了起来。
 [搭] 
-bristle brush 刷毛刷；硬毛刷。
+1.bristle brush 刷毛刷；硬毛刷。
+2.boiled bristle 水煮猪鬃
 [联] bristle 和“毛发”相关联，形容毛发坚硬或竖起。
 
 curl / kɜːrl /
-n. 卷曲；卷发；卷曲状的东西
-v. 弄成卷曲状；使卷曲
+v. （使）弯曲，卷曲；（使）盘绕，（使）弯弯曲曲移动；边缘翘起；撇（嘴）；参加冰壶运动
+n. 鬈发，卷发；（头发的）卷曲；卷曲物，螺旋状物；（锻炼肌肉的）弯曲运动
 [例]
 1.Her hair had natural curls. 她的头发天生卷曲。
 2.The curl of the ribbon added decoration. 蝴蝶结的卷曲增添了装饰。
@@ -545,66 +695,84 @@ v. 弄成卷曲状；使卷曲
 curl up 蜷缩；蜷曲起来。
 [联] curl 和“弯曲”相关联，形容事物呈卷曲状。
 
-insect / ˈɪnsekts /
-n. 昆虫；虫类
+insect / ˈɪnsekt /
+n. 昆虫；类似昆虫的小动物（如蜘蛛）；卑鄙的人
 [例]
 1.Ants are small insects. 蚂蚁是小昆虫。
 2.The garden was full of insects. 花园里满是昆虫。
 3.Some insects can be pests. 一些昆虫可能是害虫。
 [搭] 
-insect bite 昆虫叮咬；昆虫咬伤。
+1.insect bite 昆虫叮咬；昆虫咬伤
+2.insect pest 害虫
+3.insect resistance 昆虫抗药性；防蛀性；耐虫性
+4.insect bite 昆虫咬伤；被虫咬伤；蚊虫叮咬
 [联] insect 和“自然界”相关联，昆虫是自然界的重要组成部分。
 
 worm / wɜːrm /
-n. 蠕虫；虫子；蚯蚓
-v. 缓慢地爬行；蠕动
+n. 蠕虫；（某些昆虫的）幼虫；寄生虫，寄生虫病；小人物，懦夫；蠕虫病毒；蛆虫；螺纹状物，蜗杆，旋管
+v. （给动物）驱肠虫；蠕动，曲折行进；（通常为欺骗别人或得到好处）逐渐取得（成功或好感）
+abbr. 一次写入型光盘，单写多读型光盘（write-once read-many）
 [例]
 1.The worm crawled slowly. 这条虫缓慢地爬行。
 2.Worms live in the soil. 蚯蚓生活在土壤中。
 3.The fisherman used worms as bait. 这个渔夫用虫子当诱饵。
 [搭] 
-worm your way into 通过钻营进入。
+1.worm your way into 通过钻营进入
+2.computer worm 计算机蠕虫
 [联] worm 和“泥土”相关联，许多虫子生活在泥土中。
 
 pest / pɛst /
-n. 害虫；讨厌的人或事
+n. 害虫，有害动物；<非正式>讨厌的人（或物）
 [例]
 1.Rats are considered pests. 老鼠被认为是害虫。
 2.The pest control team arrived. 害虫防治小组到达了。
 3.Don't be such a pest. 不要这么讨厌。
 [搭] 
-pest control 害虫防治；害虫控制。
+1.pest control 害虫防治；害虫控制。
+2.pest management 病虫害控制；病虫害治理；有害生物管理
+3.insect pest 害虫
 [联] pest 和“害处”相关联，形容有害的事物。
 
 parasite / ˈpɛrəsaɪt /
-n. 寄生虫；寄生物；食客
+n. 寄生植物（或动物），寄生虫；不劳而获者，依赖他人过活者
 [例]
 1.Tapeworms are parasites. 绦虫是寄生虫。
 2.The parasite feeds off its host. 寄生虫以宿主为食。
 3.Parasites can cause disease. 寄生虫能引起疾病。
 [搭] 
-parasite-host relationship 寄生关系。
-[联] parasite 和“依赖”相关联，寄生虫依赖宿主生存。
+1.parasite-host relationship 寄生关系。
+2.web site 网页；网址
+3.on site 现场；原地；原位
+4.construction site 建筑工地；施工场地
+[联] para + site(地点，现场，场所) ——> 寄生虫依赖宿主生存
 
 spider / ˈspaɪdər /
-n. 蜘蛛；蜘蛛状物
+n. 蜘蛛；（搜索引擎的）蜘蛛程序，（计算机）爬虫程序；状似蜘蛛的物体；<英>蛛网形系索；台球棒三脚架；设圈套者
+v. （似蜘蛛般）急促爬动；设网，设圈套；（在因特网上）快速搜索（crawl 的别名）
 [例]
 1.The spider spun a web. 蜘蛛织网。
 2.The spider crawled across the wall. 蜘蛛爬过墙壁。
 3.Children are afraid of spiders. 孩子们害怕蜘蛛。
 [搭] 
-spider web 蜘蛛网；蛛网。
+1.spider web 蜘蛛网；蛛网
+2.spider silk 蜘蛛丝
 [联] spider 和“织网”相关联，蜘蛛擅长织网捕食。
 
 butterfly / ˈbʌtərflaɪ /
-n. 蝴蝶；轻佻的人
+n. 蝴蝶；见异思迁的人，轻浮易变的人；蝶泳，蝶泳比赛；<非正式>紧张，心慌；耳环托
+v.（将食物）切成蝴蝶展翅状，使成蝶形
+adj. 蝴蝶状
 [例]
 1.Butterflies fly gracefully. 蝴蝶飞舞优雅。
 2.The butterfly landed on the flower. 蝴蝶落在花上。
 3.Butterflies are attracted to bright colors. 蝴蝶被明亮的颜色吸引。
 [搭] 
-butterfly effect 蝴蝶效应；微小事件引发巨大影响。
-[联] butterfly 和“美丽”相关联，蝴蝶常被视为美丽的象征。请提供需要查询的单词或词组，我将严格按照您提供的格式进行输出。elephant / ˈɛləfənt /  
+1.butterfly effect 蝴蝶效应；微小事件引发巨大影响
+2.social butterfly 交际花
+3.Butterfly Lovers 梁祝; 梁山伯与祝英台; 化蝶; 剑蝶
+[联] butterfly 和“美丽”相关联，蝴蝶常被视为美丽的象征。
+
+elephant / ˈɛləfənt /
 n. （大象）  
 - **读音**：美式发音为 /ˈɛləfənt/。  
 - **词性解释**：  
@@ -1811,10 +1979,3 @@ vulnerable /ˈvʌlnərəbl/
 adj. 易受攻击的；脆弱的；易受伤害的
 [例]
 1.Children are vulnerable to exploitation. 儿童容易受到剥削。
-2.The city's defenses left it vulnerable to attack. 这座城市的防御使其容易受到攻击。
-3.Her heart was vulnerable to emotional pain. 她的心灵容易受到情感上的伤害。
-[搭]
-1.vulnerable population 脆弱人群
-2.vulnerable spots 薄弱点
-[联] vuln-(脆弱) + -erable(容易...)——> 容易被伤害的。
-
