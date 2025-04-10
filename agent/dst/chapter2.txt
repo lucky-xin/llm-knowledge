@@ -13,14 +13,14 @@ organism
 genetics
 mutation
 variation
-hybridisation
 diversity
+hybridisation
 classify
 reproduce
 evolve
 fluctuate
-cultivate
 reclaim
+cultivate
 sow
 harvest
 pluck
@@ -99,8 +99,9 @@ uptake
 nutrient
 energy
 surroundings
-counterbalance
 mechanism
+counterbalance
+protect
 preserve
 conservation
 bush fire
@@ -118,3 +119,12 @@ impact
 seasonal
 experimental
 favourable
+productive
+efficient
+effective
+considerable
+massive
+immense
+maximal
+minimal
+optimal

@@ -121,6 +121,107 @@ n.野兽，猛兽；残暴的人。
 1.beast of prey 捕食动物
 [联] beast = "best"（旧拼写），意为“最好的”，这里指强大的、有力的生物。
 
+creature / ˈkriːtʃər /, / ˈkriːtər /
+n. 生物，动物；（尤指）怪兽，怪物。（读音不同是因为美式发音中“-ture”可弱化为/ər/）
+[例]
+1.This creature has never been seen before. 这种生物以前从未被发现过。
+2.The creature in the movie was terrifying. 电影里的那个生物非常可怕。
+3.In this story, the creature is friendly and helpful. 在这个故事中，这个生物友好且乐于助人。
+[搭] 
+1.creatures of habit 守旧的人
+wild creatures 野生动物
+[联] creature = create（创造）+ -ure（名词后缀）——> 被创造之物。
+
+wildlife / ˈwaɪldlaɪf /
+n. 野生动植物；野外生活。
+[例]
+1.The wildlife in this area is very diverse. 这个地区的野生动植物种类非常丰富。
+2.The documentary focuses on the beauty of wildlife. 这部纪录片聚焦于野生动植物之美。
+3.Protecting wildlife is essential for maintaining biodiversity. 保护野生动植物对于维持生物多样性至关重要。
+[搭] 
+1.wildlife conservation 野生动植物保护
+endangered wildlife 濒危野生动植物
+
+fauna / ˈfɔːnə /
+n. （一个地区或时期的）动物群；动物界。（读音：美式/ˈfɔːnə/, 英式/ˈfɒnə/)
+[例]
+1.The book provides an overview of local fauna. 这本书概述了当地的动物群。
+2.Marine fauna is fascinating to study. 海洋动物群研究起来很有趣。
+3.Many species of fauna have become extinct due to habitat loss. 因栖息地丧失，许多动物物种已经灭绝。
+[搭] 
+fauna and flora 动植物
+
+flora / ˈflɔːrə /
+n. （一个地区或时期的）植物群；植物界。（读音：美式/ˈflɔːrə/, 英式/ˈflɒrə/)
+[例]
+1.The book introduces the native flora of the region. 这本书介绍了该地区的本土植物群。
+2.Flora and fauna are both important for ecosystem health. 植物和动物对于生态系统健康都很重要。
+3.Botanists study the diversity of regional flora. 植物学家研究区域植物群的多样性。
+[搭] 
+flora and fauna 植物和动物
+
+species / ˈspiːʃiːz /
+n. 物种；种类。（复数形式为species，读音不变）
+[例]
+1.Human beings belong to the species Homo sapiens. 人类属于智人这一物种。
+2.There are many endangered species in the world. 世界上有许多濒危物种。
+3.The scientist discovered a new species of insect. 这位科学家发现了一种新的昆虫物种。
+[搭] 
+1.endangered species 濒危物种
+native species 土著物种
+[联] species = speci（看）+ -es（名词后缀）——> 可识别的东西。
+
+flock / flɑːk /, / flɑːk /
+n. 群；羊群；鸟群；（人群）蜂拥而至。（读音：第一种为美式发音，第二种为英式发音）
+v. 成群结队地走；成群聚集。
+[例]
+1.A flock of birds flew over the lake. 一群鸟飞过了湖面。
+2.The sheep flocked together in the field. 羊群在田野里聚集在一起。
+3.Tourists flocked to the museum during the holidays. 假期期间游客蜂拥至博物馆。
+[搭] 
+1.flock of birds 鸟群
+a flock of sheep 羊群
+
+herd / hɜːrd /
+n. 群；畜群；牧群。
+v. 赶，驱赶（牲畜）。
+[例]
+1.A herd of cows grazed in the meadow. 一群奶牛在草地上吃草。
+2.The shepherd herded the sheep into the pen. 牧羊人把羊群赶进了围栏。
+3.The wildlife park has a large herd of deer. 这个野生动物园有一大群鹿。
+[搭] 
+herd of cattle 牛群
+
+swarm / swɑːrm /
+n. 蜂群；一大群。
+v. （蜜蜂等）成群飞舞；（人）涌向。
+[例]
+1.The bees swarmed around the flower. 蜜蜂成群飞舞在花周围。
+2.A swarm of people gathered at the entrance. 一群人涌向入口。
+3.The children swarmed out of the school after class. 放学后孩子们蜂拥而出。
+[搭] 
+1.swarm of bees 蜜蜂群
+
+throng / θrɑːŋ /
+n. 涌入的人群；密集的人群。
+v. 涌入；密集。
+[例]
+1.The city square was thronged with people. 城市广场上挤满了人。
+2.The fans thronged the stadium to see the match. 球迷涌入体育场观看比赛。
+3.The tourists thronged the narrow streets. 游客涌入狭窄的街道。
+[搭] 
+throng of people 人群
+
+crowd / kraʊd /
+n. 人群；群众。
+v. 挤满；聚集。
+[例]
+1.The crowd cheered loudly at the concert. 观众在音乐会上大声欢呼。
+2.The subway station was crowded with commuters. 地铁站挤满了通勤者。
+3.The students crowded into the classroom. 学生们涌入教室。
+[搭] 
+1.large crowd 大型人群
+
 brute /brut/, /bruːt/
 n.野兽，粗鲁的人；adj.残忍的，野蛮的。
 [例]
@@ -516,6 +617,110 @@ n. （大象）
   - elephant in the room 指的是大家都不愿意提及但显而易见的问题。  
 - **联想记忆**：elephant 和 "large" 联想，因为大象体型巨大。  
 
+beast /bizt/, /biːst/
+n. 兽，野兽；凶残的人；（尤指难对付或令人害怕的事物）怪物。
+[例]
+1.The lion is considered the king of all beasts. 狮子被认为是百兽之王。
+2.That man is a beast when he's drunk. 那个人喝醉时就像个野兽。
+3.A beast of burden carried the supplies to the camp. 一头负重的牲畜把补给运到了营地。
+[搭] 
+beast of prey 捕猎动物。
+[联] beast = "b" (big) + "east" (strong) ——> 强壮的大动物。
+
+feed /fid/
+v. 喂养；饲养；供给；供应；使满足；喂食 n. 饲料；食物；饲料场；饲料厂
+/fit/
+v. 供以燃料；给……加燃料；喂养；使满足；供……使用；向……提供信息
+[例]
+1.She feeds her dog every day. 她每天喂狗。
+2.The fire was fed with wood. 火被添加了木头。
+3.My heart feeds on hope. 我的心依赖希望生存。
+[搭] 
+feed on 吃（某种食物）；以……为食；依靠……生活；依赖……；啃噬。
+[联] feed = "f" (food) + "eed" (eat) ——> 提供食物。
+
+brood /bruːd/
+v. 深思；冥想；忧思；孵卵；（鸟等）孵育（后代）
+[例]
+1.He brooded over the problem for days. 他几天来一直在思考这个问题。
+2.The hen is brooding. 母鸡正在孵蛋。
+3.I brood about my future. 我在思考我的未来。
+[搭] 
+brood over 深思；沉思；忧心忡忡地思索。
+[联] brood = "broo" (brother) + "d" (do) ——> 兄弟们一起做。
+
+feather /ˈfedər/
+n. 羽毛；翎毛；羽饰 v. 轻拂；装饰；使成羽毛状
+[例]
+1.The bird has beautiful feathers. 这只鸟有漂亮的羽毛。
+2.The wind feathered the surface of the water. 风轻拂着水面。
+3.The artist feathered the paint to create a soft effect. 艺术家用画笔轻轻涂抹颜料，创造出柔和的效果。
+[搭] 
+feather one's nest 谋取私利；中饱私囊。
+[联] feather = "f" (flight) + "eather" (light) ——> 轻盈飞翔。
+
+mosquito /məˈskiːtoʊ/
+n. 蚊子
+[例]
+1.The mosquito bit me on the ankle. 蚊子咬了我的脚踝。
+2.Mosquitoes can spread diseases. 蚊子能传播疾病。
+3.I used a mosquito net to keep them away. 我用蚊帐把它们挡在外面。
+[搭] 
+mosquito net 蚊帐；防蚊网。
+[联] mosquito = "mosqu" (buzzing sound) + "ito" (small) ——> 小嗡嗡声。
+
+cricket /ˈkrɪkɪt/
+n. 蟋蟀；板球
+[例]
+1.The cricket chirped all night long. 蟋蟀整夜都在鸣叫。
+2.Cricket is popular in England. 板球在英国很受欢迎。
+3.I caught a cricket in the backyard. 我在后院抓到了一只蟋蟀。
+[搭] 
+cricket bat 板球拍；击球拍。
+[联] cricket = "crick" (crackling sound) + "et" (small) ——> 小噼啪声。
+
+penguin /ˈpeŋɡwɪn/
+n. 企鹅
+[例]
+1.The penguin waddled across the ice. 企鹅摇摇摆摆地穿过冰面。
+2.Penguins live in cold climates. 企鹅生活在寒冷的气候中。
+3.The zookeeper fed the penguins fish. 动物园管理员给企鹅喂鱼。
+[搭] 
+penguin suit 企鹅服；燕尾服。
+[联] penguin = "peng" (penguin-like) + "uin" (quintessential) ——> 典型的企鹅。
+
+seal /sil/
+n. 海豹；封条；印章 v. 封；密封；盖章
+/sil/
+n. 印章；封条；海豹
+[例]
+1.The seal swam gracefully. 海豹优雅地游泳。
+2.The letter was sealed with wax. 信件被蜡封住了。
+3.The king placed his seal on the document. 国王在文件上盖上了印章。
+[搭] 
+seal off 封闭；封锁。
+[联] seal = "s" (sea) + "eel" (eel-like) ——> 海中的鳗鱼。
+
+tortoise /ˈtɔːrtoʊs/
+n. 龟；乌龟
+[例]
+1.The tortoise walked slowly. 龟慢慢地走。
+2.Tortoises can live for hundreds of years. 龟可以活几百年。
+3.I saw a tortoise in the garden. 我在花园里看到了一只龟。
+[搭] 
+tortoise shell 龟壳；玳瑁。
+[联] tortoise = "tort" (twist) + "oise" (shell) ——> 扭曲的壳。
+
+turtle /ˈtɜːrtl/
+n. 海龟；龟甲
+[例]
+1.The turtle swam in the ocean. 海龟在海洋中游泳。
+2.Turtles lay eggs on the beach. 海龟在海滩上产卵。
+3.I saw a turtle at the aquarium. 我在水族馆看到了一只海龟。
+[搭] 
+turtle soup 海龟汤。
+[联] turtle = "tur" (turn) + "tle" (shell) ——> 转动的壳。
+
 trunk / trʌŋk /  
 n. （大象的鼻子；树干；行李箱）  
 - **读音**：美式发音为 /trʌŋk/。  
@@ -647,6 +852,106 @@ n. （马等动物拉的）挽具，套具
 1.harness the wind 利用风能  
 2.put a harness on 控制，驾驭  
 [联] har(n) (拉) + ness (状态，性质) ——> 像挽具一样控制或束缚某物的状态。  
+
+whale / hweɪl, wel /
+n. 鲸鱼；巨兽。
+[例]
+1.The whale is one of the largest animals in the world. 鲸鱼是世界上最大的动物之一。
+2.A whale can weigh up to 200 tons. 一头鲸鱼可以重达200吨。
+3.Scientists study whales to understand their behavior. 科学家们研究鲸鱼以了解它们的行为。
+[搭] 
+1.whale watching 观赏鲸鱼。
+[联] whale 和 well 发音相似，可联想为“井”（well），想象一口深井中有一头巨大的鲸鱼。
+
+kangaroo / ˌkæŋɡəˈruː /
+n. 袋鼠。
+[例]
+1.Kangaroos are native to Australia. 袋鼠是澳大利亚特有的动物。
+2.The kangaroo uses its tail for balance when jumping. 袋鼠跳跃时用尾巴保持平衡。
+3.Kangaroos can jump as high as 9 meters. 袋鼠能跳高达9米。
+[搭] 
+无特别搭配。
+[联] kangaroo 和 kangaroo pouch（袋鼠育儿袋）联系起来记忆。
+
+camel / ˈkæml /
+n. 骆驼。
+[例]
+1.The camel can survive in the desert for days without water. 骆驼可以在沙漠中数天不喝水生存。
+2.Camels have long been used for transportation in deserts. 骆驼长期以来被用于沙漠中的运输。
+3.Travelers often rely on camels for long journeys. 旅行者经常依靠骆驼进行长途旅行。
+[搭] 
+1.desert camel 沙漠中的骆驼。
+[联] camel 和 camel hump（驼峰）联系起来记忆。
+
+panda / ˈpændə /
+n. 熊猫。
+[例]
+1.Pandas are an endangered species. 熊猫是一种濒危物种。
+2.Children love pandas because they are cute. 孩子们喜欢熊猫，因为它们很可爱。
+3.Zoos around the world try to breed pandas. 全世界的动物园都在努力繁殖熊猫。
+[搭] 
+1.panda bear 熊猫。
+[联] panda 和 panda habitat（熊猫栖息地）联系起来记忆。
+
+elephant / ˈeləfənt /
+n. 大象。
+[例]
+1.Elephants are known for their long trunks. 大象以其长长的鼻子而闻名。
+2.An elephant never forgets. 大象永远不会忘记。（谚语）
+3.Elephants are social animals. 大象是群居动物。
+[搭] 
+1.elephant memory 大象的记忆力。
+[联] elephant 和 ele (大象的长牙) + phant (幻影) 联想记忆。
+
+pup / pʌp /
+n. 幼犬；幼崽。
+[例]
+1.The pups are playing in the yard. 幼犬正在院子里玩耍。
+2.Mother cats take care of their pups. 母猫照顾它们的幼崽。
+3.Pups need a lot of attention and care. 幼犬需要很多关注和照顾。
+[搭] 
+无特别搭配。
+[联] pup 和 puppy（小狗）发音相近，容易记忆。
+
+lamb / læm /
+n. 小羊；羔羊。
+[例]
+1.The lamb followed its mother closely. 小羊紧紧跟随它的母亲。
+2.Lamb meat is popular in some countries. 羔羊肉在一些国家很受欢迎。
+3.Farmers raise lambs for wool and meat. 农民饲养小羊以获取羊毛和肉。
+[搭] 
+1.lamb chop 小羊排。
+[联] lamb 和 lamb wool（羊毛）联系起来记忆。
+
+cattle / ˈkætl /
+n. 牛（复数形式）。
+[例]
+1.Cattle provide milk and meat for humans. 牛为人类提供牛奶和肉。
+2.The farmer herded his cattle into the barn. 农夫把牛赶进谷仓。
+3.Ranchers raise cattle for profit. 牧场主为了利润饲养牛。
+[搭] 
+1.cattle ranch 牛牧场。
+[联] cattle 和 cattle drive（驱赶牛群）联系起来记忆。
+
+ox / ɑks /
+n. 公牛；阉牛。
+[例]
+1.Oxen are stronger than horses. 公牛比马强壮。
+2.Oxen were used to pull carts in the past. 过去公牛被用来拉车。
+3.An ox can pull heavy loads. 公牛能拉动沉重的货物。
+[搭] 
+无特别搭配。
+[联] ox 和 oxen（复数形式）联系起来记忆。
+
+oxen / ˈɑksn /
+pl. 公牛；阉牛。
+[例]
+1.Oxen are strong animals. 公牛是强壮的动物。
+2.Oxen help farmers work in the fields. 公牛帮助农民在田间劳作。
+3.Oxen are often used in rural areas. 公牛常用于农村地区。
+[搭] 
+无特别搭配。
+[联] oxen 和 ox（单数形式）联系起来记忆。
 
 falcon / ˈfɔːlkən /  
 n. 雕，猎鹰  
@@ -848,6 +1153,108 @@ adj. 稳定的；安定的
 2.stable environment 稳定的环境  
 [联] 来自拉丁语 "stabilis"，意思是稳固的。  
 
+bull / bʊl /
+n. 公牛；（任何领域的）首领，领袖。
+[例]
+1.The bull in the field was very aggressive. 那头公牛在田野里非常凶猛。
+2.The bull market has been going strong for years. 牛市已经持续多年。
+3.He is known as the bull of the organization because of his strong leadership. 由于他的强大领导力，他被称为组织中的“公牛”。
+[搭]
+1.bull session 长时间的讨论会（尤指毫无结果的）
+2.a bullish trend 看涨的趋势
+[联] bull (公牛) ——> 强壮、有力的形象。
+
+buffalo / bʌfəloʊ /
+n. 水牛。
+[例]
+1.African buffalo are dangerous animals. 非洲水牛是危险的动物。
+2.The zookeeper fed the buffalo some hay. 动物园管理员给水牛喂了些干草。
+3.The buffalo stood still in the field. 水牛静静地站在田野里。
+[搭] 
+1.water buffalo 水牛
+[联] buffalo (水牛) ——> 联想到非洲草原上的大型动物。
+
+horse / hɔrs /
+n. 马；（某人或某事物的）力量。
+[例]
+1.The horse galloped across the field. 马飞快地跑过田野。
+2.He rides a horse every weekend. 他每周末都骑马。
+3.The horse pulled the cart with great strength. 这匹马拉着车用了很大的力气。
+[搭]
+1.racehorse 赛马
+2.horseback riding 骑马
+[联] horse (马) ——> 联想到赛马场或乡村田园。
+
+zebra / ˈziːbrə /
+n. 斑马。
+[例]
+1.The zebra is a beautiful animal. 斑马是一种美丽的动物。
+2.The zebra and the lion were close to each other. 斑马和狮子离得很近。
+3.The zebra's stripes help it blend into its surroundings. 斑马的条纹帮助它融入周围环境。
+[搭]
+1.zebra crossing 斑马线
+[联] zebra (斑马) ——> 联想到黑白相间的条纹。
+
+donkey / ˈdɑŋki /
+n. 驴。
+[例]
+1.The donkey carried heavy loads. 驴驮着重物。
+2.The donkey followed the farmer closely. 驴紧紧地跟着农夫。
+3.The donkey brayed loudly. 驴大声地叫。
+[搭]
+1.donkey work 繁重的工作
+[联] donkey (驴) ——> 联想到勤劳的象征。
+
+saddle / ˈsædl /
+n. 马鞍；负担 vt. 给……装马鞍；使负重担。
+[例]
+1.The cowboy put the saddle on the horse. 牛仔把马鞍放在马上。
+2.The weight of the world seemed to saddle him. 世界的重量似乎让他不堪重负。
+3.She learned how to saddle a horse. 她学会了如何给马装上马鞍。
+[搭]
+1.saddlebag 马鞍袋
+[联] saddle (马鞍) ——> 联想到骑马旅行。
+
+harness / ˈhɑrnɪs /
+n. 马具；控制装置 vt. 利用；驾驭。
+[例]
+1.The harness kept the horse under control. 马具让马保持受控状态。
+2.They harnessed the power of the wind. 他们利用了风的力量。
+3.The company harnessed new technology to improve efficiency. 公司利用新技术提高效率。
+[搭]
+1.harness the energy of the sun 利用太阳能
+[联] harness (马具) ——> 联想到驾驭力量。
+
+goose / Gus /
+n. 鹅。
+[例]
+1.The goose honked loudly. 鹅大声地叫。
+2.The mother goose led her babies to the pond. 母鹅带领她的孩子们去池塘。
+3.The geese flew in a V formation. 鹅群以V字形飞行。
+[搭]
+1.goose bumps 鸡皮疙瘩
+[联] goose (鹅) ——> 联想到农场里的家禽。
+
+bark / bɑrk /
+v. （狗等动物）吠叫 n. 树皮。
+[例]
+1.The dog barked at the stranger. 狗对着陌生人吠叫。
+2.The bark of the tree was rough. 树皮粗糙。
+3.The dog's bark frightened the intruder. 狗的吠声吓跑了入侵者。
+[搭]
+1.barking dogs seldom bite 犬不惊，人不乱。
+[联] bark (树皮) ——> 联想到森林中的树木。
+
+roar / rɔr /
+v. 吼叫；咆哮 n. 吼叫声。
+[例]
+1.The lion roared in the jungle. 狮子在丛林中咆哮。
+2.The crowd roared with laughter. 观众哄堂大笑。
+3.The engine roared as it accelerated. 发动机加速时发出轰鸣声。
+[搭]
+1.roar with laughter 笑得前仰后合
+[联] roar (吼叫) ——> 联想到野兽的叫声。
+
 stable / ˈsteɪbəl /  
 n. 马厩；畜棚  
 [例]  
@@ -961,6 +1368,96 @@ n. 微生物（可数名词）
 2.microbe culture 微生物培养
 [联] 小（micro）+ 生物（be）——> 微小的生命体。
 
+rub / rʌb /
+v. （使）摩擦，擦；（为弄脏或损坏而）擦伤，擦破；（通过摩擦）弄脏，弄坏。
+[例]
+1.I rubbed my hands together to warm them up. 我搓手取暖。
+2.The dog's fur rubbed against my leg. 狗毛蹭到了我的腿上。
+3.He rubbed out the mistake with his finger. 他用手指擦掉了错误。
+[搭] rub off 擦掉，磨掉；影响，感染（他人）。
+[联] rub 发音与“拉布”谐音。
+
+creep / krip /
+v. 匍匐前进，爬行；悄悄地走；（令人感到）毛骨悚然。
+[例]
+1.The snake crept along the ground. 那条蛇在地上爬行。
+2.Don't creep up on me like that! 别那样偷偷靠近我!
+3.The thought of ghosts creeping into my room made me shiver. 想到鬼魂可能溜进我的房间让我浑身发抖。
+[搭] creep up on sb. 偷偷接近某人；逐渐降临。
+[联] creep 发音与“克里普”谐音。
+
+crawl / krɔl /
+v. 爬行，匍匐前进；缓慢移动。
+[例]
+1.The baby crawled across the floor. 婴儿爬过地板。
+2.The traffic was crawling during rush hour. 上班高峰期间交通缓慢移动。
+3.We crawled out of the cave after hours of searching. 经过几个小时的搜寻，我们从洞穴里爬了出来。
+[搭] crawl into 爬进；缓慢进入。
+[联] crawl 发音与“克罗尔”谐音。
+
+habitat / ˈhæbɪtæt /
+n. 栖息地，（动植物的）自然生活环境。
+[例]
+1.Forests are the natural habitat of many animals. 森林是许多动物的自然栖息地。
+2.The coral reef is home to a wide variety of marine life. 珊瑚礁是各种海洋生物的栖息地。
+3.Man's activities have destroyed many habitats for wildlife. 人类活动破坏了许多野生动物的栖息地。
+[搭] urban habitat 城市栖息地。
+[联] habitat 发音与“哈比塔特”谐音。
+
+nest / nɛst /
+n. 巢，窝；（如巢般聚集在一起的）集合体；v. 筑巢，做窝。
+[例]
+1.The bird built its nest high in the tree. 鸟儿在树顶筑了一个巢。
+2.The company's headquarters is a nest of corruption. 这家公司的总部是一个腐败的温床。
+3.They nestled in their cozy little nest. 他们窝在舒适的小窝里。
+[搭] make a nest 筑巢；build a nest 建巢。
+[联] nest 发音与“内斯特”谐音。
+
+hive / haɪv /
+n. 蜂箱，蜂巢；一群忙碌的人；v. （像蜜蜂一样）忙碌地工作。
+[例]
+1.The beekeeper checked the hive for honey. 养蜂人检查蜂箱里的蜂蜜。
+2.A hive of activity filled the room. 整个房间里充满了一片忙碌的景象。
+3.He hived away all day, writing his novel. 他整天埋头写作他的小说。
+[搭] be a hive of activity 非常繁忙。
+[联] hive 发音与“海夫”谐音。
+
+cell / sɛl /
+n. （生物的）细胞；小房间，囚室；电池。
+[例]
+1.Every living thing is made up of cells. 每一种生物都是由细胞构成的。
+2.The prisoner was locked in a small cell. 囚犯被关在一个小囚室里。
+3.My phone battery is running low; I need to charge it. 我的手机电池快没电了，得充电了。
+[搭] cell phone 手机；solar cell 太阳能电池。
+[联] cell 发音与“塞尔”谐音。
+
+cage / keɪdʒ /
+n. 笼子，笼状物；v. 把...关在笼子里。
+[例]
+1.The lion is kept in a large cage at the zoo. 这只狮子在动物园里被关在一个大笼子里。
+2.They caged the dangerous animal until it calmed down. 他们把这只危险的动物关起来直到它平静下来。
+3.My daughter loves playing in her play cage. 我女儿喜欢在她的游戏笼子里玩耍。
+[搭] put sb./sth. in a cage 把某人/某物关在笼子里。
+[联] cage 发音与“凯吉”谐音。
+
+gene / dʒin /
+n. 基因。
+[例]
+1.Mutations in genes can cause diseases. 基因突变会导致疾病。
+2.Hereditary traits are passed down through genes. 遗传特征是通过基因传递的。
+3.The scientist studied the gene responsible for eye color. 科学家研究了决定眼睛颜色的基因。
+[搭] gene therapy 基因治疗；gene editing 基因编辑。
+[联] gene 发音与“吉恩”谐音。
+
+microbe / ˈmaɪkrəʊb /
+n. 微生物。
+[例]
+1.Some microbes are harmful to humans. 一些微生物对人类有害。
+2.The body fights off microbes with its immune system. 人体通过免疫系统对抗微生物。
+3.Microbes play an important role in the ecosystem. 微生物在生态系统中起着重要作用。
+[搭] pathogenic microbe 致病微生物；beneficial microbe 益生菌。
+[联] microbe 发音与“迈克鲁布”谐音。
+
 metabolism / məˈtæbəlɪzəm /
 n. 新陈代谢（不可数名词）
 [例]
@@ -968,6 +1465,8 @@ n. 新陈代谢（不可数名词）
 2.Exercise can improve your metabolism. 锻炼可以提高你的新陈代谢。
 3.A balanced diet is important for maintaining a healthy metabolism. 均衡饮食对于维持健康的代谢很重要。
 [联] meta- (变化) + bol- (投掷) + -ism (状态或过程) ——> 变化的投掷过程，即新陈代谢。
+
+victim / ˈvɪktɪm /
 
 secrete / sɪˈkriːt / 或 / ˈsiːkriːt /
 v. 分泌（动词）
@@ -1165,115 +1664,23 @@ n. 痕迹；微量；vt. 追溯；追踪
   trace evidence 痕迹证据
 - [联] trac (轨迹) + e——> 轨迹。alternate / ˈɔːltərn, ælˈtɜːrn /
 
-v. 轮流，交替；交替使用；替换
-[例]
-1.The two teams alternate possession of the ball. 这两支队伍轮流控制球。
-2.We alternate between Spanish and English when we talk. 我们交谈时轮流用西班牙语和英语。
-3.The flowers bloom in alternate colors. 这些花以交替的颜色绽放。
-[搭] alternate days 每隔一天；alternate weeks 每隔一周。
-[联] alter (改变) + -nate (表示动作反复发生) ——> 轮流改变。
-
 prey / preɪ /
-
-n. 猎物；牺牲品；受害者
-v. 捕食；侵害；折磨
-[例]
-1.The lion pounced on its prey. 狮子扑向猎物。
-2.He became the prey of his own fears. 他被自己的恐惧所折磨。
-3.The weak are often prey to the strong. 弱者常成为强者的猎物。
-[搭] fall prey to 成为……的牺牲品。
-[联] pre- (表示“在前”) + ey (表示“眼睛”，源自古英语) ——> 在前方观察到目标。
 
 predator / prɪˈdeɪtər /
 
-n. 捕食者；掠夺者
-[例]
-1.The eagle is a powerful predator. 鹰是一种强大的捕食者。
-2.Human beings have become predators in many ecosystems. 人类在许多生态系统中已成为捕食者。
-3.Predators often hunt in packs. 捕食者常常成群捕猎。
-[搭] predator-prey relationship 捕食者与猎物的关系。
-[联] predate (捕食) + -or (表示人或事物) ——> 捕食者。
-
 victim / ˈvɪktɪm /
-
-n. 受害者；牺牲品
-[例]
-1.She became a victim of domestic violence. 她成为家庭暴力的受害者。
-2.The company's collapse left many victims. 公司的倒闭使许多人受害。
-3.Don't be a victim of circumstance. 不要做命运的牺牲品。
-[搭] victim of 害怕……的人。
-[联] vict (胜利) + -im (表示失败的一方) ——> 被打败的人。
 
 captive / ˈkæptɪv /
 
-adj. 被俘虏的；被迷住的
-n. 囚犯；俘虏
-[例]
-1.The soldiers were taken captive. 士兵们被俘虏了。
-2.The audience was held captive by the speaker's charm. 听众被演讲者的魅力迷住了。
-3.A captive audience is one that has no choice but to listen. 被困住的听众是没有选择只能听的人。
-[搭] captive market 被动市场；captive audience 被困住的听众。
-[联] capt (抓住) + -ive (表示状态) ——> 被抓住的状态。
-
 captivate / ˈkæptɪveɪt /
-
-v. 迷住，吸引；迷惑
-[例]
-1.Her beauty captivated everyone who saw her. 她的美貌迷住了所有见过她的人。
-2.The magician captivated the children with his tricks. 魔术师用他的把戏迷住了孩子们。
-3.The book captivated readers for weeks. 这本书让读者着迷了好几个星期。
-[搭] captivate sb.'s attention 吸引某人的注意力。
-[联] capt (抓住) + -ivate (表示使……) ——> 使被抓住。
 
 defensive / dɪˈfensɪv /
 
-adj. 防御的；戒备的；保护的
-[例]
-1.The city built defensive walls around itself. 这个城市围绕自身建造了防御墙。
-2.She took a defensive stance when questioned. 当被质问时，她采取了防御姿态。
-3.The team played a very defensive game. 这支队伍打了一场非常防守型的比赛。
-[搭] defensive line 防线；defensive strategy 防御策略。
-[联] defend (保护) + -ive (表示性质) ——> 保护性的。
+undergo / ˌʌndərˈɡo /
 
 defend / dɪˈfend /
 
-v. 防护；保卫；辩护
-[例]
-1.The castle was well defended against attackers. 这座城堡很好地抵御了攻击者。
-2.He defended his actions vigorously. 他强烈为自己辩解。
-3.The lawyer will defend the accused. 律师将为被告辩护。
-[搭] defend oneself 自卫；defend against 抵抗，防御。
-[联] de- (表示“向下”) + fend (击退) ——> 向下击退。
-
-undergo / ˌʌndərˈɡo /
-
-v. 经历，遭受；忍受
-[例]
-1.He underwent surgery last week. 上周他接受了手术。
-2.They underwent a lot of changes. 他们经历了很多变化。
-3.The company is undergoing a major restructuring. 这家公司正在进行重大重组。
-[搭] undergo training 接受训练；undergo testing 接受测试。
-[联] under- (表示“在……之下”) + go (走过去) ——> 经历。
-
 suffer / ˈsʌfər /
-
-v. 遭受；忍受；受痛苦
-[例]
-1.She suffered from a bad cold. 她患了重感冒。
-2.They suffered great losses in the earthquake. 他们在地震中遭受了巨大的损失。
-3.Nothing can suffer such treatment. 没有什么能承受这样的待遇。
-[搭] suffer from 遭受……之苦；suffer loss 遭受损失。
-[联] suf (表示“忍受”) + fer (表示“带来”) ——> 带来忍受。vulnerable /ˈvʌlnərəbl/, /ˈvʌlnrəbl/
-adj. 易受攻击的；易受伤的；有弱点的。
-- [读音差异说明] 第一种读音更常见，第二种读音为弱化形式，在口语中常出现。
-[例]
-1.Her argument exposed him to vulnerable criticism. 她的观点使他受到脆弱的批评。
-2.Children are vulnerable to all kinds of diseases. 孩子们容易感染各种疾病。
-3.We must protect the vulnerable in society. 我们必须保护社会上的弱势群体。
-[搭] 
-1.vulnerable population 脆弱人群；弱势群体
-2.be vulnerable to sth. 对某事物易受影响。
-[联] vulner (伤) + able (能够) ——> 容易受伤的。
 
 subsistence /səbˈstɪnsns/
 n. 生存；维持生活；生计。
@@ -1365,3 +1772,49 @@ n. 牧羊犬。
 1.The sheepdog was trained to herd the sheep. 这只牧羊犬被训练来驱赶羊群。
 2.The sheepdog worked tirelessly in the field. 这只牧羊犬在田间辛勤工作。
 3.The sheepdog kept the sheep together during the journey. 在旅途中，牧羊犬让羊群保持在一起。
+
+protein /ˈprəʊtiːn/, /ˈproʊtiːn/
+n. 蛋白质
+[例]
+1.Protein is essential for muscle growth. 蛋白质对于肌肉增长至关重要。
+2.A lack of protein in your diet can lead to health problems. 饮食中缺乏蛋白质会导致健康问题。
+3.Eggs and fish are good sources of protein. 鸡蛋和鱼是蛋白质的良好来源。
+[搭]
+1.complete protein 完全蛋白质
+2.plant-based protein 植物蛋白
+[联] pro- (向前) + -tein (源自拉丁文“proteus”，意为“主要的”)——> 主要的营养成分。
+
+functional /ˈfʌŋkʃənl/
+adj. 功能性的；实用的；起作用的
+[例]
+1.The software has many functional features. 这款软件有许多实用的功能。
+2.The machine is fully functional after repair. 机器修复后完全能正常使用。
+3.Functional clothing is designed for specific activities. 功能性服装是为特定活动设计的。
+[搭]
+1.functional design 功能性设计
+2.functional testing 功能测试
+[联] func-(功能) + -tional(与...有关的)——> 与功能相关的。
+
+alternate /ˈɔːltərn/, /ælˈtɜːrn/
+v. 轮流，交替；替换
+adj. 交替的；轮流的
+[例]
+1.They alternate between working from home and the office. 他们在家和办公室之间轮流工作。
+2.An alternate route must be found. 必须找到一条替代路线。
+3.The flowers bloom in alternate colors. 这些花以交替的颜色绽放。
+[搭]
+1.alternate current 交流电
+2.alternate day 轮流日
+[联] alter-(改变) + -nate(与...交替的)——> 改变顺序的。
+
+vulnerable /ˈvʌlnərəbl/
+adj. 易受攻击的；脆弱的；易受伤害的
+[例]
+1.Children are vulnerable to exploitation. 儿童容易受到剥削。
+2.The city's defenses left it vulnerable to attack. 这座城市的防御使其容易受到攻击。
+3.Her heart was vulnerable to emotional pain. 她的心灵容易受到情感上的伤害。
+[搭]
+1.vulnerable population 脆弱人群
+2.vulnerable spots 薄弱点
+[联] vuln-(脆弱) + -erable(容易...)——> 容易被伤害的。
+

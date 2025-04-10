@@ -92,7 +92,7 @@ refine
 simplify
 purify
 filter
-distill
+distil
 mode
 mould
 prototype
@@ -113,7 +113,9 @@ accurate
 precise
 correct
 error
+mistake
 flaw
+wrong
 fault
 stumble
 contingency

@@ -1,12 +1,3 @@
-productive
-efficient
-effective
-considerable
-massive
-immense
-maximal
-minimal
-optimal
 biologist
 zoologist
 ecologist
@@ -92,6 +83,7 @@ pup
 lamb
 cattle
 ox
+oxen
 bull
 buffalo
 horse
@@ -135,11 +127,14 @@ barrier
 bar
 anatomy
 epidemic
+gene
 germ
 bacteria
 virus
 microbe
 metabolism
+protein
+victim
 secrete
 excrete
 devour
@@ -165,8 +160,8 @@ victim
 captive
 captivate
 defensive
-defend
 undergo
+defend
 suffer
 vulnerable
 subsistence

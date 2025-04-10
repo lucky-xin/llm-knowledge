@@ -29,13 +29,13 @@ mineral
 marble
 quartz
 granite
-breeze
 gust
+breeze
+monsoon
 gale
 hurricane
 tornado
 typhoon
-monsoon
 volcano
 erupt
 magma
@@ -44,9 +44,9 @@ smog
 fume
 mist
 tsunami
+drought
 flooding
 torrent
-drought
 earthquake
 seismic
 avalanche
@@ -64,8 +64,8 @@ oasis
 globe
 hemisphere
 equator
-equal
 arctic
+equal
 Antarctic
 pole
 polar
@@ -77,8 +77,8 @@ upgrade
 erode
 Mediterranean
 Atlantic
-ocean
 pacific
+ocean
 marine
 navigation
 gulf
@@ -238,3 +238,5 @@ artificial
 synthetic
 petrol
 gas
+gasoline
+petroleum

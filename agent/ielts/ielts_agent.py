@@ -46,33 +46,54 @@ working atmosphere 工作环境，工作氛围。
     )
 
 
+def read_blanks(file_path) -> dict[str, str]:
+    with open(file_path, 'r', encoding='utf-8') as file:
+        # 读取文件所有内容
+        content = file.read()
+
+        # 使用两个换行符('\n\n')作为分隔符进行分割，处理Windows下的'\r\n'
+        blocks = [block for block in content.split('\n\n') if block]  # 排除掉纯空的块
+    res = {}
+    for block in blocks:
+        keyword = block.split(' /')[0]
+        res[keyword.strip()] = block
+    return res
+
 llm_factory = LLMFactory(llm_type=LLMType.LLM_TYPE_QWENAI)
 llm = llm_factory.create_llm()
 
 chain = create_combine_prompt() | llm
-start = 2
-end = 14
+start = 1
+end = 23
 
 
-def process_txt_files(src: str, dst: str):
+def process(src: str, dst: str):
     # 读取文件并去除空行
     with open(src, 'r', encoding='utf-8') as src_file:
-        lines = [line.strip() for line in src_file if line.strip()]
+        keywords = [line.strip() for line in src_file if line.strip()]
     batch = []
-    with open(dst, 'w', encoding='utf-8') as dst_file:
-        for line in lines:
-            batch.append(line)
-            if len(batch) == 10:
-                resp = chain.invoke(input={"vocabularies": ",".join(batch)})
-                dst_file.write(resp)
-                batch = []
-        if len(batch) != 0:
+    orig_blocks = read_blanks(dst)
+    blocks = []
+    for keyword in keywords:
+        if keyword in orig_blocks:
+            blocks.append(orig_blocks[keyword])
+        else:
+            batch.append(keyword)
+        if len(batch) == 10:
             resp = chain.invoke(input={"vocabularies": ",".join(batch)})
-            dst_file.write(resp)
+            blocks.append(resp)
+            batch = []
+    if len(batch) != 0:
+        resp = chain.invoke(input={"vocabularies": ",".join(batch)})
+        blocks.append(resp)
+    with open(dst.replace('.txt', '_final.txt'), 'a', encoding='utf-8') as dst_file:
+        for block in blocks:
+            dst_file.write(block)
+            dst_file.write('\n\n')
 
 
 for i in range(start, end):
     print(f"Processing chapter {i}")
     fp = f"../dst/chapter{i}.txt"
     dst_path = f"../processed/chapter{i}_processed.txt"
-    process_txt_files(fp, dst_path)
+    process(fp, dst_path)
