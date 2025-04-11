@@ -1,58 +1,73 @@
 galaxy / ˈɡæləksi /
-n. 星系，银河系；（比喻）众多事物的集合。
+n. 星系；银河，银河系（the Galaxy）；群英，人才荟萃
 [例]
 1.Our galaxy is called the Milky Way. 我们的星系被称为银河系。
 2.The Hubble Space Telescope has captured images of distant galaxies. 哈勃太空望远镜拍摄到了遥远星系的照片。
 3.A galaxy of stars appeared in the sky. 天空中出现了满天繁星。
 [搭] 
-Milky Way 银河系
-[联] galacto- (乳汁) + -ic (形容词后缀) ——> 形容像乳汁一样的星云。
+1.Milky Way 银河系
+2.galaxy cluster 星系团
+3.irregular galaxy 英文名为
+4. elliptical galaxy 椭圆星云
 
-cosmos / ˈkɑːzmɒs /
-n. 宇宙，天地万物；有序的整体。
+cosmos / ˈkɑːzmoʊs /
+n. 宇宙；完整和谐的一统体系；秋英属植物
 [例]
 1.The cosmos is full of mysteries waiting to be discovered. 宇宙充满了等待被发现的奥秘。
 2.Humans have always been fascinated by the cosmos. 人类一直对宇宙充满好奇。
 3.The philosopher believed that the cosmos is a harmonious whole. 这位哲学家认为宇宙是一个和谐的整体。
-[搭] 
-cosmic order 宇宙秩序
+[搭]
+1.the mystery of cosmos 宇宙之谜
+2.cosmic order 宇宙秩序
 
-universe / juˈnɪvɜːrs /
-n. 宇宙，万物；世界；领域。
+universe / ˈjuːnɪvɜːrs /
+n. 宇宙，天地万物（the universe）；领域，体系；（已知宇宙以外的）宇宙
 [例]
 1.The universe is vast and mysterious. 宇宙浩瀚而神秘。
 2.Science fiction often explores the possibilities of life in other universes. 科幻小说常常探讨其他宇宙中生命的可能性。
 3.The universe is expanding. 宇宙正在膨胀。
 [搭] 
-multiverse 多元宇宙
-[联] uni- (单一) + verse (旋转) ——> 旋转成一体的世界。
+1.multiverse 多元宇宙
+2.Miss Universe 环球小姐；环球小姐大赛；宇宙小姐；举世蜜斯
+[联] uni- (单一) + verse (旋转) ——> 旋转成一体的世界
 
 interstellar / ˌɪntərˈstelər /
-adj. 星际的，恒星际的。
+adj. 星际的， 恒星之间的
 [例]
 1.Light travels through interstellar space. 光穿过星际空间传播。
 2.Interstellar travel is still a dream for humanity. 星际旅行对人类来说仍然是一个梦想。
 3.Astronomers study interstellar dust. 天文学家研究星际尘埃。
 [搭] 
-interstellar medium 星际介质
+1.interstellar medium 星际介质
+2.interstellar cloud 天 星际云
+3.interstellar dust [天]星际尘埃
+4.interstellar gas 星际气体
+5.interstellar space 星际空间；宇宙空间
 
 terrestrial / təˈrestriəl /
-adj. 地球的，陆地的；世俗的。
+adj. 地球的，地球上的；陆栖的，陆生的；陆地（上）的；陆地上的，地面上的（与卫星相对而言）；（属于）类地行星的；<古>人间的，尘世的
+n. 地球生物，陆地生物
 [例]
 1.Terrestrial animals need oxygen to survive. 陆地动物需要氧气才能生存。
 2.Human beings are terrestrial creatures. 人类是陆地生物。
 3.Terrestrial life forms are found on Earth. 地球上存在陆地生命形式。
 [搭] 
-terrestrial environment 陆地环境
+1.terrestrial environment 陆地环境
+2.terrestrial ecosystem 陆地生态系统
+3.terrestrial heat 地热
+4.terrestrial stress 地应力
 
-celestial / səˈlesiəl /
-adj. 天上的，天体的；极好的。
+celestial / səˈlestʃ(ə)l /
+adj. 天空的，天上的；天国的，天堂的；精美绝伦的
 [例]
 1.Celestial bodies include planets and stars. 天体包括行星和恒星。
 2.The celestial sphere is an imaginary sphere surrounding the Earth. 天球是一个环绕地球的假想球体。
 3.Celestial music is said to soothe the soul. 天籁之音据说能抚慰灵魂。
 [搭] 
-celestial navigation 天文导航
+1.celestial navigation 天文导航
+2.celestial body 天体
+3.celestial sphere 天球（一个想像假设的无限大球体）
+4.celestial equator [天]天球赤道（等于equator，equinoctial，equinoctial circle，equinoctial line）
 
 astronomy / əˈstrɑːnəmi /
 n. 天文学。
@@ -61,93 +76,118 @@ n. 天文学。
 2.Astronomy has made great progress in recent years. 近年来天文学取得了巨大进步。
 3.Astronomy is closely related to astrology. 天文学与占星学密切相关。
 [搭] 
-observational astronomy 观测天文学
+1.observational astronomy 观测天文学
+2.radio astronomy 射电天文学
+3.physics and astronomy 物理学和天文学
+4. national radio astronomy observatory 国立射电天文台
 
 astrology / əˈstrɑːlədʒi /
-n. 占星学。
+n. 占星术；占星学；星座
 [例]
 1.Astrology is often considered a pseudoscience. 占星学常被视为伪科学。
 2.Ancient civilizations used astrology to predict events. 古代文明利用占星学预测事件。
 3.Astrology has been practiced for thousands of years. 占星学已经流传了几千年。
 [搭] 
-natal chart 出生星盘
+1.natal chart 出生星盘
+2.Horary Astrology 卜卦占星学；卜卦占星；问卜占星学；占星学
+3.electional astrology 择日占星学；选择占星学；择日占星；择时占星学
+4.Chinese Astrology 中国占星术；占星术
 
 astronaut / ˈæstrənɔːt /
-n. 宇航员。
+n. 宇航员，太空人
 [例]
 1.An astronaut needs extensive training before going into space. 宇航员在进入太空前需要接受大量训练。
 2.The first American astronaut landed on the Moon in 1969. 第一位美国宇航员于1969年登上了月球。
 3.Astronauts conduct experiments in space. 宇航员在太空中进行实验。
 [搭] 
-spacewalk 太空行走
+1.spacewalk 太空行走
+2.The Astronaut Farmer 农民宇航员；太空农夫；农夫宇航员
+3.lead astronaut 领航宇航员
+4.The Little Astronaut 小小太空人；播放小小太空人
 
 comet / ˈkɑːmɪt /
-n. 彗星。
+n. 彗星
 [例]
 1.Comets are often visible to the naked eye. 彗星常常肉眼可见。
 2.Comets are made up of ice and dust. 彗星由冰和尘埃组成。
 3.A comet's tail points away from the Sun. 彗星的尾巴指向远离太阳的方向。
 [搭] 
-Halley's Comet 哈雷彗星
-[联] com- (头发) + et (小的) ——> 像头发一样的尾巴。meteorite / ˈmiːtiəraɪt /
-n. （坠落到地球上的）流星体，陨星
+1.Halley's Comet 哈雷彗星
+2.Great Comet 大彗星
+[联] com- (头发) + et (小的) ——> 像头发一样的尾巴。
+
+meteorite / ˈmiːtiəraɪt /
+n. 陨石，陨星；流星
 [例]
 1.A meteorite struck the moon and created a visible flash. 一颗陨石撞击月球并产生了可见的闪光。
 2.Scientists are studying the meteorite to learn more about its origin. 科学家正在研究这颗陨石以了解更多关于它的起源。
 3.The meteorite left a crater in the ground. 这颗陨石在地上留下了一个陨石坑。
 [搭] 
-meteorite shower 流星雨
-[联] meta (超越) + orite (石头) ——> 超越普通石头的物体。
+1.meteorite shower 流星雨
+2.Hoba meteorite 霍巴陨铁；荷巴陨石；世界最大
+3.iron meteorite 铁陨石；矿物 陨铁
+4.lunar meteorite 月球陨石；长石角砾岩类
+[联] meta (超越) + orite (石头) ——> 超越普通石头的物体
 
 crater / ˈkreɪtər /
-n. （火山口、陨石坑等）凹地，坑，洼地
+n.（撞击或爆炸形成的）坑，弹坑；火山口；穴，洞；（古希腊用的）调酒碗
+v. 在（地面或行星）上形成坑；<美，非正式>失败，突然落下
 [例]
 1.The astronauts found a large crater on the surface of Mars. 宇航员在火星表面发现了一个大坑。
 2.The explosion left a deep crater in the ground. 爆炸在地面留下了一个深坑。
 3.The volcanic crater is filled with water. 火山口被水填满了。
 [搭] 
-impact crater 冲击坑
-[联] crater（发音类似“坑”）
+1.impact crater 冲击坑
+2.volcanic crater 火山口
+3.crater lake 火山口形成的深湖
 
 dust / dʌst /
-n. 灰尘，尘土；粉末状物质
+n. 沙尘；灰尘；粉末；尘雾；除尘，掸灰；<文>尸骨，遗骸；<文>凡身，肉体
+v. 擦去……的灰尘；把粉末撒于；<美，非正式>狠揍，杀死（某人）
 [例]
 1.I need to clean the dust off the bookshelf. 我需要清理书架上的灰尘。
 2.Starlight filters through the dust in space. 星光透过太空中的尘埃过滤。
 3.The archaeologists found ancient dust at the site. 考古学家在遗址发现了古老的尘土。
 [搭] 
-dust off 抖落灰尘
-[联] dust（与“灰尘”相关）
+1.dust off 抖落灰尘
+2.dust storm 沙尘暴；尘暴；沙暴；细含沙良多的乡俗暴
+3.dust collector 环境 除尘器；环境 集尘器；吸尘器；环境 除尘装置
+4.coal dust 环境,矿业 煤尘；煤灰；煤粉尘
 
 ash / æʃ /
-n. 灰烬，灰
+n.（香烟或木头等的）灰；灰烬，废墟；骨灰，遗骸；梣树，白蜡树；（古英语中的一个字母，也为音标）æ
+v. 把……化为灰烬；以灰覆盖，撒灰于；掸（烟）灰
 [例]
 1.The campfire left a pile of ash behind. 营火留下了堆灰烬。
 2.Smokers often dispose of cigarette ash improperly. 吸烟者常常错误地处理香烟灰。
 3.Volcanic ash covered the nearby village. 火山灰覆盖了附近的村庄。
 [搭] 
-ashes of 坟墓中
-[联] ash（与“燃烧后的残留物”相关）
+1.ashes of 坟墓中
+2.volcanic ash 地质 火山灰
 
-envelope / ˈɛnveɪloʊp /
-n. 信封；包层，外壳
+envelope / ˈenvəloʊp /
+n. 信封，封皮；气囊；（彗核）包层，彗发；（数学）包络线，包络面；（生物）包膜；极限数据
 [例]
 1.Please write your address clearly on the envelope. 请清楚地在信封上写上你的地址。
 2.The spacecraft's envelope protects it from extreme temperatures. 航天器的外壳保护它免受极端温度的影响。
 3.The Earth's atmosphere acts as an envelope around the planet. 地球的大气层像一个包裹地球的外壳。
 [搭] 
-envelope curve 包络线
+1.red envelope 红包；送红包；大红包；发红包
+2.nuclear envelope 细胞 核被膜；核膜；核包膜；核套膜
+3.envelope curve 包络线
 [联] envelop(e)（包裹）
 
 chunk / tʃʌŋk /
-n. 大块，厚片；大量
+n. 大块，厚块；大量，大部分；话语组成部分，组块；矮胖的（男）人
+v. 将……分成数份；将……组合（或归类）；扔，抛；发出“砰啷”声；切分，切割（数据）
 [例]
 1.Cut the meat into chunks before cooking. 煮肉之前把肉切成块。
 2.The spaceship returned with a chunk of asteroid material. 宇宙飞船带回了一块小行星的材料。
 3.He ate a chunk of bread. 他吃了一大块面包。
 [搭] 
-chunk of 大量的
-[联] chunk（发音类似“块”）
+1.chunk of 大量的
+2.chunk glass 玻璃毛坯；光学玻璃块；碎玻璃片
+3.Chocolate Chunk 饼干内有整片的巧克力
 
 spacecraft / ˈspeɪskrɑft /
 n. 宇宙飞船
@@ -155,137 +195,200 @@ n. 宇宙飞船
 1.The spacecraft successfully landed on the moon. 宇宙飞船成功降落在月球上。
 2.Engineers are testing the new spacecraft module. 工程师正在测试新的宇宙飞船模块。
 3.The probe sent data back to the spacecraft. 探测器将数据传回宇宙飞船。
+[搭]
+1.craft brother 同行
+2.art and craft 工艺品
 [联] space(空间) + craft(工艺，飞船)
 
-spaceship / ˈspeɪʃɪp /
+spaceship / ˈspeɪsʃɪp /
 n. 宇宙飞船
 [例]
 1.The spaceship is designed to carry humans to Mars. 这艘宇宙飞船被设计用来将人类送往火星。
 2.The spaceship module detached from the main craft. 宇宙飞船的模块从主船分离。
 3.Astronauts aboard the spaceship reported their findings. 宇航员在宇宙飞船上报告他们的发现。
+[搭]
+1.manned spaceship 载人飞船；载人航天；载人航天飞机
+2.Spaceship Earth 宇宙飞船地球；太空船地球；地球太空船
+3.unmanned spaceship 无人飞船
 [联] space(空间) + ship(船)
 
 probe / proʊb /
-n. 探测器，探测仪
+v. 调查，打探，探究；（用手指、细长工具等）探查，查看；搜寻，探索；侦察，侦探（敌情）
+n. 探究，详尽调查；（医生和科学家用的）探针； 航天探测器，太空探测器（=space probe）；探测仪，传感器，取样器
 [例]
 1.The space probe discovered new information about Jupiter. 太空探测器发现了有关木星的新信息。
 2.The scientists launched a deep-sea probe. 科学家们发射了一台深海探测器。
 3.The probe was equipped with cameras and sensors. 这个探测器配备了相机和传感器。
-[联] probe（与“探测”相关）
+[搭]
+1.probe into 探究，探索
+2.electron probe 电子探针
+3.fluorescent probe 荧光探针；荧光探测器
 
-module / ˈmɒdʒuːl /
-n. 模块，组件
+module / ˈmɑːdʒuːl /
+n. （机器、建筑物等的）组件，模件；（课程的）单元，模块；（计算机）模件，功能块；（航天器的）舱
 [例]
 1.The spacecraft module is responsible for navigation. 宇宙飞船的模块负责导航。
 2.The space station consists of several modules. 空间站由几个模块组成。
 3.The science module of the spaceship malfunctioned. 宇宙飞船的科学模块发生故障。
 [搭] 
-modular design 模块化设计
-[联] modul(e)（模块化结构）propulsion /prəˈpʌlʃn/, /ˌprɑːpəlˈsuːn/
+1.modular design 模块化设计
+2.Apollo Lunar Module 阿波罗登月舱
+3.service module 服务舱；业务模块；推进舱；服务模块
+4.simple module 单模；单模块；职位说明书
+
+propulsion / prəˈpʌlʃn /
 n. 推进力；推动力。
-- [例]
-  1. The propulsion system of the spacecraft is highly advanced. 这艘航天器的推进系统非常先进。
-  2. Jet propulsion is widely used in modern aircraft. 喷气推进广泛应用于现代飞机中。
-  3. The fish uses its tail for propulsion in water. 鱼通过尾巴在水中提供推动力。
-- [搭] 
-  - propulsion system 推进系统
-  - rocket propulsion 火箭推进
-- [联] pro-(向前) + pulse(跳动) ——> 向前推动。
+[例]
+1. The propulsion system of the spacecraft is highly advanced. 这艘航天器的推进系统非常先进。
+2. Jet propulsion is widely used in modern aircraft. 喷气推进广泛应用于现代飞机中。
+3. The fish uses its tail for propulsion in water. 鱼通过尾巴在水中提供推动力。
+[搭]
+1.propulsion system 推进系统
+2.rocket propulsion 火箭推进
+3.Jet Propulsion Laboratory喷气推进实验室；实验室；喷气动力实验室；局喷气动力实验室
+4.nuclear propulsion 船 核动力推进；核能推进；原子动力装置
+5.spacecraft propulsion 航 航天器推进
+[联] pro-(向前) + pulse(跳动) ——> 向前推动
 
-pressure /ˈpreʃər/
-n. 压力；压迫；压力表；压强；v. 施加压力于；逼迫。
-- [例]
-  1. The pressure of the exam made her nervous. 考试的压力让她感到紧张。
-  2. The pressure on the valve was too high. 阀门上的压力过高。
-  3. He applied pressure to stop the bleeding. 他施加压力以止血。
-- [搭] 
-  - air pressure 气压
-  - pressure cooker 压力锅
-- [联] press(按压) + -ure(名词后缀) ——> 压力。
+pressure / ˈpreʃər /
+n. 压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压
+v. 对……施加压力，强迫；使……增压
+[例]
+1.The pressure of the exam made her nervous. 考试的压力让她感到紧张。
+2.The pressure on the valve was too high. 阀门上的压力过高。
+3.He applied pressure to stop the bleeding. 他施加压力以止血。
+[搭]
+1.air pressure 气压
+2.pressure cooker 压力锅
+[联] press(按压) + -ure(名词后缀) ——> 压力
 
-dynamics /daɪˈnæmɪks/
-n. 动力学；动力学原理；动力。
-- [例]
-  1. The dynamics of the team improved after the new coach arrived. 新教练到来后，团队的动力得到了改善。
-  2. Newton's laws of motion and dynamics are fundamental to physics. 牛顿的运动定律和动力学是物理学的基础。
-  3. The dynamics of the market are constantly changing. 市场的动力一直在变化。
-- [搭] 
-  - fluid dynamics 流体力学
-  - social dynamics 社会动力学
-- [联] dynamic(动态的) + -ics(学科) ——> 动力学。
+dynamics / daɪˈnæmɪks /
+n. 动力学，力学；动力；（乐曲的）力度变化；（团体或体系内部的）变革动力
+[例]
+1.The dynamics of the team improved after the new coach arrived. 新教练到来后，团队的动力得到了改善。
+2.Newton's laws of motion and dynamics are fundamental to physics. 牛顿的运动定律和动力学是物理学的基础。
+3.The dynamics of the market are constantly changing. 市场的动力一直在变化。
+[搭]
+1.fluid dynamics 流体力学
+2.social dynamics 社会动力学
+3.fluid dynamics 流 流体动力学；流体力学；铃动力学
+4.Boston Dynamics 波士顿动力公司；波士顿动力；波士顿动力学工程公司；力公司
+5.General Dynamics 通用动力公司；美国通用动力公司；通用电力公司
+[联] dynamic(动态的) + -ics(学科) ——> 动力学
 
-motion /ˈmoʊʃn/
-n. 运动；动作；提议；手势；v. 运动；提议。
-- [例]
-  1. The motion of the pendulum is regular. 摆锤的运动是规律的。
-  2. She made a motion with her hand to signal us to come closer. 她用手势示意我们靠近。
-  3. The motion was seconded by several members. 提议得到了几位成员的支持。
-- [搭] 
-  - linear motion 直线运动
-  - circular motion 圆周运动
-- [联] move(移动) + -ion(名词后缀) ——> 运动。
+motion / ˈmoʊʃ(ə)n /
+n. 运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请
+v. 打手势，示意
+[例]
+1. The motion of the pendulum is regular. 摆锤的运动是规律的。
+2. She made a motion with her hand to signal us to come closer. 她用手势示意我们靠近。
+3. The motion was seconded by several members. 提议得到了几位成员的支持。
+[搭]
+1.linear motion 直线运动
+2.circular motion 圆周运动
+3.in motion 在开动中，在运转中
+4.motion control 运动控制，拖动控制；动作控制，移动控制
+5.wave motion 波动
+[联] move(移动) + -ion(名词后缀) ——> 运动
 
-vent /vɛnt/
-n. 出气孔；通风口；发泄；v. 散发；排气；发泄。
-- [例]
-  1. There is a vent in the wall for ventilation. 墙上有一个通风口。
-  2. She needed to vent her frustration. 她需要发泄一下她的沮丧情绪。
-  3. The engine vents hot gases through the exhaust pipe. 发动机通过排气管排出热气体。
-- [搭] 
-  - vent hole 出气孔
-  - vent pipe 排气管
-- [联] 来源于拉丁语ventus，意为“风”。
+vent / vɛnt /
+n. 通风孔，排气口；（衣物的）开衩，衩口；(鸟、鱼等小动物的）肛门；（强烈情绪或能量的）发泄，表达；火山口；<苏格兰>（烟囱的）烟道；<史>炮眼，火门
+v. 表达，发泄（强烈感情）；排放（烟、煤气等）；给……一个出口，给……提供排放口
+[例]
+1.There is a vent in the wall for ventilation. 墙上有一个通风口。
+2.She needed to vent her frustration. 她需要发泄一下她的沮丧情绪。
+3.The engine vents hot gases through the exhaust pipe. 发动机通过排气管排出热气体。
+[搭]
+1.vent hole 出气孔
+2.vent pipe 排气管
+[联] 来源于拉丁语ventus，意为“风”
 
-tail /teɪl/
-n. 尾巴；尾部；v. 尾随；跟踪。
-- [例]
-  1. The dog wagged its tail happily. 这只狗开心地摇着尾巴。
-  2. The plane's tail broke off during landing. 飞机在降落时尾部脱落。
-  3. He decided to tail the suspect. 他决定跟踪嫌疑人。
-- [搭] 
-  - tail light 尾灯
-  - tail rotor 尾桨
-- [联] 与“tailor”有关，想象裁缝剪布料留下的“尾巴”。
+tail / teɪl /
+n.（动物的）尾巴；（一些蝴蝶的）狭翅须；（物体的）尾状物，尾部；（水池的）浅水端，（河流的）下游；（男子）燕尾服（tails）
+v. 跟踪，盯梢；（飞行物体）曲线移动； 拉紧（绞索）；除去（水果或蔬菜的）梗
+[例]
+1.The dog wagged its tail happily. 这只狗开心地摇着尾巴。
+2.The plane's tail broke off during landing. 飞机在降落时尾部脱落。
+3.He decided to tail the suspect. 他决定跟踪嫌疑人。
+[搭]
+1.tail light 尾灯
+2.tail rotor 尾桨
+3.tail gas 尾气；废气
+4.tail end 末端；结束
+5.the long tail 长尾理论；长尾巴
+[联] 与“tailor”有关，想象裁缝剪布料留下的“尾巴”
 
-curve /kɜːrv/
-n. 曲线；弯曲；v. 弯曲；使弯曲。
-- [例]
-  1. The road follows the curve of the river. 公路沿着河流的曲线延伸。
-  2. The graph shows a downward curve. 图表显示一条向下的曲线。
-  3. She learned how to curve a bowling ball. 她学会了如何让保龄球弯曲。
-- [搭] 
-  - curve ball 曲球
-  - learning curve 学习曲线
-- [联] 形状像弯曲的物体。
+curve / kɜːrv /
+n. 曲线，弧线；转弯，弯道；图表曲线；曲线球；（女子身体的）曲线
+v.（使）弯曲，（使）呈曲线形
+adj. 弯曲的，曲线形的
+[例]
+1.The road follows the curve of the river. 公路沿着河流的曲线延伸。
+2.The graph shows a downward curve. 图表显示一条向下的曲线。
+3.She learned how to curve a bowling ball. 她学会了如何让保龄球弯曲。
+[搭]
+1.curve ball 曲球
+2.learning curve 学习曲线
+3.curve fitting 曲线拟合
+4.elliptic curve 椭圆曲线；橢圓曲線
 
-exploration /ˌekspləˈreɪʃn/
-n. 探索；探测；勘探。
-- [例]
-  1. The exploration of space has been a major focus of scientific research. 对太空的探索一直是科学研究的重点。
-  2. His exploration of the forest lasted for three days. 他对森林的探索持续了三天。
-  3. Deep-sea exploration requires advanced technology. 深海探索需要先进技术。
-- [搭] 
-  - oil exploration 石油勘探
-  - space exploration 太空探索
-- [联] explore(探索) + -ation(名词后缀) ——> 探索。
+exploration / ˌekspləˈreɪʃ(ə)n /
+n. 勘探，勘察；研究，探究
+[例]
+1.The exploration of space has been a major focus of scientific research. 对太空的探索一直是科学研究的重点。
+2.His exploration of the forest lasted for three days. 他对森林的探索持续了三天。
+3.Deep-sea exploration requires advanced technology. 深海探索需要先进技术。
+[搭]
+1.oil exploration 石油勘探
+2.space exploration 太空探索
+[联] explore(探索) + -ation(名词后缀) ——> 探索
 
-expedition /ˌɛkspəˈdɪʃn/
-n. 远征；探险队。
-- [例]
-  1. The expedition to the mountain was successful. 登山远征取得了成功。
-  2. They organized an expedition to search for ancient artifacts. 他们组织了一次寻找古代文物的探险。
-  3. The expedition team faced many challenges along the way. 探险队一路上遇到了许多挑战。
-- [搭] 
-  - polar expedition 极地探险
-  - archaeological expedition 考古探险
+expedition / ˌekspəˈdɪʃ(ə)n /
+n. 远征，考察；探险队，考察队；动作敏捷，迅速
+[例]
+1.The expedition to the mountain was successful. 登山远征取得了成功。
+2.They organized an expedition to search for ancient artifacts. 他们组织了一次寻找古代文物的探险。
+3.The expedition team faced many challenges along the way. 探险队一路上遇到了许多挑战。
+[搭]
+1.polar expedition 极地探险
+2.archaeological expedition 考古探险
+3.northern expedition 北伐
+4.Puzzle Expedition 谜题探险
 
-flyby /ˈflaɪbaɪ/
-n. 飞掠；飞过。
-- [例]
-  1. The satellite performed a flyby of the moon. 这颗卫星对月球进行了飞掠。
-  2. The spacecraft conducted a flyby of Mars. 这艘宇宙飞船对火星进行了飞掠。
-  3. A flyby of the asteroid provided valuable data. 对小行星的飞掠提供了有价值的数据。observatory /əbˈzɜːrvətɔri/, /ɑbˈzɜːrvətɔri/
-n.天文台；观测站。
+flyby / ˈflaɪˌbaɪ /
+n. 飞掠；飞过；尤指航天器的）近天体飞行；<美>（飞行表演中的）低空飞行
+[例]
+1.The satellite performed a flyby of the moon. 这颗卫星对月球进行了飞掠。
+2.The spacecraft conducted a flyby of Mars. 这艘宇宙飞船对火星进行了飞掠。
+3.A flyby of the asteroid provided valuable data. 对小行星的飞掠提供了有价值的数据。
+[搭]
+1.Flyby Mode 飞行模式
+2.Flyby Attack 飞扑攻击
+3.helicopter flyby 直升机飞越；直升机在轨物体而
+
+observe / əbˈzɜːrv /
+v. 注意到，观察到；注视，监视；发现；说话，评论；遵守（规则、法律等）；庆祝（节日），纪念（某人或事件）；静默，默哀；举行，参加
+[例]
+1.Will the rebels observe the ceasefire? 叛乱者会遵守停火协议吗？
+2.The scientists will study the variety of trees and observe which are fruiting. 科学家们将研究树木的多样性并观察哪些树木结果实。
+3.Jack was careful to observe the proprieties, treating her with exaggerated respect. 杰克谨慎遵守礼节，对她过分尊重。
+[搭]
+1.Observe and Report 监视与报告；我要做警察；我要当警察
+2.observe the grand opening of 隆重举行；盛大举办；盛大举行；盛大进行
+3.O-observe 观察；观察爱侣的喜好；察看；按你观察的结果
+
+observer / əbˈzɜːrvər /
+n. 观察者，目击者；观察家，评论员；（会议等的）观察员
+[例]
+1.The talks took place in the presence of a diplomatic observer. 会谈是在一位外交观察家在场的情况下进行的。
+2.The current sole superpower is far from being a disinterested observer. 当前惟一的超级大国远非一个公正的观察者。
+3.The president suggested that a UN observer should attend the conference. 大会主席建议应该有一名联合国观察员参加该会议。
+[搭]
+1.observer pattern 观察者模式
+2.observer status 观察员身份
+
+observatory / əbˈzɜːrvətɔːri /
+n. 天文台，气象台；视野开阔的位置（或建筑物）
 [例]
 1.Astronomers use the observatory to study stars and planets. 天文学家利用天文台研究恒星和行星。
 2.The observatory provides a clear view of the night sky. 天文台提供了清晰的夜空视野。
@@ -293,11 +396,14 @@ n.天文台；观测站。
 [搭]
 1.mountain observatory 山顶天文台
 2.space observatory 太空观测站
-[联] 观测+ory(地点)——>观测的地方。
+3.astronomical observatory 天文台
+4.meteorological observatory 气象台；气象观测所
+5.national radio astronomy observatory 国立射电天文台
+[联] 观测+ory(地点) ——> 观测的地方
 
-telescope /ˈteləskoʊp/
-n.望远镜；显微镜。
-v.使聚焦；使成像。
+telescope / ˈtelɪskoʊp /
+n. 望远镜；射电望远镜，无线电望远镜（radio telescope 的简称）
+v. 叠套缩短，叠缩；缩短，精简；使（车辆）相撞而嵌进；压缩
 [例]
 1.Astronomers use a telescope to observe distant galaxies. 天文学家用望远镜观察遥远的星系。
 2.The telescope magnified the image of the distant object. 望远镜放大了远处物体的图像。
@@ -305,10 +411,11 @@ v.使聚焦；使成像。
 [搭]
 1.space telescope 太空望远镜
 2.radio telescope 射电望远镜
-[联] tele-(远)+scope(看)——>看得远的东西。
+3.hubble space telescope 哈勃太空望远镜
+[联] tele-(远)+scope(看) ——> 看得远的东西
 
-spectacle /ˈspektəkl/
-n.壮观的景象；眼镜。
+spectacle / ˈspektək(ə)l /
+n. 精彩的表演，壮观的场面；壮观的景象；不寻常的事，出人意料的情况；<正式>眼镜（spectacles）
 [例]
 1.The fireworks display was a spectacle to behold. 烟花表演是一场令人惊叹的壮观景象。
 2.The mountain range was a spectacle in itself. 这座山脉本身就是一道壮观的风景。
@@ -316,11 +423,11 @@ n.壮观的景象；眼镜。
 [搭]
 1.spectacle glasses 老花镜
 2.spectacle show 壮观的演出
-[联] spect-（看）+acle——>看的东西。
+[联] spect-（看）+ acl e ——> 看的东西
 
-orbit /ˈɔːrbɪt/
-n.轨道；运行轨迹。
-v.绕……运行。
+orbit / ˈɔːrbɪt /
+n.（环绕地球、太阳等运行的）轨道；势力范围，影响范围；眼眶，眼窝
+v. 沿轨道运行，环绕……运行；使（卫星）进入轨道
 [例]
 1.The earth orbits around the sun. 地球围绕太阳运行。
 2.The satellite is in orbit around the moon. 这颗卫星在月球轨道上运行。
@@ -328,10 +435,26 @@ v.绕……运行。
 [搭]
 1.electronic orbit 电子轨道
 2.orbiting satellite 轨道卫星
-[联] orb(圆)+it——>圆形路径。
+3.in orbit 在轨道上；在轨道上运行；[俚语]飘飘然
+4.earth orbit 地球轨道
+5.orbit determination 轨道计算，定轨
+[联] orb(圆) + it ——> 圆形路径
 
-ecliptic /ɪˈklɪptɪk/
-n.黄道；黄道面。
+eclipse / ɪˈklɪps /
+n. 日食，月食；黯然失色；羽毛暗淡期；消失，丧失
+v. 遮住……的光，使黯然失色
+[例]
+1.A total solar eclipse is due to take place some time tomorrow. 预计日全食会出现在明天的某个时候。
+2.An eclipse happens when the earth and moon are in line with the sun. 地球和月亮与太阳处在一条直线上，日食就发生了。
+3.Mo did not want to be ruled by anyone and it is notable that she never allowed the men in her life to eclipse her. 莫不想被任何人管制，很显然，她从不允许她生活中的男性使她黯然失色。
+[搭]
+1.solar eclipse［天］日食
+2.total solar eclipse 日全食
+3.total eclipse [天]日全食；月全食
+
+ecliptic / ɪˈklɪptɪk /
+adj.（日、月等）食的，黄道的
+n. 黄道
 [例]
 1.The planets move along the ecliptic. 行星沿着黄道运动。
 2.The sun appears to follow the ecliptic path. 太阳看起来沿黄道移动。
@@ -339,10 +462,10 @@ n.黄道；黄道面。
 [搭]
 1.ecliptic plane 黄道面
 2.ecliptic coordinate system 黄道坐标系
-[联] eclip(t)(日食)+tic——>与日食相关的平面。
+[联] eclip(t)(日食) + tic ——> 与日食相关的平面
 
-diameter /daɪˈæmətər/
-n.直径；直径大小。
+diameter / daɪˈæmɪtər /
+n. 直径；放大倍数
 [例]
 1.The diameter of the circle is ten meters. 圆的直径是十米。
 2.The diameter of the pipe determines its flow capacity. 管子的直径决定了其流量能力。
@@ -350,10 +473,11 @@ n.直径；直径大小。
 [搭]
 1.diameter size 直径大小
 2.diameter measurement 直径测量
-[联] dia-(穿过)+meter(测量)——>穿过测量。
+[联] dia-(穿过) + meter(测量) ——> 穿过测量
 
-radius /ˈreɪdiəs/
-n.半径；半径长度。
+radius / ˈreɪdiəs /
+n. 半径；半径范围，周围；（剖）桡骨；（昆）径脉；（棘皮动物或腔肠动物的）辐射对称轴
+v. 使（角，边缘）成弧形
 [例]
 1.The radius of the wheel is one meter. 车轮的半径是一米。
 2.The radius of the circle is half its diameter. 圆的半径是直径的一半。
@@ -361,10 +485,10 @@ n.半径；半径长度。
 [搭]
 1.radius length 半径长度
 2.radius vector 半径矢量
-[联] radi(us)(射线)+us——>射线长度。
+[联] radi(us)(射线) + us ——> 射线长度
 
-substance /ˈsʌbstəns/
-n.物质；实质；主旨。
+substance / ˈsʌbstəns /
+n. 物质，材料；主旨，主要内容；重要性；真实性，可信性；毒品；财富，财产；实质，（实在的）东西；<哲> 实体；可靠，稳定；（哲）实体
 [例]
 1.Water is an important substance for life. 水是生命的重要物质。
 2.The substance of the article is very interesting. 文章的内容非常有趣。
@@ -372,10 +496,9 @@ n.物质；实质；主旨。
 [搭]
 1.substance abuse 滥用物质
 2.substance use 使用物质
-[联] sub-(下)+stanc(e)(站立)——>基础。
 
-composition /kəmˈpoʊzɪʃn/
-n.组成；构成；作品。
+composition / ˌkɑːmpəˈzɪʃ(ə)n /
+n. 成分构成，成分；（音乐、艺术、诗歌的）作品；创作，作曲；构图；作文
 [例]
 1.The composition of the soil affects plant growth. 土壤的组成影响植物生长。
 2.Music composition requires creativity. 音乐创作需要创造力。
@@ -383,11 +506,15 @@ n.组成；构成；作品。
 [搭]
 1.composition material 构成材料
 2.composition technique 组成技术
-[联] com-(共同)+posit(放置)+ion——>共同放置。
+3.function composition 复合函数；函数组合
+4.musical composition 音乐创作；音乐编排；音乐作品
+5.composition series 组成列
+[联] com-(共同) + posit(放置) + ion ——> 共同放置
 
-compound /ˈkɑːmpaʊnd/
-n.化合物；复合物。
-v.混合；调配。
+compound / ˈkɑːmpaʊnd /
+n. 混合物，化合物；复合词；大院，有围墙的场地
+adj. 复合的，混合的；以复利计算的
+v. 使加重，使恶化；合成，混合；以复利计算支付；和解，私了
 [例]
 1.Water is a compound of hydrogen and oxygen. 水是氢和氧的化合物。
 2.The pharmacist compounded the medicine. 药剂师调配了药。
@@ -395,8 +522,14 @@ v.混合；调配。
 [搭]
 1.compound fertilizer 化肥
 2.compound sentence 复合句
-[联] com-(共同)+pound(重量)——>共同重量。fossil / ˈfɑːsl /, / ˈfɒsl /
-n. 化石；过时的东西。
+3.compound fertilizer 复合肥料
+4.organic compound 有机化合物
+5.chemical compound [化]化合物
+[联] com-(共同) + pound(重量) ——> 共同重量
+
+fossil / ˈfɑːs(ə)l /
+n. 化石；<非正式>思想僵化的人；僵化的事物
+adj. 化石的，从地下采掘出的；不变的，古老的
 [例]
 1.The fossil was found in the desert. 这块化石是在沙漠中发现的。
 2.This technology has become a fossil in the industry. 这项技术已成为行业中的过时之物。
@@ -404,11 +537,12 @@ n. 化石；过时的东西。
 [搭]
 1.fossil fuel 化石燃料
 2.fossil record 化石记录
-[联] fossil (化石) ——> 像石头一样坚硬的东西。
+[联] fossil (化石) ——> 像石头一样坚硬的东西
 
-sample / ˈsæmpl /
-n. 样品，样本；抽样
-v. 采样，取样；品尝
+sample / ˈsæmp(ə)l /
+n. 样本，样品；试用产品，试样；（供科学或医学检测用的）抽样样本；（抽查的）样本，抽选人员；（用于新乐曲中的）选录的歌曲片段
+v. 品尝，尝试（食品、饮料）；体验（活动）；对……作抽样调查；节录，选录（歌曲等，用于其他录音）；确定（模拟信号）瞬时值
+adj. 样品的，实例的
 [例]
 1.I would like to try this sample before I buy it. 我想在买之前试一下这个样品。
 2.The scientist took a sample of the water for analysis. 科学家取了水样进行分析。
@@ -416,10 +550,13 @@ v. 采样，取样；品尝
 [搭]
 1.sample size 样本大小
 2.take a sample 抽样
+3.sample preparation 样品制备；样品处理；样品加工
+4.sample data 样本数据；抽样资料
+5.sample size 样本量；样本大小
 [联] sample (样品) ——> 小部分，代表性的部分。
 
 specimen / ˈspesɪmən /
-n. 标本；样本
+n. 样品，标本；（尤指动植物的）实例；（化验的）抽样，血样，尿样；具有……特性的人（幽默用法）
 [例]
 1.The museum displayed a rare specimen of butterfly. 博物馆展出了一只稀有的蝴蝶标本。
 2.The doctor requested a blood specimen for testing. 医生要求提供血液样本进行检测。
@@ -427,21 +564,27 @@ n. 标本；样本
 [搭]
 1.specimen collection 标本收集
 2.specimen preparation 标本准备
-[联] specimen (标本) ——> 供研究或展示的小物件。
+3.test specimen 试样；试棒；试块
+4.specimen signature 签字样本；印鉴样本
+5.specimen preparation 试片制作；样品制备
+[联] specimen (标本) ——> 供研究或展示的小物件
 
 particle / ˈpɑːrtɪkl /
-n. 微粒，微粒物质；少量，些许
+n. 微粒；极少量；粒子（原子的极微小成分，如电子、质子或中子）；（数）质点；（语法中的）小品词
 [例]
 1.Dust consists of tiny particles. 灰尘由细小的颗粒组成。
 2.There was not a particle of truth in what he said. 他说的话完全没有真实性。
 3.The scientist studied the behavior of subatomic particles. 科学家研究了亚原子粒子的行为。
 [搭]
 1.subatomic particle 亚原子粒子
-2.large particle 大颗粒
-[联] particle (颗粒) ——> 小而分散的东西。
+2.large particle 大颗粒1
+3.particle size 粒度；颗粒大小
+4.particle size distribution 粒度分布
+5.particle diameter 粒径；颗粒直径，粒子直径
+[联] particle (颗粒) ——> 小而分散的东西
 
 molecule / ˈmɑːlɪkjuːl /
-n. 分子
+n. 分子，摩尔；少量，一点儿；微小颗粒，微粒
 [例]
 1.Water molecules consist of two hydrogen atoms and one oxygen atom. 水分子由两个氢原子和一个氧原子组成。
 2.The molecule is the smallest unit of a substance that retains all the properties of the substance. 分子是保持物质所有性质的最小单位。
@@ -449,10 +592,13 @@ n. 分子
 [搭]
 1.molecular weight 分子量
 2.molecular structure 分子结构
-[联] molecule (分子) ——> 小而复杂的结构。
+3.small molecule 小分子
+4.water molecule 水分子
+5.molecule weight 分子量
+[联] molecule (分子) ——> 小而复杂的结构
 
 atom / ˈætəm /
-n. 原子
+n. 原子；微量，极小量
 [例]
 1.An atom is the basic unit of matter. 原子是物质的基本单位。
 2.Every element is composed of atoms. 每种元素都是由原子组成的。
@@ -471,7 +617,7 @@ n. 离子
 [搭]
 1.ionic bond 离子键
 2.ionic compound 离子化合物
-[联] ion (离子) ——> 带电的原子或原子团。
+[联] ion (离子) ——> 带电的原子或原子团
 
 electron / ɪˈlektrɑːn /
 n. 电子
@@ -482,10 +628,14 @@ n. 电子
 [搭]
 1.electron beam 电子束
 2.electron microscope 电子显微镜
-[联] electron (电子) ——> 微小的带负电粒子。
+3.electron microscope 电子显微镜
+4.electron microscopy 电子显微镜学，电子显微镜
+5.scanning electron microscope 扫描电子显微镜
+[联] electron (电子) ——> 微小的带负电粒子
 
 quantum / ˈkwɑːntəm /
-n. 量子
+n. 量子；量子论；额（特指定额、定量）；（乙酰胆碱释放的）单元量；美国昆腾公司（世界领先的硬盘生产商）
+adj. 量子的；(大小、数量的) 猛然剧增，(质量的) 突飞猛进
 [例]
 1.Quantum mechanics studies the behavior of particles at the atomic and subatomic level. 量子力学研究原子和亚原子粒子的行为。
 2.Light can be thought of as both waves and quanta. 光可以被认为是波和量子的结合。
@@ -493,7 +643,10 @@ n. 量子
 [搭]
 1.quantum physics 量子物理
 2.quantum computing 量子计算
-[联] quantum (量子) ——> 极小的能量单位。
+3.quantum mechanics 量子力学（解释次原子粒子运动和质量）
+4.quantum theory [物]量子论
+5.quantum chemistry 量子化学
+[联] quantum (量子) ——> 极小的能量单位
 
 liquid / ˈlɪkwɪd /
 n. 液体；流体
@@ -505,8 +658,11 @@ adj. 液态的；流动的
 [搭]
 1.liquid crystal 液晶
 2.liquid asset 流动资产
-[联] liquid (液体) ——> 流动性强的东西。fluid /ˈfluːɪd/
-adj. 流动的，液态的；易变的
+[联] liquid (液体) ——> 流动性强的东西。
+
+fluid / ˈlɪkwɪd /
+n. 液体，液态物；流音
+adj. 液态的，液化的；（资金等）流动的，易变为现金的；流畅自如的，舒展的；明亮的，清澈的；清脆的，流畅的；（市场）活跃的；液态的，液化的
 [例]
 1.The fluid nature of water makes it adaptable to different containers. 水的流动性使其适应不同的容器。
 2.The company's policies are often too fluid and unpredictable. 公司的政策常常过于灵活和不可预测。
@@ -514,21 +670,14 @@ adj. 流动的，液态的；易变的
 [搭]
 1.fluid dynamics 流体力学
 2.fluid intelligence 流体智力（心理学概念）
-[联] fluid = flow + -id（形容词后缀）——> 能流动的。
+3.liquid crystal 液晶
+4.liquid chromatography 液相色谱法
+5.liquid phase 液相
+[联] fluid = flow + -id（形容词后缀）——> 能流动的
 
-fluid /ˈfluːəl/
-n. 流体，液体
-[例]
-1.Water is the most common fluid on Earth. 地球上最常见的流体是水。
-2.Oil is a non-polar fluid. 油是一种非极性流体。
-3.Blood is a complex fluid in our body. 血液是我们身体内的一种复杂流体。
-[搭]
-1.body fluid 体液
-2.fluid mechanics 流体力学
-[联] fluid = flow + -id（名词后缀）——> 流动的物质。
-
-solid /ˈsɑːlɪd/
-n. 固体
+solid / ˈsɑːlɪd /
+adj. 固体的，坚硬的；结实的，牢固的；实心的，无空隙的；纯质的；纯色的，单色的；可靠的，可信赖的；一致的，坚定的；不中断的，连续的
+n. 立体（图形）；固体；固体食物；（液体中的）固形物
 [例]
 1.Metal is a common solid. 金属是一种常见的固体。
 2.Solids have definite shape and volume. 固体有确定的形状和体积。
@@ -538,8 +687,8 @@ n. 固体
 2.solid-state physics 固体物理学
 [联] solid = sol（拉丁语“太阳”）+ id（名词后缀）——> 像太阳一样稳定的物质。
 
-synthesis /ˈsɪnθəsɪs/
-n. 合成，综合
+synthesis / ˈsɪnθəsɪs /
+n. 综合，综合体；（化学物质的）合成；音响合成；（黑格尔哲学中的）合题；（语法）合成；（语言学）综合
 [例]
 1.The synthesis of new materials is crucial for technology. 新材料的合成对技术至关重要。
 2.Science relies heavily on the synthesis of knowledge. 科学依赖于知识的综合。
@@ -547,10 +696,10 @@ n. 合成，综合
 [搭]
 1.chemical synthesis 化学合成
 2.synthesis of ideas 思想综合
-[联] synthesis = syn-（一起）+ thesis（放置）——> 放在一起形成整体。
+[联] synthesis = syn-（一起）+ thesis（放置）——> 放在一起形成整体
 
-formation /fərˈmeɪʃn/
-n. 形成，构成；队形；结构
+formation / fɔːrˈmeɪʃ(ə)n /
+n. 组成物；构成；形成，产生；编队，队形；（社会、政治等的）形态
 [例]
 1.The formation of stars is a fascinating process. 星星的形成是一个迷人的过程。
 2.The army marched in perfect formation. 部队以整齐的队形行进。
@@ -558,10 +707,13 @@ n. 形成，构成；队形；结构
 [搭]
 1.language formation 语言形成
 2.rock formation 岩石构造
-[联] formation = form（形成）+ -ation（名词后缀）——> 形成的过程或结果。
+3.formation damage 地层损害，油层损害；生产层损坏
+4.formation water 地层水
+5.bone formation 骨形成；骨生成
+[联] formation = form（形成）+ -ation（名词后缀）——> 形成的过程或结果
 
-method /ˈmeθəd/
-n. 方法，办法
+method / ˈmeθəd /
+n. 方法，办法；条理；体验派表演方法
 [例]
 1.The scientific method is essential for research. 科学方法对研究至关重要。
 2.She developed a new method for teaching English. 她开发了一种新的英语教学方法。
@@ -569,10 +721,12 @@ n. 方法，办法
 [搭]
 1.teaching method 教学方法
 2.research method 研究方法
-[联] method = met（希腊语“追随”）+ hod（道路）——> 追随的道路，即方法。
+3.analysis method 解析法；离子微探针质谱仪分析法
+4.design method 设计方法，设计法
+[联] method = met（希腊语“追随”）+ hod（道路）——> 追随的道路，即方法
 
 spectrum /ˈspektrəm/
-n. 光谱；范围；频谱
+n. 范围，幅度；光谱；波谱，频谱；余象
 [例]
 1.Light is made up of a spectrum of colors. 光是由一系列颜色组成的光谱。
 2.The book covers the entire spectrum of political opinions. 这本书涵盖了整个政治观点的范围。
@@ -580,10 +734,14 @@ n. 光谱；范围；频谱
 [搭]
 1.visible spectrum 可见光谱
 2.electromagnetic spectrum 电磁波谱
-[联] spectrum = spect（看）+ rum（后缀）——> 看到的东西的范围。
+3.spectrum analysis 光谱分析；分光分析
+4.frequency spectrum 频谱；频率谱
+5.infrared spectrum 红外光谱
+[联] spectrum = spect（看）+ rum（后缀）——> 看到的东西的范围
 
-dimension /dɪˈmenʃn/
-n. 维度，尺寸；面积；方面
+dimension / daɪˈmenʃn; dɪˈmenʃn /
+n. 大小，尺寸；（空间的）维度；范围，规模；方面，部分
+v. 切削（或制作）成特定尺寸；标出尺寸
 [例]
 1.Three dimensions are length, width, and height. 三维是长度、宽度和高度。
 2.This project has many dimensions. 这个项目有许多方面。
@@ -593,8 +751,8 @@ n. 维度，尺寸；面积；方面
 2.fourth dimension 第四维
 [联] dimension = di-（分开）+ mens（测量）——> 分开测量的东西。
 
-frequency /ˈfriːkwənsi/
-n. 频率，次数；常见程度
+frequency / ˈfriːkwənsi /
+n. 出现次数；频繁；频率
 [例]
 1.The frequency of earthquakes varies from place to place. 地震的频率因地而异。
 2.The frequency of the radio waves determines their wavelength. 无线电波的频率决定了它们的波长。
@@ -602,10 +760,13 @@ n. 频率，次数；常见程度
 [搭]
 1.radio frequency 无线电频率
 2.natural frequency 自然频率
-[联] frequency = frequen（频繁）+ cy（名词后缀）——> 频繁的程度。
+3.high frequency 高频
+4.low frequency低频率；低周波
+5.frequency domain [化]频域；频率范围
+[联] frequency = frequen（频繁）+ cy（名词后缀）——> 频繁的程度
 
-antenna /ænˈtɛnə/
-n. 天线
+antenna / ænˈtenə /
+n. 触须，触角；<美>天线；感觉，直觉
 [例]
 1.The TV antenna needs adjustment. 电视天线需要调整。
 2.Antennas are used to transmit and receive signals. 天线用于发送和接收信号。
@@ -613,10 +774,14 @@ n. 天线
 [搭]
 1.antenna array 天线阵
 2.cellular antenna 蜂窝天线
-[联] antenna = anten（前）+ na（后缀）——> 前面和后面的装置。
+3.antenna array 天线阵
+4.array antenna 阵列天线
+5.receiving antenna 接收天线
+[联] antenna = anten（前）+ na（后缀）——> 前面和后面的装置
 
-circuit /ˈsɜːrkl/
-n. 电路；环形路线；巡回
+circuit / ˈsɜːrkɪt /
+n. 电路，回路；巡回活动，巡回地；环道，环线；巡回赛；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）
+v.（绕……）环行
 [例]
 1.The electric circuit must be closed to work. 电路必须闭合才能工作。
 2.The judge went on a circuit of the country. 法官在全国巡回审判。
@@ -624,10 +789,10 @@ n. 电路；环形路线；巡回
 [搭]
 1.electric circuit 电路
 2.water circuit 水路
-[联] circuit = circ（环绕）+ uit（后缀）——> 环绕的路径。
+[联] circuit = circ（环绕）+ uit（后缀）——> 环绕的路径
 
 meteorite / ˈmiːtiəraɪt /
-n. （坠落到地球上的）陨石。
+n. 陨石，陨星；流星
 [例]
 1.A meteorite struck a car in Russia. 一颗陨石击中了一辆汽车。
 2.Scientists study meteorites to learn more about the solar system. 科学家研究陨石以了解更多关于太阳系的信息。
@@ -635,176 +800,191 @@ n. （坠落到地球上的）陨石。
 [搭] meteorite shower 陨石雨
 [联] meta- (变化，超越) + -lite (石头) ——> 变化的石头
 
-propulsion / prəˈpʌlʃn /
-n. 推进，推进力；推动，推动力。
-[例]
-1.The propulsion of the rocket is provided by its engines. 火箭的推进力由其发动机提供。
-2.The company developed a new propulsion technology for ships. 这家公司为船只开发了一种新的推进技术。
-3.The propulsion system of this aircraft is very advanced. 这架飞机的推进系统非常先进。
-[搭] propulsion system 推进系统
-[联] pro- (向前) + pulse (脉冲，波动) ——> 前进的波动
-
-observatory / əbˈzɜːrvətɔri /
-n. 天文台；观测站。
-[例]
-1.The astronomer works at an observatory. 这位天文学家在天文台工作。
-2.The observatory provides a clear view of the stars. 这个天文台能清楚地看到星星。
-3.The observatory recorded the meteor shower last night. 昨晚天文台记录了流星雨。
-[搭] observatory dome 天文台圆顶
-[联] ob- (向) + serve (观察) + -atory (场所) ——> 观察的场所
-
-fossil / ˈfɑːsl /
-n. 化石；过时的人或物。
-[例]
-1.The paleontologist found a fossil of a dinosaur. 古生物学家发现了一具恐龙化石。
-2.This software is like a fossil from the 1980s. 这款软件就像来自1980年代的化石。
-3.The fossil record shows evidence of ancient life forms. 化石记录显示了古代生命形式的证据。
-[搭] fossil fuel 化石燃料
-[联] fossa (洞穴) + -il (小的) ——> 小洞里的东西
-
 signal / ˈsɪɡnəl /
-n. 信号；暗号 v. 发信号；发暗号。
+n. 信号，暗号；标志，预示；（尤指铁路和公路上的）指示灯，信号灯；（无线电、电视等的）讯号，信号；起因，导火线；（桥牌）信号；（传递的）信息
+v. 发信号，示意；标志，预示；告知，表示；（车辆转方向时）打灯示意
+adj. 重大的，显要的；作为信号的
 [例]
 1.The green signal means "go". 绿色信号表示“通行”。
 2.He signalled with his hand to stop. 他用手示意停下。
 3.The radio signal was lost due to interference. 由于干扰，无线电波信号丢失了。
-[搭] signal strength 信号强度
+[搭]
+1.signal strength 信号强度
+2.signal processing 信号处理
+3.digital signal 数字信号
+4.digital signal processing 数字信号处理
 [联] sign (标志) + -al (形容词后缀) ——> 标志性的
 
-refraction / rɪˈfrækʃn /
-n. 折射。
+refraction / rɪˈfrækʃ(ə)n /
+n. 折射；折光
 [例]
 1.Light undergoes refraction when it passes through water. 光通过水时会发生折射。
 2.The refraction of sound waves can be measured. 可以测量声波的折射。
 3.Refraction is responsible for the apparent bending of light. 折射是光看起来弯曲的原因。
-[搭] total internal refraction 全内反射
+[搭]
+1.total internal refraction 全内反射
+2.refraction index 折射指数，折光指数
+3.index of refraction [物]折射率
+4.negative refraction 负折射
 [联] re- (再次) + fract (断裂) ——> 再次断裂
 
-ultraviolet / ˌʌltrəˈvaɪəlɪt /
-n. 紫外线 adj. 紫外线的。
+ultraviolet / ˌʌltrəˈvaɪələt /
+adj. 紫外的，紫外线的；（设备，技术）产生紫外线的
+n. 紫外光，紫外辐射
 [例]
 1.The sun emits ultraviolet rays. 太阳发出紫外线。
 2.Wear sunscreen to protect your skin from ultraviolet radiation. 涂防晒霜保护皮肤免受紫外线辐射。
 3.Ultraviolet light is used in sterilization. 紫外线用于消毒。
-[搭] ultraviolet lamp 紫外线灯
+[搭]
+1.ultraviolet lamp 紫外线灯
+2.ultraviolet radiation 紫外线；紫外线照射
+3.ultraviolet light 紫外线
+4.ultraviolet ray 紫外线
 [联] ultra- (超出) + violet (紫色) ——> 超出可见光范围的颜色
 
 radioactive / ˌreɪdioʊˈæktɪv /
-adj. 放射性的。
+adj. 放射性的，有辐射的
 [例]
 1.Some elements are radioactive. 一些元素具有放射性。
 2.Radioactive waste must be disposed of safely. 放射性废物必须安全处理。
 3.Radioactive dating helps determine the age of fossils. 放射性测年帮助确定化石的年龄。
-[搭] radioactive decay 放射性衰变
+[搭]
+1.radioactive decay 放射性衰变
+2.radioactive waste 放射性废弃物
+3.radioactive isotope 放射性同位素
+4.radioactive material 放射性物质；放射性材料
 [联] radio (无线电) + active (活跃的) ——> 产生辐射的
 
 distinct / dɪˈstɪŋkt /
-adj. 清楚的；截然不同的。
+adj. 不同的，有区别的；清楚的，明显的；确切的
 [例]
 1.His voice was distinct even over the noise. 即使在噪音中，他的声音也很清楚。
 2.There is a distinct difference between the two versions. 两个版本之间有明显的区别。
 3.The smell of coffee was distinct in the air. 空气中弥漫着明显的咖啡香味。
-[搭] distinct from 区别于
+[搭]
+1.distinct from 区别于
+2.distinct from 种类不同；种类差别
+3.Distinct grain pattern 清晰的木纹图案；清楚的木纹图案
+4.distinct roots 相异根；不等根
 [联] dis- (分开) + stinct (刺穿) ——> 分开的
 
-discernible / dɪˈsɜːrnəbl /
-adj. 可辨认的；可识别的。
+discernible / dɪˈsɜːrnəb(ə)l /
+adj. 可辨认的；可识别的；看得清的，觉察得出的
 [例]
 1.The shape of the object was discernible through the fog. 雾中可以辨认出物体的形状。
 2.The sound of footsteps was barely discernible. 脚步声几乎无法辨认。
 3.The signs of improvement were discernible. 改进的迹象是可以辨认的。
-[搭] discernible by 可被……辨认
+[搭]
+1.discernible by 可被……辨认
+2.discernible image可辨别的图象
+3.minimum discernible signal 最小可分辨信号；电子 最小可辨别信号；最小可辨信号；最小可辩别信号
 [联] dis- (分开) + cern (区分) + -ible (可……的) ——> 可以区分的
 
-invisible /ˌɪnvɪˈzɪbl/, /ɪnˈvɪzəbl/
-adj. 看不见的；无形的；被忽视的。
+invisible / ɪnˈvɪzəb(ə)l /
+adj. 看不见的，隐形的；无形的，非贸易的；被忽视的，不为人注意的
+n. 无形进出口
 [例]
 1.Light can travel through an invisible medium. 光可以在一种看不见的介质中传播。
 2.The system has an invisible hand that controls its operation. 这个系统有一个无形的手控制其运作。
 3.The invisible forces of supply and demand affect the market. 供求的无形力量影响着市场。
 [搭]
 1.invisible ink 隐形墨水
-invisible barrier 隐形障碍
-[联] in-(不) + visible(可见的)——> 看不见的。
+2.invisible barrier 隐形障碍
+3.invisible hand 看不见的手
+4.invisible assets 无形资产
+5.invisible trade 无形贸易
+[联] in-(不) + visible(可见的) ——> 看不见的
 
-collision /kəˈlɪʒn/
-n. 碰撞；冲突；抵触。
+collision / kəˈlɪʒ(ə)n /
+n. 碰撞，相撞；冲突，抵触；争用
 [例]
 1.A car collision happened last night. 昨晚发生了一起汽车碰撞事故。
 2.Cultural collisions often happen when people from different backgrounds meet. 当来自不同背景的人相遇时，文化冲突往往会发生。
 3.The collision of ideas led to a breakthrough in the project. 观点的碰撞促使项目取得突破。
 [搭]
 1.head-on collision 正面碰撞
-collision course 冲突路线，对立局面
-[联] collide(碰撞) + -ion(名词后缀)——> 碰撞。
+2.collision course 冲突路线，对立局面
+3.collision detection [计]碰撞检测；[计]冲突检出
+4.collision avoidance 碰撞避免，冲突避免
+5.in collision 相撞；在冲突中
+[联] collide(碰撞) + -ion(名词后缀)——> 碰撞
 
-squash /skwɒʃ/, /skwæʃ/
-v. 压扁；镇压；压制；挤满；n. 西葫芦；南瓜； squash球。
+squash / skwɑːʃ /
+v. 压扁，压碎；（使）挤进，（把……）塞进；打断，制止，去除；控制，抑制（情绪）
+n. （软式）墙网球，壁球；<英>果汁饮料；南瓜属植物（如南瓜）；拥挤的环境（或处所）；（生）（供显微镜观察用的）软化组织薄片，压片；咯吱声
 [例]
 1.I tried to squash the rebellion before it spread. 我试图在叛乱蔓延之前将其镇压下去。
 2.The crowd squashed into the small room. 人群挤满了那间小屋。
 3.My favorite squash is butternut squash. 我最喜欢的南瓜是但ternut南瓜。
 [搭]
 1.squash bugs 压扁虫子
-squash a rumor 驳斥谣言
-[联] squash(压扁)——> 形容词形式为squashed。
+2.squash a rumor 驳斥谣言
+3.summer squash 西葫芦；矮性南瓜
+4.winter squash 冬南瓜；笋瓜；印度南瓜
 
-fragment /ˈfræɡmənt/
-n. 碎片，碎块；片段，节选；v. 破碎；分裂；使成碎片。
+fragment / ˈfræɡmənt /
+n. 碎片，碎块；片段，节选；v. 破碎；分裂；使成碎片
 [例]
 1.The vase shattered into fragments. 花瓶摔成了碎片。
 2.I only remember fragments of the conversation. 我只记得谈话的一些片段。
 3.The story is told in fragments. 故事以片段的形式讲述。
 [搭]
 1.fragmentary evidence 片面证据
-[联] frag-(破碎) + -ment(名词后缀)——> 碎片。
+[联] frag-(破碎) + -ment(名词后缀) ——> 碎片
 
-cataclysmic /kəˈklɪzmɪk/
+cataclysmic / ˌkætəˈklɪzmɪk /
 adj. 大灾难性的；毁灭性的。
 [例]
 1.The earthquake had cataclysmic effects on the city. 地震对该城市造成了毁灭性的破坏。
 2.A cataclysmic event reshaped the landscape. 一场大灾难重塑了地貌。
 3.The financial crisis was cataclysmic for many businesses. 金融危机对许多企业来说是毁灭性的。
-[搭] cataclysmic change 大变革，剧变。
-[联] cataclysm(大洪水) + -ic(形容词后缀)——> 大灾难性的。
+[搭]
+1.cataclysmic change 大变革，剧变
+2.cataclysmic sight 灾变景观
+[联] cataclysm(大洪水) + -ic(形容词后缀)——> 大灾难性的
 
-overwhelming /ˌoʊvərˈhwelɪŋ/
-adj. 压倒性的；无法抗拒的；势不可挡的。
+overwhelming / ˌoʊvərˈwelmɪŋ /
+adj. 难以抗拒的，令人不知所措的；巨大的，压倒性的
+v.（感情上）使受不了，使不知所措；压垮，使应接不暇；打败，击垮（overwhelm 的现在分词形式）
 [例]
 1.The overwhelming evidence convinced everyone. 压倒性的证据说服了所有人。
 2.The storm brought an overwhelming amount of rain. 暴风雨带来了大量的雨水。
 3.The love I feel for you is overwhelming. 我对你的情感是无法抗拒的。
 [搭]
 1.overwhelming majority 绝大多数
-[联] over-(超过) + whelm(淹没) + -ing(形容词后缀)——> 压倒性的。
+2.overwhelming superiority 绝对优势
+[联] over-(超过) + whelm(淹没) + -ing(形容词后缀)——> 压倒性的
 
-despair /dɪsˈper/
-n. 绝望；失望；v. 绝望；丧失希望。
+despair / dɪˈsper /
+n. 绝望；令人绝望的人或事
+v. 绝望，丧失信心
 [例]
 1.She was filled with despair after hearing the news. 听到这个消息后，她陷入了绝望。
 2.They were driven to despair by the situation. 他们被这种情况逼到了绝望。
 3.I can't help but feel a sense of despair. 我忍不住感到一阵绝望。
 [搭]
-1.in despair 绝望地
-[联] de-(否定) + spar(希望)——> 绝望。
+1.in despair 绝望；失望；在绝望中；绝望之中
+[联] de-(否定) + spar(希望) ——> 绝望。
 
 desperate /ˈdespərət/
-adj. 绝望的；拼命的；不顾一切的。
+adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；绝望的，无望的；绝望的，无望的
 [例]
 1.He made a desperate attempt to escape. 他拼命地试图逃脱。
 2.The situation seemed desperate. 形势似乎很绝望。
 3.They were desperate for a solution. 他们迫切需要一个解决方案。
 [搭]
 1.desperate need 急需
-[联] des-(否定) + sper(希望) + -ate(形容词后缀)——> 绝望的。
+2.Desperate Space 绝地攻击机
+3.Desperate Measures 亡命之计；绝点对抗；天雷地火；孤注一掷
+[联] des-(否定) + sper(希望) + -ate(形容词后缀) ——> 绝望的
 
 hopeless /ˈhoʊpləs/
-adj. 无望的；绝望的；无可救药的。
+adj. 无望的；绝望的；无可救药的
 [例]
 1.The situation seemed hopeless. 形势似乎毫无希望。
 2.He felt completely hopeless about his future. 他对未来感到完全绝望。
 3.There's no hope for this hopeless case. 对这个无望的情况毫无希望。
 [搭]
 1.hopeless romantic 浪漫主义者
-[联] hope(希望) + -less(否定后缀)——> 无望的。
+[联] hope(希望) + -less(否定后缀)——> 无望的
 

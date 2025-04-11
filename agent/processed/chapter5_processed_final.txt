@@ -1,42 +1,54 @@
-education /ˌedʒuˈkeɪʃn/
-n. 教育；教导；训练。
+education / ˌedʒuˈkeɪʃn /
+n. （尤指学校）教育；培养，训练；教育机构，教育界人士；教育学；有教益的经历
 [例]
 1.Education is the key to success. 教育是成功的关键。
 2.The education system needs reform. 教育体制需要改革。
 3.He received a good education. 他接受了良好的教育。
 [搭] 
-higher education 高等教育。
-[联] edu (educate) + cation (名词后缀) ——> 教育。
+1.higher education 高等教育
+2.distance education 远程教育；遥距教育；远程教学；远距教学
+3.special education 特殊教育；特殊教育学；特别教育
+4.basic education 基础教育；基础；基本教育；根底教育
+[联] edu (educate) + cation (名词后缀) ——> 教育
 
-primary /ˈpraɪmeri/
-adj. 初级的；主要的；首要的。
+primary / ˈpraɪmeri /
+adj. 主要的，首要的；<英>小学教育的，初级教育的；初级的，原发性的；最基本的，最根本的；第一手的，直接的；（有机化合物）连上一个碳原子的
+n.（选举过程中的党内）初选（=primary election）；原色；初级飞羽；主星；初级线圈，原线圈
 [例]
 1.Primary schools provide basic education. 小学提供基础教育。
 2.The primary goal is to improve literacy rates. 主要目标是提高识字率。
 3.Primary colors are red, blue, and yellow. 原色是红、蓝和黄。
 [搭] 
-primary school 小学。
-[联] prim (首要的) + ary (形容词后缀) ——> 主要的。
+1.primary school 小学
+2.Primary market 第一市场；基本市场
+3.primary key 主键；主关键字；主键约束；约束
+[联] prim (首要的) + ary (形容词后缀) ——> 主要的
 
 secondary /ˈsekəndri/
-adj. 次要的；第二位的；中级的。
+adj.（教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（电）次级的；<旧>（地质）中生代的（Secondary）
+n. 副手，下属；第二防线；<英>中学（secondary school 的简称）；（变压器中的）次级线圈；<旧>（地质）中生代（the Secondary）
 [例]
 1.Secondary education includes high school. 中等教育包括高中。
 2.The secondary effect of the policy was unexpected. 政策的次级效应是意想不到的。
 3.Secondary colors are green, orange, and purple. 次色是绿、橙和紫。
 [搭] 
-secondary school 中学。
-[联] second + ary (形容词后缀) ——> 第二的。
+1.secondary school 中学
+2.secondary market 贸易 二级市场；次级市场；二手市场
+3.Secondary Education 中学教育；中等教育；高中教育；中学
+[联] second + ary (形容词后缀) ——> 第二的
 
-university /ˌjunɪˈvɜrsəti/
-n. 大学；高等教育机构。
+university / ˌjuːnɪˈvɜːrsəti /
+n. 大学，综合性大学；大学校舍
 [例]
 1.Harvard University is one of the most famous universities in the world. 哈佛大学是世界上最著名的大学之一。
 2.Students attend university to further their education. 学生上大学是为了进一步接受教育。
 3.The university offers a wide range of courses. 这所大学提供各种各样的课程。
 [搭] 
-state university 州立大学。
-[联] uni (一个) + vers (转) + ity (名词后缀) ——> 无所不包的地方。
+1.state university 州立大学
+2.normal university 师范大学
+3.university student 大学生
+4.beijing university 北京大学
+[联] uni (一个) + vers (转) + ity (名词后缀) ——> 无所不包的地方
 
 college /ˈkɑlɪʤ/
 n. 学院；大学；学院的建筑物。
