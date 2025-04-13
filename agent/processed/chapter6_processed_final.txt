@@ -1,49 +1,55 @@
-technology / tekˈnɑːlədʒi /, / tɛkˈnɒlədʒi /
-n. 技术，工艺；科技，工业。
+technology / tekˈnɑːlədʒi /
+n. 科技，技术；技术设备，先进机器；技术学，工艺学；术语
 [例]
 1.The new technology has greatly improved our lives. 新技术极大地改善了我们的生活。
 2.They are working on cutting-edge technology. 他们在研究前沿技术。
 3.This technology is still in its infancy. 这项技术还处于起步阶段。
 [搭]
 1.advanced technology 先进技术
-state-of-the-art technology 最先进技术
-[联] tech (技术) + nology (学科，学问) ——> 研究技术的学问。
+2.science and technology 科学与技术
+3.information technology 信息技术
+[联] tech (技术) + nology (学科，学问) ——> 研究技术的学问
 
-technique / tækˈniːk /
-n. 技巧，技能；手法，技术。
+technique / tekˈniːk /
+n. 技巧，工艺；（尤指体育或艺术方面的）技巧，技术
 [例]
 1.He is an expert in painting techniques. 他是绘画技巧方面的专家。
 2.She mastered the technique of playing the piano. 她掌握了弹钢琴的技术。
 3.The technique used in this movie is very innovative. 这部电影采用的技术非常有创意。
 [搭]
 1.painting technique 绘画技巧
-film technique 影视技术
-[联] tech (技术) + nique (形式) ——> 技术的形式或方法。
+2.film technique 影视技术
+3.processing technique 生产工艺；制造工艺
+4.control technique 控制技术
+[联] tech (技术) + nique (形式) ——> 技术的形式或方法
 
-polytechnic / ˌpɑːliˈtɛknɪk /, / ˌpɑːliˈtɛknɪk /
-n. 理工学院；综合技术学校。
+polytechnic / ˌpɑːliˈteknɪk /
+n.（在英国1992年后改为大学的）工艺专科学院，理工专科学院；（旧时美国的）理工学校（或学院、大学）
+adj. 工艺（或技术）教学的
 [例]
 1.My brother studied at a polytechnic. 我哥哥在一所理工学院学习。
 2.The polytechnic offers courses in engineering and design. 这所理工学院提供工程和设计课程。
 3.I am interested in attending a polytechnic. 我有兴趣去一所理工学院学习。
 [搭]
 1.polytechnic education 理工教育
-polytechnic school 理工学校
-[联] poly (多) + technic (技术) ——> 多种技术的结合。
+2.polytechnic school 理工学校
+[联] poly (多) + technic (技术) ——> 多种技术的结合
 
-engineer / ˌɛndʒəˈnɪr /
-n. 工程师；技师；机修工；设计者。
+engineer / ˌendʒɪˈnɪr /
+n. 工程师，设计师；（航班）机械师，（轮船）轮机长；技师，机修工；工兵；机车司机，火车司机；责任人
+v. 设计，建造；策划，精心安排；改变……的基因(或遗传)结构
 [例]
 1.She is a software engineer. 她是一名软件工程师。
 2.The civil engineer designed the bridge. 土木工程师设计了这座桥。
 3.He worked as a mechanical engineer for years. 他当了多年的机械工程师。
 [搭]
 1.engineering team 工程团队
-senior engineer 高级工程师
-[联] engine (引擎) + -eer (从事某职业的人) ——> 从事与引擎相关工作的人员。
+2.senior engineer 高级工程师
+[联] engine (引擎) + -eer (从事某职业的人) ——> 从事与引擎相关工作的人员
 
-mechanic / məˈkænɪk /
-n. 机修工；技工。
+mechanic / məˈkænɪk; mɪˈkænɪk /
+n. 机械工，机修工；<旧>劳工，工匠；方法，手段
+adj. 手工的
 [例]
 1.He is a skilled mechanic. 他是一位熟练的机修工。
 2.The mechanic fixed my car. 机修工修理了我的车。
@@ -51,29 +57,31 @@ n. 机修工；技工。
 [搭]
 1.mechanic repair 机械维修
 automobile mechanic 汽车机修工
-[联] mechan (机械) + ic (表示人) ——> 从事机械修理的人。
+[联] mechan (机械) + ic (表示人) ——> 从事机械修理的人
 
-advance / ədˈvæns /
-n. 进步，进展；预付款；前进。
+advance / ædˈvæns /
+v.（使）前进，（使）向前移动；发展，进步；预付；提前，提早；促进，推动；提出（想法或理论）；上涨，增加；提拔，晋升
+n. 前进；进步，进展；改善；预付款；勾引，追求；（价格、价值的）上涨；贷款
+adj. 预先的，事先的；先行的，先遣的
 [例]
 1.Science has made great advances. 科学取得了巨大进步。
 2.We need to make an advance payment. 我们需要支付预付款。
 3.The army advanced into enemy territory. 军队向敌方领土推进。
 [搭]
 1.advance notice 提前通知
-on advance 已经预先
-[联] ad (向) + vance (前进) ——> 向前移动。
+2.on advance 已经预先
+[联] ad (向) + vance (前进) ——> 向前移动
 
 innovate / ˈɪnəveɪt /
-v. 创新，革新；改革。
+v. 创新，革新；改革
 [例]
 1.The company is constantly innovating. 这家公司一直在创新。
 2.They innovate by using new materials. 他们通过使用新材料进行革新。
 3.Innovation is key to success. 创新是成功的关键。
 [搭]
 1.innovative products 创新产品
-innovative thinking 创新思维
-[联] in (进入) + nov (新) + ate (动词后缀) ——> 进入新的状态。
+2.innovative thinking 创新思维
+[联] in (进入) + nov (新) + ate (动词后缀) ——> 进入新的状态
 
 breakthrough / ˈbreɪkθruː /
 n. 突破，重大进展；突破性成果。
@@ -83,32 +91,36 @@ n. 突破，重大进展；突破性成果。
 3.The breakthrough will change the industry. 这一突破将改变行业。
 [搭]
 1.scientific breakthrough 科学突破
-medical breakthrough 医学突破
-[联] break (打破) + through (穿过) ——> 打破常规，取得进展。
+2.medical breakthrough 医学突破
+3.breakthrough point 突破点；穿透点；贯穿点
+4.make a breakthrough 有重大发展或突破
+5.breakthrough technology 突破性技术
+[联] break (打破) + through (穿过) ——> 打破常规，取得进展
 
 gizmo / ˈɡɪzmoʊ /
-n. 小玩意儿；小装置。
+n. 小发明（等于 gismo）；复数（gizmos）
 [例]
 1.What's that gizmo? 那是什么小玩意儿？
 2.I bought a new gizmo for my phone. 我买了一个新的手机小装置。
 3.That gizmo really works! 那个小玩意儿确实管用！
 [搭]
 1.gadget gizmo 小工具，小玩意儿
-[联] Gizmo 是一个俚语词汇，没有特定的联想记忆。
 
-patent / ˈpeɪtnt /
-n. 专利权；专利证书。
+patent / ˈpæt(ə)nt /
+n. 专利（权），专利证书；专利发明
+adj. 受专利保护的，专利的；专利生产的，专利经销的；显而易见的，赤裸裸的；（寄生虫感染）明显的，显著的；（脉管、导管或孔）开放的，不闭合的
+v. 获得……的专利权；授予专利
 [例]
 1.She holds several patents. 她拥有几项专利。
 2.The company filed for a patent. 公司申请了专利。
 3.His invention was granted a patent. 他的发明获得了专利。
 [搭]
 1.patent law 专利法
-patent holder 专利持有人
-[联] pat (保护) + ent (名词后缀) ——> 被保护的权利。
+2.patent holder 专利持有人
+[联] pat (保护) + ent (名词后缀) ——> 被保护的权利
 
-invent /ɪnˈvent/
-v.发明，创造；捏造，虚构。
+invent / ɪnˈvent /
+v. 发明，创造；编造，虚构
 [例]
 1.Henry Ford invented the assembly line. 亨利·福特发明了流水线。
 2.She invented an excuse for being late. 她编造了一个迟到的借口。
@@ -116,10 +128,10 @@ v.发明，创造；捏造，虚构。
 [搭]
 1.invent a story 编造故事
 2.invent a gadget 发明小装置
-[联] in- (进入) + vent (打开，通向) ——> 打开新的可能性。
+[联] in- (进入) + vent (打开，通向) ——> 打开新的可能性
 
-discover /dɪˈskʌvər/
-v.发现，发觉；偶然遇到。
+discover / dɪˈskʌvər /
+v.发现，找到；了解到，发觉，查明；发掘（人才）；初次接触
 [例]
 1.Columbus discovered America in 1492. 哥伦布于1492年发现了美洲。
 2.We discovered a new species of plant. 我们发现了一种新的植物物种。
@@ -129,8 +141,8 @@ v.发现，发觉；偶然遇到。
 2.discover a treasure 发现宝藏
 [联] dis- (分开) + cover (覆盖) ——> 把覆盖物揭开。
 
-disclose /dɪsˈkloʊz/
-v.揭露，透露；使显现。
+disclose / dɪsˈkloʊz /
+v. 透露，公开；揭开，使显露
 [例]
 1.The report disclosed some shocking facts. 报告披露了一些令人震惊的事实。
 2.The truth will eventually be disclosed. 真相终将被揭露。
@@ -138,10 +150,14 @@ v.揭露，透露；使显现。
 [搭]
 1.disclose information 披露信息
 2.disclose one's identity 披露身份
-[联] dis- (分开) + close (关闭) ——> 打开封闭的事物。
+3.disclose any illegal activities 举报非法行动；举报非法止为
+4.disclose the secret 泄露天机
+5.disclose an interest 公开利益关系
+[联] dis- (分开) + close (关闭) ——> 打开封闭的事物
 
-reveal /rɪˈviːl/
-v.揭示，透露；展示，展现。
+reveal / rɪˈviːl /
+v. 揭示，透露；表明，证明；展示，显示；（通过神或超自然手段）启示
+n.（电视节目最后的）揭示；门侧，窗侧
 [例]
 1.The photographer wanted to reveal the beauty of nature. 摄影师想要展现自然之美。
 2.She revealed her secret to her best friend. 她向她最好的朋友透露了自己的秘密。
@@ -149,10 +165,10 @@ v.揭示，透露；展示，展现。
 [搭]
 1.reveal a secret 揭露秘密
 2.reveal the truth 揭示真相
-[联] re- (再次) + veil (面纱) ——> 再次掀开面纱。
+[联] re- (再次) + veil (面纱) ——> 再次掀开面纱
 
-uncover /ˌʌnˈkʌvər/
-v.揭开，揭露；暴露。
+uncover / ʌnˈkʌvər /
+v. 揭露，发现；揭开盖子，移开覆盖物；发掘，挖出；脱帽（尤指表示敬意）
 [例]
 1.Archeologists uncovered ancient ruins. 考古学家揭开了古代遗迹。
 2.The scandal was uncovered by a journalist. 这个丑闻被一名记者揭露。
@@ -160,10 +176,11 @@ v.揭开，揭露；暴露。
 [搭]
 1.uncover evidence 揭露证据
 2.uncover a mystery 揭开谜团
-[联] un- (不，相反) + cover (覆盖) ——> 不再覆盖。
+[联] un- (不，相反) + cover (覆盖) ——> 不再覆盖
 
-expose /ɪkˈspoʊz/
-v.暴露，揭露；使曝光；使面临（危险等）。
+expose / ɪkˈspoʊz /
+v. 暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；使（胶卷）曝光；弃（婴孩）于户外让其死去
+n. 揭露，曝光
 [例]
 1.The sun exposes us to harmful UV rays. 太阳使我们暴露在有害的紫外线中。
 2.Exposing corruption is his duty as a journalist. 揭露腐败是他的职责。
@@ -171,10 +188,10 @@ v.暴露，揭露；使曝光；使面临（危险等）。
 [搭]
 1.expose oneself to danger 使自己处于危险之中
 2.expose a lie 揭露谎言
-[联] ex- (向外) + pose (放置) ——> 放置在外。
+[联] ex- (向外) + pose (放置) ——> 放置在外
 
-domain /dəˈmeɪn/
-n.领域，范围；领土，领地。
+domain / doʊˈmeɪn /
+n. 领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产
 [例]
 1.Physics is a domain of science. 物理学是科学的一个领域。
 2.This is the domain of the king. 这是国王的领地。
@@ -182,10 +199,15 @@ n.领域，范围；领土，领地。
 [搭]
 1.expert in the domain 领域专家
 2.domain knowledge 领域知识
-[联] do- (做) + main (主要的) ——> 主要从事的领域。
+3.domain name 网域名称
+4.time domain 时域，时间域
+5.frequency domain [化]频域；频率范围
+[联] do- (做) + main (主要的) ——> 主要从事的领域
 
-field /fiːld/
-n.田野，场地；领域，学科；战场。
+field / fiːld /
+n. 田地，田野；专业，领域；现场，实地；体育场；全体参赛者；矿场，油田；战场；视野；（物理）场；信息栏，字段；外场员，防守队；盾面，底
+v. 组建，派出；担任守方；接（球），守（球）；处理，应付（问题或电话）
+adj. 实地的，野外的；（军事装备）轻便机动的，战役用的；（比赛）田赛的
 [例]
 1.The boy played football in the field. 这个男孩在田野里踢足球。
 2.Artificial intelligence is a field of study. 人工智能是一门研究领域。
@@ -193,10 +215,10 @@ n.田野，场地；领域，学科；战场。
 [搭]
 1.field research 实地研究
 2.work in the field 在该领域工作
-[联] field (田地) ——> 农业领域的田野。
+[联] field (田地) ——> 农业领域的田野
 
-realm /relm/
-n.王国，领域；范围，方面。
+realm / relm /
+n.（知识、活动、思想的）领域，范围；<正式>王国；（动物学）界（对地球表面所作的最主要的生物地理划分）
 [例]
 1.The realm of dreams is fascinating. 梦境的领域很迷人。
 2.Science is a vast realm of knowledge. 科学是一个广大的知识领域。
@@ -204,8 +226,12 @@ n.王国，领域；范围，方面。
 [搭]
 1.expand one's realm 扩大某人的领域
 2.enter a new realm 进入一个新的领域
-[联] realm (王国) ——> 王国中的事物。foundation / fəʊnˈdeɪʃn /, / faʊnˈdeɪʃn /
-n.地基，基础；创立，创建；社会组织，机构。
+3.in the realm of 在……领域里
+4.Another Realm 世外桃源；仙境；另一世界；另一王国
+[联] realm (王国) ——> 王国中的事物
+
+foundation / faʊnˈdeɪʃ(ə)n /
+n. 地基，基础；基本原理，根据；基金会；建立，创办；（化妆打底用的）粉底霜
 [例]
 1.The foundation of the building is very solid. 这座建筑物的地基非常牢固。
 2.The research foundation provides funding for young scientists. 这个研究基金会为年轻科学家提供资金支持。
@@ -213,20 +239,23 @@ n.地基，基础；创立，创建；社会组织，机构。
 [搭]
 1.foundation stone 奠基石
 2.lay the foundation 打下基础
-[联] found(发现)+ation——>发现事物的本质并建立起来。
+3.theoretical foundation 理论基础
+4.solid foundation 基础雄厚；实体基础
+[联] found(发现) + ation ——> 发现事物的本质并建立起来。
 
-specialise / ˈspɛʃəlaɪz /
-v.专攻，专精（英式发音中s发/z/音，美式发音中s发/s/音）。
+specialise / ˈspeʃəlaɪz /
+vi. 专门研究（specialize 的英式拼写）
+vt. 使专门化；限定……的范围；深入（specialize 的英式拼写）
 [例]
 1.He specialises in computer science. 他专攻计算机科学。
 2.Doctors can specialise in different fields of medicine. 医生可以专攻医学的不同领域。
 3.She specialises in teaching English as a second language. 她专攻教授英语作为第二语言。
 [搭]
 1.specialise in 专攻，专精于
-[联] special(特别的)+ize(动词后缀)——>成为特别擅长某事的人。
+[联] special(特别的) + ize(动词后缀) ——> 成为特别擅长某事的人
 
-absorb / əbˈzɔːrb /, / əbˈsɔːrb /
-v.吸收；吸引，使全神贯注；使合并，吞并。
+absorb / əbˈzɔːrb /
+v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）
 [例]
 1.The sponge absorbs water quickly. 海绵能快速吸收水分。
 2.His whole attention was absorbed by the book. 他的全部注意力都被这本书吸引了。
@@ -234,10 +263,12 @@ v.吸收；吸引，使全神贯注；使合并，吞并。
 [搭]
 1.absorb into 吸收进入
 2.absorb sth from sth 从某物中吸收某物
-[联] ab-(加强意义)+sorb(吸，吸进)——>完全吸收。
+3.absorb in 集中精力做某事；全神贯注于
+[联] ab-(加强意义) + sorb(吸，吸进) ——> 完全吸收
 
-concentrate / ˈkɑːnsntreɪt /
-v.集中，专注；浓缩；n.浓缩物。
+concentrate / ˈkɑːns(ə)ntreɪt /
+v. 集中注意力，聚精会神；使集中，聚集；浓缩
+n. 浓缩物，浓缩液
 [例]
 1.You need to concentrate on your studies. 你需要专注于你的学习。
 2.The juice is too concentrated, so you need to dilute it. 果汁太浓了，所以你需要稀释一下。
@@ -245,10 +276,11 @@ v.集中，专注；浓缩；n.浓缩物。
 [搭]
 1.concentrate on 专注于
 2.concentrate together 集中在一起
-[联] con-(加强意义)+centr(中心)+ate——>集中到中心。
+[联] con-(加强意义) + centr(中心) + ate ——> 集中到中心
 
 focus / ˈfoʊkəs /
-n.焦点，中心；焦距；v.聚焦，集中。
+n. 重点，中心点；关注，注意；震源；目的，意图；焦距；病灶；调焦装置；目的明确，专注；（椭圆、抛物线等曲线的）焦点
+v. 集中，关注；聚焦，调焦；<语言学>以（句子的一部分）为焦点（或重心）
 [例]
 1.The focus of the meeting was on new technology. 会议的重点是新技术。
 2.He needs to focus more on his work. 他需要更加专注于自己的工作。
@@ -256,20 +288,20 @@ n.焦点，中心；焦距；v.聚焦，集中。
 [搭]
 1.focus on 关注，聚焦于
 2.focus group 焦点小组
-[联] fo-(强调)+cus(桶，容器)——>把注意力集中在一点上。
+[联] fo-(强调) + cus(桶，容器) ——> 把注意力集中在一点上
 
-utilise / jʊˈtaɪl.aɪz /
-v.利用，使用（英式发音中u发/ju:/，美式发音中u发/u:/）。
+utilise / ˈjuːtəlaɪz /
+v. 使用（等于 utilize）；利用，使用
 [例]
 1.We need to utilise all available resources. 我们需要利用所有可用资源。
 2.They utilised the old building for a new purpose. 他们把旧建筑用于新的用途。
 3.The company utilises the latest technology to improve efficiency. 公司利用最新技术提高效率。
 [搭]
 1.utilise sth for sth 将某物用于某事
-[联] utility(效用)+ise(动词后缀)——>使其具有实用价值。
+[联] utility(效用) + ise(动词后缀) ——> 使其具有实用价值。
 
-usage / ˈjus.ɪdʒ /
-n.使用，用法；惯用法。
+usage / ˈjuːsɪdʒ /
+n.（词语的）用法；使用，用量；（尤指形成权利，义务，标准等的）常规做法，惯例；<正式>虐待，不公待遇
 [例]
 1.What is the common usage of this word? 这个词的常用法是什么？
 2.The software provides detailed usage instructions. 软件提供了详细的使用说明。
@@ -277,10 +309,10 @@ n.使用，用法；惯用法。
 [搭]
 1.usage example 使用示例
 2.usage guide 使用指南
-[联] use(使用)+age(名词后缀)——>使用的状态或方式。
+[联] use(使用) + age(名词后缀) ——> 使用的状态或方式
 
-tester / ˈtɛstər /
-n.测试器，检验器。
+tester / ˈtestər /
+n. 天盖；检验器；试验员
 [例]
 1.A pressure tester is used to check the strength of a container. 压力测试仪用来检查容器的强度。
 2.The electrician used a voltage tester to check the wires. 电工用电压测试仪检查电线。
@@ -290,7 +322,7 @@ n.测试器，检验器。
 2.soil tester 土壤测试仪
 
 apply / əˈplaɪ /
-v.申请，请求；应用，适用；涂抹。
+v. 申请；涂，敷；施加，实施；应用，运用；踩（刹车）；适用，适合；指称
 [例]
 1.He applied for a job at the company. 他在这家公司申请了一份工作。
 2.This theory applies to many situations. 这一理论适用于许多情况。
@@ -298,10 +330,10 @@ v.申请，请求；应用，适用；涂抹。
 [搭]
 1.apply for 申请
 2.apply to 适用于
-[联] ap-(加强意义)+ply(折叠)——>将某物紧密贴合到另一物上。
+[联] ap-(加强意义) + ply(折叠) ——> 将某物紧密贴合到另一物上
 
-appliance / əˈpliəns /
-n.器具，装置；家用设备。
+appliance / əˈplaɪəns /
+n. 家用电器，装置；<英>应用；消防车
 [例]
 1.The kitchen is equipped with modern appliances. 厨房配备了现代化的电器。
 2.The washing machine is one of the most useful home appliances. 洗衣机是最有用的家用电器之一。
@@ -309,19 +341,21 @@ n.器具，装置；家用设备。
 [搭]
 1.large appliance 大型家电
 2.small appliance 小型家电
-[联] apply(应用)+ance(名词后缀)——>用来实现某种功能的工具。device /dɪˈvaɪs/, /dɪˈvaɪz/
-n. 装置，设备；手段，方法。
+[联] apply(应用) + ance(名词后缀) ——> 用来实现某种功能的工具
+
+device / dɪˈvaɪs /
+n. 装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表
 [例]
-1. This device is used to measure temperature. 这个装置用于测量温度。
-2. He came up with a clever device to solve the problem. 他想出了一个聪明的方法来解决问题。
-3. The device is easy to use and efficient. 这个设备易于使用且高效。
+1.This device is used to measure temperature. 这个装置用于测量温度。
+2.He came up with a clever device to solve the problem. 他想出了一个聪明的方法来解决问题。
+3.The device is easy to use and efficient. 这个设备易于使用且高效。
 [搭] 
 1.device control 设备控制
 2.intelligent device 智能设备
-[联] de- (表示“分解”) + vice (与“vice”相关)——> 把事物分成部件。
+[联] de- (表示“分解”) + vice (与“vice”相关) ——> 把事物分成部件
 
-facility /fəˈsɪləti/
-n. 设施，设备；便利条件，方便。
+facility / fəˈsɪləti /
+n. 设施，设备；卫生间；天赋，才能；（机器等的）特别装置，（服务等的）特色；（用作某种用途的）场所
 [例]
 1.The school has excellent sports facilities. 这所学校有优秀的体育设施。
 2.The new conference facility will be completed next month. 新的会议设施将在下个月完工。
@@ -329,10 +363,10 @@ n. 设施，设备；便利条件，方便。
 [搭] 
 1.facility management 设施管理
 2.public facilities 公共设施
-[联] facil (容易) + ity (名词后缀)——> 容易使用的。
+[联] facil (容易) + ity (名词后缀) ——> 容易使用的
 
-equipment /ɪˈkwɪpmənt/
-n. 装备，设备；(一整套)工具，仪器。
+equipment / ɪˈkwɪpmənt /
+n. 设备，用具；（对某人或某物的）装备过程；（做某事应具备的）素质，才能
 [例]
 1.All the equipment was brought in by helicopter. 所有的装备都是由直升机运来的。
 2.The laboratory is well-equipped with modern equipment. 实验室配备了现代化的设备。
@@ -340,10 +374,12 @@ n. 装备，设备；(一整套)工具，仪器。
 [搭] 
 1.equipment check 设备检查
 2.field equipment 野外设备
-[联] equi (相等) + pment——> 等量的工具。
+3.medical equipment 医疗器械；医疗仪器
+[联] equi (相等) + pment ——> 等量的工具
 
-instrument /ˈɪnstrəmənt/
-n. 仪器，工具；乐器；器械。
+instrument / ˈɪnstrəmənt /
+n. 器械；乐器；仪器；促成某事的人（或事物），手段；受利用（或控制）的人，工具；文据，正式法律文件
+v. 给……装备测量仪器
 [例]
 1.The doctor uses special instruments for the operation. 医生使用特殊的器械进行手术。
 2.The violin is a stringed musical instrument. 小提琴是一种弦乐器。
@@ -351,10 +387,11 @@ n. 仪器，工具；乐器；器械。
 [搭] 
 1.instrument panel 仪表盘
 2.medical instrument 医疗器械
-[联] instru (内部) + ment——> 内部工具。
+[联] instru (内部) + ment ——> 内部工具
 
-tool /tuːl/
-n. 工具；器具；手段。
+tool / tuːl /
+n.（尤指手用）工具；（完成工作或达到目标的）工具，手段；受人利用的人，工具；<忌，俚>阴茎；（计算机）工具；（书籍装订时的）压印图案
+v. 驱车兜风，驾车到处跑；（用工具）制作，在（皮革，尤指书籍的皮革封面）上压印图案；（为生产而）配置设备；凿刻（石头）
 [例]
 1.The mechanic used various tools to fix the car. 机械师用各种工具修理汽车。
 2.Language is a tool for communication. 语言是交流的工具。
@@ -362,10 +399,14 @@ n. 工具；器具；手段。
 [搭] 
 1.tool box 工具箱
 2.digital tool 数字工具
-[联] 工匠用来工作的器具。
+3.machine tool 机床
+4.cutting tool 切削刀具；割削工具
+5.tool path 刀具轨迹；刀位轨迹
+[联] 工匠用来工作的器具
 
-gauge /geɪdʒ/
-n. 量规，量表；标准；测度。
+gauge / ɡeɪdʒ /
+n. 测量仪器；宽度，厚度；（测量或判断的）尺度，标准；（铁道的）轨距；（枪管的）口径；（汽车）胎压计
+v. 估计，判断；测量
 [例]
 1.The gauge showed that the water level was rising. 量规显示水位正在上升。
 2.The teacher used a gauge to measure students' progress. 老师用一个量规来衡量学生的进步。
@@ -373,11 +414,11 @@ n. 量规，量表；标准；测度。
 [搭] 
 1.gauge pressure 压力表
 2.gauge the distance 测量距离
-[联] gaug(e) (测量)——> 用于测量。
+[联] gaug(e) (测量) ——> 用于测量
 
-measure /ˈmeʒər/
-n. 措施，方法；尺寸，量度。
-v. 测量，衡量；权衡。
+measure / ˈmeʒər /
+n. 措施，办法；适量，适度；判断，衡量；度量单位，计量标准；（酒的）标准量；<美>小节，拍子；象征，迹象；议案，法案；格律单位
+v. 测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等）；走过；显示，记录；用作……的量器
 [例]
 1.The government took measures to reduce pollution. 政府采取措施减少污染。
 2.What is the measure of success? 成功的标准是什么？
@@ -385,10 +426,10 @@ v. 测量，衡量；权衡。
 [搭] 
 1.take measures 采取措施
 2.standard measure 标准量度
-[联] mea (大) + sure——> 测量大的东西。
+[联] mea (大) + sure ——> 测量大的东西
 
-calculate /ˈkælkjuleɪt/
-v. 计算，核算；预测，估计。
+calculate / ˈkælkjuleɪt /
+v. 计算，核算；预测，推测
 [例]
 1.Can you calculate how long it will take? 你能计算一下这需要多长时间吗？
 2.The computer can calculate complex equations quickly. 计算机可以快速计算复杂的方程式。
@@ -396,10 +437,13 @@ v. 计算，核算；预测，估计。
 [搭] 
 1.calculate risk 计算风险
 2.calculate odds 计算几率
+3.calculate on 指望；期待
+4.be calculated for 适合于……；为适合…而设计的
 [联] cal (重音) + culate——> 重音在前的计算。
 
-compute /kəmˈpjuːt/
-v. 计算，估算；推断。
+compute / kəmˈpjuːt /
+v. 估算，计算；<美，非正式>不合情理，讲不通；用计算机计算
+n. 计算，估计
 [例]
 1.The computer can compute large amounts of data. 计算机能处理大量数据。
 2.The program computes the results automatically. 程序自动计算结果。
@@ -407,11 +451,12 @@ v. 计算，估算；推断。
 [搭] 
 1.compute data 计算数据
 2.compute the difference 计算差异
-[联] com (一起) + pute——> 一起处理。
+3.beyond compute 不可计量，无法计算；难以估计
+[联] com (一起) + pute ——> 一起处理
 
-count /kaʊnt/
-v. 数，计数；认为，看作。
-n. 数字，数量；计数。
+count / kaʊnt /
+v.（按顺序）数数；计数，点数目；把……算入，包括；重要；被允许，被接受；看作，认为
+n. 计算，总数；数数；量的计数；（被指控的）罪状，事项；论点，观点；伯爵；（纱线的）支数
 [例]
 1.Let's count the money. 让我们数钱吧。
 2.He counts himself as a friend. 他认为自己是朋友。
@@ -419,82 +464,109 @@ n. 数字，数量；计数。
 [搭] 
 1.count down 倒数
 2.count on 依赖，指望
-[联] 数数，计算。estimate /ˈɛstɪmeɪt/, /ˈɛstɪmət/
-v. 估计，估算；评估，评价
-n. 估计，估算；评价
-[例]
-1. I estimate that it will take about three hours to finish this task. 我估计完成这项任务大约需要三个小时。
-2. The engineer made an estimate of the cost of building the bridge. 工程师对建桥成本进行了估算。
-3. His estimate of the situation was overly optimistic. 他对形势的评估过于乐观。
-[搭] make an estimate 做出估算；rough estimate 粗略估计。
-[联] est- (表示"估量") + -imate (源自“imate”，意为“数量”或“度量”)。
+[联] 数数，计算
 
-assess /əˈsɛs/
-v. 评估，评定；确定（税额等）
+estimate / ˈestɪmət; ˈestɪmeɪt /
+v. 估计；判断，评价
+n. 估计，估价；估价单；看法，判断
 [例]
-1. The teacher assessed the students' performance in the exam. 老师评估了学生在考试中的表现。
-2. The tax assessor came to our house to assess the property value. 税务评估员来我们家评估房产价值。
-3. The company needs to assess its current market position. 公司需要评估其当前市场地位。
-[搭] assess damages 评估损失；assess responsibility 评估责任。
-[联] as- (表示“向，朝向”) + sess- (源于拉丁语“sedere”，意为“坐，坐下”)——> 评估人员坐在被评估物前。
+1.I estimate that it will take about three hours to finish this task. 我估计完成这项任务大约需要三个小时。
+2.The engineer made an estimate of the cost of building the bridge. 工程师对建桥成本进行了估算。
+3.His estimate of the situation was overly optimistic. 他对形势的评估过于乐观。
+[搭]
+1.make an estimate 做出估算
+2.rough estimate 粗略的估计，粗算
+3.estimate for 对…估价、估计
+4.cost estimate 成本估算，成本估计
+[联] est- (表示"估量") + -imate (源自“imate”，意为“数量”或“度量”)
 
-evaluate /ɪˈvæljueɪt/
-v. 评估，评价；估算，计算
+assess / əˈses /
+v. 评价，评定；估价，估计；征税，处以罚金
 [例]
-1. We need to evaluate the effectiveness of this new teaching method. 我们需要评估这种新教学方法的效果。
-2. The committee will evaluate your proposal before making a decision. 委员会将在做出决定之前评估你的提议。
-3. The psychologist evaluated the patient's mental health. 心理学家评估了患者的心理健康状况。
-[搭] evaluate the results 评估结果；evaluate the importance 评估重要性。
-[联] e- (表示“向外”) + val- (源于拉丁语“valere”，意为“强壮，有价值”) + -uate (表示动作)。
+1.The teacher assessed the students' performance in the exam. 老师评估了学生在考试中的表现。
+2.The tax assessor came to our house to assess the property value. 税务评估员来我们家评估房产价值。
+3.The company needs to assess its current market position. 公司需要评估其当前市场地位。
+[搭]
+1.assess damages 评估损失
+2.assess responsibility 评估责任
+3.cost assess 成本考核
+4.Assess Risks 资产风险；评估风险；风险评估
+5.Teaching assess 教学评估；教学评价
+[联] as- (表示“向，朝向”) + sess- (源于拉丁语“sedere”，意为“坐，坐下”) ——> 评估人员坐在被评估物前
 
-accessory /əkˈsɛsəri/
-n. 配件，附件；副手，助手
-adj. 配套的，辅助的
+evaluate / ɪˈvæljueɪt /
+v. 评价，评估，估值；求（方程式，公式，函数）的数值
 [例]
-1. This car has all the latest accessories. 这辆车配备了所有最新的配件。
-2. She wore a beautiful accessory with her dress. 她穿着裙子配了一个漂亮的配饰。
-3. He is just an accessory to the crime. 他只是这起犯罪的从犯。
-[搭] accessory for sth. 某物的配件；accessory after the fact 同谋（事后）。
-[联] ac- (表示“附着”) + cess- (源于拉丁语“cedere”，意为“去，走”) + -ory (表示“相关的”)。
+1.We need to evaluate the effectiveness of this new teaching method. 我们需要评估这种新教学方法的效果。
+2.The committee will evaluate your proposal before making a decision. 委员会将在做出决定之前评估你的提议。
+3.The psychologist evaluated the patient's mental health. 心理学家评估了患者的心理健康状况。
+[搭]
+1.evaluate the results 评估结果
+2.evaluate the importance 评估重要性
+[联] e- (表示“向外”) + val- (源于拉丁语“valere”，意为“强壮，有价值”) + -uate (表示动作)
 
-byproduct /ˈbaɪˌprɑːdʌkt/
+accessory / əkˈsesəri /
+n. 附件，配件；装饰品，配饰；同谋，从犯
+adj. 辅助的，副的；附属的；同谋的
+[例]
+1.This car has all the latest accessories. 这辆车配备了所有最新的配件。
+2.She wore a beautiful accessory with her dress. 她穿着裙子配了一个漂亮的配饰。
+3.He is just an accessory to the crime. 他只是这起犯罪的从犯。
+[搭]
+1.accessory for sth. 某物的配件
+2.accessory after the fact 同谋（事后）
+[联] ac- (表示“附着”) + cess- (源于拉丁语“cedere”，意为“去，走”) + -ory (表示“相关的”)
+
+byproduct / ˈbaɪˌprɑːdʌkt /
 n. 副产品，副业
 [例]
-1. Pollution is an unwanted byproduct of industrialization. 污染是工业化带来的不希望的副产品。
-2. The chemical industry produces many useful byproducts. 化学工业生产许多有用的副产品。
-3. The byproduct of electricity generation is heat. 发电的副产品是热。
-[搭] byproduct of... ...的副产品。
-[联] by- (表示“伴随”) + product (产品)。
+1.Pollution is an unwanted byproduct of industrialization. 污染是工业化带来的不希望的副产品。
+2.The chemical industry produces many useful byproducts. 化学工业生产许多有用的副产品。
+3.The byproduct of electricity generation is heat. 发电的副产品是热。
+[搭]
+1.byproduct of... ...的副产品
+2.Agricultural Byproduct 农副产品；农副产品类
+3.byproduct compounds 副产品衍生化合物
+[联] by- (表示“伴随”) + product (产品)
 
-auxiliary /ɔːɡˈzɪliəri/
-adj. 辅助的，备用的
-n. 辅助设备，辅助人员
+auxiliary / ɔːɡˈzɪliəri /
+adj. 辅助的；备用的，后备的
+n. 助手，辅助人员；外国援军士兵，雇佣兵；附属机构；志愿队；辅助舰船；助动词
 [例]
-1. The auxiliary power supply will turn on automatically if the main one fails. 如果主电源失效，辅助电源会自动开启。
-2. The auxiliary battery helps extend the lifespan of the main battery. 辅助电池有助于延长主电池的寿命。
-3. The auxiliary troops provided support during the battle. 辅助部队在战斗中提供了支持。
-[搭] auxiliary equipment 辅助设备；auxiliary personnel 辅助人员。
-[联] aux- (表示“帮助”) + il- (表示“力量”) + -ary (表示“与...有关的”)。
+1.The auxiliary power supply will turn on automatically if the main one fails. 如果主电源失效，辅助电源会自动开启。
+2.The auxiliary battery helps extend the lifespan of the main battery. 辅助电池有助于延长主电池的寿命。
+3.The auxiliary troops provided support during the battle. 辅助部队在战斗中提供了支持。
+[搭]
+1.auxiliary equipment 辅助设备
+2.auxiliary personnel 辅助人员
+[联] aux- (表示“帮助”) + il- (表示“力量”) + -ary (表示“与...有关的”)
 
-versatile /ˈvɜːrsətaɪl/
-adj. 多才多艺的；多功能的
+versatile / ˈvɜːrsət(ə)l /
+adj. 多才多艺的，有多种技能的；多用途的，多功能的
 [例]
-1. She is a versatile artist who can paint, sculpt, and write poetry. 她是一位多才多艺的艺术家，既能绘画、雕塑，又能写诗。
-2. This tool is very versatile and can be used for multiple purposes. 这个工具非常多功能，可以用于多种用途。
-3. A versatile person can adapt to different environments easily. 一个多才多艺的人能轻松适应不同的环境。
-[搭] versatile performer 多才多艺的表演者；versatile machine 多功能机器。
-[联] ver- (表示“转”) + sile- (表示“能力”) + -te (表示形容词)。
+1.She is a versatile artist who can paint, sculpt, and write poetry. 她是一位多才多艺的艺术家，既能绘画、雕塑，又能写诗。
+2.This tool is very versatile and can be used for multiple purposes. 这个工具非常多功能，可以用于多种用途。
+3.A versatile person can adapt to different environments easily. 一个多才多艺的人能轻松适应不同的环境。
+[搭]
+1.versatile performer 多才多艺的表演者
+2.versatile machine 多功能机器
+2.versatile person 通才
+[联] ver- (表示“转”) + sile- (表示“能力”) + -te (表示形容词)
 
-add /æd/
-v. 添加，增加；补充说
+add / æd /
+v. 添加，掺入；（使）相加，加；增加；增添（某种特性）；把……计算在内，包括；补充说，继续说
+abbr. 注意力缺陷障碍，多动症（ADD）
 [例]
-1. Please add sugar to my coffee. 请往我的咖啡里加点糖。
-2. We need to add more water to the mixture. 我们需要往混合物里再加些水。
-3. He added that he would arrive late. 他补充说他会迟到。
-[搭] add up 加起来；add to 增添；add...to... 把...加到...上。
-[联] ad- (表示“向，朝向”) + d- (表示“给予”)。
+1.Please add sugar to my coffee. 请往我的咖啡里加点糖。
+2.We need to add more water to the mixture. 我们需要往混合物里再加些水。
+3.He added that he would arrive late. 他补充说他会迟到。
+[搭]
+1.add up 加起来
+2.add to 增添
+3.add...to... 把...加到...上
+[联] ad- (表示“向，朝向”) + d- (表示“给予”)
 
-accumulate /əˈkjumjuleɪt/
+accumulate / əˈkjumjuleɪt /
 v. 积累，积聚
 [例]
 1. Wealth should not be accumulated for its own sake. 财富不应仅仅为了积累而积累。
@@ -808,15 +880,17 @@ science fiction / ˈsaɪəns ˈfɪkʃn /
 [例]
 1.Science fiction movies often explore futuristic ideas. 科幻电影经常探讨未来的想法。
 2.His favorite genre is science fiction. 他最喜欢的是科幻小说。
-3.Science fiction writers imagine what the future might be like. 科幻作家想象未来可能是什么样子。pump /pʌmp/, /pʊmp/
+3.Science fiction writers imagine what the future might be like. 科幻作家想象未来可能是什么样子。
+
+pump /pʌmp/, /pʊmp/
 n. 泵；抽水机
-    [例]
-    1.The water pump is broken, so we can't get water from the well. 水泵坏了，所以我们无法从井里取水。
-    2.The firemen used a hydraulic pump to extinguish the fire. 消防员使用液压泵来灭火。
-    3.The oil pump in my car needs to be replaced. 我车里的油泵需要更换。
-    [搭]
-    hand pump 手动泵；water pump 水泵。
-    [联] pump 可以联想为“泵”送液体或气体。
+[例]
+1.The water pump is broken, so we can't get water from the well. 水泵坏了，所以我们无法从井里取水。
+2.The firemen used a hydraulic pump to extinguish the fire. 消防员使用液压泵来灭火。
+3.The oil pump in my car needs to be replaced. 我车里的油泵需要更换。
+[搭]
+hand pump 手动泵；water pump 水泵。
+[联] pump 可以联想为“泵”送液体或气体。
     
 generator /ˈdʒenəreɪtər/
 n. 发电机；发生器

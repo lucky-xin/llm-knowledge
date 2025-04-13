@@ -966,7 +966,7 @@ v. 绝望，丧失信心
 1.in despair 绝望；失望；在绝望中；绝望之中
 [联] de-(否定) + spar(希望) ——> 绝望。
 
-desperate /ˈdespərət/
+desperate / ˈdespərət /
 adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；绝望的，无望的；绝望的，无望的
 [例]
 1.He made a desperate attempt to escape. 他拼命地试图逃脱。
@@ -978,7 +978,7 @@ adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极
 3.Desperate Measures 亡命之计；绝点对抗；天雷地火；孤注一掷
 [联] des-(否定) + sper(希望) + -ate(形容词后缀) ——> 绝望的
 
-hopeless /ˈhoʊpləs/
+hopeless / ˈhoʊpləs /
 adj. 无望的；绝望的；无可救药的
 [例]
 1.The situation seemed hopeless. 形势似乎毫无希望。
