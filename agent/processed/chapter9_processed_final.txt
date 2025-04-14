@@ -1,6 +1,6 @@
-medium /ˈmiːdiəm/, /ˈmidɪəm/
-n.媒介，媒体；手段，方法；（绘画用的）媒剂，颜料结合剂  
-adj.中等的；中间的  
+medium / ˈmiːdiəm /
+n. 媒介，媒体；方法，手段；（艺术创作）材料，素材；灵媒，巫师；培养基；环境；中等，中号；存储（或打印）介质；（颜料）溶剂（如油或水）
+adj. 中等的，中间的，适中的；五分熟的，半熟的；（程度、强度或数量）平均的；（颜色）不深不浅的，适中的；（投球，投球手）中速的
 [例]  
 1.The internet is now the most influential medium in our daily life. 网络已经成为我们日常生活中最具影响力的媒体。  
 2.Medium heat is recommended for cooking this dish. 这道菜建议用中火烹饪。  
@@ -10,20 +10,22 @@ adj.中等的；中间的
 2.new medium 新媒体  
 [联] medium = medi-（中间的）+ -um（名词后缀）——> 中间的东西，媒介  
 
-press /pres/
-v.按，压；催促，逼迫；迫使；印刷；出版  
-n.新闻界；印刷机；压力；压榨  
+press / pres /
+n. 新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤
+v. 压，挤，推，贴；按，揿；困扰，严重影响；挤着走；敦促，逼迫；坚持，竭力要求；压平，熨平；压榨，榨汁；CD 制作，压制（唱片）
 [例]  
 1.She pressed her face against the window. 她把脸贴在窗户上。  
 2.The government is under pressure from the press. 政府受到新闻界的施压。  
 3.The newspaper presses were busy printing the latest edition. 报纸印刷厂正忙着印制最新一期报纸。  
 [搭]  
 1.press conference 记者招待会  
-2.under pressure 在压力下  
+2.under pressure 在压力下
+3.in the press 正在印刷；即将出版
+4.press the button 按钮；按键
 [联] press = pre-（前）+ -ss（动作）——> 压迫，按压  
 
-journalist /ˌdʒɜːrnəˈlɪst/
-n.新闻记者，记者  
+journalist / ˈdʒɜːrnəlɪst /
+n. 新闻工作者，新闻记者；报人，报纸撰稿人
 [例]  
 1.The journalist interviewed several eyewitnesses. 记者采访了几位目击者。  
 2.A good journalist must be curious and persistent. 一个好的记者必须好奇且坚持不懈。  
@@ -33,8 +35,8 @@ n.新闻记者，记者
 2.field journalist 现场记者  
 [联] jour-(=day) + nal + -ist——> 每天记录的人，记者  
 
-critic /ˈkrɪtɪk/
-n.批评家，评论家；爱挑剔的人  
+critic / ˈkrɪtɪk /
+n. 批评家，评论员；批评者，反对……的人
 [例]  
 1.The book received mixed reviews from critics. 这本书受到了评论家们的褒贬不一的评价。  
 2.I am not a critic of modern art. 我不是现代艺术的批评者。  
@@ -42,10 +44,10 @@ n.批评家，评论家；爱挑剔的人
 [搭]  
 1.critic review 评论文章  
 2.critic proof 不可挑剔的，无懈可击的  
-[联] critic = crit-（判断）+ -ic——> 做判断的人，评论家  
+[联] critic = crit-（判断）+ -ic ——> 做判断的人，评论家
 
-commentator /ˈkɑːmənˌeɪtər/
-n.评论员，解说员；评注者  
+commentator / ˈkɑːmənteɪtər /
+n. 现场解说员，实况播音员；评论员
 [例]  
 1.The sports commentator described the game in detail. 运动评论员详细描述了比赛。  
 2.The political commentator offered his analysis on the election results. 政治评论员分析了选举结果。  
@@ -53,10 +55,11 @@ n.评论员，解说员；评注者
 [搭]  
 1.television commentator 电视评论员  
 2.radio commentator 广播评论员  
-[联] comment + -ator——> 做评论的人  
+[联] comment + -ator ——> 做评论的人
 
-exponent /ɪkˈspoʊnənt/
-n.拥护者，倡导者；说明者；指数  
+exponent / ɪkˈspoʊnənt /
+n. 拥护者，倡导者；代表人物；指数，幂；大师，行家；成分；说明者，说明物
+adj. 说明的
 [例]  
 1.He is an exponent of modern architecture. 他是现代建筑的拥护者。  
 2.The exponent of the theory explained it clearly. 这一理论的说明者清楚地解释了它。  
@@ -64,10 +67,10 @@ n.拥护者，倡导者；说明者；指数
 [搭]  
 1.key exponent 关键人物  
 2.leading exponent 领军人物  
-[联] ex- (向外) + pon- (放) + -ent——> 外放观点的人  
+[联] ex- (向外) + pon- (放) + -ent ——> 外放观点的人
 
-announcer /əˈnaʊnsər/
-n.广播员，播音员；宣告者  
+announcer / əˈnaʊnsər /
+n. [广播] 广播员；宣告者
 [例]  
 1.The announcer read out the winners' names. 播音员宣读了获奖者的名字。  
 2.The radio announcer interrupted the program with important news. 广播员用重要新闻打断了节目。  
@@ -75,10 +78,10 @@ n.广播员，播音员；宣告者
 [搭]  
 1.news announcer 新闻播音员  
 2.sports announcer 体育播音员  
-[联] announce + -er——> 宣布事情的人  
+[联] announce + -er ——> 宣布事情的人
 
-correspondent /ˌkɔːrəˈspɑːndənt/
-n.记者，通讯员；通信者  
+correspondent / ˌkɔːrəˈspɑːndənt /
+n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
 [例]  
 1.The foreign correspondent sent a report from the war zone. 外国记者从战区发回了一份报告。  
 2.The editor asked the correspondent to write an article. 编辑要求记者写一篇文章。  
@@ -86,10 +89,11 @@ n.记者，通讯员；通信者
 [搭]  
 1.correspondent office 记者站  
 2.war correspondent 战地记者  
-[联] correspond + -ent——> 通信的人  
+[联] correspond + -ent ——> 通信的人
 
-messenger /ˈmesɪndʒər/
-n.使者，信使；送信人  
+messenger / ˈmesɪndʒər /
+n. 送信人，邮递员，报信者；（体内传递信息和刺激的）信使；<古>先驱
+v. <美>（用信使）送（文件，包裹）
 [例]  
 1.The messenger delivered the package on time. 信使按时送来了包裹。  
 2.The messenger brought an urgent message from the boss. 信使带来了老板的一封紧急信件。  
@@ -97,10 +101,10 @@ n.使者，信使；送信人
 [搭]  
 1.messenger boy 小信使  
 2.messenger service 信使服务  
-[联] mess- (消息) + -enger——> 传递消息的人  
+[联] mess- (消息) + -enger ——> 传递消息的人
 
-editor /ˈɛdɪtər/
-n.编辑；编者；校订者  
+editor / ˈedɪtər /
+n. 编辑；记者；剪辑师；编辑程序
 [例]  
 1.The editor revised the article carefully. 编辑仔细修改了这篇文章。  
 2.The editor-in-chief approved the final version. 主编批准了最终版本。  
@@ -108,121 +112,139 @@ n.编辑；编者；校订者
 [搭]  
 1.news editor 新闻编辑  
 2.copy editor 校对编辑  
-[联] edit + -or——> 修改文字的人
+[联] edit + -or ——> 修改文字的人
 
 typist / ˈtaɪpɪst /
-n.
-[释义1] 打字员（名词）
-    [例]
-    1. She works as a typist in a law firm. 她在一家律师事务所当打字员。
-    2. The typist made several errors in the report. 打字员在报告中犯了好几个错误。
-    3. A skilled typist can type 80 words per minute. 一名熟练的打字员每分钟可以打80个字。
-    [搭] 
-    typist pool 打字员小组
-    [联] type (打字) + ist (表示人) ——> 打字的人。
-
-[释义2] 打字机（名词）
-    [例]
-    1. The typist is easy to use. 这台打字机很容易使用。
-    2. This typist has a lot of functions. 这台打字机有很多功能。
-    3. The typist needs new ribbons. 这台打字机需要新的色带。
-    [联] type (打字) + ist (工具) ——> 用于打字的机器。
+n. 打字员；打字者
+[例]
+1.She works as a typist in a law firm. 她在一家律师事务所当打字员。
+2.The typist made several errors in the report. 打字员在报告中犯了好几个错误。
+3.A skilled typist can type 80 words per minute. 一名熟练的打字员每分钟可以打80个字。
+[搭]
+1.typist pool 打字员小组
+[联] type (打字) + ist (表示人) ——> 打字的人
 
 handout / ˈhændaʊt /
-n.
-[释义] 分发的东西，讲义（名词）
+n.（尤指发给学生或听报告的人的）讲义；施舍物，救济品；传单，宣传材料；政府拨款（为促进商业活动）；不劳而获的钱
 [例]
-1. The teacher handed out the handouts before class. 老师在课前分发了讲义。
-2. Students can download the handouts from the website. 学生可以从网站下载讲义。
-3. There will be no handouts during the meeting. 会议期间不会有讲义分发。
-[联] hand (手) + out (出去) ——> 用手递出去的东西。
+1.The teacher handed out the handouts before class. 老师在课前分发了讲义。
+2.Students can download the handouts from the website. 学生可以从网站下载讲义。
+3.There will be no handouts during the meeting. 会议期间不会有讲义分发。
+[搭]
+1.As a handout 五斗米折腰
+2.Handout report 张贴报告和分发式报告
+[联] hand (手) + out (出去) ——> 用手递出去的东西
 
 leaflet / ˈliːflɪt /
-n.
-[释义] 小册子，传单（名词）
+n. 传单，小册子；小叶，初生叶（统称）
+v. 散发传单（或小册子）
 [例]
-1. The company distributed leaflets to promote its products. 公司分发小册子来推广产品。
-2. She picked up a leaflet from the table. 她从桌子上拿起一张传单。
-3. The environmental group handed out leaflets in the park. 环保组织在公园里分发传单。
-[联] leaf (叶子) + let (小的) ——> 像叶子一样轻薄的小册子。
+1.The company distributed leaflets to promote its products. 公司分发小册子来推广产品。
+2.She picked up a leaflet from the table. 她从桌子上拿起一张传单。
+3.The environmental group handed out leaflets in the park. 环保组织在公园里分发传单。
+[搭]
+1.Leaflet Design 宣传页折页设计；宣传单张设计
+2.This leaflet tells you 怎样在旅行期间防止生病
+3.introductory leaflet 介绍单张
+[联] leaf (叶子) + let (小的) ——> 像叶子一样轻薄的小册子
 
-propaganda / ˌprɑːpəˈgændə /
-n.
-[释义] 宣传（名词）
+propaganda / ˌprɑːpəˈɡændə /
+n. 宣传，鼓吹；（罗马天主教的）传信部（Propaganda）
 [例]
-1. The government launched a propaganda campaign. 政府发起了一场宣传运动。
-2. They used propaganda to influence public opinion. 他们利用宣传影响公众舆论。
-3. The book discusses the history of propaganda. 这本书讨论了宣传的历史。
-[联] pro (向前) + pag (传播) + anda (名词后缀) ——> 向前传播的思想或信息。
+1.The government launched a propaganda campaign. 政府发起了一场宣传运动。
+2.They used propaganda to influence public opinion. 他们利用宣传影响公众舆论。
+3.The book discusses the history of propaganda. 这本书讨论了宣传的历史。
+[搭]
+1.propaganda department 宣传部
+2.Black propaganda 黑色宣传；暗宣传
+3.White propaganda 白色宣传
+[联] pro (向前) + pag (传播) + anda (名词后缀) ——> 向前传播的思想或信息
 
 publish / ˈpʌblɪʃ /
-v.
-[释义] 出版，发表（动词）
+v. 出版，发行（书、杂志等）；（作家、 音乐家等）发表（自己的作品），使（作品）出版；（在互联网上）发表；（在报纸或杂志上）刊登，登载
 [例]
-1. The author plans to publish his novel next year. 作者计划明年出版他的小说。
-2. The newspaper publishes articles every day. 报纸每天发表文章。
-3. The publisher will publish the book in hardcover. 出版社将以精装本形式出版这本书。
-[搭] publish a book 出版一本书
-[联] pub (公共) + lish (完成) ——> 在公共领域完成的作品。
+1.The author plans to publish his novel next year. 作者计划明年出版他的小说。
+2.The newspaper publishes articles every day. 报纸每天发表文章。
+3.The publisher will publish the book in hardcover. 出版社将以精装本形式出版这本书。
+[搭]
+1.publish a book 出版一本书
+2.Publish-Subscribe 发布；订阅；发布订阅；模式
+3.Publish Settings 发布设置；出版设置；输出选项；发布设定
+[联] pub (公共) + lish (完成) ——> 在公共领域完成的作品
 
 publication / ˌpʌblɪˈkeɪʃn /
-n.
-[释义] 出版物，出版（名词）
+n. 出版，发行；出版物，发行物；（信息的） 刊登，公布
 [例]
-1. The publication of the book was delayed. 这本书的出版被推迟了。
-2. The magazine features several interesting publications. 杂志上刊登了几篇有趣的出版物。
-3. The publication date is set for next month. 出版日期定在下个月。
-[联] pub (公共) + lish (完成) + ation (名词后缀) ——> 在公共领域完成的作品。
+1.The publication of the book was delayed. 这本书的出版被推迟了。
+2.The magazine features several interesting publications. 杂志上刊登了几篇有趣的出版物。
+3.The publication date is set for next month. 出版日期定在下个月。
+[搭]
+1.date of publication 公布日期；出版日期
+2.publication date 出版日期
+3.publication time 发表时间
+[联] pub (公共) + lish (完成) + ation (名词后缀) ——> 在公共领域完成的作品
 
 disseminate / dɪˈsemɪneɪt /
-v.
-[释义] 传播，散布（动词）
+v. <正式>散布，传播（信息、知识等）
 [例]
-1. The organization disseminates information through social media. 该组织通过社交媒体传播信息。
-2. Scientists disseminate knowledge to the public. 科学家向公众传播知识。
-3. The news agency disseminates news worldwide. 新闻机构向全世界传播新闻。
-[联] dis (分开) + sem (种子) + inate (使...) ——> 使种子分散开来。
+1.The organization disseminates information through social media. 该组织通过社交媒体传播信息。
+2.Scientists disseminate knowledge to the public. 科学家向公众传播知识。
+3.The news agency disseminates news worldwide. 新闻机构向全世界传播新闻。
+[搭]
+1.disseminate information 传播信息；散布
+2.Disseminate the Dharma 传法
+3.disseminate the law 普法
+[联] dis (分开) + sem (种子) + inate (使...) ——> 使种子分散开来
 
 foresee / fɔːrˈsiː /
-v.
-[释义] 预见，预知（动词）
+v. 预见，预知
 [例]
-1. Experts foresee a shortage of water resources. 专家预见水资源短缺。
-2. He failed to foresee the consequences. 他未能预见后果。
-3. We must foresee potential problems. 我们必须预见潜在的问题。
-[联] fore (预先) + see (看见) ——> 提前看到未来的事情。
+1.Experts foresee a shortage of water resources. 专家预见水资源短缺。
+2.He failed to foresee the consequences. 他未能预见后果。
+3.We must foresee potential problems. 我们必须预见潜在的问题。
+[搭]
+1.foresee fashion 流行之约
+2.Foresee Portal 方欣信息门户平台
+3.foresee e 预见；预知
+[联] fore (预先) + see (看见) ——> 提前看到未来的事情
 
 anticipate / ænˈtɪsɪpeɪt /
-v.
-[释义] 预期，预料（动词）
+v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
 [例]
-1. I anticipate good results from the experiment. 我预期实验会有好的结果。
-2. She anticipated his arrival by an hour. 她提前一个小时预料到他的到来。
-3. We should anticipate possible difficulties. 我们应该预料可能的困难。
-[联] anti (反对) + cip (拿取) + ate (使...) ——> 提前拿取未来的情况。
+1.I anticipate good results from the experiment. 我预期实验会有好的结果。
+2.She anticipated his arrival by an hour. 她提前一个小时预料到他的到来。
+3.We should anticipate possible difficulties. 我们应该预料可能的困难。
+[搭]
+1.Anticipate Problems 预见到问题；预感到问题
+2.confidently anticipate 满怀信心地期望；吸引力
+3.ardently anticipate 殷切地期望；殷切希望
+[联] anti (反对) + cip (拿取) + ate (使...) ——> 提前拿取未来的情况
 
 participate / pɑːrˈtɪsɪpeɪt /
-v.
-[释义] 参与，参加（动词）
+v. 参加，参与；<古>分担，分享；<古>具有，带有（特殊的性质）
 [例]
-1. Students are encouraged to participate in extracurricular activities. 鼓励学生参与课外活动。
-2. Everyone should participate in the discussion. 每个人都应该参与讨论。
-3. They participated in the competition last year. 他们去年参加了比赛。
-[搭] participate in 参与，参加
-[联] part (部分) + i + cip (拿取) + ate (使...) ———> 使自己成为其中的一部分。
+1.Students are encouraged to participate in extracurricular activities. 鼓励学生参与课外活动。
+2.Everyone should participate in the discussion. 每个人都应该参与讨论。
+3.They participated in the competition last year. 他们去年参加了比赛。
+[搭]
+1.participate in 参与，参加
+2.Participate in social activities 参与社会活动；参加社会活动
+3.desire to participate 参与意识；参与感
+[联] part (部分) + i + cip (拿取) + ate (使...) ———> 使自己成为其中的一部分
 
-rumour /ˈruːmɚ/, /ˈrumɚ/
-n. 谣言，传闻。（读音相同）
+rumour / ˈruːmər /
+n. 谣言，传闻
+v. 谣传，传说（be rumoured）
 [例]
-1. There is no solid evidence to support this rumour. 没有确凿证据支持这个谣言。
-2. The rumour spread quickly through the small town. 这个谣言迅速传遍了小镇。
-3. People were gossiping about the rumour during the break. 人们在休息时谈论着这个谣言。
+1.There is no solid evidence to support this rumour. 没有确凿证据支持这个谣言。
+2.The rumour spread quickly through the small town. 这个谣言迅速传遍了小镇。
+3.People were gossiping about the rumour during the break. 人们在休息时谈论着这个谣言。
 [搭] 
 1.rumour mill 谣言制造机。
 2.put an end to the rumour 结束谣言。
-[联] 与“room”谐音，可以联想为房间里充满了关于谣言的讨论。
+[联] 与“room”谐音，可以联想为房间里充满了关于谣言的讨论
 
-consensus /kənˈsensəs/
+consensus / kənˈsensəs /
 n. 共识，一致同意。
 [例]
 1.They reached a consensus after hours of discussion. 经过数小时的讨论，他们达成了共识。
@@ -231,120 +253,146 @@ n. 共识，一致同意。
 [搭] 
 1.reach a consensus 达成共识。
 2.consensus of opinion 观点的一致性。
-[联] con-(共同) + sent(感受) + -us(名词后缀) ——> 共同的感受。
+[联] con-(共同) + sent(感受) + -us(名词后缀) ——> 共同的感受
 
-expect / ɪkˈspekt /; / eksˈpekt /
-v. 预料，期望；等待；认为，猜想。
+expect / ɪkˈspekt /
+v. 期待；预计；要求，指望；认为；怀孕
 [例]
 1.I expect it will rain tomorrow. 我预计明天会下雨。（读音为 / ɪkˈspekt /）
 2.I am expecting a call from my friend. 我在等我朋友的电话。（读音为 / ɪkˈspekt /）
 3.They expect that their team will win. 他们认为他们的队伍会赢。（读音为 / ɪkˈspekt /）
 [搭] 
-expect sth. of sb. 对某人抱有某种期望。
-[联] ex- (向外) + -spect (看) ——> 向外看，预见。
+1.expect sth. of sb. 对某人抱有某种期望
+2.Expect the Unexpected 非常突然；接受意料之外的事情
+[联] ex- (向外) + -spect (看) ——> 向外看，预见
 
 await / əˈweɪt /
-v. 等待，等候。
+v. 等待，期待；将发生在，将降临到……身上
 [例]
 1.We are awaiting your reply. 我们正在等待你的回复。
 2.The soldiers awaited orders from their commander. 士兵们在等待指挥官的命令。
 3.They had to await further instructions. 他们不得不等待进一步的指示。
 [搭] 
-await sth./sb. 等待某事/某人。
-[联] a- (加强意义) + wait (等待) ——> 等待。
+1.await sth./sb. 等待某事/某人
+2.await publication 待出版；支持发表
+3.await job assignment 待岗
+4.await of bid 决标
+[联] a- (加强意义) + wait (等待) ——> 等待
 
-pastime / ˈpæsttaɪm /
-n. 消遣，娱乐。
+pastime / ˈpæstaɪm /
+n. 娱乐，消遣
 [例]
 1.Reading is his favorite pastime. 阅读是他最喜欢的消遣方式。
 2.Playing chess can be an enjoyable pastime. 下棋可以是一种有趣的消遣。
 3.Gardening is a popular pastime in rural areas. 园艺是农村地区的一种流行消遣。
 [搭] 
-kill time 消磨时间。
-[联] past (过去的) + time (时间) ——> 过去的时间，即消遣。
+1.Pastime Puzzles 娱乐拼图
+[联] past (过去的) + time (时间) ——> 过去的时间，即消遣
 
-expectation / ɪkˌspekˈteɪʃn /; / eksˌspekˈteɪʃn /
+expectation / ˌekspekˈteɪʃn /
 n. 期待，预期；期望值。
 [例]
-1.His expectation of winning was high. 他赢得比赛的期望很高。（读音为 / ɪkˌspekˈteɪʃn /）
-2.She met with her teacher's expectation. 她达到了老师的期望。（读音为 / ɪkˌspekˈteɪʃn /）
-3.The expectation is that the project will be completed on time. 预计项目会按时完成。（读音为 / ɪkˌspekˈteɪʃn /）
+1.His expectation of winning was high. 他赢得比赛的期望很高。
+2.She met with her teacher's expectation. 她达到了老师的期望。
+3.The expectation is that the project will be completed on time. 预计项目会按时完成。
 [搭] 
-live up to one's expectations 不辜负某人的期望。
-[联] ex- (向外) + spect (看) + -ation (名词后缀) ——> 向外看的结果。
+1.live up to one's expectations 不辜负某人的期望
+2.in expectation 期望着；意料之中
+3.expectation value 期待值
+4.expectation of life 平均寿命；预期寿命（等于life expectancy）
+[联] ex- (向外) + spect (看) + -ation (名词后缀) ——> 向外看的结果
 
 entertain / ˌentərˈteɪn /
-v. 招待，款待；使娱乐；容纳，接受。
+v. 使有兴趣，使快乐；心存，怀有（想法、希望、感觉等）；招待，请客
 [例]
 1.We entertained our guests with a delicious dinner. 我们用一顿美味的晚餐招待了我们的客人。
 2.The movie entertained the children for hours. 这部电影让孩子们玩了好几个小时。
 3.The restaurant entertains many customers every day. 这家餐馆每天接待许多顾客。
 [搭] 
-entertain sb. with sth. 用某物款待某人。
-[联] en- (进入) + tain (保持) ——> 让人保持愉快。
+1.entertain sb. with sth. 用某物款待某人
+2.Let Me Entertain You 让我款待你；让我取悦你；让我来愉悦你
+[联] en- (进入) + tain (保持) ——> 让人保持愉快
 
 entertainment / ˌentərˈteɪnmənt /
-n. 娱乐，消遣；招待，款待。
+n. 娱乐，娱乐表演；招待，款待
 [例]
 1.Music is a great form of entertainment. 音乐是一种很好的娱乐形式。
 2.The party provided good entertainment for all. 聚会为所有人提供了良好的娱乐。
 3.The new movie is sure to provide some entertainment. 这部新电影肯定会提供一些娱乐。
 [搭] 
-entertainment industry 娱乐业。
-[联] enter (进入) + tainment (保持) ——> 进入保持愉快的状态。
+1.entertainment industry 娱乐业
+2.entertainment center 娱乐中心
+3.blizzard entertainment 暴雪娱乐公司
+[联] enter (进入) + tainment (保持) ——> 进入保持愉快的状态
 
-recreation / ˌriːkriˈeɪʃn /
-n. 娱乐，消遣；恢复。
+recreation / ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən /
+n. 娱乐（活动），消遣（活动）；重现，重建
 [例]
 1.Sports are a popular form of recreation. 运动是一种受欢迎的娱乐方式。
 2.A walk in the park is a nice recreation. 在公园散步是一种很好的娱乐。
 3.Reading books is a good way to recreation. 读书是一种很好的娱乐方式。
 [搭] 
-recreation area 娱乐区。
-[联] re- (再) + creation (创造) ——> 再创造，即娱乐。
+1.recreation area 娱乐区
+2.recreation center 娱乐中心；康乐中心；游憩中心
+3.recreation area 儿童游戏场；康乐用地；游憩用地
+4.recreation industry 旅游产业
+[联] re- (再) + creation (创造) ——> 再创造，即娱乐
 
-amuse / əˈmjuz /
-v. 逗笑，使发笑；娱乐，消遣。
+amuse / əˈmjuːz /
+v. 逗乐，逗笑；（提供）消遣，（使）娱乐
 [例]
 1.The clown amused the children. 小丑逗笑了孩子们。
 2.The movie amuses audiences of all ages. 这部电影让各个年龄段的观众都感到有趣。
 3.He tried to amuse himself by playing video games. 他通过玩电子游戏来取悦自己。
 [搭] 
-amuse oneself 自娱自乐。
-[联] a- (加强意义) + muse (沉思) ——> 加强沉思，即娱乐。
+1.amuse oneself 自娱自乐
+2.amuse bouche 餐前开胃小吃；开胃小点；餐前小食；开胃小吃
+3.Amuse Park 快乐游乐园；经营乐园；小游戏
+[联] a- (加强意义) + muse (沉思) ——> 加强沉思，即娱乐
 
 gossip / ˈɡɑːsɪp /
-n. 流言蜚语，闲话；爱说闲话的人。
+n. 流言蜚语，小道消息；爱说三道四的人；闲聊
+v. 闲聊，说三道四
 [例]
 1.Don't listen to gossip. 别听流言蜚语。
 2.The gossip spread quickly through the village. 这个流言很快在整个村庄传开了。
 3.Someone told me some gossip about him. 有人告诉我关于他的某些闲话。
 [搭] 
-spread gossip 散布流言。
-[联] go (走) + -sip (说话) ——> 走着说话，即闲聊。
+1.spread gossip 散布流言
+2.gossip girl 绯闻女孩；绯闻少女；八卦天后；花边教主
+[联] go (走) + -sip (说话) ——> 走着说话，即闲聊
 
-festival / ˈfestəvl /
-n. 节日，节期。
+festival / ˈfestɪvl; ˈfestəvəl /
+n. 活动节期，纪念活动；节日，节庆
+adj. 节日的，喜庆的
 [例]
 1.The city celebrates the festival with fireworks. 城市用焰火庆祝这个节日。
 2.Many people travel during the festival season. 很多人在节日期间旅行。
 3.The festival is an important cultural event. 这个节日是一项重要的文化活动。
 [搭] 
-music festival 音乐节。
+1.music festival 音乐节
+2.Lantern Festival 元宵节；农历正月十五元宵节；上元节；正月十五
+3.film festival 电影节；影戏节；金鸡百花电影节；片子节
+4.Mid-Autumn Festival 中秋节；欢度中秋；中秋佳节；中秋时节
 
-feast /fiːst/
-n. 盛宴，筵席；v. 狂欢，尽情享受。
+feast / fiːst /
+n. 宴会，筵席；盛会，特别的享受；宗教节日
+v. 饱餐，尽情享用；宴请，设宴招待（某人）
 [例]
 1.We had a feast last night with all kinds of delicious food. 昨晚我们举办了一场盛大的宴会，有各种美味的食物。
 2.The children feasted on the sweets and candies. 孩子们尽情享用糖果和甜点。
 3.The festival was a feast for the eyes and the soul. 这个节日是一场视觉和心灵的盛宴。
 [搭] 
-1.a feast of colours 五彩缤纷的盛宴。
-2.feast one's eyes on something 欣赏某物。
-[联] 可以联想到“fast”（快速），因为盛宴往往吃得很快。
+1.a feast of colours 五彩缤纷的盛宴
+2.feast one's eyes on something 欣赏某物
+3.The Chinese Feast 满汉全席；金玉满堂
+4.Feast of Love爱的盛宴；爱情盛宴；片
+5.glee feast 招待会
+[联] 可以联想到“fast”（快速），因为盛宴往往吃得很快
 
-programme /ˈprɑːɡræm/ (美式拼写为program)
-n. 节目单，节目表；v. 编程，制定计划。
+programme / ˈproʊɡræm /
+n. 计划，方案；（电视或广播的）节目；（戏剧或音乐会等演出的）说明书，节目单；（活动的）计划表，程序单；课程；（计算机等的）程序，程序设计；(美式拼写为program)
+v. （给计算机）编写程序，设计程序；调好，设置（机器使之按某种方式运作）；使……有倾向，使按某种方式行事；计划，安排
 [例]
 1.The programme starts at 8 PM tonight. 节目今晚8点开始。
 2.I am programming my computer to run faster. 我正在为我的电脑编程以提高运行速度。
@@ -354,120 +402,152 @@ n. 节目单，节目表；v. 编程，制定计划。
 2.programme notes 节目单。
 [联] pro-(向前) + gram(书写) ——> 写下来的内容。
 
-programmer /ˈprɑːɡræmər/
-n. 编程员，程序员。
+programmer / ˈprɑːɡræmər /
+n. （计）程序设计员；编程器
 [例]
 1.The programmer fixed the bug in the software. 程序员修复了软件中的错误。
 2.She is a skilled programmer who can write efficient code. 她是一位技术娴熟的程序员，能够编写高效的代码。
 3.The company hired several programmers to develop new applications. 公司雇佣了几名程序员来开发新应用程序。
 [搭] 
-1.software programmer 软件程序员。
-2.game programmer 游戏程序员。
-[联] 可以联想到“program”（程序）+ “-er”（人）——> 编写程序的人。
+1.software programmer 软件程序员
+2.game programmer 游戏程序员
+[联] 可以联想到“program”（程序）+ “-er”（人）——> 编写程序的人
 
-rehearsal /rɪˈhɜːrsl/
-n. 排练，排演。
+rehearsal / rɪˈhɜːrs(ə)l /
+n. 排练，排演；预演，演习；复述，重复
 [例]
 1.The rehearsal will start at 6 PM sharp. 排练将在下午6点准时开始。
 2.They had a long rehearsal before the final performance. 在最终演出前他们进行了长时间的排练。
 3.The director was very strict during the rehearsal. 导演在排练期间非常严格。
 [搭] 
-1.full dress rehearsal 彩排。
-2.run-through rehearsal 总排练。
-[联] re-(再次) + hear(听) + -al(名词后缀) ——> 再次听，即排练。
+1.full dress rehearsal 彩排
+2.run-through rehearsal 总排练
+3.dress rehearsal 彩排；带妆彩排；最后彩排；总彩排
+[联] re-(再次) + hear(听) + -al(名词后缀) ——> 再次听，即排练
 
-perform /pərˈfɔːrm/
-v. 表演，表现；执行，完成。
+perform / pərˈfɔːrm /
+v. 演出，表演；执行，履行（尤指复杂的任务或行动）；运行，表现；起…...作用，有…...功能
 [例]
 1.The band performed their hit songs at the concert. 乐队在音乐会上表演了他们的热门歌曲。
 2.She performed well in her exams. 她在考试中表现很好。
 3.The actor performed his role with great emotion. 演员带着极大的情感演绎了他的角色。
 [搭] 
-1.perform a task 执行任务。
-2.perform a concert 举办音乐会。
-[联] per-(完全) + form(形成) ——> 完全形成，即表现。
+1.perform a task 执行任务
+2.perform a concert 举办音乐会
+[联] per-(完全) + form(形成) ——> 完全形成，即表现
 
-imitate /ˈɪmɪteɪt/
-v. 模仿，仿效。
+imitate / ˈɪmɪteɪt /
+v. 模仿，仿效；作滑稽模仿；仿造，伪造
 [例]
 1.Children often imitate what they see on TV. 孩子们常常模仿他们在电视上看到的东西。
 2.He tried to imitate the famous actor's voice. 他试图模仿那位著名演员的声音。
 3.The artist imitates the style of the old masters. 这位艺术家模仿古代大师的风格。
 [搭] 
-1.imitate nature 模仿自然。
-2.imitate someone's mannerism 模仿某人的习惯动作。
-[联] imi-(进入) + -tate(动词后缀) ——> 进入模仿状态。
+1.imitate nature 模仿自然
+2.imitate someone's mannerism 模仿某人的习惯动作
+3.imitate show 模仿秀；模拟秀
+4.imitate copy 伪造；模仿；仿效…样板；模拟
+[联] imi-(进入) + -tate(动词后缀) ——> 进入模仿状态
 
-mimic /ˈmɪmɪk/
-v. 模仿，模拟；n. 模仿者，滑稽演员。
+mimic / ˈmɪmɪk /
+v. 模仿（人的言行举止）；模拟（外观或效果）；模拟（另一种植物或动物）；（药）模拟（另一物质）的生理作用；（疾病）表现出（另一疾病）的症状
+n. 善于模仿的人；会模拟的动物（或植物）
+adj. 模拟的，演习的
 [例]
 1.The child mimicked his father's voice perfectly. 这个孩子完美地模仿了他父亲的声音。
 2.The bird mimics the sounds of other birds. 这只鸟模仿其他鸟类的声音。
 3.The comedian used mimicry to entertain the audience. 这位喜剧演员通过模仿逗乐观众。
 [搭] 
-1.mimic someone's accent 模仿某人的口音。
-2.mimic a character 模仿一个角色。
-[联] 可以联想到“magic”（魔法），因为模仿是一种神奇的能力。
+1.mimic someone's accent 模仿某人的口音
+2.mimic a character 模仿一个角色
+[联] 可以联想到“magic”（魔法），因为模仿是一种神奇的能力
 
-simulate /ˈsɪmjuleɪt/
-v. 模拟，仿造。
+simulate / ˈsɪmjuleɪt /
+v. 假装，冒充；模拟，模仿；看上去像；计算机模拟
+adj. <古> 虚假的，假装的
 [例]
 1.The scientist simulated the weather conditions in the lab. 科学家在实验室里模拟了天气条件。
 2.The computer program can simulate complex systems. 这个计算机程序可以模拟复杂系统。
 3.The actor had to simulate an illness for the role. 演员为了扮演这个角色必须假装生病。
 [搭] 
-1.simulate real-life situations 模拟真实生活场景。
-2.simulate an experiment 模拟实验。
-[联] simi-(类似) + -late(动词后缀) ——> 使变得类似。simulative /ˈsɪmjələtɪv/, /sɪˈmjulətɪv/
-adj. 模拟的；仿真的（读音不同是因为重音位置不同）
+1.simulate real-life situations 模拟真实生活场景
+2.simulate an experiment 模拟实验
+[联] simi-(类似) + -late(动词后缀) ——> 使变得类似
+
+simulative / ˈsɪmjəˌleɪtɪv /
+adj. 模拟的；仿真的
 [例]
 1.The simulative environment in the lab helped us understand the real-world scenarios better. 实验室中的模拟环境帮助我们更好地理解现实世界的情景。
 2.The new simulative software is being used to train medical students. 新的仿真软件正在被用来训练医学生。
 3.The simulative experiment showed promising results. 模拟实验显示了有希望的结果。
 [搭] 
-simulative training 模拟训练
-[联] simulation (模拟) + -ive (形容词后缀)。
+1.simulative training 模拟训练
+2.simulative generator 模拟发生器
+3.simulative test 模拟试验；模拟检测
+4.mulative Learning 模拟学习
+[联] simulation (模拟) + -ive (形容词后缀)
 
-circus /ˈsɜrkəs/
-n. 马戏团；杂技场；圆形广场。
+circus / ˈsɜːrkəs /
+n. 马戏团，马戏演员；马戏表演；乱哄哄的人群，热闹的场面；圆形广场，环形交叉口；（古罗马）露天圆形竞技场
 [例]
 1.My family and I went to the circus last weekend. 上周末我和家人去了马戏团。
 2.The kids loved the acrobats and clowns at the circus. 孩子们喜欢马戏团里的杂技演员和小丑。
-3.The circus performed under the big top. 马戏团在大帐篷下表演。
-[联] circus (马戏团) 来源于拉丁语“圆圈”。
+3.The circus performed under the big tent. 马戏团在大帐篷下表演。
+[搭]
+1.piccadilly circus 皮卡迪利广场（戏院及娱乐中心）
+2.circus wagon 大篷车；（马戏团的）大篷车
+3.circus act 马戏节目
+[联] circus (马戏团) 来源于拉丁语“圆圈”
 
-drama /ˈdrɑmə/
-n. 戏剧；戏剧艺术；戏剧性事件。
+drama / ˈdrɑːmə /
+n. 剧本，戏剧；戏剧研究，戏剧艺术；戏剧性场面，戏剧性事件；激动，刺激
 [例]
 1.Shakespeare's drama is still popular today. 莎士比亚的戏剧至今仍然受欢迎。
 2.The drama unfolded in front of our eyes. 戏剧性的事件在我们眼前展开。
 3.Watching a drama can be both entertaining and educational. 观看戏剧既可以娱乐也可以教育人。
-[联] drama (戏剧) 和 dramatic (戏剧性的) 相关。
+[搭]
+1.tv drama 电视剧
+2.modern drama 话剧
+3.drama club 戏剧学会
+[联] drama (戏剧) 和 dramatic (戏剧性的) 相关
 
-dramatic /drəˈmætɪk/
-adj. 戏剧的；引人注目的；剧烈的。
+dramatic / drəˈmætɪk /
+adj. 巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
 [例]
 1.Her dramatic entrance made everyone turn around. 她戏剧性的入场让每个人都转过头来。
 2.There was a dramatic increase in temperature. 温度有了剧烈的上升。
 3.The actor gave a dramatic performance. 这位演员有一场戏剧性的表演。
-[搭] dramatic change 剧烈的变化；dramatic improvement 显著的进步。
-[联] drama (戏剧) + -ic (形容词后缀)。
+[搭]
+1.dramatic change 剧烈的变化
+2.dramatic improvement 显著的进步
+3.dramatic soprano 戏剧女高音；诗剧女高音
+4.Dramatic Lyrics 戏剧抒情诗；诗剧抒怀诗
+5.Dramatic Arts 戏剧学
+[联] drama (戏剧) + -ic (形容词后缀)
 
-concert /ˈkɑnkert/
-n. 音乐会；演奏会。
+concert / ˈkɑːnsərt /
+n. 音乐会，演奏会；一致，和谐；（尤指犯罪时的）联合行动
+v. 共同议定，协调
 [例]
 1.I attended a classical music concert last night. 昨晚我参加了一场古典音乐会。
 2.The concert was sold out within hours. 音乐会在几个小时内就卖光了票。
 3.The band played an energetic concert. 这支乐队举办了一场充满活力的音乐会。
-[联] concert (音乐会) 和 concerto (协奏曲) 相关。
+[搭]
+1.in concert 一致；齐声
+2.concert hall 音乐厅
+3.in concert with 和…相呼应；与…合作；和…一致
+[联] concert (音乐会) 和 concerto (协奏曲) 相关
 
-musicale /ˌmjuːzɪˈkɑl/
+musicale / ˌmjuzɪˈkæl /
 n. 音乐会；音乐演奏会。
 [例]
 1.The musicale featured several talented musicians. 音乐会展示了几位才华横溢的音乐家。
 2.She performed beautifully at the musicale. 她在音乐会上表现得非常出色。
 3.The musicale was held in the grand hall. 音乐会在大厅举行。
-[联] musical (音乐的) + -e (名词后缀)。
+[搭]
+1.istituto musicale pareggiato 音乐机构
+2.Maggio Musicale Fiorentino 佛罗伦萨五月音乐节；五月音乐节管弦乐团
+[联] musical (音乐的) + -e (名词后缀)
 
 concertmaster /ˈkɑnkertˌmæstər/
 n. （管弦乐队的）首席小提琴手。
@@ -475,10 +555,10 @@ n. （管弦乐队的）首席小提琴手。
 1.The concertmaster led the orchestra during the performance. 首席小提琴手在演出中指挥管弦乐队。
 2.The concertmaster was the first violinist in the orchestra. 首席小提琴手是管弦乐队的第一小提琴手。
 3.The concertmaster tuned the violins before the concert. 首席小提琴手在音乐会前调整了小提琴。
-[联] concert (音乐会) + master (大师)。
+[联] concert (音乐会) + master (大师)
 
-rhythm /ˈrɪðəm/
-n.节奏；韵律；规律
+rhythm / ˈrɪðəm /
+n.（声音或运动的）节奏，韵律，节拍；节奏感；规则变化，节律；（艺术作品的）匀称，和谐；（韵文或散文）抑扬节奏
 [例]
 1.The rhythm of the music is very catchy. 这首音乐的节奏很抓人。
 2.The baby fell into a rhythm of sleeping. 这个婴儿进入了睡眠的规律。
@@ -486,8 +566,13 @@ n.节奏；韵律；规律
 [搭]
 1.rhythm and blues 蓝调节奏
 2.rhythm section 节奏组
-[联] rhythm = rythmos(流动)——> 流动的韵律。rhythmical / ˈrɪðəmɪk(ə)l /, / ˌrɪðəˈmætɪk(ə)l /
-adj. 有节奏的；韵律的。（读音不同是因为重音位置不同）
+3.circadian rhythm 生理节律；[化]近昼夜节律；日周期节律
+4.sense of rhythm 节奏感；韵律感
+5.sinus rhythm 窦性节律
+[联] rhythm = rythmos(流动) ——> 流动的韵律
+
+rhythmical / ˈrɪðmɪkl /
+adj. 有节奏的；韵律的
 [例]
 1.The dancer moved in a rhythmical motion. 舞者以有节奏的动作移动。
 2.Her voice had a rhythmical cadence. 她的声音有一种韵律的节奏。
@@ -495,235 +580,287 @@ adj. 有节奏的；韵律的。（读音不同是因为重音位置不同）
 [搭] 
 1.rhythmical movement 有节奏的运动
 2.rhythmical breathing 有节奏的呼吸
-[联] rhy-th-mi-cal-ly ——> 和“rhythm”（节奏）相关。
+3.rhythmical nystagmus 律动性眼球震颤；节律性眼球震颤
+4.rhythmical pulse 节律性脉搏
+5.Rhythmical Knock 节奏敲除
+[联] rhy-th-mi-cal-ly ——> 和“rhythm”（节奏）相关
 
-symphony /ˈsɪmfəni/
-n. 交响乐；交响乐团。
+symphony / ˈsɪmfəni /
+n. 交响乐；<美>交响乐团（symphony orchestra 的简称）；和谐的东西；<史>大型声乐作品中的过门
 [例]
 1.Beethoven's symphonies are timeless classics. 贝多芬的交响乐是不朽的经典。
 2.The symphony filled the concert hall with its beauty. 交响乐以其美丽填满了音乐厅。
 3.The symphony was performed by the world-famous orchestra. 这首交响乐是由世界著名的管弦乐队演奏的。
-[联] symphony (交响乐) 和 symphonic (交响乐的) 相关。
+[搭]
+1.symphony orchestra 交响乐团
+2.boston symphony orchestra 波士顿交响乐团
+[联] symphony (交响乐) 和 symphonic (交响乐的) 相关
 
-orchestra /ˈɔrkɪstrə/
-n. 管弦乐队。
+orchestra / ˈɔːrkɪstrə /
+n.（大型的）管弦乐队；乐池（=orchestra pit）；<美>（剧院中）靠近舞台的座位；古希腊剧场舞台前部半圆形的表演区（供合唱队表演歌舞）
 [例]
 1.The orchestra played beautifully at the concert. 管弦乐队在音乐会上演奏得非常精彩。
 2.The orchestra consists of string, woodwind, brass, and percussion instruments. 管弦乐队由弦乐器、木管乐器、铜管乐器和打击乐器组成。
 3.The conductor led the orchestra through the entire symphony. 指挥带领管弦乐队完成了整部交响乐。
-[联] orchestra (管弦乐队) 和 orchestral (管弦乐队的) 相关。ballet / ˈbæleɪ /; / bəˈleɪ /
-n. 芭蕾舞；芭蕾舞剧
-[例]
-1. The ballet tells a story through dance and music. 这部芭蕾舞剧通过舞蹈和音乐讲述了一个故事。
-2. She has been practicing ballet since she was five years old. 她从五岁开始练习芭蕾舞。
-3. The ballet dancer moved gracefully across the stage. 芭蕾舞者优雅地穿过舞台。
-[搭] ballet school 芭蕾舞学校；ballet performance 芭蕾舞表演。
-[联] ballet = ba(l) + let ——> 将“let”放在“bal”后面形成。
+[搭]
+1.symphony orchestra 交响乐团
+2.philharmonic orchestra 爱乐乐团，爱乐团；管弦乐团
+3.chamber orchestra 室内管弦乐队
+[联] orchestra (管弦乐队) 和 orchestral (管弦乐队的) 相关
 
-opera / ˈɑːpərə /; / ˈɒpərə /
-n. 歌剧；歌剧院
+ballet / bæˈleɪ /
+n. 芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲
 [例]
-1. He is a big fan of opera and attends every performance. 他是一个歌剧迷，参加每一场演出。
-2. The opera house is located in the heart of the city. 歌剧院位于市中心。
-3. The opera La Traviata is one of Verdi's most famous works. 《茶花女》是威尔第最著名的歌剧之一。
-[搭] opera singer 歌剧演唱家；opera ticket 歌剧票。
-[联] opera = op + era ——> 古老的音乐剧。
+1.The ballet tells a story through dance and music. 这部芭蕾舞剧通过舞蹈和音乐讲述了一个故事。
+2.She has been practicing ballet since she was five years old. 她从五岁开始练习芭蕾舞。
+3.The ballet dancer moved gracefully across the stage. 芭蕾舞者优雅地穿过舞台。
+[搭]
+1.ballet school 芭蕾舞学校
+2.ballet performance 芭蕾舞表演
+[联] ballet = ba(l) + let ——> 将“let”放在“bal”后面形成
 
-comedy / ˈkɑːmədi /; / ˈkɒmədi /
-n. 喜剧；喜剧片
+opera / ˈɑːprə /
+n. 歌剧演出，歌剧表演；歌剧团，歌剧院；歌剧艺术，歌剧剧本
 [例]
-1. This comedy movie made me laugh so much. 这部喜剧电影让我笑得停不下来。
-2. Shakespeare wrote many comedies during his lifetime. 莎士比亚在他的一生中创作了许多喜剧。
-3. The comedy show will be broadcast live tonight. 喜剧节目今晚将现场直播。
-[搭] comedy club 喜剧俱乐部；comedy actor 喜剧演员。
-[联] comedy = com + e + dy ——> 结尾加上“dy”表示轻松愉快的事。
+1.He is a big fan of opera and attends every performance. 他是一个歌剧迷，参加每一场演出。
+2.The opera house is located in the heart of the city. 歌剧院位于市中心。
+3.The opera La Traviata is one of Verdi's most famous works. 《茶花女》是威尔第最著名的歌剧之一。
+[搭]
+1.opera singer 歌剧演唱家
+2.opera ticket 歌剧票
+[联] opera = op + era ——> 古老的音乐剧
 
-tragedy / ˈtrædʒədi /; / ˈtrædʒədi /
-n. 悲剧；惨剧
+comedy / ˈkɑːmədi /
+n. 喜剧，喜剧片；滑稽的事物，搞笑的东西；滑稽，诙谐
 [例]
-1. The tragic story of Romeo and Juliet is well-known. 罗密欧与朱丽叶的悲剧故事广为人知。
-2. His life ended in tragedy when he died young. 他英年早逝，人生以悲剧告终。
-3. The car accident was a tragedy that could have been avoided. 这场车祸是一起本可避免的悲剧。
-[搭] tragedy play 悲剧；tragedy film 悲剧电影。
-[联] tragedy = trag + edy ——> 表示悲伤的事情。
+1.This comedy movie made me laugh so much. 这部喜剧电影让我笑得停不下来。
+2.Shakespeare wrote many comedies during his lifetime. 莎士比亚在他的一生中创作了许多喜剧。
+3.The comedy show will be broadcast live tonight. 喜剧节目今晚将现场直播。
+[搭]
+1.comedy club 喜剧俱乐部
+2.comedy actor 喜剧演员
+3.divine comedy 神曲（意大利诗人但丁作的叙事诗）
+4.situation comedy（广播、电视的）系列幽默剧
+5.comedy film 喜剧片
+[联] comedy = com + e + dy ——> 结尾加上“dy”表示轻松愉快的事
 
-animation / ænɪˈmeɪʃn /
-n. 动画；动画片
+tragedy / ˈtrædʒədi /
+n. 悲惨事件，惨剧；悲剧（作品）；不幸，遗憾；令人非常烦乱（或生气）的情形
 [例]
-1. The animation film won an award at the international film festival. 这部动画电影在国际电影节上获奖。
-2. Children love watching animation shows on weekends. 孩子们喜欢在周末看动画片。
-3. The animation industry has grown rapidly in recent years. 动画行业近年来发展迅速。
-[搭] animated series 动画连续剧；animated movie 动画电影。
-[联] animation = anim + ate + ion ——> 表示赋予生命的东西。
+1.The tragic story of Romeo and Juliet is well-known. 罗密欧与朱丽叶的悲剧故事广为人知。
+2.His life ended in tragedy when he died young. 他英年早逝，人生以悲剧告终。
+3.The car accident was a tragedy that could have been avoided. 这场车祸是一起本可避免的悲剧。
+[搭]
+1.tragedy play 悲剧
+2.tragedy film 悲剧电影
+[联] tragedy = trag + edy ——> 表示悲伤的事情
+
+animation / ˌænɪˈmeɪʃ(ə)n /
+ n. 活力，生气，热烈；动画片，动画游戏；动画制作
+[例]
+1.The animation film won an award at the international film festival. 这部动画电影在国际电影节上获奖。
+2.Children love watching animation shows on weekends. 孩子们喜欢在周末看动画片。
+3.The animation industry has grown rapidly in recent years. 动画行业近年来发展迅速。
+[搭]
+1.animated series 动画连续剧
+2.animated movie 动画电影
+[联] animation = anim + ate + ion ——> 表示赋予生命的东西
 
 X-rated / eks ˈreɪtɪd /
-adj. 成人级的；限制级的
+adj. X 级的，禁止儿童观看的
 [例]
-1. The X-rated movie is not suitable for children. 这部成人级电影不适合儿童观看。
-2. The X-rated content is strictly regulated by law. 成人内容受到法律严格监管。
-3. Many cinemas refuse to show X-rated films. 很多电影院拒绝播放成人电影。
-[搭] X-rated material 成人材料；X-rated book 成人书籍。
-[联] X-rated = X + rated ——> X表示极端，rated表示评级。
+1.The X-rated movie is not suitable for children. 这部成人级电影不适合儿童观看。
+2.The X-rated content is strictly regulated by law. 成人内容受到法律严格监管。
+3.Many cinemas refuse to show X-rated films. 很多电影院拒绝播放成人电影。
+[搭]
+1.X-rated material 成人材料
+2.X-rated book 成人书籍
+[联] X-rated = X + rated ——> X表示极端，rated表示评级
 
-artistic / ɑːrˈtɪstɪk /; / ɑːrˈtɪstɪk /
-adj. 艺术的；有艺术性的
+artistic / ɑːrˈtɪstɪk /
+adj. 艺术的，艺术家的；有艺术鉴赏力的，有艺术天赋的；有艺术性的，精美的
 [例]
-1. Her artistic talent was evident from a young age. 她从小就表现出艺术天赋。
-2. The artistic director designed the set for the play. 艺术总监为这部戏剧设计了布景。
-3. The artistic expression in this painting is remarkable. 这幅画的艺术表达令人印象深刻。
-[搭] artistic creation 艺术创作；artistic performance 艺术表现。
-[联] artistic = art + ist + ic ——> 艺术相关的。
-
-craftsman / ˈkræftsmən /
-n. 工匠；手艺人
-[例]
-1. The craftsman spent weeks creating this beautiful piece of furniture. 这位工匠花了数周时间制作这件精美的家具。
-2. A good craftsman takes pride in his work. 一位优秀的工匠对自己的工作感到自豪。
-3. The antique shop sells items made by skilled craftsmen. 这家古董店出售由熟练工匠制作的物品。
-[搭] master craftsman 大师级工匠；craftsman tools 工具箱。
-[联] craftsman = craft + sman ——> 表示从事某种工艺的人。
+1.Her artistic talent was evident from a young age. 她从小就表现出艺术天赋。
+2.The artistic director designed the set for the play. 艺术总监为这部戏剧设计了布景。
+3.The artistic expression in this painting is remarkable. 这幅画的艺术表达令人印象深刻。
+[搭]
+1.artistic creation 艺术创作
+2.artistic performance 艺术表现
+[联] artistic = art + ist + ic ——> 艺术相关的
 
 craft / kræft /
-n. 工艺；技巧
+n. 工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品
+v. 精心制作
 [例]
-1. Learning a new craft can be very rewarding. 学习一门新技艺会很有成就感。
-2. The craft of pottery has been passed down through generations. 制陶工艺代代相传。
-3. His craft as a chef is exceptional. 他作为厨师的技艺非常出色。
-[搭] craft skills 技能；craft workshop 工作坊。
-[联] craft = craf + t ——> 表示手工制作的东西。
+1.Learning a new craft can be very rewarding. 学习一门新技艺会很有成就感。
+2.The craft of pottery has been passed down through generations. 制陶工艺代代相传。
+3.His craft as a chef is exceptional. 他作为厨师的技艺非常出色。
+[搭]
+1.craft skills 技能
+2.craft workshop 工作坊
+[联] craft = craf + t ——> 表示手工制作的东西
+
+craftsman / ˈkræftsmən /
+n. 工匠，手艺人；技艺能人（尤指男性）；（英国）皇家电气和机械工程兵部队技工
+[例]
+1.The craftsman spent weeks creating this beautiful piece of furniture. 这位工匠花了数周时间制作这件精美的家具。
+2.A good craftsman takes pride in his work. 一位优秀的工匠对自己的工作感到自豪。
+3.The antique shop sells items made by skilled craftsmen. 这家古董店出售由熟练工匠制作的物品。
+[搭]
+1.master craftsman 大师级工匠
+2.craftsman tools 工具箱
+[联] craftsman = craft + sman ——> 表示从事某种工艺的人
 
 role / roʊl /
-n. 角色；作用
+n. 角色；作用，职责
 [例]
-1. She played the leading role in the play. 她在这部剧中扮演主角。
-2. Everyone has a role to play in society. 每个人在社会中都有自己的角色。
-3. His role in the company is to manage the finance department. 他在公司中的职责是管理财务部门。
-[搭] lead role 主角；supporting role 配角。
-[联] role = rol + e ——> 表示在某事中的位置。scene /sin/  
-n. 场景；场面；景色  
+1.She played the leading role in the play. 她在这部剧中扮演主角。
+2.Everyone has a role to play in society. 每个人在社会中都有自己的角色。
+3.His role in the company is to manage the finance department. 他在公司中的职责是管理财务部门。
+[搭]
+1.lead role 主角
+2.supporting role 配角
+[联] role = rol + e ——> 表示在某事中的位置
+
+scene / siːn /
+n. 事发地，现场；事件，场面；（戏剧、书、电影等的）片段，情节；（戏剧的）一场；（戏剧）布景；活动领域，圈子；（某地方或图画中的）景色，景象
 [例]  
-1. The scene of the crime was secured by the police. 警方封锁了犯罪现场。  
-2. What a beautiful scene! 多美的景色啊！  
-3. A dramatic scene unfolded before our eyes. 一场戏剧性的场景展现在我们眼前。  
+1.The scene of the crime was secured by the police. 警方封锁了犯罪现场。
+2.What a beautiful scene! 多美的景色啊！
+3.A dramatic scene unfolded before our eyes. 一场戏剧性的场景展现在我们眼前。
 [搭]  
 1.scene of the accident 事故现场  
-daily scene 日常景象  
-[联] 场景和“screen”（屏幕）有关，想象在屏幕上看到的画面。  
+2.daily scene 日常景象
+[联] 场景和“screen”（屏幕）有关，想象在屏幕上看到的画面
 
-stage /steɪdʒ/  
-n. 阶段；舞台；场面  
-v. 上演；举办  
+stage / steɪdʒ /
+n. 阶段，时期；旅程（或赛跑中）的一段；舞台；戏剧，戏剧表演；（尤指政治）舞台，活动领域；（火箭的）级；层，楼层，塔层；演员职业
+vt. 上演，演出；主办，举行；使发生；成功做成（某事）；（医）把（疾病，病人）诊断（或归类）为疾病的特定期
 [例]  
-1. The play is now in its final stage. 这出戏已进入最后阶段。  
-2. She performed on stage for the first time last night. 她昨晚第一次登台演出。  
-3. They staged a protest outside the embassy. 他们在大使馆外举行了一场抗议活动。  
+1.The play is now in its final stage. 这出戏已进入最后阶段。
+2.She performed on stage for the first time last night. 她昨晚第一次登台演出。
+3.They staged a protest outside the embassy. 他们在大使馆外举行了一场抗议活动。
 [搭]  
 1.stage fright 舞台恐惧症  
-the next stage 下一阶段  
-[联] stage 可以联想成“阶梯”，因为每一步都是一个阶段。  
+2.the next stage 下一阶段
+[联] stage 可以联想成“阶梯”，因为每一步都是一个阶段
 
-gallery /ˈɡæləri/  
-n. 美术馆；画廊；长廊  
+gallery / ˈɡæləri /
+n. 美术馆，画廊；（大厅的）楼座，楼上旁听席；（剧场中的）顶层楼座；阳台，露台；一群（相似的人或物）；长廊，走廊；（矿井下的）巷道；观众
 [例]  
-1. We visited an art gallery yesterday. 我们昨天参观了一个美术馆。  
-2. The paintings in the gallery are breathtaking. 画廊里的画作令人惊叹。  
-3. The gallery has a long history. 这家画廊有着悠久的历史。  
+1.We visited an art gallery yesterday. 我们昨天参观了一个美术馆。
+2.The paintings in the gallery are breathtaking. 画廊里的画作令人惊叹。
+3.The gallery has a long history. 这家画廊有着悠久的历史。
 [搭]  
 1.art gallery 美术馆  
-photo gallery 摄影画廊  
-[联] gallery 和“alley”（小巷）发音相似，可以联想到美术馆里长长的走廊。  
+2.photo gallery 摄影画廊；图片库
+3.picture gallery 画馆；美术馆
+[联] gallery 和“alley”（小巷）发音相似，可以联想到美术馆里长长的走廊
 
-exhibition /ˌeksəˈbɪʃn/  
-n. 展览；展出；展览会  
+exhibition / ˌeksɪˈbɪʃ(ə)n /
+n. 展览，展出；表现，展示；<美>表演赛；<英>奖学金
 [例]  
-1. There will be an exhibition of modern art next month. 下个月将有一个现代艺术展览。  
-2. The exhibition runs until the end of the week. 这个展览将持续到周末结束。  
-3. Visitors can see the exhibition online. 游客可以在线观看这个展览。  
+1.There will be an exhibition of modern art next month. 下个月将有一个现代艺术展览。
+2.The exhibition runs until the end of the week. 这个展览将持续到周末结束。
+3.Visitors can see the exhibition online. 游客可以在线观看这个展览。
 [搭]  
 1.traveling exhibition 流动展览  
-temporary exhibition 临时展览  
-[联] exhibition 可以联想成“exhibit”（展品）+ “ion”（名词后缀）。  
+2.temporary exhibition 临时展览
+[联] exhibition 可以联想成“exhibit”（展品）+ “ion”（名词后缀）
 
-aesthetic /ɛsˈθɛtɪk/  
-adj. 审美的；美学的  
-n. 美学；审美观  
+aesthetic / esˈθetɪk /
+adj. 审美的，美学的；美的，艺术的
+n. 美感，审美观；美学（aesthetics）；美术理论
 [例]  
-1. This painting has great aesthetic value. 这幅画具有很高的审美价值。  
-2. The restaurant has an aesthetic design. 这家餐厅的设计很有美感。  
-3. His aesthetic sense is very good. 他的审美感很好。  
+1.This painting has great aesthetic value. 这幅画具有很高的审美价值。
+2.The restaurant has an aesthetic design. 这家餐厅的设计很有美感。
+3.His aesthetic sense is very good. 他的审美感很好。
 [搭]  
 1.aesthetic surgery 整容手术  
-aesthetic education 美育  
-[联] aesthetic 和“art”（艺术）相关，表示与美有关的一切。  
+2.aesthetic education 美育
+[联] aesthetic 和“art”（艺术）相关，表示与美有关的一切
 
-collect /kəˈlɛkt/  
-v. 收集；搜集；聚集  
+collect / kəˈlekt /
+v. 聚集，聚积；收集，采集；收藏；领取，接走；募捐，募集；使镇定，使集中思想；赢得，获得；收，收取；<古>推断，推论；<非正式>和……互撞，和……发生冲突
+n.（某些基督教仪式上的）短祷文；<非正式>打赢的赌，赢钱的赌注
+adj. 对方付通话费的
+adv. 对方付通话费地
 [例]  
-1. Collect all the books and put them on the shelf. 把所有的书收集起来放在书架上。  
-2. He collects stamps as a hobby. 他把集邮当作爱好。  
-3. We need to collect data for the research. 我们需要为研究收集数据。  
+1.Collect all the books and put them on the shelf. 把所有的书收集起来放在书架上。
+2.He collects stamps as a hobby. 他把集邮当作爱好。
+3.We need to collect data for the research. 我们需要为研究收集数据。
 [搭]  
 1.collectibles 收藏品  
-collect stamps 集邮  
-[联] collect 和“gather”（收集）意思相近，可以联想成“聚在一起”。  
+2.collect stamps 集邮
+[联] collect 和“gather”（收集）意思相近，可以联想成“聚在一起”
 
-select /səˈlɛkt/  
-v. 选择；挑选  
-adj. 精选的；精选的  
+select / sɪˈlekt /
+v. 选择，挑选；（在计算机屏幕上）选定；（进化）决定（特征，生物）是否继续存在
+adj. 精选的，优等的；高级的，奢华的
 [例]  
-1. Select the best apples from the basket. 从篮子里挑选最好的苹果。  
-2. She selected a red dress for the party. 她为聚会挑选了一条红色的裙子。  
-3. Only the select few were invited to the event. 只有少数被邀请参加活动的人。  
+1.Select the best apples from the basket. 从篮子里挑选最好的苹果。
+2.She selected a red dress for the party. 她为聚会挑选了一条红色的裙子。
+3.Only the select few were invited to the event. 只有少数被邀请参加活动的人。
 [搭]  
 1.select group 精英团队  
-select candidates 精选候选人  
-[联] select 和“choose”（选择）意思相同，但更强调精挑细选。  
+2.select candidates 精选候选人
+[联] select 和“choose”（选择）意思相同，但更强调精挑细选
 
-photograph /ˈfoʊtəˌgræf/  
-n. 照片；相片  
-v. 给……拍照  
+photograph / ˈfoʊtəɡræf /
+n. 照片，相片
+v. 拍照，照相；在照片上显出某种样子
 [例]  
-1. This photograph is a family portrait. 这张照片是一张家庭肖像照。  
-2. I took a photograph of the sunset. 我拍了一张日落的照片。  
-3. The photograph captures the beauty of nature. 这张照片捕捉了大自然的美丽。  
+1.This photograph is a family portrait. 这张照片是一张家庭肖像照。
+2.I took a photograph of the sunset. 我拍了一张日落的照片。
+3.The photograph captures the beauty of nature. 这张照片捕捉了大自然的美丽。
 [搭]  
 1.family photograph 家庭合影  
-selfie photograph 自拍  
-[联] photograph 和“camera”（相机）相关，想象用相机拍摄的照片。  
+2.selfie photograph 自拍
+[联] photograph 和“camera”（相机）相关，想象用相机拍摄的照片
 
-portrait /ˈpɔːrtrət/  
-n. 肖像；画像  
+portrait / ˈpɔːrtrət /
+n.（尤指只刻画脸、头和肩部的）肖像，照片，雕像；描绘，描述；（文件的）纵向打印格式
+adj.（纸张、页面、照片等）竖式的，纵向的
 [例]  
-1. This portrait is of Queen Elizabeth II. 这幅肖像是伊丽莎白二世的画像。  
-2. The artist painted a portrait of his mother. 这位艺术家为他的母亲画了一幅肖像。  
-3. The portrait hangs in the museum. 这幅肖像挂在博物馆里。  
+1.This portrait is of Queen Elizabeth II. 这幅肖像是伊丽莎白二世的画像。
+2.The artist painted a portrait of his mother. 这位艺术家为他的母亲画了一幅肖像。
+3.The portrait hangs in the museum. 这幅肖像挂在博物馆里。
 [搭]  
 1.portrait painter 肖像画家  
-portrait photography 肖像摄影  
-[联] portrait 和“face”（脸）有关，因为肖像画的是人的脸。  
+2.portrait photography 肖像摄影
+[联] portrait 和“face”（脸）有关，因为肖像画的是人的脸
 
-sculpture /ˈskʌlptʃər/  
-n. 雕塑；雕刻作品  
+sculpture / ˈskʌlptʃər /
+n. 雕像，雕塑作品；雕刻艺术，雕塑艺术；（动，植）（贝壳、花粉粒、角质层或其他生物体表面凸起或凹陷的）雕饰，雕纹
+v. 雕刻，雕塑；从事雕刻
 [例]  
-1. The sculpture is made of marble. 这座雕塑是大理石做的。  
-2. The sculpture stands in the middle of the square. 这座雕塑矗立在广场中央。  
-3. The artist creates a sculpture out of clay. 这位艺术家用黏土创作了一件雕塑。  
+1.The sculpture is made of marble. 这座雕塑是大理石做的。
+2.The sculpture stands in the middle of the square. 这座雕塑矗立在广场中央。
+3.The artist creates a sculpture out of clay. 这位艺术家用黏土创作了一件雕塑。
 [搭]  
 1.public sculpture 公共雕塑  
-bronze sculpture 青铜雕塑  
-[联] sculpture 和“carve”（雕刻）有关，想象用刀雕刻出来的艺术品。draw /drɔː/, /druː/
-v.画画；拉，拖；吸引；提取；得出（结论）
+2.bronze sculpture 青铜雕塑
+3.snow sculpture 雪雕；看冰雕；雪雕塑
+[联] sculpture 和“carve”（雕刻）有关，想象用刀雕刻出来的艺术品
+
+draw / drɔː /
+v. 画，绘画；草拟，制定；吸引，使注意；引起（反应）；获得，得到；推断出；抽出，吸出；（从银行账户）取出；拉，拖；利用，动用；抽（烟），吸（气）
+n. 平局；抽彩，抽签；有吸引力的人（或事物）；吸烟；拔枪；（高尔夫）偏球；<非正式>大麻制品
 [例]
 1.He is good at drawing sketches of people. 他擅长画人物素描。
 2.The horse drew the cart easily. 马轻松地拉着车。
-3.We can draw a conclusion from this data. 我们可以从这些数据中得出结论。
+3.Draw a circle and curse you. 画一个圈圈诅咒你。
 [搭]
 1.draw water 提取水
 2.draw a picture 画画
-[联] draw = drag ——> 拉动、画线。
+3.draw in 到站；进站；渐黑；紧缩开支
+4.draw up 停住；起草；草拟；制订
+5.draw out 锻造拔长；拉长；拉拔；取出
+[联] draw = drag ——> 拉动、画线
 
-sketch /sketʃ/
-n./v.素描；概要；草图；简单描述
+sketch / sketʃ /
+n. 素描，速写，草图；（任何作品的）粗样，初稿；简述，概述；幽默短剧，滑稽小品；<非正式，旧>滑稽的人（或物）
+v.（给……）画速写，（给……）画素描；简述，概述；（用手或身体）做（姿势）
 [例]
 1.I made a quick sketch of the mountain. 我快速画了一幅山的素描。
 2.Can you give me a sketch of your plan? 你能给我一个计划的大致轮廓吗？
@@ -731,10 +868,10 @@ n./v.素描；概要；草图；简单描述
 [搭]
 1.sketch book 素描本
 2.sketch map 简略地图
-[联] sketch = scratch(划痕) + -etch(小的)——> 小的划痕——> 草图。
+[联] sketch = scratch(划痕) + -etch(小的)——> 小的划痕 ——> 草图
 
-depict /dɪˈpɪkt/
-v.描绘；描写；描述
+depict / dɪˈpɪkt /
+v. 描绘；描写；描述
 [例]
 1.The painting depicts a beautiful countryside. 这幅画描绘了一个美丽的乡村。
 2.Her writing depicts the struggles of the poor. 她的作品描写了穷人的挣扎。
@@ -742,10 +879,10 @@ v.描绘；描写；描述
 [搭]
 1.depict a scene 描绘场景
 2.depict a character 描写角色
-[联] depict = de-(加强) + pict(画)——> 强化绘画——> 描绘。
+[联] depict = de-(加强) + pict(画) ——> 强化绘画 ——> 描绘
 
-describe /dɪˈskraɪb/
-v.描述；形容；描绘
+describe / dɪˈskraɪb /
+v. 描述，形容；做……运动，形成……形状
 [例]
 1.Can you describe the suspect to me? 你能向我描述一下嫌疑犯吗？
 2.The teacher described the experiment in detail. 老师详细描述了这个实验。
@@ -753,10 +890,21 @@ v.描述；形容；描绘
 [搭]
 1.describe an event 描述事件
 2.describe a person 形容一个人
-[联] describe = de-(分开) + scrib(写) + -e——> 分开书写——> 描述。
+[联] describe = de-(分开) + scrib(写) + -e ——> 分开书写 ——> 描述
 
-carve /kɑːrv/
-v.雕刻；刻制；切（肉等）
+description / dɪˈskrɪpʃn /
+n. 描述，形容，说明；类型
+[例]
+1.The description was pretty vague. 这项描述是相当含糊的。
+2.The description fits us to a tee. 这个描述恰好符合我们的情况。
+3.They gave a general description of the man. 他们对这个男人作了大致的描述。
+[搭]
+1.detailed description 详细描述；详细说明
+2.job description 工作说明
+3.brief description 简要说明；简介
+
+carve / kɑːrv /
+v. 雕，刻；切下，割下；开创，赢得（carve out）；铺（路），修（路）；侵蚀，冲刷；减少，削减
 [例]
 1.The sculptor carved a beautiful statue. 雕塑家雕刻了一尊美丽的雕像。
 2.He carved his name on the tree. 他在树上刻下了自己的名字。
@@ -764,10 +912,10 @@ v.雕刻；刻制；切（肉等）
 [搭]
 1.carve a niche 雕刻出凹槽
 2.carve a path 开辟道路
-[联] carve = car(车子) + -ve——> 车子留下的痕迹——> 刻痕。
+[联] carve = car(车子) + -ve——> 车子留下的痕迹 ——> 刻痕
 
-improvise /ɪmˈprɑːvˌaɪz/
-v.即兴创作；即兴表演
+improvise / ˈɪmprəvaɪz /
+v. 即兴表演，即兴创作；临时做，临时凑成
 [例]
 1.The actor had to improvise when he forgot his lines. 演员忘词时不得不即兴表演。
 2.They improvised a solution to the problem. 他们想出了一个解决问题的办法。

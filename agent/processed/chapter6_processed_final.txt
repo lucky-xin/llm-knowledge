@@ -569,21 +569,27 @@ abbr. 注意力缺陷障碍，多动症（ADD）
 accumulate / əˈkjumjuleɪt /
 v. 积累，积聚
 [例]
-1. Wealth should not be accumulated for its own sake. 财富不应仅仅为了积累而积累。
-2. Over time, these small efforts accumulate into big achievements. 长期以来，这些小的努力累积成大的成就。
-3. Leaves accumulate on the ground in autumn. 秋天树叶在地面上堆积。
+1.Wealth should not be accumulated for its own sake. 财富不应仅仅为了积累而积累。
+2.Over time, these small efforts accumulate into big achievements. 长期以来，这些小的努力累积成大的成就。
+3.Leaves accumulate on the ground in autumn. 秋天树叶在地面上堆积。
 [搭] accumulate wealth 聚敛财富；accumulate knowledge 积累知识。
 [联] ac- (表示“向，朝向”) + cumul- (源于拉丁语“cumulus”，意为“堆叠”) + -ate (表示动作)。
 
-assemble /əˈsembl/
-v. 装配，组装；集合，召集
+assemble / əˈsemb(ə)l /
+v.（使）集合，（使）聚集；装配，组装
 [例]
-1. The workers are assembling the parts of the machine. 工人们正在组装机器的部件。
-2. The team will assemble tomorrow morning for a meeting. 团队明天早上将集合开会。
-3. All the furniture can be easily assembled at home. 所有家具都可以在家里轻松组装。
-[搭] assemble a team 组建团队；assemble parts 组装零件。
-[联] as- (表示“向，朝向”) + semble- (源于拉丁语“simulare”，意为“形成整体”)。gather / ˈɡɛðər /, / ɡəˈθɜr /
-v. 收集；聚集；推测
+1.The workers are assembling the parts of the machine. 工人们正在组装机器的部件。
+2.The team will assemble tomorrow morning for a meeting. 团队明天早上将集合开会。
+3.All the furniture can be easily assembled at home. 所有家具都可以在家里轻松组装。
+[搭]
+1.assemble a team 组建团队
+2.assemble parts 组装零件
+3.assemble language 汇编语言
+4.assemble line 作业的装配线
+[联] as- (表示“向，朝向”) + semble- (源于拉丁语“simulare”，意为“形成整体”)
+
+gather / ˈɡæðər /
+vt.&vi. 聚集，召集；收集，采集；认为，推断；增加（速度、力量等）；给……打褶；收紧，拉近
 [例]
 1.I need to gather all the information before making a decision. 在做决定之前，我需要收集所有信息。
 2.People gathered in the square to celebrate the festival. 人们聚集在广场上庆祝节日。
@@ -591,10 +597,13 @@ v. 收集；聚集；推测
 [搭] 
 1.gather information 收集信息
 2.gather one's thoughts 集中注意力
-[联] gather = get together。
+3.gather together 集合在一起，聚合
+4.gather in 收集；尽量收集进来
+5.gather information 搜集信息
+[联] gather = get together
 
 attach / əˈtætʃ /
-v. 系；贴；附加；连接
+v. 系上，贴上，连接；附上（附件）；赋予，认为……具有； 和……在一起，缠着； 附带（条件)；附属，依附；与……有关联；委派
 [例]
 1.He attached a note to the letter. 他在信上贴了一个便条。
 2.We should attach great importance to this issue. 我们应该高度重视这个问题。
@@ -602,10 +611,12 @@ v. 系；贴；附加；连接
 [搭] 
 1.attach importance to 重视
 2.attach oneself to 依附于
-[联] attach = fasten。
+3.attached please find 附上…请查收[书信用语]
+4.attach file 附件
+[联] attach = fasten
 
-belong / bɪˈlɔŋ /
-v. 属于；应归入；适合
+belong / bɪˈlɔːŋ /
+v.  应在……地方，应处于……状况；适应，合得来；归……所有；是……的成员，属于（某团体或组织）；居住
 [例]
 1.That book belongs to the library. 那本书属于图书馆。
 2.This pen doesn't belong to me. 这支笔不是我的。
@@ -613,7 +624,7 @@ v. 属于；应归入；适合
 [搭] 
 1.belong to 属于
 2.belong with 与……相称
-[联] belong = be part of。
+[联] belong = be part of
 
 optics / ˈɑptɪks /
 n. 光学；光学仪器
@@ -624,9 +635,11 @@ n. 光学；光学仪器
 [搭] 
 1.geometrical optics 几何光学
 2.physical optics 物理光学
-[联] optics = study of light。
+3.adaptive optics自适应光学；适应性光学仪器（天文学使用的镜子，其形状可以改变以补偿光线受大气之扭曲）
+4.nonlinear optics 非线性光学
+[联] optics = study of light
 
-microscope / ˈmaɪkrəˌskoʊp /
+microscope / ˈmaɪkrəskoʊp /
 n. 显微镜
 [例]
 1.We use a microscope to observe small objects. 我们用显微镜观察小物体。
@@ -635,10 +648,12 @@ n. 显微镜
 [搭] 
 1.optical microscope 光学显微镜
 2.electron microscope 电子显微镜
-[联] micro- = small。
+3.scanning electron microscope 扫描电子显微镜
+[联] micro- = small
 
 lens / lɛnz /
-n. 镜片；透镜；镜头
+n. 透镜，镜片；（相机的）镜头；（眼球的）晶状体；隐形眼镜
+v. 给……摄影
 [例]
 1.The camera lens focuses the light. 相机镜头聚焦光线。
 2.Glasses have lenses to help people see better. 眼镜有镜片帮助人们看得更清楚。
@@ -646,10 +661,12 @@ n. 镜片；透镜；镜头
 [搭] 
 1.lens cap 镜头盖
 2.camera lens 相机镜头
-[联] lens = curved glass。
+3.intraocular lens 人工晶体；眼内透镜
+4.contact lens 隐形眼镜；接触镜片
+[联] lens = curved glass
 
-radar / ˈreɪdər /
-n. 雷达
+radar / ˈreɪdɑːr /
+n. 雷达，无线电探测系统；（人的）直觉感知能力，（对因素或潮流等的）敏感性
 [例]
 1.The plane uses radar to navigate. 飞机使用雷达导航。
 2.Radar detects objects by using radio waves. 雷达通过无线电波探测物体。
@@ -657,10 +674,14 @@ n. 雷达
 [搭] 
 1.radar system 雷达系统
 2.airborne radar 机载雷达
-[联] radar = radio detection and ranging。
+3.radar cross section 雷达截面，雷达目标有效截面
+4.phased array radar 相控阵雷达
+5.weather radar 天气雷达
+[联] radar = radio detection and ranging
 
-echo / ˈɛkoʊ /
-n. 回声；反响；共鸣
+echo / ˈekoʊ /
+n. 回声，回音，余音绕梁；重复，附和，共鸣；相似之处，再现；回声插入；（话语结构和内容的）重复；（桥牌）回声信号
+v. 回响，发出回声；重复，附和
 [例]
 1.The echo of his voice faded away. 他的声音回声渐渐消失。
 2.Her ideas found an echo in the audience. 她的想法在听众中引起了共鸣。
@@ -668,10 +689,10 @@ n. 回声；反响；共鸣
 [搭] 
 1.echo chamber 回音室
 2.echo effect 回声效应
-[联] echo = repeat sound。
+[联] echo = repeat sound
 
 sensor / ˈsɛnsər /
-n. 传感器；感应器
+n.（探测光、热、压力等的）传感器，敏感元件，探测设备
 [例]
 1.The sensor detects motion. 传感器检测运动。
 2.The temperature sensor measures heat. 温度传感器测量热量。
@@ -679,10 +700,13 @@ n. 传感器；感应器
 [搭] 
 1.motion sensor 运动传感器
 2.temperature sensor 温度传感器
-[联] sensor = sensing device。
+3.pressure sensor 压力传感器；位置传感器
+4.displacement sensor 位移传感器
+[联] sensor = sensing device
 
-multimedia / ˌmʌltɪˈmidiə /
-n. 多媒体
+multimedia / ˌmʌltiˈmiːdiə /
+adj. 多媒体的；使用多媒体的
+n. 多媒体（技术）；多媒体的使用；（艺术中）多种材料的使用
 [例]
 1.Multimedia combines text, images, and sound. 多媒体结合了文字、图像和声音。
 2.Education often uses multimedia. 教育常常使用多媒体。
@@ -690,104 +714,110 @@ n. 多媒体
 [搭] 
 1.multimedia presentation 多媒体演示
 2.multimedia content 多媒体内容
-[联] multi- = many + media = medium。network / ˈnɛtˌwɜrk /, / ˈnɛtˌwɝk /
-n. 网络；网状物；广播网；电视网。
+[联] multi- = many + media = medium
+
+network / ˈnetwɜːrk /
+n. 网络，网状系统；人际关系网，联络网；计算机网络，互联网；广播网，电视网
+v. 使（计算机）联网；（尤指工作中）建立关系网，建立人脉；对（电视或广播节目）进行联播
 [例]
 1.The internet is a global network that connects millions of computers. 互联网是一个连接数百万台计算机的全球网络。
 2.A strong social network can help you find job opportunities. 强大的社交网络可以帮助你找到工作机会。
 3.The company has established a network of suppliers across the country. 公司在全国范围内建立了一个供应商网络。
 [搭] 
-1.social network 社交网络。
-2.network security 网络安全。
-[联] net (网) + work (工作) ——> 网状的工作结构。
+1.social network 社交网络
+2.network security 网络安全
+[联] net (网) + work (工作) ——> 网状的工作结构
 
 browser / ˈbraʊzər /
-n. 浏览器（计算机程序）。
+n. 浏览器；逛商店的人，浏览书报者；吃高处草木的动物
 [例]
 1.Google Chrome is one of the most popular web browsers. 谷歌Chrome是备受欢迎的浏览器之一。
 2.I use Firefox as my default browser for privacy reasons. 出于隐私考虑，我使用Firefox作为默认浏览器。
 3.Safari is Apple's built-in browser for macOS and iOS devices. Safari是苹果macOS和iOS设备内置的浏览器。
 [搭] 
-1.browser history 浏览历史记录。
+1.browser history 浏览历史记录
 2.web browser 网络浏览器。
-[联] brow (看) + ser (人) ——> 帮助人们浏览网页的工具。
+[联] brow (看) + ser (人) ——> 帮助人们浏览网页的工具
 
 dial / ˈdaɪəl /
-n. 拨号盘；刻度盘；v. 拨号。
+v. 拨号
+n. 钟面，仪表盘；调节器；（老式电话机的）拨号盘
 [例]
 1.I turned the dial to set the alarm clock. 我转动拨号盘来设定闹钟。
 2.Dial 9 to make an international call. 拨9可以拨打国际电话。
 3.The radio dial was stuck and couldn't be adjusted. 收音机的拨号盘卡住了，无法调整。
 [搭] 
-1.dial tone 拨号音。
-2.speed dial 快速拨号。
-[联] dia (通过) + l (小) ——> 小心地调节。
+1.dial tone 拨号音
+2.speed dial 快速拨号
+[联] dia (通过) + l (小) ——> 小心地调节
 
-microcomputer / ˈmaɪkrəˌkɑmpjutɚ /
+microcomputer / ˈmaɪkroʊkəmpjuːtər /
 n. 微型计算机。
 [例]
 1.My microcomputer is more powerful than the one I used five years ago. 我现在的微型计算机比五年前使用的更强大。
 2.The microcomputer inside your smartphone controls all its functions. 你的智能手机内部的微型计算机控制着所有的功能。
 3.Microcomputers have become essential tools in modern offices. 微型计算机已成为现代办公室必不可少的工具。
 [搭] 
-1.portable microcomputer 便携式微型计算机。
-2.microcomputer system 微型计算机系统。
-[联] micro (小) + computer (计算机) ——> 小型化的计算机。
+1.portable microcomputer 便携式微型计算机
+2.microcomputer system 微型计算机系统
+[联] micro (小) + computer (计算机) ——> 小型化的计算机
 
-laptop / ˈlæptɑp /
-n. 笔记本电脑。
+laptop / ˈlæptɑːp /
+n. 膝上型计算机，便携式电脑（=laptop computer）
 [例]
 1.My laptop battery lasts about six hours. 我的笔记本电脑电池能持续大约六小时。
 2.I prefer using a laptop for presentations. 我更喜欢用笔记本电脑做演示。
 3.The laptop has a high-resolution screen. 这台笔记本电脑有高分辨率屏幕。
 [搭] 
-1.laptop computer 笔记本电脑。
-2.laptop stand 笔记本电脑支架。
-[联] lap (大腿) + top (顶部) ——> 放在大腿上的电脑。
+1.laptop computer 笔记本电脑
+2.laptop stand 笔记本电脑支架
+[联] lap (大腿) + top (顶部) ——> 放在大腿上的电脑
 
-software / ˈsɔftˌwɛr /
-n. 软件；应用软件。
+software / ˈsɔːftwer /
+n. 软件；应用软件
 [例]
 1.The software update improved the performance of the program. 软件更新提升了程序的性能。
 2.This software is compatible with both Windows and Mac operating systems. 这款软件兼容Windows和Mac操作系统。
 3.The company provides free software support for its customers. 公司为客户提供免费的软件支持。
 [搭] 
-1.system software 系统软件。
-2.software development 软件开发。
-[联] soft (软) + ware (工具) ——> 软件是一种无形的工具。
+1.system software 系统软件
+2.software development 软件开发
+[联] soft (软) + ware (工具) ——> 软件是一种无形的工具
 
 keyboard / ˈkiˌbɔrd /
-n. 键盘。
+n.（打字机或计算机的）键盘；（钢琴或风琴的）琴键；键盘乐器
+v. 用键盘输入；用键盘操作
 [例]
 1.The keyboard layout of this laptop is ergonomic. 这台笔记本电脑的键盘布局符合人体工程学。
 2.I spilled coffee on my keyboard last week. 上周我把咖啡洒在键盘上了。
 3.The wireless keyboard connects to the computer via Bluetooth. 无线键盘通过蓝牙与电脑连接。
 [搭] 
-1.QWERTY keyboard QWERTY键盘。
-2.virtual keyboard 虚拟键盘。
-[联] key (键) + board (板) ——> 键盘是一块带有按键的板。
+1.QWERTY keyboard QWERTY键盘
+2.virtual keyboard 虚拟键盘
+[联] key (键) + board (板) ——> 键盘是一块带有按键的板
 
-screen / skrin /
-n. 屏幕；显示屏；v. 遮挡；筛查。
+screen / skriːn /
+n. 屏幕，荧光屏；银幕；电影（总称）；屏风，隔板；掩蔽物，屏障；纱窗，纱门；（医疗）化验，检查；（机动车的）挡风玻璃
+v. 隐藏，遮蔽；庇护，包庇；检查，筛查；审查，甄别；筛选，检查排除；防止（或免受）电磁干扰；放映（影片），播放（电视节目）；分析，评估；加网印刷
 [例]
 1.The movie was projected onto a large screen. 电影被投影到一个大屏幕上。
 2.The screen protector prevents scratches on the phone screen. 屏幕保护膜防止手机屏幕被刮花。
 3.Screen the emails before sending them out. 在发送邮件之前先筛选一下。
 [搭] 
-1.touch screen 触摸屏。
-2.screen saver 屏保。
-[联] screen (遮挡) + - (后缀) ——> 用来遮挡光线或信息的设备。
+1.touch screen 触摸屏
+2.screen saver 屏保
+[联] screen (遮挡) + - (后缀) ——> 用来遮挡光线或信息的设备
 
-loudspeaker / ˈlaʊdspikɚ /
-n. 扬声器；扩音器。
+loudspeaker / ˌlaʊdˈspiːkər /
+n. 扩音器，喇叭；<旧>（收音机或乐器的）扬声器，喇叭
 [例]
 1.The loudspeakers were mounted on poles around the stadium. 扬声器安装在体育场周围的杆子上。
 2.I turned up the volume on the loudspeaker. 我把扬声器的音量调大了。
 3.The loudspeaker broadcast the announcement to everyone. 扩音器向所有人广播了公告。
 [搭] 
-1.portable loudspeaker 便携式扬声器。
-2.speaker system 扬声器系统。
-[联] loud (大声) + speaker (说话者) ——> 让声音变得更大的装置。
+1.portable loudspeaker 便携式扬声器
+2.speaker system 扬声器系统
+[联] loud (大声) + speaker (说话者) ——> 让声音变得更大的装置
 
 microphone / ˈmaɪkrəfoʊn /
 n. 麦克风；传声器。
@@ -796,10 +826,12 @@ n. 麦克风；传声器。
 2.I plugged the microphone into the mixer. 我把麦克风插入了混音器。
 3.The live concert required multiple microphones for the band. 直播音乐会需要乐队使用多个麦克风。
 [搭] 
-1.wireless microphone 无线麦克风。
-2.microphone stand 麦克风支架。
-[联] micro (小) + phone (电话) ——> 小型的电话接收装置。cassette / kəˈset / or / ˈkæset /
-n.盒式录音带，磁带盒
+1.wireless microphone 无线麦克风
+2.microphone stand 麦克风支架
+[联] micro (小) + phone (电话) ——> 小型的电话接收装置
+
+cassette / kəˈset /
+n. 磁带盒，盒式磁带；胶片盒；（半导体）晶圆载具，晶舟
 [例]
 1.I still have some old cassettes from my childhood. 我还有一些我童年的旧磁带。
 2.She recorded her voice on a cassette. 她在磁带上录下了自己的声音。
@@ -807,74 +839,103 @@ n.盒式录音带，磁带盒
 [搭] 
 1.cassette recorder 磁带录音机
 cassette player 磁带播放器
-[联] cas-(容器) + -ette(小的)——> 小的容器，指装磁带的小盒子。
+[联] cas-(容器) + -ette(小的) ——> 小的容器，指装磁带的小盒子
 
 tape / teɪp /
-n.带子，胶带；磁带
+n. 磁带，录音带；录了音的盒式磁带，录了像的盒式磁带；胶带，胶布；（赛跑中的）终点线；卷尺
+v.（用磁带）录音，录像；用胶带粘贴；用带子系紧；<美> 用（绷带）包扎（受伤部位）
 [例]
 1.Use tape to fix the broken pieces together. 使用胶带把破损的部分粘在一起。
 2.The teacher used a tape to record the lecture. 老师用磁带录下了讲座内容。
 3.He spliced two pieces of tape together. 他把两段胶带拼接在一起。
 [搭] 
 1.tape measure 卷尺
-video tape 录像带
-[联] tape(胶带) ——> 与粘合相关。
+2.video tape 录像带
+[联] tape(胶带) ——> 与粘合相关
 
 binary / ˈbaɪnəri /
-adj.二进制的；两个一组的
+adj. 由两部分组成的，二重的；二进制的（用 0 和 1 记数）
+n. 二进制，二进制记数法；由两部分组成的事物，一双，双体
 [例]
 1.Binary code is fundamental in computer science. 二进制代码是计算机科学的基础。
 2.The binary system consists of only two digits. 二进制系统只由两个数字组成。
 3.Binary options trading is very popular. 二元期权交易非常流行。
-[联] bi-(双，二) + -nary(相关的)——> 与“二”相关的事物。
+[搭]
+1.binary tree [数]二叉树；[计]二进制树形网络
+2.binary image 二进制映象
+3.binary system 二进制
+[联] bi-(双，二) + -nary(相关的) ——> 与“二”相关的事物
 
-digital / ˈdɪdʒɪtl /
-adj.数字的；数码的
+digital / ˈdɪdʒɪt(ə)l /
+adj. 数字的，数码的；数字显示的；指头的，手指的
+n. 数字电视，数位电视
 [例]
 1.Digital cameras are more popular than film cameras. 数码相机比胶卷相机更受欢迎。
 2.Digital watches are more accurate than traditional ones. 数字手表比传统手表更准确。
 3.Digital technology has revolutionized communication. 数字技术彻底改变了通信方式。
-[联] digit(数字) + -al(相关的)——> 与数字相关的事物。
+[搭]
+1.digital library 数字图书馆
+2.digital image 数字图象
+3.digital signal 数字信号
+[联] digit(数字) + -al(相关的) ——> 与数字相关的事物
 
-wireless / ˈwaɪrləs /
-adj.无线的；无电线的
+wireless / ˈwaɪərləs /
+adj. 无线的，使用无线电信号的
+n. 无线电发射和接收系统；<旧>无线电收音机
+v. 用无线电报与…联系，打无线电话
 [例]
 1.Wireless headphones are very convenient. 无线耳机非常方便。
 2.The wireless internet connection is stable. 无线网络连接稳定。
 3.Wireless charging technology is becoming more common. 无线充电技术正变得越来越普遍。
-[联] wire(电线) + -less(没有)——> 没有电线。
+[搭]
+1.wireless communication 无线通信
+2.wireless internet 无线互联网；无线上网；无线网际网路
+3.wireless station 无线电台
+[联] wire(电线) + -less(没有) ——> 没有电线
 
 high-definition / ˌhaɪ dɪˈfɪnɪʃn /
-adj.高清的
+adj. 高清的
 [例]
 1.High-definition TVs provide better picture quality. 高清电视提供更好的画质。
 2.High-definition videos are more immersive. 高清视频更具沉浸感。
 3.High-definition cameras capture more details. 高清相机能捕捉更多细节。
-[联] high(高的) + definition(清晰度)——> 清晰度高的。
+[联] high(高的) + definition(清晰度)——> 清晰度高的
 
 audio / ˈɔːdioʊ /
-n.音频，声音
+adj. 声音的，音频的
+n. 声音，音频
 [例]
 1.Audio recordings preserve memories. 音频记录保存了回忆。
 2.The audio quality of the concert was excellent. 音乐会的音质很棒。
 3.Audio books are great for multitasking. 音频书非常适合多任务处理。
-[联] audio(声音) ——> 与听觉相关。
+[搭]
+1.digital audio 数字音频
+2.audio signal 声频信号；可听声信号
+3.audio frequency 音频；成音频率
+[联] audio(声音) ——> 与听觉相关
 
-vision / ˈvɪʒn /
-n.视觉；视力；想象力；远见
+vision / ˈvɪʒ(ə)n /
+n. 幻想，想象；幻觉，幻象；构想，展望；眼力，远见卓识；视力，视觉；视野；美好的人（或事物）；（电视或电影的）图像
 [例]
 1.Good vision is essential for driving safely. 视力对于安全驾驶至关重要。
 2.Her vision of the future is inspiring. 她对未来的想法鼓舞人心。
 3.Visionaries often change the world. 先知者常常改变世界。
-[联] vis-(看) + -ion(结果)——> 看的结果。
+[搭]
+1.computer vision 计算机视觉；机械视觉
+2.machine vision 机器视觉；计算机视觉
+3.field of vision 视野；[光]视场
+[联] vis-(看) + -ion(结果) ——> 看的结果
 
 fantasy / ˈfæntəsi /
-n.幻想；空想；幻想作品
+n. 幻想，想象；想象产物，幻想作品；虚拟比赛（游戏）；幻想曲，集成曲；期望
+v. 想象，幻想
 [例]
 1.His fantasy world is full of magic. 他的幻想世界充满了魔法。
 2.Fantasy novels are very popular among teenagers. 幻想小说在青少年中非常受欢迎。
 3.It's hard to separate reality from fantasy. 很难区分现实和幻想。
-[联] fan-(喜欢) + -tasy(结果)——> 喜欢的结果。
+[搭]
+1.sex fantasy 性幻想
+[联] fan-(喜欢) + -tasy(结果) ——> 喜欢的结果。
 
 science fiction / ˈsaɪəns ˈfɪkʃn /
 [例]
@@ -882,251 +943,216 @@ science fiction / ˈsaɪəns ˈfɪkʃn /
 2.His favorite genre is science fiction. 他最喜欢的是科幻小说。
 3.Science fiction writers imagine what the future might be like. 科幻作家想象未来可能是什么样子。
 
-pump /pʌmp/, /pʊmp/
-n. 泵；抽水机
+pump / pʌmp /
+n. 泵，抽水机；<英>平底鞋，轻软舞鞋；<美>高跟无带女鞋；抽吸，泵送；（生理）泵（指特定离子逆浓度梯度进行的跨膜主动运输机制）
+v. 用泵（或泵样器官等）输送；快速上下（或内外）运动；涌出，涌流；<非正式> 盘问，套问；<非正式> 让某人使用大量药物
 [例]
 1.The water pump is broken, so we can't get water from the well. 水泵坏了，所以我们无法从井里取水。
 2.The firemen used a hydraulic pump to extinguish the fire. 消防员使用液压泵来灭火。
 3.The oil pump in my car needs to be replaced. 我车里的油泵需要更换。
 [搭]
-hand pump 手动泵；water pump 水泵。
+1.hand pump 手动泵
+2.water pump 水泵
+3.oil pump 机油泵；机 油泵；机油帮浦；油帮浦
 [联] pump 可以联想为“泵”送液体或气体。
     
-generator /ˈdʒenəreɪtər/
-n. 发电机；发生器
-    [例]
-    1.The power generator provides electricity for the entire village. 发电机为整个村庄提供电力。
-    2.A wind turbine is a type of renewable energy generator. 风力涡轮机是一种可再生能源发生器。
-    3.The emergency generator automatically starts when there is a power outage. 紧急发电机在停电时自动启动。
-    [搭] 
-    electric generator 电动发电机。
-    [联] generator 可以联想到“生成”能量。
+generator / ˈdʒenəreɪtər /
+n. 发电机；产生者；电力公司；母点，母线，母面
+[例]
+1.The power generator provides electricity for the entire village. 发电机为整个村庄提供电力。
+2.A wind turbine is a type of renewable energy generator. 风力涡轮机是一种可再生能源发生器。
+3.The emergency generator automatically starts when there is a power outage. 紧急发电机在停电时自动启动。
+[搭]
+1.electric generator 电动发电机
+2.signal generator 信号发生器；讯号产生机
+3.generator set [工]发电机组
+[联] generator 可以联想到“生成”能量
     
-gear /ɡɪr/
-n. 齿轮；装备；v. 使适合
-    [例]
-    1.The car is in gear and ready to drive. 汽车挂挡准备好了。
-    2.We need to gear our strategy to the new market conditions. 我们需要调整策略以适应新的市场条件。
-    3.The mountain bike has several gears for different terrains. 山地自行车有多个齿轮以适应不同的地形。
-    [搭]
-    gear shift 变速杆；in gear 在档位上。
-    [联] gear 可以联想为机械中的“齿轮”。
+gear / ɡɪr /
+n. 排挡，齿轮；（用于特定目的的）装备，服装；（做事的）速度，努力；（特定用途的）器械，装置；<非正式>毒品；<非正式>所有物，财物
+v. 使变速，使调挡
+[例]
+1.The car is in gear and ready to drive. 汽车挂挡准备好了。
+2.We need to gear our strategy to the new market conditions. 我们需要调整策略以适应新的市场条件。
+3.The mountain bike has several gears for different terrains. 山地自行车有多个齿轮以适应不同的地形。
+[搭]
+1.gear shift 变速杆
+2.in gear 在档位上
+[联] gear 可以联想为机械中的“齿轮”
     
-pivot /ˈpɪvət/
-n. 枢轴；支点；v. 以……为转轴旋转
-    [例]
-    1.The door rotates around its pivot point. 门围绕着枢轴点旋转。
-    2.The company pivoted its business model to focus on online sales. 公司将其商业模式转向专注于在线销售。
-    3.The decision was pivotal in her career. 这个决定在其职业生涯中起到了关键作用。
-    [搭] 
-    pivot point 枢轴点。
-    [联] pivot 可以联想为“旋转”的中心点。
+pivot / ˈpɪvət /
+n. 支点，枢轴；最重要的人（或事物），核心；转动，旋转；策应位置；<美>中锋
+v.（使）在枢轴上旋转；（以脚为支点）转身；（为机械装置）提供枢轴
+[例]
+1.The door rotates around its pivot point. 门围绕着枢轴点旋转。
+2.The company pivoted its business model to focus on online sales. 公司将其商业模式转向专注于在线销售。
+3.The decision was pivotal in her career. 这个决定在其职业生涯中起到了关键作用。
+[搭]
+1.pivot point 枢轴点
+2.pivot pin 中心承枢；中心销钉；枢轴销
+3.pivot table 数据透视表
+[联] pivot 可以联想为“旋转”的中心点
     
-hydraulic /haɪˈdrɔːlɪk/
-adj. 液压的；水力的
-    [例]
-    1.Hydraulic systems are used to control the brakes in most cars. 液压系统用于控制大多数汽车的刹车。
-    2.The dam uses hydraulic power to generate electricity. 大坝利用水力发电。
-    3.Hydraulic lifts are commonly used in construction. 液压升降机常用于建筑施工。
-    [搭]
-    hydraulic system 液压系统；hydraulic press 液压机。
-    [联] hydraulic 可以联想到“液”体驱动。
+hydraulic / haɪˈdrɔːlɪk /
+adj.（通过水管等）液压的，水力的；（机器）液压驱动的；与水利（或液压）系统有关的；（水泥）水下凝固的；（与）水力学（有关）的
+[例]
+1.Hydraulic systems are used to control the brakes in most cars. 液压系统用于控制大多数汽车的刹车。
+2.The dam uses hydraulic power to generate electricity. 大坝利用水力发电。
+3.Hydraulic lifts are commonly used in construction. 液压升降机常用于建筑施工。
+[搭]
+1.hydraulic system 液压系统
+2.hydraulic press 液压机
+[联] hydraulic 可以联想到“液”体驱动
     
-drainage /ˈdreɪnɪdʒ/
-n. 排水；排水设备
-    [例]
-    1.Improving drainage is essential to prevent flooding. 改善排水是防止洪水的关键。
-    2.The drainage system in this area needs upgrading. 这个地区的排水系统需要升级。
-    3.The drainage pipes were clogged with debris. 排水管被杂物堵塞了。
-    [搭]
-    sewage drainage 污水排放；storm drainage 雨水排放。
-    [联] drainage 可以联想到“排出”水。
+drainage / ˈdreɪnɪdʒ /
+n. 排水系统；排水，排泄；排出的水，污水
+[例]
+1.Improving drainage is essential to prevent flooding. 改善排水是防止洪水的关键。
+2.The drainage system in this area needs upgrading. 这个地区的排水系统需要升级。
+3.The drainage pipes were clogged with debris. 排水管被杂物堵塞了。
+[搭]
+1.sewage drainage 污水排放
+2.storm drainage 雨水排放
+[联] drainage 可以联想到“排出”水
     
-sewage /ˈsuːɪdʒ/
+sewage / ˈsuːɪdʒ /
 n. 污水；污物
-    [例]
-    1.Treatment plants clean sewage before releasing it into rivers. 处理厂在将污水排入河流之前对其进行净化。
-    2.The city's sewage system is over 100 years old. 城市的污水处理系统已有100多年的历史。
-    3.Sewage pollution poses a health risk to nearby communities. 污水污染对附近社区构成健康风险。
-    [搭]
-    sewage treatment 污水处理。
-    [联] sewage 可以联想为“污水”处理。
+[例]
+1.Treatment plants clean sewage before releasing it into rivers. 处理厂在将污水排入河流之前对其进行净化。
+2.The city's sewage system is over 100 years old. 城市的污水处理系统已有100多年的历史。
+3.Sewage pollution poses a health risk to nearby communities. 污水污染对附近社区构成健康风险。
+[搭]
+1.sewage treatment 废水处理；污水处理法
+2.sewage disposal 污水处理
+3.sewage treatment plant 污水处理厂
+[联] sewage 可以联想为“污水”处理
     
-ventilation /ˌven.tɪˈleɪ.ʃən/
-n. 通风；换气；新鲜空气供应
-    [例]
-    1.Good ventilation is important for preventing mold growth. 良好的通风有助于防止霉菌生长。
-    2.The new building has excellent ventilation systems. 新建筑配备了优秀的通风系统。
-    3.Open windows provide natural ventilation. 开窗提供自然通风。
-    [搭]
-    air ventilation 空气流通；ventilation fan 换气扇。
-    [联] ventilation 可以联想为“通风”换气。
+ventilation / ˌventɪˈleɪʃ(ə)n /
+n. 通风，通风系统；（医）（尤指人工）给肺提供空气；（对意见、问题、抱怨等的）公开讨论（或调查）
+[例]
+1.Good ventilation is important for preventing mold growth. 良好的通风有助于防止霉菌生长。
+2.The new building has excellent ventilation systems. 新建筑配备了优秀的通风系统。
+3.Open windows provide natural ventilation. 开窗提供自然通风。
+[搭]
+1.air ventilation 空气流通
+2.ventilation fan 换气扇
+[联] ventilation 可以联想为“通风”换气
     
-compress /kəmˈpres/, /ˈkɑːmprɛs/
-v. 压缩；压缩机
-    [例]
-    1.The compressor compresses air to power the engine. 压缩机压缩空气以驱动发动机。
-    2.You should compress the file before sending it via email. 在通过电子邮件发送文件之前，你应该压缩它。
-    3.The doctor asked him to compress the wound with a cloth. 医生让他用布压住伤口。
-    [搭]
-    compress gas 压缩气体。
-    [联] compress 可以联想为“压”缩体积。
+compress / kəmˈpres /
+v.（使）压紧，压缩；精简，浓缩；压缩（文件）；缩短（时间）
+n.（止血、减痛等的）敷布，压布
+[例]
+1.The compressor compresses air to power the engine. 压缩机压缩空气以驱动发动机。
+2.You should compress the file before sending it via email. 在通过电子邮件发送文件之前，你应该压缩它。
+3.The doctor asked him to compress the wound with a cloth. 医生让他用布压住伤口。
+[搭]
+1.compress gas 压缩气体
+2.hot compress 热敷法
+3.cold compress 冷敷法；冷敷布
+[联] compress 可以联想为“压”缩体积
     
-condense /kənˈdens/, /kənˈdens/
-v. 冷凝；浓缩；压缩
-    [例]
-    1.Water vapor condenses into liquid water when it cools. 水蒸气冷却后会凝结成液态水。
-    2.The book condenses years of research into a single volume. 这本书将多年的研究成果浓缩成一卷。
-    3.The scientist studied how gases condense under high pressure. 科学家研究气体在高压下如何冷凝。
-    [搭]
-    condense steam 冷凝蒸汽。
-    [联] condense 可以联想为“浓缩”物质。refine /rɪˈfaɪn/, /ˈriːfaɪn/
-v. 精炼，提纯；使精炼，使完美；改善，改进。
+condense / kənˈdens /
+v. 冷凝，凝结；压缩，简缩；浓缩，变浓
+1.Water vapor condenses into liquid water when it cools. 水蒸气冷却后会凝结成液态水。
+2.The book condenses years of research into a single volume. 这本书将多年的研究成果浓缩成一卷。
+3.The scientist studied how gases condense under high pressure. 科学家研究气体在高压下如何冷凝。
+[搭]
+1.condense steam 冷凝蒸汽
+2.condense into 把…缩短；把…压缩
+[联] condense 可以联想为“浓缩”物质
+
+refine / rɪˈfaɪn /
+v. 精炼，提纯；改进，改善；使……文雅
 [例]
 1.To refine gold is to extract impurities from it. 提炼黄金就是去除其中的杂质。
 2.We need to refine our ideas before presenting them. 我们需要在展示之前完善我们的想法。
 3.Refined language is important for formal writing. 正式写作中使用精炼的语言很重要。
 [搭] 
 1.refine oil 炼油
-refine oneself 提高自身修养。
-[联] re- (再次) + fine (精细的) ——> 再次精细处理。
+2.refine oneself 提高自身修养
+[联] re- (再次) + fine (精细的) ——> 再次精细处理
 
-devise /dɪˈvaɪz/, /viˈzaɪz/
-v. 设计，发明；策划，想出（计划、办法等）
+devise / dɪˈvaɪz /
+v. 设计，发明；<法律>（通过遗嘱）遗赠（不动产）；<古>图谋
+n. <法律>（遗嘱中）遗赠不动产的条款
 [例]
 1.He devised a new method to solve the problem. 他想出了一个解决这个问题的新方法。
 2.They devised a plan to improve their sales. 他们策划了一个提高销售的计划。
 3.The teacher devised an interesting game for the students. 老师为学生设计了一个有趣的活动。
 [搭]
-devise a plan 制定计划
-devise a solution 提出解决方案
-[联] dev (做)+ ise (动词后缀)——> 设计，构思。
+1.devise a plan 制定计划
+2.devise a solution 提出解决方案
+[联] dev (做)+ ise (动词后缀) ——> 设计，构思
 
-foundation /fənˈdeɪʃn/
-n. 基础，地基；创立，建立；基金会
+foundation / faʊnˈdeɪʃ(ə)n /
+n. 地基，基础；基本原理，根据；基金会；建立，创办；（化妆打底用的）粉底霜
 [例]
 1.The foundation of the building must be strong. 建筑物的基础必须牢固。
 2.The company was founded in 1980. 这家公司成立于1980年。
 3.The Red Cross is one of the most important foundations in the world. 红十字会是世界上最重要的基金会之一。
 [搭]
-lay the foundation 打下基础
-foundation stone 奠基石
-[联] found (找到)+ation(名词后缀)——> 找到事物的根本。
+1.lay the foundation 打下基础
+2.foundation stone 奠基石
+3.theoretical foundation 理论基础
+[联] found (找到) + ation(名词后缀) ——> 找到事物的根本
 
-device /dɪˈvaɪs/
-n. 装置，仪器；策略，手段
+device / dɪˈvaɪs /
+n. 装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表
 [例]
 1.The device is used to measure temperature. 这个装置用来测量温度。
 2.They used a clever device to catch the thief. 他们使用了一个巧妙的装置抓住了小偷。
 3.A mobile phone is a useful device in our daily life. 手机是我们日常生活中有用的装置。
 [搭]
-electronic device 电子设备
-[联] de (向下)+vice(看作vice)=向下看的东西，装置。
+1.electronic device 电子设备
+[联] de (向下) + vice(看作vice)=向下看的东西，装置
 
-estimate /ˈɛstɪmeɪt/
-v./n. 估计，估算；评价，评估
-[例]
-1.I estimate the cost to be around $500. 我估计费用大约是500美元。
-2.The engineer estimated the time needed for the project. 工程师估算了项目所需的时间。
-3.We can only estimate the size of the crowd. 我们只能估计人群的规模。
-[搭]
-cost estimate 成本估算
-[联] est (估计)+imate(动词后缀)——> 估计。
-
-gather /ˈɡeðɚ/
-v. 收集，聚集；推测，推断
-[例]
-1.Gather your belongings before you leave. 离开前把你的东西收好。
-2.People gathered in the square to celebrate. 人们聚集在广场上庆祝。
-3.From what he said, I gather that he is not happy. 从他所说的话中，我推断他不开心。
-[搭]
-gather information 收集信息
-[联] get (得到)+her(一起)——> 收集在一起。
-
-network /ˈnɛtwɝk/
-n. 网络；人际关系网；广播网
-[例]
-1.The internet is a global network. 互联网是一个全球网络。
-2.She has an extensive network of contacts in the industry. 她在这个行业里有人脉广泛的人际关系网。
-3.The company has its own broadcasting network. 这家公司有自己的广播网。
-[搭]
-social network 社交网络
-[联] net(网)+work(工作)——> 网状的工作结构。
-
-cassette /kəˈsɛt/
-n. 盒式磁带；暗盒
-[例]
-1.I still have some old cassettes from my childhood. 我还有一些童年时代的旧磁带。
-2.The photographer loaded a cassette into the camera. 摄影师把暗盒装进了相机。
-3.Cassettes were once popular for music storage. 盒式磁带曾经是音乐存储的流行方式。
-[搭]
-audio cassette 录音磁带
-[联] cas(se)(盒子)+set(集合)——> 盒子里的东西。
-
-pump /pʌmp/
-n. 泵；抽水机 v. 用泵抽水；连续挤压
-[例]
-1.The water pump is broken. 这个水泵坏了。
-2.He pumped water from the well. 他从井里抽水。
-3.Her heart was pumping blood throughout her body. 她的心脏正在向全身泵送血液。
-[搭]
-water pump 抽水机
-[联] pump(泵)——> 抽取液体的工具。
-
-generator /ˈdʒɛnəˌreɪtɚ/
-n. 发电机；发生器
-[例]
-1.The generator provides electricity during power outages. 发电机在停电时提供电力。
-2.The wind turbine generator converts wind energy into electricity. 风力涡轮发电机将风能转化为电能。
-3.The emergency generator started automatically. 应急发电机自动启动了。
-[搭]
-electric generator 电动机
-[联] gen(er)(产生)+ator(名词后缀)——> 产生能量的机器。
-
-gear /ɡɪr/
-n. 齿轮；装备 v. 给...装备；调整，适应
-[例]
-1.The car's transmission has several gears. 这辆车的变速箱有几个档位。
-2.He geared himself up for the long hike. 他为长途徒步做好了准备。
-3.The company needs to gear its strategy to changing market conditions. 公司需要调整战略以适应不断变化的市场条件。
-[搭]
-gear shift 换挡
-[联] gear(齿轮)——> 机械装置。
-
-simplify /ˈsɪmplɪfaɪ/
-v. 简化，使单纯；使简易。
+simplify / ˈsɪmplɪfaɪ /
+v. 简化，使单纯；使简易
 [例]
 1.Simplifying the instructions will make them easier to follow. 简化指令会让它们更容易遵循。
 2.The software simplifies complex tasks. 这款软件简化了复杂任务。
 3.It's important to simplify your presentation for young audiences. 对于年轻观众来说，简化你的演讲内容很重要。
 [搭] 
 1.simplify life 简化生活
-simplify problems 化繁为简。
-[联] simple (简单的) + -ify (动词后缀) ——> 使其简单。
+2.simplify problems 化繁为简
+[联] simple (简单的) + -ify (动词后缀) ——> 使其简单
 
-purify /ˈpjʊrəfaɪ/
-v. 净化，提纯；使纯净，使清白。
+pure / pjʊr /
+adj. 纯的，不掺杂质的；血统纯的，纯种的；纯真的，贞洁的；干净的，不含有害物质的；无杂色的，清晰而优美的；完全的，纯粹的
+[例]
+1.This CD is pure bubblegum pop. 这张CD纯粹是“泡泡糖”流行音乐。
+2.It was pure, unadulterated hell. 那是纯粹的，十足的地狱。
+3.The story is pure moonshine. 这个故事纯属瞎编。
+[搭]
+1.pure water 纯水，净水；纯净水
+2.pure white 纯白；纯白色；纯洁白
+3.pure gold 纯金，足赤
+
+purify / ˈpjʊrɪfaɪ /
+v. 使（某物）洁净，净化；变纯净；洗涤（思想），净化（心灵）；提纯，精炼
 [例]
 1.Purify the water before drinking it. 饮用前净化水。
 2.The process of purifying metal removes unwanted elements. 提纯金属的过程去除了不需要的元素。
 3.Purify your thoughts and actions. 净化你的思想和行为。
 [搭] 
 1.purify oneself 自我净化
-purify air 净化空气。
-[联] pure (纯粹的) + -ify (动词后缀) ——> 使其纯净。
+2.purify air 净化空气
+[联] pure (纯粹的) + -ify (动词后缀) ——> 使其纯净
 
-filter /ˈfɪltər/
-v. 过滤；渗入；筛选。
+filter / ˈfɪltər /
+n. 过滤器；滤光器，滤声器，滤波器；过滤程序，过滤软件；（指示车辆转弯的）分流指示灯
+v. 过滤；渗入，透过；（消息、信息等）慢慢传开，走漏；缓慢进入，陆续步入；（车辆）看到分流指示灯的信号后转弯；（用程序）筛选
 [例]
 1.Filter the coffee through a paper filter. 用纸过滤器过滤咖啡。
 2.Let’s filter out the noise and focus on the music. 让我们排除噪音，专注于音乐。
 3.The sunlight filtered through the trees. 阳光透过树丛洒下。
 [搭] 
 1.filter coffee 过滤咖啡
-filter information 筛选信息。
-[联] filter (过滤器) + -er (名词后缀) ——> 过滤装置。
+2.filter information 筛选信息
+[联] filter (过滤器) + -er (名词后缀) ——> 过滤装置
 
-mode /moʊd/
+mode / moʊd /
+n. 方式，做法；（机器、设备的）运行方式，状态；（衣着、艺术等的）形式，风格；<非正式>（思想、情感或行为的）状态，状况
 n. 方式，模式；样式，风格；（服装）流行款式。
 [例]
 1.There are different modes of transportation available. 有多种交通方式可供选择。
@@ -1134,164 +1160,102 @@ n. 方式，模式；样式，风格；（服装）流行款式。
 3.Fashion modes change quickly. 流行款式变化很快。
 [搭] 
 1.modes of transport 交通工具
-standard mode 标准模式。
-[联] mode (模式) ——> 模仿自然现象的规律。
+2.standard mode 标准模式
+3.operation mode 操作方式
+5.mode of operation 操作方式；运行方式
+[联] mode (模式) ——> 模仿自然现象的规律
 
-mould /moʊld/ (美式), /məʊld/ (英式)
-n. 模型，模具；形状，外形；模式，典型。
+mould / moʊld /
+n. 模具，铸模；类型，个性；霉，霉菌；框架，型芯；松软沃土，腐殖土
+v. 使……成形，用模子制作，浇铸；影响，塑造；（使）紧贴于，吻合；（使）发霉
 [例]
 1.Use the mould to shape the clay. 用模具塑造粘土。
 2.His upbringing has moulded his personality. 他的成长环境塑造了他的性格。
 3.A good leader should set a positive mould. 一个好的领导者应该树立一个积极的榜样。
 [搭] 
 1.mould tools 模具工具
-mould society 社会模式。
-[联] mould (模具) ——> 制造形状的工具。
+2.mould society 社会模式
+3.injection mould 注塑模具
+4.mould design 模具设计；铸模设计
+[联] mould (模具) ——> 制造形状的工具
 
-prototype /ˈproʊtətaɪp/
-n. 原型，雏形；原型机。
+prototype / ˈproʊtətaɪp /
+n.（新型汽车、机器等的）原型，雏形；典型，范例；蓝本，最初形态；（电子）原型滤波网络；（生物、天体等的）原始型；（建筑、汽车等的）全真模型
+v. 制作（产品的）原型
 [例]
 1.The prototype of the car was tested last week. 这款汽车的原型上周进行了测试。
 2.The artist created a prototype for her sculpture. 艺术家为她的雕塑制作了一个原型。
 3.The smartphone is the prototype of modern communication. 这款智能手机是现代通信的原型。
 [搭] 
 1.prototypes of buildings 建筑原型
-design a prototype 设计原型。
-[联] proto- (最初的) + type (类型) ——> 最初的类型。
+2.design a prototype 设计原型
+3.prototype system [计]原型系统
+4.prototype theory 原型理论；原型说
+5.prototype test 原型测试，样机试验
+[联] proto- (最初的) + type (类型) ——> 最初的类型
 
-framework /ˈfreɪmwɜrk/
-n. 框架，结构；组织，体系。
+framework / ˈfreɪmwɜːrk /
+n. (建筑物或物体的）构架，结构；参照标准，准则；(社会、法律、政治等）框架
 [例]
 1.The framework of the building is complete. 建筑物的框架已完成。
 2.A clear framework is essential for teamwork. 明确的框架对于团队合作至关重要。
 3.The legal framework protects citizens' rights. 法律框架保护公民的权利。
 [搭] 
 1.framework agreement 框架协议
-legal framework 法律框架。
-[联] frame (框架) + work (工作) ——> 构建工作的结构。
+2.legal framework 法律框架
+3.basic framework 基本框架
+4.conceptual framework 概念框架；基本概念
+[联] frame (框架) + work (工作) ——> 构建工作的结构
 
-aspect /ˈæspekt/
-n. 方面，层面；外观，外貌；（事情的）一面。
+aspect / ˈæspekt /
+n. 方面，特色；朝向，方位；外表，外观；（动词的）体
+v.（行星与另一天体）形成角度关系
 [例]
 1.The economic aspect of the problem must be considered. 必须考虑这个问题的经济方面。
 2.From an artistic aspect, the painting is impressive. 从艺术角度来看，这幅画令人印象深刻。
 3.The political aspect of the issue needs further discussion. 这个问题的政治方面需要进一步讨论。
 [搭] 
 1.aspect ratio 宽高比
-aspect of life 生活的方方面面。
-[联] asp- (朝向) + -ect (词根) ——> 面朝的方向。operate / ˈɑːpəreɪt /  
-v. 运转，运作；经营，管理；起作用，发生影响  
+2.aspect of life 生活的方方面面
+3.negative aspect 否定体；否定式
+4.aspect angle 视界角；视线角；扫描角
+[联] asp- (朝向) + -ect (词根) ——> 面朝的方向
+
+operate / ˈɑːpəreɪt /
+v. 操纵，操作（机器或设备）；（机器等）运转，运行 ；管理，经营（企业、部门等）；（组织或公司）运营；（使）运行，（使）工作
 [例]  
-1. The machine operates smoothly. 这台机器运转平稳。  
-2. She operates her own business. 她经营自己的生意。  
-3. This medicine operates quickly. 这种药起效快。  
+1.The machine operates smoothly. 这台机器运转平稳。
+2.She operates her own business. 她经营自己的生意。
+3.This medicine operates quickly. 这种药起效快。
 [搭]  
 1.operate on 对……起作用；给……做手术  
 2.operate a system 操作系统  
 [联] opera (音乐作品) + te (动词后缀) ——> 从事某种活动。
 
-pivot / ˈpaɪvət /
-n. 支点；中心点；转折点  
-[例]  
-1.The company's success pivoted around their innovative marketing strategy. 公司的成功围绕着他们的创新营销策略展开。  
-2.She used her personal charm as a pivot to gain influence in the group. 她利用个人魅力作为支点，在团队中获得了影响力。  
-3.The debate centered on a pivotal point of economic policy. 辩论围绕一项经济政策的关键点展开。  
-[搭]  
-pivotal role 关键作用；中心角色  
-[联] pivo(t) - "point" 相关，与“点”相关  
-
-hydraulic / haɪˈdrɔːlɪk /
-adj. 液压的；水力的  
-[例]  
-1.Hydraulic systems are widely used in modern machinery. 液压系统被广泛应用于现代机械中。  
-2.The hydraulic lift helped us move heavy furniture easily. 液压升降机帮助我们轻松移动重家具。  
-3.Hydraulic power is clean and efficient for large-scale water projects. 液压动力在大型水利工程中清洁且高效。  
-[搭]  
-hydraulic press 液压机  
-[联] hydro (水) + l(a)u (液体) + ic (形容词后缀) ——> 水液体相关的  
-
-drainage / ˈdreɪnɪdʒ /
-n. 排水；排水系统；排干  
-[例]  
-1.Improving drainage is essential for preventing flooding. 改善排水系统对于防止洪水至关重要。  
-2.The drainage system in the city needs upgrading. 城市的排水系统需要升级。  
-3.Proper drainage is important for maintaining healthy soil. 合理的排水对于保持土壤健康很重要。  
-[搭]  
-storm drainage 系统雨水排放  
-[联] drain + -age 表示动作的结果  
-
-sewage / ˈsuːɪdʒ /
-n. 污水；下水道污水  
-[例]  
-1.The sewage treatment plant cleans up wastewater every day. 污水处理厂每天清理废水。  
-2.The leakage of sewage caused a public health crisis. 污水泄漏引发了公共卫生危机。  
-3.The new sewage system will reduce pollution significantly. 新的污水处理系统将大大减少污染。  
-[搭]  
-sewage pipe 污水管；sewage disposal 污水处理  
-[联] sew (缝纫) + -age (名词后缀)，引申为“处理后的水”  
-
-ventilation / ˌvɛntəˈleɪʃən /
-n. 通风；换气；通风设备  
-[例]  
-1.Good ventilation is crucial for maintaining indoor air quality. 良好的通风对保持室内空气质量至关重要。  
-2.The ventilation system in the building is outdated. 这栋楼的通风系统已经过时了。  
-3.Open windows provide natural ventilation. 开窗可以提供自然通风。  
-[搭]  
-air ventilation 空气流通  
-[联] vent (通风口) + -ilation 表示“过程”  
-
-compress / kəmˈprɛs /
-v. 压缩；压缩机压缩；压制  
-[例]  
-1.The compressor can compress gases into liquid form. 压缩机可以将气体压缩成液体形式。  
-2.I need to compress this file before sending it via email. 我需要在发送电子邮件之前压缩这个文件。  
-3.Compressing data reduces its size without losing information. 数据压缩可以在不丢失信息的情况下减小其大小。  
-[搭]  
-compressor 压缩机；compress gas 压缩气体  
-[联] com-(加强) + press(按压)  
-
-condense / kənˈdɛns /
-v. （使）凝结；浓缩；压缩  
-[例]  
-1.Water vapor condenses into droplets when it cools down. 水蒸气冷却时会凝结成水滴。  
-2.The book condenses years of research into one volume. 这本书将多年的研究成果浓缩成一卷。  
-3.The scientist found a way to condense the chemical reaction time. 科学家找到了一种方法来缩短化学反应时间。  
-[搭]  
-condensed milk 浓缩牛奶  
-[联] con-(加强) + dense(密集的)  
-
-refine / rɪˈfaɪn /
-v. 提炼；精炼；改进  
-[例]  
-1.The oil refinery processes crude oil into various products. 炼油厂将原油加工成各种产品。  
-2.She refined her writing skills over the years. 她多年来不断改进自己的写作技巧。  
-3.The company refined its product design to meet customer demands. 公司改进了产品设计以满足客户需求。  
-[搭]  
-refine metal 提炼金属  
-[联] re-(再次) + fine(精细的)  
-
 distil / dɪˈstɪl /
-v. 蒸馏；提取；提炼  
+v. 蒸馏，用蒸馏法提取；提炼，升华；散发
 [例]  
 1.Distilling seawater produces fresh water. 蒸馏海水可以生产淡水。  
 2.The chemist distilled the essence from the plant. 化学家从植物中提取出精华。  
 3.The process distils the complex ideas into simple terms. 这个过程将复杂的想法提炼成简单的术语。  
 [搭]  
-distil alcohol 蒸馏酒精  
+1.distil alcohol 蒸馏酒精
+2.vacuum distil 真空蒸馏；减压蒸馏
 [联] dis-(分离) + til(l)(液体)  
 
 phase / feɪz /
-n. 阶段；时期；相  
+n.（发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相
 [例]  
 1.The project is in its final phase. 项目处于最后阶段。  
 2.The moon goes through different phases each month. 月亮每个月都会经历不同的月相。  
 3.We are currently in the development phase of the plan. 我们目前正处于计划的开发阶段。  
 [搭]  
-phase out 逐步淘汰；phase in 逐步引入  
+1.phase out 逐步淘汰
+2.phase in 逐步引入
 [联] phas(e) - “阶段”
 
-facilitate / fəˈsɪlɪteɪt /  
-v. 促进，帮助；使便利，使容易  
+facilitate / fəˈsɪlɪteɪt /
+v. 使更容易，使便利；促进，推动
 [例]  
 1.New technology facilitates communication. 新技术促进了交流。  
 2.The app facilitates shopping. 这款应用使购物更加便捷。  
@@ -1299,23 +1263,26 @@ v. 促进，帮助；使便利，使容易
 [搭]  
 1.facilitate growth 促进增长  
 2.facilitate access 便于进入  
-[联] facil (容易的) + itate (动词后缀) ——> 使更容易。
+[联] facil (容易的) + itate (动词后缀) ——> 使更容易
 
-transform / trænsˈfɔːrm /  
-v. 改变，转变；使改观；使变形  
-n. 变化，转变  
+transform / trænsˈfɔːrm /
+v. 使改观，使变形，使转化；变换（电流）的电压；（数）变换（数学实体）
+n.（数，语言学）变换式，转换句；（数，语言学）转换规则
 [例]  
 1.The renovation transformed the old house. 翻新彻底改变了这栋旧房子。  
 2.His attitude towards life has been transformed. 他对生活的态度发生了转变。  
 3.The experiment transformed the liquid into gas. 实验将液体变成了气体。  
 [搭]  
 1.transform oneself 自我改造  
-2.transform a failure into success 把失败变成成功  
-[联] trans (跨) + form (形状) ——> 跨越原来的形状。
+2.transform a failure into success 把失败变成成功
+3.fourier transform 傅里叶变换
+4.fast fourier transform 快速傅里叶变换
+5.transform into 转变成
+[联] trans (跨) + form (形状) ——> 跨越原来的形状
 
-convert / kənˈvɜːrt /  
-v. 转换，转变；使改变信仰  
-n. 改信者  
+convert / kənˈvɜːrt /
+v.（使）转变，（使）转换；（使）改变信仰，（使）皈依；（达阵后）得附加分；使……迷上，使……热衷于
+n. 皈依宗教者，改变信仰者；刚迷上……的人，最近开始热衷于……的人
 [例]  
 1.Can you convert this unit to meters? 你能把这个单位转换成米吗？  
 2.He converted to Christianity last year. 去年他皈依了基督教。  
@@ -1323,10 +1290,10 @@ n. 改信者
 [搭]  
 1.convert energy 转换能量  
 2.convert currency 兑换货币  
-[联] con (共同) + vert (转向) ——> 共同转向。
+[联] con (共同) + vert (转向) ——> 共同转向
 
-alter / ˈɔːltər /  
-v. 改变，更改；修改  
+alter / ˈɔːltər /
+v. 改变，改动；（使）变化；改（服装）；改建（某建筑）；<美>阉割
 [例]  
 1.She altered the dress to fit her better. 她把衣服改小了一些以更合身。  
 2.The weather altered our plans. 天气改变了我们的计划。  
@@ -1334,11 +1301,11 @@ v. 改变，更改；修改
 [搭]  
 1.alter one's appearance 改变外貌  
 2.alter the course of history 改变历史进程  
-[联] alt (高处) + er (动词后缀) ——> 在高处进行变化。
+[联] alt (高处) + er (动词后缀) ——> 在高处进行变化
 
-shift / ʃɪft /  
-v. 转移，移动；变换；改变  
-n. 转移，转移物；轮班  
+shift / ʃɪft /
+v.（使）移动，（使）转移；（使）转换到（另一个人或另一事物）；（使）改变意见（或信仰等）；<英，非正式>赶快；<美>换（挡）
+n. 改变，转变；轮班工作时间；轮班工作的人；（计算机键盘上的）Shift 键；（计算机）移位；<美>（机动车的）换挡装置；宽松直筒连衣裙（=shift dress）
 [例]  
 1.The focus shifted to another topic. 注意力转移到了另一个话题上。  
 2.I need to shift gears. 我需要换挡。  
@@ -1346,11 +1313,11 @@ n. 转移，转移物；轮班
 [搭]  
 1.shift the blame 推卸责任  
 2.shift the emphasis 转移重点  
-[联] shi (推) + ft (动词后缀) ——> 推动变化。
+[联] shi (推) + ft (动词后缀) ——> 推动变化
 
 turn / tɜːrn /  
-v. 转动；变得；转向  
-n. 转弯；时刻；轮到  
+v. 旋转，转动；转身，扭转（身体部位）；翻转；旋动，拧动；翻动（书页）；转向，拐（弯）；（路或河流）转弯；对准；（潮）涨落；（使）松开，释放
+n. 转动，旋转；转向；（道路的）转弯处；轮到的机会；（情况的）变化，转变；交替时刻；短小节目；短小节目表演者；散步，转一圈；（疾病的）一阵发作，不适
 [例]  
 1.Turn the key clockwise. 按顺时针方向转动钥匙。  
 2.The leaves turn brown in autumn. 秋天树叶变黄。  
@@ -1358,10 +1325,10 @@ n. 转弯；时刻；轮到
 [搭]  
 1.turn left 向左转  
 2.turn the other cheek 忍受侮辱  
-[联] tur (旋转) + n (名词后缀) ——> 转动的东西。
+[联] tur (旋转) + n (名词后缀) ——> 转动的东西
 
-adapt / əˈdæpt /  
-v. 适应；改编；使适合  
+adapt / əˈdæpt /
+v. 适应；调整，使适合；改编；改造，改装
 [例]  
 1.He adapted well to the new environment. 他很好地适应了新环境。  
 2.The book was adapted into a movie. 这本书被改编成了电影。  
@@ -1369,146 +1336,157 @@ v. 适应；改编；使适合
 [搭]  
 1.adapt to the situation 适应形势  
 2.adapt a story 改编故事  
-[联] ad (向) + apt (适合的) ——> 向适合的方向发展。
+[联] ad (向) + apt (适合的) ——> 向适合的方向发展
 
-adjust / əˈdʒʌst /  
-v. 调整，调节；校准；适应  
+adjust / əˈdʒʌst /
+v. 调整，调节；整理（衣服）；适应，习惯；（保险理赔时）理算，评估（损失，损害）
 [例]  
 1.I need to adjust my glasses. 我需要调整我的眼镜。  
 2.The company adjusted its prices. 公司调整了价格。  
 3.She quickly adjusted to the new job. 她很快适应了新工作。  
 [搭]  
 1.adjust the volume 调节音量  
-2.adjust the clock 校正钟表  
-[联] ad (向) + just (正确的) ——> 向正确方向修正。pinpoint /ˈpɪnpɔɪnt/, /paɪnˈpɔɪnt/
-v. 精确指出；确定（动词形式）
-adj. 精确的；准确的（形容词形式）
+2.adjust the clock 校正钟表
+3.adjust and control 调控
+4.adjust price 调整价格
+[联] ad (向) + just (正确的) ——> 向正确方向修正
+
+pinpoint / ˈpɪnpɔɪnt /
+v. 精准确定（位置或时间）；准确解释，查明
+adj. 准确的；极小的
+n. 极小的范围，光点；针尖
 [例]
 1.I can't pinpoint exactly where I left my keys. 我不能确切地指出我把钥匙落在哪里了。
 2.The researchers were able to pinpoint the source of the infection. 研究人员能够精确地找到感染源。
 3.We need to pinpoint the key issues before we make any decisions. 在做任何决定之前，我们需要明确关键问题。
-[搭] pinpoint analysis 精确分析；pinpoint location 精确定位
-[联] pin (大头针) + point (点)——>用大头针扎出一个点。
+[搭]
+1.pinpoint analysis 精确分析
+2.pinpoint location 精确定位
+[联] pin (大头针) + point (点) ——> 用大头针扎出一个点
 
-accurate /ˈækjərət/
-adj. 准确的；精确的
+accurate / ˈækjərət /
+adj. 准确的，精确的；（工具，方法）精密的；正确无误的；（武器、投掷）精准的
 [例]
 1.The measurement must be accurate to within one millimeter. 这个测量值必须精确到一毫米以内。
 2.His report was accurate and detailed. 他的报告既准确又详细。
 3.The clock is very accurate. 这个钟非常准。
-[搭] accurate data 准确的数据；accurate information 准确的信息
-[联] ac- (加强意义) + cur (关心) + -ate (形容词后缀)——> 关心得一丝不苟。
+[搭]
+1.accurate data 准确的数据
+2.accurate information 准确的信息
+[联] ac- (加强意义) + cur (关心) + -ate (形容词后缀) ——> 关心得一丝不苟
 
-precise /prɪˈsaɪs/
-adj. 精确的；准确的
+precise / prɪˈsaɪs /
+adj. 精确的，准确的；恰好的，确切的；（人）严格的，一丝不苟的
 [例]
 1.The scientist gave a precise explanation of the phenomenon. 科学家对这一现象给出了精确的解释。
 2.Precise measurements are essential for this experiment. 这个实验需要精确的测量。
 3.He always speaks in precise language. 他总是用精确的语言说话。
-[搭] precise calculation 精确计算；precise definition 精确定义
-[联] pre- (预先) + cis (切) + -e (形容词后缀)——> 切割得恰到好处。
+[搭]
+1.precise calculation 精确计算
+2.precise definition 精确定义
+[联] pre- (预先) + cis (切) + -e (形容词后缀) ——> 切割得恰到好处
 
-correct /kəˈrɛkt/
-v. 改正；纠正（动词形式）
-adj. 正确的；恰当的（形容词形式）
+correct / kəˈrekt /
+adj. 正确的，无误的；恰当的，合适的；（行为）合乎礼节的，得体的；（行为）被人认可的，赞许的
+v. 改正，纠正；批改；指出错误；（医疗）矫正
 [例]
 1.I need to correct my mistakes. 我需要改正我的错误。
 2.The answer you gave is correct. 你给出的答案是正确的。
 3.Correct your posture when sitting. 坐着的时候要端正姿势。
-[搭] correct mistakes 改正错误；correct oneself 纠正自己
-[联] cor- (加强意义) + rect (直)——> 使变直。
+[搭]
+1.correct mistakes 改正错误
+2.correct oneself 纠正自己
+3.correct operation 正确动作
+[联] cor- (加强意义) + rect (直) ——> 使变直
 
-error /ˈɛrər/
-n. 错误；误差
+error / ˈerər /
+n. 错误，差错；（棒球、网球等运动中的）失误
 [例]
 1.There is no error in your work. 你的工作没有错误。
 2.The computer program has detected an error. 计算机程序检测到了一个错误。
 3.It's easy to make an error in judgment. 容易在判断上犯错。
-[搭] human error 人为错误；calculation error 计算错误
-[联] e- (向外) + rror (混乱)——> 弄乱了。
+[搭]
+1.human error 人为错误
+2.calculation error 计算错误
+[联] e- (向外) + rror (混乱) ——> 弄乱了
 
-flaw /flɔː/
-n. 缺陷；瑕疵
+flaw / flɔː /
+n. 缺点，缺陷；裂痕，瑕疵
+v. 削弱，使失效
 [例]
 1.There is a flaw in the design. 设计中有缺陷。
 2.The glass had a small flaw in it. 这块玻璃有个小瑕疵。
 3.Nothing is perfect; there will always be some flaws. 没有十全十美的东西，总会有一些瑕疵。
-[搭] structural flaw 结构缺陷；design flaw 设计缺陷
-[联] fl- (流动) + aw (法律)——> 流动的法律漏洞。
+[搭]
+1.structural flaw 结构缺陷
+2.design flaw 设计缺陷
+[联] fl- (流动) + aw (法律) ——> 流动的法律漏洞
 
-fault /fɔːlt/
-n. 错误；过失；缺点
+fault / fɔːlt /
+n. 错误；责任，过错；缺点，故障；断层；发球失误
+v. 挑剔，指责；发球失误；产生断层；<古>犯错误，做错事
 [例]
 1.It's not your fault. 这不是你的错。
 2.The company found a fault in the product. 公司发现了产品的故障。
 3.Everyone has their own faults. 每个人都有自己的缺点。
-[搭] fault line 断层线；find fault with 找茬；责备
-[联] f- (破坏) + ault (跳跃)——> 跳跃式破坏。
+[搭]
+1.fault line 断层线
+2.find fault with 找茬；责备
+[联] f- (破坏) + ault (跳跃) ——> 跳跃式破坏
 
-stumble /ˈstʌmbl/
-v. 绊倒；结巴地说
+stumble / ˈstʌmb(ə)l /
+v. 绊脚，绊跌；跌跌撞撞地走，蹒跚而行；结结巴巴地说；偶然发现；（努力要获得某物时）出岔子，出差错；失足；使……困惑；使……绊倒
+n. 绊倒；跌跌撞撞地走，蹒跚而行；错误，差错
 [例]
 1.She stumbled over the rock. 她被石头绊了一下。
 2.He stumbled over his words. 他说话结巴了。
 3.I stumbled upon an old friend. 我偶然遇到了一位老朋友。
-[搭] stumble into 偶然进入；stumble across 偶然发现
-[联] st- (撞击) + umble (摇晃)——> 撞击后摇晃。
+[搭]
+1.stumble into 偶然进入
+2.stumble across 偶然发现
+[联] st- (撞击) + umble (摇晃) ——> 撞击后摇晃
 
-contingency /kənˈtɪndʒənsi/
-n. 偶发事件；意外情况
+contingency / kənˈtɪndʒənsi /
+n. 可能发生的事，不测事件；应急措施，应急储备；应急开支；可能性，意外
+adj.（计划或措施）未雨绸缪的，应急的
 [例]
 1.We need to prepare for all contingencies. 我们需要为所有可能的情况做好准备。
 2.An emergency fund is important for dealing with contingencies. 应急基金对于处理突发事件很重要。
 3.It's impossible to predict every contingency. 不可能预测到每一种突发情况。
-[搭] contingency plan 应急计划；contingency fund 应急基金
-[联] con- (一起) + tingent (依赖的) + -cy (名词后缀)——> 一起依赖的情况。
+[搭]
+1.contingency plan 应急计划
+2.contingency fund 应急基金
+[联] con- (一起) + tingent (依赖的) + -cy (名词后缀) ——> 一起依赖的情况。
 
-circumstance /ˈsɜrkəmstæns/
-n. 情况；境遇
+circumstance / ˈsɜːrkəmstæns /
+n. 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇
+v. 处于某种情况
 [例]
 1.The circumstances were against us. 情况对我们不利。
 2.His financial circumstances have improved. 他的经济状况有所改善。
 3.Under these circumstances, we must act quickly. 在这种情况下，我们必须迅速行动。
-[搭] in circumstances 在情况下；under no circumstances 决不
-[联] circum- (周围) + stance (站立)——> 四周站立的情况。
-
-operate / ˈɑːpəreɪt /, / ˈɑːrpəteɪt /
-v. 操作，运作；动手术；经营，管理。
-[例]
-1.The machine operates automatically. 这台机器自动操作。
-2.Doctors will operate on him tomorrow. 医生明天将为他做手术。
-3.They operate a small business. 他们经营一家小公司。
 [搭]
-1.operate machinery 操作机械
-operate a hospital 经营医院
-[联] opera (歌剧) + te → 操控(设备)像指挥歌剧一样。
-
-pinpoint / ˈpɪnpɔɪnt /
-v. 精确指出，确定；准确找到。
-[例]
-1.We need to pinpoint the source of the problem. 我们需要精确找出问题的根源。
-2.She pinpointed the exact location of the treasure. 她准确找到了宝藏的确切位置。
-3.The report pinpoints several areas for improvement. 报告精确指出了几个需要改进的领域。
-[搭]
-pinpoint errors 找出错误
-pinpoint details 确定细节
-[联] pin (大头针) + point (点) → 用大头针定位，即精准定位。
+1.in circumstances 在情况下
+2.under no circumstances 决不
+[联] circum- (周围) + stance (站立) ——> 四周站立的情况
 
 mistake / mɪˈsteɪk /
-n. 错误；误会；弄错
-v. 弄错；误解；误认
+n. 错误，过失；（用词或数字上的）错误，口误，笔误；（令人后悔的）错误
+v. 误解，误会；错误判断；把……误认为
 [例]
 1.I made a mistake in my calculations. 我的计算中出现了一个错误。
 2.Don't mistake his silence for agreement. 别误以为他的沉默表示同意。
 3.He mistook her for his sister. 他误把她当成了自己的妹妹。
 [搭]
 1.make no mistake 不犯错误
-by mistake 出于误会导致的错误
-[联] mis- (错误的) + take (拿取) → 拿错了东西。
+2.by mistake 出于误会导致的错误
+[联] mis- (错误的) + take (拿取) ——> 拿错了东西
 
 wrong / rɔːŋ /
-adj. 错误的；不正确的；不公正的
-adv. 错误地；不公正地；坏事地
+adj. 错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的
+adv. 错误地，不符合事实地；（方式或方向）不适当地，不适宜地；出问题；不正当地
+n. 坏事，不道德行为， 错误的行为（或情况）；冤枉，不公平的行为
+v. 不公正地对待，冤枉
 [例]
 1.This is the wrong answer. 这是错误的答案。
 2.You're doing it all wrong. 你完全做错了。
@@ -1516,5 +1494,5 @@ adv. 错误地；不公正地；坏事地
 [搭]
 1.be wrong about 对……判断错误
 get something wrong 弄错某事
-[联] wr- (混乱) + ong (长音) → 事情变得一团糟。
+[联] wr- (混乱) + ong (长音) ——> 事情变得一团糟
 
