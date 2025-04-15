@@ -1937,8 +1937,10 @@ n. 骑自行车；自行车旅行
 1.Cycling is good for your health. 骑自行车对你的健康有好处。
 2.My favorite hobby is cycling. 我最喜欢的爱好是骑自行车。
 3.They went on a cycling trip last month. 上个月他们去了一次自行车旅行。
-[搭] mountain cycling 山地自行车；road cycling 公路自行车
-[联] cycle (循环) + -ing (动名词)。
+[搭]
+1.mountain cycling 山地自行车
+2.road cycling 公路自行车
+[联] cycle (循环) + -ing (动名词)
 
 cyclist / ˈsaɪklɪst /
 n. 骑自行车的人
@@ -1946,135 +1948,166 @@ n. 骑自行车的人
 1.The cyclist won the race easily. 这位自行车手轻松赢得了比赛。
 2.A cyclist was hit by a car yesterday. 昨天一位自行车手被一辆车撞了。
 3.All cyclists must wear helmets. 所有骑自行车的人都必须戴头盔。
-[搭] professional cyclist 专业自行车手；amateur cyclist 业余自行车手
-[联] cycle (循环) + -ist (表示从事某职业的人)。
+[搭]
+1.professional cyclist 专业自行车手
+2.amateur cyclist 业余自行车手
+[联] cycle (循环) + -ist (表示从事某职业的人)
 
 bicycle / ˈbaɪsɪkl /
-n. 自行车 v. 骑自行车
+n. 单车，自行车
+v. 骑自行车
 [例]
 1.I use my bicycle to go to work. 我用我的自行车去上班。
 2.They bicycle around the city every weekend. 每个周末他们都骑自行车环游城市。
 3.The children learned to ride a bicycle last summer. 孩子们去年夏天学会了骑自行车。
-[搭] bicycle chain 自行车链条；bicycle repair 自行车修理
-[联] bi- (二) + cycle (循环)。
-
-cycling / ˈsaɪkliŋ /
-n. 骑自行车；自行车旅行
-[例]
-1.Cycling is good for your health. 骑自行车对你的健康有好处。
-2.My favorite hobby is cycling. 我最喜欢的爱好是骑自行车。
-3.They went on a cycling trip last month. 上个月他们去了一次自行车旅行。
-[搭] mountain cycling 山地自行车；road cycling 公路自行车
-[联] cycle (循环) + -ing (动名词)。
+[搭]
+1.bicycle chain 自行车链条
+2.bicycle repair 自行车修理
+[联] bi- (二) + cycle (循环)
 
 dive / daɪv /
-v. 跳水；潜水；俯冲 n. 跳水；潜水；突然下降
+v. 跳水；潜水；突然大幅贬值，暴跌；下降，下潜；扑向，冲向；（飞机，鸟）俯冲；热情投身于；快速伸入（包、口袋等）；（对方阻截时）假摔
+n. 跳水；潜水；俯冲；突降，暴跌；冲，扑；（遇到阻截时的）假摔；低级的餐馆（或酒吧、娱乐场所）
 [例]
 1.The diver dived into the pool. 这位跳水运动员跳入了游泳池。
 2.Birds dive to catch their prey. 鸟类俯冲捕捉猎物。
 3.The stock market dove after the news. 新闻传出后，股市大跌。
-[搭] dive bar 酒吧（俚语）；scuba diving 潜水
-[联] dive (跳水) + -ing (动名词)。
+[搭]
+1.dive bar 酒吧（俚语）
+2.scuba diving 潜水
+[联] dive (跳水) + -ing (动名词)
 
 drift / drɪft /
-v. 漂流；漂流；漫游 n. 漂流；漫游；漂积物
+v. 飘移，漂流；任其自然地（或不知不觉地）进入（某种状态）；流浪，漂泊；缓慢移动；传出；吹积
+n. 流动，趋势；吹积物，雪堆；主旨，大意；偏航；不作为，优柔寡断；丛生的植物；冰碛；水平巷道
 [例]
 1.The boat drifted away from the shore. 小船漂离了岸边。
 2.He drifted off to sleep during the meeting. 他在会议中不知不觉睡着了。
 3.Sand drifted across the road. 沙子飘过道路。
-[搭] drift apart 漫不经心地分开；drift off 漫游，走神
-[联] drift (漂移) + -ing (动名词)。
+[搭]
+1.drift apart 漫不经心地分开
+2.drift off 漫游，走神
+[联] drift (漂移) + -ing (动名词)
 
 jump / dʒʌmp /
-v. 跳跃；跳跃；猛涨 n. 跳跃；跳跃；突然增加
+v. 跳，跃；跨越；快速（突然）移动；猛地一动；激增，暴涨；突然转换；略过；突然袭击（某人）；欢跃，雀跃；逃离，逃避；插（队）
+n. 跳，跃；惊跳；障碍物；激增；巨变；<非正式>心神不安；（桥牌）跳叫；<美，粗>性交
 [例]
 1.The cat jumped onto the table. 猫跳上了桌子。
 2.Prices jumped after the announcement. 公告后，价格猛涨。
 3.The athlete jumped over the hurdle. 运动员跳过了障碍物。
-[搭] jump rope 跳绳；high jump 跳高
-[联] jump (跳跃) + -ing (动名词)。
+[搭]
+1.jump rope 跳绳
+2.high jump 跳高
+[联] jump (跳跃) + -ing (动名词)
 
 leap / liːp /
-v. 跳跃；飞跃 n. 跳跃；飞跃
+v. 猛冲，突然而迅速地移动；剧增，猛涨；赶紧抓住（机会）；（心）猛跳；跳，跳跃
+n. 跳跃，跳高；骤变，激增；（对新事物的）认真尝试
 [例]
 1.The frog leapt across the pond. 青蛙跳过了池塘。
 2.The stock price leapt after the announcement. 公告后，股价飞涨。
 3.She leapt to her feet when she heard the news. 听到消息后她立刻站了起来。
-[搭] leap year 闰年；leap forward 飞速发展
-[联] leap (跳跃) + -ing (动名词)。plunge / plʌndʒ, plʌŋ/  
-v. （使）突然陷入；（使）突然掉进；猛冲；猛跳。  
+[搭]
+1.leap year 闰年
+2.leap forward 飞速发展
+[联] leap (跳跃) + -ing (动名词)
+
+plunge / plʌndʒ /
+v.（使）突然向前倒下（跌落）；猛推，猛插；投入（液体中以使淹没）；（价值）猛跌；（剧烈）颠簸，震荡；（马）猛地用后腿直立；陡然向下倾斜；骤然陷入
+n.（突然的）坠落；跳水，快速游泳；（价值或数量的）骤然下跌；突然陷入
+adj.（女式服装）领口低的（plunging）
 [例]  
 1.The diver plunged into the pool. 跳水运动员猛地跳入游泳池。  
 2.The stock market plunged after the announcement. 宣布后股票市场暴跌。  
 3.He plunged his hand into his pocket. 他猛地把手伸进口袋。  
 [搭]  
-plunge in 进入；参与；投身于。  
-[联] 想象“一头扎进水中”的画面来记忆。  
+1.plunge in 进入；参与；投身于
+2.plunge into 投入；跳入；突然或仓促地开始某事
+3.take the plunge 冒险尝试；采取决定性步骤
+4.plunge pool 瀑布下的水潭
+[联] 想象“一头扎进水中”的画面来记忆
 
-spring / spriŋ/  
-v. 跳起；跃出；突然出现；跳跃；迅速行动。  
-n. 弹簧；泉；源泉；泉水；春天；春季。  
+spring / spriŋ /
+n. 春天，春季；泉，泉水；源泉，根源；弹簧，发条；弹性，弹力；跳，跃；活力，朝气；<罕>一群水鸭；朔望潮，大潮（spring tide 的简称）
+adj. 春天的
+v. 跳，跃；突然弹开，突然移动；突然出现，涌现；突然启动，突然运转；突然向某人提供（或提出）；<非正式>帮助……逃跑（或越狱），营救；发源于，来自
 [例]  
 1.The frog sprang out of the pond. 青蛙从池塘里跳了出来。  
 2.A brilliant idea suddenly sprang to mind. 一个绝妙的想法突然冒了出来。  
 3.We went camping in spring. 我们在春天去露营了。  
 [搭]  
-spring up 突然出现；兴起；崛起。  
-[联] “弹簧”有弹性，“春天”万物复苏，都与“跳跃”有关。  
+1.spring up 突然出现；兴起；崛起
+2.spring festival 春节（中国农历正月初一）
+3.in spring 在春天
+4.spring and autumn 春秋
+[联] “弹簧”有弹性，“春天”万物复苏，都与“跳跃”有关
 
-hop / hɑp/  
-v. 单脚跳；跳跃；急忙去做某事。  
-n. 单脚跳；跳跃；蹦蹦跳跳的动作。  
+hop / hɑːp /
+v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味
+n. 单脚跳；（鸟、小动物）双脚跳；短途旅行；忽布，啤酒花；舞会；霍普舞；毒品（尤指鸦片）
 [例]  
 1.The child hopped on one foot. 孩子单脚跳着玩。  
 2.They hopped on a plane to Paris. 他们匆忙坐飞机去了巴黎。  
 3.Let’s go for a hop around the park. 让我们去公园里蹦蹦跳跳吧。  
 [搭]  
-hop to 急忙去做某事。  
-[联] 想象一只小兔子在草地上单脚跳的画面。  
+1.hop to 急忙去做某事
+2.hip hop 嘻哈文化（由快板歌、涂墙艺术、霹雳舞等构成的亚文化）
+3.hop on 责骂
+[联] 想象一只小兔子在草地上单脚跳的画面
 
-bounce / baʊns/  
-v. 反弹；弹回；精力充沛地移动。  
-n. 弹跳；反弹；精力充沛的样子。  
+bounce / baʊns /
+v. 弹起，反弹；跳动，蹦；（使）上下晃动；（用膝盖）颠动（孩子）；蹦蹦跳跳地去；拒付，退回（支票等）；退回（电子邮件）；驱逐，解雇
+n. 弹跳，跳动；弹性，弹力；活力，精力；（头发的）弹性，蓬松；突然的增长
 [例]  
 1.The ball bounced off the wall. 球撞到墙上反弹回来。  
 2.She bounced back from her illness quickly. 她从疾病中很快恢复了活力。  
 3.The baby giggled as he watched the bouncing ball. 婴儿看着弹跳的球咯咯笑。  
 [搭]  
-bounce back 恢复；反弹。  
-[联] 想象一个篮球撞击地面后弹起来的画面。  
+1.bounce back 恢复；反弹
+2.on the bounce 在弹起时
+3.bounce the ball 拍球
+[联] 想象一个篮球撞击地面后弹起来的画面
 
-tent / tent/  
-n. 帐篷；帐篷状的东西。  
+tent / tent /
+n. 帐篷；西班牙红葡萄酒；（外科）塞条，塞子；（医院里给重病病人用的）氧气帐（oxygen tent 的简称）；住处；帷幕
+v. 由帐篷组成，用帐篷（或帐篷状物）遮盖；使成帐篷状；（尤指马戏团）住帐篷，在帐篷里宿营；暂时居住
 [例]  
 1.We set up a tent by the lake. 我们在湖边搭起了帐篷。  
 2.The tent was blown away by the wind. 帐篷被风吹走了。  
 3.They spent the night in a tent. 他们在帐篷里过夜了。  
 [搭]  
-pitch a tent 搭帐篷。  
-[联] 想象一个野外露营的场景，人们住在帐篷里。  
+1.pitch a tent 搭帐篷
+2.tent city 帐篷城（搭有很多帐篷的社群的别称）
+[联] 想象一个野外露营的场景，人们住在帐篷里
 
-camp / kæmp/  
-n. 露营地；野营；营地。  
-v. 露营；扎营。  
+camp / kæmp /
+n. 营地；兵营，军营；度假营；阵营，集团；（艺术和娱乐表现形式的）夸张；放牧区；年度短期兵役；<英>史前古营垒遗址
+v. 野营，露营；据守，坚守；<澳新>（牲畜）集中休息；扎围栏
+adj.（尤指男子为引人注意而行为）忸怩作态的；（艺术或娱乐）滑稽可笑的，做作的
 [例]  
 1.They went camping in the mountains. 他们在山里露营了。  
 2.The army camp is located near the river. 军营位于河边。  
 3.We spent three days at a quiet campsite. 我们在一个安静的露营地住了三天。  
 [搭]  
-set up camp 扎营；建立营地。  
-[联] 想象一群人在户外搭建帐篷的画面。  
+1.set up camp 扎营；建立营
+2.training camp 集训营
+3.summer camp 夏令营
+4.concentration camp 集中营
+[联] 想象一群人在户外搭建帐篷的画面
 
-picnic / ˈpɪknɪk/  
-n. 野餐；郊游。  
-v. 去野餐；进行郊游。  
+picnic / ˈpɪknɪk /
+n. 野餐，野餐活动；野餐食物；<非正式>愉快事物，轻松事物
+v. 参加野餐活动
 [例]  
 1.We had a picnic in the park last Sunday. 上周日我们在公园里野餐了。  
 2.They decided to picnic by the river. 他们决定在河边野餐。  
 3.It’s a perfect day for a picnic. 这是野餐的好天气。  
 [搭]  
-go on a picnic 去野餐。  
-[联] 想象一家人带着食物和饮料在户外享受美食的画面。  
+1.go on a picnic 去野餐
+2.have a picnic 去野餐；举行野餐
+3.no picnic 不容易
+[联] 想象一家人带着食物和饮料在户外享受美食的画面
 
 hunt / hʌnt/  
 v. 打猎；狩猎；寻找；追寻。  
