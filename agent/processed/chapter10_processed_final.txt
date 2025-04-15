@@ -1083,20 +1083,22 @@ v. <英> 强制（精神病人）入院；将……制成切片；切开，切�
 5.cesarean section 剖腹产术
 [联] sec (切) + tion (名词后缀)——> 切开的部分
 
-tag /tæɡ/  
-n. 标签；标签纸；标记  
-v. 给……贴标签；追踪  
+tag / tæɡ /
+n. 标签，标牌；称呼，诨名；（电子）追踪器；带创作者名字的涂鸦；（计算机）标识符；（儿童玩的）捉人游戏； 附加疑问句；一小部分；（棒球）触杀
+v. 给……加上标签；把……称作；涂鸦； 给（计算机程序或文件）加标记；（在捉人游戏中）触摸；触杀（跑垒员）；（跑垒员）用脚触垒；<英，非正式> 尾随
 [例]  
 1.Don't forget to tag your luggage at the airport. 不要忘记在机场给你的行李贴上标签。  
 2.The software can automatically tag photos with locations. 这款软件可以自动为照片添加位置标记。  
 3.He tagged along with us to the store. 他跟着我们一起去了商店。  
 [搭]  
 1.tag cloud 标签云  
-2.tag along 跟随  
+2.tag along 跟随
+3.price tag 价格标签；标价
+4.name tag 胸牌；名称标签
 
-badge /bædʒ/  
-n. 徽章；标志；证章  
-v. 给……佩戴徽章；标志出  
+badge / bædʒ /
+n. 徽章，奖章；标记，象征
+v. 给予……徽章（或标记）
 [例]  
 1.The police officer wore a badge on his uniform. 警察在他的制服上佩戴着徽章。  
 2.The team badge was proudly displayed on their jerseys. 队伍的徽章骄傲地展示在他们的球衣上。  
@@ -1104,294 +1106,378 @@ v. 给……佩戴徽章；标志出
 [搭]  
 1.badge holder 徽章持有人  
 2.badge of honor 荣誉勋章  
-[联] badg(e) (标识物) + e——> 标志物。
+[联] badg(e) (标识物) + e——> 标志物
 
-label /ˈlæb əl/  
-n. 标签；标签纸；类别  
-v. 给……贴标签；分类  
+label / ˈleɪb(ə)l /
+n. 标签，标牌；称号，绰号；商标，品牌；唱片公司；（计算机）标记；示踪剂；带垂饰的横带
+v. 贴标签；把……不公正地称为；用示踪剂使（物质等）示踪
 [例]  
 1.The label on the bottle says "Do not shake." 瓶子上的标签写着“请勿摇晃”。  
 2.The scientist labeled each sample carefully. 科学家仔细地给每个样本贴上了标签。  
 3.She labeled her paintings with her name. 她在自己的画作上签上了名字。  
 [搭]  
 1.product label 产品标签  
-2.label maker 标签打印机  
-[联] lab(el) (标识物) + e——> 标识物。
+2.label maker 标签打印机
+3.private label 自有品牌；私有品牌；商店自用品牌
+4.record label 唱片公司；记录标记
+5.adhesive label 胶粘标签；不干胶标签
+[联] lab(el) (标识物) + e ——> 标识物
 
-shutter /ˈʃʌt ər/  
-n. 百叶窗；快门（相机）  
-v. 关闭；关闭百叶窗  
-[例]  
+shutter / ˈʃʌtər /
+n. 百叶窗，活动护窗；（照相机的）快门；（风琴的）开闭器
+v. <美>使停业，使倒闭；关上（窗户）的百叶窗，合上（建筑）的遮光板
+[例]
 1.The photographer adjusted the camera shutter speed. 摄影师调整了相机的快门速度。  
 2.The store owner closed the shutters after business hours. 店主在营业结束后拉下了百叶窗。  
 3.The storm forced them to keep the shutters closed. 暴风雨迫使他们一直关着百叶窗。  
 [搭]  
 1.shutter speed 快门速度  
-2.window shutters 窗户百叶窗  
-[联] shut(t) (关闭) + ter——> 关闭装置。
+2.window shutters 窗户百叶窗
+3.shutter speed 快门速度
+4.put up the shutters 关店，打烊；停业
+5.rolling shutter 滚动式帘子
+[联] shut(t) (关闭) + ter ——> 关闭装置
 
-bolt /bəʊlt/  
-n. 螺栓；闪电；突然离开  
-v. 闩住；突然离开  
+bolt / boʊlt /
+n. 闪电，霹雳；（门或窗的）金属插销；螺栓；迅速逃跑，溜走；（布的）一匹；枪栓，枪机；弩箭；（纸等的）卷边
+v. 突然快速移动；<美>突然离开，脱离（政党、团体等）；用螺栓固定；闩上（门或窗）；狼吞虎咽；（蔬菜）生长过快，结实过早（而不宜食用）
 [例]  
 1.The carpenter tightened the bolt. 木匠拧紧了螺栓。  
 2.A bolt of lightning struck the tree. 一道闪电击中了那棵树。  
 3.She bolted out of the room when she heard the news. 听到消息后她立刻从房间里冲了出去。  
 [搭]  
 1.bolt action 旋转动作  
-2.lock and bolt 锁与螺栓  
-[联] bolt (固定件) + e——> 固定装置。
+2.lock and bolt 锁与螺栓
+3.nuts and bolts 具体细节，基本要素
+4.anchor bolt 锚栓，地脚螺栓；锚定螺栓，基础螺栓
+5.lightning bolt 闪电球
+[联] bolt (固定件) + e ——> 固定装置
 
-knob /nɑːb/  
-n. 按钮；旋钮；小丘  
+knob / nɑːb /
+n. 球形把手；旋钮；<英>小块（黄油等）；球形突出物；<英，非正式>阴茎；<美>圆形小山
 [例]  
 1.Turn the knob to adjust the volume. 转动旋钮调节音量。  
 2.The door knob was rusty and difficult to turn. 门把手生锈了，很难转动。  
 3.The landscape was dotted with small knobs. 那片风景布满了小丘。  
 [搭]  
 1.knob control 旋钮控制  
-2.tune knob 调谐旋钮  
-[联] knob (圆形突起)——> 操作部件。
+2.tune knob 调谐旋钮
+3.with knobs on [俚语]尤其突出地，更加
+4.door knob 门把手；门把捏手
+5.adjusting knob 调节旋钮
+[联] knob (圆形突起) ——> 操作部件
 
-handle /ˈhænd l/  
-n. 把手；柄；处理方式  
-v. 拿；触碰；处理  
+handle / ˈhænd(ə)l /
+v. 拿；处理，应付；操纵；触（球）；经营，管理
+n. 把手，拉手；柄，提手；（理解、解决问题的）方法，途径；<非正式>（尤指奇怪的）名字，名称；（织物等的）手感；<美，非正式>赌注总额
+comb. 有……个柄的，有……柄的
 [例]  
 1.Grab the handle and pull the drawer open. 抓住把手拉开抽屉。  
 2.The teacher handled the situation calmly. 老师冷静地处理了这种情况。  
 3.Be careful when you handle sharp objects. 处理锋利物品时要小心。  
 [搭]  
 1.handle with care 小心处理  
-2.grip handle 握把  
-[联] hand (手) + le——> 手握部件。
+2.grip handle 握把
+3.handle with 处理
+4.door handle 门把手
+5.get a handle on [口语]控制，掌握，驾驭，左右
+[联] hand (手) + le ——> 手握部件
 
-curtain / ˈkɜːrtən /
-n. 窗帘；幕布；遮蔽物。
+curtain / ˈkɜːrt(ə)n /
+n. 窗帘，门帘；帘状物，幕状物（如浓烟或大雨等）；纱幔，帷幔；（舞台上的）幕，幕布；开幕，落幕；灾难性结局
+v. 给（窗户或房间）装上帘子；（用帘子）隔开，覆盖
 [例]
 1.The curtain rose slowly, revealing the stage. 幕布缓缓升起，露出了舞台。
 2.I pulled back the curtain to let in some light. 我拉开窗帘让光线进来。
 3.The rain formed a curtain of water along the window. 雨在窗户上形成一道水帘。
 [搭] 
-1.curtain call 谢幕；谢幕时的掌声。
-2.draw the curtain 拉开窗帘；开始行动。
-[联] curtain 像屏障一样挡住视线的东西。
+1.curtain call 谢幕；谢幕时的掌声
+2.draw the curtain 拉开窗帘；开始行动
+3.curtain wall 幕墙；护墙
+4.glass curtain wall 玻璃幕墙
+5.behind the curtain 幕后；秘密
+[联] curtain 像屏障一样挡住视线的东西
 
 pane / peɪn /
-n. （玻璃窗的）一块，一扇。
+n.（窗户或门上的）一块玻璃；（计算机）窗片，子窗口；整张邮票；边，面；嵌板；窗格
+v. 用锤头敲打使（金属片）弯曲（同 peen）
 [例]
 1.The pane of glass was broken by a stone. 一块玻璃被石头打破了。
 2.A bird flew into the pane and got hurt. 一只鸟撞到玻璃上受伤了。
 3.The stained-glass pane depicted a scene from the Bible. 这块彩色玻璃描绘了《圣经》中的一个场景。
 [搭] 
-无常见搭配。
-[联] pane 是 window 的一部分，想象成玻璃窗的一小块。
+1.window pane 窗玻璃
+[联] pane 是 window 的一部分，想象成玻璃窗的一小块
 
-opacity / ɑːpəˈsɪtɪ /, /ˌɑːpəˈsɪti/
-n. 不透明度；不透光性。
+opacity / oʊˈpæsəti /
+n. 不透明；不传导；暧昧
 [例]
 1.The opacity of the liquid made it hard to see through. 液体的不透明度使得难以看穿它。
 2.The opacity of the paint was perfect for covering the old color. 油漆的不透明度非常适合覆盖旧颜色。
 3.High opacity is important for privacy curtains. 高不透明度对于隐私窗帘很重要。
 [搭] 
-1.optical opacity 光学不透明度。
-[联] opaci- 来自拉丁语 opacus（不透明的）。
+1.optical opacity 光学不透明度
+2.atmospheric opacity  大气不透明度
+3.opacity map 不透明贴图；透明贴图；透明度贴图；添加
+[联] opaci- 来自拉丁语 opacus（不透明的）
 
 opaque / oʊˈpeɪk /
-adj. 不透明的；不透光的。
+adj.（玻璃、液体等）不透明的，不透光的；难懂的，隐晦的；迟钝的
+n. 不透明体；（用于底片）不透明颜料
+v. 使不透明
 [例]
 1.The surface of the wall was opaque and rough. 墙壁表面不透明且粗糙。
 2.An opaque container hides its contents. 不透明的容器隐藏其内容物。
 3.The moonlight couldn’t penetrate the opaque clouds. 月光无法穿透不透明的云层。
 [搭] 
-1.opaque paint 不透明涂料。
-[联] opaci- 来自拉丁语 opacus（不透明的）。
+1.opaque paint 不透明涂料
+2.opaque glass 不透明玻璃
+3.opaque paper 不透明纸
+4.opaque layer 不透明层；混浊层；浑浊层
+[联] opaci- 来自拉丁语 opacus（不透明的）
 
 jar / dʒɑːr /
-n. 罐子；瓶子；冲击。
-v. （使）震动；（使）感到不适。
+n. 玻璃罐，广口瓶；一瓶，一罐（的量或物）；震动
+v. 撞击，震动；刺激，对……产生不好的影响；不和谐，不相配；发出刺耳声
 [例]
 1.She placed the jar on the shelf. 她把罐子放在架子上。
 2.The sound jarred my nerves. 这声音让我神经紧张。
 3.The sudden news jarred me out of my thoughts. 突如其来的消息打断了我的思绪。
 [搭] 
-1.jar opener 罐头开瓶器。
-[联] jar 形状像瓶子，联想“储存东西的小容器”。
+1.jar opener 罐头开瓶器
+2.cookie jar 饼干罐
+3.glass jar 玻璃缸，玻璃罐；玻璃瓶装
+4.bell jar 钟形玻璃罩或容器
+[联] jar 形状像瓶子，联想“储存东西的小容器”
 
-barrel / ˈbærl /
-n. 桶；枪管；大量。
-v. 装桶；迅速移动。
+barrel / ˈbærəl /
+n. 桶；一桶（的量）；枪管，炮管；（马等四足动物的）躯干
+v. 飞奔，高速行驶；把……装入桶内
 [例]
 1.The barrel was filled with oil. 桶里装满了油。
 2.He barrelled through the crowd. 他快速穿过人群。
 3.The barrel contained a barrel of beer. 桶里装着一桶啤酒。
 [搭] 
-1.barrel roll 飞机翻滚动作。
-[联] barrel 是圆柱形，联想“装液体的大容器”。
+1.barrel roll 飞机翻滚动作
+2.in the barrel [美国俚语、黑人用语]
+3.on the barrel 现付的；以现金
+4.gun barrel 枪筒；炮筒；油水分离罐
+[联] barrel 是圆柱形，联想“装液体的大容器”
 
 bucket / ˈbʌkɪt /
-n. 桶；吊桶；大量。
+n. 桶；一桶之量；（机器的）挖斗，铲斗；大量；投篮得分；存储桶
+v. <非正式>快速颠簸着行驶
 [例]
 1.I fetched water with a bucket. 我用桶提水。
 2.The bucket was half full of sand. 桶里装了一半沙子。
 3.The bucket fell into the well. 桶掉进了井里。
 [搭] 
-1.bucket list 生命清单。
-[联] bucket 是圆形开口容器，联想“盛水工具”。
+1.bucket list 生命清单
+2.bucket elevator 斗式提升机；斗式运输机
+3.bucket wheel 杓轮；戽式链轮；戽斗水轮
+4.bucket teeth 戽斗齿；铲斗齿
+[联] bucket 是圆形开口容器，联想“盛水工具”
 
 pail / peɪl /
-n. 桶；吊桶。
+n. 桶，提桶；一桶的量
 [例]
 1.The pail was used to carry water. 桶用来运水。
 2.The pail was filled with ice cubes. 桶里装满了冰块。
 3.He dropped the pail into the stream. 他把桶掉进了溪流。
 [搭] 
-无常见搭配。
-[联] pail 和 bucket 类似，但更常用于北美的英语中。
+1.a pail of water 一桶水
+2.slop pail 污水桶
+[联] pail 和 bucket 类似，但更常用于北美的英语中
 
 phone / foʊn /
-n. 电话；手机。
-v. 打电话。
+n. 电话，电话系统；受话器，听筒；（语音）音子，音素
+v. 给…...打电话
 [例]
 1.I picked up the phone to answer the call. 我拿起电话接听来电。
 2.He phoned his friend to say hello. 他打电话给朋友问好。
 3.The phone rang incessantly. 电话不停地响。
 [搭] 
-1.cell phone 手机。
-[联] phone 是 communication 的一种工具，联想“交流设备”。
+1.cell phone 手机（等于cellular phone）
+2.mobile phone 手机；行动电话
+3.phone number 电话号码
+[联] phone 是 communication 的一种工具，联想“交流设备”
 
 bell / bel /
-n. 钟；铃声。
+n. 钟，铃；钟声，铃声（the bell）；钟状物
+v. 系铃，装；发出响铃（或敲钟）般的声音；<英，非正式> 给……打电话；呈钟状，成钟状鼓起（或张开）；系铃，装钟
 [例]
 1.The bell rang to signal the end of class. 铃声响起表示下课时间到了。
 2.The church bell chimed the hour. 教堂钟敲响整点。
 3.The doorbell rang, but no one was there. 门铃响了，但没有人。
 [搭] 
-1.bell tower 钟楼。
-[联] bell 是发出声音的物体，联想“通知工具”。
+1.bell tower 钟楼
+2.ring the bell 鸣钟；按门铃
+3.bell the cat 为大家的利益承担危险
+4.alarm bell 警钟；警铃
+[联] bell 是发出声音的物体，联想“通知工具”
 
-camera /ˈkæmərə/  
-n. 照相机；摄影机  
+camera / ˈkæm(ə)rə /
+n. 照相机；摄影机
 [例]  
-1. I bought a new camera last week. 上周我买了一台新相机。  
-2. The camera angle made the scene look more dramatic. 摄影角度让场景看起来更加戏剧化。  
-3. The camera automatically adjusts the focus. 相机会自动调整焦距。  
+1.I bought a new camera last week. 上周我买了一台新相机。
+2.The camera angle made the scene look more dramatic. 摄影角度让场景看起来更加戏剧化。
+3.The camera automatically adjusts the focus. 相机会自动调整焦距。
 [搭]  
 1.camera phone 智能手机摄像头  
-action camera 运动相机  
+2.action camera 运动相机
+3.digital camera 数字摄像机；数字照相机
+4.ccd camera 电荷耦合摄像机
+5.video camera 摄影机
 [联] cam (缩写) + era (时代) ——> 记录时代的工具  
 
-portable /ˈpɔːrtəbl/  
-adj. 便携式的；可携带的  
+portable / ˈpɔːrtəb(ə)l /
+adj. 便携式的，轻便的；可移植的，可在不同计算机上使用的；（变更工作或情景时）可转移的，可随带的
+n. 手提式电器；<美>活动教室
 [例]  
-1. This is a portable charger for your phone. 这是一款为手机设计的便携充电器。  
-2. A portable computer is convenient for travelers. 便携式电脑对旅行者来说很方便。  
-3. Portable air conditioners are popular in small apartments. 便携式空调在小公寓中很受欢迎。  
+1.This is a portable charger for your phone. 这是一款为手机设计的便携充电器。
+2.A portable computer is convenient for travelers. 便携式电脑对旅行者来说很方便。
+3.Portable air conditioners are popular in small apartments. 便携式空调在小公寓中很受欢迎。
 [搭]  
 1.portable battery 便携电池  
-portable Wi-Fi 便携Wi-Fi设备  
+2.portable Wi-Fi 便携Wi-Fi设备
+3.portable computer 便携式计算机
+4.portable equipment 便携设备，手提设备；移动式设备
+5.portable type 便携式
 [联] port (搬运) + able (能够) ——> 能够被搬运的  
 
-spotlight /ˈspɑːtlaɪt/  
-n. 聚光灯；中心关注点  
+spotlight / ˈspɑːtlaɪt /
+n. 聚光灯，反光灯；媒体和公众的注意；聚光灯照明圈
+vt. 聚光照明；使公众注意
 [例]  
-1. The spotlight focused on the main actor. 聚光灯聚焦在主角身上。  
-2. He became the spotlight of attention after winning the award. 获奖后他成为了众人瞩目的焦点。  
-3. The director used the spotlight to create a dramatic effect. 导演利用聚光灯创造戏剧效果。  
+1.The spotlight focused on the main actor. 聚光灯聚焦在主角身上。
+2.He became the spotlight of attention after winning the award. 获奖后他成为了众人瞩目的焦点。
+3.The director used the spotlight to create a dramatic effect. 导演利用聚光灯创造戏剧效果。
 [搭]  
 1.spotlight effect 聚光灯效应  
-under the spotlight 在聚光灯下，成为关注的焦点  
+2.under the spotlight 在聚光灯下，成为关注的焦点
+3.in the spotlight 处于公众注意的中心；出风头
 [联] spot (光点) + light (光线) ——> 聚集光线的光源  
 
-lantern /ˈlæntərn/  
-n. 灯笼；提灯  
+lantern / ˈlæntərn /
+n. 灯笼，提灯；（灯塔上的）灯室；天窗
 [例]  
-1. We used a lantern during the camping trip. 我们在露营时使用了灯笼。  
-2. The old man carried a lantern as he walked through the dark alley. 老人提着灯笼走过黑暗的小巷。  
-3. Lanterns were hung outside the house during the festival. 节日期间屋外挂起了灯笼。  
+1.We used a lantern during the camping trip. 我们在露营时使用了灯笼。
+2.The old man carried a lantern as he walked through the dark alley. 老人提着灯笼走过黑暗的小巷。
+3.Lanterns were hung outside the house during the festival. 节日期间屋外挂起了灯笼。
 [搭]  
 1.lantern festival 元宵节  
-paper lantern 纸灯笼  
+2.paper lantern 纸灯笼
+3.lantern festival 元宵节，灯节
+4.chinese lantern 可以折叠起来的灯笼
+5.palace lantern 宫灯
 [联] lan (光) + tern (形式) ——> 发光的形式  
 
-bulb /bʊlb/  
-n. 灯泡；球状物  
+bulb / bʌlb /
+n. 电灯泡；（植物的）鳞茎，球茎；球状物
 [例]  
-1. The bulb in the lamp is broken. 台灯里的灯泡坏了。  
-2. Bulbs are used to produce light in most homes. 灯泡是大多数家庭用来照明的工具。  
-3. The flower blooms from a bulb. 花朵从球茎中绽放。  
+1.The bulb in the lamp is broken. 台灯里的灯泡坏了。
+2.Bulbs are used to produce light in most homes. 灯泡是大多数家庭用来照明的工具。
+3.The flower blooms from a bulb. 花朵从球茎中绽放。
 [搭]  
 1.energy-saving bulb 节能灯泡  
-light bulb 灯泡  
+2.light bulb 灯泡
+3.olfactory bulb 嗅球
+4.dry bulb 干球，干球式的
 [联] bulb (球状物) ——> 形似球状的发光体  
 
-flashlight /ˈflæʃlaɪt/  
-n. 手电筒；闪光灯  
+flashlight / ˈflæʃlaɪt /
+n. 手电筒；闪光灯
 [例]  
-1. I always carry a flashlight when hiking. 徒步旅行时我总是带着手电筒。  
-2. The photographer used a flashlight to illuminate the subject. 摄影师用手电筒照亮拍摄对象。  
-3. The flashlight ran out of batteries during the power outage. 停电时手电筒的电池耗尽了。  
+1.I always carry a flashlight when hiking. 徒步旅行时我总是带着手电筒。
+2.The photographer used a flashlight to illuminate the subject. 摄影师用手电筒照亮拍摄对象。
+3.The flashlight ran out of batteries during the power outage. 停电时手电筒的电池耗尽了。
 [搭]  
 1.flashlight battery 手电筒电池  
-emergency flashlight 应急手电筒  
+2.emergency flashlight 应急手电筒
 [联] flash (闪光) + light (光线) ——> 用于短暂发光的工具  
 
-refrigerator /rɪˈfrɪdʒəreɪtər/  
-n. 冰箱；冷藏库  
+refrigerator / rɪˈfrɪdʒəreɪtər /
+n. 冰箱，冷藏库
 [例]  
-1. The refrigerator keeps food fresh for days. 冰箱可以保鲜食物数天。  
-2. She put the leftovers in the refrigerator. 她把剩菜放进冰箱。  
-3. The refrigerator makes a strange noise. 冰箱发出奇怪的声音。  
+1.The refrigerator keeps food fresh for days. 冰箱可以保鲜食物数天。
+2.She put the leftovers in the refrigerator. 她把剩菜放进冰箱。
+3.The refrigerator makes a strange noise. 冰箱发出奇怪的声音。
 [搭]  
 1.double-door refrigerator 对开门冰箱  
-mini refrigerator 小型冰箱  
+2.mini refrigerator 小型冰箱
+3.absorption refrigerator 吸收式冷冻机；吸收式冰箱
+4.electric refrigerator 电冰箱
+5.refrigerator car 冷藏车
 [联] refrigerat(e) (制冷) + or (名词后缀) ——> 制冷装置  
 
-fridge /frɪdʒ/  
+fridge / frɪdʒ /
 n. 冰箱（口语化）  
 [例]  
-1. I need to buy some groceries for the fridge. 我需要为冰箱买些杂货。  
-2. The fridge is full of fruits and vegetables. 冰箱里装满了水果和蔬菜。  
-3. The fridge makes a lot of noise when it starts. 冰箱启动时会发出很多噪音。  
+1.I need to buy some groceries for the fridge. 我需要为冰箱买些杂货。
+2.The fridge is full of fruits and vegetables. 冰箱里装满了水果和蔬菜。
+3.The fridge makes a lot of noise when it starts. 冰箱启动时会发出很多噪音。
 [搭]  
 1.fridge magnet 冰箱贴  
-energy-efficient fridge 节能冰箱  
+2.energy-efficient fridge 节能冰箱
 [联] fridge 是 refrigerator 的缩写  
 
-vacuum /ˈvækjuəm/  
-n. 吸尘器；真空  
+vacuum / ˈvækjuːm /
+n. 真空，真空容器；真空吸尘器；空白，空虚；（用真空吸尘器所做的）清洁，清扫
+v. 用真空吸尘器打扫
+adj. 利用真空的；真空的；产生真空的
 [例]  
-1. She uses a vacuum to clean the carpet. 她用吸尘器清洁地毯。  
-2. The vacuum cleaner is very powerful. 吸尘器非常强力。  
-3. The vacuum cleaner needs a new bag. 吸尘器需要一个新的袋子。  
+1.She uses a vacuum to clean the carpet. 她用吸尘器清洁地毯。
+2.The vacuum cleaner is very powerful. 吸尘器非常强力。
+3.The vacuum cleaner needs a new bag. 吸尘器需要一个新的袋子。
 [搭]  
 1.vacuum cleaner 吸尘器  
-central vacuum 中央吸尘系统  
+2.central vacuum 中央吸尘系统
+3.vacuum pump [机]真空泵
+4.in a vacuum 似在真空中
+5.high vacuum 高度真空，高真空
 [联] vacu(空) + um (名词后缀) ——> 抽空的装置  
 
-fan /fæn/  
-n. 风扇；狂热爱好者  
+fan / fæn /
+n. 风扇，扇子；粉丝，狂热爱好者；扇形；（使风车头迎风的）风叶；（山坡脚下的）地带
+v. 扇，为……扇风；煽（火）；煽动，激起；（击球手）三击不中出局；（呼吸，微风）吹拂；驱散，扇走；<美>击球不中
 [例]  
-1. The ceiling fan helps cool the room. 吊扇有助于冷却房间。  
-2. He is a big fan of basketball. 他是一个篮球迷。  
-3. The electric fan creates a breeze in the room. 电风扇在房间里制造出微风。  
+1.The ceiling fan helps cool the room. 吊扇有助于冷却房间。
+2.He is a big fan of basketball. 他是一个篮球迷。
+3.The electric fan creates a breeze in the room. 电风扇在房间里制造出微风。
 [搭]  
 1.floor fan 立式风扇  
-standing fan 立式风扇  
+2.standing fan 立式风扇
+3.cooling fan 冷却风扇
 [联] fan (扇叶) ——> 吹风的装置
 
-switch /swɪtʃ/, /s.wɪtʃ/
-n. 开关；转换器；转换点；（控制方向的）杆。
+fans / fænz /
+n. 狂热者，粉丝（fan 的复数形式）；[电]风扇
+[例]
+1.The band's fans are getting younger. 这支乐队的歌迷越来越年轻了。
+2.The fans pushed against the barrier. 球迷们推挤着路障。
+3.Rival fans hurled abuse at each other. 两帮对立的球迷相互高声辱骂。
+[搭]
+1.fake fans 伪球迷；伪迷球的人；真球迷
+2.Super Fans 疯狂粉丝王；甜心粉丝王；超级粉丝
+3.Pumps and Fans 泵与风机；泵与水机
+
+switch / swɪtʃ /
+n. 开关，电闸；骤变，突变；交换机；（计算机）切换；<美> （铁路的）转辙器，道岔；（细软的）枝条，鞭子；假发
+v.（用开关）打开，关闭；（使）改变，转变；交换，调换；转移（注意力）；（与某人）交换工作，调班；<古> 用枝条击打，轻拂
 [例]
 1.I can't find the switch to turn off the light. 我找不到关灯的开关。
 2.Switch the channel to watch the news. 转换频道看新闻。
 3.The train switched tracks at the station. 火车在车站切换了轨道。
 [搭]
 1.light switch 电灯开关
-2.switchblade 折叠刀
-[联] sw + itch (摇晃的东西) ——> 像摇晃的织布机梭子一样的东西。
+2.switch on 接通，开启
+3.switch off（用开关）关掉；切断（电源）
+4.switch in 接通；合闸
+[联] sw + itch (摇晃的东西) ——> 像摇晃的织布机梭子一样的东西
 
-hurdle /ˈhɜːrdl/
-n. 栏架；障碍；难题；跳跃栏架的动作。
+hurdle / ˈhɜːrd(ə)l /
+n. 障碍，难关；（供人或马在赛跑中跨越的）栏架，跨栏；跨栏赛跑，障碍赛跑；（把背叛者送往刑场的）囚笼
+v.（奔跑中）跳越（某物）；参加跨栏赛跑；克服（障碍或困难），渡过难关；用临时围栏隔开（或围住）
 [例]
 1.She cleared the hurdle with ease. 她轻松地越过了栏架。
 2.The first hurdle is to find funding. 第一个障碍是找到资金。
@@ -1399,11 +1485,11 @@ n. 栏架；障碍；难题；跳跃栏架的动作。
 [搭]
 1.hurdle race 跨栏赛跑
 2.overcome hurdles 克服障碍
-[联] hur + dle (像快速移动的工具) ——> 类似快速推动的小工具。
+[联] hur + dle (像快速移动的工具) ——> 类似快速推动的小工具
 
-fence /fens/
-n. 栅栏；围栏；防卫者；击剑。
-v. 用栅栏围住；击剑；规避责任。
+fence / fens /
+n. 篱笆，栅栏，围栏；（赛马中的）障碍物；<非正式>买卖赃物者，销赃犯；剑术；（刨子、锯子或其他工具的）防护装置，导向装置
+v.（用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫
 [例]
 1.We need to build a fence around the garden. 我们需要在花园周围建一道栅栏。
 2.The police fenced off the crime scene. 警察用警戒线封锁了犯罪现场。
@@ -1411,11 +1497,15 @@ v. 用栅栏围住；击剑；规避责任。
 [搭]
 1.fence post 栅栏柱
 2.cut the fence 围绕……建栅栏
-[联] fen (泥沼) + ce (结尾) ——> 围住泥沼的围栏。
+3.over the fence 越过场端；不讲道理的 ，不公正的
+4.on the fence 保持中立；抱观望态度
+5.fence in 用栅栅围起来
+[联] fen (泥沼) + ce (结尾) ——> 围住泥沼的围栏
 
-pedal /ˈpedl/
-n. 脚踏板；脚蹬子；踏板乐器。
-v. 用脚踩踏板；踩踏。
+pedal / ˈped(ə)l /
+n.（自行车、汽车或机器的）脚踏板；(钢琴、风琴等的)踏板；（乐）PEDAL NOTE的简称
+v. 骑自行车前进；踩（自行车等的）踏板；（尤指以某种特别方式）踩动钢琴踏板
+adj. 踏板的，脚踏的；脚的，关于脚的
 [例]
 1.The cyclist pedaled hard to reach the top of the hill. 骑自行车的人用力踩踏板以到达山顶。
 2.The piano has three pedals. 钢琴有三个踏板。
@@ -1423,10 +1513,13 @@ v. 用脚踩踏板；踩踏。
 [搭]
 1.bicycle pedal 自行车脚踏板
 2.pedal down 减速
-[联] ped (脚) + al (小的) ——> 小的脚用具。
+3.brake pedal 刹车踏板；制动踏板
+4.foot pedal 脚踏开关
+5.accelerator pedal（汽车等的）油门踏板；[机]加速踏板
+[联] ped (脚) + al (小的) ——> 小的脚用具
 
-shelf /ʃelf/
-n. 架子；搁板；书架；搁架。
+shelf / ʃelf /
+n. 搁板，架子；（尤指水中）陆架，底岩；<非正式>告密者（复数 shelfs）
 [例]
 1.Put the books on the shelf. 把书放在架子上。
 2.The shelf collapsed under the weight of the books. 架子因书的重量而坍塌。
@@ -1434,10 +1527,11 @@ n. 架子；搁板；书架；搁架。
 [搭]
 1.bookshelf 书架
 2.shelf life 保质期
-[联] shel (像放置东西的平台) + f (结尾) ——> 放置东西的平台。
+3.on the shelf 在书架上；束之高阁；被搁置的；闲置的
+[联] shel (像放置东西的平台) + f (结尾) ——> 放置东西的平台
 
-ladder /ˈlædər/
-n. 梯子；晋升的途径。
+ladder / ˈlædər /
+n. 梯子；（职位晋升的）阶梯，（发展的）阶段；<英>（织物）抽丝，脱线；（体育竞赛中的）阶梯晋级赛；梯状物
 [例]
 1.Climb the ladder carefully. 小心爬梯子。
 2.Ladders are essential for reaching high places. 梯子对于到达高处是必不可少的。
@@ -1445,11 +1539,13 @@ n. 梯子；晋升的途径。
 [搭]
 1.fire ladder 消防梯
 2.rung of the ladder 社会底层
-[联] lad (类似扶手的东西) + der (结尾) ——> 类似扶手的攀爬工具。
+4.career ladder 职业阶梯
+5.social ladder 社会阶梯
+[联] lad (类似扶手的东西) + der (结尾) ——> 类似扶手的攀爬工具
 
-lift /lɪft/
-n. 电梯；提升；举起；精神振奋。
-v. 抬起；举起；使上升；提高。
+lift / lɪft /
+v. 提起，举起；抬起（身体某一部位）；空运；解除，撤销；高兴起来，使更愉快；消散，消失；偷盗，盗窃；剽窃，抄袭；挖出，拔起（蔬菜或植物）
+n. 电梯，升降机；免费搭车，搭便车；鼓舞，振奋；抬，提；（空气的）升力，提升力；（飞机的）最大提升重量；高飞（投出的球触地反弹时急速上升）
 [例]
 1.Take the lift to the fifth floor. 乘电梯到五楼。
 2.The baby lifted his arms to his mother. 婴儿抬起胳膊向妈妈伸去。
@@ -1457,21 +1553,25 @@ v. 抬起；举起；使上升；提高。
 [搭]
 1.lift up 提升；举起
 2.elevator lift 电梯提升
-[联] lif (类似拉起的东西) + t (结尾) ——> 类似拉起的提升工具。
+3.gas lift 气举；气流提升
+4.lift force 升力；举力
+[联] lif (类似拉起的东西) + t (结尾) ——> 类似拉起的提升工具
 
-stool /stuːl/
-n. 凳子；矮凳；便盆。
+stool / stuːl /
+n. 凳子；大便，粪便；（生长新芽的）根株，母株；<美>（用来诱捕鸟的）囮子；厕所
+v.（为了长出新芽）从靠近地面处砍断（植物）；（植物）从根株长出新苗；引诱，诱捕
 [例]
 1.Place the stool near the table. 把凳子放在桌子旁边。
 2.The stool wobbled when he sat on it. 他坐上去时凳子晃动了。
 3.The child used a stool to reach the sink. 孩子用凳子够到了水槽。
 [搭]
-1.barstool 高脚凳
+1.bar stool 酒吧的高脚凳
 2.stool pigeon 诱饵
-[联] stoo (类似坐的东西) + l (结尾) ——> 类似坐的东西。
+3.step stool 梯凳；凳踏
+[联] stoo (类似坐的东西) + l (结尾) ——> 类似坐的东西
 
-drawer /ˈdrɔːr/
-n. 抽屉；抽斗；拉绳；开票员。
+drawer / drɔːr /
+n. 抽屉；<旧>衬裤，内裤；制图员；开票人；起草者
 [例]
 1.Open the drawer and take out the keys. 打开抽屉取出钥匙。
 2.The desk has four drawers. 这张桌子有四个抽屉。
@@ -1479,21 +1579,26 @@ n. 抽屉；抽斗；拉绳；开票员。
 [搭]
 1.file drawer 文件柜
 2.drawer slide 抽屉滑轨
-[联] draw (拉动) + er (人或物) ——> 可拉动的容器。
+3.top drawer 社会最上层；最上层抽屉；最高级的
+4.bottom drawer 嫁衣
+[联] draw (拉动) + er (人或物) ——> 可拉动的容器
 
-umbrella /ʌmˈbrɛlə/
-n. 雨伞；保护物；防护设备。
+umbrella / ʌmˈbrelə /
+n. 伞，雨伞，阳伞；综合体，总体；保护伞，庇护；（有众多附属小机构或小群体的）伞形组织；（战斗机或高射炮构成的）掩护幕，防空火网
+adj.大的组织）包括许多小团体的；（词汇）总称的，总括的
 [例]
 1.Take an umbrella with you in case it rains. 带上雨伞以防下雨。
 2.An umbrella company provides services to other companies. 一家控股公司为其他公司提供服务。
 3.The umbrella blocked the sunlight. 雨伞挡住了阳光。
 [搭]
-1.open umbrella 张开的伞
-2.budget umbrella 预算伞
-[联] um (保护) + brella (类似遮挡的东西) ——> 类似遮挡的保护工具。
+1.budget umbrella 预算伞
+2.beach umbrella（美）遮阳伞（海滨或花园用的）
+3.under the umbrella of 在……的保护下
+4.umbrella stand 伞架
+[联] um (保护) + brella (类似遮挡的东西) ——> 类似遮挡的保护工具
 
-raincoat / ˈreɪnkəʊt / (英式发音为 / ˈreɪnkəut /)
-n. 雨衣；防雨外套。
+raincoat / ˈreɪnkoʊt /
+n. 雨衣；防雨外套
 [例]
 1.I always carry my raincoat when it is rainy. 下雨的时候我总是带着我的雨衣。
 2.She wore a bright yellow raincoat to keep dry in the storm. 她穿了一件亮黄色的雨衣在暴风雨中保持干燥。
@@ -1501,10 +1606,12 @@ n. 雨衣；防雨外套。
 [搭]
 1.raincoat pocket 雨衣口袋
 2.waterproof raincoat 防水雨衣
-[联] rain (雨) + coat (外套) ——> 雨天穿的外套。
+[联] rain (雨) + coat (外套) ——> 雨天穿的外套
 
 dredge / dredʒ /
-v. 用挖泥船挖掘；搜寻，寻找（尤指不愉快的事情）。
+vt.（用挖泥船等）疏浚；（用拖捞网等）捞取；（在食物上）撒（面粉等）
+vi. 疏浚，挖掘；采捞
+n. 挖泥船，疏浚机；拖捞网
 [例]
 1.The workers used a dredge to clean up the riverbed. 工人们用挖泥船清理河床。
 2.He spent hours dredging through old files looking for the evidence. 他花了几个小时翻找旧文件以寻找证据。
@@ -1514,9 +1621,9 @@ v. 用挖泥船挖掘；搜寻，寻找（尤指不愉快的事情）。
 2.sand dredge 沙土挖泥船
 [联] dredge (挖泥船) 相关于清理水下淤泥。
 
-can / kæn, kən /
-n. 罐头；金属容器；可能性；能力。
-v. 能够；可以。
+can / kæn; kən /
+v.（表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；<美，非正式>解雇，开除；<美，非正式>停止，结束（某事）
+n. 罐，听；（装液体、垃圾等带盖的）金属容器，塑料容器；<美，非正式>监狱；<美，非正式>厕所；臀部；驱逐舰；破坏者
 [例]
 1.The soup is sold in a can. 这种汤是装在罐头里的。
 2.I can swim. 我会游泳。
@@ -1524,11 +1631,11 @@ v. 能够；可以。
 [搭]
 1.food can 食品罐头
 2.can opener 开罐器
-[联] can (金属容器) 与 storage (储存) 相关联。
+[联] can (金属容器) 与 storage (储存) 相关联
 
 mill / mɪl /
-n. 碾磨机；工厂；磨坊。
-v. 研磨；碾碎。
+n. 磨坊，磨粉厂；工厂，制造厂；<非正式> 一百万；磨粉机，磨麪机；<美>密尔，厘；机器，铣床；<非正式>引擎；<非正式>一百万
+v.（用磨粉机）碾碎，磨成粉；（一大群人）闲逛，转悠；碾（轧，铣）（金属）；轧出（硬币的）边纹；使（羊毛或其他动物纤维）缩绒（或缩呢）
 [例]
 1.The old mill by the river has been converted into a museum. 河边的老磨坊已经被改造成博物馆了。
 2.They mill wheat into flour. 他们把小麦碾成面粉。
@@ -1536,11 +1643,14 @@ v. 研磨；碾碎。
 [搭]
 1.paper mill 纸浆厂
 2.grain mill 谷物磨坊
-[联] mill (工厂) 与 production (生产) 相关联。
+3.rolling mill 轧钢厂；辊轧机
+4.ball mill 球磨；[机]球磨机
+5.paper mill 造纸厂
+[联] mill (工厂) 与 production (生产) 相关联
 
 forge / fɔːrdʒ /
-n. 锻造车间；兵工厂。
-v. 锻造；捏造；伪造。
+v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+n. 锻铁炉，锻造车间
 [例]
 1.The blacksmith worked in the forge all day. 铁匠整天在锻造车间工作。
 2.They forged the metal into tools. 他们把金属锻造成工具。
@@ -1548,11 +1658,12 @@ v. 锻造；捏造；伪造。
 [搭]
 1.blacksmith forge 铁匠锻造车间
 2.forge ahead 努力前进
-[联] forge (锻造) 与 metal (金属) 相关联。
+3.forge ahead 继续进行，取得进展
+[联] forge (锻造) 与 metal (金属) 相关联
 
 alloy / ˈælɔɪ /
-n. 合金；结合体。
-v. 使合金化；混合。
+n. 合金；（与贵金属混合的）劣等金属
+v. 把（金属）铸成合金；<文>损坏，使（价值）降低
 [例]
 1.Stainless steel is an alloy of iron and chromium. 不锈钢是铁和铬的合金。
 2.The metals were alloyed to make them stronger. 这些金属被合金化以增强其强度。
@@ -1560,10 +1671,12 @@ v. 使合金化；混合。
 [搭]
 1.alloy steel 合金钢
 2.copper alloy 铜合金
-[联] alloy (合金) 与 strength (强度) 相关联。
+[联] alloy (合金) 与 strength (强度) 相关联
 
-metal / ˈmɛtl /
-n. 金属；金属制品；金属元素。
+metal / ˈmet(ə)l /
+n. 重金属音乐；金属色；筑路碎石；玻璃液；（铁路的）钢轨；金属，合金
+v. 用金属做，用金属包；<英>用碎石筑路，用碎石修路
+adj. 金属制的
 [例]
 1.Gold is a precious metal. 金是一种贵金属。
 2.The sculpture is made of metal. 这个雕塑是由金属制成的。
@@ -1571,11 +1684,15 @@ n. 金属；金属制品；金属元素。
 [搭]
 1.metal detector 金属探测器
 2.metallurgy 冶金学
-[联] metal (金属) 与 conductivity (导电性) 相关联。
+3.heavy metal 重金属摇滚乐
+4.sheet metal 金属薄片
+5.nonferrous metal 有色金属；非铁金属
+[联] metal (金属) 与 conductivity (导电性) 相关联
 
 iron / ˈaɪərn /
-n. 铁；熨斗。
-v. 熨烫；用铁处理。
+n. 铁；熨斗；铁器，铁制工具；镣铐；（矫正畸形腿的）夹腿；<非正式>马蹬；陨铁，铁陨石；（高尔夫球）铁头球杆；刚强，毅力
+v. 熨，烫
+adj. 铁的，铁制的；刚强的，坚强的；强硬的，严酷的
 [例]
 1.Iron is a common metal. 铁是一种常见的金属。
 2.She ironed her clothes before the party. 她在聚会前熨烫了衣服。
@@ -1583,11 +1700,14 @@ v. 熨烫；用铁处理。
 [搭]
 1.ironing board 熨衣板
 2.cast iron 铸铁
-[联] iron (铁) 与 strength (坚固) 相关联。
+3.iron and steel 钢铁
+4.cast iron 铸铁，生铁，锻铁
+5.iron ore 铁矿石；铁矿砂
+[联] iron (铁) 与 strength (坚固) 相关联
 
-lead / lid /
-n. 铅；领导；指引；领先。
-v. 引导；带领；导致。
+lead  / liːd /
+v. 引领，带路；通向，通往；（与……）相连，相通；领导，指挥；导致，造成；促使，使得；过（某种生活）；领先，居于首位；开牌；对（证人）进行诱询
+n. 领先地位；超前量，领先的距离；范例，榜样；线索；主角，扮演主角的演员；铅；铅笔芯；狗绳，牵狗带；（报纸或电台的）要闻，头条；子弹；电线，导线
 [例]
 1.The plumber fixed the pipe with lead. 江师傅用铅修好了管道。
 2.He led the team to victory. 他带领团队赢得了胜利。
@@ -1595,10 +1715,13 @@ v. 引导；带领；导致。
 [搭]
 1.lead wire 引线
 2.lead pencil 铅笔
-[联] lead (铅) 与 writing (书写) 相关联。
+3.lead in 导入；引入线；开场白
+4.take the lead 带头；为首
+5.in the lead 领先；主要的；占主导地位的
+[联] lead (铅) 与 writing (书写) 相关联
 
 brass / bræs /
-n. 黄铜；黄铜制品；军衔标志。
+n. 黄铜；铜管乐器；黄铜器，黄铜饰品；<非正式>高级官员，高级军官；<英，非正式>钱
 [例]
 1.The door handle is made of brass. 门把手是黄铜做的。
 2.The soldier wore his brass on his uniform. 士兵在他的制服上佩戴着军衔标志。
@@ -1606,22 +1729,28 @@ n. 黄铜；黄铜制品；军衔标志。
 [搭]
 1.brass band 铜管乐队
 2.brasserie 餐厅
-[联] brass (黄铜) 与 durability (耐用性) 相关联。
+3.top brass [口]高级军官；[口]要员；[航海]顶部轴衬
+4.brass wire 黄铜丝，铜丝
+5.brass band 军乐队；黄铜带；吹奏乐队
+[联] brass (黄铜) 与 durability (耐用性) 相关联
 
-bronze /brɑnz/, /brɒnz/
-n. 青铜；青铜制品
+bronze / brɑːnz /
+n. 青铜；青铜色，古铜色；青铜艺术品；铜牌
+adj. 青铜制的；青铜色的，古铜色的
+v. 使被太阳晒黑；镶上青铜面
 [例]
 1.The artist used bronze to create a sculpture. 艺术家用青铜制作了一件雕塑。
 2.Ancient civilizations often used bronze for tools and weapons. 古代文明常常用青铜制作工具和武器。
 3.The museum displayed a beautiful ancient bronze artifact. 博物馆展出了一件精美的古代青铜器。
 [搭]
-1.bronze medal 铜牌
+1.bronze medal 铜牌；铜质奖章
 2.bronze casting 青铜铸造
-[联] Bronze is an alloy of copper and tin.
+3.bronze age 铜器时代；青铜器时代
+4.bronze ware 铜器；青铜器
 
-cement /sɪˈment/
-n. 水泥；胶结物
-v. 粘合；固定
+cement / sɪˈment /
+n. 水泥；胶合剂，接合剂；（对关系、看法等起巩固作用的）纽带；牙骨质；（黏附颗粒的）沉积岩基质；（填充牙齿龋洞的）黏固粉
+v. 用（水泥或胶合剂）黏结，胶合；巩固，加强；决定，确立
 [例]
 1.The workers mixed cement with water to make mortar. 工人们把水泥和水混合制成砂浆。
 2.The broken pieces were cemented together carefully. 碎片被小心地粘合在一起。
@@ -1629,20 +1758,17 @@ v. 粘合；固定
 [搭]
 1.cement mixer 水泥搅拌机
 2.cement floor 水泥地板
-[联] Cement comes from calcining limestone.
 
-cementer /sɪˈmentər/
-n. 水泥厂
+cementer / sɪˈmentər /
+n. 作黏接工作的工人；水泥工人
 [例]
 1.The cementer produces high-quality cement. 水泥厂生产高质量的水泥。
 2.The new cementer will be built near the quarry. 新的水泥厂将在采石场附近建造。
 3.Local residents are concerned about pollution from the cementer. 当地居民担心水泥厂造成的污染。
-[搭] None.
-[联] Cementer is a place where cement is produced.
 
-pitch /pɪtʃ/
-n. 沥青；沥青涂层；音高
-v. 投掷；涂抹沥青
+pitch / pɪtʃ /
+n. <英>体育场地，球场；程度，强度；音准，音高；推销用语；投球；沥青，柏油；（船或飞机的）颠簸；倾斜度，高度；<英>摊位，（街头艺人的）表演场所
+v. 扔，抛，掷；（棒球中）投（球）；击地，（使球）定点落地；重跌，坠落；（船或飞机）颠簸；把……定于某水平；使（产品）针对，面向；推销；为……定音高
 [例]
 1.The road surface was covered with fresh pitch. 路面覆盖着新鲜的沥青。
 2.The pitcher pitched the ball to the batter. 投手向击球手投球。
@@ -1650,10 +1776,13 @@ v. 投掷；涂抹沥青
 [搭]
 1.pitch black 漆黑一片
 2.pitch tent 支帐篷
-[联] Pitch is sticky and black.
+3.pitch in 投入；作出贡献
+4.tar pitch 焦油沥青
+5.coal tar pitch 沥青；煤焦油沥青；硬煤沥青
 
-lime /laɪm/
-n. 石灰；酸橙
+lime / laɪm /
+n. 酸橙（树）；酸橙饮料；酸橙绿色，淡黄绿色；石灰，生石灰；欧椴树，菩提树；<旧>粘鸟胶；（交谈时较注重礼仪和规矩的）非正式社交聚会
+v. 撒石灰于；坐着（或站着）闲聊；粉刷，用石灰涂白；<旧>用粘鸟胶捕鸟
 [例]
 1.The gardener spread lime on the soil to improve it. 园丁在土壤上撒石灰以改良土壤。
 2.Lime juice is very refreshing. 酸橙汁非常提神。
@@ -1661,11 +1790,10 @@ n. 石灰；酸橙
 [搭]
 1.lime green 酸橙绿色
 2.lime scale 水垢
-[联] Lime can be used as a disinfectant.
 
-plaster /ˈplæstər/
-n. 石膏；灰泥
-v. 抹灰泥于；敷药膏于
+plaster / ˈplæstər /
+n. 灰泥；熟石膏；<英>创可贴，膏药
+v. 用灰泥抹（墙等）；（用某物）涂抹，覆盖；大量张贴，贴满；使……紧贴；把（头发）梳平；敷石膏于，敷膏药于；（新闻报道）充斥于（报纸版面）
 [例]
 1.The wall was covered with plaster. 墙壁涂上了灰泥。
 2.The doctor plastered the wound with a bandage. 医生用绷带敷在伤口上。
@@ -1673,10 +1801,10 @@ v. 抹灰泥于；敷药膏于
 [搭]
 1.plaster cast 石膏模型
 2.plasterboard 石膏板
-[联] Plaster can be painted over.
 
-leather /ˈleðər/
-n. 皮革；皮制品
+leather / ˈleðər /
+n. 皮，皮革；（骑摩托车穿的）皮衣，皮夹克
+v. <英，非正式>抽打
 [例]
 1.The sofa was upholstered with fine leather. 沙发用优质皮革装饰。
 2.The cobbler repaired the leather shoes. 鞋匠修补了皮鞋。
@@ -1684,11 +1812,10 @@ n. 皮革；皮制品
 [搭]
 1.leather jacket 皮夹克
 2.leather gloves 皮手套
-[联] Leather is durable and flexible.
 
-plastic /ˈplæstɪk/
-n. 塑料；塑料制品
-adj. 可塑的；人造的
+plastic / ˈplæstɪk /
+n. 塑料；信用卡；塑胶制造业（plastics）；塑料学（plastics）
+adj. 塑料制的；人造的，不自然的；可塑的；（艺术用语）造型的，塑造的；（科技用语）范性的，塑性的；适应环境多样性的
 [例]
 1.The toy was made of plastic. 玩具是塑料做的。
 2.Plastic is a synthetic material. 塑料是一种合成材料。
@@ -1696,10 +1823,9 @@ adj. 可塑的；人造的
 [搭]
 1.plastic bag 塑料袋
 2.plastic surgery 整容手术
-[联] Plastic is lightweight and moldable.
 
-fibre /ˈfaɪbər/
-n. 纤维；纤维质材料
+fibre / ˈfaɪbər /
+n.（食物的）纤维素；（布、绳等的）纤维，丝；（神经或肌肉）纤维；素质，品质；织物，纤维制品
 [例]
 1.The fabric is made of natural fibre. 这种布是由天然纤维制成的。
 2.Fibre optics are used in telecommunications. 光纤用于通信。
@@ -1707,10 +1833,12 @@ n. 纤维；纤维质材料
 [搭]
 1.fibre glass 玻璃纤维
 2.fibre optic cable 光纤电缆
-[联] Fibre gives strength to materials.
+3.carbon fibre 碳纤维
+4.glass fibre 玻璃纤维
+5.chemical fibre 化学纤维
 
-fabric /ˈfæbrɪk/
-n. 织物；结构；组织
+fabric / ˈfæbrɪk /
+n. 布料，织物；构造，结构；（汽车的）车身，（飞机的）机身
 [例]
 1.The dress is made of silk fabric. 这条裙子是丝绸面料制成的。
 2.The fabric of society has changed. 社会结构发生了变化。
@@ -1718,10 +1846,11 @@ n. 织物；结构；组织
 [搭]
 1.woven fabric 织物
 2.carpet fabric 地毯织物
-[联] Fabric can be cotton, wool or synthetic.
+3.natural fabric 自然组织
 
-knit / nɪt , knɪt /
-v. 编织；针织；编织物
+knit / nɪt /
+v. 编织，针织；织平针；（使）紧密结合；（骨头）愈合；皱紧，皱（眉）
+n. 编织的衣物，织物；编织法
 [例]
 1.She is knitting a sweater for her son. 她正在为她儿子织毛衣。
 2.The pattern of this knit is very intricate. 这件针织品的图案非常复杂。
@@ -1731,8 +1860,9 @@ v. 编织；针织；编织物
 2.knit one's brow 紧皱眉头
 [联] kn-（表示编织的动作）
 
-weave / wiːv /
-v. 编织；编结；纺织
+weave  / wiːv /
+v.（用织布机）编，织；（用……）编成；编造（故事或计划）；将（素材等）编入（故事或设计中）；迂回行进，穿行（以避开障碍）；（蜘蛛）结网
+n. 编法，织法，编织式样；编织图案；（使头发显得厚密或更长的）织发
 [例]
 1.The woman weaves baskets from reeds. 那个女人用芦苇编织篮子。
 2.Weave a rug from old cloth. 用旧布织一块地毯。
@@ -1743,37 +1873,49 @@ v. 编织；编结；纺织
 [联] weav(e) -（表示编织的动作）
 
 canvas / ˈkænvəs /
-n. 帆布；画布；粗帆布
+n. 帆布；画布，油画
+v. 用帆布覆盖
 [例]
 1.The artist painted his masterpiece on canvas. 艺术家在他的画布上画了他的杰作。
 2.A tent made of canvas can withstand harsh weather. 由帆布制成的帐篷可以抵御恶劣天气。
 3.Canvas bags are environmentally friendly. 帆布袋是环保的。
 [搭]
 1.canvas shoes 帆布鞋
+2.cotton canvas 棉帆布；棉质油画布
+3.canvas shoes 帆布鞋
 [联] canv-as(e) -（表示布料）
 
-linen / ˈlɪnən /
-n. 亚麻布；亚麻制品
+linen / ˈlɪnɪn /
+n. 亚麻布；家庭日用织品；<旧>内衣裤
+adj. 亚麻的，亚麻布制的
 [例]
 1.The tablecloth is made of linen. 这块桌布是亚麻做的。
 2.Linen is breathable and comfortable. 亚麻透气舒适。
 3.Linen is often used for bed sheets. 亚麻常用于床单。
 [搭]
 1.linen closet 亚麻衣柜
+2.bed linen 被单和枕套
+3.linen yarn 亚麻纱
+4.dirty linen 家丑
 [联] lin-en -（表示亚麻）
 
-cotton / ˈkɑːtn /
-n. 棉花；棉布；棉质衣物
+cotton / ˈkɑːt(ə)n /
+n. 棉，棉花；棉布；棉线，棉纱；脱脂棉，药棉
+adj. 棉的，棉制的
+v. <非正式>开始领会，开始明白；<美，非正式>喜爱，喜欢
 [例]
 1.Cotton is widely grown in China. 棉花在中国广泛种植。
 2.The dress is made of cotton. 这条裙子是棉质的。
 3.Cotton clothing is soft and comfortable. 棉质衣服柔软舒适。
 [搭]
 1.cotton gin 棉花轧机
+2.cotton fabric 棉布；棉纤物
+3.cotton yarn 棉纱；棉纱线
+4.cotton fiber 棉纤维
 [联] cot-ton -（表示棉花）
 
-nylon / ˈnaɪlən /
-n. 尼龙；尼龙制品
+nylon  / ˈnaɪlɑːn /
+n. 尼龙，[纺] 聚酰胺纤维；尼龙袜
 [例]
 1.Nylon is strong and durable. 尼龙坚固耐用。
 2.The rope is made of nylon. 这根绳子是尼龙做的。
@@ -1783,7 +1925,8 @@ n. 尼龙；尼龙制品
 [联] ny-lon -（表示合成纤维）
 
 lumber / ˈlʌmbər /
-v. 使笨拙地移动；使蹒跚而行
+v. 缓慢地移动，笨拙地行走；迫使担负（工作或责任）；<美>伐木；逢场作戏地结识；乱堆
+n. 木材；<英>废旧家具，废旧大件杂物；被看作可能成为性伴侣的人
 [例]
 1.The old man lumbered down the street. 老人蹒跚地走在街上。
 2.He lumbered into the room with a heavy box. 他抱着一个沉重的盒子笨拙地走进房间。
@@ -1792,28 +1935,37 @@ v. 使笨拙地移动；使蹒跚而行
 1.lumber room 杂物间
 [联] lum-ber -（表示笨重的东西）
 
-wooden / ˈwʊdən /
-adj. 木制的；呆板的
+wooden / ˈwʊd(ə)n /
+adj. 木制的；（行为）僵硬的，呆板的；木头似的，木头特性的
 [例]
 1.The house has wooden floors. 这座房子有木地板。
 2.His expression was wooden. 他的表情呆板。
 3.The wooden chair creaked under his weight. 他坐在木椅上，椅子发出嘎吱声。
 [搭]
 1.wooden spoon 木勺
+2.wooden furniture 木制家具；木家具
+3.wooden box 木箱；木盒子
+4.wooden floor 木质地板
 [联] wood-en -（表示与木有关）
 
 mine / maɪn /
-n. 矿井；矿山
+pron. 我的；<英，非正式>我的家
+n. 矿，矿井；地雷，水雷；宝库，源泉；<史>炸药坑道
+v. 采（煤等矿物）；布雷，用雷炸毁（车辆）；寻找（某事物中）蕴含的价值；在（地下）挖洞（或坑道）；挖掘（数据）；挖矿（获取加密货币的勘探方式）
 [例]
 1.The mine produces gold and silver. 这个矿产黄金和白银。
 2.Mine accidents happen frequently. 矿井事故经常发生。
 3.Miners work deep underground. 矿工们在地下深处工作。
 [搭]
 1.mine safety 矿山安全
+2.coal mine 煤矿，煤矿坑
+3.gold mine 金矿，金山
+4.friend of mine 我的朋友
 [联] mi-ne -（表示采矿）
 
 pit / pɪt /
-n. 坑；矿坑；深渊
+n. 坑，洼；（表面上的）疤痕，凹陷；矿井；<非正式>异常凌乱的地方；乐池，乐队席；<非正式>糟糕的事物（the pits）；<美>（水果或蔬菜的）核
+v. 使竞争，使对立；去除……的果核；（使）有疤痕，（使）凹陷；停车加油，停车检修；窖藏
 [例]
 1.The child fell into a pit. 孩子掉进了一个坑里。
 2.The coal pit has been abandoned. 这个煤矿已经被废弃。
@@ -1823,7 +1975,8 @@ n. 坑；矿坑；深渊
 [联] pi-t -（表示凹陷处）
 
 fuel / ˈfjuːəl /
-n. 燃料；vt. 给...加燃料
+n. 燃料，燃烧剂；刺激因素，刺激性言行；（为身体提供能量的）食物，饮料，药剂
+v.（给……）提供燃料，加油；刺激，加剧
 [例]
 1.The car needs to be fueled before we start our journey. 这辆车在我们开始旅程之前需要加油。
 2.Biofuel is becoming more popular as an alternative energy source. 生物燃料作为一种替代能源越来越受欢迎。
@@ -1831,10 +1984,10 @@ n. 燃料；vt. 给...加燃料
 [搭]
 1.fuel cell 燃料电池
 2.fuel consumption 燃油消耗量
-[联] fuel与food（食物）谐音，想象为给身体加“燃料”。
+[联] fuel与food（食物）谐音，想象为给身体加“燃料”
 
 lubricate / ˈluːbrɪkeɪt /
-vt. 润滑；使润滑剂润滑；使润滑；使滑润；使顺利运行
+v. 润滑，给……加润滑油；促进，使顺畅；<非正式>灌……酒，以酒为……增兴
 [例]
 1.Regularly lubricate your bike chain to keep it running smoothly. 定期给自行车链条上润滑油，以保持其顺畅运行。
 2.The machine parts need to be lubricated every week. 机器部件每周都需要润滑。
@@ -1842,21 +1995,24 @@ vt. 润滑；使润滑剂润滑；使润滑；使滑润；使顺利运行
 [搭]
 1.lubricate the wheels 润滑轮子
 2.lubricate the system 润滑系统
-[联] lubricate与lucky（幸运）谐音，想象润滑能让事情更“幸运”。
+[联] lubricate与lucky（幸运）谐音，想象润滑能让事情更“幸运”
 
-diamond / ˈdaɪəmənd /
-n. 钻石；菱形；adj. 钻石的；菱形的
+diamond / ˈdaɪmənd; ˈdaɪəmənd /
+n. 钻石；菱形；（纸牌的）方块；（棒球场的）内场；菱形铁路道口
 [例]
 1.She received a diamond necklace as a gift from her husband. 她从丈夫那里收到了一条钻石项链。
 2.The shape of the window is a diamond. 窗户的形状是菱形。
 3.Diamonds are often used in jewelry. 钻石经常用于珠宝中。
 [搭]
-1.diamond ring 钻戒
+1.diamond ring 钻石戒指，钻戒
 2.diamond cutter 钻石切割工
-[联] diamond与hand（手）谐音，想象用手握着“钻石”。
+3.synthetic diamond 人造金刚石；人造钻石
+4.diamond tool 金钢石刀具
+[联] diamond与hand（手）谐音，想象用手握着“钻石”
 
-crystal / ˈkrɪstl /
-n. 水晶；结晶体；晶体；adj. 水晶般的；清澈的
+crystal / ˈkrɪst(ə)l /
+n. 结晶，晶体；水晶；水晶玻璃；（钟表的）石英玻璃保护面，表蒙子
+adj. 晶莹的，清澈透明的
 [例]
 1.The crystal vase is very fragile. 这个水晶花瓶非常易碎。
 2.Crystals can be used to make jewelry. 水晶可以用来制作珠宝。
@@ -1864,10 +2020,11 @@ n. 水晶；结晶体；晶体；adj. 水晶般的；清澈的
 [搭]
 1.crystal ball 算命水晶球
 2.crystal structure 晶体结构
-[联] crystal与glass（玻璃）谐音，想象水晶和玻璃的相似之处。
+[联] crystal与glass（玻璃）谐音，想象水晶和玻璃的相似之处
 
 inferior / ɪnˈfɪriər /
-adj. 劣质的；下等的；次的；n. 下等人；下属
+adj. 次的，较差的；低等的，下级的；自卑的；（法庭，特别法庭）下级的；（商品，服务）需求量在衰退期中较之繁荣期更大的，低档的
+n. 下级，（地位或成就）低于他人者；下标字母，下标数字，下标符号
 [例]
 1.The quality of this product is inferior to that one. 这个产品的质量比那个差。
 2.He considers himself superior to his inferiors. 他认为自己比他的下属优越。
@@ -1875,10 +2032,12 @@ adj. 劣质的；下等的；次的；n. 下等人；下属
 [搭]
 1.inferior goods 劣质商品
 2.superior and inferior courts 上级法院和下级法院
-[联] inferior与infer（推断）谐音，想象推断出的东西质量“较差”。
+[联] inferior与infer（推断）谐音，想象推断出的东西质量“较差”
 
-counterfeit / ˌkaʊntərˈfiːt /
-adj. 伪造的；冒充的；vt. 伪造；冒充
+counterfeit / ˈkaʊntərfɪt /
+adj. 伪造的，假冒的；<古>假装的，虚假的
+v. 伪造，仿造；佯作，假装；酷似
+n. 伪造物，赝品
 [例]
 1.The banknotes were counterfeit. 这些纸币是假的。
 2.Counterfeit goods are illegal. 仿冒品是非法的。
@@ -1886,10 +2045,12 @@ adj. 伪造的；冒充的；vt. 伪造；冒充
 [搭]
 1.counterfeit currency 伪钞
 2.counterfeit designer bags 仿冒名牌包
-[联] counterfeit与count（计数）谐音，想象造假者在“计数”真品数量。
+[联] counterfeit与count（计数）谐音，想象造假者在“计数”真品数量
 
 fake / feɪk /
-n. 假货；骗子；adj. 假的；伪造的；vt. 伪造；假装
+adj. 伪造的，冒充的；（动作或感情）虚假的，做作的
+n. 假货，赝品；骗子，冒充者；假动作；（绳索、水龙带等的）一圈（=flake）
+v. 伪造，冒充；假装，佯装；（尤指体育运动中）做假动作；不懂装懂，不会装会；盘卷（=flake）
 [例]
 1.That painting is a fake. 那幅画是假的。
 2.He faked illness to avoid work. 他假装生病以逃避工作。
@@ -1897,10 +2058,13 @@ n. 假货；骗子；adj. 假的；伪造的；vt. 伪造；假装
 [搭]
 1.fake ID 假身份证
 2.fake smile 假笑
-[联] fake与face（脸）谐音，想象脸上带着“假笑”。
+3.fake commodity 假货
+4.head fake 以头部做出假动作
+5.fake fur 人造革；假裘皮；仿造皮毛
+[联] fake与face（脸）谐音，想象脸上带着“假笑”
 
-fragile / ˈfrædʒaɪl /
-adj. 易碎的；脆弱的；纤弱的
+fragile / ˈfrædʒ(ə)l /
+adj. 易碎的，易损的；不牢固的，易被摧毁的；纤巧美丽的；虚弱的，体弱的
 [例]
 1.Glass is fragile. 玻璃是易碎的。
 2.Her health has become fragile after the operation. 手术后她的健康状况变得脆弱。
@@ -1908,10 +2072,12 @@ adj. 易碎的；脆弱的；纤弱的
 [搭]
 1.fragile bone 骨折
 2.fragile ecosystem 脆弱的生态系统
-[联] fragile与frail（虚弱的）谐音，想象虚弱的东西容易“破碎”。
+3.fragile goods 易碎商品；易碎货物
+[联] fragile与frail（虚弱的）谐音，想象虚弱的东西容易“破碎”
 
-miniature / ˈmɪnɪətʃər /
-n. 微型画；小模型；adj. 微型的；小型的
+miniature / ˈmɪnətʃər /
+adj. 微型的，小型的
+n. 缩微模型，微型复制品；微型画，小画像；小瓶装酒；小种植物（或动物）；（华美装饰手稿上的）画饰，花字
 [例]
 1.This is a miniature model of the Eiffel Tower. 这是埃菲尔铁塔的微型模型。
 2.A miniature painting is displayed in the museum. 博物馆展出了一幅微型画。
@@ -1921,8 +2087,8 @@ n. 微型画；小模型；adj. 微型的；小型的
 2.miniature camera 微型相机
 [联] miniature与mini（迷你）谐音，想象“迷你”大小。
 
-available / əˈveɪləbl /
-adj. 可获得的；可购得的；有空的
+available / əˈveɪləb(ə)l /
+adj. 可用的，可获得的；有空的，有闲暇的；未婚的，单身的
 [例]
 1.The book is available in all major bookstores. 这本书在所有主要书店都有售。
 2.Are you available tomorrow afternoon? 你明天下午有空吗？
@@ -1932,14 +2098,15 @@ adj. 可获得的；可购得的；有空的
 2.make oneself available 可供利用；有空
 [联] available与able（能够）谐音，想象“能够”得到的东西。
 
-durable /dəˈʊrəbəl/, /ˈdʊrəbəl/
-adj. 耐用的，持久的；能持续很长时间的。
+durable / ˈdʊrəb(ə)l /
+adj. 持久的，耐用的；<非正式>（人）有耐力的，坚韧不拔的
+n. 耐用品
 [例]
 1.The durable material of this bag ensures it can last for years. 这个包的耐用材料确保它可以使用多年。
 2.The durable quality of this furniture makes it ideal for high-traffic areas. 这种家具的耐用品质使其非常适合高流量区域。
 3.The durable construction of the building withstands extreme weather conditions. 建筑物的耐用结构能够抵御极端天气条件。
 [搭]
 1.durable goods 耐用品
-durable fabric 耐用布料
-[联] dur (坚持) + able (能够) ——> 能够坚持长久的。
+2.durable fabric 耐用布料
+[联] dur (坚持) + able (能够) ——> 能够坚持长久的
 

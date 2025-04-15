@@ -925,7 +925,7 @@ v. 即兴表演，即兴创作；临时做，临时凑成
 2.improvise a song 即兴创作歌曲
 [联] improvise = im-(进入) + provis(e)(准备) + -ize——> 进入准备状态——> 即兴。
 
-musical /ˈmjuːzɪkəl/
+musical / ˈmjuːzɪkəl /
 adj.音乐的；有音乐才能的；悦耳的
 [例]
 1.My sister loves musicals. 我妹妹喜欢音乐剧。
@@ -934,46 +934,51 @@ adj.音乐的；有音乐才能的；悦耳的
 [搭]
 1.musical instrument 音乐乐器
 2.musical composition 音乐作品
-[联] musical = music(音乐) + -al——> 与音乐相关的。
+[联] musical = music(音乐) + -al——> 与音乐相关的
 
 magic / ˈmædʒɪk /
-n. 魔术；魔法；魔力；不可思议的技艺。
+n. 魔术；魔法；魔力；不可思议的技艺
 [例]
 1.The magic of the film left a deep impression on me. 这部电影的魔力给我留下了深刻的印象。
 2.She performed a magic trick that amazed everyone. 她表演了一个让所有人都惊讶的魔术。
 3.In this scene, the magic of art transforms the ordinary into the extraordinary. 在这一场景中，艺术的魔力将平凡转化为非凡。
 [搭]
 magic show 魔术表演
-[联] magi (古代波斯祭司) + ic (形容词后缀) ——> 掌握神秘知识的人。
+[联] magi (古代波斯祭司) + ic (形容词后缀) ——> 掌握神秘知识的人
 
-ballet / ˈbæleɪ /
-n. 芭蕾舞；芭蕾舞剧。
+ballet / bæˈleɪ /
+n. 芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲
 [例]
 1.His favorite ballet is Swan Lake. 他最喜欢的芭蕾舞剧是《天鹅湖》。
 2.The ballet dancer's movements were graceful and precise. 这位芭蕾舞者的动作优雅而精准。
 3.The ballet was performed in a classical style. 这部芭蕾舞是以古典风格演出的。
 [搭]
-ballet school 芭蕾学校
-[联] ba (源自法语) + let (小的) ——> 法国的小型舞蹈。
+1.ballet school 芭蕾学校
+2.ballet dancer 芭蕾舞蹈家
+3.water ballet 花样游泳；水上芭蕾舞
+[联] ba (源自法语) + let (小的) ——> 法国的小型舞蹈
 
 film / fɪlm /
-n. 电影；胶片；薄膜；vt. 把...拍成电影；vi. 拍电影。
+n. 电影，影片；电影艺术，电影业；胶卷，底片；薄膜，薄层；纪实镜头，记录画面；<古>细丝
+v. 录制，拍摄电影；（似）被覆盖上一薄层东西，变得朦胧；在……上覆以薄膜
 [例]
 1.I watched a romantic film last night. 昨晚我看了一部浪漫电影。
 2.The film industry has grown rapidly in recent years. 近年来电影行业发展迅速。
 3.The scene of the film was breathtaking. 这部电影的场景令人叹为观止。
 [搭]
-film festival 电影节
-[联] fil (缠绕) + m (缩写) ——> 被胶片覆盖的东西。
+1.film festival 电影节
+2.thin film 薄膜
+3.plastic film 塑料薄膜；塑胶膜
+[联] fil (缠绕) + m (缩写) ——> 被胶片覆盖的东西
 
 movie / ˈmuːvi /
-n. 电影；影片。
+n. <美>电影；<美>电影院（the movies）；<美>电影业（the movies）；<美>电影（总称）（the movies）
 [例]
 1.My favorite movie is Forrest Gump. 我最喜欢的电影是《阿甘正传》。
 2.We went to see a new movie last weekend. 上周末我们去看了一部新电影。
 3.The movie was adapted from a novel. 这部电影改编自一部小说。
 [搭]
-action movie 动作片
+1.action movie 动作片
 [联] mov (移动) + ie (小词后缀) ——> 移动的画面。
 
 artist / ˈɑːrtɪst /
