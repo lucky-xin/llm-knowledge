@@ -1,5 +1,6 @@
-stuff / stʌf / 或 / stəf /
-n.东西，物品；材料，原料；无关紧要的事物。
+stuff / stʌf /
+n. 东西，物品；基本特征，特质，根本；<非正式>（某人从事的）活动，事情；<非正式>原材料；投球能力；<非正式>作品，乐曲，艺术
+v. 塞进，填进；填满，装满；填作料，填馅；制作（动物）标本；<非正式>（使）吃撑，吃足；不稀罕，不在乎；<非正式>把同样的印刷品装进（信封）
 [例]
 1.I need to buy some stuff for the party. 我需要为派对买些东西。
 2.The fabric is made from natural stuff. 这种布料是由天然材料制成的。
@@ -7,10 +8,14 @@ n.东西，物品；材料，原料；无关紧要的事物。
 [搭]
 1.stuff it 塞满，装满
 2.everything and the kitchen sink 所有东西，一切
-[联] stuff 可以联想成“一堆东西”。
+3.and stuff 等等；诸如此类
+4.food stuff 粮食
+5.stuff with 用…把…堵住；用…装/填/塞
+[联] stuff 可以联想成“一堆东西”
 
 item / ˈaɪtəm /
-n.项目；条款；条目；一件商品。
+n. 项目，条款；一件商品（或物品）；一则，一条（新闻）；（关系亲密的）一对
+adv.（用于介绍清单上逐个项目之前）又，此外还有
 [例]
 1.The price of each item is clearly marked. 每件商品的价格都清楚地标明了。
 2.There are many items on the agenda. 议程上有许多议题。
@@ -18,10 +23,14 @@ n.项目；条款；条目；一件商品。
 [搭]
 1.list of items 物品清单
 2.itemized bill 分项账单
-[联] item 可以联想成“项目列表中的一个”。
+3.menu item [计]菜单项
+4.item on the agenda 议程项目
+5.construction item 施工项目，建设项目
+[联] item 可以联想成“项目列表中的一个”
 
-merchandise / ˈmɜːrCHəndaɪz /
-n.商品；v.买卖商品。
+merchandise / ˈmɜːrtʃəndaɪs /
+n. 商品，货品；相关商品，指定商品
+v.（用广告等方式）推销（商品或服务）；推介，宣传（思想，人）；<古>从商
 [例]
 1.These merchandise are imported from China. 这些商品是从中国进口的。
 2.The store merchandise is always changing. 商店的商品总是在变化。
@@ -29,10 +38,14 @@ n.商品；v.买卖商品。
 [搭]
 1.merchandise manager 商品经理
 2.wholesale merchandise 批发商品
-[联] merchan (商人) + dise (与交易相关的东西) ——> 商品。
+3.general merchandise 杂货；日用商品
+4.merchandise trade 商品贸易
+5.merchandise sales 商品销售，销货
+[联] merchan (商人) + dise (与交易相关的东西) ——> 商品
 
 souvenir / ˌsuːvəˈnɪr /
-n.纪念品；留念物。
+n. 纪念品，纪念物
+v. <非正式>把……作为纪念品
 [例]
 1.I bought a souvenir for my friend. 我给我朋友买了个纪念品。
 2.This souvenir reminds me of my trip. 这个纪念品让我想起了我的旅行。
@@ -40,10 +53,13 @@ n.纪念品；留念物。
 [搭]
 1.souvenir shop 纪念品商店
 2.keep a souvenir 留作纪念
+3.souvenir shop 纪念品商店
+4.Expo Souvenir 世博会留念品；世博会怀念品；世博会回忆品
+5.expo-themed souvenir 世博会纪念品
 [联] souvenir 可以联想成“souvenir”（记住）+ “venir”（来），即带来回忆的东西。
 
 artefact / ˈɑːrtɪfækt /
-n.人工制品；（考古学中的）器物。
+n. 手工制品，人造物；[医]假象，人为现象
 [例]
 1.Ancient artefacts were discovered in the excavation. 考古挖掘中发现了古代的人工制品。
 2.The museum has a collection of prehistoric artefacts. 博物馆收藏了一批史前人工制品。
@@ -51,10 +67,13 @@ n.人工制品；（考古学中的）器物。
 [搭]
 1.archaeological artefact 考古人工制品
 2.historical artefact 历史人工制品
-[联] artefact 可以联想成“artifact”（人工制品）。
+3.Artefact of Glory 人工制品的荣耀
+4.Artefact Studies 人工制品的研究；人工制品研究
+5.artefact pollution 人工污染；人为污染
+[联] artefact 可以联想成“artifact”（人工制品）
 
-artificial / ˌɑːrtɪˈfɪʃl /
-adj.人造的；不自然的；虚伪的。
+artificial / ˈɑːrtɪfækt /
+n. 手工制品，人造物；[医]假象，人为现象
 [例]
 1.Artificial flowers look beautiful but they don't last long. 人造花看起来很漂亮但不持久。
 2.The artificial intelligence system is very advanced. 这个人工智能系统非常先进。
@@ -62,10 +81,14 @@ adj.人造的；不自然的；虚伪的。
 [搭]
 1.artificial intelligence 人工智能
 2.artificial light 人造光
-[联] artificial 可以联想成“art”（艺术）+ “ificial”（制作的）——> 人造的。
+3.Artefact of Glory 人工制品的荣耀
+4.Artefact Studies 人工制品的研究；人工制品研究
+5.artefact pollution 人工污染；人为污染
+[联] artificial 可以联想成“art”（艺术）+ “ificial”（制作的）——> 人造的
 
 material / məˈtɪriəl /
-n.材料；资料；adj.物质的；重要的。
+n. 衣料，布料；材料，原料；素材；节目，剧目；（有指明特征的）人才；（某一活动所需的）材料
+adj. 物质的，非精神上的；重要的，需予以考虑的；和推理内容有关的
 [例]
 1.Wood is a common material for building houses. 木材是建造房屋的常用材料。
 2.The material she gave us was very useful. 她给我们的资料很有用。
@@ -73,10 +96,14 @@ n.材料；资料；adj.物质的；重要的。
 [搭]
 1.building material 建筑材料
 2.material wealth 物质财富
-[联] material 可以联想成“matter”（物质）+ “ial”（形容词后缀）——> 材料的。
+3.raw material 原料
+4.new material 新材料
+5.teaching material 教学内容；教学资料
+[联] material 可以联想成“matter”（物质）+ “ial”（形容词后缀）——> 材料的
 
 raw / rɔː /
-adj.生的；未加工的；粗糙的。
+adj. 生的，未煮过的；天然的，未经加工的；（信息）未经处理的，原始的；（感情，品质）强烈的，不掩饰的；（皮肤）刺痛的；（人）生疏无知的，未经训练的
+n. 擦伤处
 [例]
 1.Raw meat should be kept in the refrigerator. 生肉应该放在冰箱里。
 2.The raw data needs to be processed. 原始数据需要处理。
@@ -84,10 +111,13 @@ adj.生的；未加工的；粗糙的。
 [搭]
 1.raw materials 原材料
 2.raw footage 未经编辑的原始镜头
-[联] raw 可以联想成“未加工的”。
+3.in the raw 处于自然状态；未开化的；裸体
+4.raw water 未净化的水
+[联] raw 可以联想成“未加工的”
 
 crude / kruːd /
-adj.未加工的；粗糙的；粗鲁的。
+adj. 粗略的，大概的；粗糙的，粗制的；冒犯的，粗俗的；天然的，自然的
+n. 原油；天然的物质
 [例]
 1.Crude oil is extracted from the ground. 原油是从地下开采出来的。
 2.The crude estimate is that there are over a million people affected. 粗略估计有超过百万人受到影响。
@@ -95,10 +125,12 @@ adj.未加工的；粗糙的；粗鲁的。
 [搭]
 1.crude oil 原油
 2.crude death rate 粗死亡率
-[联] crude 可以联想成“粗鲁的”。
+3.crude protein 粗蛋白；天然蛋白质
+4.crude drug 天然药
+[联] crude 可以联想成“粗鲁的”
 
 necessity / nəˈsesəti /
-n.必需品；必要性；必然。
+n. 必需品，必需的事物；必要，需要；必然性，不可避免的情况
 [例]
 1.Food and water are basic necessities. 食物和水是基本必需品。
 2.It is a necessity to have a good education. 受良好教育是必要的。
@@ -106,10 +138,14 @@ n.必需品；必要性；必然。
 [搭]
 1.basic necessity 基本必需品
 2.necessity of life 生活必需品
-[联] necessity 可以联想成“necessary”（必要的）+ “ity”（名词后缀）——> 必需品。
+3.of necessity 必然地；不可避免地
+4.out of necessity 出于需要，必定
+5.by necessity 不得已；必然地，不可避免地
+[联] necessity 可以联想成“necessary”（必要的）+ “ity”（名词后缀）——> 必需品
 
-necessary / ˈnɛsəˌsɛri /, / ˈnɛsəsəri /
-adj. 必要的；必然的；不可或缺的。
+necessary / ˈnesəseri /
+adj. 必要的，必需的；必然的，不可避免的；迫不得已的，非自愿的
+n.（生活）必需品；<英，非正式>必要的事（the necessary）；<英，非正式>足够的钱（the necessary）
 [例]
 1.It is necessary to drink enough water every day. 每天喝足够的水是必要的。
 2.Having a basic understanding of English grammar is necessary for learning a new language. 学习一门新语言需要具备基本的英语语法知识。
@@ -117,11 +153,14 @@ adj. 必要的；必然的；不可或缺的。
 [搭]
 1.necessary evil 必要的恶事；不可避免的坏事
 2.it is necessary that... 必须...；应该...
-[联] ne-（否定）+ cess（走）+ -ary（形容词后缀）——> 不得不走的，即“必要的”。
+3.if necessary 如果必要的话
+4.necessary for 所必需；对…是必要的
+5.necessary condition 必要条件，充分必要条件
+[联] ne-（否定）+ cess（走）+ -ary（形容词后缀）——> 不得不走的，即“必要的”
 
 outfit / ˈaʊtfɪt /
-n. 成套服装；一队人马；一套工具。
-v. 给...配备装备；穿上全套服装。
+n.（尤指在某一场合穿的）全套服装；全套工具，全套设备；<非正式>（协同工作的）一组人，一队人（尤指乐队、运动队、公司）
+v. 配备，向……提供装备（或服装）；得到装备
 [例]
 1.I need to buy a new outfit for the party. 我需要买一套新衣服去参加派对。
 2.The company has sent out an entire outfit of tools to its remote office. 公司已经将整套工具运送到其偏远办公室。
@@ -129,20 +168,25 @@ v. 给...配备装备；穿上全套服装。
 [搭]
 1.outfit for... 适合...的装备；为...配备的设备
 2.go out in/outfit 穿全套服装出去
-[联] out-(外) + fit(合适)——> 外面合适的装备。
+3.gym outfit 运动套装；运动衫裤；体操服
+4.diving outfit 潜水装备；潜水头盔；成套潜水设备；潜水设备
+5.welding outfit 焊接配备；焊接机组；焊接设备
+[联] out-(外) + fit(合适) ——> 外面合适的装备
 
 kit / kɪt /
-n. 成套工具；成套用品。
+n. 成套工具，成套设备；配套元件；<英>全套衣服及装备；成套资料，成套材料；<英>（尤指盛鱼的）大篮子，箱子；（尤指职业舞蹈教师用的）小型小提琴
+v. 装备；预备
 [例]
 1.A mechanic needs a complete kit to fix cars. 一个机械师需要一套完整的工具来修理汽车。
 2.My camping kit includes a tent, sleeping bag, and cooking supplies. 我的露营装备包括帐篷、睡袋和炊具。
 3.Every artist should have a basic art kit. 每个艺术家都应该有一套基本的艺术用品。
 [搭] 
 1.tool kit 工具箱；工具套件
-[联] 与“kit”相关的单词有“kitbag”（工具包）、“kitset”（成套组件）。
+2.repair kit 重复工具包；维修工具；工作服
+[联] 与“kit”相关的单词有“kitbag”（工具包）、“kitset”（成套组件）
 
-utensil / juˈtɛnzəl /
-n. 器具，器皿。
+utensil / juːˈtens(ə)l /
+n.（尤指厨房或家用的）器具，用具
 [例]
 1.My kitchen is full of modern utensils. 我的厨房里满是现代化的器具。
 2.The chef used various utensils to prepare the meal. 厨师使用各种器具准备这顿饭。
@@ -150,7 +194,7 @@ n. 器具，器皿。
 [搭]
 1.cooking utensils 烹饪用具
 2.kitchen utensils 厨房用具
-[联] ut-(工具) + ensil(类似名词后缀)——> 用于烹饪或工作的工具。
+[联] ut-(工具) + ensil(类似名词后缀) ——> 用于烹饪或工作的工具
 
 garbage / ˈɡɑrbɪdʒ /
 n. 垃圾，废物。
@@ -161,10 +205,12 @@ n. 垃圾，废物。
 [搭]
 1.garbage can 垃圾桶
 2.garbage collection 垃圾收集
-[联] 与“garbage”相关的单词有“garbage disposal”（垃圾处理器）、“garbage bag”（垃圾袋）。
+[联] 与“garbage”相关的单词有“garbage disposal”（垃圾处理器）、“garbage bag”（垃圾袋）
 
 rubbish / ˈrʌbɪʃ /
-n. 垃圾，废物；废话，胡说。
+n. 垃圾，废弃物；毫无价值的东西，劣质产品；废话，瞎说
+v. <英，非正式>严厉批评，把……说得一无是处
+adj. <英，非正式>很差劲的，无用的
 [例]
 1.The yard was filled with rubbish after the storm. 暴风雨过后院子里堆满了垃圾。
 2.Stop talking rubbish! 别再胡说了！
@@ -172,10 +218,12 @@ n. 垃圾，废物；废话，胡说。
 [搭]
 1.rubbish bin 垃圾箱
 2.talk rubbish 胡说，乱讲
-[联] rub-(擦) + ish(名词后缀)——> 擦下来的废弃物。
+3.rubbish dump 垃圾堆；碎石堆
+[联] rub-(擦) + ish(名词后缀) ——> 擦下来的废弃物
 
 trash / træʃ /
-n. 垃圾，废物；无价值的东西。
+n. 垃圾，废物；<美>垃圾桶；劣质的东西，（尤指）拙劣的作品；<美>废物，窝囊废；（西印度）（作燃料的）甘蔗叶（梢），甘蔗渣
+v. <非正式>损坏，毁坏；<非正式>抨击，谴责；<非正式>丢弃，去除；（计算机）把（文件，程序）送进回收站删除，清空（磁盘）；剥（甘蔗）皮以使其更快成熟
 [例]
 1.The trash bin needs to be emptied. 垃圾箱需要清空了。
 2.That book is pure trash. 那本书完全是垃圾。
@@ -183,21 +231,25 @@ n. 垃圾，废物；无价值的东西。
 [搭]
 1.trash can 垃圾桶
 2.throw trash away 扔掉垃圾
-[联] 与“trash”相关的单词有“trashy”（低俗的）。
+[联] 与“trash”相关的单词有“trashy”（低俗的）
 
-recycle / ˈriːsəkəl /
-v. 回收利用；重复使用。
+recycle / ˌriːˈsaɪk(ə)l /
+v. 回收利用，再利用；（将可回收物品）送入回收加工厂；使再循环；再次应用，重新使用（观念、文章等）
+n. 回收利用，循环使用
 [例]
 1.We should recycle plastic bottles to protect the environment. 我们应该回收塑料瓶以保护环境。
 2.The company recycles paper to reduce waste. 这家公司回收纸张以减少浪费。
 3.Recycling metal saves energy and reduces pollution. 回收金属可以节约能源并减少污染。
 [搭]
-1.recycling bin 回收垃圾桶
+1.fuel recycle 能源 燃料再循环
 2.recycle paper 回收纸张
-[联] re-(再次) + cycle(循环)——> 再次循环利用。
+3.recycle bin 回收站；资源回收筒
+4.recycle gas 回注气，循环气
+[联] re-(再次) + cycle(循环) ——> 再次循环利用
 
-reuse / riˈjuz /
-v. 再利用；重新使用。
+reuse / ˌriːˈjuːz /
+v. 再次使用，重复使用
+n. 再次使用，重复使用
 [例]
 1.We can reuse these glass jars as storage containers. 我们可以重新利用这些玻璃罐作为储物容器。
 2.The furniture can be reused in another room. 这些家具可以在另一个房间里重新使用。
@@ -205,11 +257,11 @@ v. 再利用；重新使用。
 [搭]
 1.reuse water 再利用水
 2.reuse bags 重复使用袋子
-[联] re-(再次) + use(使用)——> 再次使用。
+[联] re-(再次) + use(使用) ——> 再次使用
 
 litter / ˈlɪtər /
-n. 垃圾，废弃物；零散的东西。
-v. 乱丢废弃物；弄乱。
+n.（公共场所内乱扔的）垃圾，废弃物；一堆杂乱的东西；（同时出生的）一窝（小动物）；猫砂；（森林里的）落叶，落叶层；（家畜睡觉用的）褥草，垫草；轿子；担架
+v. 散乱覆盖；（在公共场所）乱扔（垃圾）；使（某事物）充满；（狗、猫等动物）产仔；<古>（为马或其他动物）铺褥草
 [例]
 1.The street was covered with litter. 街道上覆盖着垃圾。
 2.Don't litter in public places. 不要在公共场所乱扔垃圾。
@@ -217,10 +269,12 @@ v. 乱丢废弃物；弄乱。
 [搭]
 1.litter box 垃圾箱；猫砂盆
 2.litter bin 垃圾箱
-[联] 与“litter”相关的单词有“litterbug”（乱丢垃圾的人）。
+[联] 与“litter”相关的单词有“litterbug”（乱丢垃圾的人）
 
 waste / weɪst /
-n. 垃圾；废物；废弃之物
+n. 浪费，滥用；废物，废弃物（同 wastes）；荒地，荒原（wastes）；<法律>（尤指因租借人的行为或疏忽而导致的）不动产的损坏，产业损伤；粪便，尿液
+v. 浪费，滥用；未能充分利用，没有物尽其用；<美，非正式>杀害，谋杀（某人）；（使）（人，身体部位）逐渐变虚弱，变消瘦；<文>破坏，毁坏（地方）
+adj.（通常指城市中的某地）荒芜的，荒废的；（材料、物质等）废弃的，无用的
 [例]
 1.The waste material can be recycled. 这些废料可以回收利用。
 2.Don't throw waste into the river. 不要把垃圾扔进河里。
@@ -228,10 +282,14 @@ n. 垃圾；废物；废弃之物
 [搭]
 1.household waste 家庭垃圾
 2.recycle waste 回收垃圾
-[联] waste由“w”开头，与water（水）联想，“浪费水也是一种浪费”。
+3.waste water 污水，废水
+4.solid waste 固体废物，固态废物；固体废料，固体垃圾
+5.waste gas 废气
+[联] waste由“w”开头，与water（水）联想，“浪费水也是一种浪费”
 
 junk / dʒʌŋk /
-n. 废旧杂物；无用之物
+n. 废旧杂物；垃圾，破烂；毫无价值的事物；<非正式>毒品，（尤指）海洛因；中国式帆船；（含有鲸脑油的）抹香鲸头部纤维组织
+v. <非正式>抛弃，丢掉（废旧物品）
 [例]
 1.I found some old junk in my attic. 我在阁楼发现了一些旧杂物。
 2.Junk mail fills up my mailbox every day. 垃圾邮件每天塞满我的邮箱。
@@ -239,10 +297,14 @@ n. 废旧杂物；无用之物
 [搭]
 1.junk food 垃圾食品
 2.scrap junk 回收废品
-[联] junk和jump谐音，想象跳跃着去捡垃圾。
+3.junk food 垃圾食物；无营养的速食；华而不实的东西
+4.junk mail 垃圾邮件；邮寄宣传品
+5.space junk 太空垃圾，空间垃圾
+[联] junk和jump谐音，想象跳跃着去捡垃圾
 
 landfill / ˈlændfɪl /
-n. 填埋场
+n. 废物填埋，垃圾填埋；废物填埋场，垃圾填埋地；填埋的废弃物；填埋的废弃物
+v. 把…埋在垃圾填埋场
 [例]
 1.The landfill is full of garbage. 填埋场堆满了垃圾。
 2.The city needs a new landfill site. 城市需要一个新的填埋场。
@@ -250,9 +312,11 @@ n. 填埋场
 [搭]
 1.landfill sites 填埋场地点
 2.landfill gas 填埋气体
-[联] landfill=land(土地)+fill(填充)，即用土填埋垃圾的地方。
+3.landfill site 垃圾填埋场；垃圾堆填区
+4.sanitary landfill 卫生掩埋；垃圾填坑
+[联] landfill=land(土地) + fill(填充)，即用土填埋垃圾的地方
 
-sewerage / ˈsuːrɪdʒ /
+sewerage / ˈsuːərɪdʒ /
 n. 下水道系统；污水排放系统
 [例]
 1.The sewerage system in this area is very old. 这个地区的下水道系统非常老旧。
@@ -261,10 +325,11 @@ n. 下水道系统；污水排放系统
 [搭]
 1.sewerage treatment 污水处理
 2.municipal sewerage 市政污水
-[联] sewer(下水道)+age(状态、情况)——>下水道系统的状态。
+[联] sewer(下水道)+age(状态、情况) ——> 下水道系统的状态
 
 detergent / dɪˈtɜːrdʒənt /
-n. 清洁剂；洗涤剂
+n. 洗涤剂，去污剂
+adj. 使清洁的，（与）清洁添加剂（有关）的
 [例]
 1.I use detergent to wash clothes. 我用洗涤剂洗衣服。
 2.The detergent is too strong for my skin. 这种清洁剂对我的皮肤刺激太大。
@@ -272,10 +337,13 @@ n. 清洁剂；洗涤剂
 [搭]
 1.dish detergent 洗涤剂
 2.hand detergent 手部清洁剂
-[联] detergent=deter(清除)+gent(表示物质)——>清除污垢的物质。
+3.laundry detergent 洗衣粉；洗衣精
+4.synthetic detergent [化]合成洗涤剂
+5.liquid detergent 洗涤液，液体洗涤剂
+[联] detergent=deter(清除) + gent(表示物质) ——> 清除污垢的物质
 
 lotion / ˈloʊʃn /
-n. 护肤乳；乳液
+n. 洁肤液，护肤液，润肤乳
 [例]
 1.My face lotion makes my skin soft. 我的护肤乳让我的皮肤变得柔软。
 2.This lotion is good for dry skin. 这种乳液对干性皮肤很好。
@@ -283,10 +351,14 @@ n. 护肤乳；乳液
 [搭]
 1.body lotion 身体乳
 2.face lotion 面部乳液
-[联] lotion由“lot”（许多）+“ion”（名词后缀）构成，想象许多液体涂抹在皮肤上。
+3.body lotion 润肤露；身体乳液；润肤霜
+4.moisturizing lotion 保湿美颜乳；保湿营养乳液
+5.hand lotion 护手霜
+[联] lotion由“lot”（许多）+ “ion”（名词后缀）构成，想象许多液体涂抹在皮肤上
 
 shampoo / ʃæmˈpuː /
-n. 洗发水；洗发剂
+n. 洗发剂，香波；洗发，洗涤；（清洗地毯等的）洗涤剂
+v. 用洗发剂洗，用洗涤剂洗
 [例]
 1.I bought a new shampoo for my hair. 我买了一种新的洗发水。
 2.The shampoo smells nice. 这种洗发水闻起来很好闻。
@@ -294,10 +366,11 @@ n. 洗发水；洗发剂
 [搭]
 1.hair shampoo 头发洗发水
 2.baby shampoo 婴儿洗发水
-[联] shampoo与ship（船）谐音，想象在“船”上洗头。
+[联] shampoo与ship（船）谐音，想象在“船”上洗头
 
 soap / soʊp /
-n. 肥皂
+n. 肥皂；<非正式>肥皂剧
+v. 擦肥皂；<俚>对……拍马屁
 [例]
 1.I use soap to wash my hands. 我用肥皂洗手。
 2.This soap smells like lavender. 这块肥皂闻起来像薰衣草。
@@ -305,21 +378,28 @@ n. 肥皂
 [搭]
 1.bar of soap 一块肥皂
 2.hand soap 洗手液
-[联] soap由“s”（水流）+“op”（开口）构成，想象水流从开口处流出形成泡沫。
+3.soap opera 肥皂剧（以家庭问题为题材的广播或电视连续剧）
+4.toilet soap 香皂
+5.liquid soap 液体肥皂；洗手液；肥皂溶液
+[联] soap由“s”（水流）+ “op”（开口）构成，想象水流从开口处流出形成泡沫
 
 tub / tʌb /
-n. 浴缸；大桶
+n. 盆，桶；（用来盛食品的小型）带盖容器；浴缸；一盒的容量，一盆的容量；<非正式>行驶缓慢的旧船，老爷船（贬）；<非正式>矮胖子；（矿）矿车，矿斗
+v. <英，非正式> 浴缸，浴盆；盆栽
 [例]
 1.The bathtub is full of water. 浴缸里装满了水。
 2.Put the tub under the faucet. 把桶放在水龙头下。
 3.The bathtub is leaking. 浴缸漏水了。
 [搭]
-1.hot tub 热水浴缸
+1.hot tub 热水澡桶；热水浴缸
 2.wash tub 洗衣机
-[联] tub由“t”（形状像T）+“ub”（发音像“浴”）构成，想象一个T形的浴缸。
+3.in the tub 破产
+4.bath tub 浴盆；盆形燃烧室
+[联] tub由“t”（形状像T）+ “ub”（发音像“浴”）构成，想象一个T形的浴缸
 
 plug / plʌɡ /
-n. 塞子；插头
+n. 插头；插座；（洗涤槽或浴缸的）塞子；堵塞物；棉球，药棉；螺钉楔子；（车辆引擎的）火花塞；推销，宣传；（压实的）块，口嚼烟
+v. 堵，塞；补足；接电源，插插头；推广，宣传；<美，非正式>射击，射杀；<非正式>艰难地走，埋头于
 [例]
 1.I need to buy a new plug for my phone. 我需要为我的手机买一个新的插头。
 2.The bathtub has a loose plug. 浴缸的塞子松了。
@@ -327,134 +407,166 @@ n. 塞子；插头
 [搭]
 1.power plug 电源插头
 2.water plug 水龙头
-[联] plug由“p”（水龙头）+“lug”（塞住）构成，想象用来塞住水龙头的东西。
+3.pull the plug 结束，终止业务
+4.plug in 插入；插上电源
+5.spark plug 火花塞；带头人；中坚分子
+[联] plug由“p”（水龙头）+ “lug”（塞住）构成，想象用来塞住水龙头的东西
 
-tap /tæp/  
-n. 水龙头；开关  
+tap / tæp /
+v. 轻拍，轻扣，轻敲；敲出节奏，打拍子；凿孔装（龙头或旋塞）；旋开（桶等容器）放出液体；在（树）上切口（导出液体）；（在电话上）装窃听器，窃听
+n. 水龙头，阀门，旋塞；轻拍（声），轻敲（声）；窃听，窃听器；踢踏舞；（踢踏舞鞋尖或鞋跟上的）金属片；（军营里晚上的）熄灯号，（军队的）葬礼号
 [例]  
 1.Turn off the tap when you brush your teeth. 刷牙时关掉水龙头。  
 2.I forgot to close the tap, and water was dripping all night. 我忘了关水龙头，结果水滴了一整晚。  
 3.The tap in the bathroom is leaking. 浴室的水龙头漏水了。  
 [搭]  
-tap water 自来水；tap into 接入，利用。  
-[联] tap 象声词，模仿水流声。  
+1.tap water 自来水
+2.tap into 接入，利用
+[联] tap 象声词，模仿水流声
 
-pipe /paɪp/  
-n. 管子；烟斗；管乐器  
-v. 用管道输送  
+pipe / paɪp /
+n. 管子，管道；烟斗；管乐器；（管风琴的）音管；（苏格兰的）风笛（pipes）；（人或动物的）叫声，歌声；葡萄酒桶；（计算机）管线命令；符号"|"
+v. 用管道运输；传送，播送（音乐、录音）；用管乐器吹奏；（吹长口哨）召集，召唤；高声说话，尖声唱；在食品（尤指蛋糕）上裱花
 [例]  
 1.The pipe that carries water to the house is broken. 输送水到房子的管道坏了。  
 2.Smokers often use a pipe for tobacco. 吸烟者常使用烟斗吸烟。  
 3.The musician played a beautiful tune on the pipe. 音乐家用管乐器演奏了一首优美的曲子。  
 [搭]  
-pipeline 管道系统；pipe down 停止说话。  
-[联] pipe 与 pipe dream（不切实际的梦想）相关联。  
+1.steel pipe 钢管
+2.heat pipe 热管；热导管
+3.pipe down 停止说话
+[联] pipe 与 pipe dream（不切实际的梦想）相关联
 
-pipeline /ˌpaɪplaɪn/  
-n. 管道；输油管；流水线  
+pipeline / ˈpaɪplaɪn /
+n.（常指地下的）输送管道；（供应货物、信息等的）渠道，途径；研发生产系统（the pipeline）；（计算机）流水线；（冲浪用语）大浪的空心部分
+v. 用管道输送；（计算机）运用流水线技术设计
 [例]  
 1.The oil pipeline connects two major cities. 这条输油管连接了两个主要城市。  
 2.New ideas flow through the company like a well-oiled pipeline. 新的想法像润滑良好的流水线一样在公司内流动。  
 3.They are building a new pipeline to transport natural gas. 他们正在修建一条新的天然气管道。  
 [搭]  
-pipeline project 管道项目；pipeline system 管道系统。  
+1.pipeline project 管道项目
+2.pipeline system 管道系统
+3.gas pipeline 天然气管线，煤气管线；气体管道
+4.oil pipeline 油管；输油管
+5.pipeline system 管线系统；流水线系统
 
-tube /tub/  
-n. 管；地铁；电子管  
+tube / tuːb /
+n.（金属、塑料、玻璃等材料制的）管，管子；管状物；（装柔软物质的）软管；管状器官；<英>（伦敦）地铁；<美>电视机（the tube）；紧身女衣
+v. 用管道运输；<英，非正式>乘地铁；使成管状；玩内胎漂流；<非正式>（给做过喉剖开术的人或动物）插管（以助呼吸）
 [例]  
 1.He put the straw into the tube to drink the juice. 他把吸管插入管中喝果汁。  
 2.We took the tube to get to the city center. 我们乘地铁去市中心。  
 3.The old radio uses vacuum tubes instead of transistors. 这台老式收音机使用电子管而不是晶体管。  
 [搭]  
-London Tube 伦敦地铁；test tube 试管。  
-[联] tube 形象化为“圆筒”或“管状物”。  
+1.London Tube 伦敦地铁
+2.test tube 试管1
+3.steel tube 钢管
+4.copper tube 铜管
+[联] tube 形象化为“圆筒”或“管状物”
 
-mop /mɒp/  
-n. 拖把；抹布  
-v. 用拖把擦；擦干  
+mop / mɑːp /
+n. 拖把；蓬乱浓密的头发；清扫；洗碗刷；（秋季雇佣农工或仆役的）雇工市场；鬼脸
+v. 用拖把拖；擦掉，抹掉；结束，完成；扮鬼脸
 [例]  
 1.She used a mop to clean the kitchen floor. 她用拖把清洁厨房地板。  
 2.The waiter mopped up the spilled water with a cloth. 服务员用一块布擦掉了洒出来的水。  
 3.I need a mop to clean this mess. 我需要一个拖把来清理这个混乱。  
 [搭]  
-mop up 清理，收拾残局；mop and bucket 拖把和水桶。  
-[联] mop 联想到“擦”的动作。  
+1.mop up 清理，收拾残局
+2.mop and bucket 拖把和水桶
+[联] mop 联想到“擦”的动作
 
-broom /bruːm/  
-n. 扫帚  
+broom / bruːm /
+n. 扫帚；金雀花
 [例]  
 1.She used a broom to sweep the fallen leaves from the driveway. 她用扫帚从车道上扫落树叶。  
 2.The broom in the corner is used for cleaning the floor. 角落里的扫帚是用来清扫地板的。  
 3.The old woman carried a broom over her shoulder. 老妇人肩上扛着一把扫帚。  
 [搭]  
-broomstick 扫帚柄；witch's broom 魔女的扫帚。  
-[联] broom 与“清洁”相关联。  
+1.new broom 新上任者；新晋升者
+2.witch's broom 魔女的扫帚
+[联] broom 与“清洁”相关联
 
-sweep /swiːp/  
-v. 扫；拂拭；横扫  
+sweep / swiːp /
+v. 打扫，清除；（迅猛地）带走，卷走；（风浪等）席卷，横扫；风行，迅速蔓延；（阔步或轻盈地）走；挥动，摆动；（情感）突然袭来；扫视，搜寻
+n. 打扫，清扫；挥动；巡行，扫荡；绵延弯曲的地带； 广度，范围；车道的弧形部分；<美> 收视率调查时段；<美> （系列比赛中）全胜
 [例]  
 1.He swept the snow off the car with a broom. 他用扫帚把车上的雪扫掉。  
 2.The wind swept across the desert. 风横扫过沙漠。  
 3.The storm swept through the village, leaving destruction behind. 风暴席卷村庄，留下一片狼藉。  
 [搭]  
-sweep away 清除；sweep under the rug 掩盖，隐瞒。  
-[联] sweep 象征“快速清除”。  
+1.sweep away 清除
+2.sweep under the rug 掩盖，隐瞒
+3.sweep the floor 扫地；清洁地面；清扫地板，拖地板
+4.sweep away 清除；一扫而空
+[联] sweep 象征“快速清除”
 
-mattress /ˈmætrəs/  
-n. 床垫  
+mattress / ˈmætrəs /
+n. 床垫，褥垫；（工程）垫层，沉排，钢筋网
 [例]  
 1.The mattress is too soft for my back. 这个床垫对我来说太软了。  
 2.They replaced the old mattress with a new one. 他们用新床垫替换了旧床垫。  
 3.The hotel provided a comfortable mattress for guests. 酒店为客人提供了舒适的床垫。  
 [搭]  
-mattress pad 床垫套；memory foam mattress 记忆泡沫床垫。  
-[联] mattress 与“睡觉”相关联。  
+1.mattress pad 床垫套
+2.memory foam mattress 记忆泡沫床垫
+3.spring mattress 弹簧床垫；弹簧褥子
+4.air mattress 空气垫；橡胶气垫
+5.mattress pad 床垫褥，床垫
+[联] mattress 与“睡觉”相关联
 
-carpet /ˈkærpit/  
-n. 地毯；毛毯  
+carpet / ˈkɑːrpɪt /
+n. 地毯；覆盖地面的一层厚东西；<美，非正式>人工球场；地毯衣蛾
+v. 给……铺地毯；厚厚地铺上；<英，非正式>训斥，斥责
 [例]  
 1.The carpet in the living room is very thick. 客厅里的地毯非常厚实。  
 2.She rolled up the carpet to clean it. 她卷起地毯来清洗。  
 3.The red carpet led to the stage. 红毯通向舞台。  
 [搭]  
-wall-to-wall carpet 全铺地毯；carpet bombing 空中地毯式轰炸。  
-[联] carpet 与“覆盖”相关联。  
+1.wall-to-wall carpet 全铺地毯
+2.carpet bombing 空中地毯式轰炸
+[联] carpet 与“覆盖”相关联
 
-rug /rʌg/  
-n. 小地毯；毛毯  
+rug / rʌg /
+n. 小地毯，垫子；<英> （盖腿的）厚毯子，毛毯；<美，非正式>（男子的）遮秃假发；（马的）披毯，裹毯
 [例]  
 1.She placed a rug in front of the fireplace. 她在壁炉前放了一块小地毯。  
 2.The rug in the hallway is made of wool. 走廊里的小地毯是羊毛制成的。  
 3.The child played on the rug with his toys. 孩子在他的玩具小地毯上玩耍。  
 [搭]  
-throw rug 抛掷小地毯；area rug 区域小地毯。  
-[联] rug 象征“小型地毯”。
+1.throw rug 抛掷小地毯
+2.area rug 区域小地毯
+3.persian rug 波斯地毯；波斯毛毯
+[联] rug 象征“小型地毯”
 
 mat / mæt /
-n. 地垫，地席；棋盘；草图；草稿
+n. 地垫，垫子；团，簇
 [例]
 1.Put a mat under the vase to protect the table. 在花瓶下面放一个垫子以保护桌子。
 2.The chess player moved his knight across the mat. 国际象棋选手把他的骑士棋子移到了棋盘上。
 3.I sketched a rough mat for the design on my notebook. 我在我的笔记本上草拟了一个设计草图。
 [搭] 
 1.bath mat 浴室地垫
-doormat 地毯，门垫
-[联] mat 和“垫子”有关，想象在地上铺一张厚厚的垫子。
+2.on the mat 受责备；受审问
+[联] mat 和“垫子”有关，想象在地上铺一张厚厚的垫子
 
 cushion / ˈkʊʃn /
-n. 垫子，坐垫；衬垫；缓冲物
+n. 垫子，坐垫；减震垫，缓冲垫；起缓解作用的东西；大比分领先，稳操胜券；（台球桌的）弹性衬边
+v. 缓冲；减轻……的影响；给…安上垫子，把……安置在垫子上
 [例]
 1.Put some cushions on the sofa for comfort. 在沙发上放几个靠垫以增加舒适感。
 2.The airbag serves as a cushion in case of accidents. 汽车安全气囊在发生事故时起缓冲作用。
 3.The baby fell on the soft cushion and didn't get hurt. 孩子摔倒在柔软的垫子上没有受伤。
 [搭] 
 1.cushion cover 靠垫套
-air cushion 空气垫
+2.air cushion 空气垫
 [联] cushion 和“软垫”有关，想象坐在柔软的沙发上。
 
 pad / pæd /
-n. 垫，护垫；便笺簿；信纸簿
-v. 填充；塞满；加厚
+n.（吸收液体、保洁或保护用的）软垫，垫状物；（动物的）肉掌，（人的）手指肚；便笺本，拍纸簿；发射台，停机坪；（睡莲的）浮叶；低沉的脚步声
+v.（用软物）填塞，垫衬；（添加不必要的信息以）拉长（pad sth. out）；<美>虚报（开支、账单）；沿着（路、路线）走；放轻脚步走
+abbr.（PAD）外周动脉疾病（peripheral arterial disease）
 [例]
 1.Use a pad to protect your knees while kneeling. 跪下时使用护膝垫。
 2.He wrote his notes on a small pad. 他把笔记写在一个小便笺簿上。
@@ -465,88 +577,97 @@ diaper pad 尿布垫
 [联] pad 和“薄片”或“护垫”有关，想象一片用来保护的东西。
 
 blanket / ˈblæŋkɪt /
-n. 毛毯，毯子；被单；概略，粗线条的概述
-v. 铺盖；覆盖；概括；笼统地陈述
+n. 毯子，毛毯；厚层，覆盖层；气氛，氛围；障碍，障碍物；（平版印刷的）橡皮布；（平版印刷的）橡皮
+v. 覆盖，盖住，笼罩；消除（声音），使（声音）模糊不清；迎风航行抢（他船）的上风
+adj. 总括的，全面的，通用的
 [例]
 1.She wrapped herself in a warm blanket. 她用一条温暖的毛毯裹住自己。
 2.A blanket of snow covered the ground. 一场大雪覆盖了地面。
 3.The report provided only a blanket overview of the project. 报告只提供了项目的概略描述。
 [搭] 
 1.blanket statement 概括性陈述
-electric blanket 电热毯
-[联] blanket 和“覆盖”有关，想象用毯子盖住东西。
+2.electric blanket 电热毯
+[联] blanket 和“覆盖”有关，想象用毯子盖住东西
 
 quilt / kwɪlt /
-n. 被子，棉被；拼缝布制品
-v. 缝制拼布；用拼布装饰
+n. 被子，被褥；<英>羽绒被（=duvet）；编织床罩；绝缘层，绝缘垫；被状物
+v. 缝被子；（为缝制床罩、保暖衣，或为装饰效果而）将（几层织物或衬料）按线条图案缝合；<澳，非正式>猛击（某人）
 [例]
 1.She sleeps under a quilt every winter. 她每年冬天都睡在被子下面。
 2.The quilt is made up of colorful patches. 这条被子是由彩色的小块拼成的。
 3.They used old clothes to quilt a blanket for their child. 他们用旧衣服给孩子做了一条拼布被。
 [搭] 
 1.quilted jacket 羽绒夹克
-patchwork quilt 拼布被
-[联] quilt 和“被子”有关，想象用布拼接而成的被子。
+2.patchwork quilt 拼布被
+[联] quilt 和“被子”有关，想象用布拼接而成的被子
 
 sheet / ʃit /
-n. 床单；薄板；纸张；薄片
+n. 床单，被单；布罩，盖布；纸片，纸张；（Excel 中的）工作表；简要记录，纪要；一整版邮票；（尤指大地区系列地图的一部分的）一张地图；薄板，薄片
+v.（用布）盖上，裹上；把（帆）扣紧（或放松）；（雨）倾盆（或瓢泼）而下
 [例]
 1.Change the sheets once a week for cleanliness. 为了干净，每周换一次床单。
 2.The printer ran out of paper sheets. 打印机用完了纸张。
 3.We need a large sheet of metal for the project. 我们需要一大块金属薄板。
 [搭] 
 1.sheet music 乐谱
-bed sheet 床单
-[联] sheet 和“平面”或“薄片”有关，想象一张平整的纸或布。
+2.bed sheet 床单
+[联] sheet 和“平面”或“薄片”有关，想象一张平整的纸或布
 
 pillow / ˈpɪloʊ /
-n. 枕头；靠垫；托架
+n. 枕头；蕾丝枕头（lace pillow的简称）；<美>坐垫，靠垫
+v. 将（头）枕在……上，枕着（某物）；<文>为……当枕头
 [例]
 1.Sleep on a comfortable pillow for a good night's rest. 睡在舒适的枕头上能睡个好觉。
 2.Place a pillow behind your back for support. 在背后放一个枕头来支撑身体。
 3.The decorative pillow added color to the room. 装饰枕头为房间增添了色彩。
 [搭] 
 1.pillowcase 枕套
-throw pillow 抱枕
-[联] pillow 和“头部支撑”有关，想象睡觉时的头部依靠。
+2.throw pillow 抱枕
+[联] pillow 和“头部支撑”有关，想象睡觉时的头部依靠
 
 sponge / spɒndʒ /
-n. 海绵；海绵状物；吸收能力强的人
-v. 吸收；吸干；吮吸；利用他人
+n.（擦洗用的天然或人造的）海绵块；（用海绵或布）擦拭，擦洗；海绵蛋糕，松软布丁；依赖他人生活的寄生虫，揩油者；海绵（一种海洋软体动物）；（女用）避孕海绵；海绵填料；金属绵
+v. 用海绵擦洗；用湿布（或海绵）擦掉，揩去；白吃，揩油；用海绵抹（漆）
 [例]
 1.Use a sponge to clean up the spill. 用海绵清理溢出物。
 2.The sponge absorbed all the water from the sink. 海绵吸干了水槽里的所有水。
 3.Don't sponge off others; work hard. 不要依赖别人；努力工作。
 [搭] 
 1.sponge bath 擦浴
-sea sponge 海绵
-[联] sponge 和“吸收”有关，想象用来吸水的东西。
+2.sea sponge 海绵
+[联] sponge 和“吸收”有关，想象用来吸水的东西
 
 towel / ˈtaʊəl /
-n. 毛巾；布巾
+n. 毛巾，抹布，纸巾；<英，旧>卫生巾
+v. 用毛巾擦，用毛巾擦干；<非正式，澳新>鞭打
 [例]
 1.Use a towel to dry your hair after a shower. 洗完澡后用毛巾擦干头发。
 2.The hotel provides a fresh towel every day. 酒店每天提供一条新毛巾。
 3.Wipe your hands with a towel before eating. 吃饭前用毛巾擦手。
 [搭] 
 1.bath towel 浴巾
-hand towel 小毛巾
-[联] towel 和“擦干”有关，想象用来擦拭的东西。
+2.hand towel 小毛巾
+[联] towel 和“擦干”有关，想象用来擦拭的东西
 
 staple / ˈsteɪpl /
-n. 订书钉；主要产品；主食
-v. 订书；订在一起；使成为主要部分
+n.（某国的）主要产品，支柱产品；主食；主要部份，重要内容；<史>（特定商品的）贸易中心；订书钉；U 形钉；（棉花、羊毛的）纤维（就其长度和细度而言）
+adj. 主要生产的，大量生产的；主要的，常用的
+v. 用订书钉订住；把……分级
 [例]
 1.Insert staples into the paper to bind it together. 将订书钉插入纸张中将其固定在一起。
 2.Rice is the staple food in many Asian countries. 米饭是许多亚洲国家的主要粮食。
 3.Staple the documents together for easy transport. 将文件订在一起便于携带。
 [搭] 
 1.staple gun 订书枪
-staple food 主食
-[联] staple 和“固定”或“主要”有关，想象用来固定东西的订书钉。
+2.staple food 主食
+3.staple food 主食；主粮
+4.staple fiber 纺纱用的人造短纤维
+5.staple fibre 人造短纤维
+[联] staple 和“固定”或“主要”有关，想象用来固定东西的订书钉
 
 nail / neɪl /
-n. （手指或脚趾上的）指甲；钉子。
+n. 钉子；指甲，趾甲；（一些软喙鸟类）上喙的硬甲壳；纳尔（布匹长度单位）
+v.（用钉子）钉住，钉牢；抓住，证明……有罪；戳穿，揭露；（尤指体育运动中）获得，赢得；（选手）锁定（胜局）；<非正式>用力击打
 [例]
 1.I need to trim my nails this weekend. 这个周末我得修剪一下我的指甲。
 2.The carpenter used a nail to hang the picture. 木匠用钉子挂起了那幅画。
@@ -554,31 +675,22 @@ n. （手指或脚趾上的）指甲；钉子。
 [搭] 
 1.fingernail 指甲
 2.nail polish 指甲油
-[联] nail 和 nail（钉子）都与固定有关，想象用钉子把东西固定住。
-
-nail / neɪl /
-v. 抓住，逮住；钉牢，钉住。
-[例]
-1.He nailed the suspect with evidence. 他用证据抓住了嫌疑人。
-2.She nailed the point during the debate. 她在辩论中抓住了要点。
-3.The team nailed down the deal. 团队达成了协议。
-[搭] 
-1.nail it 完美完成，做得很好
-2.nail down 确定，达成协议
-[联] 想象用钉子牢牢抓住某物。
+[联] nail 和 nail（钉子）都与固定有关，想象用钉子把东西固定住
 
 razor / ˈreɪzər /
-n. 剃须刀。
+n. 剃（须）刀，刮胡刀；处于险境，境况岌岌可危（on a razor edge）
+v. 用剃刀剃，用刮胡刀刮
 [例]
 1.I bought a new razor yesterday. 我昨天买了一个新剃须刀。
 2.Be careful not to cut yourself with the razor. 小心别用剃须刀割伤自己。
 3.My father uses an electric razor every morning. 我父亲每天早上都用电动剃须刀。
 [搭] 
 1.razor blade 剃须刀片
-[联] razor 和 razor blade 都与剃须相关。
+[联] razor 和 razor blade 都与剃须相关
 
 shave / ʃeɪv /
-v. 剃，刮（胡子等）。
+v. 剃（须），刮去（毛发）；削去，刮掉（薄层）；（少量地）减去，削减；掠过，擦过
+n. 刮脸，剃毛发 ；剃刀，刮刀； <非正式> 侥幸逃过，幸免（close shave）
 [例]
 1.He shaves every morning. 他每天早上都刮胡子。
 2.Be careful when you shave your face. 刮脸时要小心。
@@ -586,20 +698,25 @@ v. 剃，刮（胡子等）。
 [搭] 
 1.shave close 剃得很干净
 2.shave ice 吃刨冰
-[联] shave 和 razor 都与剃须相关。
+3.shave off 剃掉；剃去
+[联] shave 和 razor 都与剃须相关
 
 fuse / fjuːz /
-n. 导火线；保险丝。
+n. 保险丝，熔丝；导火线，引信
+v. 熔合，结合；<英>（使保险丝熔断而）停止工作；在（电路或电器）中安装保险丝；装引信（或导火索）于（炸弹，炮弹，地雷）；（使）熔化
 [例]
 1.The fuse blew out. 保险丝烧断了。
 2.Be careful with the fuse box. 小心保险丝盒。
 3.I need to replace the fuse in my lamp. 我需要更换台灯里的保险丝。
 [搭] 
 1.time fuse 定时引信
-[联] fuse 和 cable 都与电线相关。
+2.fuse box 保险丝盒
+3.blasting fuse 导爆线；导火线
+[联] fuse 和 cable 都与电线相关
 
-cable / ˈkeɪbl /
-n. 电缆；缆绳。
+cable / ˈkeɪb(ə)l /
+n. 电缆；钢缆，缆绳；电报；有线电视
+v. 给……安装有线电视；给……发电报
 [例]
 1.The undersea cable connects two continents. 海底电缆连接两大洲。
 2.The ship's cable is very strong. 船的缆绳非常结实。
@@ -607,78 +724,102 @@ n. 电缆；缆绳。
 [搭] 
 1.cable car 缆车
 2.cable television 有线电视
-[联] cable 和 fuse 都与电线相关。
+3.cable tv 有线电视
+4.cable television 电缆电视，有线电视
+5.power cable 电力电缆
+[联] cable 和 fuse 都与电线相关
 
 cord / kɔːrd /
-n. 绳索；电线。
+n. 粗线，细绳；电线；灯芯绒裤子；索状结构；考得（木材单位）
+adj. 灯芯绒的
+v. 用绳子连接
 [例]
 1.The cord was tied tightly around the package. 绳索被紧紧地绑在包裹上。
 2.I need to unplug the cord from the wall. 我需要从墙上拔下电线。
 3.The cord of the curtain broke. 窗帘的绳子断了。
 [搭] 
-1.cordless phone 无绳电话
-[联] cord 和 cable 都与绳索相关。
+1.spinal cord 脊髓
+2.spinal cord injury 脊髓受伤，脊椎损伤
+3.cord blood [医]脐带血
+[联] cord 和 cable 都与绳索相关
 
 strand / strænd /
-n. 绳股；线；一缕。
+n.（绳、线、毛发等的）股，缕；串；（故事、观点、计划等的）部分；（海洋、湖或河的）岸，滨
+v. 使滞留，使困在（某处）；使（船，船员，海洋生物）搁浅；使（跑垒员）残留垒上
 [例]
 1.The rope is made up of several strands. 绳子是由几股组成的。
 2.A strand of hair fell across her face. 一缕头发垂落在她的脸上。
 3.The stranded sailor was rescued after three days. 遇难的水手在三天后获救。
 [搭] 
 1.strand line 绳索
-[联] strand 和 cord 都与绳索相关。
+2.chopped strand 短切原丝
+3.chopped strand mat 短切毡
+4.strand wire 多股绞合线；钢丝绳股；绞合线；绳索
+[联] strand 和 cord 都与绳索相关
 
 match / mætʃ /
-n. 火柴；比赛。
+n. 比赛，竞赛；火柴；敌手，旗鼓相当的人；相配的人（或物）；非常相似的东西；婚姻，配偶；适合，匹配
+v. 比得上，敌得过；使成对，使相配，使相称；与……一致，与……相符；使较量，使竞赛；适应，满足；等额提供
 [例]
 1.I need a match to light the candle. 我需要一根火柴来点燃蜡烛。
 2.The football match was exciting. 足球比赛很精彩。
 3.They won the match easily. 他们轻松赢得了比赛。
 [搭] 
 1.matchbox 火柴盒
-2.matchstick 火柴棍
-[联] match 和 candle 都与点火相关。
+2.matchstick 火柴棍1
+3.football match 足球赛；足球比赛
+4.match with 使和……相匹配
+5.well matched 相称，相配
+[联] match 和 candle 都与点火相关
 
 wax / wæks /
-n. 蜡。
+n. 蜡，蜂蜡；耳垢； <英，非正式，旧>一阵愤怒；<非正式>唱片；类似蜡的黏性物质（尤指液体或碳氢化合物）
+v. 给……上（或打）蜡；用蜡除去（身体部位）的毛发；（月亮）渐圆，渐满；（带着某种情绪）说，写；（数量、规模等）增加，变大；<非正式>把……灌制成唱片
+adj. 蜡制的，似蜡的
 [例]
 1.The candle is made of wax. 蜡烛是蜡做的。
 2.The earwax can cause hearing problems. 耳垢会导致听力问题。
 3.I use a wax polish to make the furniture shine. 我用蜡抛光剂让家具闪闪发亮。
 [搭] 
 1.paraffin wax 石蜡
-[联] wax 和 candle 都与照明相关。
+2.on the wax 正在变大；在增加
+3.wax printing 蜡染
+[联] wax 和 candle 都与照明相关
 
-portfolio / ˌpɔːrtˈfəʊlioʊ /, / ˌpɑːrtˈfoʊlioʊ /
-n. （投资、艺术作品等的）综合文件夹；（投资组合）
+portfolio / pɔːrtˈfoʊlioʊ /
+n. 公文包，画夹；（成册展示的）作品集，照片集；（个人或机构的）投资组合；（部长或大臣的）职责，职务；（公司或机构提供的）系列产品，成套物品
+adj.（职业类型）短期合同制的，兼职的
 [例]
 1.My portfolio contains my best paintings and sketches. 我的投资组合中包含我最好的绘画和素描作品。
 2.She manages her investment portfolio carefully. 她仔细管理着自己的投资组合。
 3.His portfolio has been very successful this year. 他今年的投资组合表现非常成功。
 [搭] 
 investment portfolio 投资组合
-[联] port(携带) + folio(页码) ——> 携带文件的工具。
+[联] port(携带) + folio(页码) ——> 携带文件的工具
 
 paperback / ˈpeɪpərbæk /
-n. 平装书；adj. 平装本的
+n. 平装书，简装书
+v. 以平装本出版
+adj.（书）纸面装订的，平装的
 [例]
 1.I prefer reading paperbacks because they are cheaper. 我更喜欢读平装书，因为它们比较便宜。
 2.This novel is available in both hardcover and paperback. 这本小说有精装和平装两种版本。
 3.The paperback version of the book is much lighter than the hardcover one. 这本书的平装版比精装版轻得多。
 [搭] 
-paperback novel 平装小说
-[联] paper(纸) + back(背面) ——> 纸质封面的书。
+1.paperback novel 平装小说
+2.paperback edition 平装本；平装版本
+[联] paper(纸) + back(背面) ——> 纸质封面的书
 
-pamphlet / ˈpæmplɪt /
-n. 小册子，传单
+pamphlet / ˈpæmflət /
+n. 小册子，活页
+v. 向……散发小册子
 [例]
 1.The library has a pamphlet about local history. 图书馆有一本关于当地历史的小册子。
 2.They distributed pamphlets to promote their product. 他们分发小册子来推广他们的产品。
 3.The pamphlet provides useful information for tourists. 这本小册子为游客提供了有用的信息。
 [搭] 
 information pamphlet 信息小册子
-[联] pan(广泛) + phlet(小) ——> 广泛传播的小东西。
+[联] pan(广泛) + phlet(小) ——> 广泛传播的小东西
 
 booklet / ˈbʊklət /
 n. 小册子，小书
@@ -687,71 +828,90 @@ n. 小册子，小书
 2.The booklet is an introduction to our products. 这本小册子是关于我们产品的介绍。
 3.The booklet explains the rules clearly. 这本小册子清楚地解释了规则。
 [搭] 
-instruction booklet 使用说明书
-[联] book(书) + let(小) ——> 小型书籍。
+1.instruction booklet 使用说明书
+2.residence booklet 户口簿
+[联] book(书) + let(小) ——> 小型书籍
 
-leaflet / ˈliːflɛt /
-n. 传单，小册子
+leaflet / ˈliːflət /
+n. 传单，小册子；小叶，初生叶（统称）
+v. 散发传单（或小册子）
 [例]
 1.The environmental group handed out leaflets to raise awareness. 环保组织分发传单以提高意识。
 2.They printed leaflets to advertise their new product. 他们印制了传单来宣传新产品。
 3.The leaflet contained important contact information. 这份传单包含了重要的联系方式。
 [搭] 
-leaflet distribution 分发传单
-[联] leaf(叶子) + let(小) ——> 像树叶一样轻薄的小纸片。
+1.leaflet distribution 分发传单
+2.introductory leaflet 介绍单张
+[联] leaf(叶子) + let(小) ——> 像树叶一样轻薄的小纸片
 
-brochure / brəˈʃʊr /
-n. 小册子，宣传册
+brochure / broʊˈʃʊr /
+n. 小册子，资料（或广告）手册
 [例]
 1.The travel agency provided a brochure about the tour packages. 旅行社提供了一份关于旅游套餐的小册子。
 2.The brochure includes photos and descriptions of the hotels. 这本小册子包括酒店的照片和描述。
 3.The brochure is designed to attract potential customers. 这本小册子旨在吸引潜在客户。
 [搭] 
-product brochure 产品手册
-[联] bro(类似brother) + chure(发音相近) ——> 类似兄弟般的详细资料。
+1.product brochure 产品手册
+2.brochure design 宣传册设计；小册子设计；书刊画册设计
+3.sales brochure 售楼说明书；推广小册子
+4.travel brochure 旅游指南
+[联] bro(类似brother) + chure(发音相近) ——> 类似兄弟般的详细资料
 
 tissue / ˈtɪʃuː /
-n. 薄纱，纸巾；组织
+n. 纸巾，面巾纸；（动物或植物的细胞）组织；（用于包装易碎物品的）薄纸，绵纸；薄纱，薄织物；（罗织编造的）一套，一系列
+v. 用化妆纸揩去；饰以薄纱
 [例]
 1.I used a tissue to wipe my face. 我用纸巾擦脸。
 2.The scientists studied the tissue samples carefully. 科学家们仔细研究了组织样本。
 3.The tissue is made from recycled paper. 这种纸巾是由再生纸制成的。
 [搭] 
-tissue paper 纸巾
-[联] tiss(编织) + ue(名词后缀) ——> 编织而成的薄物。
+1.tissue paper 纸巾
+2.tissue engineering组织工程学
+3.soft tissue 软组织
+4.tissue culture 组织培养；体素培养
+[联] tiss(编织) + ue(名词后缀) ——> 编织而成的薄物
 
 cover / ˈkʌvər /
-n. 封面；盖子；覆盖物；掩护 vt. 覆盖；涉及；掩饰
+v. 覆盖，遮盖；包括，涉及；报道；占（一片面积）；行走（一段路程）；足够支付；给……保险；顶替，代替；找借口，包庇；采取行动（保护自己）
+n. 覆盖物，遮盖物；封面，封底；被子，床单；遮盖，覆盖；保险；掩护；掩饰，幌子；掩蔽处；代替；转录，翻唱；（板球）外场防守；（生态）盖度
 [例]
 1.The book cover is very colorful. 这本书的封面非常多彩。
 2.The table is covered with a cloth. 桌子上盖着一块布。
 3.We need to cover the cost of the trip. 我们需要支付旅行费用。
 [搭] 
-book cover 书皮
-[联] cover(覆盖) ——> 包裹或遮蔽物体。
+1.book cover 书皮
+2.from cover to cover 从头至尾
+3.under cover 隐藏着；秘密地
+4.cover up 掩盖，盖住
+[联] cover(覆盖) ——> 包裹或遮蔽物体
 
 Xerox / ˈziːrɑːks /
-n. 影印，复印机；vt. 影印，复印
+n. 影印，复印机；
+vt. 影印，复印
 [例]
 1.I need to Xerox these documents. 我需要复印这些文件。
 2.The office has a Xerox machine. 办公室有一台复印机。
 3.Can you help me Xerox this report? 你能帮我复印这份报告吗？
 [搭] 
-Xerox machine 复印机
-[联] Xerox(品牌名) ——> 复印技术的代名词。
+1.Xerox machine 复印机
+[联] Xerox(品牌名) ——> 复印技术的代名词
 
-duplicate / ˈdjuːplɪkeɪt /
-n. 复制品；vt. 复制；使加倍
+duplicate / ˈduːplɪkeɪt /
+v. 复制，复印；（无必要地）重复（某事）；使成倍增加
+adj. 完全一样的，复制的；二重的
+n. 完全一样的东西，复制品
 [例]
 1.I need a duplicate of this key. 我需要这把钥匙的复制品。
 2.The software can duplicate files easily. 这款软件可以轻松复制文件。
 3.Can you duplicate this article for me? 你能给我复制这篇文章吗？
 [搭] 
-duplicate copy 复制品
-[联] du(p)(双) + plicate(折叠) ——> 一模一样的两份。
+1.duplicate copy 副本；复制本
+2.in duplicate 一式二份
+3.duplicate key 复制键
+[联] du(p)(双) + plicate(折叠) ——> 一模一样的两份
 
-memorandum /ˌmeməˈrændəm/, /ˌmemrənˈdəm/
-n. 备忘录；便条；纪要（读音一致，不同词性无变化）
+memorandum / ˌmeməˈrændəm /
+n. 公务便条，备忘录；协议备忘录；建议书，报告；合同书，（法律文件细节的）摘要
 [例]
 1.I left a memorandum on your desk. 我在你的桌子上留了一个便条。
 2.The memorandum summarizes the key points of the meeting. 这份备忘录总结了会议的关键点。
@@ -759,10 +919,10 @@ n. 备忘录；便条；纪要（读音一致，不同词性无变化）
 [搭] 
 1.memorandum of association 公司章程
 2.memorandum of understanding (MOU) 备忘录协议
-[联] memori(记忆) + -andum(需要...做的事情) ——> 需要记住的事情。
+[联] memori(记忆) + -andum(需要...做的事情) ——> 需要记住的事情
 
-stationery /ˈsteɪʃəneri/
-n. 文具；文具用品（读音一致，不同词性无变化）
+stationery / ˈsteɪʃəneri /
+n.（通常有配套信封的）信纸，信笺；文具
 [例]
 1.I need to buy some stationery for school. 我需要为学校买一些文具。
 2.They have a wide selection of stationery. 他们有各种各样的文具可供选择。
@@ -770,10 +930,10 @@ n. 文具；文具用品（读音一致，不同词性无变化）
 [搭] 
 1.office stationery 办公文具
 2.school stationery 学校文具
-[联] station(站) + -ery(表示场所或物品) ——> 用于书写、绘画等的固定场所提供的物品。
+[联] station(站) + -ery(表示场所或物品) ——> 用于书写、绘画等的固定场所提供的物品
 
-stationer /ˈsteɪʃərnər/
-n. 文具商；书店老板（读音一致，不同词性无变化）
+stationer / ˈsteɪʃənər /
+n. 文具店；文具商
 [例]
 1.The stationer sold me a notebook. 文具商卖给我一本笔记本。
 2.He runs a small stationer near the university. 他在大学附近经营一家小型文具店。
@@ -783,8 +943,9 @@ n. 文具商；书店老板（读音一致，不同词性无变化）
 2.stationer's warehouse 文具仓库
 [联] station(站) + -er(表示从事某职业的人) ——> 经营文具的商人。
 
-glue /ɡluː/
-n. 胶水；胶状物（读音一致，不同词性无变化）
+glue / ɡluː /
+n. 胶水；凝聚力
+v. 胶合，粘贴；<非正式>专注于
 [例]
 1.I spilled glue on my hand. 我把胶水洒在手上。
 2.They used glue to stick the pieces together. 他们用胶水把碎片粘在一起。
@@ -792,10 +953,12 @@ n. 胶水；胶状物（读音一致，不同词性无变化）
 [搭] 
 1.white glue 白胶
 2.super glue 超级胶水
-[联] glui(粘住) + -e(名词后缀) ——> 使东西粘合的东西。
+3.glue stick 固体胶水，胶棒
+[联] glui(粘住) + -e(名词后缀) ——> 使东西粘合的东西
 
-ink /ɪŋk/
-n. 墨水；墨汁（读音一致，不同词性无变化）
+ink / ɪŋk /
+n. 墨水，油墨；<非正式>文字宣传，纸媒宣传；（章鱼、乌贼等海洋生物分泌出的）墨汁
+v. 签订，签署（合同等）；涂墨水于（某物）
 [例]
 1.The pen won't write because it ran out of ink. 笔写不出来了，因为墨水用完了。
 2.She spilled ink on her shirt. 她把墨水洒在衬衫上了。
@@ -803,10 +966,15 @@ n. 墨水；墨汁（读音一致，不同词性无变化）
 [搭] 
 1.black ink 黑墨水
 2.blue ink 蓝墨水
-[联] in(内) + k(液体) ——> 内部的液体。
+3.printing ink 印刷用油墨
+4.chinese ink 中国墨
+5.ink jet 喷墨；墨水喷射
+[联] in(内) + k(液体) ——> 内部的液体
 
-rubber /ˈrʌbərn/
-n. 橡皮擦；橡胶（美式读音）/ˈrʌbər/（英式读音）
+rubber / ˈrʌbər /
+n. 橡胶，合成橡胶；<英> 橡皮擦；<英> 黑板擦；<美，非正式> 避孕套；<美，非正式> 橡胶套鞋；（桥牌或板球的）一盘，决胜局；（棒球比赛中投手站的）投手板；多轮决胜负的比赛（如三局两胜）
+adj. 橡胶制成的
+v. 扭转脖子看，好奇地引颈而望
 [例]
 1.I use a rubber to erase mistakes. 我用橡皮擦掉错误。
 2.The rubber is too hard. 这块橡皮太硬了。
@@ -814,10 +982,14 @@ n. 橡皮擦；橡胶（美式读音）/ˈrʌbər/（英式读音）
 [搭] 
 1.rubber stamp 橡皮图章
 2.rubber gloves 橡胶手套
-[联] rub(摩擦) + -ber(名词后缀) ——> 用来摩擦去除痕迹的东西。
+3.silicone rubber 硅橡胶；硅酮橡胶
+4.natural rubber 天然橡胶
+5.synthetic rubber 合成橡胶
+[联] rub(摩擦) + -ber(名词后缀) ——> 用来摩擦去除痕迹的东西
 
-scissors /ˈsɪzərz/
-n. 剪刀（复数形式）（读音一致，不同词性无变化）
+scissors / ˈsɪzərz /
+n. 剪刀；（英橄）交叉配合，交叉移动；（跳高）剪式跳法
+v. 用剪刀剪；使（腿）作剪式运动（scissor 的第三人称单数形式）
 [例]
 1.Pass me the scissors. 把剪刀递给我。
 2.Be careful with those scissors. 小心那些剪刀。
@@ -825,10 +997,11 @@ n. 剪刀（复数形式）（读音一致，不同词性无变化）
 [搭] 
 1.scissors and glue 剪刀和胶水
 2.scissors and tape 剪刀和胶带
-[联] sci(切) + ssors(工具) ——> 用于切割的工具。
+[联] sci(切) + ssors(工具) ——> 用于切割的工具
 
-shear /ʃɪr/
-v. 修剪；剪下（读音一致，不同词性无变化）
+shear / ʃɪr /
+v. 剪（羊或其他动物的）毛；剪（头发）；（尤指金属部件因剪切力）折断，断裂；剥夺
+n.（尤指修剪篱笆用的）大剪刀（shears）；切变，剪应力
 [例]
 1.He sheared the sheep. 他剪了羊的毛。
 2.Shears are used to shear wool. 剪羊毛用的是剪刀。
@@ -836,10 +1009,11 @@ v. 修剪；剪下（读音一致，不同词性无变化）
 [搭] 
 1.shear off 剪掉
 2.shear away 剪开
-[联] shea(r)(剪) + -r(动词后缀) ——> 剪除的动作。
+[联] shea(r)(剪) + -r(动词后缀) ——> 剪除的动作
 
-edge /ɛdʒ/
-n. 边缘；边；刃（读音一致，不同词性无变化）
+edge / ɛdʒ /
+n. 边，边缘；锋，刃；优势；影响力，奇特的品质；（声音里的）尖锐，怒气；（坏事的）边缘，临界点；棱
+v. 缓慢地移动；给……加边；险胜；用球拍边击球；倾斜滑雪；修剪（草地边缘）；使锐利，使尖锐
 [例]
 1.Be careful not to fall off the edge. 小心别从边缘掉下去。
 2.The edge of the table is sharp. 桌子的边缘很锋利。
@@ -847,10 +1021,14 @@ n. 边缘；边；刃（读音一致，不同词性无变化）
 [搭] 
 1.edge tool 刃具
 2.sharpen the edge 锋利的边缘
-[联] edg(e)(边) + -e(名词后缀) ——> 物体的边沿部分。
+3.on the edge 在边缘上；坐立不安
+4.on the edge of adv. 几乎；濒于；在…边缘
+5.edge detection 边缘检测
+[联] edg(e)(边) + -e(名词后缀) ——> 物体的边沿部分
 
-rim /rɪm/
-n. 边缘；边框（读音一致，不同词性无变化）
+rim / rɪm /
+n.（圆形物体的）边沿；（污垢等）一周，一圈；轮辋，轮圈；眼镜框；（篮球的）篮筐，篮圈 ；界，边界
+v. 形成......的边沿，给......镶边
 [例]
 1.The rim of the cup is cracked. 杯子的边缘裂开了。
 2.The sun appeared over the rim of the hill. 太阳出现在山丘的边缘。
@@ -858,42 +1036,52 @@ n. 边缘；边框（读音一致，不同词性无变化）
 [搭] 
 1.rim lock 边框锁
 2.rim fire 圈火
-[联] rim(边) + -e(名词后缀) ——> 物体外围的部分。
+3.pacific rim 太平洋沿岸地区；泛太平洋
+4.wheel rim 轮辋；钢圈；轮箍；轮缘
+[联] rim(边) + -e(名词后缀) ——> 物体外围的部分
 
-element /ˈɛləmənt/  
-n. （化学）元素；基本部分；要素；（计算机图形界面中的）组件。  
+element / ˈelɪmənt /
+n. 基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒
 [例]  
 1.Water is made up of two elements: hydrogen and oxygen. 水由两种元素组成：氢和氧。  
 2.Creativity is an essential element of art. 创造力是艺术的基本要素之一。  
 3.The app has several user interface elements like buttons and sliders. 这款应用程序有几个用户界面组件，如按钮和滑块。  
 [搭]  
 1.elementary school 小学  
-2.periodic table 元素周期表  
-[联] ele (一) + ment (物) ——> 基本单元。
+2.periodic table 元素周期表
+3.finite element 有限元
+4.finite element method (fem) 有限元素法
+5.finite element method [计]有限元法；[化]有限单元法
+[联] ele (一) + ment (物) ——> 基本单元
 
-factor /ˈfæk tər/  
-n. 因素，要素；因子；商数；代理人  
-v. 把……当作重要因素考虑；作为因素影响  
+factor / ˈfæktər /
+n. 因素，要素；等级，系数；因数，因子；遗传因子，基因；（血液中的）凝血因子；代理公司，代理商；<苏格兰>地产管理人，管家；测量水平
+v. 把……作为因素计入，把……包括在内（factor in）；把……作为因素排除，不把……包括在内（factor out）；将……分解为因子；代理经营，（代管）产业；做代理商
 [例]  
 1.Time is a critical factor in this project. 时间是这个项目的关键因素。  
 2.Health is a major factor in determining quality of life. 健康是决定生活质量的主要因素。  
 3.The company decided to factor cost into their pricing strategy. 公司决定将成本纳入定价策略中考虑。  
 [搭]  
 1.factor in 考虑到；包含  
-2.common factor 公因数  
-[联] fact (事实) + or (人或物)——> 发现事实的人或物。
+2.common factor 公因数
+3.key factor 关键因素；主要因素
+4.factor analysis 因子分析；要素分析
+[联] fact (事实) + or (人或物) ——> 发现事实的人或物
 
-section /ˈsɛk ʃən/  
-n. 部分；截面；部门；章节  
-v. 切开；划分  
+section / ˈsekʃ(ə)n /
+n. 部分；散件，部件；（书、报等的）节，栏；一部分人；（乐队的）组；断面图，剖面图；（手术中的）开刀，切开；（供显微镜下观察的）切片
+v. <英> 强制（精神病人）入院；将……制成切片；切开，切断；分开，给……分区
 [例]  
 1.The book is divided into several sections. 这本书被分为几个章节。  
 2.The doctor took a section of the patient's skin for biopsy. 医生取了患者皮肤的一部分用于活检。  
 3.The sales section is located on the second floor. 销售部位于二楼。  
 [搭]  
 1.section line 截面线  
-2.cross-section 截面图  
-[联] sec (切) + tion (名词后缀)——> 切开的部分。
+2.cross-section 截面图
+3.cross section 横截面
+4.in this section 在这部分；本节内容
+5.cesarean section 剖腹产术
+[联] sec (切) + tion (名词后缀)——> 切开的部分
 
 tag /tæɡ/  
 n. 标签；标签纸；标记  
