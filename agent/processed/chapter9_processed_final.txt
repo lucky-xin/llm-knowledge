@@ -1031,8 +1031,9 @@ adj. 古典的；经典的；传统的。
 classical music 古典音乐
 [联] classic (经典的) + al (形容词后缀) ——> 具有经典特征的。
 
-lyric /ˈlɪrɪk/
-n.抒情诗；歌词 adj.抒情的；抒情诗的
+lyric / ˈlɪrɪk /
+n. 歌词；抒情诗
+adj. 抒情的，写抒情诗的；（歌声）柔美的；适于演奏的；（感情、风格等）奔放的，不拘束的
 [例]
 1.The lyrics of this song are very touching. 这首歌的歌词很感人。
 2.The poet wrote many lyric poems. 这位诗人写了许多抒情诗。
@@ -1040,10 +1041,13 @@ n.抒情诗；歌词 adj.抒情的；抒情诗的
 [搭]
 1.lyric poem 抒情诗
 2.lyric song 抒情歌曲
-[联] lyric = lyre(里拉琴)——> 与里拉琴相关的诗歌。
+[联] lyric = lyre(里拉琴) ——> 与里拉琴相关的诗歌
 
-solo /ˈsoʊloʊ/
-n.独奏；独唱；独舞 adj.独奏的；单独的 v.独奏；单独演奏
+solo / ˈsoʊloʊ /
+adj. 单独的，独自的；独奏的，单人表演的；（击球时）垒上无跑垒员的；（摩托车）没有跨斗的
+n. 单人表演，单飞，独自完成的事情；单人纸牌戏，惠斯特纸牌戏；惠斯特纸牌戏中为赢五圈牌的叫牌；没有跨斗的摩托车
+v. 独奏，独唱；单独飞行；单人攀登
+adv. 单独地，独自地
 [例]
 1.The pianist played a piano solo. 这位钢琴家演奏了一段钢琴独奏。
 2.She sang a solo at the concert. 她在音乐会上独唱了一首歌。
@@ -1051,11 +1055,14 @@ n.独奏；独唱；独舞 adj.独奏的；单独的 v.独奏；单独演奏
 [搭]
 1.solo performance 独奏表演
 2.solo flight 单飞
-[联] solo = solo(单独)——> 单独表演。
+3.solo concert 个人演唱会
+4.solo flight 单人飞行
+5.solo dance 独舞，单人舞
+[联] solo = solo(单独) ——> 单独表演
 
 tone / toʊn /
-n. 音调；语气；色调；态度；气氛
-v. 使变色；调整音量；调节（声音、光线等）
+n. 语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；强健状况，（尤指肌肉的）紧实度
+v. 使强健，使结实；与……协调，与……相配；（用化学溶液使黑白照片在润色时）变色；用某种调子说
 [例]
 1.The tone of his voice suggested he was angry. 他说话的语气表明他很生气。
 2.The painting has a warm tone. 这幅画有一种温暖的色调。
@@ -1063,33 +1070,39 @@ v. 使变色；调整音量；调节（声音、光线等）
 [搭] 
 1.tone down 放轻语气，缓和
 2.set the tone 确定基调
-[联] ton (音调) + e ——> 调整音调。
+3.skin tone 肤色；皮肤影调
+4.tone of voice 语调；声调；口吻
+[联] ton (音调) + e ——> 调整音调
 
-tune / tun /, / tyun /
-n. 曲调；调子；和谐；协调
-v. 调音；调整；使协调
+tune / tuːn /
+n. 曲调，曲子；歌曲，乐段
+v.（给乐器）调音，校音；（给收音机、电视等）调谐，调频道；调整，调节（发动机）；调整，使适合；<南非，非正式>告诉
 [例]
 1.The radio is playing a familiar tune. 收音机正在播放一首熟悉的曲子。
 2.He tuned the guitar before the performance. 他在表演前给吉他调音。
 3.The children sang a tune together. 孩子们一起唱了一首歌。
 [搭] 
 1.in tune with 与……一致
-2.tune in 收听，调到
+2.tune in 收听；调谐；使…协调
+3.out of tune 走调；不协调；（对某事）没有兴趣
+4.in tune 一致；合调子
 [联] 和“music”相关。
 
 disc / dɪsk /
-n. 圆盘；唱片；光盘；圆片
+n. 圆盘，[电子]唱片（等于 disk）
+vt. 灌唱片
 [例]
 1.The disc player works perfectly. 光盘播放器工作得很好。
 2.She put a new disc into the machine. 她把一张新光盘放进机器里。
 3.The disc is spinning slowly. 光盘在缓慢旋转。
 [搭] 
-1.compact disc (CD) 激光唱片
+1.compact disc 光碟机，激光唱片
 2.record disc 唱片
-[联] 和“circle”（圆圈）相关。
+3.intervertebral disc 椎间盘
+[联] 和“circle”（圆圈）相关
 
-violin / vaɪəˈlɪn /
-n. 小提琴
+violin / ˌvaɪəˈlɪn /
+n. 小提琴；小提琴手
 [例]
 1.She played a beautiful melody on the violin. 她用小提琴演奏了一段优美的旋律。
 2.The sound of the violin filled the room. 小提琴的声音充满了整个房间。
@@ -1097,9 +1110,11 @@ n. 小提琴
 [搭] 
 1.violin case 小提琴盒
 2.violin bow 小提琴弓
-[联] 和“string instrument”（弦乐器）相关。
+3.violin concerto 小提琴协奏曲
+4.violin concertos 小提琴协奏曲；小提琴协奏曲选
+[联] 和“string instrument”（弦乐器）相关
 
-cello / ˈtʃɛloʊ /
+cello / ˈtʃeloʊ /
 n. 大提琴
 [例]
 1.He played a sonata on the cello. 他用大提琴演奏了一首奏鸣曲。
@@ -1108,10 +1123,10 @@ n. 大提琴
 [搭] 
 1.cello string 大提琴弦
 2.cello stand 大提琴支架
-[联] 和“string instrument”（弦乐器）相关。
+[联] 和“string instrument”（弦乐器）相关
 
-harmonica / hɑːrˈmoʊnɪk(ə) /
-n. 口琴
+harmonica / hɑːrˈmɑːnɪkə /
+n. 口琴（等于 mouth organ）
 [例]
 1.He played a cheerful tune on the harmonica. 他用口琴吹奏了一首欢快的曲子。
 2.The harmonica is often used in blues music. 口琴常用于蓝调音乐。
@@ -1119,11 +1134,11 @@ n. 口琴
 [搭] 
 1.harmonica solo 口琴独奏
 2.harmonica case 口琴盒
-[联] 和“blues”（蓝调）相关。
+[联] 和“blues”（蓝调）相关
 
 trumpet / ˈtrʌmpɪt /
-n. 小号
-v. 宣布；吹喇叭
+n. 小号，喇叭；喇叭形物（尤指黄水仙的管状冠）；喇叭似的响声（尤指大象的吼声）；（风琴的）小号音栓；北美黄瓶子草（trumpets）
+v. 鼓吹，大肆宣扬；（尤指大象）吼叫；吹喇叭，吹小号
 [例]
 1.The trumpeter played a fanfare for the king. 小号手为国王演奏了一段欢迎曲。
 2.The trumpet sounded loud and clear. 小号声音洪亮而清晰。
@@ -1131,65 +1146,75 @@ v. 宣布；吹喇叭
 [搭] 
 1.trumpet call 小号召唤
 2.trumpet solo 小号独奏
-[联] 和“brass instrument”（铜管乐器）相关。
+[联] 和“brass instrument”（铜管乐器）相关
 
-jazz /dʒæz/, /ˈdʒeɪz/
-n.爵士乐；一种源于美国南部的音乐风格。
+jazz / dʒæz /
+n. 爵士乐；爵士乐舞蹈（jazz ballet/jazz dance）；毫无意义的话；诸如此类的事情
+adj. 爵士乐的
+v. <旧>演奏爵士乐；<旧>跳爵士舞；使活泼；游荡
 [例]
 1.I love listening to jazz music while reading books. 我喜欢一边看书一边听爵士乐。
 2.The jazz band played a fantastic set last night. 昨晚爵士乐队演奏了一场精彩的演出。
 3.Jazz is known for its complex rhythms and improvisation. 爵士乐以其复杂的节奏和即兴表演而闻名。
 [搭]
 1.jazz music 爵士音乐
-smooth jazz 光滑爵士（一种柔和的爵士乐形式）
+2.smooth jazz 光滑爵士（一种柔和的爵士乐形式）
+3.jazz band 爵士乐队
 [联] jazz 和 dance 联想——爵士乐常常与舞蹈结合。
 
-rock /rɑk/
-n.摇滚乐；一种起源于20世纪50年代的音乐类型。
+rock/ rɑːk /
+n. 岩石；礁石；（尤指凸出地面的）岩块，大石块；碎石，石子；<非正式>钻石，宝石；摇滚乐；可信赖的人，靠山；<英>棒棒糖；<非正式>石毒，强效可卡因块
+v.（使）轻轻摇晃，缓缓摆动；（使）剧烈摇摆，猛烈晃动；使震惊，使害怕；<非正式>（尤指自信或惹人注目地）穿（衣）；<非正式>跳摇滚舞，奏摇滚乐
 [例]
 1.My favorite genre of music is rock. 我最喜欢的音乐类型是摇滚。
 2.The rock concert attracted thousands of fans. 这场摇滚音乐会吸引了成千上万名粉丝。
 3.Rock music often features electric guitars and strong beats. 摇滚音乐通常以电吉他和强烈的节拍为特色。
 [搭]
 1.rock band 摇滚乐队
-classic rock 经典摇滚
-[联] rock 和 hard 联想——摇滚通常表达强烈的情感。
+2.classic rock 经典摇滚
+[联] rock 和 hard 联想——摇滚通常表达强烈的情感
 
-hip-hop /ˈhɪpˌhop/
-n.嘻哈音乐；一种融合说唱、街舞等元素的音乐形式。
+hip-hop / ˈhɪp hɑːp /
+adj. 嘻哈文化的
+n. 街舞；嬉蹦舞曲；嘻哈
 [例]
 1.Hip-hop has become very popular around the world. 嘻哈音乐在全球范围内变得非常流行。
 2.The rapper performed his latest hip-hop single at the festival. 这位说唱歌手在音乐节上表演了他的最新嘻哈单曲。
 3.Hip-hop culture includes not only music but also dance and fashion. 嘻哈文化不仅包括音乐，还包括舞蹈和时尚。
 [搭]
 1.hip-hop artist 嘻哈艺术家
-street hip-hop 街头嘻哈
-[联] hip-hop 和 urban 联想——嘻哈起源于城市的街头文化。
+2.street hip-hop 街头嘻哈
+[联] hip-hop 和 urban 联想——嘻哈起源于城市的街头文化
 
-pop /pɑp/
-n.流行音乐；一种广受欢迎的音乐类型。
+pop / pɑːp /
+adj. 流行音乐的；通俗的，大众的
+n. 流行音乐；砰的响声；<非正式> 汽水；<非正式> 爸爸；鲜艳的一小块；（一系列事情中的）一次，一项；（棒球）小腾空球；打，敲击；<美> 通俗古典乐，流行古典乐（pops）
+v.（使）砰地爆开，砰地脱落；迅速去，短暂逗留；突然出现，短暂出现；<非正式> 突然放置，迅速放入；（使）发出砰的响声，（使）啪的一声爆裂
+adv. 砰的响声（go pop）
+abbr. 邮局协议 （post office protocol）；人口 （population）
 [例]
 1.Pop music is known for its catchy melodies. 流行音乐以其朗朗上口的旋律而闻名。
 2.The pop star released a new album this year. 这位流行歌星今年发行了一张新专辑。
 3.Pop songs are often short and easy to remember. 流行歌曲通常简短且容易记住。
 [搭]
 1.pop singer 流行歌手
-pop culture 流行文化
-[联] pop 和 hit 联想——流行音乐常产生热门歌曲。
+2.pop culture 流行文化
+[联] pop 和 hit 联想——流行音乐常产生热门歌曲
 
-band /bænd/
-n.乐队；一组乐器演奏者或歌手组成的团体。
+band / bænd /
+n. 乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指
+v. 给……分级，把……分段；用带绑扎；加彩条
 [例]
 1.The band played their first song of the night. 乐队演奏了当晚的第一首歌。
 2.A music band usually consists of several musicians. 一个音乐乐队通常由几名音乐家组成。
 3.They formed a band when they were in high school. 他们在高中时组建了一个乐队。
 [搭]
 1.marching band 行进乐队
-rock band 摇滚乐队
-[联] band 和 group 联想——两者都表示团队。
+2.rock band 摇滚乐队
+[联] band 和 group 联想——两者都表示团队
 
-melody /ˈmelədi/
-n.旋律；一首歌曲中主要的曲调。
+melody / ˈmelədi /
+n. 主旋律，曲调；歌，曲子；婉转，悦耳
 [例]
 1.The melody of this song is very beautiful. 这首歌的旋律非常优美。
 2.The melody reminded him of his childhood. 这个旋律让他想起了他的童年。
@@ -1198,50 +1223,59 @@ n.旋律；一首歌曲中主要的曲调。
 1.melody line 旋律线
 [联] melody 和 tune 联想——两者都指音乐中的主旋律。
 
-rhythmical /ˈrɪðmɪkl/
-adj.有节奏的；具有规律性的节奏。
+rhythmical / ˈrɪðmɪkl /
+adj. 有节奏的；有韵律的
 [例]
 1.Dancing requires rhythmical movement. 跳舞需要有节奏的动作。
 2.Her voice became more rhythmical as she spoke. 随着她说话，她的声音变得更加有节奏。
 3.The rhythmical beat of the drum kept everyone moving. 鼓点有节奏地敲击着，让每个人都能跟着节奏动起来。
 [搭]
 1.rhythmical pattern 节奏模式
-[联] rhythmical 和 beat 联想——两者都与节奏有关。
+2.rhythmical pulse 节律性脉搏
+3.Rhythmical Knock 节奏敲除
+[联] rhythmical 和 beat 联想——两者都与节奏有关
 
-piano /pəˈnoʊ/
-n.钢琴；一种键盘乐器。
+piano / piˈænoʊ /
+n. 钢琴；一种键盘乐器
 [例]
 1.He plays the piano beautifully. 他弹钢琴弹得很好。
 2.The grand piano stood in the center of the room. 钢琴放在房间中央。
 3.Piano lessons are very popular among children. 钢琴课在孩子们中非常受欢迎。
 [搭]
 1.piano solo 钢琴独奏
-acoustic piano 原声钢琴
-[联] piano 和 keyboard 联想——钢琴是一种键盘乐器。
+2.acoustic piano 原声钢琴
+3.play the piano 弹钢琴
+4.piano music 钢琴曲
+[联] piano 和 keyboard 联想——钢琴是一种键盘乐器
 
-guitar /ɡɪˈtɑr/
-n.吉他；一种弦乐器。
+guitar / ɡɪˈtɑːr /
+n. 吉他，六弦琴
 [例]
 1.He learned to play the guitar by himself. 他自学吉他。
 2.The guitarist played a solo during the concert. 吉他手在音乐会上演奏了一段独奏。
 3.Guitar music can be both soft and loud. 吉他音乐既可以轻柔也可以响亮。
 [搭]
 1.electric guitar 电吉他
-acoustic guitar 原声吉他
-[联] guitar 和 strings 联想——吉他是一种弦乐器。
+2.acoustic guitar 原声吉他
+[联] guitar 和 strings 联想——吉他是一种弦乐器
 
-drum /drʌm/
-n.鼓；一种打击乐器。
+drum  / drʌm /
+n. 鼓；大桶；敲击声；鼓状物；<史>军鼓手；<英，非正式>一套房间，（公寓）套间；<澳，非正式>（可靠的）内部消息；（18世纪末、19世纪初流行的）傍晚茶会，下午茶会
+v. 不停地击打；击鼓，打鼓
 [例]
 1.The drummer kept the rhythm throughout the performance. 鼓手在整个表演过程中保持节奏。
 2.Children often enjoy playing with toy drums. 孩子们经常喜欢玩玩具鼓。
 3.The sound of the drum echoed through the hall. 鼓声在大厅里回荡。
 [搭]
 1.drum kit 鼓组
-[联] drum 和 percussion 联想——鼓是一种打击乐器。
+2.drum up 招徕（顾客）；[口]竭力争取；纠集；鼓动
+3.drum tower 鼓楼
+4.drum for 招徕；鼓吹
+[联] drum 和 percussion 联想——鼓是一种打击乐器
 
-flute / flut /
-n. 长笛
+flute / fluːt /
+n. 长笛；细长酒杯，高脚玻璃酒杯；长笛音栓；（柱上的）凹槽；（裙子等衣物的）褶子，圆凹褶
+v. <文>吹笛子（或管乐器）；用长笛般优美的声音说话；制作凹槽；给（衣服）加褶边，加荷叶边
 [例]
 1.The flutist played a soothing melody. 长笛演奏者演奏了一段舒缓的旋律。
 2.The flute's sound was soft and sweet. 长笛的声音柔和甜美。
@@ -1249,30 +1283,34 @@ n. 长笛
 [搭] 
 1.flute case 长笛盒
 2.flute reed 长笛簧片
-[联] 和“woodwind instrument”（木管乐器）相关。
+[联] 和“woodwind instrument”（木管乐器）相关
 
-competition / kəmˈpɪʃən /
-n. 竞争；比赛；竞赛
-[例]
+competition / ˌkɑːmpəˈtɪʃ(ə)n /
+n. 竞争；比赛，竞赛；竞争者，对手
 1.The competition was fierce. 比赛非常激烈。
 2.She won first place in the competition. 她在比赛中获得了第一名。
 3.The competition encouraged innovation. 比赛激励了创新。
 [搭] 
 1.competition prize 比赛奖金
 2.competition winner 比赛获胜者
-[联] 和“contest”（比赛）相关。compete /kəmˈpit/, /ˈkompit/
-v.竞争，对抗；比赛，角逐。
+3.market competition 市场竞争
+4.fierce competition 激烈的竞争
+5.intense competition 激烈的竞争
+[联] 和“contest”（比赛）相关
+
+compete / kəmˈpiːt /
+v. 竞争，对抗；争夺；参加比赛
 [例]
 1.The two teams will compete in the final game. 两支队伍将在决赛中角逐。
 2.He has to compete with his rivals for the championship. 他必须和他的对手争夺冠军。
 3.She competed in several tournaments last year. 去年她参加了好几个锦标赛。
 [搭] 
-1.compete with/against... 和...竞争。
-2.compete for... 为...而竞争。
-[联] com- (加强意义) + petere (拉丁语，意为“追求”)——> 强烈追求，竞争。
+1.compete with/against... 和...竞争
+2.compete for... 为...而竞争
+[联] com- (加强意义) + petere (拉丁语，意为“追求”) ——> 强烈追求，竞争
 
-tournament /ˈtʊrnmənt/
-n.锦标赛，联赛。
+tournament / ˈtʊrnəmənt /
+n. 锦标赛，联赛；（中世纪的）骑士比武大会；阅兵式
 [例]
 1.He won the tennis tournament last year. 去年他赢得了网球锦标赛。
 2.The football tournament is held every four years. 足球锦标赛每四年举办一次。
@@ -1280,54 +1318,60 @@ n.锦标赛，联赛。
 [搭] 
 1.tennis tournament 网球锦标赛。
 2.golf tournament 高尔夫锦标赛。
-[联] tour (巡回) + nament (源自拉丁语，意为“竞赛”)——> 每次比赛后巡回到下一个场地。
+[联] tour (巡回) + nament (源自拉丁语，意为“竞赛”) ——> 每次比赛后巡回到下一个场地
 
-sponsor /ˈspɑnsər/
-v.赞助，资助；发起；支持。
+sponsor / ˈspɑːnsər /
+n. 赞助者，赞助商；（培训或教育的）资助者；（慈善活动的）捐款者，捐资机构；法案的倡议者；担保人，保证人；（宗教事宜中的）引领人
+v. 赞助（活动、节目等）； 为慈善活动捐资，为义赛捐款；倡议，提交（法案等）；主办，促成；纵容；为……担保
 [例]
 1.The company sponsored the sports event. 公司赞助了这项体育赛事。
 2.They sponsored a research project. 他们发起了一项研究项目。
 3.I sponsor her right to make her own decisions. 我支持她做出自己的决定。
-[搭] 
-1.sponsorship 赞助；发起。
-2.sponsor an event 赞助活动。
-[联] spon (表示“放置”) + sor (表示“支持者”)——> 放置支持者。
+[搭]
+1.co-sponsor 联席保荐人；副保荐人；协办单位
+2.sponsor an event 赞助活动
+3.Project Sponsor 项目发起人；项目发起人项目赞助者；发起人
+4.title sponsor 冠名赞助商；冠名单位；冠名赞助
+[联] spon (表示“放置”) + sor (表示“支持者”) ——> 放置支持者
 
-sponsorship /ˈspɑnsərʃɪp/
-n.赞助，资助。
+sponsorship / ˈspɑːnsərʃɪp /
+n. 赞助，赞助款；资助，倡议
 [例]
 1.The sponsorship from the company helped fund the event. 公司的赞助帮助资助了这次活动。
 2.This project relies heavily on sponsorship. 这个项目严重依赖赞助。
 3.Many athletes receive sponsorship from brands. 许多运动员从品牌那里获得赞助。
 [搭] 
-1.full sponsorship 完全赞助。
-2.sponsorship agreement 赞助协议。
-[联] sponsor (赞助) + -ship (名词后缀，表状态或性质)——> 赞助的状态或性质。
+1.full sponsorship 完全赞助
+2.sponsorship agreement 赞助协议
+[联] sponsor (赞助) + -ship (名词后缀，表状态或性质) ——> 赞助的状态或性质
 
-patron /ˈpeɪtrən/
-n.赞助人，资助者；常客。
+patron / ˈpeɪtrən /
+n. （艺术家的）赞助人，资助者；代言人，名义赞助人；（酒吧、旅馆等的）主顾，顾客；（古罗马）有权势的保护人，庇护人
 [例]
 1.The museum relies on its patrons for support. 博物馆依靠其赞助人获得支持。
 2.The restaurant has many loyal patrons. 这家餐馆有很多忠实顾客。
 3.As a patron of the arts, he supports many artists. 作为艺术赞助人，他支持许多艺术家。
 [搭] 
-1.patron of... 的赞助人。
-2.patronage 赞助，支持。
-[联] patro (表示“父亲”) + n——> 父亲般的保护者。
+1.patron of... 的赞助人
+2.patronage 赞助，支持
+[联] patro (表示“父亲”) + n ——> 父亲般的保护者
 
-athlete /ˈæθliːt/
-n.运动员；从事体育运动的人。
+athlete / ˈæθliːt /
+n. 运动员，体育健将；擅长运动的人
 [例]
 1.The athlete trained hard for the marathon. 运动员为马拉松比赛进行了艰苦训练。
 2.All athletes must pass a medical test. 所有运动员都必须通过体检。
 3.She is a famous athlete in our country. 她是我国著名的运动员。
 [搭] 
-1.athlete training 运动训练。
-2.world-class athlete 世界级运动员。
-[联] athl (表示“力量”) + e——> 力量型人物。
+1.athlete training 运动训练
+2.world-class athlete 世界级运动员
+3.Spanish athlete 吹牛的人；爱吹牛的人；吹法螺的人
+4.taekwondo athlete 跆拳道运动员
+5.cyber athlete 电子竞技者
+[联] athl (表示“力量”) + e ——> 力量型人物
 
-athletics /æθˈletɪks/
-n.田径运动；竞技运动。
+athletics / æθˈletɪks /
+n. 田径；竞技；体育运动；田径运动
 [例]
 1.Athletics is a popular sport in many countries. 田径运动在许多国家都很受欢迎。
 2.She excels in athletics and gymnastics. 她擅长田径和体操。
@@ -1335,475 +1379,557 @@ n.田径运动；竞技运动。
 [搭] 
 1.track and field athletics 田径运动。
 2.team athletics 团队竞技运动。
-[联] athl (表示“力量”) + etics——> 力量相关的运动。
+[联] athl (表示“力量”) + etics ——> 力量相关的运动
 
-champion /ˈtʃæmpiən/
-n.冠军；拥护者。
+champion / ˈtʃæmpiən /
+n. 冠军，第一名；拥护者，斗士
+v. 捍卫，拥护，支持
+adj. <英，非正式>极好的；冠军的，得一等奖的
 [例]
 1.He became a world champion last year. 去年他成为世界冠军。
 2.The champion received a gold medal. 冠军获得了一枚金牌。
 3.As a champion of education, she works tirelessly. 作为一名教育倡导者，她不懈努力。
 [搭] 
-1.champion title 冠军头衔。
-2.champion the cause 支持某项事业。
-[联] camp (营地) + ion——> 在营地获胜的人。
+1.champion title 冠军头衔
+2.champion the cause 支持某项事业
+3.olympic champion 奥运冠军；奥林匹克冠军
+4.defending champion 卫冕冠军
+5.open champion 公开(锦标)赛冠军
+[联] camp (营地) + ion ——> 在营地获胜的人
 
-spectator /spekˈteɪtər/
-n.观众，旁观者。
+spectator / ˈspekteɪtər /
+n.（尤指体育比赛的）观看者，观众；旁观者
 [例]
 1.The spectators cheered loudly for the team. 观众们为球队大声加油。
 2.There were thousands of spectators at the concert. 音乐会上有成千上万的观众。
 3.Spectators can watch the race from the stands. 观众可以从看台上观看比赛。
 [搭] 
-1.silent spectator 沉默的旁观者。
-2.captive spectator 被动观众。
-[联] spec (表示“看”) + tator——> 看的人。
+1.silent spectator 沉默的旁观者
+2.captive spectator 被动观众
+[联] spec (表示“看”) + tator ——> 看的人
 
-volunteer /ˌvɑlənˈtiːr/
-v.志愿，自愿；主动提供。
+volunteer / ˌvɑːlənˈtɪr /
+n. 志愿者，义务工作者；自告奋勇者，主动做某事的人；志愿兵，义勇兵；自生植物；<法律>无因受益人
+v. 自愿做，义务做，无偿做；志愿服役，志愿参军；主动提供（信息），主动说出（或建议）；自作主张地说，（未经当事人同意）举荐
+adj. 志愿（者）的
 [例]
 1.Volunteers are needed for the event. 活动需要志愿者。
 2.I volunteered to help with the cleanup. 我主动提出帮忙清理。
 3.He volunteers at the local shelter every weekend. 他每个周末都在当地收容所做志愿者。
 [搭] 
-1.volunteer work 志愿服务。
-2.volunteer for... 自愿承担。
-[联] volun (表示“愿意”) + teer——> 愿意的人。请提供需要分析的单词或词组，我将严格按照您提供的格式进行输出。请提供需要分析的单词或词组，我将按照您提供的格式逐一输出结果。请提供需要分析的单词或词组，我将按照您提供的格式逐一输出结果。tumble / ˈtʌmbl /, / ˈtʊmbl /
-v. 翻滚；跌倒；（股票等价格）暴跌
+1.volunteer work 志愿服务
+2.volunteer for... 自愿承担
+[联] volun (表示“愿意”) + teer ——> 愿意的人
+
+tumble / ˈtʌmb(ə)l /
+v. 跌倒，滚落；倒塌，坍塌；（价值）暴跌；跌跌撞撞地走；（水）快速移动；（兴奋或伤心地）快速说；翻跟头；（头发）垂落；用滚筒甩干；弄乱，弄皱
+n. 跌倒，滚落，暴跌；混乱，杂乱；翻跟头；<美，非正式>示好；<非正式>性交
 [例]
 1.The child tumbled down the stairs. 孩子从楼梯上摔了下来。
 2.Stocks tumbled after the announcement. 宣布后，股价暴跌。
 3.The ball tumbled out of his hands. 球从他手中滚落。
-[搭] tumble dry （衣物）烘干 tumbleweed 风滚草
-[联] tumbling (翻滚) + -le (表示小动作)。
+[搭]
+1.tumble dry （衣物）烘干
+2.take a tumble 恍然大悟
+3.tumble down 破败；半破坏
+4.tumble in 嵌入
+[联] tumbling (翻滚) + -le (表示小动作)
 
-compete /kəmˈpit/, /ˈkompit/
-v. 竞争，比赛；对抗，抗衡。
-[例]
-1.I want to compete in the next Olympics. 我想参加下一届奥运会。
-2.He is determined to compete for the championship. 他决心争夺冠军。
-3.Companies compete with each other for market share. 公司之间相互竞争以抢占市场份额。
-[搭] 
-compete against/with sb. 竞争；与某人对抗。
-[联] com- (一起) + petere (追求) ——> 共同追求目标。
-
-Olympic /oˈlɪmpɪk/
-adj. 奥林匹克的；奥林匹克运动会的。
+Olympic / oˈlɪmpɪk /
+adj. 奥林匹克的；奥林匹克运动会的
 [例]
 1.The Olympic Games bring people from all over the world together. 奥运会把来自世界各地的人们聚集在一起。
 2.The Olympic torch relay starts months before the games. 奥运圣火传递活动在比赛开始前几个月就开始了。
 3.Athletes train hard for years to compete in the Olympic Games. 运动员为了参加奥运会要训练多年。
 [搭] 
-Olympic medal 奥运奖牌；Olympic Games 奥运会。
-[联] 来源于希腊地名“奥林匹亚”。
+1.Olympic medal 奥运奖牌；Olympic Games 奥运会
+[联] 来源于希腊地名“奥林匹亚”
 
-famous /ˈfeɪməs/
-adj. 著名的，出名的；声誉卓著的。
+famous / ˈfeɪməs /
+adj. 著名的，出名的；<非正式>极好的，了不起的
 [例]
 1.Machu Picchu is a famous ancient Incan city. 马丘比丘是一座著名的古代印加城市。
 2.She became famous as an actress. 她作为一位女演员而出名。
 3.The scientist is famous for his discoveries. 这位科学家因其发现而闻名。
 [搭] 
-famous for 因……而出名；famous as 作为……而出名。
-[联] fame (名声) + -ous (-的)。
+1.famous for 因……而出名
+2.famous as 作为……而出名
+3.famous brand 名牌，名牌货
+4.famous trademark 著名商标；驰名商标
+[联] fame (名声) + -ous (-的)
 
-fame /feɪm/
-n. 名声，名望；名誉，荣誉。
+fame / feɪm /
+n. 名誉，名气
+v. 使闻名，使有名望
 [例]
 1.His greatest desire was to achieve fame. 他最大的愿望就是获得名声。
 2.The book brought him instant fame. 这本书使他立刻成名。
 3.True fame consists in doing what is worth doing. 真正的名声在于做值得做的事。
 [搭] 
-fame and fortune 名声和财富；seek fame 追求名声。
-[联] 来源于拉丁语“fama”(流言蜚语)。
+1.fame and fortune 名声和财富
+2.seek fame 追求名声
+3.hall of fame 名人纪念馆
+4.fame and fortune 名声与财富
+5.wealth and fame 名利
+[联] 来源于拉丁语“fama”(流言蜚语)
 
-well-known /ˌwɛlˈnoʊn/
-adj. 众所周知的，出名的。
+well-known / ˌwel ˈnoʊn /
+adj. 众所周知的，出名的
 [例]
 1.Beethoven is a well-known composer. 贝多芬是一位著名的作曲家。
 2.The well-known actor will star in the new movie. 这位著名的演员将在新电影中担任主角。
 3.The Great Wall is a well-known landmark in China. 长城是中国一个著名的地标。
 [搭] 
-well-known for 因……而为人熟知；well-known as 作为……而为人熟知。
-[联] well (好) + known (知道)。
+1.well-known for 因……而为人熟知
+2.well-known as 作为……而为人熟知
+[联] well (好) + known (知道)
 
-energetic /ˌɛnərˈdʒɛtɪk/
-adj. 精力充沛的，充满活力的。
+energetic / ˌenərˈdʒetɪk /
+adj. 精力充沛的，充满活力的；积极的；（活动）剧烈的，费力气的；高能的
 [例]
 1.The energetic young man started his own business. 这位精力充沛的年轻人创办了自己的公司。
 2.Energetic exercise can improve your mood. 积极锻炼可以改善你的情绪。
 3.My energetic dog always needs lots of attention. 我那只精力充沛的狗总是需要很多关注。
 [搭] 
-energetic lifestyle 积极的生活方式；energetic personality 活泼的性格。
-[联] energy (能量) + -tic (-的)。
+1.energetic lifestyle 积极的生活方式
+2.energetic personality 活泼的性格
+[联] energy (能量) + -tic (-的)
 
-vigorous /ˈvɪɡərəs/
-adj. 精力旺盛的；有力的；强健的。
+vigorous / ˈvɪɡərəs /
+adj. 精力充沛的，充满活力的；强壮的，强健的
 [例]
 1.The vigorous young man ran five miles every morning. 这位精力旺盛的年轻人每天早上跑五英里。
 2.Vigorous debate is essential for democracy. 激烈的辩论对民主至关重要。
 3.The vigorous plants grew rapidly in the garden. 这些强健的植物在花园里迅速生长。
 [搭] 
-vigorous growth 强劲增长；vigorous action 强有力的行动。
-[联] vigor (力量) + -ous (-的)。
+1.vigorous growth 强劲增长
+2.vigorous action 强有力的行动
+[联] vigor (力量) + -ous (-的)
 
-stadium /ˈsteɪdɪəm/
-n. 体育场，运动场。
+stadium / ˈsteɪdiəm /
+n. 体育场，运动场；（古希腊或古罗马的）竞走跑道，战车赛道；斯塔德（古希腊或古罗马长度单位，约185米）
 [例]
 1.The soccer game will be held at the stadium. 足球比赛将在体育场举行。
 2.The new stadium can seat 50,000 people. 新体育场可容纳5万人。
 3.The stadium was packed with fans. 体育场挤满了球迷。
 [搭] 
-stadium seats 观众席；stadium lighting 体育场照明。
-[联] 来源于拉丁语“stadium”(赛跑距离)。
+1.stadium seats 观众席
+2.stadium lighting 体育场照明
+3.olympic stadium 奥林匹克体育场
+4.emirates stadium 酋长球场；阿联酋航空球场
+5.indoor stadium 室内运动场
+[联] 来源于拉丁语“stadium”(赛跑距离)
 
-gym /dʒɪm/
-n. 健身房，体育馆。
+gym / dʒɪm /
+n. 体育馆，健身房；（尤指学校的）体育活动
 [例]
 1.I go to the gym three times a week. 我每周去三次健身房。
 2.The gym offers yoga classes every morning. 健身房每天早上提供瑜伽课程。
 3.The children love playing basketball in the school gym. 孩子们喜欢在学校体育馆打篮球。
 [搭] 
-gym membership 健身房会员资格；gym bag 健身包。
+1.gym membership 健身房会员资格
+2.gym bag 健身包
 [联] 缩写自“gymnasium”(体育馆)。
 
-training /ˈtreɪnɪŋ/
-n. 训练，培训；训练过程。
+training / ˈtreɪnɪŋ /
+n. 训练，培训；体育训练，锻炼
+v. 锻炼，培养（某一素质或能力）；培训，训练；（为准备体育赛事而）操练（train的现在分词形式）
 [例]
 1.The athlete went through intense training for the competition. 运动员为比赛进行了高强度训练。
 2.New employees receive training before starting their jobs. 新员工在开始工作前接受培训。
 3.Military training is important for national defense. 军事训练对国防很重要。
 [搭] 
-on-the-job training 在职培训；language training 语言培训。
-[联] train (训练) + -ing (-的)。
+1.on-the-job training 在职培训
+2.language training 语言培训
+3.in training (运动员等)在训练中；在锻炼中
+4.personnel training 人员培训
+5.professional training 职业培训
+[联] train (训练) + -ing (-的)
 
-exercise /ˈɛksəˌsaɪz/, /ɪkˈsɛsaɪz/
-v. 锻炼；练习；完成（任务、作业等）
+exercise / ˈeksərsaɪz /
+n. 运动，锻炼；（一套）动作，体操；练习，演练；运用；活动，任务；典礼；宗教仪式，礼拜
+v. 运动，锻炼；运用，行使；使担忧，使烦恼；驯，遛
 [例]
 1.I need to exercise more often to stay healthy. 我需要经常锻炼以保持健康。
 2.She exercises her right to vote every election. 她每次选举都行使自己的投票权。
 3.Practice makes perfect, so you should exercise your writing skills daily. 熟能生巧，你应该每天练习写作技能。
 [搭]
 1.regular exercise 定期锻炼
-physical exercise 身体锻炼
-[联] ex-(向外) + -ercise(来自拉丁语 exercitare，意为“训练”)——> 训练身体或思维。
+2.physical exercise 身体锻炼
+3.take exercise 做运动；做体操
+[联] ex-(向外) + -ercise(来自拉丁语 exercitare，意为“训练”) ——> 训练身体或思维
 
-indoor /ˈɪndoɚ/
-adj. 室内的；户内的
+indoor / ˈɪndɔːr /
+adj. 室内的，户内的
 [例]
 1.Playing indoor games is a great way to spend time during bad weather. 在恶劣天气下玩室内游戏是打发时间的好方法。
 2.The gym has both indoor and outdoor facilities. 这家健身房既有室内设施也有室外设施。
 3.I prefer indoor activities like reading books or watching movies. 我更喜欢阅读书籍或观看电影这样的室内活动。
 [搭]
 1.indoor furniture 室内家具
-indoor plants 室内植物
-[联] in-(向内) + door(门)——> 在门内发生的。
+2.indoor plants 室内植物
+[联] in-(向内) + door(门) ——> 在门内发生的
 
-outdoor /ˈaʊtdɔɚ/
-adj. 户外的；露天的
+outdoor / ˈaʊtdɔːr /
+adj. 户外的，露天的；喜欢户外活动的
 [例]
 1.Outdoor activities like hiking and camping are good for mental health. 徒步旅行和露营等户外活动对心理健康有益。
 2.We spent our weekend doing outdoor activities. 我们周末进行了户外活动。
 3.The children played outdoor games all afternoon. 孩子们整个下午都在玩户外游戏。
 [搭]
 1.outdoor sports 户外运动
-outdoor furniture 户外家具
-[联] out-(向外) + door(门)——> 在门外发生的。
+2.outdoor furniture 户外家具
+[联] out-(向外) + door(门) ——> 在门外发生的
 
-motion /ˈmoʊʃən/
-n. 动作；移动；提议
+motion / ˈmoʊʃ(ə)n /
+n. 运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请
+v. 打手势，示意
 [例]
 1.The motion of the ocean waves was soothing. 海浪的运动让人感到舒缓。
 2.The teacher made a motion to adjourn the meeting. 老师提议休会。
 3.He nodded his head in motion to say yes. 他点头示意同意。
 [搭]
 1.in motion 在运动中
-come into motion 开始运作
-[联] 来自拉丁语 motio, -onis (移动)。
+2.come into motion 开始运作
+[联] 来自拉丁语 motio, -onis (移动)
 
-mobile /ˈmoʊbəl/
-adj. 可移动的；流动的
+mobile / ˈmoʊbəl /
+adj. 活动的，可移动的；行动方便的，行动自如的；流动性强的；（面部表情）易变的，多变的；机动的，车载的；与移动电话（或掌上电脑等技术）有关的
+n. 活动的装饰品，悬挂饰物；移动电话
 [例]
 1.My desk lamp is mobile and can be adjusted easily. 我的台灯可移动，容易调节。
 2.The population in this area is very mobile. 这个地区的居民流动性很大。
 3.The mobile phone industry has grown rapidly in recent years. 近年来，手机行业迅速发展。
 [搭]
 1.mobile phone 手机
-mobile app 手机应用程序
-[联] mob- (移动) + ile (形容词后缀)——> 可移动的。
+2.mobile app 手机应用程序
+[联] mob- (移动) + ile (形容词后缀) ——> 可移动的
 
-movement /ˈmuːvmənt/
-n. 移动；动作；运动；流派
+movement / ˈmuːvmənt /
+n. 移动，转移；（具有共同思想或目标的）运动；军队有计划的移动；行踪；乐章；改进，发展；量的变化；（活动）机件；排便；（飞机）抵达，起飞
 [例]
 1.The movement of the train was uncomfortable. 火车的晃动让人感到不适。
 2.The environmental movement gained momentum last year. 环保运动去年获得了动力。
 3.The civil rights movement was a pivotal moment in history. 民权运动是历史上的一个关键时刻。
 [搭]
 1.social movement 社会运动
-political movement 政治运动
+2.political movement 政治运动
 [联] move-(移动) + -ment(名词后缀)——> 移动或行动的过程。
 
-yoga /ˈjoʊgə/
-n. 瑜伽
+yoga / ˈjoʊɡə /
+n. 瑜伽，瑜伽术； 瑜伽派（印度哲学派别）
 [例]
 1.I practice yoga every morning to improve my flexibility. 我每天早上练习瑜伽以提高柔韧性。
 2.Yoga helps reduce stress and improve overall well-being. 瑜伽有助于减轻压力并改善整体健康状况。
 3.My friend introduced me to yoga as a form of meditation. 我的朋友向我介绍了瑜伽作为一种冥想形式。
 [搭]
 1.yoga mat 瑜伽垫
-yoga pants 瑜伽裤
-[联] 来源于梵文 "yuj"，意思是“结合”或“统一”。
+2.yoga pants 瑜伽裤
+[联] 来源于梵文 "yuj"，意思是“结合”或“统一”
 
-sprawl /sprɔːl/
-v. 蜷缩；四肢摊开躺卧；蔓延
+sprawl  / sprɔːl /
+v. 伸开四肢坐（或躺）；蔓延
+n.（城市）杂乱无序拓展的地区；四肢摊开的姿势；随意扩展，蔓延物
 [例]
 1.The child sprawled across the floor while playing. 孩子玩耍时四肢摊开躺在地板上。
 2.The city sprawls over the surrounding hills. 这个城市蔓延到周围的山坡上。
 3.The vines sprawled across the garden wall. 藤蔓蔓延到了花园的墙壁上。
 [搭]
 1.sprawl out 趴着；摊开
-sprawl across 蔓延至
-[联] 从古英语 "sprǣlan" 衍生而来，意为“伸展四肢”。
+2.sprawl across 蔓延至
+[联] 从古英语 "sprǣlan" 衍生而来，意为“伸展四肢”
 
-stretch /stretʃ/
-v. 拉长；伸展；扩展
+stretch / stretʃ /
+v.（使）变大，拉长；（布料）可伸缩，有弹性；伸展肢体；伸出，伸长（胳膊或腿）；拉紧，拽紧；（时间上）延续；（空间上）延伸，绵延
+n.（土地或水域的）一片，一段；（时间）连续的一段，持续；（肢体）伸展，伸开；弹性，伸缩性；服刑期；（终点前的）直线跑道；言过其实的话
+adj.（织物）有弹性的，有弹力的
 [例]
 1.I stretched my arms after sitting for a long time. 坐了很久之后我伸展了手臂。
 2.The company plans to stretch its market reach. 公司计划扩展其市场覆盖范围。
 3.The elastic band stretches easily. 橡皮筋很容易拉长。
 [搭]
 1.stretch mark 妊娠纹
-stretch out 摊开；延伸
-[联] 来源于古英语 "streccan"，意为“拉长”。
+2.stretch out 摊开；延伸；伸手
+3.stretch oneself 伸懒腰；伸展身体；尽最大的努力
+4.at a stretch 一口气地，不休息地
+[联] 来源于古英语 "streccan"，意为“拉长”
 
-strain /streɪn/
-n. 拉力；过度用力；压力
+strain / streɪn /
+n. 焦虑，紧张；负担，紧张；张力，压力；损伤，扭伤；品种，类型；气质，个性特点；旋律，曲调；口吻，语气；（物理）应变，胁变；血缘；困难，负担
+v. 拉伤，扭伤；绷紧，用力拉；竭力，使劲；过滤；使不堪忍受，使紧张；用力推（或拉），拉紧
 [例]
 1.The strain of work was too much for him. 工作的压力对他来说太大了。
 2.The rope broke under the strain. 绳索在拉力下断裂了。
 3.Family issues put a strain on their relationship. 家庭问题对他们的关系造成了压力。
 [搭]
 1.mental strain 心理压力
-muscle strain 肌肉拉伤
-[联] 来源于古英语 "streccan"，意为“拉紧”。
+2.muscle strain 肌肉拉伤
+3.strain rate 应变速率；应变率；变形速度
+4.strain energy 应变能
+5.strain at something 使劲拉某物；使劲做某事；努力争取
+[联] 来源于古英语 "streccan"，意为“拉紧”
 
-chess /tʃes/
-n. 国际象棋；棋盘游戏。
+chess / tʃes /
+n. 国际象棋，西洋棋
 [例]
 1.I play chess with my father every weekend. 我每周末都和我父亲下国际象棋。
 2.Learning chess can improve your strategic thinking. 学习国际象棋可以提升你的战略思维能力。
 3.Chess is a game that requires patience and concentration. 国际象棋是一种需要耐心和专注的游戏。
 [搭]
-chess match 棋赛；chess club 棋社。
-[联] chess 的发音与“ches”相似，可联想为“车士”，这是国际象棋中重要的棋子。
+1.chess match 棋赛
+2.chess club 棋社
+[联] chess 的发音与“ches”相似，可联想为“车士”，这是国际象棋中重要的棋子
 
-badminton /ˈbædmɪntən/
-n. 羽毛球（运动）。
+badminton / ˈbædmɪntən /
+n. 羽毛球
 [例]
 1.I play badminton twice a week to stay fit. 我每周打两次羽毛球来保持健康。
 2.We watched an exciting badminton match last night. 昨晚我们观看了一场激动人心的羽毛球比赛。
 3.My friend is very good at badminton, and she always wins. 我的朋友非常擅长羽毛球，她总是获胜。
 [搭]
-badminton racket 羽毛球拍；badminton court 羽毛球场地。
-[联] badminton 发音近似“爸的门顿”，可联想为“爸爸的门厅放着羽毛球拍”。
+1.badminton racket 羽毛球拍
+2.badminton court 羽毛球场地
+[联] badminton 发音近似“爸的门顿”，可联想为“爸爸的门厅放着羽毛球拍”
 
-golf /ɡolf/
-n. 高尔夫球（运动）。
+golf / ɡolf /
+n. 高尔夫球
 [例]
 1.He goes golfing every Sunday morning. 他每个周日早上都会去打高尔夫球。
 2.Golf is a sport that requires precision and focus. 高尔夫是一项需要精确性和专注度的运动。
 3.My uncle is passionate about golf and has been playing for over 20 years. 我叔叔热爱高尔夫，并且已经打了二十多年。
 [搭]
-golf course 高尔夫球场；golf club 高尔夫俱乐部。
-[联] golf 可联想为“高个子”，因为高尔夫球手通常身材较高。
+1.golf course 高尔夫球场
+2.golf club 高尔夫俱乐部
+[联] golf 可联想为“高个子”，因为高尔夫球手通常身材较高
 
-billiards /ˈbɪliədz/
-n. 台球（运动）。
+billiards / ˈbɪljərdz /
+n. 台球
 [例]
 1.They played billiards at the pub last night. 他们昨晚在酒吧玩了台球。
 2.Billiards is a game that requires skill and strategy. 台球是一项需要技巧和策略的游戏。
 3.My brother enjoys playing billiards with his friends. 我哥哥喜欢和他的朋友们一起玩台球。
 [搭]
-billiards table 台球桌；billiards hall 台球厅。
-[联] billiards 发音近似“必利斯”，可联想为“必利斯”牌台球。
+1.billiards table 台球桌
+2.billiards hall 台球厅
+[联] billiards 发音近似“必利斯”，可联想为“必利斯”牌台球
 
-soccer /ˈsɑkər/
-n. 足球（英式）。
+soccer / ˈsɑːkər /
+n. 英式足球，足球
 [例]
 1.My son loves playing soccer with his classmates. 我儿子喜欢和他的同学一起踢足球。
 2.The soccer team trained hard for the upcoming tournament. 足球队为了即将到来的比赛进行了艰苦训练。
 3.Soccer is the most popular sport in the world. 足球是世界上最受欢迎的运动。
 [搭]
-soccer ball 足球；soccer field 足球场。
-[联] soccer 发音近似“索克儿”，可联想为“索克儿”牌足球。
+1.soccer ball 足球
+2.soccer field 足球场
+[联] soccer 发音近似“索克儿”，可联想为“索克儿”牌足球
 
-tennis /ˈtenɪs/
-n. 网球（运动）。
+tennis / ˈtenɪs /
+n. 网球
 [例]
 1.She plays tennis three times a week. 她每周打三次网球。
 2.Tennis is a great way to stay active and healthy. 打网球是保持活力和健康的极佳方式。
 3.My sister is a fan of Roger Federer and loves watching tennis matches. 我妹妹是罗杰·费德勒的粉丝，喜欢观看网球比赛。
 [搭]
-tennis racket 网球拍；tennis court 网球场。
-[联] tennis 发音近似“特尼斯”，可联想为“特尼斯”牌网球拍。
+1.tennis racket 网球拍
+2.tennis court 网球场
+[联] tennis 发音近似“特尼斯”，可联想为“特尼斯”牌网球拍
 
-volleyball /ˈvɑliˌbɔl/
-n. 排球（运动）。
+volleyball / ˈvɑːlibɔːl /
+n. 排球
 [例]
 1.We played volleyball on the beach last summer. 去年夏天我们在沙滩上打排球。
 2.Volleyball is a team sport that requires coordination and communication. 排球是一项需要协调和沟通的团队运动。
 3.My school has a strong volleyball team. 我学校有一支强大的排球队。
 [搭]
-volleyball net 排球网；volleyball game 排球比赛。
-[联] volleyball 发音近似“瓦利波儿”，可联想为“瓦利波儿”牌排球。
+1.volleyball net 排球网
+2.volleyball game 排球比赛
+[联] volleyball 发音近似“瓦利波儿”，可联想为“瓦利波儿”牌排球
 
-hockey /ˈhɑki/
-n. 曲棍球（运动）。
+hockey / ˈhɑːki /
+n. <英>曲棍球；<美>冰球
 [例]
 1.They went to watch a hockey match yesterday. 昨天他们去看了一场曲棍球比赛。
 2.Hockey is a fast-paced and physical sport. 曲棍球是一项节奏快且身体对抗激烈的运动。
 3.My cousin plays hockey for her university team. 我表妹为她的大学曲棍球队效力。
 [搭]
-field hockey 场地曲棍球；ice hockey 冰球。
-[联] hockey 发音近似“哈奇”，可联想为“哈奇”牌曲棍球杆。
+1.field hockey 场地曲棍球
+2.ice hockey 冰球
+[联] hockey 发音近似“哈奇”，可联想为“哈奇”牌曲棍球杆
 
-cricket /ˈkrɪkɪt/
-n. 板球（运动）。
+cricket / ˈkrɪkɪt /
+n. 蟋蟀；板球（运动）
 [例]
 1.They played cricket in the park on Sunday afternoon. 星期日下午他们在公园里打板球。
 2.Cricket is a traditional sport in England. 板球是英国的传统运动。
 3.My father used to play cricket when he was young. 我父亲年轻时曾打过板球。
 [搭]
-cricket bat 板球拍；cricket ground 板球场。
-[联] cricket 发音近似“克里克特”，可联想为“克里克特”牌板球拍。
+1.cricket bat 板球拍
+2.cricket ground 板球场
+[联] cricket 发音近似“克里克特”，可联想为“克里克特”牌板球拍
 
-goal /ɡoʊl/
-n. 目标；进球得分。
+goal / ɡoʊl /
+n. 球门；进球得分；目标，目的；（旅行）目的地；（赛跑的）终点
+v. 射门，射门得分
 [例]
 1.My goal is to learn a new language this year. 我的目标是今年学习一门新语言。
 2.The team scored three goals in the first half. 上半场球队进了三个球。
 3.Goals give you direction and motivation. 目标给你方向和动力。
 [搭]
-goal setting 设定目标；goal post 球门柱。
-[联] goal 发音近似“够儿”，可联想为“够儿”牌目标管理工具。
+1.goal setting 设定目标
+2.goal post 球门柱
+[联] goal 发音近似“够儿”，可联想为“够儿”牌目标管理工具
 
-bat /bæt/
-n. 球棒；蝙蝠
+bat / bæt /
+n. 球棒，球拍；蝙蝠
+v. 用球板（棒）击球；挥打，击走
 [例]
 1.The player picked up his bat and prepared to hit the ball. 这位球员拿起球棒准备击球。
 2.Bats are nocturnal creatures that use echolocation to navigate. 蝙蝠是夜行性动物，利用回声定位来导航。
 3.I saw a bat flying in the twilight. 我看到一只蝙蝠在黄昏中飞翔。
 [搭]
 1.baseball bat 棒球棒
-[联] bat 可以联想为“拍打”的动作。
+[联] bat 可以联想为“拍打”的动作
 
-racket /ˈrækɪt/
-n. 球拍；嘈杂声；非法勾当
+racket / ˈrækɪt /
+n. 球拍（=racquet）；<非正式>吵闹（声），骚闹；<非正式>敲诈勒索，非法勾当；行当，生计；<美>球拍形雪鞋；硬球壁球
+vt. 寻欢作乐，花天酒地（racket about/around）；喧嚷，大吵大闹
 [例]
 1.He swung his racket and hit the tennis ball hard. 他挥动球拍，用力击打了网球。
 2.The sound of the thunder made a loud racket. 雷声发出巨大的噪音。
 3.Don't get involved in any racket. 别参与任何非法勾当。
 [搭]
 1.tennis racket 网球拍
-[联] racket 可以联想为“噪音”或“不正当手段”。
+[联] racket 可以联想为“噪音”或“不正当手段”
 
-kick /kɪk/
-v. 踢；踢腿；使激动
+kick / kɪk/
+v. 踢，踢腿；对（自己）生气；戒除（恶习）；踢球得分；（枪）射击时后坐，朝……反冲；活跃，精力充沛
+n. 踢，踢腿；极度兴奋，极大的乐趣；（毒品或酒精的）效力，刺激性；突然的猛烈震动；（枪射击时的）反冲，后坐力；（沙尘造成的）球的不规则运动
 [例]
 1.The soccer player kicked the ball into the goal. 这位足球运动员把球踢进了球门。
 2.The baby kicked her legs in delight. 这个婴儿高兴地踢着腿。
 3.This movie really kicked my imagination into gear. 这部电影激发了我的想象力。
 [搭]
 1.kick off 开始，启动
-[联] kick 可以联想为“脚的动作”。
+[联] kick 可以联想为“脚的动作”
 
 knock /nɑːk/
-v. 敲；打击；抨击
+v. 敲，击；碰撞，碰倒；把……撞击成（某种状态）；敲动，打破；打，凿（洞）；（尤指因故障）发碰撞声，嘭嘭作响；挑剔，无端指责；踢（球）
+n. 敲打声，（尤指）敲门声；打击，捶击，撞击；<非正式>困难，挫折；（发动机）轰鸣声；<非正式>批评；<非正式>（尤指单个击球手的）击球回合；撞伤，撞坏之处
 [例]
 1.She knocked on the door before entering. 她进门之前敲了敲门。
 2.The wind knocked over the trash can. 风把垃圾桶吹倒了。
 3.People often knock him for being too serious. 人们经常因为他太严肃而批评他。
 [搭]
 1.knock down 击倒，拆毁
-[联] knock 可以联想为“敲击”的动作。
+[联] knock 可以联想为“敲击”的动作
 
-flip /flɪp/
-v. 轻轻翻转；快速翻阅；突然甩动
+flip / flɪp /
+v.（使）快速翻转，迅速翻动；快速翻阅，浏览；<非正式>勃然大怒，心烦意乱；（快速地）调频道，换台；轻抛，轻掷；按（开关）；（话题、活动或意见）突然改变
+adj. 轻率的，无礼的
+n. 轻抛，轻掷，轻击；空翻；浏览，草草翻阅；<英，非正式>短暂旅行（或游览）；蛋奶酒
+int. <非正式>讨厌（表示轻微厌恶）
 [例]
 1.He flipped the pancake high into the air. 他把煎饼高高地抛向空中。
 2.I flipped through the book looking for the answer. 我快速翻阅书本寻找答案。
 3.The coin flipped in the air landed on heads. 抛到空中的硬币落在了正面。
 [搭]
 1.flip a coin 抛硬币
-[联] flip 可以联想为“快速的动作”。
+[联] flip 可以联想为“快速的动作”
 
-pitch /pɪtʃ/
-n. 投掷；音高；球场
+pitch / pɪtʃ /
+n. <英>体育场地，球场；程度，强度；音准，音高；推销用语；投球；沥青，柏油；（船或飞机的）颠簸；倾斜度，高度；<英>摊位，（街头艺人的）表演场所
+v. 扔，抛，掷；（棒球中）投（球）；击地，（使球）定点落地；重跌，坠落；（船或飞机）颠簸；把……定于某水平；使（产品）针对，面向；推销；为……定音高
 [例]
 1.The pitcher threw the ball with great speed. 投手以极快的速度投出了球。
 2.The pitch of the note changed as he adjusted the string. 他调整弦的时候音高发生了变化。
 3.They played baseball on the local pitch. 他们在当地的球场上玩棒球。
 [搭]
 1.pitch a tent 搭帐篷
-[联] pitch 可以联想为“投掷”或“场地”。
+2.pitch in 投入；作出贡献
+3.tar pitch 焦油沥青
+4.coal tar pitch 沥青；煤焦油沥青；硬煤沥青
+[联] pitch 可以联想为“投掷”或“场地”
 
-throw /θroʊ/
-v. 扔；投掷；扔掉
+throw / θroʊ /
+v. 投，掷，抛，扔；掷（色子），掷出（色子的点数）；随手扔下（某物）；猛推，使劲撞；急伸，猛动（身体部位）；使迅猛地摔倒在地；使突然陷入
+n. 投，掷；投射距离；套，罩；摔倒对手；<非正式>每一份（花费）；（地质）落差，位移；速转装置，旋转工具；摆动；（指针的）行程；冒险
 [例]
 1.He threw the ball to his teammate. 他把球传给了他的队友。
 2.She threw herself onto the bed after a long day. 经过漫长的一天后，她扑到了床上。
 3.Don't throw stones in a glass house. 不要搬起石头砸自己的脚。
 [搭]
 1.throw a party 开派对
-[联] throw 可以联想为“用力扔出去”。
+2.throw away 扔掉，丢弃
+3.throw out 扔掉；伸出；说出；否决；突出
+4.throw in 扔进；边线发球，掷界外球
+[联] throw 可以联想为“用力扔出去”
 
-toss /tɒs/
-v. 投掷；轻轻抛出；随意丢弃
+toss / tɔːs /
+v.（轻轻地或随意地）扔，抛，掷；向后甩（头发或身体部位）；（使）摇摆，挥动，颠簸；（在液体中）搅拌（食物），拌匀；（为……）掷硬币决定，掷币猜边儿
+n. 掷硬币决定；（轻轻的或随意的）扔，抛，掷；向上甩头，猛仰头；（尤指比赛或游戏中）投掷；<英>根本不在乎
 [例]
 1.He tossed the coin into the fountain. 他把硬币扔进了喷泉。
 2.The chef tossed the salad in the air. 厨师将沙拉高高地抛向空中。
 3.Don't toss those old clothes away. 别把这些旧衣服随便丢掉。
 [搭]
 1.toss a coin 抛硬币
-[联] toss 可以联想为“轻轻抛掷”。
+2.toss in [新西兰俚语]放弃；结束
+3.toss and turn 辗转反侧；翻来覆去难以入睡
+[联] toss 可以联想为“轻轻抛掷”
 
-slide /slaɪd/
-v. 滑动；滑行；悄悄溜走
+slide / slaɪd /
+v.（使）滑行，滑动；滑落；迅速熟练地进出；（使）快捷而悄声地移动；（价格等）下滑，下跌；逐渐败坏，开始出现问题；滑垒
+n. 滑梯；滑道；滑行，滑动；（价格、数量等的）下降，跌落，减少；幻灯片；（情况）变糟，恶化，（人）出现问题；（显微镜的）载物玻璃片
 [例]
 1.The child slid down the slide at the playground. 这个孩子在操场上从滑梯上滑下来。
 2.The paper slid out of his hands. 那张纸从他的手中滑落。
 3.Time seems to slide by when you're having fun. 当你玩得开心的时候，时间似乎过得很快。
 [搭]
 1.slide rule 计算尺
-[联] slide 可以联想为“滑动”的动作。
+2.on the slide 在滑板上；日益恶化
+3.slide show 放映幻灯片
+4.slide block 滑块；滑架
+[联] slide 可以联想为“滑动”的动作
 
-slip /slɪp/
-v. 滑倒；滑行；疏忽
+slip / slɪp /
+v. 滑倒，失足；滑落，脱落；溜走，悄悄地走；偷偷塞进；滑行，打滑；下降，变差；陷入；迅速穿上，迅速脱下；摆脱，挣脱；飞逝，过得飞快；被（某人）忘记；
+n. 疏漏，差错；小纸条；滑，滑倒；滑动；衬裙；（击球员后侧的）守场员；（制陶器用的）泥浆，泥釉；（飞机飞行中的）侧滑；牵狗皮带；（两个码头之间）泊位
 [例]
 1.She slipped on the ice and fell. 她在冰上滑倒了。
 2.The letter slipped from her fingers. 那封信从她的手指间滑落。
 3.Don't let this opportunity slip through your fingers. 别让这个机会从你的指缝间溜走。
 [搭]
 1.slip away 悄悄溜走
-[联] slip 可以联想为“滑动”或“疏忽”。
+2.let slip 错过；无意中吐露；放走
+3.slip away 逃走；悄悄溜走
+4.slip in 悄悄溜入；偷偷溜进去
+[联] slip 可以联想为“滑动”或“疏忽”
 
-ski / ski /
-v. 滑雪 n. 滑雪板
+ski / skiː /
+n. 滑雪（水）板；（车辆的）滑橇；水橇，滑水撬（=waterski）
+v. 滑雪，滑水
+adj. 滑雪的，滑水的
 [例]
 1.I want to go skiing this winter vacation. 我这个寒假想去滑雪。
 2.He is an experienced skier. 他是一个经验丰富的滑雪者。
 3.They went skiing in the Alps last year. 去年他们去了阿尔卑斯山滑雪。
-[搭] ski resort 滑雪胜地 ski equipment 滑雪装备
-[联] ski (滑雪) + -ing (动名词)。
+[搭]
+1.ski resort 滑雪胜地
+2.ski equipment 滑雪装备
+[联] ski (滑雪) + -ing (动名词)
 
 skate / skeɪt /
-v. 滑冰 n. 滑冰鞋
+n. 溜冰鞋，滑冰鞋； 四轮溜冰鞋，旱冰鞋；（滑冰鞋上的）冰刀；（载笨重物的）滑板车；滑板（skateboard 的简称）；鳐鱼（一种扁平状海鱼）
+v. 滑冰，溜冰；在滑板上滑行，溜出（花样）；滑行；一笔带过，回避（skate over/round）；（喻）一蹴而就（skate through）
 [例]
 1.Children love to skate on frozen ponds. 孩子们喜欢在结冰的池塘上滑冰。
 2.I used to skate every weekend when I was young. 我年轻时每周末都去滑冰。
 3.We can rent skates at the rink. 我们可以在溜冰场租到滑冰鞋。
-[搭] figure skate 花样滑冰 skateboarding 滑板运动
-[联] skate (滑冰) + -ing (动名词)。
+[搭]
+1.figure skate 花样滑冰
+2.skateboarding 滑板运动
+[联] skate (滑冰) + -ing (动名词)
 
 cycling / ˈsaɪkliŋ /
 n. 骑自行车；自行车旅行
