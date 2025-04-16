@@ -119,18 +119,6 @@ v. 获得……的专利权；授予专利
 2.patent holder 专利持有人
 [联] pat (保护) + ent (名词后缀) ——> 被保护的权利
 
-devise / dɪˈvaɪz /
-v. 设计，发明；<法律>（通过遗嘱）遗赠（不动产）；<古>图谋
-n. <法律>（遗嘱中）遗赠不动产的条款
-[例]
-1.He devised a new method to solve the problem. 他想出了一个解决这个问题的新方法。
-2.They devised a plan to improve their sales. 他们策划了一个提高销售的计划。
-3.The teacher devised an interesting game for the students. 老师为学生设计了一个有趣的活动。
-[搭]
-1.devise a plan 制定计划
-2.devise a solution 提出解决方案
-[联] dev (做)+ ise (动词后缀) ——> 设计，构思
-
 invent / ɪnˈvent /
 v. 发明，创造；编造，虚构
 [例]
@@ -245,14 +233,15 @@ n.（知识、活动、思想的）领域，范围；<正式>王国；（动物�
 foundation / faʊnˈdeɪʃ(ə)n /
 n. 地基，基础；基本原理，根据；基金会；建立，创办；（化妆打底用的）粉底霜
 [例]
-1.The foundation of the building must be strong. 建筑物的基础必须牢固。
-2.The company was founded in 1980. 这家公司成立于1980年。
-3.The Red Cross is one of the most important foundations in the world. 红十字会是世界上最重要的基金会之一。
+1.The foundation of the building is very solid. 这座建筑物的地基非常牢固。
+2.The research foundation provides funding for young scientists. 这个研究基金会为年轻科学家提供资金支持。
+3.The foundation of their friendship is mutual respect. 他们友谊的基础是互相尊重。
 [搭]
-1.lay the foundation 打下基础
-2.foundation stone 奠基石
+1.foundation stone 奠基石
+2.lay the foundation 打下基础
 3.theoretical foundation 理论基础
-[联] found (找到) + ation(名词后缀) ——> 找到事物的根本
+4.solid foundation 基础雄厚；实体基础
+[联] found(发现) + ation ——> 发现事物的本质并建立起来。
 
 specialise / ˈspeʃəlaɪz /
 vi. 专门研究（specialize 的英式拼写）
@@ -357,12 +346,13 @@ n. 家用电器，装置；<英>应用；消防车
 device / dɪˈvaɪs /
 n. 装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表
 [例]
-1.The device is used to measure temperature. 这个装置用来测量温度。
-2.They used a clever device to catch the thief. 他们使用了一个巧妙的装置抓住了小偷。
-3.A mobile phone is a useful device in our daily life. 手机是我们日常生活中有用的装置。
-[搭]
-1.electronic device 电子设备
-[联] de (向下) + vice(看作vice)=向下看的东西，装置
+1.This device is used to measure temperature. 这个装置用于测量温度。
+2.He came up with a clever device to solve the problem. 他想出了一个聪明的方法来解决问题。
+3.The device is easy to use and efficient. 这个设备易于使用且高效。
+[搭] 
+1.device control 设备控制
+2.intelligent device 智能设备
+[联] de- (表示“分解”) + vice (与“vice”相关) ——> 把事物分成部件
 
 facility / fəˈsɪləti /
 n. 设施，设备；卫生间；天赋，才能；（机器等的）特别装置，（服务等的）特色；（用作某种用途的）场所
@@ -1082,6 +1072,40 @@ v. 精炼，提纯；改进，改善；使……文雅
 2.refine oneself 提高自身修养
 [联] re- (再次) + fine (精细的) ——> 再次精细处理
 
+devise / dɪˈvaɪz /
+v. 设计，发明；<法律>（通过遗嘱）遗赠（不动产）；<古>图谋
+n. <法律>（遗嘱中）遗赠不动产的条款
+[例]
+1.He devised a new method to solve the problem. 他想出了一个解决这个问题的新方法。
+2.They devised a plan to improve their sales. 他们策划了一个提高销售的计划。
+3.The teacher devised an interesting game for the students. 老师为学生设计了一个有趣的活动。
+[搭]
+1.devise a plan 制定计划
+2.devise a solution 提出解决方案
+[联] dev (做)+ ise (动词后缀) ——> 设计，构思
+
+foundation / faʊnˈdeɪʃ(ə)n /
+n. 地基，基础；基本原理，根据；基金会；建立，创办；（化妆打底用的）粉底霜
+[例]
+1.The foundation of the building must be strong. 建筑物的基础必须牢固。
+2.The company was founded in 1980. 这家公司成立于1980年。
+3.The Red Cross is one of the most important foundations in the world. 红十字会是世界上最重要的基金会之一。
+[搭]
+1.lay the foundation 打下基础
+2.foundation stone 奠基石
+3.theoretical foundation 理论基础
+[联] found (找到) + ation(名词后缀) ——> 找到事物的根本
+
+device / dɪˈvaɪs /
+n. 装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表
+[例]
+1.The device is used to measure temperature. 这个装置用来测量温度。
+2.They used a clever device to catch the thief. 他们使用了一个巧妙的装置抓住了小偷。
+3.A mobile phone is a useful device in our daily life. 手机是我们日常生活中有用的装置。
+[搭]
+1.electronic device 电子设备
+[联] de (向下) + vice(看作vice)=向下看的东西，装置
+
 simplify / ˈsɪmplɪfaɪ /
 v. 简化，使单纯；使简易
 [例]
@@ -1092,6 +1116,17 @@ v. 简化，使单纯；使简易
 1.simplify life 简化生活
 2.simplify problems 化繁为简
 [联] simple (简单的) + -ify (动词后缀) ——> 使其简单
+
+pure / pjʊr /
+adj. 纯的，不掺杂质的；血统纯的，纯种的；纯真的，贞洁的；干净的，不含有害物质的；无杂色的，清晰而优美的；完全的，纯粹的
+[例]
+1.This CD is pure bubblegum pop. 这张CD纯粹是“泡泡糖”流行音乐。
+2.It was pure, unadulterated hell. 那是纯粹的，十足的地狱。
+3.The story is pure moonshine. 这个故事纯属瞎编。
+[搭]
+1.pure water 纯水，净水；纯净水
+2.pure white 纯白；纯白色；纯洁白
+3.pure gold 纯金，足赤
 
 purify / ˈpjʊrɪfaɪ /
 v. 使（某物）洁净，净化；变纯净；洗涤（思想），净化（心灵）；提纯，精炼
@@ -1115,17 +1150,6 @@ v. 过滤；渗入，透过；（消息、信息等）慢慢传开，走漏；�
 1.filter coffee 过滤咖啡
 2.filter information 筛选信息
 [联] filter (过滤器) + -er (名词后缀) ——> 过滤装置
-
-distil / dɪˈstɪl /
-v. 蒸馏，用蒸馏法提取；提炼，升华；散发
-[例]  
-1.Distilling seawater produces fresh water. 蒸馏海水可以生产淡水。  
-2.The chemist distilled the essence from the plant. 化学家从植物中提取出精华。  
-3.The process distils the complex ideas into simple terms. 这个过程将复杂的想法提炼成简单的术语。  
-[搭]  
-1.distil alcohol 蒸馏酒精
-2.vacuum distil 真空蒸馏；减压蒸馏
-[联] dis-(分离) + til(l)(液体)  
 
 mode / moʊd /
 n. 方式，做法；（机器、设备的）运行方式，状态；（衣着、艺术等的）形式，风格；<非正式>（思想、情感或行为的）状态，状况
@@ -1197,17 +1221,6 @@ v.（行星与另一天体）形成角度关系
 4.aspect angle 视界角；视线角；扫描角
 [联] asp- (朝向) + -ect (词根) ——> 面朝的方向
 
-phase / feɪz /
-n.（发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相
-[例]  
-1.The project is in its final phase. 项目处于最后阶段。  
-2.The moon goes through different phases each month. 月亮每个月都会经历不同的月相。  
-3.We are currently in the development phase of the plan. 我们目前正处于计划的开发阶段。  
-[搭]  
-1.phase out 逐步淘汰
-2.phase in 逐步引入
-[联] phas(e) - “阶段”
-
 operate / ˈɑːpəreɪt /
 v. 操纵，操作（机器或设备）；（机器等）运转，运行 ；管理，经营（企业、部门等）；（组织或公司）运营；（使）运行，（使）工作
 [例]  
@@ -1218,6 +1231,28 @@ v. 操纵，操作（机器或设备）；（机器等）运转，运行 ；管�
 1.operate on 对……起作用；给……做手术  
 2.operate a system 操作系统  
 [联] opera (音乐作品) + te (动词后缀) ——> 从事某种活动。
+
+distil / dɪˈstɪl /
+v. 蒸馏，用蒸馏法提取；提炼，升华；散发
+[例]  
+1.Distilling seawater produces fresh water. 蒸馏海水可以生产淡水。  
+2.The chemist distilled the essence from the plant. 化学家从植物中提取出精华。  
+3.The process distils the complex ideas into simple terms. 这个过程将复杂的想法提炼成简单的术语。  
+[搭]  
+1.distil alcohol 蒸馏酒精
+2.vacuum distil 真空蒸馏；减压蒸馏
+[联] dis-(分离) + til(l)(液体)  
+
+phase / feɪz /
+n.（发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相
+[例]  
+1.The project is in its final phase. 项目处于最后阶段。  
+2.The moon goes through different phases each month. 月亮每个月都会经历不同的月相。  
+3.We are currently in the development phase of the plan. 我们目前正处于计划的开发阶段。  
+[搭]  
+1.phase out 逐步淘汰
+2.phase in 逐步引入
+[联] phas(e) - “阶段”
 
 facilitate / fəˈsɪlɪteɪt /
 v. 使更容易，使便利；促进，推动
@@ -1375,18 +1410,6 @@ n. 错误，差错；（棒球、网球等运动中的）失误
 2.calculation error 计算错误
 [联] e- (向外) + rror (混乱) ——> 弄乱了
 
-mistake / mɪˈsteɪk /
-n. 错误，过失；（用词或数字上的）错误，口误，笔误；（令人后悔的）错误
-v. 误解，误会；错误判断；把……误认为
-[例]
-1.I made a mistake in my calculations. 我的计算中出现了一个错误。
-2.Don't mistake his silence for agreement. 别误以为他的沉默表示同意。
-3.He mistook her for his sister. 他误把她当成了自己的妹妹。
-[搭]
-1.make no mistake 不犯错误
-2.by mistake 出于误会导致的错误
-[联] mis- (错误的) + take (拿取) ——> 拿错了东西
-
 flaw / flɔː /
 n. 缺点，缺陷；裂痕，瑕疵
 v. 削弱，使失效
@@ -1398,20 +1421,6 @@ v. 削弱，使失效
 1.structural flaw 结构缺陷
 2.design flaw 设计缺陷
 [联] fl- (流动) + aw (法律) ——> 流动的法律漏洞
-
-wrong / rɔːŋ /
-adj. 错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的
-adv. 错误地，不符合事实地；（方式或方向）不适当地，不适宜地；出问题；不正当地
-n. 坏事，不道德行为， 错误的行为（或情况）；冤枉，不公平的行为
-v. 不公正地对待，冤枉
-[例]
-1.This is the wrong answer. 这是错误的答案。
-2.You're doing it all wrong. 你完全做错了。
-3.That's the wrong way to think about it. 那样想是不对的。
-[搭]
-1.be wrong about 对……判断错误
-get something wrong 弄错某事
-[联] wr- (混乱) + ong (长音) ——> 事情变得一团糟
 
 fault / fɔːlt /
 n. 错误；责任，过错；缺点，故障；断层；发球失误
@@ -1461,182 +1470,29 @@ v. 处于某种情况
 2.under no circumstances 决不
 [联] circum- (周围) + stance (站立) ——> 四周站立的情况
 
-generator / ˈdʒenəˌreɪtər /
-n.
-[读音]
-- 当作“发电机”时，读作 / ˈdʒenəˌreɪtər /
-- 当作“创造者，发生器”时，读作 / ˈdʒenəˌreɪtər /
-
-[释义]
-1. 发电机（n.）
-   - 一种将其他形式的能量转换为电能的设备。
-2. 创造者，发生器（n.）
-   - 某种产生特定效果或结果的事物。
-
+mistake / mɪˈsteɪk /
+n. 错误，过失；（用词或数字上的）错误，口误，笔误；（令人后悔的）错误
+v. 误解，误会；错误判断；把……误认为
 [例]
-1. The generator failed to start during the power outage. 在停电期间发电机无法启动。
-2. This machine is used as a generator of heat. 这台机器被用作热源发生器。
-3. The wind generator produced enough electricity for the village. 风力发电机为村庄提供了足够的电力。
-
+1.I made a mistake in my calculations. 我的计算中出现了一个错误。
+2.Don't mistake his silence for agreement. 别误以为他的沉默表示同意。
+3.He mistook her for his sister. 他误把她当成了自己的妹妹。
 [搭]
-1.generator set 发电机组
-2.solar generator 太阳能发电机
+1.make no mistake 不犯错误
+2.by mistake 出于误会导致的错误
+[联] mis- (错误的) + take (拿取) ——> 拿错了东西
 
-[联] gen (产生) + er (名词后缀) ——> 产生能量的装置
-
-gear / gir /
-n.
-[释义]
-1. 齿轮（n.）
-   - 机械装置中的一个轮子，通常有齿，与其他齿轮配合使用以传递动力。
-2. 衣物、装备（n.）
-   - 特别指用于某种活动或运动的服装和工具。
-
+wrong / rɔːŋ /
+adj. 错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的
+adv. 错误地，不符合事实地；（方式或方向）不适当地，不适宜地；出问题；不正当地
+n. 坏事，不道德行为， 错误的行为（或情况）；冤枉，不公平的行为
+v. 不公正地对待，冤枉
 [例]
-1. The car's gear system needs repair. 这辆车的变速系统需要修理。
-2. She packed her hiking gear for the trip. 她为旅行准备了全套登山装备。
-3. He changed into his racing gear before the race. 他在比赛前换上了赛车服。
-
+1.This is the wrong answer. 这是错误的答案。
+2.You're doing it all wrong. 你完全做错了。
+3.That's the wrong way to think about it. 那样想是不对的。
 [搭]
-1.gear shift 变速杆
-2.gear ratio 齿轮比
-
-[联] 与“gears”联想，想象多个齿轮互相咬合的画面。
-
-pivot / ˈpaɪvət /
-n./v.
-[读音]
-- n. 读作 / ˈpaɪvət /
-- v. 读作 / ˈpɪvət /
-
-[释义]
-1. 支点，枢纽（n.）
-   - 一个物体围绕其旋转的固定点。
-2. 转动，绕轴转动（v.）
-   - 绕某个中心点旋转或移动。
-
-[例]
-1. The door rotates around its pivot point. 门围绕着它的铰链点旋转。
-2. The company pivoted its business model to focus on online sales. 公司将其商业模式转向专注于在线销售。
-3. The entire operation pivots on this single piece of information. 整个行动都依赖于这一信息。
-
-[搭]
-1.pivot table 数据透视表
-2.pivot point 转折点
-
-[联] 想象一个支点，所有力量都集中于此。
-
-hydraulic / haɪˈdrɔlɪk /
-adj.
-[读音] / haɪˈdrɔlɪk /
-
-[释义]
-1. 液压的（adj.）
-   - 使用液体压力来传递能量或控制动作的。
-
-[例]
-1. The hydraulic press is used to flatten metal sheets. 液压机用来压平金属板。
-2. Hydraulic brakes are more efficient than mechanical ones. 液压制动比机械制动更高效。
-3. The hydraulic system in the factory is very advanced. 工厂里的液压系统非常先进。
-
-[搭]
-1.hydraulic cylinder 液压缸
-2.hydraulic pump 液压泵
-
-[联] hydro (水) + l (连接) + ic (形容词后缀) ——> 与水有关的压力系统。
-
-drainage / ˈdreɪnɪʤ /
-n.
-[读音] / ˈdreɪnɪʤ /
-
-[释义]
-1. 排水，排水系统（n.）
-   - 指排除多余液体的过程或系统。
-
-[例]
-1. Proper drainage is important for preventing flooding. 合理的排水系统对于防止洪水很重要。
-2. The drainage system in the city needs improvement. 城市的排水系统需要改进。
-3. They installed new drainage pipes under the road. 他们在路下安装了新的排水管道。
-
-[搭]
-1.drainage area 排水区域
-2.surface drainage 地表排水
-
-[联] drain (排出) + age (名词后缀) ——> 排出多余液体的过程。
-
-sewage / ˈsuʤiʤ /
-n.
-[读音] / ˈsuʤiʤ /
-
-[释义]
-1. 污水（n.）
-   - 生活中产生的废水，通常包含污染物。
-
-[例]
-1. The sewage treatment plant cleans the wastewater. 污水处理厂清理生活污水。
-2. The sewage system in the old building is outdated. 老楼的排污系统已经过时。
-3. Sewage can contaminate nearby rivers. 污水会污染附近的河流。
-
-[搭]
-1.sewage pipe 污水管
-2.sewage treatment 污水处理
-
-[联] sew (缝纫，引申为水流) + age (名词后缀) ——> 流动的污水。
-
-ventilation / ˌvɛntɪˈleɪʃən /
-n.
-[读音] / ˌvɛntɪˈleɪʃən /
-
-[释义]
-1. 通风（n.）
-   - 空气流通的过程或系统，用于改善空气质量。
-
-[例]
-1. Good ventilation is essential for health. 良好的通风对健康至关重要。
-2. The ventilation system in the office is broken. 办公室的通风系统坏了。
-3. Proper ventilation reduces indoor air pollution. 合适的通风可以减少室内空气污染。
-
-[搭]
-1.natural ventilation 自然通风
-2.mechanical ventilation 机械通风
-
-[联] vent (通风口) + ilation (名词后缀) ——> 空气流通的过程。
-
-compress / kəmˈprɛs /
-v.
-[读音] / kəmˈprɛs /
-
-[释义]
-1. 压缩（v.）
-   - 减小物体的体积或空间。
-
-[例]
-1. You need to compress the file to send it via email. 你需要压缩文件才能通过电子邮件发送。
-2. The compressor compresses the gas into liquid form. 压缩机将气体压缩成液体形式。
-3. The app allows you to compress large images. 该应用程序允许你压缩大图片。
-
-[搭]
-1.compressible 压缩性的
-2.compressed air 压缩空气
-
-[联] com (加强意义) + press (按压) ——> 加强按压使其变小。
-
-condense / kənˈdɛns /
-v.
-[读音] / kənˈdɛns /
-
-[释义]
-1. 冷凝，浓缩（v.）
-   - 使物质从气态变为液态或固体状态。
-
-[例]
-1. Water condenses on the cold window. 水蒸气在冷窗上凝结。
-2. The scientist is trying to condense the solution. 科学家正在尝试浓缩溶液。
-3. Clouds condense to form raindrops. 云朵凝结形成雨滴。
-
-[搭]
-1.condensed milk 浓缩牛奶
-2.condensed water 凝结水
-
-[联] con (加强意义) + dense (密集) ——> 使物质变得更加密集。
+1.be wrong about 对……判断错误
+get something wrong 弄错某事
+[联] wr- (混乱) + ong (长音) ——> 事情变得一团糟
 

@@ -4,8 +4,9 @@ n. 光合作用（不可数名词）
 1.Plants perform photosynthesis to produce their own food. 植物通过光合作用来制造自己的食物。
 2.Photosynthesis requires sunlight, water, and carbon dioxide. 光合作用需要阳光、水和二氧化碳。
 3.Increasing vegetation coverage can enhance photosynthesis. 增加植被覆盖率可以促进光合作用。
-[搭] photosynthesis process 光合作用过程
-[联] photo- (光) + synthesis (合成) ——> 利用光合成的过程。
+[搭]
+1.photosynthesis process 光合作用过程
+[联] photo- (光) + synthesis (合成) ——> 利用光合成的过程
 
 respire / rɪˈspaɪər /
 vi. 呼吸
@@ -14,8 +15,9 @@ vt. 呼吸
 1.Humans respire through their lungs. 人类通过肺部呼吸。
 2.The plant respired oxygen during the day. 这株植物在白天释放氧气。
 3.I need to respire fresh air after being in a closed room. 在密闭房间里待久了，我需要呼吸新鲜空气。
-[搭] respire deeply 深呼吸
-[联] re- (再次) + spire (尖塔；螺旋) ——> 呼吸。
+[搭]
+1.respire deeply 深呼吸
+[联] re- (再次) + spire (尖塔；螺旋) ——> 呼吸
 
 dioxide / daɪˈɒksaɪd; daɪˈɑːksaɪd /
 n. 氧化物（可数名词）
@@ -23,8 +25,9 @@ n. 氧化物（可数名词）
 1.Carbon dioxide is a greenhouse gas. 二氧化碳是一种温室气体。
 2.Sulfur dioxide can cause acid rain. 二氧化硫会导致酸雨。
 3.Oxygen dioxide is used in many industrial processes. 氧化物在许多工业过程中被使用。
-[搭] carbon dioxide 二氧化碳
-[联] di- (双) + oxide (氧化物) ——> 双氧。
+[搭]
+1.carbon dioxide 二氧化碳
+[联] di- (双) + oxide (氧化物) ——> 双氧
 
 vegetation / ˌvedʒəˈteɪʃn /
 n.（总称）植物，植被；（植物的）生长；呆板单调的生活
@@ -32,8 +35,9 @@ n.（总称）植物，植被；（植物的）生长；呆板单调的生活
 1.The vegetation in the desert is sparse. 沙漠中的植被稀疏。
 2.Vegetation helps to prevent soil erosion. 植被有助于防止土壤侵蚀。
 3.A variety of vegetation can be found in the rainforest. 雨林中可以找到各种各样的植被。
-[搭] native vegetation 原生植被
-[联] veget- (植物) + -ation (状态) ——> 植物的状态。
+[搭]
+1.native vegetation 原生植被
+[联] veget- (植物) + -ation (状态) ——> 植物的状态
 
 herb / ɜrb /
 n. 药草，香草；草本植物（可数名词）
@@ -41,8 +45,9 @@ n. 药草，香草；草本植物（可数名词）
 1.Chinese cuisine often uses various herbs for flavoring. 中餐经常使用各种草本植物来调味。
 2.Mint is a popular herb used in drinks. 薄荷是饮料中常用的草本植物。
 3.People have been using herbs for medicinal purposes since ancient times. 自古以来人们就用草本植物治病。
-[搭] herbal tea 草药茶
-[联] herba (草本植物) ——> herb。
+[搭]
+1.herbal tea 草药茶
+[联] herba (草本植物) ——> herb
 
 perennial / pəˈreniəl /
 adj. 多年生的；常年的；四季不断的；常在的；反复的
@@ -51,8 +56,9 @@ n. 多年生植物
 1.Perennial flowers bloom year after year. 多年生花卉每年都会开花。
 2.Perennial problems require long-term solutions. 持久的问题需要长期的解决方案。
 3.My favorite perennial is the lavender. 我最喜欢的多年生植物是薰衣草。
-[搭] perennial crop 多年生作物
-[联] per- (贯穿) + ennial (年度) ——> 贯穿多个年度的。
+[搭]
+1.perennial crop 多年生作物
+[联] per- (贯穿) + ennial (年度) ——> 贯穿多个年度的
 
 botany / ˈbɑːtəni /
 n. 植物学；（特定地区的）植物（生态）
@@ -60,8 +66,9 @@ n. 植物学；（特定地区的）植物（生态）
 1.Botany is an important branch of biology. 植物学是生物学的重要分支。
 2.Botany students study different types of plants. 植物学学生研究不同的植物种类。
 3.Botany research contributes to agriculture. 植物学研究对农业有贡献。
-[搭] plant botany 植物学
-[联] botan- (植物) + -y (学科) ——> 植物学科。
+[搭]
+1.plant botany 植物学
+[联] botan- (植物) + -y (学科) ——> 植物学科
 
 ecology / iˈkɑːlədʒi; ɪkˈɑːlədʒ /
 n. 生态学；生态；生态保护运动
@@ -69,8 +76,9 @@ n. 生态学；生态；生态保护运动
 1.Ecology studies the relationships between organisms and their environment. 生态学研究生物与其环境之间的关系。
 2.Popular ecology books help people understand environmental issues. 流行的生态学书籍帮助人们了解环境问题。
 3.Global warming is a major topic in modern ecology. 全球变暖是现代生态学的主要话题之一。
-[搭] population ecology 种群生态学
-[联] eco- (生态) + logy (学科) ——> 生态学科。
+[搭]
+1.population ecology 种群生态学
+[联] eco- (生态) + logy (学科) ——> 生态学科
 
 ecosystem / ˈiːkoʊsɪstəm /
 n. 生态系统（可数名词）
@@ -78,8 +86,9 @@ n. 生态系统（可数名词）
 1.Forests are complex ecosystems. 森林是复杂的生态系统。
 2.The coral reef ecosystem supports a diverse range of species. 珊瑚礁生态系统支持着各种各样的物种。
 3.Balancing urban ecosystems is challenging. 平衡城市生态系统具有挑战性。
-[搭] aquatic ecosystem 水生生态系统
-[联] eco- (生态) + system (系统) ——> 生态系统。
+[搭]
+1.aquatic ecosystem 水生生态系统
+[联] eco- (生态) + system (系统) ——> 生态系统
 
 eco-friendly / ˌikəʊˈfraɪndli /
 adj. 对环境友好的（形容词）
@@ -87,18 +96,19 @@ adj. 对环境友好的（形容词）
 1.Eco-friendly products reduce pollution. 对环境友好的产品减少污染。
 2.An eco-friendly lifestyle helps protect the planet. 对环境友好的生活方式有助于保护地球。
 3.Companies are encouraged to develop eco-friendly technologies. 鼓励公司开发对环境友好的技术。
-[搭] eco-friendly packaging 对环境友好的包装
-[联] eco- (生态) + friendly (友好的) ——> 对生态友好的。
+[搭]
+1.eco-friendly packaging 对环境友好的包装
+[联] eco- (生态) + friendly (友好的) ——> 对生态友好的
 
 horticulture / ˈhɔːrtɪkʌltʃər /
-n. 园艺学；园艺。
+n. 园艺学；园艺
 [例]
 1.Horticulture is an important part of agricultural science. 园艺学是农业科学的重要组成部分。
 2.I am studying horticulture in college. 我在大学学习园艺学。
 3.Modern horticulture uses advanced technology to grow plants. 现代园艺利用先进技术种植植物。
 [搭] 
-1.horticulture industry 园艺业。
-[联] horti-(花园) + culture(栽培)——> 种植花园。
+1.horticulture industry 园艺业
+[联] horti-(花园) + culture(栽培) ——> 种植花园
 
 organism / ˈɔːrɡənɪzəm /
 n. 生物，有机体，（尤指）微生物；有机组织，有机体系
@@ -107,8 +117,8 @@ n. 生物，有机体，（尤指）微生物；有机组织，有机体系
 2.The organism thrived in the laboratory. 这个有机体在实验室中茁壮成长。
 3.Organisms adapt to their environment over time. 生物随着时间适应它们的环境。
 [搭] 
-1.simple organism 简单生物。
-[联] organ-(器官) + -ism(状态，性质)——> 有器官的生物。
+1.simple organism 简单生物
+[联] organ-(器官) + -ism(状态，性质) ——> 有器官的生物
 
 genetics / dʒəˈnetɪks /
 n. 遗传学；（有机体、特征等的）遗传性，遗传特征
@@ -117,8 +127,8 @@ n. 遗传学；（有机体、特征等的）遗传性，遗传特征
 2.The study of genetics helps us understand heredity. 遗传学的研究帮助我们理解遗传。
 3.Genetics plays a crucial role in medicine. 遗传学在医学中起着至关重要的作用。
 [搭] 
-1.molecular genetics 分子遗传学。
-[联] gene-(基因) + -ics(学科)——> 基因学。
+1.molecular genetics 分子遗传学
+[联] gene-(基因) + -ics(学科) ——> 基因学
 
 mutation / mjuːˈteɪʃ(ə)n /
 n. 动物或植物的）突变，变异；（基因结构突变产生的）突变体，突变型；（形式的）转变，改变；语流音变，变音
@@ -127,8 +137,8 @@ n. 动物或植物的）突变，变异；（基因结构突变产生的）突�
 2.The mutation occurred naturally in the population. 这种突变自然发生在群体中。
 3.Scientists study mutations to understand evolution. 科学家研究突变以了解进化。
 [搭] 
-1.gene mutation 基因突变。
-[联] mut-(改变) + -ation(行为，结果)——> 改变的状态。
+1.gene mutation 基因突变
+[联] mut-(改变) + -ation(行为，结果) ——> 改变的状态
 
 variation / ˌveriˈeɪʃ(ə)n /
 n. 变化，变动；变奏曲；变化，变异；（天文）二均差；（数）变分，变差；磁偏角；（芭蕾）单人舞
@@ -137,28 +147,28 @@ n. 变化，变动；变奏曲；变化，变异；（天文）二均差；（�
 2.The variation in weather affects our plans. 天气的变化影响我们的计划。
 3.The artist's work shows great variation. 艺术家的作品显示出极大的变化。
 [搭] 
-1.natural variation 自然变化。
-[联] vary-(变化) + -ation(行为，结果)——> 变化的状态。
+1.natural variation 自然变化
+[联] vary-(变化) + -ation(行为，结果) ——> 变化的状态
 
 diversity / daɪˈvɜːrsəti; dɪˈvɜːsɪti /
-n. 多样性；多样化。
+n. 多样性；多样化
 [例]
 1.Cultural diversity enriches society. 文化多样性丰富了社会。
 2.The diversity of opinions was surprising. 意见的多样性令人惊讶。
 3.Educational diversity benefits students. 教育多样性使学生受益。
 [搭] 
-1.biodiversity 生物多样性。
-[联] diver-(分开) + -sity(状态)——> 分开的状态。
+1.biodiversity 生物多样性
+[联] diver-(分开) + -sity(状态) ——> 分开的状态
 
 hybridisation / ˌhaɪbrɪdəˈzeɪʃn /
-n. 杂交；杂交育种。
+n. 杂交；杂交育种
 [例]
 1.Hybridisation has improved crop yields. 杂交育种提高了作物产量。
 2.The scientist studies hybridisation in plants. 这位科学家研究植物的杂交育种。
 3.Hybridisation can create new varieties of crops. 杂交育种可以创造出新的作物品种。
 [搭] 
-1.artificial hybridisation 人工杂交。
-[联] hybrid-(杂交的) + -isation(名词后缀)——> 杂交的过程。
+1.artificial hybridisation 人工杂交
+[联] hybrid-(杂交的) + -isation(名词后缀) ——> 杂交的过程
 
 classify / ˈklæsɪfaɪ /
 v. 把……分类，把……分级；把（信息）归入保密级别
@@ -167,8 +177,8 @@ v. 把……分类，把……分级；把（信息）归入保密级别
 2.The teacher classified the students by ability. 老师按能力对学生进行了分类。
 3.Classifying data helps with analysis. 对数据进行分类有助于分析。
 [搭] 
-1.classify as 把...分类为。
-[联] class-(类别) + -ify(使成为)——> 使成为类别。
+1.classify as 把...分类为
+[联] class-(类别) + -ify(使成为) ——> 使成为类别
 
 reproduce / ˌriːprəˈduːs /
 v. 复制，翻印；模拟；再制造，再现；繁殖，生殖
@@ -177,8 +187,8 @@ v. 复制，翻印；模拟；再制造，再现；繁殖，生殖
 2.The scientist wants to reproduce the experiment. 科学家想重复这个实验。
 3.Reproducing music digitally is easy. 数字化复制音乐很容易。
 [搭] 
-1.reproduce oneself 繁殖自身。
-[联] re-(再) + produce(生产)——> 再次生产。
+1.reproduce oneself 繁殖自身
+[联] re-(再) + produce(生产) ——> 再次生产
 
 evolve / ɪˈvɑːlv /
 v. 进化，演化；逐步发展，逐渐演变
@@ -187,8 +197,9 @@ v. 进化，演化；逐步发展，逐渐演变
 2.The company evolved its business model. 公司发展了其商业模式。
 3.New ideas evolve from old ones. 新思想从旧思想中演变而来。
 [搭] 
-1.evolve into 发展成。
-[联] e-(出) + volv-(卷曲) + -e——> 向外卷曲，即发展。
+1.evolve into 发展成
+2.evolve from 由…进化
+[联] e-(出) + volv-(卷曲) + -e ——> 向外卷曲，即发展
 
 fluctuate / ˈflʌktʃueɪt; ˈflʌktʃəˌteɪ /
 v.（使）波动，（使）起伏；（使）动摇，（使）不稳定
@@ -199,11 +210,11 @@ v.（使）波动，（使）起伏；（使）动摇，（使）不稳定
 [搭]
 1.fluctuate in price 在价格上波动
 2.fluctuate between two extremes 在两个极端之间波动
-[联] fluctuate = fluctu (波浪) + ate (动词后缀)——> 波动。
+[联] fluctuate = fluctu (波浪) + ate (动词后缀) ——> 波动
 
 reclaim / rɪˈkleɪm /
-v.要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正
-n.归还要求（或主张）
+v. 要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正
+n. 归还要求（或主张）
 [例]
 1.They are reclaiming the desert. 他们在开垦沙漠。
 2.The government plans to reclaim wetlands for agriculture. 政府计划开垦湿地用于农业。
@@ -211,7 +222,7 @@ n.归还要求（或主张）
 [搭]
 1.reclaim land 开垦土地
 2.reclaim waste materials 回收废料
-[联] reclaim = re- (再) + claim (要求)——> 再要求，重新获得。
+[联] reclaim = re- (再) + claim (要求) ——> 再要求，重新获得
 
 cultivate / ˈkʌltɪveɪt /
 v. 开垦，耕作；栽培，培育；陶冶，培养；建立（友谊），结交
@@ -222,7 +233,7 @@ v. 开垦，耕作；栽培，培育；陶冶，培养；建立（友谊），�
 [搭]
 1.cultivate friendship 培养友谊
 2.cultivate the land 耕种土地
-[联] cultivate = culti (耕种) + ate (动词后缀)——> 耕种。
+[联] cultivate = culti (耕种) + ate (动词后缀) ——> 耕种
 
 sow / soʊ /
 v. 播种，种；激起，散布，煽动；埋（地雷），将（一地区）布上地雷；布满，覆盖
@@ -234,7 +245,7 @@ n. 母猪；某些雌性哺乳动物（如豚鼠）；铁锭
 [搭]
 1.sow seeds 播种
 2.sow discord 播下不和
-[联] sow = sow (播种)——> 直接与动作相关。
+[联] sow = sow (播种) ——> 直接与动作相关
 
 harvest / ˈhɑːrvɪst /
 n. 收获；收获量，捕获量；成果，收获
@@ -250,10 +261,10 @@ v. 收割，收获；采集，搜集；收采（人的器官、细胞等）
 [搭]
 1.harvest time 收获时间
 2.harvest crops 收割庄稼
-[联] harvest = har (收割) + vest (背心)——> 背负着丰收。
+[联] harvest = har (收割) + vest (背心) ——> 背负着丰收
 
 pluck / plʌk /
-v. 摘，掐；拉，扯；（用指甲或镊子）夹，拔（毛发）；拔去（鸡或鸟的毛）；弹拨（弦乐器）；解救，搭救；挖掘，使一跃成名；鼓起勇气（pluck up the courage）；挑选；（用手指）迅速拣起；（地质）（冰川冰）拔削，拔蚀
+v. 摘，掐；拉，扯；（用指甲或镊子）夹，拔（毛发）；拔去（鸡或鸟的毛）；弹拨（弦乐器）；解救，搭救；挖掘，使一跃成名
 n. 胆识，勇气；（供食用的）动物内脏；猛拉
 [例]
 1.He plucked a flower from the garden. 他从花园里摘了一朵花。
@@ -262,10 +273,10 @@ n. 胆识，勇气；（供食用的）动物内脏；猛拉
 [搭]
 1.pluck feathers 拔羽毛
 2.pluck up courage 鼓起勇气
-[联] pluck = pluck (拔)——> 动作直接相关。
+[联] pluck = pluck (拔) ——> 动作直接相关
 
 pick / pɪk /
-v. 采，摘（花、果）；（用手指）弄掉；找茬；捡，抱起；选择；弹，拨（弦）；撬开（锁），扒窃……中的东西；小心走路（~ one's way）；（反复地）拔，拉，撕，扯；没胃口地吃；（高尔夫）拾球（尤指认输的拾球）（~ up）；采，摘（花、果等）
+v. 采，摘（花、果）；（用手指）弄掉；找茬；捡，抱起；选择；弹，拨（弦）；撬开（锁），扒窃……中的东西；小心走路（~ one's way）
 n. 精华（the pick of）；选择，选择权；被选中的人（或事物）；鹤嘴锄；（吉他的）拨子；（尖状的）挖撬工具；（篮球）掩护
 [例]
 1.She picked the ripe apples from the tree. 她从树上摘下了熟透的苹果。
@@ -274,13 +285,11 @@ n. 精华（the pick of）；选择，选择权；被选中的人（或事物）
 [搭]
 1.pick flowers 采摘花朵
 2.pick pockets 挑拣口袋（偷窃）
-[联] pick = pick (挑选)——> 动作直接相关。
+[联] pick = pick (挑选) ——> 动作直接相关
 
 yield / jiːld /
-v.
-产生（收益、效益等），产生（结果）；出产（天然产品，农产品，工业产品）；屈服，让步；放弃，让出；给（大路上的车辆）让路；（受压）活动，弯曲，折断；<正式>被……替代；请（某人）讲话；停止争论
-n.
-产量；收益，利润，红利（或股息）率
+v. 产生（收益、效益等），产生（结果）；出产（天然产品，农产品，工业产品）；屈服，让步；放弃，让出；给（大路上的车辆）让路；（受压）活动，弯曲，折断
+n. 产量；收益，利润，红利（或股息）率
 [例]
 1.This farm yields enough food for the village. 这个农场为村庄提供了足够的粮食。
 2.The driver had to yield to the other car. 司机不得不向另一辆车让路。
@@ -292,7 +301,7 @@ n.
 [搭]
 1.yield to 停止抵抗，让步于
 2.annual yield 年度产量
-[联] yield = yield (生产)——> 动作直接相关。
+[联] yield = yield (生产) ——> 动作直接相关
 
 rear / riər /
 n. （尤指建筑物或车辆等的）后部，背部（the rear）；（队列的）后方，后尾部队（或舰队）；<非正式>臀部，屁股（=rear end）
@@ -306,7 +315,7 @@ adv. 向后，在后面
 [搭]
 1.rear children 抚养孩子
 2.rear livestock 饲养牲畜
-[联] rear = rear (后面) + e (动词后缀)——> 后面的动作。
+[联] rear = rear (后面) + e (动词后缀) ——> 后面的动作
 
 arable / ˈærəbl /
 adj. 可耕种的，适于耕种的
@@ -317,7 +326,7 @@ adj. 可耕种的，适于耕种的
 [搭]
 1.arable land 可耕地
 2.arable soil 可耕土壤
-[联] arable = ar (耕种) + able (能够)——> 能够耕种的。
+[联] arable = ar (耕种) + able (能够) ——> 能够耕种的
 
 plough / plʌf; plaʊ /
 v. 耕，犁；（用或仿佛用犁）划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；（不顾困难或要求停止的警告而）继续坚持；<美>（用扫雪机）从（道路）清除积雪；（尤指车辆）猛撞
@@ -326,8 +335,9 @@ n. 犁；犁过的地，耕地；<美>雪犁，扫雪机；北斗七星（the Pl
 1.The farmer will plough his field tomorrow morning. 农民明天早上会犁他的田地。
 2.We must plough through this tough problem. 我们必须努力解决这个难题。
 3.The horse-drawn plough is an old-fashioned tool. 马拉犁是一种老式的农具。
-[搭] plough into sth. 埋头于某事；全力投入某事。
-[联] 想象一个农民拉着犁在田间劳作的画面来记住这个词。
+[搭]
+1.plough into sth. 埋头于某事；全力投入某事
+[联] 想象一个农民拉着犁在田间劳作的画面来记住这个词
 
 spade / speɪd /
 n. 锹，铲；（纸牌中的）黑桃（spades）；黑桃牌；<旧>黑人，黑鬼
@@ -336,8 +346,9 @@ v. 用锹挖（地），用锹铲（土）；把……弄实抹平
 1.I used the spade to dig a hole in the garden. 我用铁锹在花园里挖了一个洞。
 2.He has four spades in his hand. 他手里有四张梅花牌。
 3.Use the spade to turn over the soil. 用铁锹翻动土壤。
-[搭] spade work 挖掘工作；体力劳动。
-[联] spade 形状像铁锹一样，用来挖东西。
+[搭]
+1.spade work 挖掘工作；体力劳动
+[联] spade 形状像铁锹一样，用来挖东西
 
 rake / reɪk /
 n. 耙子，靶状物；耙集，耙平；（尤指时髦社会的）浪荡子，淫逸浪子；斜度，倾角；（切割工具的）前刀面，前倾面；<英>（连接成列的铁路）客车（或货车）车厢
@@ -346,18 +357,20 @@ v.（用耙子）耙，耙平；（树枝或手指甲）刮擦，抓；扫视，
 1.The gardener used the rake to clear the fallen leaves. 园丁用耙子清理掉落在地上的树叶。
 2.A rake usually refers to a man who likes many women. 花花公子通常指喜欢很多女性的男人。
 3.The rake made of metal is more durable than that of wood. 金属制成的耙子比木制的更耐用。
-[搭] rake over sth. 翻找某物；仔细检查某事。
+[搭]
+1.rake over sth. 翻找某物；仔细检查某事
 [联] 想象一个园丁用耙子整理土地的样子。
 
 stack / stæk /
-n.（整齐的）一堆；<英> 垛，堆；大量，许多；（尤指工厂的）大烟囱；（图书馆的）藏书架，双面书架（the stacks）；定高分层盘旋（等待降落）的机群；（计算机）（存储）栈；竖着置放的高保真音响（或吉他扩音）设备；（数支步枪支起的锥形）枪架；<英>（浪蚀）岩柱
-v. 使成整齐的一堆；使成叠（或成摞、成堆）地放在…...；指令（待着陆飞机）作定高分层盘旋；洗牌时作弊；在（某组织机构中）安插（对自己有利的人员）；（滑雪板运动用语）跌倒，倒下
+n.（整齐的）一堆；<英> 垛，堆；大量，许多；（尤指工厂的）大烟囱；（图书馆的）藏书架，双面书架（the stacks）；定高分层盘旋（等待降落）的机群
+v. 使成整齐的一堆；使成叠（或成摞、成堆）地放在…...；指令（待着陆飞机）作定高分层盘旋；洗牌时作弊；在（某组织机构中）安插（对自己有利的人员）
 [例]
 1.The books were stacked neatly on the shelf. 书本整齐地堆放在书架上。
 2.A stack of papers lay on the desk. 一叠文件躺在桌子上。
 3.They built a stack of stones as a landmark. 他们堆起一堆石头作为地标。
-[搭] stack up against sth. 把某物堆积起来与另一事物相比。
-[联] stack 一叠一叠的东西看起来像是高高的垛。
+[搭]
+1.stack up against sth. 把某物堆积起来与另一事物相比
+[联] stack 一叠一叠的东西看起来像是高高的垛
 
 heap / hiːp /
 n. （凌乱的）一堆；许多，大量；<非正式>破旧的汽车，老爷车
@@ -366,8 +379,9 @@ v. 堆积，堆放；对……大加赞扬（或指责等）
 1.The farmers piled the hay into a heap. 农民把干草堆成一堆。
 2.A heap of sand formed on the beach. 海滩上形成了一堆沙子。
 3.The old man sat by the heap of coal. 老人坐在煤堆旁边。
-[搭] heap up sth. 把某物堆起来。
-[联] heap 和 stack 类似，都是描述一堆东西。
+[搭]
+1.heap up sth. 把某物堆起来
+[联] heap 和 stack 类似，都是描述一堆东西
 
 bundle / ˈbʌnd(ə)l /
 n. 束，捆，包；非常；一套，一系列；大量；婴儿；一大笔钱；软件包
@@ -376,8 +390,9 @@ v. 匆匆打发，乱塞；匆忙赶往；捆绑销售；与某人和衣同睡
 1.She tied the clothes into a bundle. 她把衣服捆成一包。
 2.The boy carried a bundle of firewood home. 小男孩带了一捆柴火回家。
 3.A bundle of letters arrived for her. 一封封信件被送到了她那里。
-[搭] bundle up 包裹好；把...打包。
-[联] 想象一把被绑在一起的树枝。
+[搭]
+1.bundle up 包裹好；把...打包
+[联] 想象一把被绑在一起的树枝
 
 bunch / bʌntʃ /
 n. 束，串，扎；一伙，一群；大量；<英>发辫（bunches）；突起
@@ -386,43 +401,58 @@ v. 捆，扎，使集中；收紧，起褶
 1.Grapes grow in bunches on the vine. 葡萄藤上结着一串串葡萄。
 2.A bunch of flowers was placed on the table. 一束花被放在桌上。
 3.A bunch of children ran across the street. 一群孩子跑过了街道。
-[搭] bunch together 挤在一起；聚集成群。
-[联] bunch 通常指圆形或紧密排列的一组东西。
+[搭]
+1.bunch together 挤在一起；聚集成群
+2.a bunch of 一群；一束；一堆
+3.a bunch of flowers 一束花
+4.a bunch of grapes 一串葡萄
+[联] bunch 通常指圆形或紧密排列的一组东西
 
 vase / veɪz /
-n.花瓶；瓶状容器
+n. 花瓶，（装饰用的）瓶
 [例]
 1.The vase contained a bouquet of fresh flowers. 花瓶里装着一束新鲜的花。
 2.A tall glass vase stood on the mantelpiece. 一只高大的玻璃花瓶立在壁炉台上。
 3.Mom put the vase on the dining table. 妈妈把花瓶放在餐桌上。
-[搭] vase life 花瓶里的花存活时间。
-[联] vase 用来插花的容器。
+[搭]
+1.vase life 花瓶里的花存活时间
+2.mini vase 办公花瓶；办公插瓶
+3.pencil vase 笔筒；笔
+[联] vase 用来插花的容器
 
 sunlight / ˈsʌnlaɪt /
-n.阳光；日光
+n. 阳光；日光
 [例]
 1.Sunlight streamed through the window. 阳光透过窗户照进来。
 2.Children played happily in the sunlight. 孩子们在阳光下愉快地玩耍。
 3.The plants need plenty of sunlight to grow well. 植物需要充足的阳光才能长得好。
-[搭] sunlight exposure 日光照射。
-[联] sunlight 是 sun 和 light 的组合。
+[搭]
+1.sunlight exposure 日光照射
+2.direct sunlight 直射阳光
+[联] sunlight 是 sun 和 light 的组合
 
 short-day / ˈʃɔːrt deɪ /
-adj.短日照的
+adj. 短日照的
 [例]
 1.Some plants are short - day plants. 有些植物是短日照植物。
 2.Short - day plants bloom in autumn. 短日照植物在秋天开花。
 3.Lack of sunlight may cause some plants to be short - day plants. 缺乏阳光可能导致一些植物成为短日照植物。
+[搭]
+1.short-day plant 短日植物；植物；短日照植物
+2.short day vegetable 短日性蔬菜
+3.long-short day plant 植物；长短日植物；长；短日植物
 
 shade-tolerant / ˈʃeɪd ˈtɑːlərənt /
-adj. 耐阴的；能在荫凉处生长的。
+adj. 耐阴的；能在荫凉处生长的
 [例]
 1.A shade-tolerant plant can grow well under the canopy of trees. 一种耐阴植物可以在树冠下良好生长。
 2.Most shade-tolerant species thrive in the understory of forests. 多数耐阴物种在森林的下层植被中茁壮成长。
 3.Shade-tolerant crops are suitable for planting under fruit trees. 耐阴作物适合在果树下种植。
 [搭]
-无特殊搭配。
-[联] shade (阴影) + tolerant (容忍的) ——> 能适应阴暗环境。
+1.shade-tolerant grass 耐阴草
+2.shade-tolerant tree species 耐荫树种
+3.shade tolerant plant 耐阴植物
+[联] shade (阴影) + tolerant (容忍的) ——> 能适应阴暗环境
 
 fungus / ˈfʌŋɡəs /
 n. 真菌，真菌类植物；霉菌；（尤指鱼的）真菌感染；迅速出现的令人讨厌的东西
@@ -431,9 +461,10 @@ n. 真菌，真菌类植物；霉菌；（尤指鱼的）真菌感染；迅速�
 2.Some fungi are used in medicine to produce antibiotics. 一些真菌被用于生产抗生素。
 3.The scientist studied the growth cycle of a particular fungus. 科学家研究了一种特定真菌的生长周期。
 [搭]
-1.fungus infection 真菌感染。
-2.Mycological fungus 真菌学真菌。
-[联] fung (蘑菇) + us (名词后缀) ——> 生长于地下的生物。
+1.fungus infection 真菌感染
+2.white fungus 百木耳；银耳；白木耳；珍珠雪耳
+3.edible fungus 木耳；食用菌；食用菌类；园艺 食用真菌
+[联] fung (蘑菇) + us (名词后缀) ——> 生长于地下的生物
 
 mould / moʊld /
 n. 模具，铸模；类型，个性；霉，霉菌；框架，型芯；松软沃土，腐殖土
@@ -443,9 +474,9 @@ v. 使……成形，用模子制作，浇铸；影响，塑造；（使）紧�
 2.Time and experience have moulded him into a wise man. 时间和经验把他塑造成一个有智慧的人。
 3.The machine is used to mould plastic parts. 这台机器用于塑模塑料部件。
 [搭]
-1.cast in mould 浇铸模具。
-2.form a mould 制造模具。
-[联] mould (模型) + e (动词后缀) ——> 塑造物体的形状。
+1.cast in mould 浇铸模具
+2.form a mould 制造模具
+[联] mould (模型) + e (动词后缀) ——> 塑造物体的形状
 
 pollen / ˈpɑːlən /
 n. 花粉。
@@ -454,9 +485,9 @@ n. 花粉。
 2.Pollen allergies affect many people during spring. 春天花粉过敏影响许多人。
 3.The wind carries pollen from one plant to another. 风把花粉从一种植物吹到另一种植物。
 [搭]
-1.floral pollen 花粉。
-2.pollen grain 花粉粒。
-[联] poll (花朵) + en (名词后缀) ——> 传递生命的媒介。
+1.floral pollen 花粉
+2.pollen grain 花粉粒
+[联] poll (花朵) + en (名词后缀) ——> 传递生命的媒介
 
 germinate / ˈdʒɜːrmɪneɪt /
 vt. 使发芽；使生长
@@ -466,9 +497,9 @@ vi. 发芽；生长
 2.Ideas need time to germinate before they can be put into practice. 想法需要时间酝酿才能付诸实践。
 3.The process of germination requires warmth and moisture. 发芽过程需要温暖和水分。
 [搭]
-1.germinate seeds 播种。
-2.germinate ideas 产生想法。
-[联] germin (发芽) + ate (动词后缀) ——> 开始生长的过程。
+1.germinate seeds 播种
+2.germinate ideas 产生想法
+[联] germin (发芽) + ate (动词后缀) ——> 开始生长的过程
 
 seed / siːd /
 n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）;（感情、过程的）起源，开端；（网球、羽毛球等体育项目中的）种子选手， 种子队；晶粒，晶种；辐射管，镭管
@@ -479,9 +510,12 @@ adj. 用作种子的
 2.The company planted the seed of innovation in their employees' minds. 公司在员工心中播下了创新的种子。
 3.The book is the seed of a great story. 这本书是伟大故事的开端。
 [搭]
-1.seedling 幼苗。
-2.seeding season 播种季节。
-[联] seed (种子) + ed (名词后缀) ——> 开始生长的基础。
+1.seedling 幼苗
+2.seeding season 播种季节
+3.in seed 撒过种的，播过种的
+4.sesame seed 芝麻籽，芝麻种子
+5.seed selection 选种
+[联] seed (种子) + ed (名词后缀) ——> 开始生长的基础
 
 burgeon / ˈbɜːrdʒən /
 vi. 萌芽, 发芽；迅速增长
@@ -491,9 +525,9 @@ n. 芽, 嫩枝
 2.New ideas burgeon in his mind. 新的想法在他的脑海中迅速涌现。
 3.The city's population burgeoned over the decades. 城市人口在几十年间迅速增长。
 [搭]
-1.burgeon forth 迅速发展。
-2.burgeon with energy 生机勃勃。
-[联] bur (膨胀) + een (动词后缀) ——> 快速成长。
+1.burgeon forth 迅速发展
+2.burgeon with energy 生机勃勃
+[联] bur (膨胀) + een (动词后缀) ——> 快速成长
 
 bud / bʌd /
 n. 芽，花蕾；<美，非正式>伙计，老兄；芽体
@@ -503,9 +537,12 @@ v. 发芽，长出花蕾；为……进行芽接
 2.Spring brings new buds to the garden. 春天为花园带来新的花蕾。
 3.The bud opens into a flower. 花蕾绽放成花朵。
 [搭]
-1.bud stage 萌芽阶段。
-2.bud break 芽开裂。
-[联] bud (芽) + d (名词后缀) ——> 植物的初生部分。
+1.bud stage 萌芽阶段
+2.bud break 芽开裂
+3.in bud 发芽；在萌芽状态
+4.flower bud 花芽，花蕾
+5.nip in the bud 防患于未然；消灭于萌芽状态
+[联] bud (芽) + d (名词后缀) ——> 植物的初生部分
 
 flower / ˈflaʊər /
 n. 花，开花植物；精华，最好的部分
@@ -515,9 +552,9 @@ v. 开花；繁荣，兴旺
 2.Flowers bloom in the spring. 春天百花盛开。
 3.The gardener took care of the flowers every day. 园丁每天照顾这些花。
 [搭]
-1.wildflower 野花。
-2.cut flower 切花。
-[联] flow (流动) + er (名词后缀) ——> 自然生成的美丽。
+1.wildflower 野花
+2.cut flower 切花
+[联] flow (流动) + er (名词后缀) ——> 自然生成的美丽
 
 blossom / ˈblɑːsəm /
 n. （树木的）花，花簇；开花，花期
@@ -527,9 +564,9 @@ v. 开花；成长，繁盛，兴旺
 2.The peach trees blossom beautifully in spring. 桃树在春天开得非常漂亮。
 3.His career blossomed after years of hard work. 经过多年的努力，他的事业终于繁荣起来。
 [搭]
-1.blossom time 开花期。
-2.blossom end 花朵末端。
-[联] blossom (开花) + om (名词后缀) ——> 植物最美的状态。
+1.blossom time 开花期
+2.blossom end 花朵末端
+[联] blossom (开花) + om (名词后缀) ——> 植物最美的状态
 
 bloom / bluːm /
 n. 花，花朵；花期；青春焕发，风华正茂；（肤色的）红润；（一些水果和植物的）粉衣，粉霜；（尤指音乐录音中）饱满响亮的声音；方坯
@@ -541,7 +578,7 @@ v. 开花，绽放；繁荣，兴旺；精神焕发；给（透镜）敷膜；�
 [搭]
 1.bloom time 开花期
 2.bloom and fade 盛衰，兴衰
-[联] 想象花朵盛开的样子，就像笑脸绽放一样。
+[联] 想象花朵盛开的样子，就像笑脸绽放一样
 
 scent / sent /
 n. 香味，芳香；（动物或人的）气味，臭迹；香水；察觉，预示；线索，踪迹；<古>嗅觉
@@ -553,7 +590,9 @@ v. 使……带有某种香味；（动物）嗅出，闻到；预感，觉察
 [搭]
 1.scented candles 香薰蜡烛
 2.scent marker 香味标记笔
-[联] scent和sentiment（情感）都与“感受”有关。
+3.scent of 有…的迹象；发出…的气味
+4.faint scent 清香
+[联] scent和sentiment（情感）都与“感受”有关
 
 aromatic / ˌærəˈmætɪk /
 adj. 芳香的，芬芳的；芳香族的
@@ -565,7 +604,7 @@ n. 芳香植物；芳香剂
 [搭]
 1.aromatic herbs 芳香草本
 2.aromatic oils 芳香油
-[联] 想象带有强烈香味的香料，比如肉桂或迷迭香。
+[联] 想象带有强烈香味的香料，比如肉桂或迷迭香
 
 ripen / ˈraɪpən /
 v.（使）成熟；时机成熟，条件成熟
@@ -576,7 +615,7 @@ v.（使）成熟；时机成熟，条件成熟
 [搭]
 1.ripening process 成熟过程
 2.ripening tomatoes 熟透的西红柿
-[联] ripen和ripe（成熟的）同根。
+[联] ripen和ripe（成熟的）同根
 
 fruit / fruːt /
 n. 水果；（植物的）果实；成果，结果，后果；（自然的）产物，物产；<古>子孙，后代；<美，非正式>男同性恋者
@@ -588,7 +627,7 @@ v. （使）结果实
 [搭]
 1.fruit salad 水果沙拉
 2.fruit juice 果汁
-[联] 想象水果树上的果实累累。
+[联] 想象水果树上的果实累累
 
 wither / ˈwɪðər /
 v.（使）枯萎，（使）干枯；衰弱，逐渐消失；使感到愚蠢，使感到羞愧；（人的四肢、皮肤等）变枯槁，萎缩
@@ -600,7 +639,7 @@ n. 甲，马肩隆
 [搭]
 1.withering criticism 毁灭性的批评
 2.withering drought 干旱酷暑
-[联] 想象花朵失去水分后的样子。
+[联] 想象花朵失去水分后的样子
 
 decompose / ˌdiːkəmˈpoʊz /
 v.（使）腐烂，腐败；（使）分解；（数）分解
@@ -611,7 +650,7 @@ v.（使）腐烂，腐败；（使）分解；（数）分解
 [搭]
 1.decompose waste 分解废物
 2.decompose matter 分解物质
-[联] 想象垃圾堆中的有机物逐渐分解。
+[联] 想象垃圾堆中的有机物逐渐分解
 
 rot / rɑːt /
 v.（使）腐败，（使）腐烂；逐渐衰弱（或憔悴）；<英，旧，非正式>取笑，开玩笑
@@ -624,7 +663,7 @@ int. <非正式>胡说，废话
 [搭]
 1.rotten food 腐败的食物
 2.rotten teeth 腐烂的牙齿
-[联] 想象食物放久了发臭的样子。
+[联] 想象食物放久了发臭的样子
 
 decay / dɪˈkeɪ /
 v. （建筑、地方等）破败，衰落；（观念、影响力等）衰败；（使）腐朽，腐烂
@@ -636,7 +675,7 @@ n. 腐烂；（观念、机构、制度等）衰退
 [搭]
 1.decay resistance 抗腐蚀能力
 2.decay process 腐蚀过程
-[联] 想象金属生锈的过程。
+[联] 想象金属生锈的过程
 
 stale / steɪl /
 adj.（食物）不新鲜的，变味的；气味不清新的，难闻的；没有新意的，老掉牙的；（因长期从事同一工作而）疲沓的，厌倦的；（支票，合法要求）（因过期而）失效的
@@ -649,7 +688,7 @@ n. 尿
 [搭]
 1.stale air 不新鲜的空气
 2.stalemate 对峙局面
-[联] 想象隔夜的面包不再松软。
+[联] 想象隔夜的面包不再松软
 
 rainforest / ˈreɪnfɔːrɪst /
 n. 热带雨林
@@ -659,8 +698,8 @@ n. 热带雨林
 3.The Amazon rainforest is the largest tropical rainforest in the world. 亚马逊雨林是世界上最大的热带雨林。
 [搭] 
 1.rainforest conservation 热带雨林保护
-tropical rainforest 热带雨林
-[联] rain(雨) + forest(森林) ——> 雨量充沛的森林。
+2.tropical rainforest 热带雨林
+[联] rain(雨) + forest(森林) ——> 雨量充沛的森林
 
 jungle / ˈdʒʌŋɡ(ə)l /
 n.（热带）丛林；弱肉强食的地方；杂草丛生的地方；杂乱无章的一堆；丛林音乐（一种快速舞蹈
@@ -671,7 +710,7 @@ n.（热带）丛林；弱肉强食的地方；杂草丛生的地方；杂乱无
 [搭] 
 1.jungle gym 童年攀爬玩具
 the jungle 荒凉的地方
-[联] jung (原始森林) + le (表名词) ——> 原始森林。
+[联] jung (原始森林) + le (表名词) ——> 原始森林
 
 plantation / plænˈteɪʃn /
 n.（尤指热带的）种植地，农园；人工林场，苗木场；殖民地，新开垦地；普兰泰申市（美国佛罗里达州城市名）
@@ -681,8 +720,8 @@ n.（尤指热带的）种植地，农园；人工林场，苗木场；殖民地
 3.The plantation owner treated his workers unfairly. 种植园主对待他的工人不公平。
 [搭] 
 1.sugar plantation 甘蔗种植园
-coffee plantation 咖啡种植园
-[联] plant (种植) + -ation (表地点) ——> 种植的地方。
+2.coffee plantation 咖啡种植园
+[联] plant (种植) + -ation (表地点) ——> 种植的地方
 
 field / fiːld /
 n. 田地，田野；专业，领域；现场，实地；体育场；全体参赛者；矿场，油田；战场；视野；（物理）场；信息栏，字段；外场员，防守队；盾面，底
@@ -694,8 +733,8 @@ adj. 实地的，野外的；（军事装备）轻便机动的，战役用的；
 3.He is an expert in the field of computer science. 他是计算机科学领域的专家。
 [搭] 
 1.fresh field 新领域
-open field 开阔地
-[联] field(田地) ——> 表示开放的空间。
+2.open field 开阔地
+[联] field(田地) ——> 表示开放的空间
 
 terrace / ˈterəs /
 n.（风格相同、互相连接的）排屋；（尤指房屋或餐馆外的）露天平台，阳台；<英>（足球场的）阶梯看台；梯田，阶地；<英>排屋中的一栋房屋；（地质）沿岸阶地，阶面
@@ -706,7 +745,7 @@ v. 使成阶地（或梯田）
 3.The garden has a beautiful terrace. 这个花园有一个漂亮的露台。
 [搭] 
 1.terrace farming 阶梯田农业
-[联] terr (高地) + ace (表地点) ——> 高处的平坦之地。
+[联] terr (高地) + ace (表地点) ——> 高处的平坦之地
 
 timber / ˈtɪmbər /
 n. 木材，原木；（用于生产木材的）林木，树林；（造屋或造船用的）大木料，栋木；（砍伐树木时说）倒啦，小心大树倒下；<美>（尤指人适于某角色的）素质，性格，才干
@@ -717,8 +756,8 @@ v. 用木料支撑或建造
 3.The loggers cut down the timber. 伐木工砍伐木材。
 [搭] 
 1.timber yard 木材场
-timber processing 木材加工
-[联] timb (木材) + er (表物质) ——> 木材来源。
+2.timber processing 木材加工
+[联] timb (木材) + er (表物质) ——> 木材来源
 
 charcoal / ˈtʃɑːrkoʊl /
 n. 木炭；（绘画用的）炭笔，木炭条；木炭画；深灰色
@@ -730,7 +769,7 @@ v. 用木炭条绘画
 3.The artist used charcoal to draw the portrait. 艺术家用木炭画肖像。
 [搭] 
 1.charcoal briquette 木炭块
-[联] char (烧成炭) + coal (煤) ——> 烧成的炭。
+[联] char (烧成炭) + coal (煤) ——> 烧成的炭
 
 log / lɔːɡ /
 n. 原木，圆材；正式记录，航海日志；对数；（定期或系统的）观察记录；船舶测速仪
@@ -741,28 +780,28 @@ v. 正式记录；行驶，行进（若干距离或时间）；伐木，砍伐�
 3.The river carried the log downstream. 河流把原木冲向下游。
 [搭] 
 1.log cabin 小木屋
-[联] log(原木) ——> 天然木材。
+[联] log(原木) ——> 天然木材
 
 logo / ˈloʊɡoʊ /
 n. （公司或组织的）标识，徽标
 [例]
-1. The company's logo is very recognizable. 公司的标志非常容易辨认。
-2. The logo design reflects the brand's identity. 商标的外观反映了品牌的形象。
-3. The logo is printed on all their products. 商标印在他们所有的产品上。
+1.The company's logo is very recognizable. 公司的标志非常容易辨认。
+2.The logo design reflects the brand's identity. 商标的外观反映了品牌的形象。
+3.The logo is printed on all their products. 商标印在他们所有的产品上。
 [搭] 
 1.logo design 商标设计
-[联] log (记录) + o (表示符号) ——> 记录的符号。
+[联] log (记录) + o (表示符号) ——> 记录的符号
 
 forestry / ˈfɔːrɪstri /
 n. 林业，森林管理
 [例]
-1. Forestry is crucial for environmental protection. 林业对环境保护至关重要。
-2. The forestry department manages the national parks. 林业部门管理国家公园。
-3. Forestry students study trees and ecosystems. 林业专业的学生学习树木和生态系统。
+1.Forestry is crucial for environmental protection. 林业对环境保护至关重要。
+2.The forestry department manages the national parks. 林业部门管理国家公园。
+3.Forestry students study trees and ecosystems. 林业专业的学生学习树木和生态系统。
 [搭] 
 1.forestry management 森林管理
 forestry resources 森林资源
-[联] fore (前部) + stry (学科) ——> 关于森林的学科。
+[联] fore (前部) + stry (学科) ——> 关于森林的学科
 
 branch / bræntʃ; brɑːntʃ /
 n. 树枝，分枝；分支机构，分店；（政府或机构的）部门；分科，分支；（家族的）支系；支流，岔路
@@ -772,19 +811,36 @@ v. 分岔，岔开；出枝，发出新枝
 2.The company has branches in several major cities. 这家公司有几个主要城市的分支机构。
 3.The trunk splits into many branches as it grows. 树干随着生长分成许多树枝。
 [搭] 
-branch out 分支，扩展；多样化发展。
-[联] 将“树枝”想象成树干的分支。
+1.branch out 分支，扩展；多样化发展
+2.party branch 党支部
+3.branch office 分支机构；分局；分社
+4.branch company 分公司
+[联] 将“树枝”想象成树干的分支
+
+trunk / trʌŋk , truːnk /
+n.（大象等动物的长鼻子）象鼻；（树或藤本植物的）主干；（衣服的）躯干部分；（电话线路的）中继线。
+[例]
+1.The elephant uses its trunk to grab food and water. 大象用它的象鼻抓取食物和水。
+2.The trunk of this tree is very thick. 这棵树的主干非常粗壮。
+3.I packed my clothes into the trunk of my car. 我把衣服装进了汽车的后备箱。
+[搭]
+1.trunk call 长途电话
+2.trunk road 干道；干线道路
+3.trunk line 干线；中继线，长途电话线
+4.tree trunk 树干
+[联] trunk 可联想为“箱子的把手”，延伸为“象鼻”
 
 bough / baʊ /
-n.大枝，主枝
+n. 大枝，主枝
 [例]
 1.The poet compared the boughs to arms reaching out. 这位诗人把树枝比作伸出的手臂。
 2.He climbed up the bough to pick the ripest fruit. 他爬上树枝去摘最熟的水果。
 3.The wind blew the boughs back and forth. 风吹得树枝来回摆动。
 [搭] 
-none
+1.The Golden Bough 金枝篇；金枝集；金色树枝
+2.When the Bough Breaks 当树枝折断时；树枝若折断；魔鬼刽子手；第七只断手
 
-root /ruːt/, /roʊt/
+root / ruːt /
 n. 根，根茎；（牙齿、头发等的）根部；底部，基部；根源，起因；起源，背景；根脉，祖籍（roots）；与……的特殊关联（roots in）；词根；（数学）方根；（圣经）根苗，苗裔；翻找，搜寻；（神经的）根；（乐）根音（=root note）；<澳新，俚>性交；根用作物；根音乐
 v. （使）生根；扎根于，在……中根深蒂固；根源在于，由……产生（be rooted in）；翻寻；使（某人）无法移动；（与某人）性交；使精疲力竭，挫败
 adj. 蔬菜、作物等）块根的，根茎可食用的
@@ -793,8 +849,11 @@ adj. 蔬菜、作物等）块根的，根茎可食用的
 2.The roots of the problem lie in poor education. 问题的根源在于教育不好。
 3.I will root for you until the end. 我会一直支持你到底。
 [搭] 
-get to the root of 找到...的根本原因。
-[联] 将“根”想象为植物的根基。
+1.get to the root of 找到...的根本原因
+2.root cause 根本原因
+3.root in 来源于；起因于
+4.root system 根系；根轴系
+[联] 将“根”想象为植物的根基
 
 hay / heɪ /
 n.（用作饲料的）干草；<美，非正式> 少量的钱
@@ -804,7 +863,9 @@ v. 割草晒干
 2.Horses love eating fresh hay. 马喜欢吃新鲜的干草。
 3.The scent of hay reminded him of his childhood. 干草的气味让他想起了童年。
 [搭] 
-none
+1.make hay 利用机会去赚钱
+2.hay fever [医]枯草热；[医]花粉病
+3.hit the hay [俚]睡觉，就寝
 
 straw / strɔː /
 n.（干燥的）麦秆，稻草；（喝饮料用的）吸管；稻草色，淡黄色；一文不值的东西
@@ -814,17 +875,21 @@ adj. 稻草的；无价值的
 2.He drank through a straw to avoid spills. 他用吸管喝水以避免洒出。
 3.The child made a doll out of straw. 孩子用稻草做了一个玩偶。
 [搭] 
-none
+1.wheat straw 麦秸
+2.straw pulp 草纸浆
+3.rice straw 稻草；稻秸；稻秆
 
 reed / riːd /
-n. 芦苇（秆）；<英>（盖屋顶用）茅草；<文>芦笛；与芦苇相似的人或物；<文>箭，矢；小凸嵌线脚（reeds）；（吹奏乐器的）簧片，簧舌；簧乐器；（磁性继电器或磁力开关）接触器；筘，钢箍
+n. 芦苇（秆）；<英>（盖屋顶用）茅草；<文>芦笛；与芦苇相似的人或物；<文>箭，矢；小凸嵌线脚（reeds）；（吹奏乐器的）簧片，簧舌；簧乐器
 v. 用芦苇盖，用芦苇装饰
 [例]
 1.The reed swayed gently in the breeze. 芦苇在微风中轻轻摇曳。
 2.Musicians use reeds to play certain instruments. 音乐家使用芦苇来演奏某些乐器。
 3.A bird built its nest among the reeds. 一只鸟在芦苇丛中筑巢。
 [搭] 
-none
+1.reed valve 簧片阀
+2.reed switch 舌簧开关；簧片开关
+3.reed pipe 簧管；牧笛
 
 thorn / θɔːrn /
 n.（植物茎上的）刺；带刺的灌木，荆棘；刺形符，字母 ð； <喻>使人苦恼（或生气）的事（或人），棘手的东西；霜尺蛾；（Thorn）托伦（波兰城市，Toruń 的德语名）
@@ -833,7 +898,8 @@ n.（植物茎上的）刺；带刺的灌木，荆棘；刺形符，字母 ð；
 2.The thorn pricked his finger. 刺扎到了他的手指。
 3.The thorn in my side is driving me crazy. 我的烦心事让我抓狂。
 [搭] 
-none
+1.The Thorn Birds 刺鸟；荆棘鸟；英文版；荆鸟
+2.King of Thorn 古城荆棘王；荆棘之王
 
 weed / wiːd /
 n. 野草，杂草；<非正式>香烟，烟草（the weed）；水草，水生植物；大麻；<非正式>瘦弱的人，懦弱的人；<非正式>（长腿）瘦弱的马
@@ -843,7 +909,9 @@ v. 除草，为……除杂草
 2.Weeds can choke out flowers if not removed. 如果不清除，杂草会扼杀花朵。
 3.We need to weed out the bad habits. 我们需要改掉坏习惯。
 [搭] 
-weed out 清除；淘汰。
+1.weed out 清除；淘汰；除去
+2.weed control 除草；杂草防除；野草控制
+3.weed killer 除草剂
 
 grass / ɡræs /
 n. 草；草地，草坪；<非正式>大麻；<英，非正式> 告密者；草地网球场；牧场；<英，非正式>告密者
@@ -853,6 +921,9 @@ v. 在……上种草；<英，非正式>（向警方）告发；捕（鱼）并
 2.The soccer field is covered with fresh grass. 足球场覆盖着新鲜的草皮。
 3.Children love playing on the grass. 孩子们喜欢在草地上玩耍。
 [搭]
+1.on the grass 在草地上
+2.green grass 绿色草，青草
+3.forage grass 饲草
 
 meadow / ˈmedoʊ /
 n. 草地，牧场；（多指溪流或池塘附近的）草地。
@@ -863,7 +934,9 @@ n. 草地，牧场；（多指溪流或池塘附近的）草地。
 [搭] 
 1.meadow grass 草地草
 2.Flowers in the meadow 草甸上的花
-[联] mead(蜂蜜酒) + -ow → 像蜂蜜一样甜美的地方。
+3.alpine meadow 高山草甸
+4.meadow soil 草甸土；湿草原土
+[联] mead(蜂蜜酒) + -ow ——> 像蜂蜜一样甜美的地方
 
 lawn / lɔːn /
 n. 草坪，草地；上等细棉布，上等细麻布
@@ -874,7 +947,9 @@ n. 草坪，草地；上等细棉布，上等细麻布
 [搭] 
 1.lawn mower 草坪修剪机
 2.front lawn 前院草坪
-[联] lawn → law → 法律 → 象征规则整齐的地方。
+3.lawn mower 割草机
+4.lawn tennis 草地网球
+[联] lawn ——> law ——> 法律 ——> 象征规则整齐的地方
 
 olive / ˈɑːliv /
 n. 橄榄；橄榄树；橄榄色，黄绿色；炖牛肉卷；橄榄贝；（剖）橄榄体；（垫在螺母下拧紧以形成密封的）橄榄环
@@ -898,7 +973,7 @@ v. （因死亡、离别） 难过，悲伤；苦苦思念；<古>为……悲�
 [搭] 
 1.pine cone 松果
 2.pine tree 松树
-[联] pine → pin → 针状叶子。
+[联] pine ——> pin ——> 针状叶子。
 
 vine / vaɪn /
 n. 葡萄属植物，葡萄藤；藤本植物，攀缘植物
@@ -910,7 +985,7 @@ v. 长成藤蔓，爬藤
 [搭] 
 1.grape vine 葡萄藤
 2.wine vine 葡萄藤
-[联] vine → vino → 西班牙语“酒”。
+[联] vine ——> vino ——> 西班牙语“酒”
 
 violet / ˈvaɪələt /
 n. 紫罗兰，堇菜；蓝紫色，紫罗兰色
@@ -922,10 +997,10 @@ adj. 紫色的，紫罗兰色的
 [搭] 
 1.violet flower 紫罗兰花
 2.violet color 紫色
-[联] violet → viola → 小提琴 → 紫色的象征。
+[联] violet ——> viola ——> 小提琴 ——> 紫色的象征
 
 tulip / ˈtuːlɪp /
-n. 郁金香。
+n. 郁金香
 [例]
 1.The tulips in the garden were beautiful. 花园里的郁金香很漂亮。
 2.My favorite flower is the tulip. 我最喜欢的花是郁金香。
@@ -933,7 +1008,7 @@ n. 郁金香。
 [搭] 
 1.tulip garden 郁金香花园
 2.tulip festival 郁金香节
-[联] tulip → tulipan → 土耳其语“头巾” → 形似头巾。
+[联] tulip ——> tulipan ——> 土耳其语“头巾” ——> 形似头巾
 
 mint / mɪnt /
 n. 薄荷；薄荷糖；铸币厂；巨款
@@ -946,7 +1021,7 @@ adj. （物品）崭新的，无污损的；<英> 非常好的，很棒的
 [搭] 
 1.spearmint 薄荷
 2.peppermint 胡椒薄荷
-[联] mint → minth → 古英语“草药”。
+[联] mint ——> minth ——> 古英语“草药”
 
 reef / riːf /
 n. 礁，暗礁，礁脉；（尤指含金的）矿脉；缩帆部，帆的可收缩部
@@ -958,10 +1033,10 @@ v. 收帆，卷起缩帆部；缩短，收进（中桅，船首斜桁）
 [搭] 
 1.coral reef 珊瑚礁
 2.reef fish 礁石鱼类
-[联] reef → riph → 古英语“裂痕”。
+[联] reef ——> riph ——> 古英语“裂痕”
 
 alga / ˈælɡə /
-n. 藻类，海藻。
+n. 藻类，海藻
 [例]
 1.Seaweed is a type of alga. 海藻是一种藻类。
 2.Algae can grow in fresh water. 藻类可以在淡水中生长。
@@ -969,18 +1044,18 @@ n. 藻类，海藻。
 [搭] 
 1.seaweed algae 海藻
 2.microalgae 微藻
-[联] alga → algal → 藻类的。
+[联] alga ——> algal ——> 藻类的
 
 enzyme / ˈɛnzaɪm; ɛnˈzaɪm /
 n. 酶（一种生物催化剂，在化学反应中加速反应速率，不被消耗）
 [例]
-1. Enzymes in our body help to digest food. 我们体内的酶帮助消化食物。
-2. This enzyme is specific to this reaction. 这种酶只对这个反应起作用。
-3. The enzyme activity can be affected by temperature. 酶的活性会受到温度的影响。
+1.Enzymes in our body help to digest food. 我们体内的酶帮助消化食物。
+2.This enzyme is specific to this reaction. 这种酶只对这个反应起作用。
+3.The enzyme activity can be affected by temperature. 酶的活性会受到温度的影响。
 [搭]
 1.enzyme inhibitor 酶抑制剂
 2.digestive enzymes 消化酶
-[联] en-(进入) + -zyme(发酵)——> 进入发酵过程的物质。
+[联] en-(进入) + -zyme(发酵) ——> 进入发酵过程的物质
 
 catalyst / ˈkætəlɪst /
 n. 化学）催化剂；诱因，诱导者
@@ -991,7 +1066,7 @@ n. 化学）催化剂；诱因，诱导者
 [搭]
 1.homogeneous catalyst 均相催化剂
 2.heterogeneous catalyst 异相催化剂
-[联] catalyze(催化) + -ist(表示从事某职业的人)——> 催化职业者。
+[联] catalyze(催化) + -ist(表示从事某职业的人) ——> 催化职业者
 
 release / rɪˈliːs /
 v. 释放，放走；放开，松开；公布，发布；发行，上映；发泄，宣泄；排放（物质）；免除，解雇；放弃，让予；放松，使松弛
@@ -1003,10 +1078,10 @@ n. 释放，获释；排放，泄漏；释放装置；表达，宣泄；解脱�
 [搭]
 1.release date 发行日期
 2.press release 新闻发布会
-[联] re-(再次)+ -lease(放开)——> 再次放开。
+[联] re-(再次)+ -lease(放开) ——> 再次放开
 
 emission / ɪˈmɪʃ(ə)n /
-n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行。
+n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行
 [例]
 1.The car's emission levels have decreased significantly. 这辆车的排放水平显著下降。
 2.The factory's emissions have been reduced by 20%. 工厂的排放量减少了20%。
@@ -1016,7 +1091,7 @@ n. 排放物，散发物；（尤指光、热、气等的）散发，排放；�
 2.carbon emission 碳排放
 
 absorb / əbˈzɔːrb; æbˈzɔːrb /
-v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费。
+v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）
 [例]
 1.Plants absorb carbon dioxide from the air. 植物从空气中吸收二氧化碳。
 2.The sponge absorbed all the water. 海绵吸收了所有的水。
@@ -1024,10 +1099,10 @@ v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、�
 [搭]
 1.absorb energy 吸收能量
 2.absorb moisture 吸收水分
-[联] ab-(加强)+ -sorb(吸住)——> 强烈吸住。
+[联] ab-(加强)+ -sorb(吸住) ——> 强烈吸住
 
 circulation / ˌsɜːrkjəˈleɪʃ(ə)n /
-n. 发行量，销售量；血液循环；流传，流通；参加社交活动，交际；环流，循环；（图书的）借出。
+n. 发行量，销售量；血液循环；流传，流通；参加社交活动，交际；环流，循环；（图书的）借出
 [例]
 1.Blood circulation is vital for life. 血液循环对生命至关重要。
 2.The magazine has a circulation of 50,000 copies. 这本杂志的发行量为五万份。
@@ -1035,7 +1110,10 @@ n. 发行量，销售量；血液循环；流传，流通；参加社交活动�
 [搭]
 1.circulation system 循环系统
 2.daily circulation 日发行量
-[联] circul-(循环)+ -ation(名词后缀)——> 循环的过程。
+3.blood circulation 血液循环，血循环
+4.in circulation 在流通中；在从事社交活动的
+5.water circulation 冷水环流；水流循环
+[联] circul-(循环)+ -ation(名词后缀) ——> 循环的过程
 
 exceed / ɪkˈsiːd /
 v. 超过，超出；超越（限制）；优于，胜过
@@ -1046,10 +1124,11 @@ v. 超过，超出；超越（限制）；优于，胜过
 [搭]
 1.exceed the limit 超出限制
 2.exceed the budget 超出预算
-[联] ex-(向外)+ -ceed(走)——> 向外走去，即超过。
+3.exceed in 在…方面超过
+[联] ex-(向外)+ -ceed(走) ——> 向外走去，即超过
 
 uptake / ˈʌpteɪk /
-n. 吸收；摄取；领悟；理解。
+n. 吸收；摄取；领悟；理解
 [例]
 1.The plant's uptake of nutrients is crucial for growth. 植物对养分的吸收对其生长至关重要。
 2.The body's uptake of vitamins is essential for health. 身体对维生素的吸收对健康至关重要。
@@ -1057,10 +1136,12 @@ n. 吸收；摄取；领悟；理解。
 [搭]
 1.nutrient uptake 营养吸收
 2.oxygen uptake 氧气吸收
+3.water uptake 水吸收
+4.oxygen uptake 耗氧量，摄氧；摄氧量
 
 nutrient / ˈnuːtriənt /
-n. 营养物；养料。
-adj. 提供营养的；滋养的。
+n. 营养物；养料
+adj. 提供营养的；滋养的
 [例]
 1.Vegetables are rich in nutrients. 蔬菜富含营养。
 2.A balanced diet provides all necessary nutrients. 均衡饮食提供所有必需的营养。
@@ -1068,10 +1149,10 @@ adj. 提供营养的；滋养的。
 [搭]
 1.nutrient solution 营养液
 2.mineral nutrient 矿物质营养
-[联] nutri-(营养)+ -ent(名词后缀)——> 提供营养的东西。
+[联] nutri-(营养)+ -ent(名词后缀) ——> 提供营养的东西
 
 energy / ˈenərdʒi /
-n. 能量；精力；活力；能源。
+n. 能量；精力；活力；能源
 [例]
 1.Solar energy is a renewable resource. 太阳能是一种可再生能源。
 2.Energy conservation is important for the environment. 节能对环境很重要。
@@ -1079,18 +1160,7 @@ n. 能量；精力；活力；能源。
 [搭]
 1.potential energy 势能
 2.kinetic energy 动能
-[联] ener-(活动)+ -gy(名词后缀)——> 活动的力量。请提供下一个单词或词组，我将严格按照要求为您输出相关内容。
-
-trunk / trʌŋk , truːnk /
-n. （大象等动物的长鼻子）象鼻；（树或藤本植物的）主干；（衣服的）躯干部分；（电话线路的）中继线。
-[例]
-1.The elephant uses its trunk to grab food and water. 大象用它的象鼻抓取食物和水。
-2.The trunk of this tree is very thick. 这棵树的主干非常粗壮。
-3.I packed my clothes into the trunk of my car. 我把衣服装进了汽车的后备箱。
-[搭]
-1.trunk call 长途电话
-trunk road 主干道
-[联] trunk 可联想为“箱子的把手”，延伸为“象鼻”。
+[联] ener-(活动)+ -gy(名词后缀) ——> 活动的力量
 
 surroundings / səˈraʊndɪŋz /
 n. 周围的事物，环境；（复数形式）
@@ -1100,89 +1170,144 @@ n. 周围的事物，环境；（复数形式）
 3.The child felt comfortable in his new surroundings. 孩子在他新的环境中感到舒适。
 [搭]
 1.surroundings noise 环境噪音
-natural surroundings 自然环境
-[联] surround (围绕) + -ings (名词后缀) ——> 围绕的东西。
+2.natural surroundings 自然环境
+[联] surround (围绕) + -ings (名词后缀) ——> 围绕的东西
 
 mechanism / ˈmekənɪzəm /
-n. 机械装置；机制；原理；办法。
+n. 机械装置；机制；原理；办法
 [例]
 1.The mechanism of the clock is very complicated. 这个钟表的机械装置非常复杂。
 2.The human body has its own natural mechanisms for healing. 人体有自己的自然修复机制。
 3.We need to find a mechanism to solve this problem. 我们需要找到一种解决这个问题的办法。
 [搭]
 1.mechanism design 机械设计
-biological mechanism 生物机制
-[联] mechano- (机械的) + -ism (名词后缀) ——> 机械系统。
+2.biological mechanism 生物机制
+3.market mechanism 市场机制；市场调节作用
+4.reaction mechanism 反应机理
+5.incentive mechanism 激励机制
+[联] mechano- (机械的) + -ism (名词后缀) ——> 机械系统
 
 counterbalance / ˌkaʊntərˈbæləns /
-n. 平衡力；平衡物；v. 抵消；使平衡。
+n. 平衡力；平衡物
+v. 抵消；使平衡
 [例]
 1.The counterbalance keeps the door open. 平衡块使门保持开启状态。
 2.The weight of the sandbag counterbalances the force of the wind. 沙袋的重量抵消了风的力量。
 3.The benefits of technology are counterbalanced by its risks. 技术的好处被其风险所抵消。
 [搭]
 1.counterbalance effect 抵消效应
-[联] counter- (相反) + balance (平衡) ——> 相反的平衡。
+2.counterbalance valve 平衡阀；背压阀；反平衡阀；均衡阀
+3.pointer counterbalance 指针平衡器
+[联] counter- (相反) + balance (平衡) ——> 相反的平衡
 
 protect / prəˈtɛkt /
-v. 保护；保卫；防护。
+v. 保护；保卫；防护
 [例]
 1.We must protect our environment from pollution. 我们必须保护环境免受污染。
 2.The umbrella protects you from the rain. 雨伞可以为你挡雨。
 3.The government is taking steps to protect endangered species. 政府正在采取措施保护濒危物种。
 [搭]
 1.protect one's eyes 保护眼睛
-protect one's skin 保护皮肤
-[联] pro-(向前) + tect (遮盖) ——> 向前遮盖。
+2.protect one's skin 保护皮肤
+3.protect the environment 环境保护
+4.protect against 使免受
+5.protect from 使免受，保护
+[联] pro-(向前) + tect (遮盖) ——> 向前遮盖
 
-preserve / prɪˈzɜrv /
-v. 保存；保护；维护；n. 保护区；禁猎区。
+preserve / prɪˈzɜːrv /
+v. 保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎
+n. 果酱，腌菜；（某人或某个团体的）专属领域，独有活动；动物保护区，外人禁入的猎地
 [例]
 1.We should preserve historical sites for future generations. 我们应该为后代保存历史遗迹。
 2.The fruit can be preserved for a long time. 这种水果可以长时间保存。
 3.The national park serves as a preserve for wildlife. 这个国家公园是野生动物的保护区。
 [搭]
 1.preserve culture 保护文化
-[联] pre- (预先) + serve (服务) ——> 提前服务。
+2.preserve food 保藏食物
+3.Preserve Skin Groups 保持皮肤组；保持绑定组；保持蒙皮群组；坚持皮肤组
+4.preserve evidence 证据保全
+5.Preserve Whole Object 保持对象完整；坚持对象完好；对峙对象完全
+[联] pre- (预先) + serve (服务) ——> 提前服务
 
-conservation / ˌkɑnsərˈveɪʃən /
-n. 保护；保存；保守主义。
+conservation /ˌkɑːnsərˈveɪʃ(ə)n /
+n. 保护，保存；节约，防止浪费；守恒定律
 [例]
 1.The conservation of energy is important for sustainable development. 能源保护对可持续发展很重要。
 2.The conservation of nature is everyone's responsibility. 自然保护是每个人的责任。
 3.The conservation project aims to protect endangered species. 该项目旨在保护濒危物种。
 [搭]
 1.conservation area 保护区
-water conservation 水资源保护
-[联] con-(加强意义) + serve (服务) + -ation (名词后缀) ——> 强化服务。
+2.water conservation 水资源保护
+3.energy conservation 能量守恒；能源节约
+4.water conservation 节约用水，水源保护；水利
+5.soil conservation 土壤保持
+[联] con-(加强意义) + serve (服务) + -ation (名词后缀) ——> 强化服务
 
 bush fire / ˈbʊʃ ˈfaɪər /
-n. 灌木丛火灾。
+n. 灌木丛火灾
 [例]
 1.The bush fire spread quickly due to strong winds. 灌木丛火灾因强风迅速蔓延。
 2.Firefighters worked hard to extinguish the bush fire. 消防员努力扑灭灌木丛火灾。
 3.The bush fire destroyed large areas of vegetation. 灌木丛火灾摧毁了大片植被。
-[联] bush (灌木) + fire (火) ——> 灌木火灾。
+[搭]
+1.bush fire war 灌木林式战争
+2.bush fire brigade 森林消防队
+3.Bush Fire Burns Endless 野火烧不尽
+[联] bush (灌木) + fire (火) ——> 灌木火灾
 
 extinguish / ɪkˈstɪŋɡwɪʃ /
-v. 扑灭；熄灭；消灭；压制。
+v. 熄灭；消灭，使破灭；<法律>取消（权利，义务），使无效；偿清；压制
 [例]
 1.Firefighters were able to extinguish the fire quickly. 消防员能够迅速扑灭火势。
 2.The candle flame was extinguished by the wind. 蜡烛火焰被风吹灭了。
 3.The government plans to extinguish corruption completely. 政府计划彻底消灭腐败。
 [搭]
 1.extinguish flames 扑灭火苗
-[联] ex-(向外) + tinguish (燃烧) ——> 向外燃烧。
+2.arc extinguish chamber 灭弧室；消弧室
+3.EXTINGUISH FIRE 灭火
+4.extinguish them 消灭他们；毁灭他们
+[联] ex-(向外) + tinguish (燃烧) ——> 向外燃烧
 
 destruct / dɪˈstrʌkt /
-v. 破坏；毁坏。
+v.（审慎地）毁坏（某物，尤指火箭或导弹）；（故意的）毁坏
+n.（故意的）毁坏
+adj. 为可自毁而设计的
 [例]
 1.The storm caused widespread destruct to the city. 风暴对该市造成了广泛的破坏。
 2.The weapon was designed to destruct enemy vehicles. 这种武器被设计用来摧毁敌方车辆。
 3.The factory produces machines that can destruct waste materials. 这家工厂生产能够破坏废料的机器。
-[联] de-(向下) + struct (结构) ——> 向下破坏。
+[搭]
+1.Self-Destruct 自爆；自毁；自我毁灭装置；搭
+2.destruct code 破坏之核；毁坏之核；自毁代码
+3.Self-Destruct Device 自毁装置
+[联] de-(向下) + struct (结构) ——> 向下破坏
 
-demolish /dɪˈmɑːlɪʃ/, /ˌdiːˈmɑːlɪʃ/
+ruin / ˈruːɪn /
+n. 毁坏，毁灭；破产，身败名裂；祸根； 残垣断壁，废墟；残存部分（ruins）
+v. 毁坏，破坏；使（建筑物，地方）破败，使成为废墟；使倾家荡产，使破产；<文> 头朝下跌落，哗啦一声掉下
+[例]
+1.The ancient city lies in ruins after the earthquake. 地震后这座古城成为一片废墟。
+2.Her career is in ruins because of the scandal. 因为丑闻，她的事业毁于一旦。
+3.I don't want to see my family go to ruin. 我不想看到我的家庭陷入困境。
+[搭]
+1.in ruins 成为废墟；破败不堪
+2.ruin sb.'s life 毁掉某人的生活
+3.financial ruin 经济损失
+[联] 想象一个破旧的建筑物逐渐倒塌的样子
+
+perish / ˈperɪʃ /
+v.（人或动物）惨死，猝死；湮灭，毁灭；（木头、橡胶、食物等）腐烂，腐败；<英，非正式> 经受酷寒
+[例]
+1.Many people perished in the famine. 很多人在饥荒中丧生。
+2.We cannot allow innocent lives to perish. 我们不能让无辜的生命消逝。
+3.Trees can perish if they lack water for too long. 如果树木长时间缺水会死亡。
+[搭]
+1.perish from hunger 饿死
+2.perish from cold 冻死
+3.perish the thought 打消念头
+[联] perish 和 "per" (完全) + "ish" (表示状态) 联想——完全进入某种状态（如死亡）
+
+demolish / dɪˈmɑːlɪʃ /
 vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳倒（观点或理论）；<非正式>轻易击败，完胜；<非正式>狼吞虎咽地吃，很快吃光；伤害（感情），破坏（计划）
 [例]
 1.The old building will be demolished next month. 那栋旧楼将于下个月被拆除。
@@ -1191,17 +1316,20 @@ vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳�
 [搭] 
 1.demolish a plan 毁掉一个计划
 2.demolish a building 拆除一栋建筑
-[联] de- (表示反向动作) + -molish (源于拉丁语“molere”，意为“磨碎”)——> 反向磨碎，即摧毁。
+[联] de- (表示反向动作) + -molish (源于拉丁语“molere”，意为“磨碎”) ——> 反向磨碎，即摧毁
 
 infringe / ɪnˈfrɪndʒ /
-v. 侵犯，违反（法律、规定等）。
+v. 违反，违背（法律、规则等）；侵犯，侵害（权益）
 [例]
 1.Don't infringe on my rights. 不要侵犯我的权利。
 2.His behavior infringed the law. 他的行为违反了法律。
 3.The new policy may infringe on personal freedoms. 新政策可能会侵犯个人自由。
 [搭] 
 1.infringe upon/infringe on 侵犯，损害
-[联] in- (没有) + fringe (边缘，外围) ——> 侵犯。
+2.place of an infringe act 原告住所地；侵权行为地
+3.infringe on 侵害；侵犯；破坏
+4.infringe a right 侵犯权利
+[联] in- (没有) + fringe (边缘，外围) ——> 侵犯
 
 undermine / ˌʌndərˈmaɪn /
 v. 逐渐削弱（损害）；故意破坏（某人）的形象（或威信）；在……下面挖，（尤指）从根基处损坏
@@ -1211,17 +1339,22 @@ v. 逐渐削弱（损害）；故意破坏（某人）的形象（或威信）�
 3.The constant criticism undermined her morale. 持续的批评削弱了她的士气。
 [搭] 
 1.undermine one's authority 破坏某人的权威
-[联] under- (在下面) + mine (矿井)——> 在下面挖洞，即暗中破坏。
+2.undermine the foundation of sth 挖墙脚
+3.undermine the social stability 破坏社会稳定；损坏社会稳固
+4.undermine peace and stability 破坏和平与稳定
+[联] under- (在下面) + mine (矿井)——> 在下面挖洞，即暗中破坏
 
 extinction / ɪkˈstɪŋkʃ(ə)n /
-n. 灭绝，消亡；（债务的）偿清；消光。
+n. 灭绝，消亡；（债务的）偿清；消光
 [例]
 1.The extinction of dinosaurs is still a mystery. 恐龙的灭绝仍然是一个谜。
 2.The fire was brought under control before it caused extinction. 火灾在造成严重后果前得到了控制。
 3.The extinction of the species was due to habitat loss. 物种的灭绝是由于栖息地的丧失。
 [搭] 
 1.mass extinction 大规模灭绝
-[联] ex- (向外) + tinctio (拉丁语，意为“染色”)——> 向外消失。
+2.extinction ratio 消光比；消减比率
+3.extinction coefficient 消光系数
+[联] ex- (向外) + tinctio (拉丁语，意为“染色”) ——> 向外消失
 
 pattern / ˈpætərn /
 n. 模式，方式；图案，花样；模范，典范；模型，底样；（布或墙纸的）样品；样式；（声音或词汇有规则排列的）模式
@@ -1232,17 +1365,23 @@ v. 用图案装饰，给……加上花样；仿照，模仿；赋予……以�
 3.Follow the pattern carefully when sewing. 缝纫时仔细按照图案操作。
 [搭] 
 1.follow a pattern 按照模式
-[联] pat- (轻拍) + tern (表示重复)——> 轻拍出的重复痕迹。
+2.pattern recognition 模式识别
+3.growth pattern 生长模型；生长模式
+4.flow pattern 流型，流动型态；活动模；流线谱
+[联] pat- (轻拍) + tern (表示重复) ——> 轻拍出的重复痕迹
 
 outcome / ˈaʊtkʌm /
-n. 结果，结局；成果，成效。
+n. 结果，结局；成果，成效
 [例]
 1.The outcome of the meeting was disappointing. 会议的结果令人失望。
 2.The outcome of the experiment was inconclusive. 实验结果不明确。
 3.We are waiting for the outcome of the investigation. 我们正在等待调查的结果。
 [搭] 
 1.good/bad outcome 好/坏的结果
-[联] out- (向外) + come (来)——> 向外来的结果。
+2.possible outcome 可能结果
+3.therapeutic outcome 治疗结果
+4.learning outcome 学习结果；学习成果
+[联] out- (向外) + come (来) ——> 向外来的结果
 
 impact / ˈɪmpækt /
 n. 影响，冲击力；碰撞，撞击。
@@ -1252,7 +1391,10 @@ n. 影响，冲击力；碰撞，撞击。
 3.The policy had a positive impact on the economy. 这项政策对经济产生了积极影响。
 [搭] 
 1.have an impact on 对……产生影响
-[联] im- (进入) + pacere (拉丁语，意为“敲击”)——> 进入并敲击。
+2.impact of 影响
+3.impact on 影响；对…冲击，碰撞
+4.environmental impact 环境冲击，环境影响
+[联] im- (进入) + pacere (拉丁语，意为“敲击”) ——> 进入并敲击
 
 seasonal / ˈsiːzən(ə)l /
 adj. 季节性的，随季节变化的；节令性的，适应节日需要的
@@ -1262,7 +1404,10 @@ adj. 季节性的，随季节变化的；节令性的，适应节日需要的
 3.Seasonal employment is common in tourism. 旅游业中季节性就业很常见。
 [搭] 
 1.seasonal worker 季节性工人
-[联] season (季节) + -al (形容词后缀)——> 与季节有关的。
+2.seasonal variation 季节性波动，季节性变动
+3.seasonal affective disorder 季节性情绪失调；季节性情绪波动
+4.seasonal adjustment 季节性调整
+[联] season (季节) + -al (形容词后缀) ——> 与季节有关的
 
 experimental / ɪkˌsperɪˈment(ə)l /
 adj. 实验性的，试验性的；<古>根据经验的，经验上的
@@ -1272,7 +1417,9 @@ adj. 实验性的，试验性的；<古>根据经验的，经验上的
 3.The experimental method is often used in scientific research. 实验方法常用于科学研究。
 [搭] 
 1.experimental study 实验研究
-[联] experi- (尝试) + mental (与……有关的)——> 与尝试有关的。
+2.experimental result 实验结果
+3.experimental data 实验数据；试验数据
+[联] experi- (尝试) + mental (与……有关的) ——> 与尝试有关的
 
 favourable / ˈfeɪvərəbl /
 adj. 有利的，适宜的；称赞的，赞成的；（价格）优惠的，合理的；有吉兆的，前景乐观的；（风）朝着行进方向吹的
@@ -1282,7 +1429,10 @@ adj. 有利的，适宜的；称赞的，赞成的；（价格）优惠的，合
 3.The company gave him a favourable review. 公司给了他一个有利的评价。
 [搭] 
 1.favourable climate 有利气候
-[联] favour (喜欢) + -able (形容词后缀)——> 容易让人喜欢的。
+2.favourable for 有帮助的，有利于
+3.favourable price 优惠价格；合宜价格
+4.favourable terms 优惠（有利）条件
+[联] favour (喜欢) + -able (形容词后缀) ——> 容易让人喜欢的
 
 productive / prəˈdʌktɪv /
 adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、庄稼或财富）的，生产性的；产生……的，引起……的（productive of）；有构词能力的；（咳嗽）生痰的，分泌黏液的
@@ -1293,10 +1443,13 @@ adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、
 [搭]
 1.highly productive 非常高效的
 2.productive soil 肥沃的土地
+3.productive forces 生产力
+4.productive capacity 生产能力
+5.productive efficiency 生产效率；生产效能
 [联] product (产品) + -ive (形容词后缀) ——> 产生产品的。
 
-efficient / ɪˈfɪʃnt /
-adj. 效率高的，有能力的。
+efficient / ɪˈfɪʃ(ə)nt /
+adj. 生效的，效率高的；（人）有能力的，能胜任的
 [例]
 1.This machine is very efficient. 这台机器效率很高。
 2.He is an efficient worker. 他是一名高效能的工人。
@@ -1304,7 +1457,25 @@ adj. 效率高的，有能力的。
 [搭]
 1.energy-efficient 节能的
 2.time-efficient 时间效率高的
-[联] effect (效果) + -ient (形容词后缀) ——> 产生良好效果的。
+3.energy efficient 节能
+4.efficient production 有效生产
+5.efficient market 有效市场
+[联] effect (效果) + -ient (形容词后缀) ——> 产生良好效果的
+
+effective / ɪˈfektɪv; əˈfektɪv /
+adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的
+n. 实际可作战的士兵
+[例]
+1.The new policy has proven very effective. 这项新政策被证明非常有效。
+2.An effective teacher knows how to engage students. 一位好老师知道如何吸引学生。
+3.Smiling is an effective way to make friends. 微笑是交朋友的有效方式。
+[搭]
+1.effective communication 有效沟通
+2.effective measures 有效措施
+3.effective management 有效管理
+4.effective measure 有效措施
+5.cost effective 有成本效益的；划算的；成本效率
+[联] effective 和 effect (效果) 相关——有良好效果的。
 
 considerable / kənˈsɪdərəb(ə)l /
 adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
@@ -1315,10 +1486,14 @@ adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
 [搭]
 1.considerable improvement 显著进步
 2.considerable influence 相当大的影响
-[联] consider (考虑) + -able (形容词后缀) ——> 值得考虑的。
+3.considerable quantity 大数量；科技 相当大的数量；大数量可观的数量
+4.considerable orders 大量；大量订购；大量订货
+5.considerable-great 巨大的；数量
+[联] consider (考虑) + -able (形容词后缀) ——> 值得考虑的
 
 massive / ˈmæsɪv /
-adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的
+adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的
+n. <英，非正式>（某一地区的年轻人群体）嬉蹦音乐迷（或丛林爵士音乐迷）
 [例]
 1.The earthquake caused massive damage. 地震造成了巨大的破坏。
 2.A massive crowd gathered in the square. 广场上聚集了大量人群。
@@ -1326,7 +1501,8 @@ adj. 大而重的，结实的；非常严重的；大量的，大规模的；<�
 [搭]
 1.massive construction 大型建筑
 2.massive investment 大量投资
-[联] mass (质量，群众) + -ive (形容词后缀) ——> 群众性的。
+3.massive retaliation 大规模报复
+[联] mass (质量，群众) + -ive (形容词后缀) ——> 群众性的
 
 immense / ɪˈmens /
 adj. 极大的，巨大的；非常好，极好；无边无际的
@@ -1337,7 +1513,9 @@ adj. 极大的，巨大的；非常好，极好；无边无际的
 [搭]
 1.immense potential 巨大潜力
 2.immense wealth 巨大财富
-[联] in (进入) + mens (思想) ——> 思想深邃的。
+3.immense interest 兴趣盎然
+4.an immense stadium 一个大型体育场；一个巨大的体育馆
+[联] in (进入) + mens (思想) ——> 思想深邃的
 
 maximal / ˈmæksɪml /
 adj. 最大的，最高的，最大限度的；最带总括性的，最全面的
@@ -1348,7 +1526,7 @@ adj. 最大的，最高的，最大限度的；最带总括性的，最全面的
 [搭]
 1.maximal effort 最大努力
 2.maximal output 最大产量
-[联] maximum (最大值) + -al (形容词后缀) ——> 最大的。
+[联] maximum (最大值) + -al (形容词后缀) ——> 最大的
 
 minimal / ˈmɪnɪml /
 adj. 极小的，极少的；极简抽象艺术的；简朴的，朴实无华的；极简的（指短小乐句不断重复并逐渐变化）；最小差别的
@@ -1359,7 +1537,7 @@ adj. 极小的，极少的；极简抽象艺术的；简朴的，朴实无华的
 [搭]
 1.minimal impact 最小影响
 2.minimal risk 最低风险
-[联] minimum (最小值) + -al (形容词后缀) ——> 最小的。
+[联] minimum (最小值) + -al (形容词后缀) ——> 最小的
 
 optimal / ˈɑːptɪməl /
 adj. 最佳的，最适的
@@ -1370,39 +1548,8 @@ adj. 最佳的，最适的
 [搭]
 1.optimal performance 最佳表现
 2.optimal growth 最佳增长
-[联] optimum (最佳的) + -al (形容词后缀) ——> 最佳的。
-
-ruin /ruːn/, /ˈruːɪn/
-n. 废墟；毁灭；破产。
-v. 毁灭；使破产。
-[例]
-1.The ancient city lies in ruins after the earthquake. 地震后这座古城成为一片废墟。
-2.Her career is in ruins because of the scandal. 因为丑闻，她的事业毁于一旦。
-3.I don't want to see my family go to ruin. 我不想看到我的家庭陷入困境。
-[搭]
-1.in ruins 成为废墟；破败不堪
-2.ruin sb.'s life 毁掉某人的生活
-[联] 想象一个破旧的建筑物逐渐倒塌的样子。
-
-perish /ˈperɪʃ/
-v. 死亡；毁灭；腐烂。
-[例]
-1.Many people perished in the famine. 很多人在饥荒中丧生。
-2.We cannot allow innocent lives to perish. 我们不能让无辜的生命消逝。
-3.Trees can perish if they lack water for too long. 如果树木长时间缺水会死亡。
-[搭]
-1.perish from hunger 饿死
-2.perish from cold 冻死
-[联] perish 和 "per" (完全) + "ish" (表示状态) 联想——完全进入某种状态（如死亡）。
-
-effective /ɪˈfektɪv/
-adj. 有效的；生效的；给人深刻印象的。
-[例]
-1.The new policy has proven very effective. 这项新政策被证明非常有效。
-2.An effective teacher knows how to engage students. 一位好老师知道如何吸引学生。
-3.Smiling is an effective way to make friends. 微笑是交朋友的有效方式。
-[搭]
-1.effective communication 有效沟通
-2.effective measures 有效措施
-[联] effective 和 effect (效果) 相关——有良好效果的。
+3.optimal design 优化设计；最佳设计
+4.optimal control 最优控制
+5.optimal solution 最优解，最佳解
+[联] optimum (最佳的) + -al (形容词后缀) ——> 最佳的
 

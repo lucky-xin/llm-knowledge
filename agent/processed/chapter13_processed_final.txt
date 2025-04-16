@@ -107,7 +107,9 @@ n. 障碍；阻碍物
 [搭]  
 1.overcome obstacles 克服障碍  
 2.remove obstacles 消除障碍  
-[联] ob- (反义前缀，表示相反) + -stacle (与“stance”相关，意为站立)——> 反站立的东西。establish /ɪˈstæb.lɪʃ/, /stəˈbɪl.ɪʃ/
+[联] ob- (反义前缀，表示相反) + -stacle (与“stance”相关，意为站立)——> 反站立的东西。
+
+establish /ɪˈstæb.lɪʃ/, /stəˈbɪl.ɪʃ/
 v.（使）建立，设立；确立；证明。
 [例]
 1.They established a new branch in Shanghai. 他们在上海市建立了新的分公司。
@@ -200,7 +202,119 @@ n.地点，场所；现场；vt.把...设置于。
 2.The archaeological site revealed many ancient artifacts. 考古遗址揭示了许多古代文物。
 3.The company plans to site its new office near the city center. 公司计划将其新办公室设在市中心附近。
 [搭] 
-construction site 施工现场；archaeological site 考古遗址。请提供您想要查询的单词或词组，我将按照您要求的格式进行输出。settle /ˈsɛtəl/, /ˈsɛtl/
+construction site 施工现场；archaeological site 考古遗址。请提供您想要查询的单词或词组，我将按照您要求的格式进行输出。
+
+venue / ˈvin juː /
+n. 场所，地点；会场
+[例]
+1.The concert will be held at the main venue tomorrow. 明天音乐会将在主会场举行。
+2.The wedding venue is a beautiful garden. 婚礼场地是一个美丽的花园。
+3.The conference venue has been changed to a larger hall. 会议场地已改为一个更大的大厅。
+[搭] 
+1.conference venue 会议地点
+2.event venue 活动场地
+[联] ven(来)+ue(表地点)——> 来的地方，即“地点”。
+
+landmark / ˈlændmɑːrk /
+n. 地标，地标建筑；里程碑，划时代的事物
+[例]
+1.The Statue of Liberty is one of New York's most famous landmarks. 自由女神像是纽约最著名的地标之一。
+2.The discovery of penicillin was a landmark in medical history. 青霉素的发现是医学史上的里程碑。
+3.This building is a landmark for tourists. 这座建筑是游客的地标。
+[搭] 
+1.landmark decision 里程碑式的决定
+2.landmark event 里程碑事件
+[联] land(土地)+mark(标记)——> 标在地上的标记，即“地标”。
+
+situated / səˈtjʊeɪtɪd /
+adj. 位于……的；处于……位置的
+[例]
+1.The village is situated in a valley surrounded by mountains. 这个村庄位于被群山环绕的山谷中。
+2.The hotel is situated just a short walk from the beach. 这家酒店距离海滩只有短短的步行路程。
+3.The school is situated near the city center. 这所学校位于市中心附近。
+[搭] 
+1.be situated near 位于……附近
+2.be situated far from 位于……远处
+[联] sit(坐)+u+ate→坐在某处，即“位于”。
+
+locate / loʊˈkeɪt /
+v. 查找，定位；使坐落于；位于
+[例]
+1.Can you locate your keys? 你能找到你的钥匙吗？
+2.The company decided to locate its new factory in the suburbs. 公司决定把新工厂设在郊区。
+3.I can't locate the source of this noise. 我无法确定这个噪音的来源。
+[搭] 
+1.locate...in 把……设在……
+2.locate...on 把……定位在……
+[联] loc(地方)+ate→找出地方，即“定位”。
+
+reside / rɪˈzaɪd /
+v. 居住；存在于；隶属于
+[例]
+1.They reside in a small apartment downtown. 他们住在市中心的一间小公寓里。
+2.Happiness resides in the heart. 幸福存在于心中。
+3.Power resides with the people. 权力属于人民。
+[搭] 
+1.reside in 居住在
+2.reside with 属于
+[联] re+(st)and(站立)——> 站立在某处，即“居住”。
+
+residential / rɪˈzɪdɛnʃl /
+adj. 住宅的；与居住有关的
+[例]
+1.They live in a residential area. 他们住在住宅区。
+2.The university has a residential college for international students. 这所大学为国际学生提供了一个住宿学院。
+3.The residential building is equipped with modern facilities. 这栋住宅楼配备了现代化设施。
+[搭] 
+1.residential area 住宅区
+2.residential complex 住宅小区
+[联] residential=residence(住所)+ial(形容词后缀)——> 与住所相关的。
+
+inhabit / ɪnˈhæbɪt /
+v. 居住于；栖息于
+[例]
+1.Humans inhabit every continent. 人类居住在每一个大陆上。
+2.Some animals inhabit the ocean floor. 一些动物栖息在海底。
+3.People have inhabited this island for centuries. 人们在这个岛上居住了几个世纪。
+[搭] 
+1.inhabit... 居住于……
+2.inhabitants 居民
+[联] in(在)+hab(it)(住处)+it→住在里面，即“居住于”。
+
+migrate / maɪˈgreɪt /
+v. 迁移，移居；迁徙
+[例]
+1.Many birds migrate south for the winter. 许多鸟儿冬天向南迁徙。
+2.People migrate to cities in search of better opportunities. 人们为了寻找更好的机会而迁往城市。
+3.Some fish migrate upstream to spawn. 有些鱼逆流而上去产卵。
+[搭] 
+1.migrate to 迁往
+2.migrate from 从……迁移
+[联] mi(gr)(移动)+ate→移动到别处，即“迁移”。
+
+emigrate / ˈɛmɪɡreɪt /
+v. 移居国外；出境移民
+[例]
+1.My grandparents emigrated from Italy in the 1950s. 我祖父母在20世纪50年代移居意大利。
+2.Many people emigrate to find work abroad. 很多人移居国外找工作。
+3.She emigrated to Canada when she was young. 她年轻时移居加拿大。
+[搭] 
+1.emigrate from 从……移居国外
+2.emigrate to 移居到……
+[联] e(出)+migr(it)(迁移)+ate→从原地移出，即“移居国外”。
+
+immigrate / ɪˈmɪɡreɪt /
+v. 移入，入境移民
+[例]
+1.My parents immigrated to the United States in 1980. 我父母在1980年移居美国。
+2.Many immigrants come to this country seeking freedom. 许多移民来到这个国家寻求自由。
+3.He immigrated here as a child. 他小时候移居到这里。
+[搭] 
+1.immigrate to 移居到……
+2.immigrate from 从……移居而来
+[联] im(in)(进入)+migr(it)(迁移)+ate→进入某个地方，即“移入”。
+
+settle /ˈsɛtəl/, /ˈsɛtl/
 v. （使）定居，安家；解决，处理；沉淀，安定；平静下来；（使）和解；（使）停息；（使）结清；（使）结束；（使）安定；（使）稳定；（使）稳固；（使）安定下来；（使）安居乐业；（使）安顿；（使）适应；（使）习惯；（使）习惯于；（使）适应于；（使）习惯于某种情况；（使）适应于某种环境；（使）适应于某种生活方式；（使）适应于某种状态；（使）适应于某种条件；（使）适应于某种状况；（使）适应于某种情形；（使）适应于某种局面；（使）适应于某种形势；（使）适应于某种局势；（使）适应于某种情境。
 [例]
 1.They decided to settle in the countryside. 他们决定在乡下定居。
@@ -289,6 +403,17 @@ n. 公寓，单元房；平面，平板；（尤指英国的）一套房间的�
 2.garden flat 带花园的公寓。
 [联] flat（平坦的）——> 原意为平坦的房间。
 
+hostel / ˈhɑːstl /
+n. 青年旅社；招待所
+[例]
+1.I stayed in a hostel when I first arrived in Paris. 当我刚到巴黎时，我住在一个青年旅社里。
+2.The hostel provides basic accommodation for travelers. 青年旅社为旅行者提供基本住宿。
+3.Many hostels offer communal kitchens where guests can cook their own meals. 许多青年旅社提供公共厨房，供客人自己做饭。
+[搭]
+1.hostel booking 青年旅社预订
+2.hostel amenities 青年旅社设施
+[联] 由“host”（主人）和“-el”构成，意为“提供住宿的地方”。
+
 lodge /lɑːdʒ/
 n. 小屋，棚屋；（英国）警察局；（大学里的）宿舍。
 [例]
@@ -308,7 +433,221 @@ n. 小屋，棚屋。
 3.The village had several mud huts. 村庄有几间泥制小屋。
 [搭]
 1.grass hut 草棚。
-2.wooden hut 木棚。pillar / ˈpɪlər /, / ˈpɪlɚ /
+2.wooden hut 木棚。
+
+cabin / ˈkæbɪn /
+n. 小屋；船舱；驾驶舱
+v. （船员）在船上居住
+[例]
+1.They built a small cabin in the woods. 他们在树林里建了一个小木屋。
+2.The captain's cabin was located at the front of the ship. 船长的船舱位于船的前部。
+3.In winter, we often go to a cozy cabin for skiing holidays. 冬天，我们经常去一个舒适的木屋里滑雪度假。
+[搭]
+1.cabin cruiser 游艇上的客舱
+2.cabin crew 航空公司乘务人员
+[联] “cab”（小房子）+“in”（在里面）。
+
+cellar / ˈselər /
+n. 地窖；酒窖
+[例]
+1.We store our wine in the cellar. 我们把酒储存在地窖里。
+2.The children love playing hide-and-seek in the dark cellar. 孩子们喜欢在黑暗的地窖里玩捉迷藏。
+3.The old man used the cellar as a workshop. 这位老人把地窖当作工作室。
+[搭]
+1.cellar door 酒庄
+2.cellar storage 地下储藏室
+[联] “cell”（细胞）+“ar”（后缀），意为“储存空间”。
+
+shed / ʃed /
+n. 小棚屋；棚舍
+v. 剥落；脱落
+[例]
+1.He built a shed in his backyard to store gardening tools. 他在后院建了一个小棚屋来存放园艺工具。
+2.The tree will shed its leaves in autumn. 这棵树将在秋天落叶。
+3.My car paint is shedding. 我的汽车油漆正在剥落。
+[搭]
+1.shed light on 弄清楚，阐明
+2.shed blood 流血牺牲
+[联] “sh”（掉落）+“ed”（过去式）。
+
+cottage / ˈkɑːtɪdʒ /
+n. 小屋；村舍
+[例]
+1.The cottage was surrounded by flowers. 小屋被花环绕。
+2.They rented a cottage by the sea for their summer holiday. 他们租了一间海边的小屋作为暑假度假之用。
+3.The old couple lived in a cozy cottage in the countryside. 这对老夫妇住在乡下的一个小巧舒适的村舍里。
+[搭]
+1.cottage industry 家庭手工业
+2.cottage cheese 奶酪
+[联] “cot”（小床）+“tage”（房屋）。
+
+nursery / ˈnɜːrsri /
+n. 托儿所；苗圃
+[例]
+1.The nursery is full of toddlers. 托儿所里满是幼儿。
+2.My mother works in a flower nursery. 我妈妈在一家花卉苗圃工作。
+3.The children spent the afternoon in the school nursery. 孩子们下午在学校的托儿所度过。
+[搭]
+1.nursery rhyme 童谣
+2.nursery garden 苗圃
+[联] “nurse”（护士）+“ry”（后缀）——>照顾孩子或植物的地方。
+
+cradle / ˈkreɪdl /
+n. 摇篮；发源地
+v. 抚养；孕育
+[例]
+1.The baby was sleeping in the cradle. 婴儿在摇篮里睡觉。
+2.Greece is the cradle of Western civilization. 希腊是西方文明的发源地。
+3.His parents cradled him gently. 他的父母轻轻地抱着他。
+[搭]
+1.in the cradle 在摇篮里；在幼年时期
+2.cradle-to-cradle 循环利用
+[联] “crad”（摇动）+“le”（小物件）。
+
+shelter / ˈʃeltər /
+n. 庇护所；掩蔽处
+v. 掩蔽；保护
+[例]
+1.The homeless people found shelter in the church. 无家可归的人在教堂找到了庇护所。
+2.The soldiers sought shelter from the rain under a tree. 士兵们在树下躲避雨水。
+3.The children were taken to a shelter after their parents' death. 孩子们的父母去世后被带到庇护所。
+[搭]
+1.shelter home 收容所
+2.take shelter 避难
+[联] “shel”（遮挡）+“ter”（名词后缀）。
+
+block / blɑːk /
+n. 块；街区；障碍物
+v. 阻塞；阻碍
+[例]
+1.The chocolate bar is divided into blocks. 巧克力棒被分成块状。
+2.They live on the same block. 他们住在同一个街区。
+3.The road was blocked by fallen trees. 公路被倒下的树木阻塞。
+[搭]
+1.block out 阻止，挡住
+2.block printing 雕版印刷
+[联] “bl”（阻挡）+“ock”（物体）。
+
+grid / grɪd /
+n. 格子；网格；电网
+[例]
+1.The map has a grid system. 地图上有一个网格系统。
+2.The power grid supplies electricity to the city. 电网向城市供电。
+3.A grid of streets runs through the city. 一条条街道纵横交错于城市之中。
+[搭]
+1.grid connection 电网连接
+2.grid system 网格系统
+[联] “gr”（网格）+“id”（后缀）。
+
+aisle / eɪl , æl /
+n. 走廊，过道；（教堂、礼堂等内的）侧廊  
+[例]  
+1.Passengers should wait in the aisle until the bus has come to a complete stop. 乘客应等到车完全停稳后再在过道等候。  
+2.The bride walked down the aisle with her father. 新娘挽着父亲沿着过道走了下来。  
+3.The teacher asked the students to move to the front aisle for the activity. 老师要求学生们到前排过道参加活动。  
+[搭]  
+1.window aisle 靠窗的过道  
+2.center aisle 中间过道  
+[联] aisle (过道)——> aisle 是狭长通道，联想“走廊”  
+
+porch / pɔːrtʃ /
+n. 门廊，门厅；（建筑物的）前廊  
+[例]  
+1.The porch of the house is a good place to sit and relax. 这座房子的门廊是个坐下来放松的好地方。  
+2.They decorated the porch with lights for Christmas. 他们为圣诞节装饰了门前的门廊。  
+3.We stood on the porch waiting for the bus. 我们站在门廊上等公共汽车。  
+[搭]  
+1.front porch 前门廊  
+2.back porch 后门廊  
+[联] porch (门廊)——> 从“门”和“走廊”的组合联想  
+
+corridor / ˈkɔːrɪdər /
+n. 走廊，通道；回廊  
+[例]  
+1.The corridor was filled with people during rush hour. 上下班高峰时段走廊里挤满了人。  
+2.The corridor connects the two buildings. 这条走廊连接了两栋建筑。  
+3.The fire alarm went off in the corridor. 走廊里的火警响了。  
+[搭]  
+1.corridor plan 走廊式布局  
+2.hotel corridor 酒店走廊  
+[联] corridor (走廊)——> cor- (核心)+ ridor (行进)——> 核心通道  
+
+stair / steər /
+n. 楼梯，台阶  
+[例]  
+1.Be careful when you go down the stairs. 下楼梯时要小心。  
+2.There is a small stair leading to the garden. 有一小段楼梯通往花园。  
+3.I heard someone walking up the stairs. 我听到有人走上楼。  
+[搭]  
+1.stair lift 楼梯升降机  
+2.fire stair 消防楼梯  
+[联] stair (楼梯)——> 从“阶梯”联想  
+
+staircase / ˈsteərkeɪs /
+n. 楼梯  
+[例]  
+1.The staircase in the old building is very steep. 这栋老建筑里的楼梯非常陡。  
+2.The staircase leads directly to the basement. 楼梯直接通向地下室。  
+3.They renovated the staircase to make it safer. 他们翻新了楼梯以使其更安全。  
+[搭]  
+1.spiral staircase 螺旋楼梯  
+2.indoor staircase 室内楼梯  
+[联] staircase (楼梯)——> stair (楼梯) + case (框架)——> 楼梯结构  
+
+storey / ˈstɔːri /
+n. 楼层；故事  
+[例]  
+1.The office is on the third storey. 办公室在三楼。  
+2.The story about the little girl is touching. 关于小女孩的故事令人感动。  
+3.How many storeys does your building have? 你的大楼有几层？  
+[搭]  
+1.top storey 顶层  
+2.ground storey 地面层  
+[联] storey (楼层)——> 英式拼写与“story”同义  
+
+layer / ˈleɪər /
+n. 层，层次；一层  
+v. 分层，分层放置  
+[例]  
+1.The cake has three layers of chocolate. 这个蛋糕有三层巧克力。  
+2.The leaves form a layer on the ground. 树叶在地面上形成了一层。  
+3.The artist layered colors on the canvas. 艺术家在画布上层层叠加颜色。  
+[搭]  
+1.layer cake 夹层蛋糕  
+2.soil layer 土壤层  
+[联] layer (层)——> 联想“叠加”  
+
+elevator / ˈelɪveɪtər /
+n. 电梯，升降机  
+[例]  
+1.The elevator is out of service today. 今天电梯停用了。  
+2.Wait for the elevator on the first floor. 在一楼等待电梯。  
+3.The elevator can carry up to ten people. 这部电梯最多可以容纳十个人。  
+[搭]  
+1.elevator music 轿厢音乐  
+2.elevator pitch 升降机式简短推销  
+
+escalator / ˈeskəleɪtər /
+n. 自动扶梯  
+[例]  
+1.Passengers should stand on the right side of the escalator. 乘客应该站在自动扶梯右侧。  
+2.The escalator moves slowly. 自动扶梯移动得很慢。  
+3.Be careful not to get your shoelaces caught in the escalator. 小心别让鞋带被自动扶梯卡住。  
+[搭]  
+1.moving escalator 移动中的自动扶梯  
+2.public escalator 公共自动扶梯  
+
+handrail / ˈhændreɪl /
+n. 扶手  
+[例]  
+1.Grab the handrail when you go down the stairs. 下楼梯时抓住扶手。  
+2.The handrail is made of metal. 扶手是金属制成的。  
+3.Children should hold the handrail when using the escalator. 孩子们使用自动扶梯时应该握住扶手。  
+[搭]  
+1.handrail design 扶手设计  
+2.railing and handrail 栏杆与扶手
+
+pillar / ˈpɪlər /, / ˈpɪlɚ /
 n. （建筑物中用来支撑屋顶的）柱子，支柱；主要支持者，中坚分子。
 [例]
 1.The ancient temple has four pillars in the main hall. 这座古庙的大厅里有四根支柱。
@@ -330,17 +669,6 @@ n. （建筑物中的）柱子，圆柱；专栏；纵队，纵列。
 2.supporting column 支柱。
 [联] col (拉丁语“柱”的意思) + um (表示物)——> 柱子。
 
-columnist / ˈkɑːləmɪst /
-n. 专栏作家；撰写专栏文章的人。
-[例]
-1.A good columnist can influence public opinion. 一位优秀的专栏作家可以影响公众舆论。
-2.She became a popular columnist after writing several best-selling books. 写了几本畅销书后，她成为了一位受欢迎的专栏作家。
-3.The columnist writes about politics and economics. 这位专栏作家写关于政治和经济的文章。
-[搭] 
-1.political columnist 政治专栏作家。
-2.fashion columnist 时尚专栏作家。
-[联] column (柱子) + ist (表示从事某职业的人)——> 撰写专栏的人。
-
 beam / biːm /
 n. 横梁；光束，光柱；笑容；vt. 发射，发射（光线等）。
 [例]
@@ -351,17 +679,6 @@ n. 横梁；光束，光柱；笑容；vt. 发射，发射（光线等）。
 1.beam of light 光束。
 2.beam antenna 天线。
 [联] bea (发光) + m (表示物)——> 发光的东西。
-
-laser / ˈleɪzər /
-n. 激光。
-[例]
-1.The laser pointer is used for presentations. 激光笔用于演示。
-2.The surgeon used a laser to remove the tumor. 外科医生用激光切除了肿瘤。
-3.Laser technology is widely used in industry. 激光技术广泛应用于工业。
-[搭] 
-1.laser printer 激光打印机。
-2.laser pointer 激光指示器。
-[联] light amplification by stimulated emission of radiation——> 受激辐射光放大。
 
 vault / vɔːlt /
 n. 圆顶，拱顶；地下室，地窖；vt. 跳跃；vi. 跳跃。
@@ -374,17 +691,6 @@ n. 圆顶，拱顶；地下室，地窖；vt. 跳跃；vi. 跳跃。
 2.burial vault 地下室，地窖。
 [联] vault (跳) + ed (表示过去式)——> 跳跃的动作。
 
-vaulted / vɔːltɪd /
-adj. 拱形的；有拱顶的。
-[例]
-1.The room had a vaulted ceiling. 房间有一个拱形天花板。
-2.The old castle had vaulted rooms. 这座古老的城堡有拱形的房间。
-3.The concert hall has a vaulted design. 音乐厅的设计采用了拱形结构。
-[搭] 
-1.vaulted architecture 拱形建筑。
-2.vaulted structure 拱形结构。
-[联] vault (跳) + ed (表示过去式)——> 拱形的。
-
 arch / ɑːrtʃ /
 n. 拱门，拱顶；v. 弓形弯曲。
 [例]
@@ -396,17 +702,6 @@ n. 拱门，拱顶；v. 弓形弯曲。
 2.archway 拱门。
 [联] arch (弯曲) + e (表示物)——> 弯曲的形状。
 
-arched / ɑːrcht /
-adj. 弓形的；有拱门的。
-[例]
-1.The bridge has arched supports. 这座桥有弓形支撑。
-2.The entrance had an arched doorway. 入口处有一个拱形的门。
-3.The ceiling was arched. 天花板是弓形的。
-[搭] 
-1.arched ceiling 弓形天花板。
-2.arched doorway 拱形门。
-[联] arch (弯曲) + ed (表示过去式)——> 弓形的。
-
 ceiling / ˈsiːlɪŋ /
 n. 天花板；最高限度，上限。
 [例]
@@ -416,7 +711,9 @@ n. 天花板；最高限度，上限。
 [搭] 
 1.ceiling fan 吊扇。
 2.hard ceiling 固定上限。
-[联] ceil (天花板) + ing (表示物)——> 天花板。eaves /ivz/
+[联] ceil (天花板) + ing (表示物)——> 天花板。
+
+eaves /ivz/
 n.屋檐，檐，滴水檐（复数形式）
 [例]
 1.The rainwater dripped from the eaves. 雨水从屋檐滴下。
@@ -455,16 +752,6 @@ n.门厅，前厅（单数形式）；大厅（复数形式 lobbies）
 [搭] 
 lobbying 活动，游说。
 [联] lob (投掷) + by (表地点) ——> 投掷进去的地方。
-
-lobbyist /ˈlɑbiɪst/
-n.游说者，院外活动者
-[例]
-1.The lobbyist met with several senators to discuss the bill. 游说者与几位参议员讨论了这项法案。
-2.Lobbyists often work behind the scenes to influence policy. 游说者经常在幕后影响政策。
-3.The environmental lobbyist gave a speech at the conference. 环保游说者在会议上发表演讲。
-[搭] 
-lobbyist group 游说团体。
-[联] lobby (游说) + ist (表示从事某职业的人) ——> 从事游说工作的人。
 
 bench /bentʃ/
 n.长凳；工作台；法官席（单数形式）；长椅（复数形式 benches）
@@ -507,24 +794,27 @@ n.散热器；暖气片；辐射器
 car radiator 汽车散热器；heating radiator 暖气片。
 [联] radiate (辐射) + -or (表工具) ——> 辐射热量的工具。
 
-radiate /ˈreɪdieɪt/
-v.辐射；散发；传播
+living room /ˈlɪvɪŋ ruːm/, /ˈlɪvɪŋ rum/
+n. 起居室；客厅
 [例]
-1.The sun radiates heat and light. 太阳辐射热和光。
-2.The dancer radiated confidence on stage. 舞者在舞台上散发出自信。
-3.The city radiates energy and excitement. 这座城市散发着活力和兴奋。
-[搭] 
-radiate warmth 散发温暖；radiate charm 散发魅力。
-[联] radio (无线电波) + ate (动词后缀) ——> 发射无线电波。cabinet / ˈkæbɪnət/, / kəˈbɪnət /
-n. （政府的）内阁；（厨房里的）橱柜；（博物馆、图书馆等的）陈列柜。
+1.They spent most of their time in the living room. 他们大部分时间都在起居室度过。
+2.The living room is decorated with modern furniture. 起居室装饰着现代家具。
+3.There is a large TV in the living room. 起居室里有一台大电视。
+[搭]
+1.living room furniture 起居室家具
+2.beautify the living room 装饰起居室
+[联] living (活着的) + room (房间) ——> 供人活动的房间
+
+cabinet /ˈkæbɪnət/
+n. （政府的）内阁；橱柜，储物柜
 [例]
-1.The cabinet met to discuss the recent economic crisis. 内阁开会讨论最近的经济危机。
-2.She opened the cabinet and took out a plate. 她打开橱柜拿出一个盘子。
-3.The museum's cabinet of curiosities attracted many visitors. 博物馆的陈列柜吸引了许多游客。
-[搭] 
+1.The cabinet met to discuss foreign policy. 内阁开会讨论外交政策。
+2.She opened the cabinet and took out a glass. 她打开橱柜拿出一个玻璃杯。
+3.The cabinet in the kitchen is made of wood. 厨房里的橱柜是木制的。
+[搭]
 1.cabinet meeting 内阁会议
-ministerial cabinet 内阁成员
-[联] cabi- (拉丁语cabina，小屋) + -net (小) ——> 小屋子。
+2.kitchen cabinet 厨房储物柜
+[联] cab (小屋) + inet (网络) ——> 小房间
 
 balcony / ˈbælkəni /
 n. 阳台；（歌剧院、礼堂等的）楼厅。
@@ -545,6 +835,17 @@ n. 露台；（房屋或花园中的）平台；（山坡上的）梯田。
 [搭] 
 1.terrace garden 露台花园
 [联] Terr- (来自拉丁词terra，土地)。
+
+kitchen /ˈkɪtʃɪn/
+n. 厨房
+[例]
+1.The chef prepared dinner in the kitchen. 厨师在厨房准备晚餐。
+2.There is a small table in the kitchen. 厨房里有一张小桌子。
+3.The kitchen is equipped with modern appliances. 厨房配备了现代化设备。
+[搭]
+1.kitchenware 厨具
+2.kitchen sink 厨房水槽
+[联] kit (工具箱) + chen (发音后缀) ——> 做饭的地方
 
 lavatory / ˈlævəˌtɔri /
 n. 厕所；洗手间。
@@ -576,16 +877,6 @@ n. 浴缸；洗澡；浴室。
 1.take a bath 洗澡
 [联] Bath- (与“bathe”相关，意为沐浴)。
 
-bathe / beɪð /
-v. 洗澡；浸泡；浸润。
-[例]
-1.I bathe every morning. 我每天早上洗澡。
-2.The baby was gently bathed by her mother. 婴儿由母亲轻轻洗浴。
-3.He bathed his hands in cold water. 他把双手浸泡在冷水里。
-[搭] 
-1.bathe in sunshine 在阳光下沐浴
-[联] Bath- (与“bath”相关，意为沐浴)。
-
 basin / ˈbeɪsn /
 n. 盆；盆状物；流域。
 [例]
@@ -614,7 +905,9 @@ n. 水库；蓄水池；储藏所。
 3.The reservoir holds enough water for three months. 这个水库储存的水量够用三个月。
 [搭] 
 1.reservoir water 水库水
-[联] Re- (再次) + serve (服务)。store /stɔːr/, /stɔːr/
+[联] Re- (再次) + serve (服务)。
+
+store /stɔːr/, /stɔːr/
 v.储存；存储；储藏
 n.商店；店铺；商场
 [例]
@@ -637,6 +930,17 @@ n.综合体；建筑群；情结
 1.complex number 复数
 2.complexion of the times 时代的特征
 [联] complex由“comp”（共同）+“lex”（结合）构成，意为“结合在一起的事物”。
+
+supermarket /ˈsuːpərˌmɑːrkət/
+n. 超市
+[例]
+1.They went shopping at the supermarket. 他们去超市购物。
+2.The supermarket is open 24 hours a day. 超市每天24小时营业。
+3.There are many products on sale in the supermarket. 超市里有很多商品打折销售。
+[搭]
+1.supermarket trolley 超市手推车
+2.supermarket aisle 超市通道
+[联] super (超级) + market (市场) ——> 大型市场
 
 booth /buːθ/
 n.摊位；亭子；小间
@@ -725,7 +1029,9 @@ adj.外围的；次要的；边缘的
 [搭] 
 1.peripheral vision 周边视觉
 2.peripheral equipment 外围设备
-[联] peripheral与periphery（边缘）同源，意为处于边缘的事物。periphery /pəˈrɪfəri/ or /ˈperɪfəri/
+[联] peripheral与periphery（边缘）同源，意为处于边缘的事物。
+
+periphery /pəˈrɪfəri/ or /ˈperɪfəri/
 n.边缘；外围；次要部分
 [例]
 1.The small town lies in the periphery of the city. 这个小城镇位于城市的边缘。
@@ -827,6 +1133,28 @@ v.筑堡防御
 2.castle building 建造城堡
 [联] castle=中古英语“城堡”。
 
+carpenter /ˈkɑːrpəntər/
+n. 木匠
+[例]
+1.The carpenter built a wooden shelf. 木匠做了一个木制架子。
+2.He hired a carpenter to fix the door. 他雇了一个木匠修理门。
+3.The carpenter used a hammer and nails. 木匠使用锤子和钉子。
+[搭]
+1.carpenter's tools 木匠工具
+2.carpenter's workshop 木匠作坊
+[联] carpent (雕刻) + er (表示人) ——> 从事木工的人
+
+mason /ˈmeɪsn/
+n. 石匠；石建筑工人
+[例]
+1.The mason laid the foundation stone. 石匠铺设了基石。
+2.A mason can carve stones into various shapes. 石匠可以将石头雕刻成各种形状。
+3.The mason worked hard on the building site. 石匠在工地努力工作。
+[搭]
+1.mason's tools 石匠工具
+2.mason's work 石匠作品
+[联] mas (石头) + on (后缀) ——> 与石头相关的人
+
 tile /taɪl/
 n.瓷砖；瓦片
 v.铺瓷砖；贴瓦片
@@ -837,7 +1165,9 @@ v.铺瓷砖；贴瓦片
 [搭]
 1.floor tile 地砖
 2.ceramic tile 陶瓷砖
-[联] tile=陶制瓦片。brickwork /ˈbrɪkˌwɜrk/
+[联] tile=陶制瓦片。
+
+brickwork /ˈbrɪkˌwɜrk/
 n. 砖石建筑；砖工
 [例]
 1. The brickwork of the building is very impressive. 这座建筑的砖石结构非常令人印象深刻。
@@ -912,6 +1242,28 @@ v. 架起脚手架；处以绞刑
 1.scaffold safety 脚手架安全
 [联] 想象一个由木头或金属制成的临时结构（scaffold）。
 
+infrastructure /ˈɪnfrəstrʌktʃər/
+n. 基础设施；公共设施
+[例]
+1.The country needs to improve its infrastructure. 这个国家需要改善其基础设施。
+2.The city has good infrastructure development. 城市有良好的基础设施发展。
+3.Education is an important part of infrastructure. 教育是基础设施的重要组成部分。
+[搭]
+1.transportation infrastructure 交通基础设施
+2.digital infrastructure 数字基础设施
+[联] infra (下面的) + structure (结构) ——> 基础结构
+
+apparatus /əˈpærətəs/
+n. 装置，设备；器官，机构
+[例]
+1.The hospital has advanced medical apparatus. 医院有先进的医疗设备。
+2.The scientific apparatus is very complex. 科学装置非常复杂。
+3.The fire department uses special apparatus. 消防部门使用特殊设备。
+[搭]
+1.medical apparatus 医疗设备
+2.scientific apparatus 科学仪器
+[联] appar (显现) + atus (名词后缀) ——> 出现的东西
+
 crane /kreɪn/
 n. 吊车；鹤
 v. 伸长脖子看；用起重机吊起
@@ -942,7 +1294,106 @@ v. 滥用；虐待；粗暴对待
 3. The prisoner was maltreated by the guards. 囚犯受到了看守的虐待。
 [搭]
 1.maltreatment 虐待
-[联] 想象错误地（mal-）对待（treat）。请提供需要解析的单词或词组列表，我将按照您要求的格式逐一输出内容。请提供需要解析的单词或词组，我将按照您提供的格式逐一输出答案。抱歉，你提供的单词列表中没有“atmosphere”这个单词。请提供正确的单词或按照要求对列表中的单词进行处理。drill /drɪl/, /drəʊl/ (v.,n.)
+[联] 想象错误地（mal-）对待（treat）。
+
+maintain /mənˈteɪn/
+v. 维持；维修；主张
+[例]
+1.The company maintains a high level of quality. 公司维持着高质量水平。
+2.They maintain that the project will succeed. 他们主张这个项目会成功。
+3.The car needs regular maintenance. 汽车需要定期维修。
+[搭]
+1.maintain order 维持秩序
+2.maintain contact 保持联系
+[联] main (主要的) + tain (保持) ——> 保持主要状态
+
+maintenance /ˈmeɪntənəns/
+n. 维护；保养；维持
+[例]
+1.The maintenance cost is high for this machine. 这台机器的维护成本很高。
+2.Regular maintenance is necessary for the equipment. 设备需要定期维护。
+3.The government spends a lot on infrastructure maintenance. 政府在基础设施维护上花费很多。
+[搭]
+1.daily maintenance 日常维护
+2.maintenance schedule 维护计划
+[联] main (主要的) + tain (保持) + ence (名词后缀) ——> 保持主要状态
+
+fix /fɪks/
+v.修理；使固定；确定；使牢固
+[例]
+1.I need to fix the broken chair. 我需要修理那把坏了的椅子。
+2.Can you fix this loose screw? 你能把这个松动的螺丝拧紧吗？
+3.They fixed the date of the meeting. 他们确定了会议的日期。
+[搭]
+1.fix one's eyes on 集中注意力于
+2.fix up 修理，修补
+[联] 通过想象“钉子”（fix音似）固定物体来记忆。
+
+mend /mɛnd/
+v.修理；修补；改善；改正
+[例]
+1.I will mend my jacket. 我会修补我的夹克。
+2.She mends her ways. 她改正了自己的行为。
+3.The road is being mended. 这条路正在维修。
+[搭] mend one's steps 改善步伐
+[联] 与“end”结合，表示结束破损的状态。
+
+modify /ˈmɒdɪfaɪ/
+v.修改；修饰；调整；缓和
+[例]
+1.We need to modify the plan. 我们需要修改这个计划。
+2.He modified his behavior. 他调整了他的行为。
+3.The software can modify files automatically. 这款软件可以自动修改文件。
+[搭] modify one's tone 调整语气
+[联] 由“mode”（模式）+“-ify”（使...化）构成，意为使模式发生变化。
+
+modification /ˌmɒdɪfɪˈkeɪʃn/
+n.修改；改动；修饰
+/ˈmɑːdɪfɪkeɪʃn/
+[例]
+1.This is a modification of the original design. 这是对原设计的修改。
+2.The modification improved performance. 修改提高了性能。
+3.The company made several modifications to the product. 公司对该产品进行了多次修改。
+[搭] major modification 重大修改
+[联] 由“modify”加后缀“-ation”构成，意为“修改的过程或结果”。
+
+trim /trɪm/
+v.修剪；整理；装饰；使整齐
+[例]
+1.Trim the tree branches. 修剪树上的树枝。
+2.Trim your hair. 修剪你的头发。
+3.The room was trimmed with colorful lights. 房间装饰上了五彩缤纷的灯光。
+[搭] trim one's sails 节约开支
+[联] 想象修剪草坪（trim）使其整齐。
+
+weld /wɛld/
+v.焊接；熔合；使紧密结合
+[例]
+1.Weld these two pieces together. 将这两块焊接在一起。
+2.The metal was welded into shape. 金属被焊成形状。
+3.The team worked hard to weld their differences. 团队努力消除分歧，团结一致。
+[搭] weld together 使结合在一起
+[联] 与“well”结合，表示紧密连接。
+
+saw /sɔː/
+v.锯；察觉；认为
+[例]
+1.Use the saw to cut the wood. 用锯子锯木头。
+2.I saw a strange light in the sky. 我看到天空中有一道奇怪的光。
+3.Sawyer means someone who saw something. 看见某人即为观察者。
+[搭] saw off 锯断
+[联] 想象用锯子（saw）切割木材。
+
+screw /skruː/
+v.拧紧；旋紧；欺骗；压榨
+[例]
+1.Tighten the screw. 拧紧螺丝。
+2.Don't try to screw me over. 别想骗我。
+3.They screwed the price up. 他们抬高了价格。
+[搭] screw up 搞砸；弄糟
+[联] 通过想象螺丝刀（screwdriver）拧螺丝来记忆。
+
+drill /drɪl/, /drəʊl/ (v.,n.)
 v. 钻孔，钻探；反复练习，操练
 n. 钻头，钻子；练习
 [例]
@@ -1040,7 +1491,9 @@ n. 安装；装置；设施
 3. The new installation will improve efficiency. 新设施将提高效率。
 [搭]
 1.software installation 软件安装
-[联] installation与“install”相关，都是关于“设置”。furnish /ˈfɜːrnɪʃ/, /ˈfɜːrnɪtʃ/
+[联] installation与“install”相关，都是关于“设置”。
+
+furnish /ˈfɜːrnɪʃ/, /ˈfɜːrnɪtʃ/
 v. 提供家具；供应；装备
 [例]
 1. The company will furnish all the necessary office furniture. 公司会提供所有必要的办公家具。
@@ -1050,17 +1503,6 @@ v. 提供家具；供应；装备
 1.furnish information 提供信息
 2.furnish accommodation 提供住宿
 [联] fur (皮毛) + nish (与完成相关)——> 提供家具或装饰品。
-
-furniture /ˈfɜːrnɪtʃər/
-n. 家具；装置
-[例]
-1.The furniture in the living room is very modern. 客厅里的家具非常现代。
-2.They replaced all the furniture in their apartment. 他们把公寓里的所有家具都换掉了。
-3.The furniture is delivered next week. 家具将在下周送达。
-[搭] 
-1.office furniture 办公家具
-2.modern furniture 现代家具
-[联] fur (皮毛) + nish (与完成相关) + -er (表示工具或物品)——> 家具。
 
 placement /pləˈseɪmənt/
 n. 放置；安排；职位
@@ -1148,38 +1590,7 @@ adv. 在外；在外边 prep. 在...外 n. 外部；外面
 [搭] 
 1.outside the box 创意十足
 2.outside the law 超出法律范围
-[联] out (向外) + side (边)——> 外部。navigation / ˌnævɪˈgeɪʃən /
-n. 航行，航海；导航，领航；引导，指引。
-[例]
-1.The ship's navigation system failed during the voyage. 船舶在航行期间导航系统失灵。
-2.Modern navigation relies heavily on satellite technology. 现代导航严重依赖卫星技术。
-3.Navigation skills are essential for long-distance voyages. 长途航行需要掌握导航技能。
-[搭]
-1.navigation lights 航行灯
-2.navigation chart 海图
-[联] nav (引导) + i + gation (动作) ——> 引导行动。
-
-voyage / ˈvɔɪɪdʒ /
-n. 航行，航海；长途旅行。
-[例]
-1.His dream is to complete a round-the-world voyage. 他的梦想是完成环球航行。
-2.The ship set sail on its maiden voyage. 这艘船开始了它的首次航行。
-3.Voyage to the bottom of the sea is an exciting adventure. 海底航行是一次令人兴奋的冒险。
-[搭]
-1.voyage duration 航行时间
-2.voyage cost 航行成本
-[联] voy (远行) + age (行为) ——> 远行的行为。
-
-pave / peɪv /
-v. 铺设；为……铺路；为……作准备。
-[例]
-1.They paved the road with stones. 他们用石头铺设了道路。
-2.Her hard work paved the way for her success. 她的努力为她的成功铺平了道路。
-3.Education paves the way for future opportunities. 教育为未来的机遇铺平了道路。
-[搭]
-1.pave the way 铺路；为……铺平道路
-2.pave the way for success 为成功铺路
-[联] pave (铺路) ——> 和road相关联。
+[联] out (向外) + side (边)——> 外部。
 
 outward / ˈaʊtwərd /
 adj. 向外的；表面的；外面的。
@@ -1204,6 +1615,15 @@ n. 外部；外表；外观。
 1.exterior decoration 外部装饰
 2.exterior wall 外墙
 [联] ex (向外) + ter (外部) + ior (形容词后缀) ——> 外部的。
+
+external /ɪkˈstɜːrnəl/
+adj.外部的；外面的；客观的
+[例]
+1.The external walls need painting. 外墙需要粉刷。
+2.External factors influenced the decision. 外部因素影响了决策。
+3.The external appearance was deceptive. 外表具有欺骗性。
+[搭] external storage 外部存储器
+[联] 由“exter”（外）+“nal”（的）构成，意为“外部的”。
 
 inner / ˈɪnər /
 adj. 内部的；内心的；内在的。
@@ -1249,429 +1669,5 @@ adj. 内部的；国内的；内的。
 [搭]
 1.internal affairs 国内事务
 2.internal medicine 内科学
-[联] inter (内部) + nal (形容词后缀) ——> 内部的。pavement / ˈpeɪvmənt /
-n.人行道（英式英语）；行人道（美式英语为sidewalk）
-[例]
-1.I always walk on the pavement to avoid cars. 我总是走在人行道上以避开车辆。
-2.The pavement was crowded with people. 人行道上挤满了人。
-3.The pavement in this area is made of bricks. 这个区域的人行道是砖砌的。
-[搭]
-1.pavement café 人行道咖啡馆
-2.pavement artist 街头艺术家
-[联] pave (铺设) + -ment (名词后缀) ——> 铺设的道路部分。
+[联] inter (内部) + nal (形容词后缀) ——> 内部的。
 
-vehicle / ˈviːəkl /
-n.车辆；交通工具；媒介；载体
-[例]
-1.My car is my favorite vehicle for long-distance travel. 我的汽车是我长途旅行最喜欢的交通工具。
-2.The internet has become a major vehicle for communication. 互联网已成为主要的交流媒介。
-3.The book serves as a vehicle for her political views. 这本书是她政治观点的载体。
-[搭]
-1.public vehicle 公共交通工具
-2.vehicle registration 车辆登记
-[联] vehi- (来自拉丁语vehere，意为“运送”) + -cle (表示“小东西”)。
-
-auto / ˈɔːtoʊ /
-n.汽车（口语化或缩写形式）
-[例]
-1.My auto needs an oil change. 我的汽车需要换机油。
-2.He bought a new auto last month. 上个月他买了一辆新车。
-3.The auto industry is growing rapidly. 汽车行业正在迅速发展。
-[搭]
-1.auto insurance 汽车保险
-2.auto show 汽车展
-[联] 缩写自automobile。
-
-express / ɪkˈspres /
-v.表达；快递；表明
-adj.明确的；快速的；特快的
-adv.明确地；直接地
-[例]
-1.I want to express my gratitude to you. 我想向你表达我的感激之情。
-2.Express delivery is more expensive but faster. 快递更贵但更快。
-3.The express train leaves at 8 PM. 特快列车晚上8点发车。
-[搭]
-1.express one's opinion 表达某人的意见
-2.express bus 快速公交
-[联] ex- (向外) + press (按压，压出) ——> 压出感情或想法。
-
-tram / træm /
-n.有轨电车；电车
-[例]
-1.The tram runs along the main street. 电车沿着主街行驶。
-2.Traveling by tram is cheap and convenient. 坐电车既便宜又方便。
-3.The old man likes to ride the tram for fun. 这位老人喜欢坐电车玩。
-[搭]
-1.tram line 电车线路
-2.tram stop 电车站
-
-coach / koʊtʃ /
-n.长途客车；教练；指导者
-v.训练；辅导；指导
-[例]
-1.The coach told us how to improve our skills. 教练告诉我们如何提高我们的技能。
-2.We took a coach to the city. 我们乘长途客车去了城市。
-3.She is a professional tennis coach. 她是一名职业网球教练。
-[搭]
-1.coach tour 旅游巴士行程
-2.personal coach 个人教练
-[联] 来源于古法语coche，意为“马车”。
-
-ambulance / ˈæmbjələns /
-n.救护车；应急车辆
-[例]
-1.The ambulance arrived quickly after the accident. 事故发生后救护车很快就到了。
-2.Ambulances are equipped with medical supplies. 救护车上配备着医疗用品。
-3.They called an ambulance for the injured person. 他们为受伤的人叫了救护车。
-[搭]
-1.ambulance service 救护服务
-2.mobile ambulance 移动救护车
-[联] ambi- (周围) + -ulance (来自拉丁语vens，意为“去”) ——> 四面八方去救人的车。
-
-truck / trʌk /
-n.卡车；运货汽车
-[例]
-1.The truck driver delivered the goods on time. 卡车司机按时送来了货物。
-2.Large trucks are used for transporting heavy items. 大型卡车用于运输重型物品。
-3.The truck broke down on the highway. 卡车在高速公路上抛锚了。
-[搭]
-1.truck driver 卡车司机
-2.dump truck 自卸卡车
-[联] 可能来源于荷兰语trok，意为“拖拉”。
-
-lorry / ˈlɔri /
-n.卡车（英式英语）
-[例]
-1.The lorry was loaded with fresh vegetables. 卡车载满了新鲜蔬菜。
-2.The lorry driver parked his vehicle in the garage. 卡车司机把他的车停在车库。
-3.The lorry transport system is efficient. 卡车运输系统效率高。
-[搭]
-1.lorry park 卡车停车场
-2.lorry load 卡车装载量
-[联] 来源于拉丁语roulus，意为“轮子”。
-
-van / væn /
-n.面包车；小型运货车
-[例]
-1.We traveled in a van to the countryside. 我们乘面包车去了乡下。
-2.The delivery van arrived late today. 送货面包车今天晚到了。
-3.The van was filled with camping gear. 面包车装满了露营设备。
-[搭]
-1.van life 面包车生活方式
-2.cargo van 货运面包车
-[联] 可能来源于拉丁语vagina，意为“小船”。wagon / ˈwɑːɡən /
-n.（四轮货运）大车；（旧时）四轮马车
-[例]
-1.The farmer used the wagon to transport crops. 农民用大车运送庄稼。
-2.In the old days, the carriage and wagon were main means of transportation. 在过去，马车和大车是主要的交通工具。
-3.The children loved to play in the old wagon in the backyard. 孩子们喜欢在后院的老大车里玩耍。
-[搭] 
-wagon train 马车队；长长的车队。
-[联] wagon 可联想到 car 和 cart，都是交通工具。
-
-carriage / ˈkærɪdʒ /
-n.（四轮）马车；（火车）车厢；（车）座舱
-[例]
-1.They took a horse-drawn carriage for their honeymoon. 他们蜜月期间乘坐了马拉的马车。
-2.The first-class carriage has more comfortable seats. 一等车厢的座位更舒适。
-3.The queen arrived in a golden carriage. 女王坐着一辆金光闪闪的马车到达。
-[搭] 
-carry in a carriage 坐马车去...
-[联] carriage 可联想到 wagon，都是交通工具。
-
-tractor / ˈtrækter /
-n.拖拉机
-[例]
-1.The farmer used the tractor to plow the field. 农民用拖拉机犁地。
-2.The tractor driver was very skillful. 拖拉机司机非常熟练。
-3.The tractor broke down in the middle of the field. 拖拉机在田中间抛锚了。
-[搭] 
-tractor trailer 半挂拖车。
-[联] tractor 可联想到 farm 和 machine。
-
-cart / kɑːrt /
-n.手推车；（两轮）运货小车
-[例]
-1.Shopkeepers use carts to carry goods. 商贩用手推车载货。
-2.The kids pushed the cart around the yard. 孩子们在院子里推着手推车。
-3.The delivery man unloaded the cart at the store. 快递员把小推车里的货物卸到商店。
-[搭] 
-handcart 手推车。
-[联] cart 可联想到 wagon 和 vehicle。
-
-pedicab / ˈpedɪkæb /
-n.三轮人力车
-[例]
-1.The tourists enjoyed riding in the pedicab. 游客们喜欢坐三轮人力车。
-2.The pedicab driver was friendly and polite. 三轮车夫友好有礼貌。
-3.It's a good way to see the city in a pedicab. 坐三轮人力车是游览城市的不错方式。
-[搭] 
-pedicab tour 人力车观光。
-[联] pedicab 可联想到 cycle 和 taxi。
-
-cycle / ˈsaɪkl /
-n.自行车；周期 v.循环；骑自行车
-[例]
-1.She rides her cycle to work every day. 她每天骑自行车上班。
-2.The seasons cycle through the year. 四季在一年中循环。
-3.The machine is designed to cycle automatically. 这台机器被设计成自动循环运转。
-[搭] 
-life cycle 生命周期；生物周期。
-[联] cycle 可联想到 vehicle 和 vehicle。
-
-recycle / riːˈsaɪkl /
-v.回收利用；使再循环
-[例]
-1.We should recycle paper to protect the environment. 我们应该回收纸张以保护环境。
-2.Recycling plastic reduces pollution. 回收塑料能减少污染。
-3.The company has a recycling program. 公司有一个回收计划。
-[搭] 
-recycling bin 回收箱；回收垃圾桶。
-[联] recycle 可联想到 reuse 和 environment。
-
-cyclist / ˈsaɪklɪst /
-n.骑自行车的人
-[例]
-1.The cyclist won the race easily. 骑行者轻松赢得了比赛。
-2.Cyclists must obey traffic rules. 骑自行车的人必须遵守交通规则。
-3.A group of cyclists rode past us. 一群骑行者从我们身边骑过。
-[搭] 
-professional cyclist 职业骑行者。
-[联] cyclist 可联想到 athlete 和 sportsman。
-
-garage / ˈɡerɪdʒ /
-n.车库；修车厂；汽车修理站
-[例]
-1.My car is parked in the garage. 我的车停在车库。
-2.He owns a small garage in the town. 他在镇上有一家小型修车厂。
-3.The mechanic fixed my car in the garage. 修理工在车库修理了我的车。
-[搭] 
-double garage 双车位车库。
-[联] garage 可联想到 car 和 workshop。
-
-motor / ˈmoʊtər /
-n.发动机；电动机；摩托车
-[例]
-1.The motor is running smoothly. 发动机运转平稳。
-2.He bought a new motorbike. 他买了一辆新摩托车。
-3.The electric motor powers the machine. 电动机驱动这台机器。
-[搭] 
-motor vehicle 机动车；机动车辆。
-[联] motor 可联想到 engine 和 vehicle。honk /hɑːŋk/, /hɒŋk/
-v. 按喇叭，鸣喇叭
-[例]
-1.The driver honked to warn the pedestrians. 司机按喇叭警告行人。
-2.I heard a loud honk behind me as I crossed the street. 我过马路时听到身后传来一声响亮的喇叭声。
-3.He honked continuously until the traffic light turned green. 他连续按喇叭直到交通灯变绿。
-[搭] honk one's horn 按喇叭。
-[联] 联想“honk”与“honey”相似，想象蜜蜂（honey）在喇叭（honk）旁边嗡嗡叫。
-
-wreck /rek/
-n. 残骸，残破的东西；失事船，失事飞机
-[例]
-1.The ship was a total wreck after the storm. 暴风雨后这艘船完全成了废墟。
-2.They found the wreck of the plane deep in the jungle. 他们在丛林深处发现了飞机的残骸。
-3.The car wreck was towed away by the police. 警方拖走了那辆撞毁的汽车。
-[搭] car wreck 撞毁的汽车。
-[联] wreck可以联想到“break”（打破），因为都是破坏的意思。
-
-emergency /ɪˈmɜːrdʒnsi/
-n. 紧急情况，突发事件
-[例]
-1.We need to call for help in an emergency. 在紧急情况下我们需要寻求帮助。
-2.The fire alarm went off during the emergency drill. 在应急演习中火警铃响了。
-3.Emergency services arrived within minutes. 救援服务在几分钟内到达。
-[搭] emergency exit 紧急出口；emergency kit 应急工具包。
-[联] emergency由“em-”（进入）和“ergency”（紧急）组成，表示进入紧急状态。
-
-wheel /wiːl/
-n. 轮子，车轮；方向盘
-[例]
-1.The wheel of the bicycle is broken. 这辆自行车的轮子坏了。
-2.The car wheel got stuck in the mud. 汽车轮子陷在泥里了。
-3.The steering wheel is difficult to turn. 方向盘很难转动。
-[搭] spare wheel 备胎；steering wheel 方向盘。
-[联] wheel像一个圆形，容易联想到轮子。
-
-brake /breɪk/
-n. 刹车；制动装置
-[例]
-1.The brake pedal is hard to press. 刹车踏板很难踩下去。
-2.The mechanic fixed the car brake. 机械师修好了汽车刹车。
-3.Be careful when you apply the brake. 当你踩刹车时要小心。
-[搭] hand brake 手刹；disc brake 盘式刹车。
-[联] 刹车可以联想到“stop”，都是停止的意思。
-
-steward /ˈstuːərd/
-n. 乘务员；服务员；管理员
-[例]
-1.The steward served drinks to the passengers. 乘务员为乘客送饮料。
-2.The steward managed the team efficiently. 乘务员有效地管理着团队。
-3.The steward showed us to our seats. 乘务员带我们到座位上。
-[搭] flight steward 飞机乘务员。
-[联] 联想“steward”是“serve”的一种职业，比如在飞机上服务。
-
-stewardess /ˈstuːərdəs/
-n. 女乘务员
-[例]
-1.The stewardess greeted us warmly. 女乘务员热情地迎接我们。
-2.The stewardess handed out snacks and drinks. 女乘务员分发零食和饮料。
-3.The stewardess helped us with our luggage. 女乘务员帮我们搬行李。
-[搭] flight stewardess 飞机女乘务员。
-[联] “stewardess”是“steward”的阴性形式，表示女性乘务员。
-
-crew /kruː/
-n. 全体船员；全体乘务员
-[例]
-1.The crew worked hard to fix the boat. 全体船员努力修理船只。
-2.The plane's crew was very friendly. 飞机上的乘务人员非常友好。
-3.The captain led his crew through the storm. 船长带领他的船员穿越风暴。
-[搭] flight crew 飞机机组人员。
-[联] crew可以联想到“group”，表示一群人。
-
-tyre /taɪr/
-n. 轮胎
-[例]
-1.The tyre of my bike is flat. 我自行车的轮胎没气了。
-2.The mechanic replaced the old tyre. 机械师更换了旧轮胎。
-3.Make sure the tyre pressure is correct. 确保轮胎压力正确。
-[搭] spare tyre 备胎。
-[联] tyre与“tie”发音相似，可以联想到轮胎绑住车轮。
-
-horsepower /ˈhɔːrspaʊər/
-n. 马力
-[例]
-1.The car has 300 horsepower. 这辆车有300马力。
-2.Horsepower is a unit of power used to measure engines. 马力是一种用来衡量发动机功率的单位。
-3.The engine produces more horsepower than expected. 发动机产生的马力比预期的多。
-[搭] horsepower rating 马力等级。
-[联] horsepower由“horse”（马）和“power”（力量）组成，表示一匹马的力量。crush /krʌʃ/
-v. 压碎，碾碎；击败，压倒；迷恋，极度喜爱。
-[例]
-1. He crushed the can in one hand. 他用手把易拉罐压扁了。
-2. The army crushed the rebellion. 军队镇压了叛乱。
-3. She has a crush on her teacher. 她暗恋她的老师。
-[搭] 
-1.crush injury 压伤
-have a crush on 迷恋，爱上
-[联] 想象一个杯子被手“压碎”(crush)。
-
-crush /krʊʃ/
-n. 粉末，碎屑；大量人群。
-[例]
-1.A pile of crushed ice was placed in the glass. 一杯碎冰放在玻璃杯里。
-2.The crowd formed a crush near the door. 门口聚集了大量人群。
-3.The crusher produced fine crushed material. 碎石机生产出细碎材料。
-[搭] 
-1.crushed rock 碎石
-[联] 想象“粉末”(crush)是由更大的东西被压碎而成。
-
-crash /kræʃ/
-v. 碰撞，坠毁；闯入，强行进入。
-[例]
-1.The car crashed into a tree. 汽车撞上了一棵树。
-2.Hackers crashed the server. 黑客闯入服务器。
-3.We crashed the party without an invitation. 我们没有邀请就闯入派对。
-[搭] 
-1.crash test 碰撞测试
-[联] 想象汽车相撞发出“砰”的声音(crash)。
-
-crash /kræʃ/
-n. 坠毁，碰撞；突然破产。
-[例]
-1.There was a loud crash in the night. 夜晚传来巨大的碰撞声。
-2.The stock market crash happened in 1929. 股市崩盘发生在1929年。
-3.The company avoided a financial crash. 公司避免了财政危机。
-[搭] 
-1.crash course 短训班
-[联] 想象飞机坠毁的声音(crash)。
-
-dash /dæʃ/
-v. 猛冲，飞奔；使破灭，挫败。
-[例]
-1.He dashed across the street. 他猛冲过街道。
-2.His hopes were dashed by the news. 这个消息使他的希望破灭了。
-3.She dashed off a quick letter. 她匆匆写了一封短信。
-[搭] 
-1.dash for it 拼命赶去
-[联] 想象短跑运动员冲刺(dash)。
-
-dash /dæʃ/
-n. 点缀，少量；猛冲，飞奔。
-[例]
-1.Add a dash of salt to the soup. 在汤里加一点盐。
-2.He made a dash for the bus. 他猛冲向公共汽车。
-3.A sudden dash of rain drenched them. 突然一阵雨淋湿了他们。
-[搭] 
-1.a dash of 一点，少许
-[联] 想象在咖啡里加一"dash"(点缀)。
-
-disappear /ˌdɪsəˈpɪr/
-v. 消失，不见；失踪。
-[例]
-1.The stars disappear at sunrise. 星星在日出时消失。
-2.His wallet disappeared from his pocket. 他的钱包从口袋里不见了。
-3.The disease eventually disappeared. 这种疾病最终消失了。
-[搭] 
-1.disappear from sight 不见踪影
-[联] dis-(否定)+ appear(出现)——> 不再出现。
-
-appear /əˈpɪr/
-v. 出现，显现；似乎，好像。
-[例]
-1.The sun appears in the east. 太阳出现在东方。
-2.It appears that he is lying. 看来他在撒谎。
-3.The clouds appeared as dark shapes. 乌云呈现出深色的形状。
-[搭] 
-1.appear on stage 登台表演
-[联] 想象演员登台(appear)。
-
-vanish /ˈvænɪʃ/
-v. 突然消失，不见。
-[例]
-1.The thief vanished into thin air. 小偷突然消失得无影无踪。
-2.The water vapor vanished quickly. 水蒸气很快消失了。
-3.The ship vanished over the horizon. 船只消失在地平线上。
-[搭] 
-1.vanish without a trace 毫无踪迹地消失
-[联] 想象魔术师让物体凭空(vanish)消失。
-
-hazard /ˈhæzərd/
-n. 危险，危害；危险物。
-[例]
-1.Smoking is a serious health hazard. 吸烟是严重的健康危害。
-2.The driver faced many hazards on the road. 司机在路上遇到了许多危险。
-3.The new drug proved to be a serious hazard. 这种新药被证明是一种严重危害。
-[搭] 
-1.hazard warning 危险警告
-[联] 想象危险(hazard)信号。
-
-hazardous /ˈhæzərdəs/
-adj. 有危险的，冒险的。
-[例]
-1.Working at heights is hazardous. 高空作业是有危险的。
-2.The trip through the desert was hazardous. 穿越沙漠之旅非常危险。
-3.Hazardous materials require special handling. 危险品需要特殊处理。
-[搭] 
-1.hazardous waste 危险废物
-[联] 想象充满危险(hazard)的。
-
-harbour /ˈhɑrbər/
-v. 容留，窝藏；怀有（某种感情或意图）。
-[例]
-1.The police believe he harbours dangerous ideas. 警方认为他怀有危险的想法。
-2.They harboured a fugitive for several days. 他们窝藏逃犯几天。
-3.The government harbours no illusions about the situation. 政府对形势毫无幻想。
-[搭] 
-1.harbour ill feelings 怀恨在心
-[联] 想象港口(harbour)容纳船只。
-
-harbour /ˈhɑrbər/
-n. 港口，避难所。
-[例]
-1.The ship docked at the harbour. 船舶停靠在港口。
-2.The small fishing village had a natural harbour. 这个小渔村有一个天然港口。
-3.The cruise liner anchored in the harbour. 巡航船在港口抛锚。
-[搭] 
-1.harbour master 港长
-[联] 想象船只停泊(port)的避风港(harbour)。

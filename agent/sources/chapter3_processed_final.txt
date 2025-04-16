@@ -7,7 +7,7 @@ n. 生物学家
 [搭]
 1.field biologist 野外生物学家
 2.evolutionary biologist 进化生物学家
-[联] biology (生物学) + -ist (表示从事某种职业的人) ——> 生物学研究者
+[联] biology (生物学) + -ist (表示从事某种职业的人) ——> 生物学研究者。
 
 zoologist / zoʊˈɒlədʒɪst;  zuˈɒlədʒɪst /
 n. 动物学家（读音不同是因为重音位置不同）
@@ -16,8 +16,8 @@ n. 动物学家（读音不同是因为重音位置不同）
 2.Zoologists classify animals into different groups based on their characteristics. 动物学家根据动物的特征将它们分类为不同的群体。
 3.The zoologist published a paper on the migration patterns of primates. 这位动物学家发表了一篇关于灵长类动物迁徙模式的论文。
 [搭] 
-1.zoologist research 动物学研究
-[联] zoo (动物园) +ology (学科；科学；学问) ——> 研究动物的学科
+zoologist research 动物学研究
+[联] zoo (动物园) +ology (学科；科学；学问) ——> 研究动物的学科。
 
 ecologist / iˈkɑːlədʒɪst /
 n. 生态学家；生态保护论者
@@ -26,8 +26,8 @@ n. 生态学家；生态保护论者
 2.Ecologists argue that biodiversity is crucial for maintaining ecological balance. 生态学家认为生物多样性对于维持生态平衡至关重要。
 3.The ecologist presented her findings on climate change at the conference. 这位生态学家在会议上展示了她关于气候变化的研究成果。
 [搭] 
-1.ecologist study 生态学研究
-[联] eco (生态) + ology (学科；科学；学问) ——> 研究生态的学科
+ecologist study 生态学研究
+[联] eco (生态) + ology (学科；科学；学问) ——> 研究生态的学科。
 
 botanist / ˈbɑːtənɪst /
 n. 植物学家
@@ -36,8 +36,8 @@ n. 植物学家
 2.Botanists classify plants into different families based on their features. 植物学家根据植物的特性将其分类为不同的科。
 3.The botanist identified several new species of flowers during her expedition. 在她的探险过程中，这位植物学家鉴定出几种新的花卉物种。
 [搭] 
-1.botanist research 植物学研究
-[联] botany (植物学) + ist (从事者) ——> 研究植物的人
+botanist research 植物学研究
+[联] botany (植物学) + ist (从事者) ——> 研究植物的人。
 
 mammal / ˈmæm(ə)l /
 n. 哺乳动物
@@ -46,8 +46,8 @@ n. 哺乳动物
 2.All mammals have hair or fur at some stage of their life cycle. 所有哺乳动物在其生命周期中的某个阶段都有毛发或皮毛。
 3.Mammals are warm-blooded vertebrates. 哺乳动物是温血脊椎动物。
 [搭] 
-1.mammal conservation 哺乳动物保护
-[联] mammary (乳腺的) + al (形容词后缀) ——> 与乳腺相关的动物
+mammal conservation 哺乳动物保护
+[联] mammary (乳腺的) + al (形容词后缀) ——> 与乳腺相关的动物。
 
 primate / ˈpraɪmeɪt /
 n. 灵长目动物（包括人、猴子等）；大主教；首领
@@ -57,11 +57,8 @@ adj. 灵长目动物的；大主教的
 2.Monkeys and apes are both primates. 猴子和猿猴都是灵长类动物。
 3.Primates have opposable thumbs and large brains. 灵长类动物有可对握的手拇指和较大的大脑。
 [搭] 
-1.primate behavior 灵长类行为
-2.primate cognition 灵长类动物的认知
-3.primate city 地理 首位城市；首市；首畏城市
-4.primate panic 猴岛危机
-[联] prima (主要的) + ate (名词后缀) ——> 主要的动物
+primate behavior 灵长类行为
+[联] prima (主要的) + ate (名词后缀) ——> 主要的动物。
 
 vertebrate / ˈvɜːrtɪbrət /
 n. 脊椎动物
@@ -71,9 +68,8 @@ adj. 脊椎动物（有关）的；有脊椎的
 2.Vertebrae protect the spinal cord in vertebrates. 脊椎骨保护脊椎动物的脊髓。
 3.Vertebrates have a backbone. 脊椎动物有脊柱。
 [搭] 
-1.vertebrate anatomy 脊椎动物解剖学
-2.Vertebrate Zoology 脊椎动物学
-[联] vertebra (脊椎骨) + ate (形容词后缀) ——> 有脊椎的动物
+vertebrate anatomy 脊椎动物解剖学
+[联] vertebra (脊椎骨) + ate (形容词后缀) ——> 有脊椎的动物。
 
 reptile / ˈreptaɪl /
 n. 爬行动物；（非正式）卑鄙的人
@@ -83,10 +79,8 @@ adj. 爬行动物的
 2.Reptiles lay eggs and are cold-blooded. 爬行动物产卵且是冷血动物。
 3.Reptiles have dry scales covering their skin. 爬行动物的皮肤覆盖着干燥的鳞片。
 [搭] 
-1.reptile habitat 爬行动物栖息地
-2.marine reptile 海生爬行动物
-3.reptile park 爬行动物公园；动物园；悉尼爬行动物公园
-[联] reptilian (爬虫类的) ——> 与爬行动物相关的
+reptile habitat 爬行动物栖息地
+[联] reptilian (爬虫类的) ——> 与爬行动物相关的。
 
 amphibian / æmˈfɪbiən /
 n. 两栖动物；水陆两用车，水陆两用飞机
@@ -96,11 +90,29 @@ adj. 两栖类的；两栖的
 2.Amphibians can live both in water and on land. 两栖动物既能生活在水中也能生活在陆地上。
 3.Amphibians breathe through their skin. 两栖动物通过皮肤呼吸。
 [搭] 
-1.amphibian migration 两栖动物迁徙
-2.amphi- amphibian 两栖动物
-3.amphibian jeep 水陆两用吉普车
-4.amphibian car 水陆两用汽车
-[联] amph (双) + i (连接) + bian (形容词后缀) ——> 双栖的动物
+amphibian migration 两栖动物迁徙
+[联] amph (双) + i (连接) + bian (形容词后缀) ——> 双栖的动物。
+
+amphibious / æmˈfɪbiəs /
+adj. [生物] 两栖的，水陆两用的；具有双重性的
+[例]
+1.A third brigade is at sea, ready for an amphibious assault. 第三旅在海上待命，随时准备从海上发起进攻。
+2.THE AMPHIBIOUS ERA IS FAR FROM OVER. 两栖协同作战的时代远未结束
+[搭]
+1.amphibious warfare 军 两栖作战; 两栖战
+2.amphibious vehicle 两栖车辆; 车辆 水陆两用车; 水陆两用汽车; 车辆 两栖车
+3.amphibious warfare ship 两栖战舰; 两栖战舰艇; 船,军 两栖作战舰艇; 登陆舰艇
+
+amphiphilic / ˌæmfəˈfɪlɪk /
+adj. 两亲的，两亲性质的；两性分子团的
+[例]
+1.Molecules with both hydrophilic and hydrophobic groups are called amphipathic or amphiphilic. 分子兼有亲水的和疏水的两个基团，叫做两性的或两亲的。
+2.Using a series of water and oil amphiphilic resins to treat wastewater containing emulsifying oil. 用亲水亲油树脂组成的系统对乳化油废水进行处理的研究。
+3.On this basic, we studied the amphiphilic polymer's application to pure organic hydrophilic coating for air-condition. 在此基础上研究了两亲聚合物作为纯有机空调用亲水涂料的应用。
+[搭]
+1.amphiphilic polymer 两亲聚合物; 亲聚合物; 性高分子; 亲性聚合物
+2.amphiphilic surfactant 助剂 两亲型表面活性剂; 面活性剂
+3. amphiphilic block copolymer 两亲嵌段共聚物; 两亲性嵌段共聚物; 两性团联共聚物
 
 carnivore / ˈkɑːrnɪvɔːr /
 n. 食肉动物；喜欢吃肉的人，食肉动物（诙谐说法）
@@ -109,11 +121,8 @@ n. 食肉动物；喜欢吃肉的人，食肉动物（诙谐说法）
 2.Carnivores hunt other animals for food. 肉食动物猎杀其他动物作为食物。
 3.Carnivores have sharp teeth for tearing flesh. 肉食动物有锋利的牙齿用于撕裂肉类。
 [搭] 
-1.carnivore diet 肉食动物饮食
-2.Carnivore Land 肉食之地
-3.top carnivore 顶级食肉动物；顶极食肉动物
-4.Carnivore Restaurant 肉食者餐馆；食肉动物餐厅；肉食者餐厅
-[联] carn (肉) + i (连接) +vore (吃) ——> 吃肉的
+carnivore diet 肉食动物饮食
+[联] carn (肉) + i (连接) +vore (吃) ——> 吃肉的。
 
 herbivore / ˈɜːrbɪvɔːr /
 n. 草食动物
@@ -124,6 +133,16 @@ n. 草食动物
 [搭] 
 herbivore behavior 草食动物行为
 [联] herb (草本植物) + i (连接) +vore (吃) ——> 吃草的。
+
+beast / biːst /
+n. 野兽，猛兽，牲畜；凶暴残忍的人，道德败坏的人；（具有某种特性的）东西，货色
+[例]
+1.The lion is known as the king of all beasts. 狮子被称为百兽之王。
+2.The beast within him was awakened. 他内心深处的野性被唤醒了。
+3.The beast roared in the distance. 那头野兽在远处咆哮。
+[搭]
+1.beast of prey 捕食动物
+[联] beast = "best"（旧拼写），意为“最好的”，这里指强大的、有力的生物。
 
 creature / ˈkriːtʃər /
 n. 生物，动物；（具有某种特征的）人；怪物；受支配的人，产物
@@ -239,19 +258,6 @@ v. 聚集，群集；靠近，盯着；催促，催逼（因而把人激怒或�
 2.The IT Crowd IT狂人; IT一族;
 3.The Crowd 群众; 大众心理研究; 人群
 
-beast / biːst /
-n. 野兽，猛兽，牲畜；凶暴残忍的人，道德败坏的人；（具有某种特性的）东西，货色
-[例]
-1.The lion is considered the king of all beasts. 狮子被认为是百兽之王。
-2.That man is a beast when he's drunk. 那个人喝醉时就像个野兽。
-3.A beast of burden carried the supplies to the camp. 一头负重的牲畜把补给运到了营地。
-[搭] 
-1.beast of prey 捕猎动物
-2.wild beast 野兽
-3.beauty and the beast《美女与野兽》（动画片）
-4.a beast of [口语]粗野；恶劣
-[联] beast = "b" (big) + "east" (strong) ——> 强壮的大动物。
-
 brute / bruːt /
 n. 粗野的人，残忍的人；强壮的男子；大野兽，牲畜；笨重难看的东西，麻烦事
 adj. 不理智的，野兽似的；蛮干不动脑筋的；根本而令人不快的，赤裸裸的
@@ -288,6 +294,18 @@ v. 起源，产生；创始，开创
 2.originate in 首创; 起源于; 产于; 起源
 3.originate in from 起源于
 [联] originate = "origin"（起源）+ "-ate"（动词后缀）——> 使某事物产生。
+
+original / əˈrɪdʒən(ə)l /
+adj. 起初的，原先的；原作的，真迹的；新创作的，未发表的；独创的，新颖的；有独到见解的，有独创性的
+n. （艺术作品或文件的）原件，原稿；（文学作品中人物或地点的）原型；原版书，原版唱片；（根据服装展特制图样定做的）真品原板服装；<非正式>（举止、服装等）怪异滑稽的人，独特有趣的人
+[例]
+1.The original station opened in 1954. 原来的车站是1954年启用的。
+2.The original manuscript has been lost. 原稿已经遗失。
+3.That line isn't in the original script. 原剧本中没有那句台词。
+[搭]
+1.original design 原设计；初始设计
+2.original data 原始资料；源数据
+3.original image 原始图像
 
 derive / dɪˈraɪv /
 v. 获得，取得；起源于，来自；提取，衍生（化学物质）
@@ -356,15 +374,16 @@ v. 分成小组
 1.subgroup analysis 子群分析
 
 feed / fiːd /
-v. 饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；
-n. 哺乳，喂养；动物的饲料，植物的肥料；（机器的）进料装置；（机器、设备的）原料供给；（卫星或网络）转播，（信号）传输；（计算机）订阅源；
-[例]
-1.She feeds her dog every day. 她每天喂狗。
-2.The fire was fed with wood. 火被添加了木头。
-3.My heart feeds on hope. 我的心依赖希望生存。
-[搭] 
-feed on 吃（某种食物）；以……为食；依靠……生活；依赖……；啃噬。
-[联] feed = "f" (food) + "eed" (eat) ——> 提供食物。
+v. 饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；使（缓慢平稳地）移动，使穿过（有限的空间）；传球；流入，进入
+n. 哺乳，喂养；动物的饲料，植物的肥料；（机器的）进料装置；（机器、设备的）原料供给；（卫星或网络）转播，（信号）传输；（计算机）订阅源；（给舞台演员的）提词，提白；
+[例]  
+1.The farmer feeds his cows every morning. 农民每天早上喂他的奶牛。
+2.The machine is fed by electricity. 这台机器由电力供能。
+3.I feed on news from different sources. 我从不同的渠道获取新闻。
+[搭]  
+1.feed on 吃…为生；以…为食  
+2.feed into 提供，输入（数据、信息等）。  
+[联] feed与food有关联，都是与“食物”相关。
 [时] 复数feeds 第三人称单数feeds 现在分词feeding 过去式fed 过去分词fed
 
 breed / briːd /
@@ -415,6 +434,17 @@ v. <正式>（在数或量上）激增，猛增；使（细胞、组织、结构
 2.Lotus Proliferate-Flower Form 荷花台阁型
 3.Rose Proliferate-Flower Form 蔷薇台阁型
 
+sterile / ˈsterəl /
+adj. 无生殖能力的，不育的；无菌的，消过毒的；（争论或讨论）毫无新意的，无结果的；（建筑、房间等）呆板的，乏味的；（土地）贫瘠的，不长作物的
+[例]
+1.He was able to bring large sterile acreages back to fertility. 他能把大片不毛之地变回沃土。
+2.He always made sure that any cuts were protected by sterile dressings. 他总是确保所有伤口都用无菌的敷料包好。
+3.This top fits over the bottle and keeps the teat sterile. 这个盖子盖在瓶子上，保持奶嘴无菌。
+[搭]
+1.sterile neutrino 惰性中微子; 惰性微中子
+2.The Sterile Cuckoo 何日卿再来; 三月情花开
+3.male sterile line 不育系
+
 sterility / stəˈrɪləti /
 n. [泌尿] 不育；[妇产] 不孕；无菌；不毛；内容贫乏
 [例]  
@@ -439,6 +469,18 @@ v.（使）交配；连接，配备；（国际象棋中把对方）将死
 1.mating call 求偶叫声
 2.soul mate  灵魂伴侣; 心灵伴侣; 性情相投的人; 心心相印的伙伴
 [联] mate与pair相关，都与“配对”有关。  
+
+court / kɔːrt /
+n. 法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；董事（会），理事（会）；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼
+v. 奉承，讨好；设法取得，追求；招致，引起（不愉快的事）；谈恋爱，求爱
+[例]
+1.The court adjourned for lunch. 午餐时间法庭休庭。
+2.The court is now in session. 法庭现在正在开庭。
+3.Please tell the court what happened. 请向法庭陈述事情的经过。
+[搭]
+1.Supreme Court 最高法院; 高等法院; 最高法庭; 最高裁判所
+2.tennis court 网球场; 国度网球场; 网球场图片; 球场
+3.High Court 法 高等法院; 高级法院; 最高法院; 高等法庭
 
 courtship / ˈkɔːrtʃɪp /
 n. 求爱；求婚；求偶行为。  
@@ -484,14 +526,16 @@ v. 孵蛋；沉思，担忧
 n. 一窝幼雏；一大家孩子；幼蜂
 adj. 传种的，为繁殖而饲养的
 [例]
-1.He brooded over the problem for days. 他几天来一直在思考这个问题。
-2.The hen is brooding. 母鸡正在孵蛋。
-3.I brood about my future. 我在思考我的未来。
+1.Mother hen is brooding over her eggs. 母鸡正在孵蛋。
+2.He brooded over his failure for days. 他几天来一直为失败而苦恼。
+3.Brood on your problems, and you will find solutions. 深思你的问题，你会找到解决办法。
 [搭] 
-1.brood over 深思；沉思；忧心忡忡地思索
-2.brood on 念念不忘， 计较（特指忿恨不满）
-3.brood pouch 育仔囊；育儿袋
-[联] brood = "broo" (brother) + "d" (do) ——> 兄弟们一起做。
+1.brood over 沉浸于（不愉快的事）；郁闷地沉思
+2.brood patch 抱卵点
+3.brood parasite 巢寄生; 幼体寄生
+4.brood on 念念不忘， 计较
+5.brood pouch 育仔囊；育儿袋
+[联] brood 像“broth”（汤），想象母鸡在温暖的汤中孵蛋。
 
 spawn / spɑːn /
 v.（鱼、青蛙、软体动物、甲壳类等）产卵；引发，促生；大量生产；<贬>（人）生（孩子，多指不想要的孩子）；用菌种体栽培
@@ -604,18 +648,15 @@ v. 用羽毛装饰；羽毛状展开；（鸟）整理羽毛；（人）搔首�
 [联] plume 联想到“plump”（丰满），想象羽毛丰满的样子。
 
 feather / ˈfeðər /
-n. 羽毛
-v. 用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；小心翼翼地把……混合起来（或把……弄平）
+n. 羽毛；绒毛；饰羽
+v.用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；
 [例]
-1.The bird has beautiful feathers. 这只鸟有漂亮的羽毛。
-2.The wind feathered the surface of the water. 风轻拂着水面。
-3.The artist feathered the paint to create a soft effect. 艺术家用画笔轻轻涂抹颜料，创造出柔和的效果。
+1.The bird used its feathers to keep warm. 这只鸟用羽毛来保暖。
+2.His hat had a feather in it. 他的帽子上插着一根羽毛。
+3.The artist used feathers to paint delicate designs. 这位艺术家用羽毛绘制精致的设计。
 [搭] 
-1.feather one's nest 谋取私利；中饱私囊。
-2.birds of a feather 一丘之貉
-3.white feather 白羽毛（怯懦的象征）；胆怯，害怕
-4.feather fan 羽毛扇
-[联] feather = "f" (flight) + "eather" (light) ——> 轻盈飞翔。
+feather bed 羽毛床垫；非常柔软的床。
+[联] feather 和“翅膀”相关联，翅膀由羽毛组成。
 
 fur / fɜːr /
 n.（某些动物的）软毛，柔毛；毛皮，裘皮；毛皮衣服，皮草；<英> 水垢，水碱；舌苔
@@ -731,6 +772,70 @@ adj. 蝴蝶状
 3.Butterfly Lovers 梁祝; 梁山伯与祝英台; 化蝶; 剑蝶
 [联] butterfly 和“美丽”相关联，蝴蝶常被视为美丽的象征。
 
+elephant / ˈelɪfənt /
+n. 象；大号图画纸
+[例]
+1.The elephant is the largest land animal in the world. 大象是陆地上最大的动物。
+2.A group of elephants is called a herd. 大象群被称为一个“ herd”。
+3.The elephant's trunk can lift up to 700 pounds. 大象的长鼻可以举起高达700磅的物体。
+[搭]
+1.white elephant 白象，灰色象（在印度、东南亚被视为神圣之物）；无价值的东西
+2.elephant seal 象海豹；海象
+3.african elephant 非洲象
+
+beast / biːst /
+n. 野兽，猛兽，牲畜；凶暴残忍的人，道德败坏的人；（具有某种特性的）东西，货色
+[例]
+1.The lion is considered the king of all beasts. 狮子被认为是百兽之王。
+2.That man is a beast when he's drunk. 那个人喝醉时就像个野兽。
+3.A beast of burden carried the supplies to the camp. 一头负重的牲畜把补给运到了营地。
+[搭] 
+1.beast of prey 捕猎动物
+2.wild beast 野兽
+3.beauty and the beast《美女与野兽》（动画片）
+4.a beast of [口语]粗野；恶劣
+[联] beast = "b" (big) + "east" (strong) ——> 强壮的大动物。
+
+feed / fiːd /
+v. 饲养，喂养，为……提供食物；以……为食物，吃食；提供（意见或信息等），灌输；施肥；添加燃料；把……放进机器，将……塞进机器；加深，强化；
+n. 哺乳，喂养；动物的饲料，植物的肥料；（机器的）进料装置；（机器、设备的）原料供给；（卫星或网络）转播，（信号）传输；（计算机）订阅源；
+[例]
+1.She feeds her dog every day. 她每天喂狗。
+2.The fire was fed with wood. 火被添加了木头。
+3.My heart feeds on hope. 我的心依赖希望生存。
+[搭] 
+feed on 吃（某种食物）；以……为食；依靠……生活；依赖……；啃噬。
+[联] feed = "f" (food) + "eed" (eat) ——> 提供食物。
+[时] 复数feeds 第三人称单数feeds 现在分词feeding 过去式fed 过去分词fed
+
+brood / bruːd /
+v. 孵蛋；沉思，担忧
+n. 一窝幼雏；一大家孩子；幼蜂
+adj. 传种的，为繁殖而饲养的
+[例]
+1.He brooded over the problem for days. 他几天来一直在思考这个问题。
+2.The hen is brooding. 母鸡正在孵蛋。
+3.I brood about my future. 我在思考我的未来。
+[搭] 
+1.brood over 深思；沉思；忧心忡忡地思索
+2.brood on 念念不忘， 计较（特指忿恨不满）
+3.brood pouch 育仔囊；育儿袋
+[联] brood = "broo" (brother) + "d" (do) ——> 兄弟们一起做。
+
+feather / ˈfeðər /
+n. 羽毛
+v. 用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；小心翼翼地把……混合起来（或把……弄平）
+[例]
+1.The bird has beautiful feathers. 这只鸟有漂亮的羽毛。
+2.The wind feathered the surface of the water. 风轻拂着水面。
+3.The artist feathered the paint to create a soft effect. 艺术家用画笔轻轻涂抹颜料，创造出柔和的效果。
+[搭] 
+1.feather one's nest 谋取私利；中饱私囊。
+2.birds of a feather 一丘之貉
+3.white feather 白羽毛（怯懦的象征）；胆怯，害怕
+4.feather fan 羽毛扇
+[联] feather = "f" (flight) + "eather" (light) ——> 轻盈飞翔。
+
 mosquito / məˈskiːtoʊ /
 n. 蚊子
 [例]
@@ -798,70 +903,6 @@ v. 翻到背面或顶部；（尤指在水中）捕捉海龟
 1.turtle soup 海龟汤
 2.a little turtle 一只小海龟
 [联] turtle = "tur" (turn) + "tle" (shell) ——> 转动的壳。
-
-whale / weɪl /
-n. 鲸；<非正式>巨大的东西
-v. <美，非正式>殴打，猛击；捕鲸；使惨败
-[例]
-1.The whale is one of the largest animals in the world. 鲸鱼是世界上最大的动物之一。
-2.A whale can weigh up to 200 tons. 一头鲸鱼可以重达200吨。
-3.Scientists study whales to understand their behavior. 科学家们研究鲸鱼以了解它们的行为。
-[搭] 
-1.whale watching 观赏鲸鱼
-2.a whale of a [美国口语]了不起的，非常大的，极大的；极好的，精彩的
-3.blue whale [动]蓝鲸
-4.sperm whale 巨头鲸；抹香鲸（等于Physeter catodon）
-[联] whale 和 well 发音相似，可联想为“井”（well），想象一口深井中有一头巨大的鲸鱼
-
-kangaroo / ˌkæŋɡəˈruː /
-n. 袋鼠
-v.（汽车）因离合控制不当而前移，使（汽车）突然猛地短距离前移；对婴儿进行袋鼠式护理；捕猎袋鼠；像袋鼠一样移动
-[例]
-1.Kangaroos are native to Australia. 袋鼠是澳大利亚特有的动物。
-2.The kangaroo uses its tail for balance when jumping. 袋鼠跳跃时用尾巴保持平衡。
-3.Kangaroos can jump as high as 9 meters. 袋鼠能跳高达9米。
-[搭] 
-1.kangaroo island 袋鼠岛（澳大利亚岛，等于坎加鲁岛）
-2.A kangaroo has a pouch 袋鼠有育儿袋
-[联] kangaroo 和 kangaroo pouch（袋鼠育儿袋）联系起来记忆。
-
-camel / ˈkæm(ə)l /
-n. 骆驼；驼绒织品；驼色，浅黄褐色；打捞浮筒
-adj. 驼色的，暗棕色的
-[例]
-1.The camel can survive in the desert for days without water. 骆驼可以在沙漠中数天不喝水生存。
-2.Camels have long been used for transportation in deserts. 骆驼长期以来被用于沙漠中的运输。
-3.Travelers often rely on camels for long journeys. 旅行者经常依靠骆驼进行长途旅行。
-[搭] 
-1.desert camel 沙漠中的骆驼
-2.camel hair 驼绒；骆驼毛
-3. bactrian camel 双峰驼
-[联] camel 和 camel hump（驼峰）联系起来记忆。
-
-panda / ˈpændə /
-n. 熊猫
-[例]
-1.Pandas are an endangered species. 熊猫是一种濒危物种。
-2.Children love pandas because they are cute. 孩子们喜欢熊猫，因为它们很可爱。
-3.Zoos around the world try to breed pandas. 全世界的动物园都在努力繁殖熊猫。
-[搭] 
-1.panda bear 熊猫
-2.Kung Fu Panda 功夫熊猫; 工夫熊猫; 功夫熊猫系列
-3.giant panda 大猫熊; 英文名; 熊猫
-[联] panda 和 panda habitat（熊猫栖息地）联系起来记忆。
-
-elephant / ˈelɪfənt /
-n. 象；大号图画纸
-[例]
-1.Elephants are known for their long trunks. 大象以其长长的鼻子而闻名。
-2.An elephant never forgets. 大象永远不会忘记。（谚语）
-3.Elephants are social animals. 大象是群居动物。
-[搭] 
-1.elephant memory 大象的记忆力
-2.white elephant 白象，灰色象（在印度、东南亚被视为神圣之物）；无价值的东西
-3.elephant seal 象海豹；海象
-4.african elephant 非洲象
-[联] elephant 和 ele (大象的长牙) + phant (幻影) 联想记忆
 
 trunk / trʌŋk /
 n. 树干；（人或动物的）躯干；象鼻；<美>（汽车后部的）行李箱，后备箱；旅行箱，衣箱；男式游泳裤（trunks）；大血管，神经干；电缆管道，通风管；拳击手短裤（trunks）
@@ -937,6 +978,17 @@ n.（传说中的）西方的龙；恶龙；悍妇，母夜叉；<澳>蜥蜴（=
 1.fire-breathing dragon 喷火的龙
 [联] 龙是神秘且强大的生物
 
+loong / lʊŋ/
+n. 龙：通常指的是东方的龙，特别是中国文化中的龙，它在中国文化中具有尊贵和积极的象征意义，被视为帮助人类的动物
+[例]
+1.In 2004, a new post of Minister Mentor was invented for him in the cabinet of the government headed by his son, Lee Hsien Loong. 2004年，他的儿子李显龙（Lee Hsien Loong）领导的政府内阁为他设立了一个新的内阁资政职位。
+2.Lee Hsien Loong, the prime minister of Singapore, tops our list of selected leaders' salaries. He is paid more than 40 times the city-state's GDP per person. 新加坡总理李显龙在我们选出的领导人薪资排行榜上名列榜首。他的工资是这个城市国家人均GDP的40多倍。
+3.Loong is the merger of totem culture. 龙是图腾文化的融合。
+[搭]
+1.SZE HING LOONG 时兴隆; 时髦隆; 时兴旺; 时昌隆
+2.The tale of Loong 御龙物语
+3.Yan Loong Legend 炎龙传说
+
 fox / fɑːks /
 n. 狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人
 v. 欺骗，耍弄；把……难住，使……猜不透
@@ -975,6 +1027,85 @@ n. 小牛，牛犊；腓肠，小腿肚；（象、鲸等的）崽，幼兽；�
 4.calf love 初恋；早恋（指少男少女之间短暂的爱情）
 [联] calf 和 "baby" 联想，因为都是指幼小的动物
 
+harness / ˈhɑːrnɪs /
+v. 控制并利用；（把动物）拴在一起（或拴到某物上）；给（马）套上挽具；连接，串联
+n.（马的）挽具，马具；系带，吊带；日常工作
+[例]  
+1.The farmer spent hours repairing the harness of his horse. 农民花了好几个小时修理马的挽具。  
+2.The rescue team used special harnesses to lower themselves into the cave. 救援队使用特殊的挽具把自己降到洞穴中。  
+3.A dog's harness is different from a cat's harness. 狗的挽具和猫的挽具是不同的。  
+[搭]  
+1.harness the wind 利用风能  
+2.put a harness on 控制，驾驭
+3.harness leather 马具革
+4.wiring harness 线束
+5.wire harness 线束；电子线束；配线
+[联] har(n) (拉) + ness (状态，性质) ——> 像挽具一样控制或束缚某物的状态
+
+whale / weɪl /
+n. 鲸；<非正式>巨大的东西
+v. <美，非正式>殴打，猛击；捕鲸；使惨败
+[例]
+1.The whale is one of the largest animals in the world. 鲸鱼是世界上最大的动物之一。
+2.A whale can weigh up to 200 tons. 一头鲸鱼可以重达200吨。
+3.Scientists study whales to understand their behavior. 科学家们研究鲸鱼以了解它们的行为。
+[搭] 
+1.whale watching 观赏鲸鱼
+2.a whale of a [美国口语]了不起的，非常大的，极大的；极好的，精彩的
+3.blue whale [动]蓝鲸
+4.sperm whale 巨头鲸；抹香鲸（等于Physeter catodon）
+[联] whale 和 well 发音相似，可联想为“井”（well），想象一口深井中有一头巨大的鲸鱼
+
+kangaroo / ˌkæŋɡəˈruː /
+n. 袋鼠
+v.（汽车）因离合控制不当而前移，使（汽车）突然猛地短距离前移；对婴儿进行袋鼠式护理；捕猎袋鼠；像袋鼠一样移动
+[例]
+1.Kangaroos are native to Australia. 袋鼠是澳大利亚特有的动物。
+2.The kangaroo uses its tail for balance when jumping. 袋鼠跳跃时用尾巴保持平衡。
+3.Kangaroos can jump as high as 9 meters. 袋鼠能跳高达9米。
+[搭] 
+1.kangaroo island 袋鼠岛（澳大利亚岛，等于坎加鲁岛）
+2.A kangaroo has a pouch 袋鼠有育儿袋
+[联] kangaroo 和 kangaroo pouch（袋鼠育儿袋）联系起来记忆。
+
+camel / ˈkæm(ə)l /
+n. 骆驼；驼绒织品；驼色，浅黄褐色；打捞浮筒
+adj. 驼色的，暗棕色的
+[例]
+1.The camel can survive in the desert for days without water. 骆驼可以在沙漠中数天不喝水生存。
+2.Camels have long been used for transportation in deserts. 骆驼长期以来被用于沙漠中的运输。
+3.Travelers often rely on camels for long journeys. 旅行者经常依靠骆驼进行长途旅行。
+[搭] 
+1.desert camel 沙漠中的骆驼
+2.camel hair 驼绒；骆驼毛
+3. bactrian camel 双峰驼
+[联] camel 和 camel hump（驼峰）联系起来记忆。
+
+panda / ˈpændə /
+n. 熊猫
+[例]
+1.Pandas are an endangered species. 熊猫是一种濒危物种。
+2.Children love pandas because they are cute. 孩子们喜欢熊猫，因为它们很可爱。
+3.Zoos around the world try to breed pandas. 全世界的动物园都在努力繁殖熊猫。
+[搭] 
+1.panda bear 熊猫
+2.Kung Fu Panda 功夫熊猫; 工夫熊猫; 功夫熊猫系列
+3.giant panda 大猫熊; 英文名; 熊猫
+[联] panda 和 panda habitat（熊猫栖息地）联系起来记忆。
+
+elephant / ˈelɪfənt /
+n. 象；大号图画纸
+[例]
+1.Elephants are known for their long trunks. 大象以其长长的鼻子而闻名。
+2.An elephant never forgets. 大象永远不会忘记。（谚语）
+3.Elephants are social animals. 大象是群居动物。
+[搭] 
+1.elephant memory 大象的记忆力
+2.white elephant 白象，灰色象（在印度、东南亚被视为神圣之物）；无价值的东西
+3.elephant seal 象海豹；海象
+4.african elephant 非洲象
+[联] elephant 和 ele (大象的长牙) + phant (幻影) 联想记忆
+
 pup / pʌp /
 n. 小狗，幼犬；（海豹等的）幼崽；<旧>讨人厌的年轻人，没教养的年轻人
 v.（母狗等雌兽）产仔；生（小狗等小动物）
@@ -1011,6 +1142,21 @@ n. 牛（复数）；家牛（包括牦牛、犎牛及水牛）
 4.cattle hide 牛皮
 [联] cattle 和 cattle drive（驱赶牛群）联系起来记忆。
 
+bull / bʊl /
+n. 公牛；雄性大型动物；买空者，多头；教皇诏书，教皇训谕；<非正式>废话，胡说八道；靶心
+v. <非正式>用力推，猛推；（母牛）发情
+[例]
+1.He was gored by a bull. 他被公牛顶伤。
+2.That's a load of bull! 那是胡说八道！
+3.The bull put its head down and charged. 公牛低下头猛冲过来。
+[搭]
+1.bull market 多头市场；股市中的牛市；旺市（行情看涨的市场）
+2.bull run 布尔溪（美国一小溪，曾是南北战争中的重要战场）
+3.bull terrier 牛头犬与狸杂交而生的狗
+4.bull session 长时间的讨论会（尤指毫无结果的）
+5.a bullish trend 看涨的趋势
+[联] bull (公牛) ——> 强壮、有力的形象。
+
 ox / ɑːks /
 n. 去势公牛，阉牛；牛（指大的母牛或公牛）
 [例]
@@ -1032,98 +1178,6 @@ pl. 公牛；阉牛。
 2.cooked chopped entrails of oxen 牛杂烩
 3.ox-oxen 公牛
 [联] oxen 和 ox（单数形式）联系起来记忆
-
-bull / bʊl /
-n. 公牛；雄性大型动物；买空者，多头；教皇诏书，教皇训谕；<非正式>废话，胡说八道；靶心
-v. <非正式>用力推，猛推；（母牛）发情
-[例]
-1.He was gored by a bull. 他被公牛顶伤。
-2.That's a load of bull! 那是胡说八道！
-3.The bull put its head down and charged. 公牛低下头猛冲过来。
-[搭]
-1.bull market 多头市场；股市中的牛市；旺市（行情看涨的市场）
-2.bull run 布尔溪（美国一小溪，曾是南北战争中的重要战场）
-3.bull terrier 牛头犬与狸杂交而生的狗
-4.bull session 长时间的讨论会（尤指毫无结果的）
-5.a bullish trend 看涨的趋势
-[联] bull (公牛) ——> 强壮、有力的形象。
-
-buffalo / ˈbʌfəloʊ /
-n. 野牛，犎牛；水牛；牛胭鱼
-v. 为难，使困惑；<美，非正式>吓唬，威吓
-[例]
-1.African buffalo are dangerous animals. 非洲水牛是危险的动物。
-2.The zookeeper fed the buffalo some hay. 动物园管理员给水牛喂了些干草。
-3.The buffalo stood still in the field. 水牛静静地站在田野里。
-[搭] 
-1.water buffalo 水牛
-[联] buffalo (水牛) ——> 联想到非洲草原上的大型动物。
-
-horse / hɔrs /
-n. 马；<非正式>赛马；跳马，鞍马；锯木架；<非正式>马力；<美，非正式>主力队员；<非正式>海洛因；夹块，夹石；骑兵
-v. 给（人或车辆）提供马；使骑马
-[例]
-1.The horse galloped across the field. 马飞快地跑过田野。
-2.He rides a horse every weekend. 他每周末都骑马。
-3.The horse pulled the cart with great strength. 这匹马拉着车用了很大的力气。
-[搭]
-1.racehorse 赛马
-2.horseback riding 骑马
-3.Dark Horse 黑马；冷门；大黑马；超等黑马
-4.Trojan Horse 特洛伊木马；特洛依木马；木马；特洛伊木马程序
-5.War Horse 战马；雷霆战驹；有框画；电影海报
-[联] horse (马) ——> 联想到赛马场或乡村田园
-
-zebra / ˈziːbrə /
-n. 斑马。
-[例]
-1.The zebra is a beautiful animal. 斑马是一种美丽的动物。
-2.The zebra and the lion were close to each other. 斑马和狮子离得很近。
-3.The zebra's stripes help it blend into its surroundings. 斑马的条纹帮助它融入周围环境。
-[搭]
-1.zebra crossing 斑马线
-2.plains zebra 平原斑马；草原斑马；普通斑马
-[联] zebra (斑马) ——> 联想到黑白相间的条纹
-
-donkey / ˈdɑːŋki /
-n. 驴；<非正式>蠢人，傻瓜；<非正式>发动机；（尤指在艺术学校中供艺术家跨坐的）低凳；（儿童玩的）换牌纸牌戏
-[例]
-1.The donkey carried heavy loads. 驴驮着重物。
-2.The donkey followed the farmer closely. 驴紧紧地跟着农夫。
-3.The donkey brayed loudly. 驴大声地叫。
-[搭]
-1.donkey work 繁重的工作
-[联] donkey (驴) ——> 联想到勤劳的象征。
-
-saddle / ˈsæd(ə)l /
-n. 鞍，马鞍；（自行车或摩托车的）车座；（羊、兔或鹿的）脊肉；（电缆、电线或管的）托架；（役马的）鞍部；（山的）鞍部；鞍点
-v. 给（马）装鞍；（驯马师）使（马）参加比赛；使承担（责任、任务），使负重担；跨上马鞍
-[例]
-1.The cowboy put the saddle on the horse. 牛仔把马鞍放在马上。
-2.The weight of the world seemed to saddle him. 世界的重量似乎让他不堪重负。
-3.She learned how to saddle a horse. 她学会了如何给马装上马鞍。
-[搭]
-1.saddlebag 马鞍袋
-2.saddle point 数 鞍点；马鞍点；富宝点；鞍马点
-3.saddle chair 马鞍椅
-4.in the saddle 掌权；在职
-5.saddle point 鞍点
-6.saddle up 备马；给马装上鞍
-[联] saddle (马鞍) ——> 联想到骑马旅行
-
-harness / ˈhɑːrnɪs /
-v. 控制并利用；（把动物）拴在一起（或拴到某物上）；给（马）套上挽具；连接，串联
-n.（马的）挽具，马具；系带，吊带；日常工作
-[例]
-1.The harness kept the horse under control. 马具让马保持受控状态。
-2.They harnessed the power of the wind. 他们利用了风的力量。
-3.The company harnessed new technology to improve efficiency. 公司利用新技术提高效率。
-[搭]
-1.harness the energy of the sun 利用太阳能
-2.in harness 一起合作；在日常工作中
-3.wiring harness 线束
-4.wire harness 线束；电子线束；配线
-[联] harness (马具) ——> 联想到驾驭力量
 
 falcon / ˈfælkən /
 n. 雕，猎鹰  
@@ -1235,19 +1289,17 @@ v. <英，非正式>无目的地漫游，闲逛
 1.swan song 最后的作品，告别之作  
 [联] swan (可能源于其高贵的形象)。
 
-goose / ɡuːs /
-n. 鹅；鹅肉；雌鹅；<非正式> 傻瓜；（裁缝用的）熨斗
-v. <美，非正式> 触摸（或捏）某人的臀部；<美，非正式> 推动，激励；<非正式>开大（汽车等）的油门；<非正式>作嘘嘘声反对（某人）
+goose /guːs/ or /ɡus/
+n. 鹅；(pl.) 鹅毛笔；(pl.) 枪套
 [例]
-1.The goose honked loudly. 鹅大声地叫。
-2.The mother goose led her babies to the pond. 母鹅带领她的孩子们去池塘。
-3.The geese flew in a V formation. 鹅群以V字形飞行。
-[搭]
-1.goose bumps 鸡皮疙瘩
-2.wild goose 野鹅，雁
-3.goose liver 鹅肝
-4.swan goose 鸿雁，鹅雁
-[联] goose (鹅) ——> 联想到农场里的家禽
+1.The goose honked loudly as it swam in the pond. 鹅在池塘里游动时大声鸣叫。
+2.A farmer was herding a group of geese towards the barn. 农夫正在把一群鹅赶向谷仓。
+3.I used to write letters with a goose quill pen. 我过去常常用鹅毛笔写信。
+[搭] 
+1.Black Swan 黑天鹅；黑鹄鹅；珍品
+2.Swan Lake 天鹅湖；白鸟之湖；天鹅湖专辑；男版天鹅湖
+3.Swan Song 天鹅之歌；绝笔；最后杰作； 最后作品
+[联] goose 的发音与“谷”相似，想到吃谷物长大的鹅。
 
 cock / kɑːk /
 n. 公鸡；雄禽；<英>老兄，伙计；<英>雄龙虾，雄螃蟹，雄鲑鱼；<英，非正式>胡说，废话；阴茎；龙头，阀门；（枪的）击铁，撞针；头目
@@ -1331,6 +1383,41 @@ v. 捕蛙
 5.green frog 绿蛙；池蛙
 [联] frog 的发音与“佛洛格”相似，记住绿色的两栖动物。
 
+behave / bɪˈheɪv /
+v. 行为，表现；起反应，起作用；守规矩，举止得体
+[例]
+1.Will you kids just behave! 孩子们，规矩点！
+2.Boys and girls may behave differently. 男孩儿和女孩儿的表现可能不同。
+3.Children must learn to behave at table. 小孩必须学会吃饭时的规矩。
+[搭]
+1.clinic behave 临床表现；临床表现各异
+2.behave yourself 劝人要有礼貌和行为检点；行为规矩些
+3.behave as 表现为
+4.behave oneself 使举止规矩
+5.behave well 表现好；举止得体；行为检点；表现良好
+
+behavioral / bɪˈheɪvjərəl /
+adj. 行为的
+[例]
+1.What do you mean by the behavioral aspects? 你说的行为方面是什么意思？
+2.Finally, attitudes have a behavioral component. 最后，态度具有行为上的成分。
+3.Then, of course, there are the behavioral aspects. 当然还有行为方面。
+[搭]
+1.behavioral science 行为科学
+2.behavioral economics 行为经济学（经济学的一个范畴，研究实际决策程序对最后作出决策的影响）
+3.behavioral intention 行为意向；行为意图
+
+behavior / bɪˈheɪvjər /
+n. 行为，举止；态度；反应
+[例]
+1.Your behavior was very remiss. 你的行为很失礼。
+2.Listening is a polite behavior. 倾听是礼貌的行为。
+3.His behavior was in good taste. 他的行为很得体。
+[搭]
+1.dynamic behavior 动态行为；动态特性；能动行为
+2.mechanical behavior 机械特性；力学特征；机械行为
+3.consumer behavior 消费者的行为
+
 behaviour / bɪˈheɪvjər /
 n. 行为，举止，态度；活动方式，特点，特性；习惯
 [例]
@@ -1375,6 +1462,113 @@ n. 刺伤处，蜇伤处；（植物、水母等的）刺毛； 刺痛，灼痛�
 5.sting operation 突击圈套 ；精心设计的行动
 [联] sting 的发音与“斯汀”相似，记住是昆虫的动作
 
+stable / ˈsteɪb(ə)l /
+adj. 稳定的，牢固的；稳重的，沉稳的；（化学结构或物理状态）稳定的
+n. 马厩；（属同一马主或驯马师的）一群赛马；（在同一地方工作或训练的）一批人，（同一公司生产的）系列产品；赛马训练场
+v. 使（马）入厩，把（马）拴在马厩
+[例]  
+1.The economy is stable despite the crisis. 即使在危机中，经济仍然稳定。  
+2.Her emotional state has been stable for months. 她的情绪状态已经稳定了几个月。  
+3.The company's production has remained stable over the years. 公司多年来生产一直保持稳定。  
+[搭]  
+1.stable growth 稳定增长  
+2.stable environment 稳定的环境
+3.stable isotope 核 稳定同位素；稳定性同位素；定同位素；不变同位素
+4.stable distribution 数 稳定分布；稳态分布
+5.stable marriage problem 稳定婚姻；稳定婚配问题；定婚姻
+[联] 来自拉丁语 "stabilis"，意思是稳固的
+
+buffalo / ˈbʌfəloʊ /
+n. 野牛，犎牛；水牛；牛胭鱼
+v. 为难，使困惑；<美，非正式>吓唬，威吓
+[例]
+1.African buffalo are dangerous animals. 非洲水牛是危险的动物。
+2.The zookeeper fed the buffalo some hay. 动物园管理员给水牛喂了些干草。
+3.The buffalo stood still in the field. 水牛静静地站在田野里。
+[搭] 
+1.water buffalo 水牛
+[联] buffalo (水牛) ——> 联想到非洲草原上的大型动物。
+
+horse / hɔrs /
+n. 马；<非正式>赛马；跳马，鞍马；锯木架；<非正式>马力；<美，非正式>主力队员；<非正式>海洛因；夹块，夹石；骑兵
+v. 给（人或车辆）提供马；使骑马
+[例]
+1.The horse galloped across the field. 马飞快地跑过田野。
+2.He rides a horse every weekend. 他每周末都骑马。
+3.The horse pulled the cart with great strength. 这匹马拉着车用了很大的力气。
+[搭]
+1.racehorse 赛马
+2.horseback riding 骑马
+3.Dark Horse 黑马；冷门；大黑马；超等黑马
+4.Trojan Horse 特洛伊木马；特洛依木马；木马；特洛伊木马程序
+5.War Horse 战马；雷霆战驹；有框画；电影海报
+[联] horse (马) ——> 联想到赛马场或乡村田园
+
+zebra / ˈziːbrə /
+n. 斑马。
+[例]
+1.The zebra is a beautiful animal. 斑马是一种美丽的动物。
+2.The zebra and the lion were close to each other. 斑马和狮子离得很近。
+3.The zebra's stripes help it blend into its surroundings. 斑马的条纹帮助它融入周围环境。
+[搭]
+1.zebra crossing 斑马线
+2.plains zebra 平原斑马；草原斑马；普通斑马
+[联] zebra (斑马) ——> 联想到黑白相间的条纹
+
+donkey / ˈdɑːŋki /
+n. 驴；<非正式>蠢人，傻瓜；<非正式>发动机；（尤指在艺术学校中供艺术家跨坐的）低凳；（儿童玩的）换牌纸牌戏
+[例]
+1.The donkey carried heavy loads. 驴驮着重物。
+2.The donkey followed the farmer closely. 驴紧紧地跟着农夫。
+3.The donkey brayed loudly. 驴大声地叫。
+[搭]
+1.donkey work 繁重的工作
+[联] donkey (驴) ——> 联想到勤劳的象征。
+
+saddle / ˈsæd(ə)l /
+n. 鞍，马鞍；（自行车或摩托车的）车座；（羊、兔或鹿的）脊肉；（电缆、电线或管的）托架；（役马的）鞍部；（山的）鞍部；鞍点
+v. 给（马）装鞍；（驯马师）使（马）参加比赛；使承担（责任、任务），使负重担；跨上马鞍
+[例]
+1.The cowboy put the saddle on the horse. 牛仔把马鞍放在马上。
+2.The weight of the world seemed to saddle him. 世界的重量似乎让他不堪重负。
+3.She learned how to saddle a horse. 她学会了如何给马装上马鞍。
+[搭]
+1.saddlebag 马鞍袋
+2.saddle point 数 鞍点；马鞍点；富宝点；鞍马点
+3.saddle chair 马鞍椅
+4.in the saddle 掌权；在职
+5.saddle point 鞍点
+6.saddle up 备马；给马装上鞍
+[联] saddle (马鞍) ——> 联想到骑马旅行
+
+harness / ˈhɑːrnɪs /
+v. 控制并利用；（把动物）拴在一起（或拴到某物上）；给（马）套上挽具；连接，串联
+n.（马的）挽具，马具；系带，吊带；日常工作
+[例]
+1.The harness kept the horse under control. 马具让马保持受控状态。
+2.They harnessed the power of the wind. 他们利用了风的力量。
+3.The company harnessed new technology to improve efficiency. 公司利用新技术提高效率。
+[搭]
+1.harness the energy of the sun 利用太阳能
+2.in harness 一起合作；在日常工作中
+3.wiring harness 线束
+4.wire harness 线束；电子线束；配线
+[联] harness (马具) ——> 联想到驾驭力量
+
+goose / ɡuːs /
+n. 鹅；鹅肉；雌鹅；<非正式> 傻瓜；（裁缝用的）熨斗
+v. <美，非正式> 触摸（或捏）某人的臀部；<美，非正式> 推动，激励；<非正式>开大（汽车等）的油门；<非正式>作嘘嘘声反对（某人）
+[例]
+1.The goose honked loudly. 鹅大声地叫。
+2.The mother goose led her babies to the pond. 母鹅带领她的孩子们去池塘。
+3.The geese flew in a V formation. 鹅群以V字形飞行。
+[搭]
+1.goose bumps 鸡皮疙瘩
+2.wild goose 野鹅，雁
+3.goose liver 鹅肝
+4.swan goose 鸿雁，鹅雁
+[联] goose (鹅) ——> 联想到农场里的家禽
+
 bark / bɑːrk /
 v. 大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮
 n. 狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船
@@ -1400,6 +1594,169 @@ n. 吼叫声， 咆哮声；（风或海的）呼啸声，（机器的）隆隆�
 2.crack and roar 咆哮；怒吼；狂嗥
 3.in the roar 轰笑着
 [联] roar (吼叫) ——> 联想到野兽的叫声
+
+stable / ˈsteɪbəl /  
+adj. 稳定的，牢固的；稳重的，沉稳的；（化学结构或物理状态）稳定的
+n. 马厩；（属同一马主或驯马师的）一群赛马；（在同一地方工作或训练的）一批人，（同一公司生产的）系列产品；赛马训练场
+v. 使（马）入厩，把（马）拴在马厩
+[例]  
+1.The horse was kept in a clean stable. 这匹马被关在一个干净的马厩里。  
+2.They built a new stable for their cows. 他们为他们的奶牛建了一个新畜棚。  
+3.The farmer cleaned the stable every day. 农夫每天打扫畜棚。  
+[搭]
+1.stable boy 马夫
+2.stable isotope 核 稳定同位素；稳定性同位素；定同位素；不变同位素
+3.stable distribution 数 稳定分布；稳态分布
+4.stable marriage problem 稳定婚姻；稳定婚配问题；定婚姻
+[联] 与“horse”相关联，因为马通常住在马厩里
+
+barn / bɑːrn /
+n. 畜棚，谷仓；空荡荡的大建筑；<美>（停放汽车、火车等的）大车库；（尤用于粒子物理学）靶（恩）
+v. <美>把……贮存入仓
+[例]  
+1.The old barn was converted into a cozy home. 那个旧谷仓被改造成一个舒适的家。  
+2.They store hay and grain in the barn. 他们在谷仓里储存干草和谷物。  
+3.The farmer repaired the roof of the barn. 农夫修理了谷仓的屋顶。  
+[搭]
+1.barn door 谷仓门
+2.Barn Swallow家燕；燕子
+3.barn door tracker 旋门追踪器
+[联] 可以联想到“farm”（农场），因为谷仓是农场的重要建筑之一
+
+hedge / hɛdʒ /  
+n. 树篱；防范措施，防备手段
+v. 拐弯抹角，避免正面回答；用树篱围住；包围，限制；采取保值措施以规避风险
+[例]  
+1.The village was surrounded by a thick hedge. 这个村庄被茂密的树篱环绕。  
+2.A hedge can protect your privacy. 树篱可以保护你的隐私。  
+3.They cut down the hedge to make way for a new road. 他们砍掉了树篱，为新道路腾出空间。  
+[搭]  
+1.hedge fund 对冲基金；避险基金；套保基金
+2.hedge one's bets 保留选择权
+3.hedge against 避免损失的措施
+[联] 可以联想“edge”（边缘），因为树篱通常是围绕土地边缘种植的
+
+barrier / ˈbæriər /
+n. 障碍，壁垒；障碍物，关卡；分界线，屏障；大关，界限
+[例]  
+1.Language is often a barrier between cultures. 语言常常成为文化之间的障碍。  
+2.The mountain range forms a natural barrier. 这座山脉构成了一道天然屏障。  
+3.The company removed all barriers to innovation. 公司消除了所有创新的障碍。  
+[搭]  
+1.barrier reef 礁石  
+2.break down barriers 消除障碍
+3.trade barrier 贸易 贸易壁垒；商业联合；商贸壁垒
+4.noise barrier 隔音屏障；隔声板；隔音墙
+5.language barrier 语言障碍
+[联] 来自拉丁语 "barra"，意思是杆子或横木。  
+
+bar / bɑːr /  
+n. 酒吧；吧台；小吃店；块，棒；（金属）条，栏杆；球门横梁；障碍；小节；条纹，带；功能条；律师职业；沙洲，暗礁；军阶杠
+v. 封，堵；阻挡，拦住；阻止，禁止；做条纹标记
+[例]  
+1.He ordered a drink at the bar. 他在酒吧点了杯饮料。  
+2.The chocolate bar was broken into pieces. 巧克力棒被掰成了碎片。  
+3.The bar was crowded with people. 酒吧挤满了人。  
+[搭]  
+1.hit the bars 去酒吧  
+2.be behind bars 在监狱里
+3.Menu Bar 菜单栏；菜单条；选单列
+4.at the bar 在酒吧；受到公开审问
+5.bar code 条形码；电脑条码
+[联] 可以联想到“door”（门），因为酒吧是人们聚集的地方
+
+anatomy / əˈnætəmi /
+n. 解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼
+[例]  
+1.Anatomy is an important subject for medical students. 解剖学是医学生的重要课程。  
+2.The anatomy of the human body is complex. 人体的解剖结构很复杂。  
+3.Learning anatomy requires memorization of many terms. 学习解剖学需要记住许多术语。  
+[搭]  
+1.anatomy of the heart 心脏解剖  
+2.body anatomy 人体解剖
+3.human anatomy [医]人体解剖学
+4.anatomy and physiology 解剖生理学；解剖学与生理学
+5.applied anatomy 应用解剖学
+[联] 可以联想“atom”（原子），因为两者都与身体的组成有关
+
+epidemic / ˌepɪˈdemɪk /
+n. 流行病，传染病；（迅速的）盛行，蔓延
+adj. 盛行的，泛滥的
+[例]  
+1.The flu became an epidemic last winter. 去年冬天流感爆发成流行病。  
+2.An epidemic of crime swept through the city. 一场犯罪的流行席卷了这座城市。  
+3.The epidemic spread rapidly across the country. 这场流行病迅速在全国蔓延。  
+[搭]  
+1.epidemic disease 流行性疾病  
+2.global epidemic 全球性流行病
+3.epidemic disease 医 流行病；传染病；发生疫疠；疫疠
+4.epidemic typhus 内科 流行性斑疹伤寒；斑疹伤寒
+5.epidemic encephalitis 流行性乙型脑炎；内科 流行性脑炎；流脑；乙型脑炎
+[联] 来自希腊语 "epi"（在...之上）+ "demos"（人民）
+
+germ / dʒɜːrm /
+n. 病菌，细菌；起源，萌芽；极少量；胚芽，胚胎
+[例]  
+1.Germs can spread easily in crowded places. 病菌在拥挤的地方容易传播。  
+2.A single germ can cause serious illness. 一种病菌就能引发严重的疾病。  
+3.Wash your hands to kill germs. 洗手可以杀死病菌。  
+[搭]
+1.germ theory 病原理论
+2.germ cell 组织 生殖细胞；胚细胞；种质细胞
+3.wheat germ 小麦胚芽；麦芽粉；小麦胚芽油；麦芽
+4.in germ [比喻]处于初级阶段，处于萌芽阶段
+5.wheat germ 小麦的胚芽，麦芽
+[联] 可以联想“bacteria”（细菌），因为两者都是微生物
+
+bacterium / bækˈtɪriəm /
+n. 细菌
+[例]
+1.The singular of 'bacteria' is 'bacterium'. bacteria的单数形式是bacterium。
+2.He had a course of antibiotics to kill the bacterium. 他服了一疗程的抗生素来杀死细菌。
+3.Lyme disease is caused by a bacterium transmitted to humans by deer ticks. 莱姆病是由鹿蜱传播给人类的一种细菌引起的。
+[搭]
+1.sulfur bacterium 发现的一种硫磺细菌；硫细菌；种硫磺细菌
+2.lysogenic bacterium 微 溶原性细菌；微 溶原细菌；溶原性菌；溶源细菌
+3.Spiral bacterium 螺形菌
+
+bacteria / bækˈtɪəriə /  
+n. 细菌（bacterium的复数）
+[例]  
+1.Some bacteria are harmful to humans. 一些细菌对人类有害。  
+2.Bacteria play an important role in the ecosystem. 细菌在生态系统中起重要作用。  
+3.Probiotics contain beneficial bacteria. 益生菌含有有益的细菌。  
+[搭]  
+1.pathogenic bacteria 致病菌  
+2.good bacteria 益生菌
+3.Lactic Acid Bacteria微 乳酸菌；微 乳酸细菌
+4.nitrifying bacteria 微 硝化细菌；硝化菌
+5.purple bacteria 紫细菌；微 紫色细菌；紫菌
+[联] 可以联想“virus”（病毒），因为两者都是微生物
+
+virus / ˈvaɪrəs /  
+n. 病毒；病毒性疾病，病毒感染；（计算机）病毒，（手机的）短信病毒；有害影响，毒害；<古>毒液
+[例]  
+1.The virus spread quickly among the population. 这种病毒在人群中迅速传播。  
+2.A computer virus can damage your files. 计算机病毒会损坏你的文件。  
+3.Vaccines help prevent viral infections. 疫苗有助于预防病毒感染。  
+[搭]  
+1.viral infection 病毒感染  
+2.antivirus software 防病毒软件  
+3.Computer Virus 计 计算机病毒；电脑病毒；盘算机病毒
+4.West Nile Virus 西尼罗河病毒；西尼罗病毒；病毒；肆虐的病毒
+5.rabies virus 狂犬病病毒；狂犬病毒；由狂犬病毒；由狂犬病病毒
+[联] 可以联想“bacteria”（细菌），因为两者都能导致疾病。
+
+microbe / ˈmaɪkroʊb /
+n. 微生物（可数名词）
+[例]
+1.Microbes can be found everywhere in nature. 微生物存在于自然界中的各个地方。
+2.Some microbes are beneficial to human health. 有些微生物对人体健康有益。
+3.Certain microbes are responsible for causing diseases. 某些微生物会导致疾病。
+[搭] 
+1.pathogenic microbe 致病菌
+2.microbe culture 微生物培养
+[联] 小（micro）+ 生物（be）——> 微小的生命体
 
 rub / rʌb /
 v. 擦，磨擦；揉擦，按摩；擦痛，磨损；涂，抹；摹拓，拓印（黄铜碑或墓石的）碑文；把（配料）揉擦进（混合物）（rub sth. in/into/through）
@@ -1505,105 +1862,6 @@ v. 把……关进笼中，把……囚禁起来
 3.bird cage 鸟笼
 [联] cage 发音与“凯吉”谐音
 
-stable / ˈsteɪbəl /  
-adj. 稳定的，牢固的；稳重的，沉稳的；（化学结构或物理状态）稳定的
-n. 马厩；（属同一马主或驯马师的）一群赛马；（在同一地方工作或训练的）一批人，（同一公司生产的）系列产品；赛马训练场
-v. 使（马）入厩，把（马）拴在马厩
-[例]  
-1.The horse was kept in a clean stable. 这匹马被关在一个干净的马厩里。  
-2.They built a new stable for their cows. 他们为他们的奶牛建了一个新畜棚。  
-3.The farmer cleaned the stable every day. 农夫每天打扫畜棚。  
-[搭]
-1.stable boy 马夫
-2.stable isotope 核 稳定同位素；稳定性同位素；定同位素；不变同位素
-3.stable distribution 数 稳定分布；稳态分布
-4.stable marriage problem 稳定婚姻；稳定婚配问题；定婚姻
-[联] 与“horse”相关联，因为马通常住在马厩里
-
-barn / bɑːrn /
-n. 畜棚，谷仓；空荡荡的大建筑；<美>（停放汽车、火车等的）大车库；（尤用于粒子物理学）靶（恩）
-v. <美>把……贮存入仓
-[例]  
-1.The old barn was converted into a cozy home. 那个旧谷仓被改造成一个舒适的家。  
-2.They store hay and grain in the barn. 他们在谷仓里储存干草和谷物。  
-3.The farmer repaired the roof of the barn. 农夫修理了谷仓的屋顶。  
-[搭]
-1.barn door 谷仓门
-2.Barn Swallow家燕；燕子
-3.barn door tracker 旋门追踪器
-[联] 可以联想到“farm”（农场），因为谷仓是农场的重要建筑之一
-
-hedge / hɛdʒ /  
-n. 树篱；防范措施，防备手段
-v. 拐弯抹角，避免正面回答；用树篱围住；包围，限制；采取保值措施以规避风险
-[例]  
-1.The village was surrounded by a thick hedge. 这个村庄被茂密的树篱环绕。  
-2.A hedge can protect your privacy. 树篱可以保护你的隐私。  
-3.They cut down the hedge to make way for a new road. 他们砍掉了树篱，为新道路腾出空间。  
-[搭]  
-1.hedge fund 对冲基金；避险基金；套保基金
-2.hedge one's bets 保留选择权
-3.hedge against 避免损失的措施
-[联] 可以联想“edge”（边缘），因为树篱通常是围绕土地边缘种植的
-
-barrier / ˈbæriər /
-n. 障碍，壁垒；障碍物，关卡；分界线，屏障；大关，界限
-[例]  
-1.Language is often a barrier between cultures. 语言常常成为文化之间的障碍。  
-2.The mountain range forms a natural barrier. 这座山脉构成了一道天然屏障。  
-3.The company removed all barriers to innovation. 公司消除了所有创新的障碍。  
-[搭]  
-1.barrier reef 礁石  
-2.break down barriers 消除障碍
-3.trade barrier 贸易 贸易壁垒；商业联合；商贸壁垒
-4.noise barrier 隔音屏障；隔声板；隔音墙
-5.language barrier 语言障碍
-[联] 来自拉丁语 "barra"，意思是杆子或横木。  
-
-bar / bɑːr /  
-n. 酒吧；吧台；小吃店；块，棒；（金属）条，栏杆；球门横梁；障碍；小节；条纹，带；功能条；律师职业；沙洲，暗礁；军阶杠
-v. 封，堵；阻挡，拦住；阻止，禁止；做条纹标记
-[例]  
-1.He ordered a drink at the bar. 他在酒吧点了杯饮料。  
-2.The chocolate bar was broken into pieces. 巧克力棒被掰成了碎片。  
-3.The bar was crowded with people. 酒吧挤满了人。  
-[搭]  
-1.hit the bars 去酒吧  
-2.be behind bars 在监狱里
-3.Menu Bar 菜单栏；菜单条；选单列
-4.at the bar 在酒吧；受到公开审问
-5.bar code 条形码；电脑条码
-[联] 可以联想到“door”（门），因为酒吧是人们聚集的地方
-
-anatomy / əˈnætəmi /
-n. 解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼
-[例]  
-1.Anatomy is an important subject for medical students. 解剖学是医学生的重要课程。  
-2.The anatomy of the human body is complex. 人体的解剖结构很复杂。  
-3.Learning anatomy requires memorization of many terms. 学习解剖学需要记住许多术语。  
-[搭]  
-1.anatomy of the heart 心脏解剖  
-2.body anatomy 人体解剖
-3.human anatomy [医]人体解剖学
-4.anatomy and physiology 解剖生理学；解剖学与生理学
-5.applied anatomy 应用解剖学
-[联] 可以联想“atom”（原子），因为两者都与身体的组成有关
-
-epidemic / ˌepɪˈdemɪk /
-n. 流行病，传染病；（迅速的）盛行，蔓延
-adj. 盛行的，泛滥的
-[例]  
-1.The flu became an epidemic last winter. 去年冬天流感爆发成流行病。  
-2.An epidemic of crime swept through the city. 一场犯罪的流行席卷了这座城市。  
-3.The epidemic spread rapidly across the country. 这场流行病迅速在全国蔓延。  
-[搭]  
-1.epidemic disease 流行性疾病  
-2.global epidemic 全球性流行病
-3.epidemic disease 医 流行病；传染病；发生疫疠；疫疠
-4.epidemic typhus 内科 流行性斑疹伤寒；斑疹伤寒
-5.epidemic encephalitis 流行性乙型脑炎；内科 流行性脑炎；流脑；乙型脑炎
-[联] 来自希腊语 "epi"（在...之上）+ "demos"（人民）
-
 gene / dʒiːn /
 n. 基因，遗传因子
 [例]
@@ -1618,59 +1876,6 @@ n. 基因，遗传因子
 5.gene engineering 基因工程；遗传工程
 [联] gene 发音与“吉恩”谐音。
 
-germ / dʒɜːrm /
-n. 病菌，细菌；起源，萌芽；极少量；胚芽，胚胎
-[例]  
-1.Germs can spread easily in crowded places. 病菌在拥挤的地方容易传播。  
-2.A single germ can cause serious illness. 一种病菌就能引发严重的疾病。  
-3.Wash your hands to kill germs. 洗手可以杀死病菌。  
-[搭]
-1.germ theory 病原理论
-2.germ cell 组织 生殖细胞；胚细胞；种质细胞
-3.wheat germ 小麦胚芽；麦芽粉；小麦胚芽油；麦芽
-4.in germ [比喻]处于初级阶段，处于萌芽阶段
-5.wheat germ 小麦的胚芽，麦芽
-[联] 可以联想“bacteria”（细菌），因为两者都是微生物
-
-bacteria / bækˈtɪəriə /  
-n. 细菌（bacterium的复数）
-[例]  
-1.Some bacteria are harmful to humans. 一些细菌对人类有害。  
-2.Bacteria play an important role in the ecosystem. 细菌在生态系统中起重要作用。  
-3.Probiotics contain beneficial bacteria. 益生菌含有有益的细菌。  
-[搭]  
-1.pathogenic bacteria 致病菌  
-2.good bacteria 益生菌
-3.Lactic Acid Bacteria微 乳酸菌；微 乳酸细菌
-4.nitrifying bacteria 微 硝化细菌；硝化菌
-5.purple bacteria 紫细菌；微 紫色细菌；紫菌
-[联] 可以联想“virus”（病毒），因为两者都是微生物
-
-virus / ˈvaɪrəs /  
-n. 病毒；病毒性疾病，病毒感染；（计算机）病毒，（手机的）短信病毒；有害影响，毒害；<古>毒液
-[例]  
-1.The virus spread quickly among the population. 这种病毒在人群中迅速传播。  
-2.A computer virus can damage your files. 计算机病毒会损坏你的文件。  
-3.Vaccines help prevent viral infections. 疫苗有助于预防病毒感染。  
-[搭]  
-1.viral infection 病毒感染  
-2.antivirus software 防病毒软件  
-3.Computer Virus 计 计算机病毒；电脑病毒；盘算机病毒
-4.West Nile Virus 西尼罗河病毒；西尼罗病毒；病毒；肆虐的病毒
-5.rabies virus 狂犬病病毒；狂犬病毒；由狂犬病毒；由狂犬病病毒
-[联] 可以联想“bacteria”（细菌），因为两者都能导致疾病。
-
-microbe / ˈmaɪkroʊb /
-n. 微生物（可数名词）
-[例]
-1.Microbes can be found everywhere in nature. 微生物存在于自然界中的各个地方。
-2.Some microbes are beneficial to human health. 有些微生物对人体健康有益。
-3.Certain microbes are responsible for causing diseases. 某些微生物会导致疾病。
-[搭] 
-1.pathogenic microbe 致病菌
-2.microbe culture 微生物培养
-[联] 小（micro）+ 生物（be）——> 微小的生命体
-
 metabolism / məˈtæbəlɪzəm /
 n. 新陈代谢（不可数名词）
 [例]
@@ -1683,21 +1888,6 @@ n. 新陈代谢（不可数名词）
 3.Protein Metabolism 蛋白质代谢；蛋白代谢
 [联] meta- (变化) + bol- (投掷) + -ism (状态或过程) ——> 变化的投掷过程，即新陈代谢
 
-protein / ˈproʊtiːn /
-n. 蛋白质，朊
-adj. 蛋白质的
-[例]
-1.Protein is essential for muscle growth. 蛋白质对于肌肉增长至关重要。
-2.A lack of protein in your diet can lead to health problems. 饮食中缺乏蛋白质会导致健康问题。
-3.Eggs and fish are good sources of protein. 鸡蛋和鱼是蛋白质的良好来源。
-[搭]
-1.complete protein 完全蛋白质
-2.plant-based protein 植物蛋白
-3.protein content 蛋白质含量
-4.soy protein 大豆蛋白；酱油蛋白质
-5.high protein 高蛋白；高蛋白质面粉
-[联] pro- (向前) + -tein (源自拉丁文“proteus”，意为“主要的”) ——> 主要的营养成分
-
 victim / ˈvɪktɪm /
 n. 受害者，罹难者；（面对不幸事件或虐待时的）无助者，患病者；牺牲品，祭品；受骗者
 [例]
@@ -1708,8 +1898,6 @@ n. 受害者，罹难者；（面对不幸事件或虐待时的）无助者，�
 1.The Victim 受害者
 2.Fashion Victim 时尚牺牲者；时尚受害者；时尚牺牲品；时尚的牺牲品
 3.Help a seizure victim 帮助癫痫病患
-4.fall victim to 成为…的牺牲品；成为…的受害者；屈服于…；被…降服
-5.fashion victim 时髦罹难者
 
 secrete / sɪˈkriːt /
 v. （动植物或其细胞）分泌；隐藏，藏匿（小物件）
@@ -1775,6 +1963,16 @@ adj. 直观的，凭直觉的
 2.intuitive ability 直觉能力
 [联] in- (向内) + tu- (转) + itive (形容词后缀) ——> 向内转动，即内心的感知
 
+instinctual / ɪnˈstɪŋktʃuəl /
+adj. [生物] 本能的
+[例]
+1.The relationship between a parent and a child is instinctual and stems from basic human nature. 父母与孩子之间的关系是本能的，源于人类的本性。
+2.We even share some basic instinctual quantitative reasoning with distant non-mammalian relatives like birds. 我们甚至与鸟类等非哺乳动物的远亲一样，拥有某种基于本能的基本数量推理能力。
+[搭] 
+1.instinctual anxiety 本能性焦虑
+2.instinctual drive 本能性驱力
+3.instinctual impulse 本能冲动；欲力动势
+
 intuition / ˌɪntuˈɪʃ(ə)n /
 n. 直觉，直觉知识（不可数名词）；直觉力，直觉能力（可数名词）
 [例]
@@ -1815,6 +2013,17 @@ n. 智力，智慧；情报，信息（不可数名词）；聪明人（可数�
 2.intelligence quotient 智商
 [联] inter- (相互) + leg- (选择) + -ence (名词后缀) ——> 相互选择的能力。
 
+intelligent / ɪnˈtelɪdʒənt /
+adj. 聪明的；有智力的；智能的
+[例]
+1.She's formidably intelligent. 她聪明绝顶。
+2.The dolphin is an intelligent animal. 海豚是聪明的动物。
+3.She's even more intelligent than her sister. 她甚至比她姐姐还聪明。
+[搭] 
+1.intelligent design 智能设计；理智的设计；智慧设计论
+2.Intelligent agent 智能代理；智慧型代理人；智能体；职能代理软件
+3.The Intelligent Investor 聪明的投资者；聪明的投资人；智慧型股票投资人；智慧投资者
+
 functional / ˈfʌŋkʃən(ə)l /
 adj. 实用的；功能的，机能的；运转正常的；函数的；（精神病）找不出器质性原因的
 [例]
@@ -1840,6 +2049,15 @@ n. 具有超自然通灵能力的人
 1.sensitive skin 敏感皮肤
 2.politically sensitive 政治上敏感的
 [联] sens (感觉) + itive (形容词后缀) ——> 有感觉的
+
+flexibly / ˈfleksəbli /
+adv. 灵活地；易曲地；柔软地；有弹性地
+[例]
+1.His poor method of learning by rote made him unable to deal with the problems in his work flexibly. 他死记硬背的学习方法使他在工作中不能灵活处理问题。
+[搭]
+1.The morals live flexibly 道德生活泛化
+2.flexibly jointed chain 柔性联结链
+3.Use flexibly 灵活运用
 
 flexible /ˈfleksəbl/
 adj. 灵活的；柔韧的；可弯曲的
@@ -2053,17 +2271,6 @@ v.（因疾病、痛苦、悲伤等）受苦，受折磨；经受，遭受（坏
 2.suffer great losses 损失惨重
 3.suffer losses 遭受损失；吃亏
 
-vulnerable / ˈvʌlnərəb(ə)l /
-adj.（身体或精神）脆弱的，易受伤的；（事物、人或地方）易受攻击的，易受伤害的；易患病的；（桥牌）有局方的，有身价的
-[例]
-1.She was left feeling exposed and vulnerable. 她感到自己孤立无助，非常脆弱。
-2.Those most vulnerable to heat stress are the elderly. 上了年纪的人最容易因受热而生病。
-3.Their tanks would be vulnerable to attack from the air. 他们的坦克将易受空袭。
-[搭]
-1.vulnerable groups 弱势群体；强势集体；易受伤害的群体；弱势社群
-2.vulnerable species 渐危种；易危种
-3.vulnerable slope 易生危险的斜坡
-
 subsistence / səbˈsɪstəns /
 n. 勉强生存，维持生计；赖以活命的食物（或钱）；<法律>有效
 adj. 自给自足的，仅够自用的
@@ -2166,3 +2373,28 @@ n. 牧羊犬
 2.The sheepdog worked tirelessly in the field. 这只牧羊犬在田间辛勤工作。
 3.The sheepdog kept the sheep together during the journey. 在旅途中，牧羊犬让羊群保持在一起。
 
+protein / ˈproʊtiːn /
+n. 蛋白质，朊
+adj. 蛋白质的
+[例]
+1.Protein is essential for muscle growth. 蛋白质对于肌肉增长至关重要。
+2.A lack of protein in your diet can lead to health problems. 饮食中缺乏蛋白质会导致健康问题。
+3.Eggs and fish are good sources of protein. 鸡蛋和鱼是蛋白质的良好来源。
+[搭]
+1.complete protein 完全蛋白质
+2.plant-based protein 植物蛋白
+3.protein content 蛋白质含量
+4.soy protein 大豆蛋白；酱油蛋白质
+5.high protein 高蛋白；高蛋白质面粉
+[联] pro- (向前) + -tein (源自拉丁文“proteus”，意为“主要的”) ——> 主要的营养成分
+
+vulnerable / ˈvʌlnərəb(ə)l /
+adj.（身体或精神）脆弱的，易受伤的；（事物、人或地方）易受攻击的，易受伤害的；易患病的；（桥牌）有局方的，有身价的
+[例]
+1.She was left feeling exposed and vulnerable. 她感到自己孤立无助，非常脆弱。
+2.Those most vulnerable to heat stress are the elderly. 上了年纪的人最容易因受热而生病。
+3.Their tanks would be vulnerable to attack from the air. 他们的坦克将易受空袭。
+[搭]
+1.vulnerable groups 弱势群体；强势集体；易受伤害的群体；弱势社群
+2.vulnerable species 渐危种；易危种
+3.vulnerable slope 易生危险的斜坡

@@ -1,4 +1,4 @@
-photosynthesis / ˌfoʊtoʊˈsɪnθəsɪs /, / ˌfəʊtoʊˈsɪnθəsɪs /
+photosynthesis / ˌfoʊtoʊˈsɪnθəsɪs; ˌfəʊtoʊˈsɪnθəsɪs /
 n. 光合作用（不可数名词）
 [例]
 1.Plants perform photosynthesis to produce their own food. 植物通过光合作用来制造自己的食物。
@@ -17,7 +17,7 @@ vt. 呼吸
 [搭] respire deeply 深呼吸
 [联] re- (再次) + spire (尖塔；螺旋) ——> 呼吸。
 
-dioxide / daɪˈɒksaɪd /, / daɪˈɑːksaɪd /
+dioxide / daɪˈɒksaɪd; daɪˈɑːksaɪd /
 n. 氧化物（可数名词）
 [例]
 1.Carbon dioxide is a greenhouse gas. 二氧化碳是一种温室气体。
@@ -26,7 +26,7 @@ n. 氧化物（可数名词）
 [搭] carbon dioxide 二氧化碳
 [联] di- (双) + oxide (氧化物) ——> 双氧。
 
-vegetation / vəˈtetʃən /
+vegetation / ˌvedʒəˈteɪʃn /
 n.（总称）植物，植被；（植物的）生长；呆板单调的生活
 [例]
 1.The vegetation in the desert is sparse. 沙漠中的植被稀疏。
@@ -34,29 +34,6 @@ n.（总称）植物，植被；（植物的）生长；呆板单调的生活
 3.A variety of vegetation can be found in the rainforest. 雨林中可以找到各种各样的植被。
 [搭] native vegetation 原生植被
 [联] veget- (植物) + -ation (状态) ——> 植物的状态。
-
-vegetative / ˈvedʒɪteɪtɪv /
-adj. 植物的；植物人状态的，无所作为的；促使植物生长的；有生长力的
-[例]
-1.She was in what was described as a vegetative state. 她处于一种被称为植物人的状态。
-2.She had been in what doctors described as an irreversible vegetative state for five years. 她陷入医生们所说的一种不可逆转的植物人状态已达5年之久。
-3.That is when it's not covered in snow and there is no frost covering the grass and vegetative parts of a plant's herbs and the flowers the marmots like to eat. 那时，地上没有冰雪覆盖，草木也没有结霜，土拔鼠喜欢吃的植物嫩芽和花蕾正开始生长。
-[搭]
-1.vegetative reproduction 营养繁殖;胚 营养生殖;遗 无性生殖;无性繁殖
-2.vegetative propagation 营养繁殖;遗,农学 无性繁殖;分株繁殖;营养性繁殖
-3. vegetative state 植物状态;植物人;植物人状态;病毒 营养态
-
-vegetarian / ˌvedʒəˈteriən /
-n. 素食者，素食主义者；食草动物
-adj. 素食的，素的
-[例]
-1.She is an avowed vegetarian. 她公开声明自己是素食者。
-2.Is she a vegetarian? 她是素食者吗？
-3.Are you vegetarian? 你只吃素食吗？
-[搭]
-1.Vegetarian gelatin 甜点爱玉
-2.World Vegetarian Day 世界素食日
-3.Vegetarian Duck 素鸭
 
 herb / ɜrb /
 n. 药草，香草；草本植物（可数名词）
@@ -86,7 +63,7 @@ n. 植物学；（特定地区的）植物（生态）
 [搭] plant botany 植物学
 [联] botan- (植物) + -y (学科) ——> 植物学科。
 
-ecology / iˈkɑːlədʒi /, / ɪkˈɑːlədʒ /
+ecology / iˈkɑːlədʒi; ɪkˈɑːlədʒ /
 n. 生态学；生态；生态保护运动
 [例]
 1.Ecology studies the relationships between organisms and their environment. 生态学研究生物与其环境之间的关系。
@@ -163,6 +140,16 @@ n. 变化，变动；变奏曲；变化，变异；（天文）二均差；（�
 1.natural variation 自然变化。
 [联] vary-(变化) + -ation(行为，结果)——> 变化的状态。
 
+diversity / daɪˈvɜːrsəti; dɪˈvɜːsɪti /
+n. 多样性；多样化。
+[例]
+1.Cultural diversity enriches society. 文化多样性丰富了社会。
+2.The diversity of opinions was surprising. 意见的多样性令人惊讶。
+3.Educational diversity benefits students. 教育多样性使学生受益。
+[搭] 
+1.biodiversity 生物多样性。
+[联] diver-(分开) + -sity(状态)——> 分开的状态。
+
 hybridisation / ˌhaɪbrɪdəˈzeɪʃn /
 n. 杂交；杂交育种。
 [例]
@@ -172,16 +159,6 @@ n. 杂交；杂交育种。
 [搭] 
 1.artificial hybridisation 人工杂交。
 [联] hybrid-(杂交的) + -isation(名词后缀)——> 杂交的过程。
-
-diversity / daɪˈvɜːrsəti /, / dɪˈvɜːsɪti /
-n. 多样性；多样化。
-[例]
-1.Cultural diversity enriches society. 文化多样性丰富了社会。
-2.The diversity of opinions was surprising. 意见的多样性令人惊讶。
-3.Educational diversity benefits students. 教育多样性使学生受益。
-[搭] 
-1.biodiversity 生物多样性。
-[联] diver-(分开) + -sity(状态)——> 分开的状态。
 
 classify / ˈklæsɪfaɪ /
 v. 把……分类，把……分级；把（信息）归入保密级别
@@ -213,7 +190,7 @@ v. 进化，演化；逐步发展，逐渐演变
 1.evolve into 发展成。
 [联] e-(出) + volv-(卷曲) + -e——> 向外卷曲，即发展。
 
-fluctuate / ˈflʌktʃueɪt /, / ˈflʌktʃəˌteɪ /
+fluctuate / ˈflʌktʃueɪt; ˈflʌktʃəˌteɪ /
 v.（使）波动，（使）起伏；（使）动摇，（使）不稳定
 [例]
 1.The stock market fluctuates wildly. 股市波动剧烈。
@@ -223,17 +200,6 @@ v.（使）波动，（使）起伏；（使）动摇，（使）不稳定
 1.fluctuate in price 在价格上波动
 2.fluctuate between two extremes 在两个极端之间波动
 [联] fluctuate = fluctu (波浪) + ate (动词后缀)——> 波动。
-
-cultivate / ˈkʌltɪveɪt /
-v. 开垦，耕作；栽培，培育；陶冶，培养；建立（友谊），结交
-[例]
-1.Farmers cultivate rice in this region. 农民在这个地区种植水稻。
-2.We should cultivate good habits. 我们应该培养良好的习惯。
-3.The scientist is cultivating new strains of bacteria. 科学家正在培育新的细菌菌株。
-[搭]
-1.cultivate friendship 培养友谊
-2.cultivate the land 耕种土地
-[联] cultivate = culti (耕种) + ate (动词后缀)——> 耕种。
 
 reclaim / rɪˈkleɪm /
 v.要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正
@@ -246,6 +212,17 @@ n.归还要求（或主张）
 1.reclaim land 开垦土地
 2.reclaim waste materials 回收废料
 [联] reclaim = re- (再) + claim (要求)——> 再要求，重新获得。
+
+cultivate / ˈkʌltɪveɪt /
+v. 开垦，耕作；栽培，培育；陶冶，培养；建立（友谊），结交
+[例]
+1.Farmers cultivate rice in this region. 农民在这个地区种植水稻。
+2.We should cultivate good habits. 我们应该培养良好的习惯。
+3.The scientist is cultivating new strains of bacteria. 科学家正在培育新的细菌菌株。
+[搭]
+1.cultivate friendship 培养友谊
+2.cultivate the land 耕种土地
+[联] cultivate = culti (耕种) + ate (动词后缀)——> 耕种。
 
 sow / soʊ /
 v. 播种，种；激起，散布，煽动；埋（地雷），将（一地区）布上地雷；布满，覆盖
@@ -342,7 +319,7 @@ adj. 可耕种的，适于耕种的
 2.arable soil 可耕土壤
 [联] arable = ar (耕种) + able (能够)——> 能够耕种的。
 
-plough / plʌf /, / plaʊ /
+plough / plʌf; plaʊ /
 v. 耕，犁；（用或仿佛用犁）划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；（不顾困难或要求停止的警告而）继续坚持；<美>（用扫雪机）从（道路）清除积雪；（尤指车辆）猛撞
 n. 犁；犁过的地，耕地；<美>雪犁，扫雪机；北斗七星（the Plough)；北斗七星（the Plough)
 [例]
@@ -787,7 +764,7 @@ n. 林业，森林管理
 forestry resources 森林资源
 [联] fore (前部) + stry (学科) ——> 关于森林的学科。
 
-branch / bræntʃ /, / brɑːntʃ /
+branch / bræntʃ; brɑːntʃ /
 n. 树枝，分枝；分支机构，分店；（政府或机构的）部门；分科，分支；（家族的）支系；支流，岔路
 v. 分岔，岔开；出枝，发出新枝
 [例]
@@ -994,7 +971,7 @@ n. 藻类，海藻。
 2.microalgae 微藻
 [联] alga → algal → 藻类的。
 
-enzyme / ˈɛnzaɪm /, / ɛnˈzaɪm /
+enzyme / ˈɛnzaɪm; ɛnˈzaɪm /
 n. 酶（一种生物催化剂，在化学反应中加速反应速率，不被消耗）
 [例]
 1. Enzymes in our body help to digest food. 我们体内的酶帮助消化食物。
@@ -1038,7 +1015,7 @@ n. 排放物，散发物；（尤指光、热、气等的）散发，排放；�
 1.gas emission 气体排放
 2.carbon emission 碳排放
 
-absorb / əbˈzɔːrb /, / æbˈzɔːrb /
+absorb / əbˈzɔːrb; æbˈzɔːrb /
 v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费。
 [例]
 1.Plants absorb carbon dioxide from the air. 植物从空气中吸收二氧化碳。
@@ -1103,6 +1080,107 @@ n. 能量；精力；活力；能源。
 1.potential energy 势能
 2.kinetic energy 动能
 [联] ener-(活动)+ -gy(名词后缀)——> 活动的力量。请提供下一个单词或词组，我将严格按照要求为您输出相关内容。
+
+trunk / trʌŋk , truːnk /
+n. （大象等动物的长鼻子）象鼻；（树或藤本植物的）主干；（衣服的）躯干部分；（电话线路的）中继线。
+[例]
+1.The elephant uses its trunk to grab food and water. 大象用它的象鼻抓取食物和水。
+2.The trunk of this tree is very thick. 这棵树的主干非常粗壮。
+3.I packed my clothes into the trunk of my car. 我把衣服装进了汽车的后备箱。
+[搭]
+1.trunk call 长途电话
+trunk road 主干道
+[联] trunk 可联想为“箱子的把手”，延伸为“象鼻”。
+
+surroundings / səˈraʊndɪŋz /
+n. 周围的事物，环境；（复数形式）
+[例]
+1.My surroundings are very peaceful. 我周围的环境非常宁静。
+2.The surroundings of the lake are full of wildflowers. 湖周围的野花盛开。
+3.The child felt comfortable in his new surroundings. 孩子在他新的环境中感到舒适。
+[搭]
+1.surroundings noise 环境噪音
+natural surroundings 自然环境
+[联] surround (围绕) + -ings (名词后缀) ——> 围绕的东西。
+
+mechanism / ˈmekənɪzəm /
+n. 机械装置；机制；原理；办法。
+[例]
+1.The mechanism of the clock is very complicated. 这个钟表的机械装置非常复杂。
+2.The human body has its own natural mechanisms for healing. 人体有自己的自然修复机制。
+3.We need to find a mechanism to solve this problem. 我们需要找到一种解决这个问题的办法。
+[搭]
+1.mechanism design 机械设计
+biological mechanism 生物机制
+[联] mechano- (机械的) + -ism (名词后缀) ——> 机械系统。
+
+counterbalance / ˌkaʊntərˈbæləns /
+n. 平衡力；平衡物；v. 抵消；使平衡。
+[例]
+1.The counterbalance keeps the door open. 平衡块使门保持开启状态。
+2.The weight of the sandbag counterbalances the force of the wind. 沙袋的重量抵消了风的力量。
+3.The benefits of technology are counterbalanced by its risks. 技术的好处被其风险所抵消。
+[搭]
+1.counterbalance effect 抵消效应
+[联] counter- (相反) + balance (平衡) ——> 相反的平衡。
+
+protect / prəˈtɛkt /
+v. 保护；保卫；防护。
+[例]
+1.We must protect our environment from pollution. 我们必须保护环境免受污染。
+2.The umbrella protects you from the rain. 雨伞可以为你挡雨。
+3.The government is taking steps to protect endangered species. 政府正在采取措施保护濒危物种。
+[搭]
+1.protect one's eyes 保护眼睛
+protect one's skin 保护皮肤
+[联] pro-(向前) + tect (遮盖) ——> 向前遮盖。
+
+preserve / prɪˈzɜrv /
+v. 保存；保护；维护；n. 保护区；禁猎区。
+[例]
+1.We should preserve historical sites for future generations. 我们应该为后代保存历史遗迹。
+2.The fruit can be preserved for a long time. 这种水果可以长时间保存。
+3.The national park serves as a preserve for wildlife. 这个国家公园是野生动物的保护区。
+[搭]
+1.preserve culture 保护文化
+[联] pre- (预先) + serve (服务) ——> 提前服务。
+
+conservation / ˌkɑnsərˈveɪʃən /
+n. 保护；保存；保守主义。
+[例]
+1.The conservation of energy is important for sustainable development. 能源保护对可持续发展很重要。
+2.The conservation of nature is everyone's responsibility. 自然保护是每个人的责任。
+3.The conservation project aims to protect endangered species. 该项目旨在保护濒危物种。
+[搭]
+1.conservation area 保护区
+water conservation 水资源保护
+[联] con-(加强意义) + serve (服务) + -ation (名词后缀) ——> 强化服务。
+
+bush fire / ˈbʊʃ ˈfaɪər /
+n. 灌木丛火灾。
+[例]
+1.The bush fire spread quickly due to strong winds. 灌木丛火灾因强风迅速蔓延。
+2.Firefighters worked hard to extinguish the bush fire. 消防员努力扑灭灌木丛火灾。
+3.The bush fire destroyed large areas of vegetation. 灌木丛火灾摧毁了大片植被。
+[联] bush (灌木) + fire (火) ——> 灌木火灾。
+
+extinguish / ɪkˈstɪŋɡwɪʃ /
+v. 扑灭；熄灭；消灭；压制。
+[例]
+1.Firefighters were able to extinguish the fire quickly. 消防员能够迅速扑灭火势。
+2.The candle flame was extinguished by the wind. 蜡烛火焰被风吹灭了。
+3.The government plans to extinguish corruption completely. 政府计划彻底消灭腐败。
+[搭]
+1.extinguish flames 扑灭火苗
+[联] ex-(向外) + tinguish (燃烧) ——> 向外燃烧。
+
+destruct / dɪˈstrʌkt /
+v. 破坏；毁坏。
+[例]
+1.The storm caused widespread destruct to the city. 风暴对该市造成了广泛的破坏。
+2.The weapon was designed to destruct enemy vehicles. 这种武器被设计用来摧毁敌方车辆。
+3.The factory produces machines that can destruct waste materials. 这家工厂生产能够破坏废料的机器。
+[联] de-(向下) + struct (结构) ——> 向下破坏。
 
 demolish /dɪˈmɑːlɪʃ/, /ˌdiːˈmɑːlɪʃ/
 vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳倒（观点或理论）；<非正式>轻易击败，完胜；<非正式>狼吞虎咽地吃，很快吃光；伤害（感情），破坏（计划）
@@ -1293,3 +1371,38 @@ adj. 最佳的，最适的
 1.optimal performance 最佳表现
 2.optimal growth 最佳增长
 [联] optimum (最佳的) + -al (形容词后缀) ——> 最佳的。
+
+ruin /ruːn/, /ˈruːɪn/
+n. 废墟；毁灭；破产。
+v. 毁灭；使破产。
+[例]
+1.The ancient city lies in ruins after the earthquake. 地震后这座古城成为一片废墟。
+2.Her career is in ruins because of the scandal. 因为丑闻，她的事业毁于一旦。
+3.I don't want to see my family go to ruin. 我不想看到我的家庭陷入困境。
+[搭]
+1.in ruins 成为废墟；破败不堪
+2.ruin sb.'s life 毁掉某人的生活
+[联] 想象一个破旧的建筑物逐渐倒塌的样子。
+
+perish /ˈperɪʃ/
+v. 死亡；毁灭；腐烂。
+[例]
+1.Many people perished in the famine. 很多人在饥荒中丧生。
+2.We cannot allow innocent lives to perish. 我们不能让无辜的生命消逝。
+3.Trees can perish if they lack water for too long. 如果树木长时间缺水会死亡。
+[搭]
+1.perish from hunger 饿死
+2.perish from cold 冻死
+[联] perish 和 "per" (完全) + "ish" (表示状态) 联想——完全进入某种状态（如死亡）。
+
+effective /ɪˈfektɪv/
+adj. 有效的；生效的；给人深刻印象的。
+[例]
+1.The new policy has proven very effective. 这项新政策被证明非常有效。
+2.An effective teacher knows how to engage students. 一位好老师知道如何吸引学生。
+3.Smiling is an effective way to make friends. 微笑是交朋友的有效方式。
+[搭]
+1.effective communication 有效沟通
+2.effective measures 有效措施
+[联] effective 和 effect (效果) 相关——有良好效果的。
+
