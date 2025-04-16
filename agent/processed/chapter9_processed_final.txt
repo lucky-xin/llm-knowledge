@@ -2109,229 +2109,306 @@ v. 参加野餐活动
 3.no picnic 不容易
 [联] 想象一家人带着食物和饮料在户外享受美食的画面
 
-hunt / hʌnt/  
-v. 打猎；狩猎；寻找；追寻。  
-n. 猎捕；打猎；搜寻。  
+hunt / hʌnt /
+v. 打猎，猎取；搜寻，搜索；追踪，追捕；（骑马用猎犬）猎（狐）；摆动，振荡
+n. 搜索，寻找；打猎，狩猎；（英国）猎狐活动；（英国经常举行猎狐运动的）猎狐队伍；猎区，狩猎场；摆动，振荡
 [例]  
 1.The hunters hunt deer in the forest. 猎人在森林里猎鹿。  
 2.I have been hunting for this book for weeks. 我已经找了这本书好几个星期了。  
 3.The police are hunting for the suspect. 警察正在搜捕嫌疑犯。  
 [搭]  
-hunt down 查明；追捕；找到。  
-[联] 想象猎人拿着猎枪在森林里追逐猎物的情景。  
+1.hunt down 查明；追捕；找到
+2.hunt for 寻找；搜寻；追猎；搜索
 
-race / reɪs/  
-n. 比赛；竞赛；种族。  
-v. 比赛；竞跑；争夺。  
+race / reɪs /
+n. 赛跑，速度竞赛；竞争，角逐；赛马会（the races）；人种，种族；民族；（动植物）种，属；（具有共同特征的）一群（或一批）人（或物）
+v.（和……）比赛，参加比赛；使（动物或车辆）参赛参赛；（使）快速移动，快速运转；疾走，全速行进；竞相，赶（时间）；（因害怕、兴奋而）急速跳动，快速转动
 [例]  
 1.They are racing each other in the marathon. 他们在马拉松比赛中互相竞争。  
 2.The horse race will start in five minutes. 马拉松比赛将在五分钟内开始。  
 3.Racial equality is important. 种族平等很重要。  
 [搭]  
-race against 与……竞争；与……赛跑。  
-[联] 想象运动员在跑道上飞奔的画面。  
+1.race against 与……竞争；与……赛跑
+2.relay race 接力赛跑；接力；接力跑
+3.arms race 武器竞赛；武备比赛；军火竞赛
+4.in the race 在比赛中；有成功的可能
 
-marathon / ˈmærəθɑn/  
-n. 马拉松（赛跑）；长距离奔跑；长时间的活动。  
+marathon / ˈmærəθɑːn /
+n. 马拉松赛跑；马拉松式的活动（或工作）
+adj. 马拉松式的，漫长而累人的
+v. 参加马拉松赛跑（或马拉松式的比赛、活动）
 [例]  
 1.The marathon runner finished the race in two hours. 马拉松选手两小时内完成了比赛。  
 2.They organized a fundraising marathon. 他们组织了一场筹款马拉松。  
 3.The meeting turned into a marathon session. 会议变成了长时间的讨论。  
 [搭]  
-marathon runner 马拉松选手。  
-[联] 想象一名运动员在赛道上坚持跑完全程的画面。pedestrian /pəˈdestriən/
-adj. 行人的；平凡的，普通的
+1.marathon runner 马拉松选手
+2.half marathon 半程马拉松；半马拉松；马拉松
+
+pedestrian / pəˈdestriən /
+n. 步行者，行人
+adj. 平淡无奇的，乏味的；行人的，行人使用的；徒步的
 [例]
 1.The pedestrian crossing is just ahead. 前面就是人行横道。
 2.Pedestrian traffic was heavy during rush hour. 上下班高峰时段行人很多。
 3.The novel's plot is rather pedestrian. 这本小说的情节相当平淡无奇。
 [搭] 
-pedestrian zone 人行区，步行街。
-[联] pedes (拉丁语，脚) + trian (行走) ——> 行走的人。
+1.pedestrian zone 人行区，步行街
+2.pedestrian street 步行街；行人街道
+3.pedestrian crossing 人行横道
+4.pedestrian mall 步行街
+[联] pedes (拉丁语，脚) + trian (行走) ——> 行走的人
 
-pace /peɪs/
-n. 步伐；步速；速度；步伐大小
-v. 缓慢而有节奏地走；以...的速度前进
+pace / peɪs /
+n. 步速，（移动的）速度；（发生、进展、发展的）速度，节奏；一步，一步之距；（马行走或奔跑的）步法；<文>步态；快节奏；快跑的能力
+v.（因担忧、紧张或不耐烦而）踱步，踱步于；（在赛跑中）为……定速度；为……领跑；为（书、电影等中的故事）设定节奏；调整自己的工作（或活动）节奏
+prep. <正式> （用于人名前，委婉提出不同意见）请……原谅
 [例]
 1.She walked at a steady pace. 她走得很有规律。
 2.The company is setting the pace in innovation. 这家公司正在引领创新的步伐。
 3.Time passed at a leisurely pace. 时间过得非常缓慢。
 [搭] 
-set the pace 创造记录；起带头作用。
-[联] pace (步伐) ——> 与脚步相关的动作。
+1.set the pace 创造记录；起带头作用
+2.keep pace 并驾齐驱；齐步并进
+3.keep pace with 并驾齐驱，保持同步
+4.change of pace 改变习惯；更换口味
+[联] pace (步伐) ——> 与脚步相关的动作
 
-step /stɛp/
-n. 步，脚步；台阶，楼梯；步骤，措施
-v. 走，踏；踩，踏进
+step / stɛp /
+n. 迈步，脚步；台阶，梯级；措施，手段；阶段，进程；一步（的距离）；舞步；步态，步姿；<英>折梯，梯子；踏板操；健身踏板；<美>音级，度；脚步声
+v. 跨步，迈步；踏，踩；做，采取行动；（短距离）移动；竖立（桅杆）于桅座上
 [例]
 1.Take one step at a time. 一次迈出一步。
 2.The baby took her first step today. 这个婴儿今天迈出了第一步。
 3.I want to take steps to improve my English. 我想采取措施来提高我的英语水平。
 [搭] 
-baby step 小步，小进步。
-[联] step (脚步) ——> 与行走相关的动作。
+1.baby step 小步，小进步
+2.step by step 逐步地
+3.first step 第一步，首要步骤
+[联] step (脚步) ——> 与行走相关的动作
 
-footstep /ˈfʊtˌstɛp/
-n. 脚步声；足迹；脚步的步幅
+footstep / ˈfʊtstep /
+n. 脚步，足迹；脚步声；一步的距离；路途，路线
 [例]
 1.I heard a faint footstep behind me. 我听到身后有轻微的脚步声。
 2.The thief left no footprint or footstep. 小偷没有留下任何脚印或足迹。
 3.The sound of footsteps echoed through the hallway. 脚步声在走廊里回荡。
 [搭] 
-none
+1.footstep bearing 立轴承；机 止推轴承；立式轴承
+2.Footstep Mode 脚步模式；足迹模式
+3.footstep light 踏脚灯
 
-excursion /ɪkˈskɜːrʒən/
-n. 远足，短途旅行；(铁路、轮船等的)特别班次
+excursion / ɪkˈskɜːrʒ(ə)n /
+n. 短途旅行，远足；涉猎；移动；游览团，远足队；离题；偏移，偏差
 [例]
 1.We went on an excursion to the mountains last weekend. 上周末我们去山里远足了。
 2.The excursion train departs at 8 AM. 这趟专列早上8点出发。
 3.An excursion to the beach is planned for tomorrow. 明天计划去海滩游玩。
 [搭] 
-day excursion 一日游。
-[联] ex- (出) + curs (跑) + -ion (名词后缀) ——> 出去跑一趟。
+1.day excursion 一日游
+2.temperature excursion 温度剧增，超温
+3.excursion train 旅行列车；旅游列车
+4.excursion outing 远足
+5.excursion boat 游艇；观览艇；游览船；或游览船
+[联] ex- (出) + curs (跑) + -ion (名词后缀) ——> 出去跑一趟
 
-cruise /kruːz/
-v. 巡航；乘船游览；悠闲地散步
-n. 巡航；乘船游览
+cruise / kruːz /
+n. 巡游，乘船游览
+v. 乘船游览；以平稳的速度行驶；缓慢巡行，兜风；轻而易举赢得，轻取；<非正式>猎艳
 [例]
 1.The ship will cruise along the coast. 这艘船将沿岸巡航。
 2.They went on a Mediterranean cruise. 他们去地中海乘船游览了。
 3.He likes to cruise around the park in the evening. 他喜欢晚上在公园里悠闲地散步。
 [搭] 
-cruise control 巡航控制。
-[联] cruise (航行) ——> 与船只或汽车相关的运动。
+1.cruise control 巡航控制
+2..cruise missile 巡航导弹
+3.cruise ship 游轮，游艇
+[联] cruise (航行) ——> 与船只或汽车相关的运动
 
-trip /trɪp/
-n. 旅行；旅行中的意外摔倒；旅程中的小插曲
-v. 绊倒；旅游；犯错
+trip / trɪp /
+n.（尤指短程往返的）旅行，旅游；出门，出行；绊倒；<非正式>（吸毒所致的）幻觉，迷幻感受；<美，非正式>让人开心的奇人，奇妙有趣的经历
+v. 绊，绊倒；脚步轻快地走（或跑、跳舞）；（尤指意外地）触动（开关）；（部分电路）自动断开；<非正式>（服用毒品后）产生幻觉；（字句）轻松自如地吐出
 [例]
 1.We went on a trip to Paris last year. 去年我们去了巴黎旅行。
 2.She tripped over the rug and fell. 她被地毯绊了一下摔倒了。
 3.A trip to the museum can be very educational. 去博物馆旅行可以学到很多知识。
 [搭] 
-business trip 商务旅行。
-[联] trip (绊倒) ——> 与行走相关的小意外。
+1.business trip 公务旅行，出差；商务旅行
+2.on a trip 在旅途中
+3.round trip 往返旅行；环程旅行；[牌]大团圆
+[联] trip (绊倒) ——> 与行走相关的小意外
 
-vocation /voʊˈkeɪʃən/
-n. 职业；使命；召唤
+vocation / voʊˈkeɪʃ(ə)n /
+n.（认为某种职业适合自己的）使命感；（认为特别适合自己的）工作，职业，生活方式；神召，天命，（宗教）使命感
 [例]
 1.Teaching is her vocation. 教书是她的使命。
 2.My vocation is nursing. 我的职业是护理。
 3.Many people find their true vocation late in life. 很多人到了晚年才找到自己的真正职业。
 [搭] 
-none
-[联] voc (声音) + -ation (名词后缀) ——> 召唤的声音。
+1.vocation opportunity 假期；带薪休假
+2.enrolment and vocation guidance office 招生就业指导办公室；招生；招生就业；招生就业指示办雄室
+3.choosing a vocation 选择职业；职业选择；选择一个职业；选择一份职业
+[联] voc (声音) + -ation (名词后缀) ——> 召唤的声音
 
-hike /haɪk/
-v. 徒步旅行；大幅增加
-n. 徒步旅行；长途跋涉
+hike / haɪk /
+n. 徒步旅行，远足；（价格、花费等的）大幅度提高，猛增
+v. 远足，徒步旅行；突然增加，突然提高；拉起，提起（尤指衣物）；后传（发球）给四分卫
 [例]
 1.We went hiking in the mountains last weekend. 上周末我们在山里徒步旅行。
 2.The government decided to hike taxes. 政府决定大幅提高税收。
 3.A group of hikers got lost in the forest. 一群徒步旅行者在森林里迷路了。
 [搭] 
-long hike 长距离徒步。
-[联] hike (提高) ——> 与行走相关的动作。
+1.long hike 长距离徒步
+2.price hike 提价；物价上涨
+3.take a hike 走路；滚开；哪凉快那歇着去
+4.hike up 飘起
+[联] hike (提高) ——> 与行走相关的动作
 
-jog /dʒɑːg/
-v. 慢跑；轻推；提醒
-n. 慢跑；轻推
+jog / dʒɑːɡ /
+v. 慢跑；轻推，轻撞；（多指缓慢地）颠簸着行进；（上下）颠动；使颠簸
+n. 慢跑锻炼；轻推；平稳的慢速
 [例]
 1.I like to jog in the morning. 我喜欢在早晨慢跑。
 2.He jogged my elbow as we walked. 我们走路时，他轻轻推了我的胳膊肘。
 3.Jogging is good exercise. 慢跑是一种很好的锻炼方式。
 [搭] 
-morning jog 早间慢跑。
-[联] jog (推动) ——> 与运动相关的动作。jogger / ˈdʒɑːɡər /
-n. 慢跑者，慢跑的人
-[例]
-1. The jogger finished the marathon in under three hours. 这位慢跑者在不到三小时内完成了马拉松。
-2. Joggers often wear reflective clothing for safety. 慢跑者经常穿反光服装以确保安全。
-3. A jogger passed by the park every morning. 每天早上一位慢跑者都会经过公园。
-[搭] jogger's trail 慢跑者的路线。
-[联] jog (慢跑) + -er (人) ——> 慢跑的人。
+1.morning jog 早间慢跑
+2.jog to school 慢跑去学校；慢跑上学；慢跑到学校
+[联] jog (推动) ——> 与运动相关的动作
 
-stride / straɪd /
-v. 大步走，阔步行走；跨过；迅速发展；n. 大步，大跨步；进展，进步
+jogger  / ˈdʒɑːɡər /
+n. 慢跑者；[印刷] 撞纸机
 [例]
-1. He strode across the room with confidence. 他自信地大步穿过房间。
-2. The politician promised to stride forward with new policies. 政治家承诺会用新政策向前迈进。
-3. She took long strides as she walked. 她走路时迈着大步。
-[搭] stride into sth. 大步进入某事物。
-[联] stride (大步) + -ed (过去式) ——> 大步走过。
+1.The jogger finished the marathon in under three hours. 这位慢跑者在不到三小时内完成了马拉松。
+2.Joggers often wear reflective clothing for safety. 慢跑者经常穿反光服装以确保安全。
+3.A jogger passed by the park every morning. 每天早上一位慢跑者都会经过公园。
+[搭]
+1.jogger's trail 慢跑者的路线
+2.memory-jogger 回马枪；祲
+3.social jogger 社群网路平台
+[联] jog (慢跑) + -er (人) ——> 慢跑的人
+
+stride  / straɪd /
+n. 大步，阔步；步态，步伐；步距，步幅；步速；进展，进步；<非正式>裤子（strides）；钢琴跨越弹奏法
+v. 大步走，阔步走；跨越，跨过；<文>跨坐在……上，跨立在……上
+[例]
+1.He strode across the room with confidence. 他自信地大步穿过房间。
+2.The politician promised to stride forward with new policies. 政治家承诺会用新政策向前迈进。
+3.She took long strides as she walked. 她走路时迈着大步。
+[搭]
+1.stride into sth. 大步进入某事物
+2.in stride 不影响正常活动地
+3.stride over 跨过
+4.hit one's stride 使出干劲
+[联] stride (大步) + -ed (过去式) ——> 大步走过
 
 wander / ˈwɑːndər /
-v. 漫步，徘徊；离题；漫游，流浪
+v. 漫游，游荡，漫步，流浪；走神，开小差；偏离，走偏（道路、航线等）；（目光）游移，往别处看；（河流、道路等）蜿蜒曲折；离题
+n. 游荡，漫步
 [例]
-1. The children wandered through the garden. 孩子们在花园里漫步。
-2. His mind began to wander during the lecture. 在讲座期间他的思绪开始飘忽不定。
-3. She wandered aimlessly down the street. 她漫无目的地沿着街道走着。
-[搭] wander off 离开；wander away 逃走。
-[联] wander (漫游) + -ed (过去式) ——> 漫步。
+1.The children wandered through the garden. 孩子们在花园里漫步。
+2.His mind began to wander during the lecture. 在讲座期间他的思绪开始飘忽不定。
+3.She wandered aimlessly down the street. 她漫无目的地沿着街道走着。
+[搭]
+1.wander off 漫步；漫游；离群走散
+2.wander away 逃走
+3.wander about 徘徊；流浪；漫步
+4.wander from 离题
+[联] wander (漫游) + -ed (过去式) ——> 漫步
 
 linger / ˈlɪŋɡər /
-v. 犹豫，拖延；逗留，徘徊；缓慢消逝
+v. 继续存留，缓慢消失；流连，逗留；持续看（或思考）；苟延残喘；消磨，缓慢度过
 [例]
-1. He lingered over his coffee, savoring every sip. 他慢慢品尝咖啡，每一口都细细品味。
-2. The smell of fresh bread lingered in the air. 新鲜面包的香味在空气中久久不散。
-3. They lingered at the door, reluctant to leave. 他们在门口犹豫着不愿离开。
-[搭] linger on 继续存在；linger about 闲逛。
-[联] linger (徘徊) + -ed (过去式) ——> 逗留。
+1.He lingered over his coffee, savoring every sip. 他慢慢品尝咖啡，每一口都细细品味。
+2.The smell of fresh bread lingered in the air. 新鲜面包的香味在空气中久久不散。
+3.They lingered at the door, reluctant to leave. 他们在门口犹豫着不愿离开。
+[搭]
+1.linger on 继续存在
+2.linger about 闲逛
+3.linger over 在…上拖延；细细思考；仔细欣赏；慢吞吞地做某事
+[联] linger (徘徊) + -ed (过去式) ——> 逗留
 
 lag / læɡ /
-v. 落后，滞后；拖后；n. 落后，滞后；延迟
+v. 掉队，落后于；给（管道等）加防冻保暖层；<非正式>使入狱，逮捕
+n.（两件事的）时间间隔；<英，非正式>囚犯，惯犯；相位滞后；绝热层，保温套；桶板
+adj. 最后的
 [例]
-1. The project is lagging behind schedule. 这个项目落后于计划。
-2. The economy has lagged this year. 今年经济表现不佳。
-3. His grades lagged compared to his classmates. 相比同学，他的成绩有所落后。
-[搭] lag behind 落后；fall behind and lag.
-[联] lag (迟缓) + -ed (过去式) ——> 落后。
+1.The project is lagging behind schedule. 这个项目落后于计划。
+2.The economy has lagged this year. 今年经济表现不佳。
+3.His grades lagged compared to his classmates. 相比同学，他的成绩有所落后。
+[搭]
+1.jet lag 时差；飞行时差；飞行时差反应；喷气飞行时差反
+2.lag behind 滞后；落在后面；掉队；落后于
+[联] lag (迟缓) + -ed (过去式) ——> 落后
 
 limb / lɪm /
-n. 肢，四肢；树枝；vt. 切断肢体
+n. 肢；大树枝；（某物的）突出部，延伸部分；十字形四个分支中的一个；弓把的上部（或下部）；（日月等天体的）边缘；冠檐，萼檐；（管状花的）瓣片
+v. 切断……的手足；从……上截下树枝
 [例]
-1. The monkey climbed up the limb of the tree. 猴子爬上了树的树枝。
-2. He lost a limb in the accident. 他在事故中失去了一个肢体。
-3. The bird perched on a low limb. 鸟儿栖息在低矮的树枝上。
-[搭] limb off 切除肢体。
-[联] limb (树枝) + -ed (过去式) ——> 树枝。
+1.The monkey climbed up the limb of the tree. 猴子爬上了树的树枝。
+2.He lost a limb in the accident. 他在事故中失去了一个肢体。
+3.The bird perched on a low limb. 鸟儿栖息在低矮的树枝上。
+[搭]
+1.limb off 切除肢体
+2.upper limb 解剖 上肢；上缘；上边
+3.lower limb 下缘；天 下边缘；下边
+[联] limb (树枝) + -ed (过去式) ——> 树枝
 
 pull / pʊl /
-v. 拉，拖；吸引；n. 拉力，牵引力；吸引力
+v. 拉，拽；拖动，移走；拔出，抽出；挪动，挣脱；拉开，拉上；牵引（车辆）；吃力地运转；（使车辆）打斜；划（船），划动；（迅速地）穿脱衣服
+n. 拉，拽；力，引力；吸引力，影响；<非正式>（对他人的）影响力；<英>艰难攀登；拉伤，扭伤；深吸，大口喝；拉手，拉绳，拉环；<英，非正式>性引诱
 [例]
-1. She pulled the heavy box across the floor. 她把沉重的箱子拖过地板。
-2. The advertisement pulled in a large crowd. 广告吸引了大批人群。
-3. He pulled out his phone to check the time. 他拿出手机查看时间。
-[搭] pull apart 分裂；pull together 团结。
-[联] pull (拉) + -ed (过去式) ——> 拖。
+1.She pulled the heavy box across the floor. 她把沉重的箱子拖过地板。
+2.The advertisement pulled in a large crowd. 广告吸引了大批人群。
+3.He pulled out his phone to check the time. 他拿出手机查看时间。
+[搭]
+1.pull apart 分裂
+2.pull together 团结
+[联] pull (拉) + -ed (过去式) ——> 拖
 
 drag / dræɡ /
-v. 拖，拽；拉；n. 拖曳，拖拉；令人厌烦的事物
+v. 拖，拽；生拉硬拽，强迫；硬撑着行进，费劲地移动；拖沓；用鼠标拖动；用网（或钩）搜索；（使）拖地而行；把……扯进（谈话中）；（船）拖锚，走锚
+n. <非正式>乏味无聊的事（人）；累赘，拖累；吸一口（烟）；阻力，抗力；穿异性服装；<非正式>街，路；<英，非正式>汽车；<美，非正式>（对其他人的）影响（力）
 [例]
-1. He dragged the chair across the room. 他把椅子拖过房间。
-2. The wind dragged the leaves along the ground. 风把树叶吹得在地上滚动。
-3. She had to drag herself out of bed. 她不得不强迫自己起床。
-[搭] drag on 拖延；drag down 拖累。
-[联] drag (拖) + -ed (过去式) ——> 拖。
+1.He dragged the chair across the room. 他把椅子拖过房间。
+2.The wind dragged the leaves along the ground. 风把树叶吹得在地上滚动。
+3.She had to drag herself out of bed. 她不得不强迫自己起床。
+[搭]
+1.drag on 拖延
+2.drag down 拖累
+[联] drag (拖) + -ed (过去式) ——> 拖
 
 bend / bɛnd /
-v. 弯曲，弯腰；使弯曲；n. 弯曲处，弯曲部分
+v. 弯曲（身体关节）；（路）转弯；歪曲（事实）；篡改；屈从；系，缚（帆，缆绳）；使弯曲，弄弯
+n.（道路或河流的）拐弯，弯道；（身体的）弯曲（动作）；（尤指潜水员的）潜涵病，减压病（the bends）；绑结；（纹章盾形）左上方至右下方的对角斜纹
 [例]
-1. He bent the metal wire into a circle. 他把金属丝弯成圆形。
-2. She bent down to pick up the book. 她弯下腰去捡书。
-3. The branch bent under the weight of the snow. 枝条被雪压弯了。
-[搭] bend over 俯身；bend back 向后弯曲。
-[联] bend (弯曲) + -ed (过去式) ——> 弯曲。
+1.He bent the metal wire into a circle. 他把金属丝弯成圆形。
+2.She bent down to pick up the book. 她弯下腰去捡书。
+3.The branch bent under the weight of the snow. 枝条被雪压弯了。
+[搭]
+1.bend over 俯身；折转
+2.bend back 向后弯曲
+3.bend in 把…往里弯
+4.on the bend 用不正当的手段
+[联] bend (弯曲) + -ed (过去式) ——> 弯曲
 
-bow / boʊ /
-n. 弓，弓形物；鞠躬；v. 鞠躬，点头
+bow / baʊ; boʊ /
+v. 鞠躬，点头；低下（头）；停止对抗，屈从于；（使）弯曲；用弓拉奏（乐曲）；<美>（新影片）首映，（新产品）投放市场
+n. 鞠躬，点头；船头；蝴蝶结；弓；琴弓；（用琴弓拉的）一段（音乐）；字母的一弯；（钥匙、剪刀等的）金属环状柄，圆形拎环；<美>眼镜架，眼镜框
 [例]
-1. She held the bow in her hand while playing the violin. 她拉小提琴时手里拿着弓。
-2. He bowed deeply to the queen. 他向女王深深鞠躬。
-3. The branches of the tree formed a natural bow. 树枝形成了一个天然的弓形。
-[搭] bow and arrow 弓箭；bow out 退出。
-[联] bow (弓) + -ed (过去式) ——> 弓。请稍等，我将严格按照您提供的格式逐一分析和输出这些单词的信息。outfit / ˈaʊtfɪt /
-n. （外出穿的衣服全套）服装，行头；装备，用具。
+1.She held the bow in her hand while playing the violin. 她拉小提琴时手里拿着弓。
+2.He bowed deeply to the queen. 他向女王深深鞠躬。
+3.The branches of the tree formed a natural bow. 树枝形成了一个天然的弓形。
+[搭]
+1.bow and arrow 弓箭；弓和箭；弧矢
+2.bow out 退出
+3.bow down 鞠躬
+4.bow in 恭敬
+[联] bow (弓) + -ed (过去式) ——> 弓
+
+outfit / ˈaʊtfɪt /
+n.（尤指在某一场合穿的）全套服装；全套工具，全套设备；<非正式>（协同工作的）一组人，一队人（尤指乐队、运动队、公司）
+v. 配备，向……提供装备（或服装）；得到装备
 [例]
 1.I need to buy a new outfit for the party. 我需要为派对买一套新衣服。
 2.The soldiers were dressed in full military outfit. 士兵们穿着全套军装。
@@ -2339,49 +2416,59 @@ n. （外出穿的衣服全套）服装，行头；装备，用具。
 [搭]
 1.travel outfit 旅行装备
 2.casual outfit 休闲服装
-[联] out (外面) + fit (适合) ——> 穿在外面适合的整套服装。
+3.gym outfit 运动套装；运动衫裤；体操服
+4.diving outfit 潜水装备；潜水头盔；成套潜水设备；潜水设备
+5.welding outfit 焊接配备；焊接机组；焊接设备
+[联] out (外面) + fit (适合) ——> 穿在外面适合的整套服装
 
-glide /ɡlaɪd/
-v. （物体）滑动，滑行；（鸟、飞机等）滑翔；（声音或语调）平稳过渡。
+glide  / ɡlaɪd /
+v. 滑行，滑动；滑翔；做事顺利；悄悄地走，流逝
+n. 滑动，滑行；（滑翔机或无动力飞机的）飞行，滑翔；滑音，延音；（尤指向腿侧的）斜击
 [例]
 1.The bird glided gracefully through the sky. 那只鸟优雅地在天空中滑翔。
 2.The car glided smoothly along the road. 汽车平稳地在路上滑行。
 3.Her voice glided into his ear like a soft breeze. 她的声音像微风一样轻柔地飘入他的耳朵。
-[搭] glide across 滑过；glide by 悄然过去。
-[联] 想象一只鸟展开翅膀，在空中轻轻滑翔。
+[搭]
+1.glide across 滑过
+2.glide by 悄然过去
+[联] 想象一只鸟展开翅膀，在空中轻轻滑翔
 
-tumble /ˈtʌmbl̩/
-v. 翻滚；跌倒；（价格、数量等）骤降。
+tumble / ˈtʌmb(ə)l /
+v. 跌倒，滚落；倒塌，坍塌；（价值）暴跌；跌跌撞撞地走；（水）快速移动；（兴奋或伤心地）快速说；翻跟头；（头发）垂落；用滚筒甩干；弄乱，弄皱
+n. 跌倒，滚落，暴跌；混乱，杂乱；翻跟头；<美，非正式>示好；<非正式>性交
 [例]
 1.The child tumbled down the stairs. 孩子从楼梯上摔了下来。
 2.The stock market tumbled after the announcement. 公告后股市暴跌。
 3.The box of books tumbled over. 盒子里的书本散落一地。
-[搭] tumble down 跌倒；tumble into 跌进；tumble out 掉出来。
-[联] 想象一个人不小心摔倒的样子。
+[搭]
+1.tumble down 跌倒；破败；半破坏
+2.tumble into 跌进
+3.tumble out 掉出来
+4.take a tumble 恍然大悟
+5.tumble in 嵌入
+[联] 想象一个人不小心摔倒的样子
 
-plunge /plʌndʒ/
-v. 猛冲；跳入；急剧下降。
+plunge / plʌndʒ /
+v.（使）突然向前倒下（跌落）；猛推，猛插；投入（液体中以使淹没）；（价值）猛跌；（剧烈）颠簸，震荡；（马）猛地用后腿直立；陡然向下倾斜；骤然陷入
+n.（突然的）坠落；跳水，快速游泳；（价值或数量的）骤然下跌；突然陷入
+adj.（女式服装）领口低的（plunging）
 [例]
 1.He plunged into the pool without hesitation. 他毫不犹豫地跳入游泳池。
 2.The temperature plunged overnight. 气温在一夜之间骤降。
 3.The company decided to plunge into the new market. 公司决定进军新市场。
-[搭] plunge into 跳入；plunge in 突然进入。
-[联] 想象一个人从高处跳入水中。
+[搭]
+1.plunge into 跳入
+2.plunge in 突然进入
 
-pedestrian /pəˈdestriən/
-n. 行人；adj. 平庸的，平凡的。
+pedestrian / pəˈdestriən /
+n. 步行者，行人
+adj. 平淡无奇的，乏味的；行人的，行人使用的；徒步的
 [例]
 1.Be careful when crossing the pedestrian crossing. 过斑马线时要小心。
 2.Pedestrians should walk on the sidewalk. 行人应该走在人行道上。
 3.The article is rather pedestrian in its approach. 这篇文章的方法相当平庸。
-[搭] pedestrian crossing 斑马线；pedestrian zone 步行区。
-[联] pedes (脚) + trien (三) ——> 用脚行走的人。
-
-jogger /ˈdʒɑːɡər/
-n. 慢跑者。
-[例]
-1.The jogger ran past the park every morning. 每天早上这个慢跑者都会跑过公园。
-2.A jogger stopped to tie his shoelaces. 一个慢跑者停下来系鞋带。
-3.The jogger finished her run and stretched. 慢跑者跑完步后伸展身体。
-[搭] jogger's trail 慢跑者的路线。
+[搭]
+1.pedestrian crossing 斑马线
+2.pedestrian zone 步行区
+[联] pedes (脚) + trien (三) ——> 用脚行走的人
 
