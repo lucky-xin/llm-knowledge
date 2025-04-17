@@ -212,17 +212,6 @@ n. 侄女；外甥女
 [联] niece由“ne”（近亲）+ “ce”（女性）组成。
 
 twin /twɪn/
-n. 双胞胎之一
-[例]
-1.I am a twin. 我是双胞胎之一。
-2.My twin brother is taller than me. 我的双胞胎哥哥比我高。
-3.They are identical twins. 他们是同卵双胞胎。
-[搭]
-1.twin bed 双人床
-2.twin sister 双胞胎妹妹
-[联] twin = two，表示“两个”，与“双胞胎”相关。
-
-twin /twɪn/
 adj. 相似的，成对的
 [例]
 1.These two ideas are twin concepts. 这两个概念是孪生概念。
@@ -243,17 +232,6 @@ n. 胚胎；萌芽状态的事物
 1.embryo transfer 胚胎移植
 2.embryo culture 胚胎培养
 [联] embryo = em- (进入) + bro (发芽)——> 进入发芽状态。
-
-infant /ˈɪnfənt/
-n. 婴儿；幼儿
-[例]
-1.The infant is sleeping. 婴儿正在睡觉。
-2.Mother held the infant in her arms. 母亲把婴儿抱在怀里。
-3.The infant began to crawl. 婴儿开始爬行。
-[搭]
-1.infant care 婴儿护理
-2.infant formula 婴儿配方奶粉
-[联] infant = in- (进入) + fant (说话)——> 刚学会说话的阶段。
 
 infant /ˈɪnfənt/
 adj. 幼稚的，未成熟的
@@ -278,17 +256,6 @@ n. 孤儿
 [联] orphan = or- (离开) + -phan (显现)——> 离开父母显现的孩子。
 
 juvenile /ˈdʒuːvənaɪl/
-n. 青少年；未成年人
-[例]
-1.The juvenile is not allowed to vote. 未成年人不允许投票。
-2.The juvenile court handles cases involving minors. 少年法庭处理涉及未成年人的案件。
-3.The juvenile detention center holds young offenders. 少年拘留中心关押年轻罪犯。
-[搭]
-1.juvenile delinquency 少年犯罪
-2.juvenile literature 青少年文学
-[联] juvenile = juven (年轻) + -ile (形容词后缀)——> 表示年轻的。
-
-juvenile /ˈdʒuːvənaɪl/
 adj. 幼稚的；少年的
 [例]
 1.His juvenile behavior annoyed his parents. 他的幼稚行为惹恼了他的父母。
@@ -309,17 +276,6 @@ n. 年轻人；小孩
 1.youngster camp 小孩夏令营
 2.youngster soccer team 小孩足球队
 [联] youngster = young (年轻) + -ster (名词后缀)——> 年轻的人。
-
-youth /juːθ/
-n. 青春；年轻人
-[例]
-1.The youth years are full of energy. 青春时期充满活力。
-2.The youth rebellion shook the society. 青年叛逆动摇了社会。
-3.The youth organization aims to help young people. 青年组织旨在帮助年轻人。
-[搭]
-1.youth club 青年俱乐部
-2.youth movement 青年运动
-[联] youth = y (表示“年轻”) + -outh (名词后缀)——> 年轻的状态。
 
 youth /juːθ/
 n. 年轻人
@@ -366,118 +322,161 @@ n. 青春期
 [联] adolescence = adolesc (成长) + -ence (名词后缀)——> 成长的状态。
 
 **kin** /kɪn/
-n. 家族，亲属关系  
-[例]  
-1.All my kin live in this village. 我所有的亲戚都住在这个村子里。  
-2.My kin are all supportive of my decision. 我的亲戚们都支持我的决定。  
-3.The kinship between them is very strong. 他们之间的亲属关系非常牢固。  
-[搭]  
-1.blood kin 血亲  
-2.close kin 近亲  
-[联] Kin与“kind”发音相似，可联想为“同类的人”。  
+n. 家族，亲戚；同族，同类  
+[解释]  
+- 当作名词时，通常指与某人有血缘关系的人。  
+- 无其他词性变化，读音固定为/kɪn/。  
 
-**folk** /fəʊk/ (英式发音), /folk/ (美式发音)
-n. 人们，民族；家人，亲属  
 [例]  
-1.The folk here are very friendly. 这里的人都很友好。  
-2.My folk are coming over for dinner tonight. 我的家人们今晚要来吃晚饭。  
-3.It's an old folk tale. 这是一个古老的故事。  
+1. He has no kin in this city. 他在城里没有亲戚。  
+2. All my kin will come to the wedding. 我所有的亲戚都会来参加婚礼。  
+3. They are close kin to each other. 他们是亲密的亲属。  
+
+[搭]  
+1.kin and kind 同类，同族  
+2.blood kin 血亲  
+
+[联] kin 与 kind 相近，都表示“种类”，通过谐音记忆：“亲近”的人才是“kin”。  
+
+**folk** /fok/  
+n. 人们，民族；家人，亲属；民间（艺术等）  
+
+[例]  
+1. Many folk tales have been passed down for centuries. 很多民间故事流传了几百年。  
+2. How are your folk? 你的家人都还好吗？  
+3. The local folk are very friendly. 当地人非常友好。  
+
 [搭]  
 1.folk music 民间音乐  
-2.country folk 农民  
-[联] Folk与“folklore”（民间传说）相关联，容易记住。  
+2.folk tale 民间故事  
 
-**relative** /ˈrelətɪv/
-adj. 相对的；有关系的  
-n. 亲属，亲戚  
+[联] folk 发音类似“福克”，可以联想“福克一家”住在民间。  
+
+**relative** /ˈrelətɪv/  
+n. 亲戚，亲属；adj. 相对的，比较的  
+
+[读音] n. /ˈrelətɪv/；adj. /ˈrelətɪv/  
+
 [例]  
-1.The temperature is relative to humidity. 温度与湿度是相对的。  
-2.She has many relatives in the city. 她在这个城市有很多亲戚。  
-3.Are you related to her? 你和她有亲戚关系吗？  
+1. She is a distant relative of mine. 她是我的远房亲戚。  
+2. Are they related? 他们有亲戚关系吗？  
+3. The relative importance of these issues cannot be ignored. 这些问题的重要性不容忽视。  
+
 [搭]  
-1.relative pronoun 关系代词  
+1.relative poverty 相对贫困  
 2.relative clause 关系从句  
-[联] Relative由“relation”演变而来，表示“关系密切的”。  
 
-**intimate** /ˈɪntɪmət/ (形容词), /ɪnˈtɪmət/ (名词)
-adj. 亲密的；熟悉的  
-n. 密友  
+[联] relative 可联想“relate”（联系），亲戚之间是有联系的。  
+
+**intimate** /ˈɪntəmət/ 或 /ɪnˈtɪmət/  
+adj. 亲密的；详尽的；私人的；adv. 亲密地  
+
+[读音] adj. /ˈɪntəmət/；adv. /ɪnˈtɪmət/  
+
 [例]  
-1.We have an intimate relationship. 我们的关系很亲密。  
-2.An intimate knowledge of the subject is necessary. 对这个主题需要有深入的了解。  
-3.My intimate friend knows me better than anyone else. 我最亲密的朋友比任何人都更了解我。  
+1. We've been intimate friends for years. 我们是多年的好朋友。  
+2. His intimate knowledge of the subject made him an expert. 他对这个主题的深入了解使他成为专家。  
+3. She shared her intimate thoughts with me. 她向我倾诉了自己的内心想法。  
+
 [搭]  
-1.intimate partner 密切伴侣  
-2.intimate conversation 私密对话  
-[联] Intimate可以联想到“inner”（内心），表示内心深处的情感。  
+1.intimate gathering 私人聚会  
+2.intimate relationship 亲密关系  
 
-**dear** /dɪr/
-adj. 亲爱的；昂贵的  
-adv. 哦，天哪  
+[联] intimate 发音类似“爱慕特”，可以联想“亲密的爱慕之情”。  
+
+**dear** /dir/  
+adj. 亲爱的；昂贵的；n. 亲爱的  
+
+[读音] adj. /dir/；n. /dir/  
+
 [例]  
-1.Dear me! That’s expensive! 哦，天哪！太贵了！  
-2.My dear friend is always there for me. 我亲爱的朋友总是在我身边。  
-3.Dear diary, today was a great day. 亲爱的日记，今天是个美好的一天。  
+1. My dear friend, how are you? 亲爱的朋友，你好吗？  
+2. It's too dear to buy. 太贵了买不起。  
+3. Dearest, please call me soon. 亲爱的，请尽快给我打电话。  
+
 [搭]  
 1.dear friend 亲爱的朋友  
 2.dear price 高价  
-[联] Dear与“deer”（鹿）谐音，可联想成“珍贵如鹿”。  
 
-**darling** /ˈdɑrlɪŋ/
-n. 亲爱的，心爱的人  
+[联] dear 可联想“dare”（敢），与“爱”相关联。  
+
+**darling** /ˈdɑrlɪŋ/  
+n. 亲爱的，心爱的人；adj. 亲爱的  
+
+[读音] /ˈdɑrlɪŋ/  
+
 [例]  
-1.You’re my darling forever. 你永远是我最爱的人。  
-2.My darling daughter gave me a gift. 我亲爱的女儿送给我一份礼物。  
-3.He called his wife his darling. 他称他的妻子为“darling”。  
+1. She is my darling daughter. 她是我心爱的女儿。  
+2. You're such a darling! 你真可爱！  
+3. Darling, let's go out tonight. 亲爱的，今晚我们出去吧。  
+
 [搭]  
 1.my darling 我的爱人  
-2.your darling 你的爱人  
-[联] Darling与“darling”（可爱的）意思一致，容易记住。  
+2.darling child 心爱的孩子  
 
-**lover** /ˈlʌvər/
+[联] darling 发音像“达林”，可以联想“亲爱的达林”。  
+
+**lover** /ˈlʌvər/  
 n. 爱人，情人  
+
+[读音] /ˈlʌvər/  
+
 [例]  
-1.They are secret lovers. 他们是秘密的情侣。  
-2.A true lover of art will appreciate it deeply. 真正的艺术爱好者会深刻欣赏艺术。  
-3.Lover’s Lane is a popular place for couples. 情侣巷是情侣们常去的地方。  
+1. She became the lover of a famous artist. 她成了一个著名艺术家的情人。  
+2. They were secret lovers for years. 他们是多年的情人。  
+3. A true lover of art would never sell a masterpiece. 一个真正的艺术爱好者永远不会卖掉一件杰作。  
+
 [搭]  
 1.true lover 真正的爱人  
-2.lover’s quarrel 情侣间的争吵  
-[联] Lover与“love”（爱）相关，表示“爱的人”。  
+2.lover's quarrel 情侣之间的争吵  
 
-**beloved** /bɪˈlovd/
-adj. 可爱的；深爱的  
-n. 心爱的人  
+[联] lover 可联想“love”（爱）+“er”（人），即“爱的人”。  
+
+**beloved** /bɪˈlovd/  
+adj. 深受喜爱的；n. 所爱的人  
+
+[读音] adj. /bɪˈlovd/；n. /bɪˈlovd/  
+
 [例]  
-1.My beloved dog passed away last year. 我心爱的狗去年去世了。  
-2.Her beloved teacher inspired her to study harder. 她深爱的老师激励她更加努力学习。  
-3.Their beloved child brought them much joy. 他们心爱的孩子给他们带来了很多快乐。  
-[搭]  
-1.beloved family 心爱的家庭  
-2.beloved memory 深刻的记忆  
-[联] Beloved由“belove”演变而来，表示“被深爱的”。  
+1. She is the beloved leader of her people. 她是深受人民爱戴的领袖。  
+2. My beloved hometown is always in my heart. 我深爱的家乡永远在我心中。  
+3. He is the beloved of all his students. 他是所有学生的宠儿。  
 
-**housewife** /ˈhaʊswaɪf/
+[搭]  
+1.beloved family 深爱的家庭  
+2.beloved memory 美好回忆  
+
+[联] beloved 发音类似“比洛夫”，可联想“被深爱的人”。  
+
+**housewife** /ˈhaʊswaɪf/  
 n. 家庭主妇  
-[例]  
-1.My mother is a hardworking housewife. 我的母亲是一位勤劳的家庭主妇。  
-2.A good housewife knows how to manage a household. 一位好家庭主妇懂得如何管理家务。  
-3.The housewife prepared a delicious meal for her family. 家庭主妇为她的家人准备了一顿美味的饭菜。  
-[搭]  
-1.housewife duties 家务活  
-2.housewife tools 家庭用品  
-[联] Housewife由“house”（房子）+ “wife”（妻子）组成，表示“家庭中的妻子”。  
 
-**widow** /ˈwɪdoʊ/
-n. 寡妇  
+[读音] /ˈhaʊswaɪf/  
+
 [例]  
-1.The widow lives alone with her children. 寡妇独自和孩子们生活在一起。  
-2.Many widows face financial difficulties after their husband’s death. 许多寡妇在丈夫去世后面临经济困难。  
-3.The charity helps widows and orphans. 慈善机构帮助寡妇和孤儿。  
+1. She works as a housewife. 她是一名家庭主妇。  
+2. A good housewife knows how to manage a budget. 一位称职的家庭主妇懂得如何管理预算。  
+3. The housewife is busy preparing dinner. 家庭主妇正忙着准备晚餐。  
+
+[搭]  
+1.housewife knife 家庭主妇刀（一种多功能小刀）  
+
+[联] housewife 发音类似“豪斯威夫”，联想“家里妇女”。  
+
+**widow** /ˈwɪdoʊ/  
+n. 寡妇  
+
+[读音] /ˈwɪdoʊ/  
+
+[例]  
+1. She became a widow at a young age. 她年轻时就成了寡妇。  
+2. The widow received a pension from the government. 寡妇从政府领取抚恤金。  
+3. Widows often face economic hardships. 寡妇常常面临经济困难。  
+
 [搭]  
 1.widowhood 寡居  
-2.widow’s pension 寡妇抚恤金  
-[联] Widow由“wid”（孤独）+ “ow”（拥有）组成，表示“失去丈夫的女人”。
+
+[联] widow 发音类似“维多”，联想“失去丈夫的女人”。
 
 maid / meɪd /  
 n. 女仆，女侍者  
@@ -1039,90 +1038,95 @@ n.支持者；提倡者
 2.key proponent 关键支持者
 [联] pro (支持) + ponent (倾向) ——> 支持倾向的人
 
-**committee** /kəˈmɪti/, /ˈkomɪti/  
-n. 委员会；全体委员；委员会的成员  
-- [例]  
-1. The committee has decided to postpone the meeting until next week. 委员会决定将会议推迟到下周。  
-2. She was elected as a member of the finance committee. 她被选为财务委员会成员。  
-3. A committee is usually composed of experts in various fields. 委员会通常由各个领域的专家组成。  
-[搭] committee meeting 委员会会议  
-[联] com (共同) + mit (送) + -tee → 共同送去意见的人群  
+committee /kəˈmɪti/, /ˈkɑːmɪti/
+n. 委员会；全体委员；（一小组）受托人，托管人
+[例]
+1.The committee is responsible for making decisions. 委员会负责做决定。
+2.The committee consists of ten members. 委员会由十名成员组成。
+3.The committee met to discuss the budget. 委员会开会讨论预算。
+[搭] committee chair 主席；committee meeting 委员会会议
+[联] com- (一起) + mit- (送) + -tee (-人) ——> 一起送人，即共同管理的人
 
-**council** /ˈkaʊnsl/  
-n. 市政会；议会；顾问团  
-[例]  
-1. The city council approved the new housing project. 市议会批准了新的住房项目。  
-2. The school board is a type of council. 学校董事会是一种类型的议会。  
-3. A student council was established to address student issues. 成立了一个学生会来解决学生的问题。  
-[搭] city council 市议会；school council 学生会  
+council /ˈkaʊnsl/
+n. 市政委员会；理事会；顾问团；咨询委员会
+[例]
+1.The city council approved the new building plan. 市议会批准了新的建筑计划。
+2.The school council organizes student events. 学校理事会组织学生活动。
+3.The council held a meeting to address community concerns. 理事会召开会议解决社区问题。
+[搭] city council 市政府；school council 学生会
+[联] coun- (共同) + cil- (商议) ——> 共同商议的团体
 
-**delegate** /ˈdelɪɡeɪt/  
-n. 代表；v. 授权；委托  
-- [例]  
-1. He was chosen as the delegate for the international conference. 他被选为国际会议的代表。  
-2. She delegated the task to her assistant. 她把任务委托给了她的助理。  
-3. Delegates from different countries will attend the summit. 来自不同国家的代表将参加峰会。  
-[搭] delegate to 推派……为代表；delegate authority 授权  
-[联] de (去掉) + leg (选择) + -ate → 去掉一部分人，选出另一部分代表  
+delegate /ˈdelɪɡeɪt/
+n. 代表；v. 推选……为代表；委派……为代表
+[例]
+1.John was chosen as the delegate for the conference. 约翰被选为会议代表。
+2.The company delegated him to negotiate with the union. 公司派他去与工会谈判。
+3.She will delegate the task to her assistant. 她会把任务交给助理。
+[搭] delegate to 外交使节；delegation 委员会
+[联] de- (下) + leg- (选择) + -ate (-人) ——> 下令选择的人
 
-**specialist** /ˈspɛʃəlɪst/  
-n. 专家；专科医生  
-[例]  
-1. She is a specialist in ancient history. 她是古代历史方面的专家。  
-2. A cardiologist is a heart specialist. 心脏病专家就是专门研究心脏的医生。  
-3. The company hired a specialist in digital marketing. 公司聘请了一位数字营销专家。  
-[搭] medical specialist 医学专家；technical specialist 技术专家  
-[联] special (特别的) + -ist (……的人)  
+specialist /ˈspɛʃəlɪst/
+n. 专家；专科医生；行家
+[例]
+1.He is a specialist in ancient history. 他是古代历史方面的专家。
+2.A dentist is a type of medical specialist. 牙医是一种医学专家。
+3.The article discusses the role of specialists in technology. 文章讨论了技术专家的作用。
+[搭] specialist knowledge 专业知识；specialist skills 专业技能
+[联] special (特别的) + -ist (-者) ——> 专门研究特别事物的人
 
-**consultant** /kənˈsʌltənt/  
-n. 顾问；咨询师  
-[例]  
-1. He works as a consultant for a multinational corporation. 他在一家跨国公司担任顾问。  
-2. A financial consultant can help you manage your money better. 一位理财顾问可以帮助你更好地管理资金。  
-3. The hospital employs several consultants in different specialties. 医院雇用了几位不同专业的顾问医生。  
-[搭] management consultant 管理顾问；IT consultant IT顾问  
-[联] consult (咨询) + -ant (表示人)  
+consultant /kənˈsʌltənt/
+n. 顾问；顾问医师；咨询师
+[例]
+1.She works as a consultant for a law firm. 她在一家律师事务所担任顾问。
+2.The company hired a consultant to improve their marketing strategy. 公司聘请了一位顾问来改进他们的营销策略。
+3.The consultant provided valuable advice. 这位顾问提供了宝贵的建议。
+[搭] management consultant 管理顾问；consultant fee 咨询费
+[联] consult (咨询) + -ant (-者) ——> 提供咨询的人
 
-**veterinary** /vɛˈtɛrəri/  
-adj. 兽医的；n. 兽医  
-- [例]  
-1. Veterinary medicine focuses on the health of animals. 兽医学专注于动物健康。  
-2. The veterinary clinic offers services for pets and farm animals. 这家兽医诊所为宠物和农场动物提供服务。  
-3. Many veterinarians specialize in treating large animals. 许多兽医专门治疗大型动物。  
-[搭] veterinary science 兽医学；veterinary hospital 兽医院  
-[联] vet (老兵) + -inary (与……有关)  
+veterinary /vɛtərˈnɛri/
+adj. 兽医的；兽医学的
+[例]
+1.Veterinary medicine is a field of study. 兽医学是一门学科。
+2.Veterinary care is essential for animals. 兽医护理对动物来说是必需的。
+3.Veterinary clinics offer treatment for pets. 兽医诊所提供宠物治疗服务。
+[搭] veterinary science 兽医学；veterinary hospital 兽医院
+[联] vet (老兵) + -inary (-相关) ——> 关于老兵的医疗
 
-**counsellor** /ˈkaʊnslər/  
-n. 顾问；法律顾问；心理辅导员  
-[例]  
-1. The counsellor provided advice on career planning. 顾问提供了职业规划的建议。  
-2. A legal counsellor helps clients with their legal issues. 法律顾问帮助客户处理法律问题。  
-3. School counsellors often assist students with personal problems. 校园心理咨询师经常帮助学生解决个人问题。  
-[搭] marriage counsellor 婚姻顾问；career counsellor 职业顾问  
+counsellor /ˈkaʊnslər/
+n. 顾问；法律顾问；心理辅导员
+[例]
+1.The counsellor helped her deal with stress. 心理辅导员帮助她应对压力。
+2.A legal counsellor can provide advice. 法律顾问可以提供建议。
+3.The university has a counsellor for international students. 大学为国际学生配备了辅导员。
+[搭] career counsellor 职业顾问；school counsellor 校园辅导员
+[联] counsel (建议) + -or (-者) ——> 提供建议的人
 
-**solicitor** /səˈlɪsɪtər/  
-n. 律师（英式）；事务律师  
-[例]  
-1. A solicitor prepares legal documents for clients. 事务律师为客户准备法律文件。  
-2. Solicitors often work closely with barristers. 事务律师通常与出庭律师密切合作。  
-3. Clients usually go to a solicitor first when they need legal advice. 客户通常先去找事务律师寻求法律建议。  
-[搭] family solicitor 家庭律师；commercial solicitor 商务律师  
+solicitor /səˈlɪsɪtər/
+n. 律师（英国称谓，相当于美国的律师）
+[例]
+1.The solicitor prepared the contract. 律师准备了合同。
+2.A solicitor advises clients on legal matters. 律师就法律事务向客户提供咨询。
+3.The solicitor represented the client in court. 律师在法庭上代表客户。
+[搭] family solicitor 家庭律师；solicitor's office 律师事务所
+[联] solicit (请求) + -or (-者) ——> 请求法律帮助的人
 
-**attorney** /əˈtɜːrni/  
-n. 律师（美式）；代理人  
-[例]  
-1. An attorney represents clients in court. 律师在法庭上代表客户。  
-2. The attorney general is the chief law officer of the government. 总检察长是政府的首席法律官员。  
-3. A criminal attorney specializes in defending people accused of crimes. 刑事律师专门负责为被控犯罪的人辩护。  
-[搭] defense attorney 辩护律师；corporate attorney 公司律师  
+attorney /əˈtɜːrnɪ/
+n. 律师；代理人；（美国指检察官）
+[例]
+1.An attorney defends the accused person. 律师为被告辩护。
+2.The attorney general is the chief lawyer of the government. 总检察长是政府的首席律师。
+3.The attorney negotiated a settlement. 律师协商达成了和解。
+[搭] criminal attorney 刑事律师；defense attorney 辩护律师
+[联] at- (加强意义) + turn (转) + -ey (-人) ——> 转移案件的人
 
-**umpire** /ˈʌmpaɪər/  
-n. 裁判；仲裁者  
-[例]  
-1. The umpire called a foul during the basketball game. 裁判在篮球比赛中判了犯规。  
-2. The two parties agreed to let an umpire resolve their dispute. 双方同意让一名仲裁人解决他们的争端。  
-3. The umpire's decision is final and cannot be challenged. 裁判的判决是最终的，不能被质疑。  
-[搭] baseball umpire 棒球裁判；football umpire 足球裁判
+umpire /ʌmˈpaɪər/
+n. 裁判；仲裁人；v. 当裁判；裁定
+[例]
+1.The umpire called the ball fair. 裁判判定这个球是界内。
+2.The two parties agreed to let an umpire decide. 双方同意让一位裁判来裁决。
+3.The umpire blew the whistle to stop the game. 裁判吹哨暂停比赛。
+[搭] baseball umpire 棒球裁判；umpire decision 裁判判决
+[联] up- (向上) + mire (泥沼) ——> 在泥沼中向上指引的人
 
 cashier /kəˈʃɛr/, /ˈkæʃˌɛr/
 n. 收银员；出纳员

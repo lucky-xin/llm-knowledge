@@ -93,24 +93,27 @@ academic / ˌækəˈdemɪk /
 adj. 学业的，学术的；学校的，学院的；学业（成绩）优秀的，善于学习的；不切实际的，空谈的
 n. 大学教师，学者；（学校或学院的）课程；大学生
 [例]  
-1. He is an academic who specializes in ancient history. 他是一位研究古代历史的学者。  
-2. The academic world is full of debates and discussions. 学术界充满了辩论和讨论。  
-3. This academic paper provides valuable insights into modern technology. 这篇学术论文对现代技术提供了有价值的见解。  
+1.The academic is writing a book about modern art. 这位学者正在写一本关于现代艺术的书。  
+2.She is an academic at Oxford University. 她是牛津大学的一名学者。  
+3.The academics discussed the controversial topic. 学者们讨论了这个有争议的话题。  
 [搭]  
-1.academic achievement 学术成就  
-2.academic freedom 学术自由  
-[联] 学（school）+ -ic ——> 学院派的
+1.academic staff 学术人员
+2.academic research 学术研究
+3.academic circles 学术界
+4.academic year 学年
+[联] 学（school）+ -ic（名词后缀）——> 学者  
 
-academician / ˌəkædəˈmɪʃ(ə)n /
-n. 学会会员，院士；<美>学者，知识分子；<美>大学教师
-[例]
-1.He was proud of being an academician of this academy. 成为这家学院的院士他很骄傲。
-2.Or suppose a carpenter did, or a farmer, or, indeed, almost anyone but an academician. 或者设想一位木匠亦或是一位农民所做的。确实或者更是一名院士。
-3.This kind of resources has also a certain influence on the academic evaluation for the academician candidates. 这种资源对院士候选人的学术评价也产生了一定的影响。
+learn / lɜːrn /  
+v. 学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训；<旧>教导（某人）
+[例]  
+1.I learned how to swim last summer. 去年夏天我学会了游泳。  
+2.He learned the news from the radio. 他从收音机里得知了这个消息。  
+3.We need to learn from our mistakes. 我们需要从错误中吸取教训。  
 [搭]  
-1.Royal Academician 皇家艺术院会员
-2.National academician 国家科学院院士；国立研究院院士
-3.He Duohui Academician Scholarship 何多慧院士奖学金
+1.learn by heart 牢记
+2.learn of 得知
+3.learn about 了解；学习
+4.learn by heart 记住；背诵；背熟；牢记
 
 study /ˈstʌdi/  
 n.（专题）研究，调查；（尤指通过书本的）学习，攻读；用于某些学科名称（studies）；功课，课业，学业（studies）；学术专著，专题论文
@@ -195,17 +198,6 @@ n. 有文化的人
 2.literate society 文明社会  
 [联] liter（字母）+ -ate  ——> 能读写的人
 
-illiterate / ɪˈlɪtərət /
-adj. 不识字的，文盲的；行文拙劣的，不通顺的；（对某个学科）无知的，不了解的
-[例]
-1.A large percentage of the population is illiterate. 人口中文盲的比例相当高。
-2.Most 11-year-olds are not encouraged to develop reading skills; a small but significant number are illiterate. 大多数11岁的儿童没有被鼓励去培养阅读技能。有为数不多、但足以引起人们注意的数目的儿童是文盲。
-3.Nearly a billion people are illiterate. 有近10亿人是文盲。
-[搭]
-1.functional illiterate 半文盲；挴
-2.computer illiterate 电脑盲；电脑文盲
-3.legal illiterate 法盲
-
 illiteracy / ɪˈlɪtərəsi /
 n. 文盲；无知；表达错误
 [例]  
@@ -232,14 +224,27 @@ v. 读（数）；数，列举
 
 controversial / ˌkɑːntrəˈvɜːrʃ(ə)l /
 adj. 有争议的，引发争论的
-[例]
-1.The controversial policy has sparked heated debates among the public. 这项有争议的政策在公众中引发了激烈的争论。
-2.His controversial remarks caused widespread outrage. 他有争议的言论引起了广泛的愤怒。
-3.The controversial decision was eventually overturned. 这个有争议的决定最终被推翻了。
-[搭] 
-1.controversial issue 有争议的问题
-2.controversial debate 有争议的辩论
-[联] contro- (反对) + vers- (转向) + -ial (形容词后缀) ——> 转向反对，即引起争议的
+[例]  
+1.The controversial policy caused public debate. 这项有争议的政策引发了公众辩论。  
+2.His controversial remarks sparked outrage. 他有争议的言论激起了愤怒。  
+3.The controversial issue remains unresolved. 这个有争议的问题仍未解决。  
+[搭]  
+1.controversial debate 有争议的辩论
+2.controversial figure 有争议的人物
+3.controversial issues 争议的问题；争论性问题
+[联] contro-（反对）+ vers（转）+ -ial（形容词后缀）——> 转向对立面，引发争议  
+
+problem / ˈprɑːbləm /  
+n. 问题，难题，困难；疾病；（通过算数或仔细思考而解决的）题；（感觉上）不喜欢，不情愿；（尤指国际象棋等）棋式，排局
+adj. 难对付的，成问题的
+[例]  
+1.The main problem is lack of funding. 主要问题是资金不足。  
+2.We need to solve this problem quickly. 我们需要尽快解决这个问题。  
+3.Every problem has a solution. 每个问题都有解决办法。  
+[搭]  
+1.environmental problem 环境问题
+2.social problem 社会问题
+[联] prob（可能）+ lem（事情）——> 可能发生的事情  
 
 issue / ˈɪʃuː /
 n. 议题，争论点；（报纸、杂志等的）期，号；发放，分配；（新股票或邮票等的）发行；子女，后嗣；流出，发出；<旧>结果，后果
@@ -262,6 +267,18 @@ n. 事情，事务；私事，私通；(复数)事件，事件集合。
 1.state affairs 国事
 private affairs 私事
 [联] af- (加强意义) + -fair (源自拉丁语 "facere"，意为“做”) ——> 做的事情
+
+controversial / ˌkɑːntrəˈvɜːrʃ(ə)l /
+adj. 有争议的，引发争论的
+[例]  
+1.The controversial policy caused public debate. 这项有争议的政策引发了公众辩论。  
+2.His controversial remarks sparked outrage. 他有争议的言论激起了愤怒。  
+3.The controversial issue remains unresolved. 这个有争议的问题仍未解决。  
+[搭]  
+1.controversial debate 有争议的辩论
+2.controversial figure 有争议的人物
+3.controversial issues 争议的问题；争论性问题
+[联] contro-（反对）+ vers（转）+ -ial（形容词后缀）——> 转向对立面，引发争议  
 
 puzzle / ˈpʌz(ə)l /
 v. 使困惑，使迷惑；（因迷惑而）苦思，冥思苦想；（通过苦苦思索）解决（或弄清楚），理出头绪（puzzle sth. out）
@@ -326,17 +343,6 @@ n.（应考）突击准备，死记硬背；极度拥挤
 2.cram school 补习班；补习学校，强化学校
 3.cram for 临时抱佛脚；填鸭式地学习；死记硬背
 
-emphasis / ˈemfəsɪs /
-n. 重要性，重点强调；重读，强调；（表达的）强有力
-[例]
-1.The course has a vocational emphasis. 这门课程着重职业培训。
-2.Too much emphasis is placed on research. 把重点过多地放在研究上。
-3.Our company puts the emphasis on quality. 我们公司重视质量。
-[搭]
-1.emphasis on 着重于；对…的强调
-2.put emphasis on 重视，强调；把重点放在……
-3.lay emphasis on 强调；把重点放在
-
 emphasise / ˈemfəsaɪz /
 v. 强调，着重指出
 [例]
@@ -357,15 +363,16 @@ v. 提高，增强；提升
 1.enhance performance 提高性能
 [联] en- (加强意义) + hance (源自拉丁语 "hans") ——> 加强力量
 
-enable / ɪˈneɪb(ə)l /
-v. 使能够，使可能；激活，启动；准许，授权
-[例]
-1.The new software will enable users to edit videos more easily. 新软件将使用户更轻松地编辑视频。
-2.Her encouragement enabled him to overcome his fear of public speaking. 她的鼓励使他克服了对公开演讲的恐惧。
-3.This app enables you to track your daily steps. 这款应用程序可以让你跟踪每天的步数。
-[搭]
+enable / ɪˈneɪbl /  
+v. 使能够；使可能  
+[例]  
+1.Technology enables us to work from home. 技术让我们能够在家工作。  
+2.New tools enabled scientists to make breakthroughs. 新工具让科学家们取得了突破。  
+3.The app enables users to track their progress. 这款应用程序让用户可以追踪自己的进展。  
+[搭]  
 1.enable sb. to do sth. 使某人能够做某事
-[联] en- (进入) + able (能够) ——> 能够做到
+2.enablement 启用，激活
+[联] en-（使）+ able（能够）——> 使能够
 
 inspire / ɪnˈspaɪər /
 v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）；引起，导致；吸气，吸入
@@ -462,17 +469,6 @@ n. 虐待，凌辱；滥用，妄用；辱骂；舞弊，腐败；糟蹋；性�
 4.child abuse 虐待儿童，摧残儿童
 [联] ab- (加强) + use (使用)——> 强烈使用。
 
-intelligence / ɪnˈtelɪdʒəns /
-n. 智力，才智；智能；情报，谍报；情报机构
-[例]
-1.Why was military intelligence so lacking? 为什么军事情报如此缺乏？
-2.He deserted from army intelligence last month. 他上个月从军队情报部门开了小差。
-3.Many dyslexics have above-average intelligence. 很多诵读困难者的智力都在平均水平以上。
-[搭]
-1.artificial intelligence 人工智能
-2.competitive intelligence 竞争情报
-3.business intelligence 商业智能
-
 intelligent / ɪnˈtelɪdʒənt /
 adj. 聪明的；有智力的；智能的
 [例]
@@ -511,6 +507,32 @@ n. 知识分子
 4.intellectual capital 知识资本；智慧资本
 [联] intel (智力) + lect (选择) + -ual (形容词后缀) ——> 选择智力的人
 
+clever / ˈklɛvər /  
+adj. 聪明的，机灵的；机敏的，巧妙的；诙谐的；熟练的，灵巧的；耍小聪明的，滑头的；真聪明（用于讽刺某人做的蠢事）；<英，非正式>健壮的，健康的
+[例]  
+1.The clever boy solved the puzzle quickly. 这个聪明的男孩很快解决了谜题。  
+2.She’s a clever student with excellent grades. 她是个聪明的学生，成绩优异。  
+3.Clever people often think outside the box. 聪明的人常常跳出框框思考。  
+[搭]  
+1.clever trick 精明的把戏
+2.be clever at 擅长；擅长于考试大论坛；对某事很灵巧
+[联] cle-（清晰地）+ ver（看）——> 看得清楚，聪明  
+
+smart / smɑːrt /  
+adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的
+v.（身体部位）感到刺痛；（因批评、失败等）难过，烦恼
+n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
+adv. 机敏地，整洁地，潇洒地
+[例]  
+1.The smart phone is very popular. 这款智能手机非常流行。  
+2.He’s a smart guy who always finds solutions. 他是一个聪明的人，总是能找到解决方案。  
+3.The students looked smart in their uniforms. 学生们穿着校服看起来很精神。  
+[搭]  
+1.smart city 智慧城市
+2.smart casual 休闲但整洁的着装
+3.smart phone 智能电话
+[联] 与clever近义，但更多用于形容外在形象  
+
 all-round / ɔːlˈraʊnd /
 adj. 全面的，多方面的
 [例]
@@ -518,7 +540,7 @@ adj. 全面的，多方面的
 2.The company provides all-round services. 这家公司提供全方位的服务。
 3.His all-round performance was impressive. 他的全面表现令人印象深刻。
 [搭]
-all-round development 全面发展
+1.all-round development 全面发展
 
 genius / ˈdʒiːniəs /
 n. 天赋，天资；天才，智商很高的人；精华，精髓；对某人有很大好（或坏）影响的人；（神话中某个人、地方或机构的）守护神；（民族或时代的）普遍特征
@@ -580,9 +602,9 @@ v. <古>知道；即，就是
 aptitude / ˈæptɪtuːd /
 n. 天资，天赋；自然的倾向，习性；适宜
 [例]
-1. She has an aptitude for music. 她有音乐天赋。
-2. The program tests your aptitude for science. 该计划测试你对科学的适应性。
-3. Natural aptitude can be developed with practice. 天赋可以通过练习得到发展。
+1.She has an aptitude for music. 她有音乐天赋。
+2.The program tests your aptitude for science. 该计划测试你对科学的适应性。
+3.Natural aptitude can be developed with practice. 天赋可以通过练习得到发展。
 [搭]
 1.language aptitude 语言天赋
 2.mathematical aptitude 数学才能
@@ -592,124 +614,15 @@ n. 天资，天赋；自然的倾向，习性；适宜
 capable / ˈkeɪpəb(ə)l /
 adj. 有能力的；有本领的，能干的；可以……的，容许……的
 [例]
-1. She is capable of great things. 她能够成就大事。
-2. The machine is capable of handling large amounts of data. 这台机器能够处理大量数据。
-3. He is capable of solving this problem. 他有能力解决这个问题。
+1.She is capable of great things. 她能够成就大事。
+2.The machine is capable of handling large amounts of data. 这台机器能够处理大量数据。
+3.He is capable of solving this problem. 他有能力解决这个问题。
 [搭]
 1.capable of doing sth. 能够做某事
 2.capable person 能干的人
 3.capable of 有…能力的；可…的
 4.capable person 有行为能力人
 [联] cap (抓住) + -able (能够的) ——> 能够抓住机会的人。请提供需要解析的单词或词组，我将按照您要求的格式逐一输出结果
-
-painstaking / ˈpeɪnzteɪkɪŋ /
-adj. 精心的，细致的；刻苦的，下苦功的
-n. 辛苦，勤勉
-[例]
-1.He completed the project with painstaking attention to detail. 他以极其细致的态度完成了这个项目。
-2.The artist's painstaking work made the painting look almost lifelike. 艺术家的精心创作使这幅画看起来几乎栩栩如生。
-3.The painstaking research took several years to complete. 这项耗时的研究花了好几年才完成。
-[搭] 
-1.painstakingly 精心地；费力地
-2.painstaking effort  心血；辛苦的努力；不辞辛劳的努力
-[联] pain (痛苦) + taking (拿取) ——> 不怕麻烦地付出努力
-
-academic / ækəˈdɛmɪk /  
-adj. 学术的；学院的；理论的  
-[例]  
-1.Academic success is often measured by grades. 学术上的成功通常以成绩来衡量。  
-2.The professor gave an academic lecture on ancient history. 教授做了一场关于古代历史的学术讲座。  
-3.The academic world values research and publication. 学术界重视研究和发表成果。  
-[搭]  
-1.academic circle 学术圈
-2.academic journal 学术期刊
-[联] 学（school）+ ed-（形容词后缀）——> 学术的  
-
-academic / ˌækəˈdemɪk /
-adj. 学业的，学术的；学校的，学院的；学业（成绩）优秀的，善于学习的；不切实际的，空谈的
-n. 大学教师，学者；（学校或学院的）课程；大学生
-[例]  
-1.The academic is writing a book about modern art. 这位学者正在写一本关于现代艺术的书。  
-2.She is an academic at Oxford University. 她是牛津大学的一名学者。  
-3.The academics discussed the controversial topic. 学者们讨论了这个有争议的话题。  
-[搭]  
-1.academic staff 学术人员
-2.academic research 学术研究
-3.academic circles 学术界
-4.academic year 学年
-[联] 学（school）+ -ic（名词后缀）——> 学者  
-
-learn / lɜːrn /  
-v. 学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训；<旧>教导（某人）
-[例]  
-1.I learned how to swim last summer. 去年夏天我学会了游泳。  
-2.He learned the news from the radio. 他从收音机里得知了这个消息。  
-3.We need to learn from our mistakes. 我们需要从错误中吸取教训。  
-[搭]  
-1.learn by heart 牢记
-2.learn of 得知
-3.learn about 了解；学习
-4.learn by heart 记住；背诵；背熟；牢记
-
-controversial / ˌkɑːntrəˈvɜːrʃ(ə)l /
-adj. 有争议的，引发争论的
-[例]  
-1.The controversial policy caused public debate. 这项有争议的政策引发了公众辩论。  
-2.His controversial remarks sparked outrage. 他有争议的言论激起了愤怒。  
-3.The controversial issue remains unresolved. 这个有争议的问题仍未解决。  
-[搭]  
-1.controversial debate 有争议的辩论
-2.controversial figure 有争议的人物
-3.controversial issues 争议的问题；争论性问题
-[联] contro-（反对）+ vers（转）+ -ial（形容词后缀）——> 转向对立面，引发争议  
-
-problem / ˈprɑːbləm /  
-n. 问题，难题，困难；疾病；（通过算数或仔细思考而解决的）题；（感觉上）不喜欢，不情愿；（尤指国际象棋等）棋式，排局
-adj. 难对付的，成问题的
-[例]  
-1.The main problem is lack of funding. 主要问题是资金不足。  
-2.We need to solve this problem quickly. 我们需要尽快解决这个问题。  
-3.Every problem has a solution. 每个问题都有解决办法。  
-[搭]  
-1.environmental problem 环境问题
-2.social problem 社会问题
-[联] prob（可能）+ lem（事情）——> 可能发生的事情  
-
-enable / ɪˈneɪbl /  
-v. 使能够；使可能  
-[例]  
-1.Technology enables us to work from home. 技术让我们能够在家工作。  
-2.New tools enabled scientists to make breakthroughs. 新工具让科学家们取得了突破。  
-3.The app enables users to track their progress. 这款应用程序让用户可以追踪自己的进展。  
-[搭]  
-enable sb. to do sth. 使某人能够做某事  
-enablement 启用，激活  
-[联] en-（使）+ able（能够）——> 使能够
-
-clever / ˈklɛvər /  
-adj. 聪明的，机灵的；机敏的，巧妙的；诙谐的；熟练的，灵巧的；耍小聪明的，滑头的；真聪明（用于讽刺某人做的蠢事）；<英，非正式>健壮的，健康的
-[例]  
-1.The clever boy solved the puzzle quickly. 这个聪明的男孩很快解决了谜题。  
-2.She’s a clever student with excellent grades. 她是个聪明的学生，成绩优异。  
-3.Clever people often think outside the box. 聪明的人常常跳出框框思考。  
-[搭]  
-1.clever trick 精明的把戏
-[联] cle-（清晰地）+ ver（看）——> 看得清楚，聪明  
-
-smart / smɑːrt /  
-adj. 聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的
-v.（身体部位）感到刺痛；（因批评、失败等）难过，烦恼
-n. 剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）
-adv. 机敏地，整洁地，潇洒地
-[例]  
-1.The smart phone is very popular. 这款智能手机非常流行。  
-2.He’s a smart guy who always finds solutions. 他是一个聪明的人，总是能找到解决方案。  
-3.The students looked smart in their uniforms. 学生们穿着校服看起来很精神。  
-[搭]  
-1.smart city 智慧城市
-2.smart casual 休闲但整洁的着装
-3.smart phone 智能电话
-[联] 与clever近义，但更多用于形容外在形象  
 
 excellent / ˈɛksələnt /  
 adj. 极好的，卓越的
@@ -836,6 +749,18 @@ adj. 勤奋的，勤勉的；细致的，潜心的
 2.diligent in 勤勉于…，勤奋好学
 [联] dilig- (勤勉) + -ent (形容词后缀) ——> 勤勉的
 
+painstaking / ˈpeɪnzteɪkɪŋ /
+adj. 精心的，细致的；刻苦的，下苦功的
+n. 辛苦，勤勉
+[例]
+1.He completed the project with painstaking attention to detail. 他以极其细致的态度完成了这个项目。
+2.The artist's painstaking work made the painting look almost lifelike. 艺术家的精心创作使这幅画看起来几乎栩栩如生。
+3.The painstaking research took several years to complete. 这项耗时的研究花了好几年才完成。
+[搭] 
+1.painstakingly 精心地；费力地
+2.painstaking effort  心血；辛苦的努力；不辞辛劳的努力
+[联] pain (痛苦) + taking (拿取) ——> 不怕麻烦地付出努力
+
 skill / skɪl /
 n. 技巧， 技艺；（特定的）技术，技能
 v. 培训（工人）
@@ -886,17 +811,6 @@ n. 校长（仅用于男生学校或男女同校）
 1.headmaster's office 校长办公室
 2.assistant headmaster 副校长；中小学副校长
 [联] head (头) + master (主人) ——> 学校的主人。
-
-president / ˈprezɪdənt /
-n. 总统，国家主席；（机构、俱乐部、学院等的）负责人，会长，院长，主席；（公司）董事长，（银行）行长，总裁；（基督教）圣餐主持教士
-[例]
-1.His aim was to become president. 他的目的是当总统。
-2.The President hits town tomorrow. 总统明天到镇子上来。
-3.Who succeeded Kennedy as President? 接替肯尼迪任总统的是谁？
-[搭]
-1.vice president 副总统；副主席
-2.former president 前任总统
-3.senior vice president 高级副总裁
 
 principal / ˈprɪnsəpəl /
 adj. 最重要的，首要的；本金的，母金的
@@ -949,19 +863,6 @@ n. 教授；<美>（大学的）讲师，教员；信仰表示者，宣称信仰
 4.university professor 大学教授
 [联] professor = teacher
 
-associate / əˈsoʊsieɪt; əˈsoʊʃieɪt /
-v. 联想，联系；支持，同意；交往，（尤指）混在一起
-n. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想
-adj. 副的，准的，非正式的；联合的，有关连的
-[例]
-1.Mr. Lin is associate director of the Institute. 林先生是该研究所的副主任。
-2.She didn't want to associate with the likes of me. 她不想与我这种类型的人交往。
-3.He will remain affiliated with the firm as a special associate director. 他会作为特别副主管，继续与这家公司保持联系。
-[搭]
-1.associate professor 副教授
-2.associate with 联合；与…联系在一起；和…来往
-3.associate degree 美国大学修满二年课程的肄业证书
-
 scholar / ˈskɑːlər /
 n. 学者；有学问的人；奖学金获得者；<非正式>聪颖勤奋的学生
 [例]
@@ -974,18 +875,29 @@ n. 学者；有学问的人；奖学金获得者；<非正式>聪颖勤奋的学
 3.research scholar 研究学者；研究员
 [联] scholar = learned person
 
-mentor / ˈmentər /
-n. 导师，指导者
-v. 给予培训
+scientist / ˈsaɪəntɪst /
+n. 科学家
 [例]
-1.My mentor helped me choose the right career path. 我的导师帮助我选择了合适的职业道路。
-2.She has been my mentor since I started this job. 自从我开始这份工作以来，她一直是我的导师。
-3.I met my mentor at a professional conference. 我是在一次专业会议上遇到我的导师的。
+1.A scientist is conducting an experiment in the lab. 一名科学家正在实验室进行实验。
+2.He is considered one of the greatest scientists of all time. 他被认为是历史上最伟大的科学家之一。
+3.Scientists have discovered a new species of plant. 科学家们发现了一种新的植物物种。
 [搭]
-1.mentorship 训练，指导
-2.Minister Mentor内阁资政
-3.Math Mentor 数学顾问；数学参谋
-[联] ment- (引导) + -or (表示人) ——> 引导他人的人
+1.scientist community 科学界
+2.scientific research conducted by scientists 科学家开展的科学研究
+3.computer scientist 计算机科学家
+4.social scientist 社会科学家
+[联] sci (science) + entist (表示从事某职业的人) ——> 科学从业者
+
+mento / ˈmentəʊ /
+n. （电影、音乐等的）配乐
+[例]
+1.The film's soundtrack was composed by a famous mento. 这部电影的配乐是由一位著名的作曲家创作的。
+2.The mento gave the movie a unique emotional tone. 配乐为这部电影赋予了独特的感情基调。
+3.I always listen to the mento when I watch this movie. 我看这部电影的时候总是会听它的配乐。
+[搭]
+1.original mento 原声配乐
+2.mento composer 配乐作曲家
+[联] ment (心灵) + o (表示相关物) ——> 影响心灵的音乐
 
 tutor / ˈtuːtər /
 n. 家庭教师，私人教师；导师，指导教师；<美>大学助教；<英>（负责成人教育或在大中学中有特别任务的）教师；（尤指音乐）课本
@@ -1179,9 +1091,9 @@ n. 仪式，典礼；礼节，礼仪，客套
 bachelor / ˈbætʃələr /
 n. 未婚男子，单身汉；学士；尚未交配的雄鸟
 [例]
-1. He earned his bachelor's degree in engineering. 他获得了工程学学士学位。
-2. Bachelor parties are common before weddings. 婚前单身派对很常见。
-3. The bachelor lived alone in a small apartment. 这个单身汉独自住在一套小公寓里。
+1.He earned his bachelor's degree in engineering. 他获得了工程学学士学位。
+2.Bachelor parties are common before weddings. 婚前单身派对很常见。
+3.The bachelor lived alone in a small apartment. 这个单身汉独自住在一套小公寓里。
 [搭] 
 1.bachelor degree 学士学位
 2.bachelor of arts 文学士；文学学士；文科学士；学士学位
@@ -1201,6 +1113,18 @@ adj. 熟练的，精通的；最重要的，主要的；原版的
 2.master of控制；精通…的能手
 3.master plan总体规划；蓝图
 [联] master = mast (桅杆) + er ——> 控制桅杆的人
+
+doctor / ˈdɑːktər /
+n. 医生，大夫；诊所（the doctor）；博士；<美>牙医，兽医 (Dr)；博学的人；（钓鱼用）人造蝇；凉爽海风；<俚>船上的厨师
+v. 篡改，伪造；将有害物掺入（食物或饮料）中；阉割（动物）；为……治病，给……疗伤；授以博士学位；修理（机器等），修复；当医生，行医
+[例]
+1.The doctor diagnosed her with a common cold. 医生诊断她患上了普通感冒。
+2.He is a doctor of philosophy. 他是一位哲学博士。
+3.The doctor prescribed some medicine for his patient. 医生为他的病人开了一些药。
+[搭]
+1.family doctor 家庭医生
+2.doctorate degree 博士学位
+[联] doc (表示有能力) + tor (表示从事某职业的人)——> 有能力治病救人的人。
 
 fresher / ˈfreʃər /
 n. （非正式）大学一年级新生
@@ -1253,16 +1177,6 @@ n. 较年长的人；老年人，长者；地位（或级别）较高者，上�
 3.senior management 高级管理
 [联] senior 和 junior 对应，分别表示“高年级”和“低年级”
 
-alumnus / əˈlʌmnəs /
-n. 男校友；男毕业生
-[例]
-1.We invited a famous alumnus to give away the school prizes. 我们请了一位著名的校友来颁发学校的奖金。
-2.Are you a Nankai Alumnus? 您是南开校友吗？
-3.Our school has received a windfall from a wealthy alumnus. 我们学校意外收到一笔来自校友的捐款。
-[搭]
-2.alumni alumnus 校友
-3.Alumnus office 校友办公室
-
 alumni / əˈlʌmnaɪ /
 n. 校友，毕业生（alumnus 的复数）
 [例]
@@ -1301,9 +1215,9 @@ n. 目标，定位；方向，朝向；（基本的）态度，倾向；（岗�
 platform / ˈplætfɔːrm /
 n. 平台；讲台，舞台；（火车站的）月台；<英>（公共汽车上供乘客上下车的）踏脚台；发言机会，论坛；契机
 [例]
-1. The politician gave a speech from the platform. 政治家从讲台上发表演讲。
-2. The train arrived at the platform on time. 火车准时到达站台。
-3. We built a digital platform for online learning. 我们建立了一个在线学习平台。
+1.The politician gave a speech from the platform. 政治家从讲台上发表演讲。
+2.The train arrived at the platform on time. 火车准时到达站台。
+3.We built a digital platform for online learning. 我们建立了一个在线学习平台。
 [搭] 
 1.policy platform 政纲
 2.service platform工作台；操作平台
@@ -1332,6 +1246,18 @@ v. 登记，注册；（正式地或公开地）发表意见，提出主张；�
 2.register for 注册；选课
 3.register with 向…登记
 [联] register 可以联想为“re”（再次）+ “gister”（写），表示“再次写下”
+
+roster / ˈrɑːstər /
+n. 花名册；执勤人员表；逐项登记表
+[例]
+1.The company posted a new roster on the bulletin board. 公司在布告栏上张贴了一份新的值班表。
+2.The teacher handed out the student roster. 老师分发了学生名单。
+3.We need to update our roster regularly. 我们需要定期更新我们的名单。
+[搭]
+1.rotation roster 轮班表
+2.staff roster 员工名单
+3.duty roster 值勤表；轮值表；轮职表
+[联] rost (排列) + er (表示工具或事物) ——> 排列的名单
 
 enrol / ɪnˈroʊl /
 v. 使）加入，注册；把（契约或其他文件）归入法院档案；<古>卷起
@@ -1367,17 +1293,6 @@ n. <美>住宿，膳宿；<英>住处，办公处，停留处；（楼房或交�
 3.accommodation space 起居舱室
 4.hostel accommodation 宿舍单位
 [联] ac- (加强意义) + commodare (使合适) ——> 使适合
-
-dormitory / ˈdɔːrmətɔːri /
-n. 集体宿舍；<美>（学院或大学的）学生宿舍楼；<英>（为在附近城市里工作的人提供的）住宅城，郊外居住区
-adj. <英>（供在另一个城市工作的人）住宅的
-[例]
-1.She lived in a college dormitory. 她住在一幢大学宿舍楼里。
-2.They raced back to the dormitory before the nine o'clock curfew. 他们在9点熄灯之前拼命跑回了宿舍。
-3.The students have barricaded themselves into their dormitory building. 学生们将自己堵在宿舍楼里。
-[搭]
-1.dormitory building 宿舍大楼
-2.school dormitory 学校宿舍
 
 dorm / dɔːrm /
 n. 宿舍（=dormitory）；（寄宿学校的）学生宿舍
@@ -1737,54 +1652,6 @@ v.（给……）画速写，（给……）画素描；简述，概述；（用
 2.make a rough sketch 草拟，勾勒草图
 [联] sketch = draw quickly ——> 快速画图。
 
-scientist / ˈsaɪəntɪst /
-n. 科学家
-[例]
-1.A scientist is conducting an experiment in the lab. 一名科学家正在实验室进行实验。
-2.He is considered one of the greatest scientists of all time. 他被认为是历史上最伟大的科学家之一。
-3.Scientists have discovered a new species of plant. 科学家们发现了一种新的植物物种。
-[搭]
-1.scientist community 科学界
-2.scientific research conducted by scientists 科学家开展的科学研究
-3.computer scientist 计算机科学家
-4.social scientist 社会科学家
-[联] sci (science) + entist (表示从事某职业的人) ——> 科学从业者
-
-mento / ˈmentəʊ /
-n. （电影、音乐等的）配乐
-[例]
-1.The film's soundtrack was composed by a famous mento. 这部电影的配乐是由一位著名的作曲家创作的。
-2.The mento gave the movie a unique emotional tone. 配乐为这部电影赋予了独特的感情基调。
-3.I always listen to the mento when I watch this movie. 我看这部电影的时候总是会听它的配乐。
-[搭]
-1.original mento 原声配乐
-2.mento composer 配乐作曲家
-[联] ment (心灵) + o (表示相关物) ——> 影响心灵的音乐
-
-doctor / ˈdɑːktər /
-n. 医生，大夫；诊所（the doctor）；博士；<美>牙医，兽医 (Dr)；博学的人；（钓鱼用）人造蝇；凉爽海风；<俚>船上的厨师
-v. 篡改，伪造；将有害物掺入（食物或饮料）中；阉割（动物）；为……治病，给……疗伤；授以博士学位；修理（机器等），修复；当医生，行医
-[例]
-1.The doctor diagnosed her with a common cold. 医生诊断她患上了普通感冒。
-2.He is a doctor of philosophy. 他是一位哲学博士。
-3.The doctor prescribed some medicine for his patient. 医生为他的病人开了一些药。
-[搭]
-1.family doctor 家庭医生
-2.doctorate degree 博士学位
-[联] doc (表示有能力) + tor (表示从事某职业的人)——> 有能力治病救人的人。
-
-roster / ˈrɑːstər /
-n. 花名册；执勤人员表；逐项登记表
-[例]
-1.The company posted a new roster on the bulletin board. 公司在布告栏上张贴了一份新的值班表。
-2.The teacher handed out the student roster. 老师分发了学生名单。
-3.We need to update our roster regularly. 我们需要定期更新我们的名单。
-[搭]
-1.rotation roster 轮班表
-2.staff roster 员工名单
-3.duty roster 值勤表；轮值表；轮职表
-[联] rost (排列) + er (表示工具或事物) ——> 排列的名单
-
 brochure / broʊˈʃʊr /
 n. 小册子，资料（或广告）手册
 [例]
@@ -1898,18 +1765,6 @@ v. 使满意，使满足
 4.free content 自由内容；免费内容
 [联] content = con + tent ——> 结合 + 容纳
 
-constant / ˈkɑːnstənt /
-adj. 持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的
-n. 常数，恒量；不变的事物
-[例]
-1.This entrance is in constant use. 此入口经常使用。
-2.Her constant nagging drove him away. 她不断的唠叨把他给赶跑了。
-3.Constant rejections made him feel worthless. 不断地遭到拒绝使他觉得一无是处。
-[搭]
-1.constant temperature 恒温；定温；等温
-2.constant pressure 恒压
-3.dielectric constant 介电常数；电容率
-
 context / ˈkɑːntekst /
 n. 背景，环境；上下文，语境
 [例]
@@ -1921,20 +1776,6 @@ n. 背景，环境；上下文，语境
 2.cultural context 文化背景
 3.context switch 上下文交换；上下文切换；环境切换；关联转换
 [联] context = con + text ——> 结合 + 文本
-
-economics / ˌiːkəˈnɑːmɪks /
-n. 经济学；经济情况；经济体制
-[例]
-1.Economics is a social science that studies the production, distribution, and consumption of goods and services. 经济学是一门研究商品和服务的生产、分配和消费的社会科学。
-2.The country's economy is heavily dependent on oil exports. 这个国家的经济严重依赖石油出口。
-3.Macroeconomics focuses on the behavior and performance of an economy as a whole. 宏观经济学关注整个经济体的行为和表现。
-[搭]
-1.macro/micro economics 宏观/微观经济学
-2.economic policy 经济政策
-3.rural economics 农村经济
-4.finance and economics 经济，财经；金融与经济
-5.information economics 信息经济学
-[联] eco (环境，生态) + nomics (规律，法则) ——> 研究经济规律的学科
 
 list / lɪst /
 n. 列表，清单；（船）倾侧；围栏；（织物的）镶边；<旧>渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场
@@ -2052,15 +1893,6 @@ n. 社会学，社会关系研究
 2.economic sociology 经济社会学；社会经济学
 [联] “socio-”表示“社会的”，“-logy”表示“学科”，联想成“社会学科”
 
-sociologist / ˌsoʊsiˈɑːlədʒɪst /
-n. 社会学家，社会关系研究者
-[例]
-1.Sociologist Erving Goffman describes this as "a kind of dimming of lights". 社会学家欧文·高夫曼将此描述为“光线变暗的一种类型”。
-2.I'd like to start by mentioning the research of American sociologist Mark Granovetter in 1973. 首先我想介绍美国社会学家马克·格兰诺维特在1973年的研究。
-[搭]
-1.sociologist E 社会学家
-2.insurgent sociologist 反叛的社会学家
-
 politics / ˈpɑːlətɪks /
 n. 政治，政治活动（事务）；政治事业；政治学；(某团体、组织等内的）争权活动，权术；政治信仰，政治观点
 [例]
@@ -2072,6 +1904,17 @@ n. 政治，政治活动（事务）；政治事业；政治学；(某团体、�
 2.Office Politics 办公室争斗；办公室体制；办公室的关系；爆笑打地鼠
 3.international politics 国际政治
 4.power politics 强权政治
+
+economics / ˌiːkəˈnɑːmɪks /
+n. 经济学；经济情况；经济体制
+[例]
+1.Economics is a complex subject that requires critical thinking. 经济学是一门需要批判性思维的复杂学科。
+2.The country's economics are heavily influenced by global trade. 这个国家的经济受到国际贸易的严重影响。
+3.Understanding basic economics can help you make better financial decisions. 理解基础经济学可以帮助你做出更好的财务决策。
+[搭] 
+1.microeconomics 微观经济学
+2.macro-economics 宏观经济学
+[联] eco- (环境，生态) + nomics (规律、法则) ——> 研究经济规律的学科
 
 marketing / ˈmɑːrkɪtɪŋ /
 n. 促销，营销
@@ -2191,13 +2034,13 @@ n. 物理学；物理特性，物理现象
 chemistry / ˈkemɪstri /
 n. 化学；化学成分，化学反应；（彼此间的）吸引
 [例]
-1.Chemistry is my favorite subject. 化学是我最喜欢的学科。
-2.He has a good understanding of chemistry. 他对化学有很好的理解。
-3.The chemistry between them was undeniable. 他们之间的化学反应显而易见。
-[搭]
-1.chemical engineering 化学工程
+1.My favorite subject in school was chemistry. 我在学校最喜欢的是化学课。
+2.The chemistry between them made their relationship strong. 他们之间的化学反应使他们的关系变得牢固。
+3.Chemistry experiments can be dangerous if not done properly. 如果不正确地进行，化学实验可能会很危险。
+[搭] 
+1.chemical reaction 化学反应
 2.chemistry lab 化学实验室
-[联] chem (化学) + istry (表示学科)——> 研究化学物质及其变化的学科。
+[联] chem- (化学) + -istry (学科后缀) ——> 研究物质变化的学科
 
 agriculture / ˈæɡrɪkʌltʃər /
 n. 农业，农学，农艺
@@ -2316,14 +2159,13 @@ adj. 算术的
 geometry / dʒiˈɑːmətri /
 n. 几何，几何学；几何形状，几何构造；几何体系
 [例]
-1.The study of geometry is essential for understanding spatial relationships. 学习几何学对于理解空间关系至关重要。
-2.In this problem, you need to use geometry to calculate the area of the triangle. 在这个问题中，你需要用几何学来计算三角形的面积。
-3.Geometry helps us understand the properties of shapes and angles. 几何学帮助我们了解形状和角度的性质。
-[搭]
-1.geometry teacher 几何老师
-2.geometry problems 几何问题
-3.analytic geometry 解析几何；分析几何学
-[联] geo (土地) + metry (测量) ——> 测量土地。
+1.Geometry is an important part of mathematics. 几何学是数学的重要组成部分。
+2.The geometry of the building is very modern. 这座建筑的几何设计非常现代。
+3.I need to use geometry to calculate the area of this triangle. 我需要用几何学来计算这个三角形的面积。
+[搭] 
+1.plane geometry 平面几何
+2.solid geometry 立体几何
+[联] geo- (地球，土地) + metry (测量) ——> 测量地球或空间形状的学科
 
 algebra / ˈældʒɪbrə /
 n. 代数；代数学
@@ -2483,7 +2325,7 @@ n. 剩余部分，其余；廉价出售的书，滞销图书；差数，余数�
 v. 削价出售（剩书）
 adj. <罕>剩余的，残余的
 [例]
-1.After dividing 10 by 3, the remainder is 1. 10除以3，余数是1。
+1.After dividing 10 by 3, the remainder is 1.10除以3，余数是1。
 2.The remainder of the money will be used for charity. 剩余的钱将用于慈善事业。
 3.The remainder of the work should be finished soon. 剩下的工作应该很快完成。
 [搭] 
@@ -2678,51 +2520,6 @@ v. 用图表表示
 1.graph paper 坐标纸
 2.graph theory 图论
 [联] graph=graphic ——> 图形的
-
-radiate / ˈreɪdieɪt /
-v.（使品质或情感）显出，流露；辐射，发射；自中心辐射出，向周围伸展；（动物或植物群）辐射形进化
-adj. <罕>辐射（状）的，光芒四射的
-[例]
-1.The sun radiates heat and light. 太阳散发热量和光线。
-2.She radiates confidence. 她显得非常自信。
-3.The flowers seem to radiate joy. 这些花似乎散发出欢乐的气息。
-[搭] 
-1.radiate warmth 散发温暖；radiate energy 辐射能量
-2.radiate from 从……发出
-[联] rad (根) + iate (动词后缀) ——> 像根一样向外扩散
-
-economics / ˌiːkəˈnɑːmɪks /
-n. 经济学；经济情况；经济体制
-[例]
-1.Economics is a complex subject that requires critical thinking. 经济学是一门需要批判性思维的复杂学科。
-2.The country's economics are heavily influenced by global trade. 这个国家的经济受到国际贸易的严重影响。
-3.Understanding basic economics can help you make better financial decisions. 理解基础经济学可以帮助你做出更好的财务决策。
-[搭] 
-1.microeconomics 微观经济学
-2.macro-economics 宏观经济学
-[联] eco- (环境，生态) + nomics (规律、法则) ——> 研究经济规律的学科
-
-chemistry / ˈkemɪstri /
-n. 化学；化学成分，化学反应；（彼此间的）吸引
-[例]
-1.My favorite subject in school was chemistry. 我在学校最喜欢的是化学课。
-2.The chemistry between them made their relationship strong. 他们之间的化学反应使他们的关系变得牢固。
-3.Chemistry experiments can be dangerous if not done properly. 如果不正确地进行，化学实验可能会很危险。
-[搭] 
-1.chemical reaction 化学反应
-2.chemistry lab 化学实验室
-[联] chem- (化学) + -istry (学科后缀) ——> 研究物质变化的学科
-
-geometry / dʒiˈɑːmətri /
-n. 几何，几何学；几何形状，几何构造；几何体系
-[例]
-1.Geometry is an important part of mathematics. 几何学是数学的重要组成部分。
-2.The geometry of the building is very modern. 这座建筑的几何设计非常现代。
-3.I need to use geometry to calculate the area of this triangle. 我需要用几何学来计算这个三角形的面积。
-[搭] 
-1.plane geometry 平面几何
-2.solid geometry 立体几何
-[联] geo- (地球，土地) + metry (测量) ——> 测量地球或空间形状的学科
 
 diagram / ˈdaɪəɡræm /
 n. 图表，图解；几何图形
@@ -3013,6 +2810,73 @@ n. 盎司（重量单位，1盎司约等于28克）；一点点，少量；雪�
 1.ounce of gold 黄金盎司
 2.fluid ounce 液量盎司
 [联] ounce (重量单位) ——> 小部分
+
+density / ˈdensəti /
+n. 稠密，密集；密度
+[例]  
+1.The density of the forest made it hard to see far ahead. 森林的密度使得很难看到远处。  
+2.Water has a higher density than air. 水的密度比空气高。  
+3.The population density in this area is quite high. 这个地区的人口密度相当高。  
+[搭]  
+1.population density 人口密度  
+2.material density 材料密度
+[联] den (厚的) + sity (名词后缀) ——> 密集的东西  
+
+Fahrenheit / ˈfærənhɑːt /
+adj. 华氏温度计的；华氏的
+n. 华氏温度计；华氏温标（符号°F）
+[例]  
+1.The temperature outside is 75 degrees Fahrenheit. 外面的温度是华氏75度。  
+2.Water freezes at 32 degrees Fahrenheit. 水在华氏32度时结冰。  
+3.Normal body temperature is around 98.6 degrees Fahrenheit. 正常体温约为华氏98.6度。  
+[搭]  
+1.Fahrenheit scale 华氏温标
+[联] 以发明者Gabriel Fahrenheit命名  
+
+mercury / ˈmɜːrkjəri /
+n. 汞，水银 ；水银柱；<史>水银，汞盐；山靛；墨丘利（罗马十二主神之一）（Mercury）；水星（Mercury）；<古>信使
+[例]  
+1.Mercury is used in thermometers. 汞被用于温度计中。  
+2.Mercury expands and contracts with temperature changes. 汞会随着温度的变化而膨胀和收缩。  
+3.Mercury is a heavy metal that can be toxic. 汞是一种重金属，可能有毒。  
+[搭]  
+1.mercury thermometer 汞温度计  
+[联] Mercury 是罗马神话中的信使之神，速度极快，与汞的流动性有关  
+
+battery / ˈbætəri /
+n. 电池，蓄电池；一组，一系列；炮组，排炮；殴打罪；（棒球队的）投手和接球手
+adj. 笼养的，层架式养殖的
+[例]  
+1.My phone battery died after an hour. 我的手机电池一个小时就用完了。  
+2.They installed a battery of solar panels. 他们安装了一组太阳能电池板。  
+3.The enemy attacked our battery position. 敌人袭击了我们的炮台阵地。  
+[搭]  
+1.battery life 电池寿命  
+2.car battery 汽车电池
+3.storage battery 蓄电池；蓄电池组
+4.lithium battery 锂电池；锂蓄电池
+[联] bat (打击) + tery (名词后缀) ——> 提供能量的装置  
+
+volt / voʊlt /
+n. 伏特（电压单位）；环骑；闪避
+[例]  
+1.The voltage of this circuit is 12 volts. 这个电路的电压是12伏特。  
+2.A standard AA battery provides 1.5 volts. 一节AA电池提供1.5伏特。  
+3.High voltage electricity can be dangerous. 高压电是很危险的。  
+[搭]  
+1.volt-ampere 伏安  
+[联] volt 是电压单位，来自意大利物理学家Alessandro Volta  
+
+radiate / ˈreɪdieɪt /
+v.（使品质或情感）显出，流露；辐射，发射；自中心辐射出，向周围伸展；（动物或植物群）辐射形进化
+adj. <罕>辐射（状）的，光芒四射的
+[例]  
+1.The sun radiates heat and light. 太阳辐射热量和光线。  
+2.She radiates confidence and kindness. 她散发着自信和善良。  
+3.Light radiates outward from the bulb. 光线从灯泡向外辐射。  
+[搭]  
+1.radiate energy 辐射能量  
+[联] radio (无线电) + ate (动词后缀) ——> 发射信号
 
 emit / iˈmɪt /
 v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表
@@ -3347,84 +3211,6 @@ n. （行为）准则，（道德）原则；道义，正直；基本原则，�
 2.moral principle 道德原则
 [联] prin-（首要的）+ cip-（抓住）+ -le（名词后缀）——> 抓住根本的东西。
 
-forum / ˈfɔːrəm /
-n. 讨论会；（因特网上的）论坛，讨论区；法院，法庭；（古罗马）公共集会场所
-[例]
-1.We often hold forums to discuss new ideas. 我们经常举办论坛来讨论新想法。
-2.The forum is a great place to exchange knowledge. 论坛是一个交换知识的好地方。
-3.The online forum has a large number of active users. 这个在线论坛有许多活跃用户。
-[搭]
-1.forum discussion 论坛讨论
-2.online forum 在线论坛
-[联] forum 来源于拉丁语 "forum"，原指古罗马的公共广场
-
-density / ˈdensəti /
-n. 稠密，密集；密度
-[例]  
-1.The density of the forest made it hard to see far ahead. 森林的密度使得很难看到远处。  
-2.Water has a higher density than air. 水的密度比空气高。  
-3.The population density in this area is quite high. 这个地区的人口密度相当高。  
-[搭]  
-1.population density 人口密度  
-2.material density 材料密度
-[联] den (厚的) + sity (名词后缀) ——> 密集的东西  
-
-Fahrenheit / ˈfærənhɑːt /
-adj. 华氏温度计的；华氏的
-n. 华氏温度计；华氏温标（符号°F）
-[例]  
-1.The temperature outside is 75 degrees Fahrenheit. 外面的温度是华氏75度。  
-2.Water freezes at 32 degrees Fahrenheit. 水在华氏32度时结冰。  
-3.Normal body temperature is around 98.6 degrees Fahrenheit. 正常体温约为华氏98.6度。  
-[搭]  
-1.Fahrenheit scale 华氏温标
-[联] 以发明者Gabriel Fahrenheit命名  
-
-mercury / ˈmɜːrkjəri /
-n. 汞，水银 ；水银柱；<史>水银，汞盐；山靛；墨丘利（罗马十二主神之一）（Mercury）；水星（Mercury）；<古>信使
-[例]  
-1.Mercury is used in thermometers. 汞被用于温度计中。  
-2.Mercury expands and contracts with temperature changes. 汞会随着温度的变化而膨胀和收缩。  
-3.Mercury is a heavy metal that can be toxic. 汞是一种重金属，可能有毒。  
-[搭]  
-1.mercury thermometer 汞温度计  
-[联] Mercury 是罗马神话中的信使之神，速度极快，与汞的流动性有关  
-
-battery / ˈbætəri /
-n. 电池，蓄电池；一组，一系列；炮组，排炮；殴打罪；（棒球队的）投手和接球手
-adj. 笼养的，层架式养殖的
-[例]  
-1.My phone battery died after an hour. 我的手机电池一个小时就用完了。  
-2.They installed a battery of solar panels. 他们安装了一组太阳能电池板。  
-3.The enemy attacked our battery position. 敌人袭击了我们的炮台阵地。  
-[搭]  
-1.battery life 电池寿命  
-2.car battery 汽车电池
-3.storage battery 蓄电池；蓄电池组
-4.lithium battery 锂电池；锂蓄电池
-[联] bat (打击) + tery (名词后缀) ——> 提供能量的装置  
-
-volt / voʊlt /
-n. 伏特（电压单位）；环骑；闪避
-[例]  
-1.The voltage of this circuit is 12 volts. 这个电路的电压是12伏特。  
-2.A standard AA battery provides 1.5 volts. 一节AA电池提供1.5伏特。  
-3.High voltage electricity can be dangerous. 高压电是很危险的。  
-[搭]  
-1.volt-ampere 伏安  
-[联] volt 是电压单位，来自意大利物理学家Alessandro Volta  
-
-radiate / ˈreɪdieɪt /
-v.（使品质或情感）显出，流露；辐射，发射；自中心辐射出，向周围伸展；（动物或植物群）辐射形进化
-adj. <罕>辐射（状）的，光芒四射的
-[例]  
-1.The sun radiates heat and light. 太阳辐射热量和光线。  
-2.She radiates confidence and kindness. 她散发着自信和善良。  
-3.Light radiates outward from the bulb. 光线从灯泡向外辐射。  
-[搭]  
-1.radiate energy 辐射能量  
-[联] radio (无线电) + ate (动词后缀) ——> 发射信号
-
 discipline / ˈdɪsəplɪn /
 n. 纪律，风纪；惩罚，处分；训导，管教；训练，锻炼；自制力，自律能力；（尤指大学的）科目，学科
 v. 惩罚，处分；训练，管教
@@ -3448,6 +3234,90 @@ v. 把……称为
 [搭]  
 1.long-term effect 长期效果  
 [联] ter (时间) + m ——> 时间段
+
+semester / sɪˈmestər /
+n. 学期，半学年
+[例]
+1.I have two semesters in a year. 我一年有两个学期。
+2.The final exam is held at the end of each semester. 每个学期末都会举行期末考试。
+3.Summer semester starts in June. 夏季学期从六月份开始。
+[搭] semester break 寒假或暑假
+[联] semi-(一半) + -ester(与年相关) ——> 半个学年
+
+timetable / ˈtaɪmteɪb(ə)l /
+n.（公共汽车、火车、飞机等的）时刻表；（学校的）课程表；日程表，时间表
+v. 为……安排时间；（学校里）把……列入课程表，排课
+[例]
+1.My timetable is full this week. 这周我的时间表排得很满。
+2.The teacher handed out the new timetable. 老师分发了新的课程表。
+3.We need to adjust our timetable for the project. 我们需要调整项目的进度表。
+[搭] timetable adjustment 调整时间表
+
+schedule / ˈskedʒuːl /
+n. 计划（表），进度表；<美>（公共汽车、火车等的）时间表；（价目、费用等的）清单，一览表；<美>（学校的）课程表；<法律> 附件（尤指表格、单据等）
+v. 安排，预定；列入，收进（正式目录、清单等中）；<英> 把（建筑物）列为文物保护单位
+[例]
+1.My schedule is very tight today. 我今天的时间安排得很紧。
+2.The project schedule needs to be updated. 这个项目计划需要更新。
+3.The company has scheduled a meeting for next Monday. 公司已经安排了下周一的会议。
+[搭] on schedule 按时；准时
+[联] schew-(分开) + -dule(类似柱子的东西) ——> 划分好的时间条
+
+deadline / ˈdedlaɪn /
+n. 最后期限，截止日期；<史>（监狱周围的）死线
+[例]
+1.The deadline for submitting the report is Friday. 报告提交的最后期限是星期五。
+2.There is no extension for this deadline. 这个截止日期没有延期。
+3.Don't miss the application deadline. 不要错过申请截止日期。
+[搭]
+1.meet the deadline 按时完成；赶在截止日期前完成
+2.Application Deadline 申请截止日期；申请截止日；截止报名日期；截止日期
+
+course / kɔːrs /
+n. 课程；过程；道路，航线；进程，进展；方针，总方向；行动方式，处理方法；疗程；一道菜；比赛场地；（砖、石等墙的）层
+v. 奔流，快速流动；（感情、思想）涌动；（用猎犬）追踪（兔子）
+[例]
+1.I am taking an English course. 我正在上英语课。
+2.The river follows a winding course through the valley. 这条河沿着蜿蜒的河道穿过山谷。
+3.The course of history cannot be reversed. 历史的进程不能逆转。
+[搭] course of action 行动方案；行动计划
+[联] cor-(前进) + -se(名词后缀) ——> 前进的道路
+
+lesson / ˈles(ə)n /
+n. 一节课，一课时；教学单元，（课本中的）课；经验，教训；（教堂礼拜中的）《圣经》选读
+vt. <古>给……上课；教训，训诫
+[例]
+1.I learned a valuable lesson from my mistake. 我从错误中吸取了一个宝贵的教训。
+2.We had a lesson about the solar system. 我们上了一堂关于太阳系的课。
+3.The teacher gave us a lesson on how to write an essay. 老师给我们上了如何写作文的一课。
+[搭] lesson plan 课程计划
+[联] less-(较少的) + -on(名词后缀) ——> 少量知识的传授
+
+curriculum / kəˈrɪkjələm /
+n. 课程（复数curricula或curriculums）
+[例]
+1.The curriculum includes many subjects. 课程包括许多科目。
+2.The school revised its curriculum last year. 学校去年修订了课程设置。
+3.The curriculum emphasizes critical thinking skills. 课程强调批判性思维能力。
+[搭] core curriculum 核心课程
+[联] curri-(跑) + -culum(名词后缀) ——> 跑步的路径
+
+seminar / ˈsemɪnɑːr /
+n. 研讨会，培训会；（大学的）专题讨论课，研讨班
+[例]
+1.I attended a seminar on climate change. 我参加了一个关于气候变化的研讨会。
+2.The professor organized a seminar for her students. 教授为她的学生组织了一场研讨会。
+3.We discussed the topic in depth during the seminar. 在研讨会上我们深入讨论了这个话题。
+[搭] seminar paper 研讨会论文
+[联] semi-(一半) + -nar(名词后缀) ——> 半正式的研究会
+
+forum / ˈfɔːrəm /
+n. 讨论会；（因特网上的）论坛，讨论区；法院，法庭；（古罗马）公共集会场所；复数形式（fora）
+[例]
+1.I posted my question on the online forum. 我在论坛上发布了我的问题。
+2.The conference included several forums on technology. 会议包括几个关于技术的论坛。
+3.We had a lively discussion in the forum. 我们在论坛上进行了热烈的讨论。
+[搭] public forum 公共论坛
 
 syllabus / ˈsɪləbəs /
 n. 教学大纲；（罗马天主教会用教令宣布的）事项举要
@@ -3551,102 +3421,6 @@ adj.  表面上的，外表上的；表面的；（与空中运输相对的）�
 1.surface tension 表面张力
 2.surface area 表面积
 [联] surface 可以联想到 “sur”（周围）+ “face”（脸），即周围的面
-
-compulsory / kəmˈpʌlsəri /
-adj. 必须做的，义务的，强制的
-n.（花样滑冰、竞技体操等的）规定动作
-[例]  
-1.Wearing a seatbelt is compulsory in most countries. 在大多数国家，系安全带是强制性的。
-2.A compulsory military service exists in this country. 这个国家存在强制性的兵役制度。
-3.Students must attend the compulsory courses to graduate. 学生必须参加必修课程才能毕业。
-[搭]  
-1.compulsory education 义务教育  
-2.compulsory insurance 法定保险  
-[联] compul (强迫) + sory (-ory 表示“与……有关的”) ——> 被迫的，强制性的
-
-semester / sɪˈmestər /
-n. 学期，半学年
-[例]
-1.I have two semesters in a year. 我一年有两个学期。
-2.The final exam is held at the end of each semester. 每个学期末都会举行期末考试。
-3.Summer semester starts in June. 夏季学期从六月份开始。
-[搭] semester break 寒假或暑假
-[联] semi-(一半) + -ester(与年相关) ——> 半个学年
-
-timetable / ˈtaɪmteɪb(ə)l /
-n.（公共汽车、火车、飞机等的）时刻表；（学校的）课程表；日程表，时间表
-v. 为……安排时间；（学校里）把……列入课程表，排课
-[例]
-1.My timetable is full this week. 这周我的时间表排得很满。
-2.The teacher handed out the new timetable. 老师分发了新的课程表。
-3.We need to adjust our timetable for the project. 我们需要调整项目的进度表。
-[搭] timetable adjustment 调整时间表
-
-schedule / ˈskedʒuːl /
-n. 计划（表），进度表；<美>（公共汽车、火车等的）时间表；（价目、费用等的）清单，一览表；<美>（学校的）课程表；<法律> 附件（尤指表格、单据等）
-v. 安排，预定；列入，收进（正式目录、清单等中）；<英> 把（建筑物）列为文物保护单位
-[例]
-1.My schedule is very tight today. 我今天的时间安排得很紧。
-2.The project schedule needs to be updated. 这个项目计划需要更新。
-3.The company has scheduled a meeting for next Monday. 公司已经安排了下周一的会议。
-[搭] on schedule 按时；准时
-[联] schew-(分开) + -dule(类似柱子的东西) ——> 划分好的时间条
-
-deadline / ˈdedlaɪn /
-n. 最后期限，截止日期；<史>（监狱周围的）死线
-[例]
-1.The deadline for submitting the report is Friday. 报告提交的最后期限是星期五。
-2.There is no extension for this deadline. 这个截止日期没有延期。
-3.Don't miss the application deadline. 不要错过申请截止日期。
-[搭]
-1.meet the deadline 按时完成；赶在截止日期前完成
-2.Application Deadline 申请截止日期；申请截止日；截止报名日期；截止日期
-
-course / kɔːrs /
-n. 课程；过程；道路，航线；进程，进展；方针，总方向；行动方式，处理方法；疗程；一道菜；比赛场地；（砖、石等墙的）层
-v. 奔流，快速流动；（感情、思想）涌动；（用猎犬）追踪（兔子）
-[例]
-1.I am taking an English course. 我正在上英语课。
-2.The river follows a winding course through the valley. 这条河沿着蜿蜒的河道穿过山谷。
-3.The course of history cannot be reversed. 历史的进程不能逆转。
-[搭] course of action 行动方案；行动计划
-[联] cor-(前进) + -se(名词后缀) ——> 前进的道路
-
-lesson / ˈles(ə)n /
-n. 一节课，一课时；教学单元，（课本中的）课；经验，教训；（教堂礼拜中的）《圣经》选读
-vt. <古>给……上课；教训，训诫
-[例]
-1.I learned a valuable lesson from my mistake. 我从错误中吸取了一个宝贵的教训。
-2.We had a lesson about the solar system. 我们上了一堂关于太阳系的课。
-3.The teacher gave us a lesson on how to write an essay. 老师给我们上了如何写作文的一课。
-[搭] lesson plan 课程计划
-[联] less-(较少的) + -on(名词后缀) ——> 少量知识的传授
-
-curriculum / kəˈrɪkjələm /
-n. 课程（复数curricula或curriculums）
-[例]
-1.The curriculum includes many subjects. 课程包括许多科目。
-2.The school revised its curriculum last year. 学校去年修订了课程设置。
-3.The curriculum emphasizes critical thinking skills. 课程强调批判性思维能力。
-[搭] core curriculum 核心课程
-[联] curri-(跑) + -culum(名词后缀) ——> 跑步的路径
-
-seminar / ˈsemɪnɑːr /
-n. 研讨会，培训会；（大学的）专题讨论课，研讨班
-[例]
-1.I attended a seminar on climate change. 我参加了一个关于气候变化的研讨会。
-2.The professor organized a seminar for her students. 教授为她的学生组织了一场研讨会。
-3.We discussed the topic in depth during the seminar. 在研讨会上我们深入讨论了这个话题。
-[搭] seminar paper 研讨会论文
-[联] semi-(一半) + -nar(名词后缀) ——> 半正式的研究会
-
-forum / ˈfɔːrəm /
-n. 讨论会；（因特网上的）论坛，讨论区；法院，法庭；（古罗马）公共集会场所；复数形式（fora）
-[例]
-1.I posted my question on the online forum. 我在论坛上发布了我的问题。
-2.The conference included several forums on technology. 会议包括几个关于技术的论坛。
-3.We had a lively discussion in the forum. 我们在论坛上进行了热烈的讨论。
-[搭] public forum 公共论坛
 
 compulsory  / kəmˈpʌlsəri /
 adj. 必须做的，义务的，强制的
@@ -3993,19 +3767,6 @@ n. 开始；开端
 [搭] 
 from the outset 自始至终
 
-abstract / ˈæbˌstrækt; æbˈstrækt /
-adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的
-n. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念
-v. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出
-[例]
-1.Abstract art is an acquired taste. 要慢慢培养才会欣赏抽象艺术。
-2.It's not a question of some abstract concept of justice. 这不是一个有关正义的某一抽象概念的问题。
-3.A modern abstract painting takes over one complete wall. 一幅现代抽象画占了整整一面墙。
-[搭]
-1.in the abstract 抽象地；理论上；概括地
-2.abstract art 抽象派；抽象主义
-3.abstract class [计]抽象类（不允许实例化的类）
-
 outline / ˈaʊtlaɪn /
 n. 轮廓，外形；轮廓图，草图；提纲，大纲；梗概，要点；（词的）速记形式
 v. 概述，略述；勾勒，描画……的轮廓
@@ -4099,6 +3860,45 @@ v. 引出，得到；<古>使（潜在的东西）显现，诱出
 2.provoke elicit 引起；诱发
 3.Elicit ideas 激发好主意；第五步激发好主意
 [联] e-(向外) + lict(源自拉丁语lacere，意为“吸引”) ——> 吸引出
+
+quote / kwoʊt /
+v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌
+n. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号（quotes）
+[例]
+1.I quote Shakespeare: "To be or not to be, that is the question." 我引用莎士比亚的话："生存还是毁灭，这是一个问题。"
+2.She always quotes statistics when discussing environmental issues. 在讨论环境问题时，她总是引用统计数据。
+3.He quoted a famous saying: "Actions speak louder than words." 他引用了一句名言："行动胜于言语。"
+[搭]
+1.quote...as... 将……作为……引用
+2.quote from 引用自
+3.stock quote 股票报价
+[联] q(开头字母) + ote(谐音“欧特”) ——> 引用经典语录
+
+extract / ˈekstrækt; ɪkˈstrækt /
+n. 选段，引文；提取物，汁
+v. 提取，提炼；取出，拔出；摘录；索取，设法得到；开（方），求（根）
+[例]
+1.The scientist managed to extract a new drug from the plant. 这位科学家成功从植物中提取出一种新药。
+2.They extracted useful information from the old documents. 他们从旧文件中提取出有用的信息。
+3.The teacher asked us to extract key points from the article. 老师让我们从文章中摘录要点。
+[搭]
+1.extract...from... 从……中提取……
+2.water extract 水提取物
+3.plant extract 植物提取物；植物浸出液
+[联] ex-(向外) + tract(拉) ——> 拉出
+
+abstract / ˈæbˌstrækt; æbˈstrækt /
+adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的
+n. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念
+v. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出
+[例]
+1.Abstract art is an acquired taste. 要慢慢培养才会欣赏抽象艺术。
+2.It's not a question of some abstract concept of justice. 这不是一个有关正义的某一抽象概念的问题。
+3.A modern abstract painting takes over one complete wall. 一幅现代抽象画占了整整一面墙。
+[搭]
+1.in the abstract 抽象地；理论上；概括地
+2.abstract art 抽象派；抽象主义
+3.abstract class [计]抽象类（不允许实例化的类）
 
 summary / ˈsʌməri /
 n. 总结，概要
@@ -4203,6 +4003,16 @@ v. 认为，理解；察觉，注意到；意识到
 2.perceive as 视为；当作；认为；看作
 3.difficult to perceive or describe 微妙的；难以捉摸的
 
+detect / dɪˈtekt /
+v. 查明，察觉；测出，检测，识别
+[例]
+1.The security system can detect any unauthorized access. 安防系统可以检测到任何未经授权的访问。
+2.She detected a hint of sadness in his voice. 她听出了他声音中的一丝悲伤。
+3.The device is designed to detect changes in temperature. 这种设备旨在检测温度的变化。
+[搭]
+detect a problem 发现问题
+[联] de-(向下) + tect(盖住) ——> 揭开掩盖的事物
+
 discern / dɪˈsɜːrn /
 v.（艰难地或努力地）看出，觉察出；了解，认识
 [例]
@@ -4265,9 +4075,9 @@ v. 认为，相信
 imply / ɪmˈplaɪ /
 v. 暗示，意味；表明，含有...的意思
 [例]
-1. His silence implied agreement. 他的沉默暗示着同意。
-2. What he said implied a lot more than what he actually meant. 他说的话暗示的比他实际想表达的多得多。
-3. This implies a serious problem. 这意味着一个严重的问题。
+1.His silence implied agreement. 他的沉默暗示着同意。
+2.What he said implied a lot more than what he actually meant. 他说的话暗示的比他实际想表达的多得多。
+3.This implies a serious problem. 这意味着一个严重的问题。
 [搭]
 1.imply to 意味着以；意味着；暗示；含有
 2.properly imply 真蕴含
@@ -4313,11 +4123,12 @@ v. 坚决要求，执意坚持；坚称
 persist / pərˈsɪst /
 v. 继续存在，持续；坚持，执意；坚持说，反复说
 [例]
-1. She persisted in her belief despite everyone's opposition. 尽管所有人都反对，她仍然坚持自己的信念。
-2. The rain persisted all day long. 雨一直持续了一整天。
-3. He persisted in asking me out even though I had said no multiple times. 他尽管被我多次拒绝，依然坚持约我出去。
+1.She persisted in her belief despite everyone's opposition. 尽管所有人都反对，她仍然坚持自己的信念。
+2.The rain persisted all day long. 雨一直持续了一整天。
+3.He persisted in asking me out even though I had said no multiple times. 他尽管被我多次拒绝，依然坚持约我出去。
 [搭]
 1.persist in doing sth. 坚持做某事
+2.persist continue 持续
 [联] per- (通过) + sistere (站立) ——> 站在原地不离开
 
 understand / ˌʌndərˈstænd /
@@ -4351,7 +4162,10 @@ v. 分析，细察；分解，化验；对……进行心理分析
 3.You should analyse your strengths and weaknesses. 你应该分析一下自己的优缺点。
 [搭]
 1.analyse sth. 分析某物
-[联] an- (否定) + lyze (分解) ——> 分解事物以了解其组成。
+2.fpd analyse fpd分析
+3.analyse by Excel Excel分析
+4.uml analyse and design uml分析设计
+[联] an- (否定) + lyze (分解) ——> 分解事物以了解其组成
 
 diagnose / ˌdaɪəɡˈnoʊs /
 v. 诊断，判断病因
@@ -4361,7 +4175,7 @@ v. 诊断，判断病因
 3.The mechanic diagnosed the problem with the car engine. 机械师诊断了汽车发动机的问题。
 [搭]
 1.diagnose sth. 诊断某病
-[联] dia- (穿过) + gnosco (知道) ——> 穿过表面了解真相。
+[联] dia- (穿过) + gnosco (知道) ——> 穿过表面了解真相
 
 infer / ɪnˈfɜːr /
 v. 推断，推论；暗示，暗指
@@ -4415,7 +4229,10 @@ n. 比较
 2.She compared her life to a journey. 她把自己的生活比作一次旅程。
 3.The teacher asked us to compare these two poems. 老师让我们比较这两首诗。
 [搭]
-1.compare A to B 把A比作B。
+1.compare A to B 把A比作B
+2.compare with 与…相比较
+3.compare notes 交换意见
+4.compare favourably with 比…毫不逊色，比得上
 [联] com- (共同) + parare (准备) ——> 准备对比
 
 contrast / ˈkɑːntræst /
@@ -4488,7 +4305,9 @@ adj. 不同的，各式各样的
 2.There are diverse opinions on this issue. 关于这个问题有不同的看法。
 3.Diverse plants grow in this region. 这个地区生长着各种植物。
 [搭] 
-diverse cultures 多元文化。
+1.diverse cultures 多元文化
+2.diverse nuances 多样化的细微差别
+3.diverse ion effect 异离子效应
 [联] di- (分开) + verse (转向) ——> 向不同方向转
 
 nuance / ˈnuːɑːns /
@@ -4580,6 +4399,16 @@ v. 确定，确认；证实，证明；批准，认可；使坚定，加强；�
 2.ticket confirm 机票确认
 3.confirm an order 确认订单；接受订单；明确承认定单
 
+demonstrate / ˈdemənstreɪt /
+v. 证明；示范，演示；表露；游行，示威
+[例]
+1.The experiment demonstrated the theory. 这个实验证明了这一理论。
+2.The speaker will demonstrate how to use the software. 演讲者将演示如何使用该软件。
+3.The teacher demonstrated the concept with a simple experiment. 老师用一个简单的实验演示了这个概念。
+[搭]
+demonstrate to sb. 向某人展示
+[联] de-(向下) + monstre(显示) ——> 下方向下显示
+
 illustrate / ˈɪləstreɪt /
 v. 加插图于；说明，阐明；证明，证实
 [例]
@@ -4662,52 +4491,6 @@ v. 做民意测验，做民意调查；（尤指认真地）审视，检查；�
 2.survey data 测量数据，测量资料
 3.field survey 实地调查；实地考察
 
-quote / kwoʊt /
-v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌
-n. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号（quotes）
-[例]
-1.I quote Shakespeare: "To be or not to be, that is the question." 我引用莎士比亚的话："生存还是毁灭，这是一个问题。"
-2.She always quotes statistics when discussing environmental issues. 在讨论环境问题时，她总是引用统计数据。
-3.He quoted a famous saying: "Actions speak louder than words." 他引用了一句名言："行动胜于言语。"
-[搭]
-1.quote...as... 将……作为……引用
-2.quote from 引用自
-3.stock quote 股票报价
-[联] q(开头字母) + ote(谐音“欧特”) ——> 引用经典语录
-
-extract / ˈekstrækt; ɪkˈstrækt /
-n. 选段，引文；提取物，汁
-v. 提取，提炼；取出，拔出；摘录；索取，设法得到；开（方），求（根）
-[例]
-1.The scientist managed to extract a new drug from the plant. 这位科学家成功从植物中提取出一种新药。
-2.They extracted useful information from the old documents. 他们从旧文件中提取出有用的信息。
-3.The teacher asked us to extract key points from the article. 老师让我们从文章中摘录要点。
-[搭]
-1.extract...from... 从……中提取……
-2.water extract 水提取物
-3.plant extract 植物提取物；植物浸出液
-[联] ex-(向外) + tract(拉) ——> 拉出
-
-detect / dɪˈtekt /
-v. 查明，察觉；测出，检测，识别
-[例]
-1.The security system can detect any unauthorized access. 安防系统可以检测到任何未经授权的访问。
-2.She detected a hint of sadness in his voice. 她听出了他声音中的一丝悲伤。
-3.The device is designed to detect changes in temperature. 这种设备旨在检测温度的变化。
-[搭]
-detect a problem 发现问题
-[联] de-(向下) + tect(盖住) ——> 揭开掩盖的事物
-
-demonstrate / ˈdemənstreɪt /
-v. 证明；示范，演示；表露；游行，示威
-[例]
-1.The experiment demonstrated the theory. 这个实验证明了这一理论。
-2.The speaker will demonstrate how to use the software. 演讲者将演示如何使用该软件。
-3.The teacher demonstrated the concept with a simple experiment. 老师用一个简单的实验演示了这个概念。
-[搭]
-demonstrate to sb. 向某人展示
-[联] de-(向下) + monstre(显示) ——> 下方向下显示
-
 research / ˈriːsɜːrtʃ /
 n.（尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作
 v. 研究，探索；为……收集资料，调查
@@ -4732,6 +4515,74 @@ v. 注意到，观察到；注视，监视；（在科学研究中）观测，�
 1.observe sb./sth. doing sth. 注意到某人/某事正在做某事
 2.observe on 评论
 [联] ob-(向) + serv(看) ——> 向前看去
+
+inquire / ɪnˈkwaɪər /
+v. 调查，查究；询问，打听
+[例]
+1.I need to inquire about my flight schedule. 我需要查询我的航班时间表。
+2.The reporter inquired into the details of the accident. 记者调查了事故的细节。
+3.He inquired whether she would join them. 他询问她是否会加入他们。
+[搭]
+1.inquire after 问候，关心某人的健康或状况
+2.inquire about 询问有关某事的信息
+[联] in + que（来自拉丁语，意为“寻求”）——> 询问
+
+query / ˈkwɪri /
+n. 疑问，询问；问号
+v. 质疑，对……表示疑问；询问，提问
+[例]
+1.I have some queries about the terms and conditions. 我对条款和条件有一些疑问。
+2.We must query the accuracy of these figures. 我们必须质疑这些数字的准确性。
+3.She queried his decision to resign. 她对他辞职的决定表示怀疑。
+[搭] raise a query 提出疑问
+[联] qu(ery)——> 询问，疑问
+
+questionnaire / ˌkwestʃəˈner /
+n. 问卷，调查表
+[例]
+1.They distributed questionnaires to all employees. 他们向所有员工发放了问卷。
+2.The questionnaire included questions about age and income. 问卷包括关于年龄和收入的问题。
+3.The questionnaire is designed to gather data on customer satisfaction. 这份问卷旨在收集客户满意度的数据。
+[搭]
+1.online questionnaire 在线问卷
+2.personality questionnaire 人格问卷
+[联] question(问题) + -naire(后缀，表示表格) ——> 问题表格
+
+achieve / əˈtʃiːv /
+v.（经努力）达到，取得，实现；获得成功
+[例]
+1.She achieved her goal of becoming a doctor. 她实现了成为医生的目标。
+2.They achieved success through hard work. 他们通过努力工作取得了成功。
+3.He achieved a high rank in the company. 他在公司里获得了很高的职位。
+[搭]
+1.achieve balance 达到平衡
+2.achieve success 取得成功；获得成功
+3.achieve one's goals 实现目标
+[联] ac(h)ieve ——> 开始 + 完成 ——> 达成
+
+accomplish / əˈkɑːmplɪʃ /
+v. 完成，实现
+[例]
+1.We accomplished our mission in record time. 我们以创纪录的时间完成了任务。
+2.He accomplished everything he set out to do. 他完成了他所设定的所有目标。
+3.She accomplished her dream of becoming an artist. 她实现了成为艺术家的梦想。
+[搭]
+1.accomplish something with ease 轻松完成某事
+2.accomplish nothing 一事无成；一无所成
+[联] ac(com)plish ——> 开始 + 完全 + 完成 ——> 完全达成
+
+attain / əˈteɪn /
+v. 获得，实现；达到
+[例]
+1.He attained the rank of captain. 他达到了队长的职位。
+2.They attained their objective after years of struggle. 经过多年的奋斗，他们达成了目标。
+3.She attained fame as a writer. 她作为作家获得了名声。
+[搭]
+1.attain success 达到成功
+2.attain to 达到；获得；到达；理想的状态
+3.attain to power 获得权力；得到权力
+4.attain one's goal 达到目的；达到目标
+[联] at(tain) ——> 到达
 
 credit / ˈkredɪt /
 n. 信用，信贷，赊购；赞扬，信誉，声望；存款金额，余额；补助；退税，抵免；学分；带来荣耀的人（或事）；作品（指影片、电视节目、戏剧等）；信任，相信
@@ -4777,7 +4628,8 @@ v. 按照级别安排或分配，分类；给……评分；设定（路面）�
 3.The teacher graded the exams. 老师批改了试卷。
 [搭] 
 1.grade A 一级品
-[联] grad-（步骤）+ -e——> 分级。
+2.tenth grade 十年级
+[联] grad-（步骤）+ -e ——> 分级
 
 rank / ræŋk /
 n. 军衔，军阶；（社会、团体中的）地位，等级；（尤指较高的）地位；（警察、士兵等的）队列，行列；排，列；横排，棋盘横格
@@ -4861,85 +4713,6 @@ n. 反馈意见；（信号返回电子音响系统所致的）噪声；（返�
 2.negative feedback 电子,自 负反馈；负回授；负回输
 3.feedback loop 自 反馈回路；自 反馈环；反馈循环；反馈环路
 
-inquire / ɪnˈkwaɪər /
-v. 调查，查究；询问，打听
-[例]
-1.I need to inquire about my flight schedule. 我需要查询我的航班时间表。
-2.The reporter inquired into the details of the accident. 记者调查了事故的细节。
-3.He inquired whether she would join them. 他询问她是否会加入他们。
-[搭]
-1.inquire after 问候，关心某人的健康或状况
-2.inquire about 询问有关某事的信息
-[联] in + que（来自拉丁语，意为“寻求”）——> 询问
-
-query / ˈkwɪri /
-n. 疑问，询问；问号
-v. 质疑，对……表示疑问；询问，提问
-[例]
-1.I have some queries about the terms and conditions. 我对条款和条件有一些疑问。
-2.We must query the accuracy of these figures. 我们必须质疑这些数字的准确性。
-3.She queried his decision to resign. 她对他辞职的决定表示怀疑。
-[搭] raise a query 提出疑问
-[联] qu(ery)——> 询问，疑问
-
-questionnaire / ˌkwestʃəˈner /
-n. 问卷，调查表
-[例]
-1.They distributed questionnaires to all employees. 他们向所有员工发放了问卷。
-2.The questionnaire included questions about age and income. 问卷包括关于年龄和收入的问题。
-3.The questionnaire is designed to gather data on customer satisfaction. 这份问卷旨在收集客户满意度的数据。
-[搭]
-1.online questionnaire 在线问卷
-2.personality questionnaire 人格问卷
-[联] question(问题) + -naire(后缀，表示表格) ——> 问题表格
-
-achieve / əˈtʃiːv /
-v.（经努力）达到，取得，实现；获得成功
-[例]
-1.She achieved her goal of becoming a doctor. 她实现了成为医生的目标。
-2.They achieved success through hard work. 他们通过努力工作取得了成功。
-3.He achieved a high rank in the company. 他在公司里获得了很高的职位。
-[搭]
-1.achieve balance 达到平衡
-2.achieve success 取得成功；获得成功
-3. achieve one's goals 实现目标
-[联] ac(h)ieve ——> 开始+完成——> 达成
-
-achievement / əˈtʃiːvmənt /
-n. 成绩，成就；完成，实现；（纹章）纹章牌
-[例]
-1.It is an impressive achievement. 这是一项令人敬佩的成就。
-2.2004 was a year of solid achievement. 2004年是颇有成绩的一年。
-3.It is indeed a remarkable achievement. 这的确是非凡的成就。
-[搭]
-1.outstanding achievement 业绩；杰出成就
-2.academic achievement 学业成就；学业成绩
-3.achievement motivation 成就动机
-
-accomplish / əˈkɑːmplɪʃ /
-v. 完成，实现
-[例]
-1.We accomplished our mission in record time. 我们以创纪录的时间完成了任务。
-2.He accomplished everything he set out to do. 他完成了他所设定的所有目标。
-3.She accomplished her dream of becoming an artist. 她实现了成为艺术家的梦想。
-[搭]
-1.accomplish something with ease 轻松完成某事
-2.accomplish nothing 一事无成；一无所成
-[联] ac(com)plish——> 开始+完全+完成 ——> 完全达成
-
-attain / əˈteɪn /
-v. 获得，实现；达到
-[例]
-1.He attained the rank of captain. 他达到了队长的职位。
-2.They attained their objective after years of struggle. 经过多年的奋斗，他们达成了目标。
-3.She attained fame as a writer. 她作为作家获得了名声。
-[搭]
-1.attain success 达到成功
-2.attain to 达到；获得；到达；理想的状态
-3.attain to power 获得权力；得到权力
-4.attain one's goal 达到目的；达到目标
-[联] at(tain)——> 到达
-
 underestimate / ˌʌndərˈestɪmeɪt /
 v. 低估，对……估计不足；轻视，小看（某人）
 n. 低估，对……估计不足
@@ -4980,6 +4753,17 @@ v. 申请；涂，敷；施加，实施；应用，运用；踩（刹车）；�
 3.apply for a job 求职；申请工作
 [联] apply——> 放置——> 应用
 
+fellowship / ˈfeloʊʃɪp /
+n. 交情，友谊；（有相似爱好的）团体，协会，联谊会；（高等院校的）研究员； <美>（研究生）奖学金；董事职位，会员资格；（决定奖学金人选的）奖学金评选组
+[例]
+1.He joined a fellowship of writers to exchange ideas. 他加入了一个作家协会以交流想法。
+2.They developed a deep fellowship through their shared experiences. 通过共同的经历，他们建立了深厚的友谊。
+3.The fellowship program offers financial support for research projects. 奖学金项目为研究项目提供资金支持。
+[搭]
+1.fellowship award 奖学金奖项
+2.fellowship program 奖学金项目
+[联] fellow (伙伴) + ship (名词后缀，表示状态或性质) ——> 伙伴关系
+
 scholarship / ˈskɑːlərʃɪp /
 n. 奖学金；学问，学术
 [例]
@@ -5013,6 +4797,9 @@ v. 授予，颁发；判给，裁定
 3.They were awarded medals for their bravery. 他们因勇敢而被授予勋章。
 [搭] 
 1.award-winning 最佳的，获奖的
+2.academy award 奥斯卡金像奖；学院奖（美国电影艺术科学院颁发的年度奖项）
+3.award ceremony 颁奖仪式，颁奖典礼
+4.arbitral award 仲裁裁决；公断书
 [联] ward（看守，保护）——> 给予保护，即授予
 
 prize / praɪz /
@@ -5042,15 +4829,4 @@ v. 付给（某人）费用
 2.tuition fee 学费
 3.agency fee 贸易 代理费；中介费；代理费用；代庖署理费
 [联] fee（给的报酬）——> 支付给某人的钱
-
-fellowship / ˈfeloʊʃɪp /
-n. 交情，友谊；（有相似爱好的）团体，协会，联谊会；（高等院校的）研究员； <美>（研究生）奖学金；董事职位，会员资格；（决定奖学金人选的）奖学金评选组
-[例]
-1.He joined a fellowship of writers to exchange ideas. 他加入了一个作家协会以交流想法。
-2.They developed a deep fellowship through their shared experiences. 通过共同的经历，他们建立了深厚的友谊。
-3.The fellowship program offers financial support for research projects. 奖学金项目为研究项目提供资金支持。
-[搭]
-1.fellowship award 奖学金奖项
-2.fellowship program 奖学金项目
-[联] fellow (伙伴) + ship (名词后缀，表示状态或性质) ——> 伙伴关系
 

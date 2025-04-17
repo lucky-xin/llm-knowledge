@@ -1627,15 +1627,6 @@ n. 风险，危险；可能造成的损失
 2.risk assessment 风险评估  
 [联] risk = re- (再次) + isk (未知) ——> 再次面对未知情况  
 
-adv. 冒险地  
-[例]  
-1.He risked his life to save the child. 他冒险救了那个孩子。  
-2.She risked everything for her dream. 她为了梦想赌上了所有。  
-3.Risk not your health for wealth. 别为财富牺牲健康。  
-[搭]  
-1.at one's own risk 自担风险  
-2.run risks 冒险  
-
 adventure /ədˈvɛntʃər/
 n. 冒险，奇遇；冒险活动  
 [美式音标] /ədˈvɛntʃər/  
@@ -1647,15 +1638,6 @@ n. 冒险，奇遇；冒险活动
 1.go on an adventure 出去冒险  
 2.adventure travel 冒险旅行  
 [联] ad-(加强)+ venture(大胆前行) ——> 大胆前行探索  
-
-v. 冒险，敢于尝试  
-[例]  
-1.He adventured into unknown lands. 他冒险进入未知的土地。  
-2.Don't adventure your safety. 不要拿你的安全冒险。  
-3.They adventured all their money on the stock market. 他们把所有的钱都冒险投入股市。  
-[搭]  
-1.adventure forth 勇敢前进  
-2.adventure yourself into 使...冒险进入  
 
 peril /ˈpɛrəl/
 n. 危险，危难  
@@ -1693,15 +1675,6 @@ v. 倒塌，崩溃
 2.collapse into laughter 哄堂大笑  
 [联] collapse = col-(一起) + lapse(滑落) ——> 一起滑落  
 
-n. 崩溃，瓦解  
-[例]  
-1.The collapse of the bridge caused chaos. 桥梁的倒塌造成了混乱。  
-2.The economic collapse left many homeless. 经济崩溃让许多人无家可归。  
-3.The collapse of the system was unexpected. 系统的崩溃是意想不到的。  
-[搭]  
-1.collapse of society 社会崩溃  
-2.collapse into pieces 分崩离析  
-
 torture /ˈtɔːrʧər/
 n. 折磨，拷打  
 [美式音标] /ˈtɔːrʧər/  
@@ -1713,15 +1686,6 @@ n. 折磨，拷打
 1.torture victim 受虐者  
 2.torture device 刑具  
 [联] torture = tor(t)- (扭曲) + ture ——> 扭曲身体  
-
-v. 折磨，使痛苦不堪  
-[例]  
-1.The noise tortured his ears. 噪音折磨着他的耳朵。  
-2.My conscience tortured me. 我的良心折磨着我。  
-3.His words tortured her heart. 他的话刺痛了她的心。  
-[搭]  
-1.torture oneself 自我折磨  
-2.torture sb. with questions 连续质问某人  
 
 humiliate /hjuːˈmɪliət/
 v. 使蒙羞，使丢脸  

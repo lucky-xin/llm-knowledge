@@ -1246,26 +1246,26 @@ v. 使困惑；使不知所措
 [联] bewilder (与confuse同义)——> 记忆成“迷惑的”。
 
 irony /ˈaɪəni/
-n. 讽刺；反语；具有讽刺意味的事
+n.反语，讽刺；具有讽刺意味的事
 [例]
-1.His punctuality was ironic given his usual tardiness. 鉴于他平时总是迟到，他的准时显得有些讽刺。
-2.Her silence was full of irony. 她的沉默充满了讽刺意味。
-3.It was an irony of fate that they met again after so many years. 他们多年后再见面是一种命运的讽刺。
+1.The irony of the situation was that he had to ask for help himself. 这种情况的讽刺之处在于他自己不得不寻求帮助。
+2.Her response was full of irony. 她的回答充满了讽刺意味。
+3.It was ironic that he won the race after years of hard training. 在经过多年的艰苦训练后赢得比赛是讽刺的。
 [搭]
 1.dramatic irony 戏剧性反讽
 2.situational irony 情境反讽
-[联] irony (与satire同属表达讽刺的方式)——> 记忆成“讽刺的”。
+[联] iron(y) (铁) + -y (形容词或名词后缀) ——> 冷酷无情的表达方式。
 
-indignity /ɪnˈdɪɡnditi/
-n. 耻辱；侮辱；屈辱
+indignity /ɪnˈdɪɡ.nə.ti/
+n.侮辱，凌辱；屈辱
 [例]
-1.She suffered great indignity during her imprisonment. 她在被囚禁期间遭受了极大的屈辱。
-2.The treatment he received was nothing short of an indignity. 他受到的待遇简直是一种侮辱。
-3.The loss of dignity was a personal indignity. 尊严的丧失是一种个人的耻辱。
+1.The old man felt great indignity when he was treated rudely. 老人被粗鲁对待时感到极大的侮辱。
+2.The prisoner suffered many indignities during his imprisonment. 囚犯在监禁期间遭受了许多屈辱。
+3.No one should be subjected to such indignities. 没有人应该受到这样的侮辱。
 [搭]
-1.public indignity 公共场合的羞辱
+1.public indignity 公开的羞辱
 2.personal indignity 个人的羞辱
-[联] indignity (与humiliation同义)——> 记忆成“侮辱的”。
+[联] in- (进入) + dign- (来自拉丁语dignitas，意为“尊严”) + -ity (名词后缀) ——> 进入失去尊严的状态。
 
 contempt /kənˈtempt/
 n. 轻蔑；鄙视；不屑
@@ -1707,14 +1707,7 @@ v. 拒绝；谢绝；n. 垃圾；废弃物
 [搭] refuse to do sth. 拒绝做某事
 [联] re-（回）+ fuse（熔化）——> 回绝，不接受
 
-exclude /ɪkˈskluːd/
-v. 排除；排斥；不包括
-[例]
-1.Exclude the impossible and what remains, however improbable, must be the truth. 排除不可能的情况，剩下的即使再不可能也必须是真相。（读音为 /ɪkˈskluːd/）
-2.We exclude children under 12 years old from this activity. 我们排除12岁以下的孩子参加这项活动。（读音为 /ɪkˈskluːd/）
-3.The teacher excluded him from the class for bad behavior. 老师因为他行为不好而把他赶出课堂。（读音为 /ɪkˈskluːd/）
-[搭] exclude...from... 把……排除在外
-[联] ex-（出去）+ clude（关闭）——> 关闭在外
+exclude / ɪkˈskluːd /, / ɛkˈskluːd /
 
 reverse /rɪˈvɜːrs/, /ˈrevɜːrs/
 adj. 相反的；逆向的
@@ -1826,125 +1819,25 @@ vi. 渴望；热切盼望
 2.yearn after 渴望
 [联] y-（加强语气）+ earn（赚取）——> 强烈渴望
 
-exclude / ɪkˈskluːd /, / ɛkˈskluːd /
-
-v. 排除，排斥；不包括，不考虑
-[例]
-1.The school excludes students who fail the entrance exam. 这所学校将入学考试不及格的学生排除在外。
-2.We must exclude all irrelevant information from our report. 我们必须从报告中排除所有无关信息。
-3.Exclude smoking in public places. 在公共场所禁止吸烟。
-[搭]
-1.exclude sb. from sth. 将某人排除在某事之外
-2.exclude sth. from consideration 不考虑某事
-[联] ex- (向外) + -clude (关闭) ——> 排除，排除在外
-
 invoke / ɪnˈvoʊk /, / ɪnˈvaɪk /
-
-v. 呼唤，召唤；引起，引发；引用，援引
-[例]
-1.They invoked his name in prayer. 他们在祈祷中呼唤他的名字。
-2.The law can be invoked to protect endangered species. 可以引用这条法律来保护濒危物种。
-3.Invoke your inner strength when facing challenges. 面对挑战时调动你的内在力量。
-[搭]
-1.invoke a higher power 呼唤更高权力
-2.invoke legal rights 引用法定权利
-[联] in- (进入) + voc (声音) ——> 呼唤，召唤
 
 itch / ɪtʃ /
 
-v. 发痒；渴望，极想
-[例]
-1.My leg itches where you scratched it. 你抓的地方我的腿发痒。
-2.I've been itching to try that new restaurant. 我一直很想试试那家新餐厅。
-3.Don't itch for revenge. 别有复仇之心。
-[搭]
-1.itch for sth. 渴望某物
-2.have an itch to do sth. 极想做某事
-[联] 与“抓”联系起来记忆，抓了会发痒
-
 attempt / əˈtempt /, / ætˈtemp(t) /
-
-v./n. 试图，尝试；努力
-[例]
-1.He made an attempt to climb the mountain. 他试图攀登这座山。
-2.Attempt what seems impossible. 努力去做看似不可能的事。
-3.The company attempted to expand its market share. 公司试图扩大市场份额。
-[搭]
-1.make an attempt to do sth. 试图做某事
-2.give up attempts 放弃尝试
-[联] at- (向) + tempt (诱惑) ——> 向诱惑发起挑战
 
 strive / straɪv /
 
-v. 努力，奋斗；力争，争取
-[例]
-1.Strive for excellence. 力争卓越。
-2.They strive to improve their living conditions. 他们努力改善生活条件。
-3.Strive to maintain peace. 努力维持和平。
-[搭]
-1.strive against 与……抗争
-2.strive with others 与他人竞争
-[联] striv(e) = strong (强烈的) + -e (动词后缀) ——> 努力，奋斗
-
 effort / ˈɛfərt /
-
-n. 努力，尽力；成就，成果
-[例]
-1.It takes great effort to learn a new language. 学习一门新语言需要很大的努力。
-2.Her efforts paid off in the end. 她的努力最终得到了回报。
-3.Effort can make the difference. 努力可以带来改变。
-[搭]
-1.make an effort 努力
-2.put forth effort 施加努力
-[联] ef- (向外) + fort (强壮) ——> 向外施力
 
 fulfil / fʊlˈfɪl /, / fʊlˈfiːl /
 
-v. 实现，完成；履行，执行
-[例]
-1.She fulfilled her dream of becoming a doctor. 她实现了当医生的梦想。
-2.The team fulfilled its potential. 这支队伍发挥出了潜力。
-3.Fulfil your responsibilities. 履行你的职责。
-[搭]
-1.fulfil a promise 履行承诺
-2.fulfil a role 扮演角色
-[联] ful- (完全) + fil(l) (填满) ——> 完全填满目标
-
 range / reɪndʒ /
-
-v./n. 范围，领域；排列，连续
-[例]
-1.The temperature ranges from 20 to 30 degrees Celsius. 气温在20到30摄氏度之间。
-2.These books range from fiction to non-fiction. 这些书从虚构类到非虚构类不等。
-3.The price range is reasonable. 价格范围合理。
-[搭]
-1.range of options 选择范围
-2.range from...to... 从……到……不等
-[联] range = rang(e) + -e ——> 排列成行
 
 sort / sɔːrt /
 
-v./n. 分类，整理；种类，类别
-[例]
-1.Sort these papers into folders. 把这些文件分类放入文件夹。
-2.There are many sorts of fruit in the market. 市场上有很多种水果。
-3.Sort out the good ones from the bad. 把好的挑出来，把坏的丢掉。
-[搭]
-1.sort through 翻找，筛选
-2.sort of 有点儿，稍微
-[联] sort = s- (分开) + -ort (保持) ——> 保持分开状态
-
 loom / lum /
 
-v. 隐约出现，逼近；显得巨大
-[例]
-1.A dark cloud loomed over the city. 一片乌云笼罩着这座城市。
-2.The threat of war loomed large. 战争的威胁迫在眉睫。
-3.The building loomed in the distance. 那栋建筑隐约出现在远处。
-[搭]
-1.loom large 显得巨大，逼近
-2.loom over 压迫，威胁
-[联] loom = lo- (向上) + -om(e) (形状) ——> 向上形成形状
+exclude / ɪkˈskluːd /, / ɛkˈskluːd /
 
 launch /lɑːntʃ/, /ˈlæntʃ/
 v. 发射，投射；开始，启动；使投入（新事业、新产品等）
@@ -2159,16 +2052,6 @@ offset costs 抵消成本
 [联] off (向相反方向) + set (放置) ——> 放置在相反方向以平衡  
 
 replenish / rɪˈplɛnɪʃ /
-v. 补充，使恢复  
-[例]  
-1.I need to replenish my supplies before going hiking. 去徒步旅行前我需要补充物资。  
-2.The farmers worked hard to replenish the soil with nutrients. 农民们努力为土壤补充养分。  
-3.The shopkeeper replenished the shelves with new stock. 店主把货架重新填满新货品。  
-[搭]  
-replenish the water bottle 给水瓶加水  
-[联] re- (再) + -plenish (充满) ——> 再次充满  
-
-replenish / rɪˈplɛnɪʃ /
 n. 补充物，补给品  
 [例]  
 1.We have enough replenish for our camping trip. 我们有足够的补给品去野营。  
@@ -2199,16 +2082,6 @@ gain weight 增重
 [联] 同上  
 
 supply / səˈplaɪ /
-v. 提供，供给  
-[例]  
-1.The government supplies free education to all children. 政府为所有儿童提供免费教育。  
-2.They supplied the soldiers with food and ammunition. 他们为士兵提供了食物和弹药。  
-3.The shop supplies fresh vegetables every morning. 这家商店每天早上供应新鲜蔬菜。  
-[搭]  
-supply chain 供应链  
-[联] supply (供应) + -er (人或物) ——> 供应者  
-
-supply / səˈplaɪ /
 n. 供应，供给  
 [例]  
 1.There is a shortage in the supply of oil. 石油供应短缺。  
@@ -2217,16 +2090,6 @@ n. 供应，供给
 [搭]  
 food supply 食物供应  
 [联] 同上  
-
-offer / ˈɔːfər /
-v. 提供，给予  
-[例]  
-1.The company offered him a high salary. 公司给他提供高薪。  
-2.She offered to help me with my homework. 她主动提出帮我做作业。  
-3.They offered free shipping for all orders. 他们为所有订单提供免运费服务。  
-[搭]  
-job offer 工作机会  
-[联] offer (提供) + -er (人或物) ——> 提供者  
 
 offer / ˈɔːfər /
 n. 提议，提议的内容  
@@ -2289,17 +2152,6 @@ v. 放大，增强；详述，详细说明
 2.amplify signals 信号增强
 [联] am-(加强) + -ply(折叠) ——> 折叠多次，表示放大。
 
-backup / ˈbækʌp /
-n. 备份；支持，援助；后备人员；后援部队
-[例]
-1.Make sure you have a backup of all your important files. 确保你有所有重要文件的备份。
-2.I need some backup for this decision. 我需要一些支持来做出这个决定。
-3.The backup team arrived just in time to save the situation. 后援队伍及时赶到挽救了局面。
-[搭] 
-1.backup plan 备用计划
-2.backup data 数据备份
-[联] back-(向后) + -up(上升) ——> 向后上升，表示后备。
-
 exaggerate / ɪgˈzædʒəreɪt /
 v. 夸张，夸大；夸大其词
 [例]
@@ -2310,17 +2162,6 @@ v. 夸张，夸大；夸大其词
 1.exaggerate facts 夸大事 实
 2.exaggerate claims 夸大主张
 [联] ex-(向外) + -aggerate(类似“aggr”表示增加) ——> 向外增加，表示夸大。
-
-leak / lik /
-v. 泄漏；泄露；渗漏
-[例]
-1.There is a leak in the pipe. 管道漏水了。
-2.Don't leak confidential information. 不要泄露机密信息。
-3.The secret leaked out before the official announcement. 秘密在正式宣布前泄露了出去。
-[搭] 
-1.leak detection 泄漏检测
-2.leak proof 防漏的
-[联] 直接联想“漏水”。
 
 prolong / proʊˈlɔːŋ /
 v. 延长，拉长；拖延
@@ -2333,6 +2174,17 @@ v. 延长，拉长；拖延
 2.prolong illness 病程延长
 [联] pro-(向前) + -long(长) ——> 向前拉长。
 
+backup / ˈbækʌp /
+n. 备份；支持，援助；后备人员；后援部队
+[例]
+1.Make sure you have a backup of all your important files. 确保你有所有重要文件的备份。
+2.I need some backup for this decision. 我需要一些支持来做出这个决定。
+3.The backup team arrived just in time to save the situation. 后援队伍及时赶到挽救了局面。
+[搭] 
+1.backup plan 备用计划
+2.backup data 数据备份
+[联] back-(向后) + -up(上升) ——> 向后上升，表示后备。
+
 propel / prəˈpel /
 v. 推动；驱使；推进
 [例]
@@ -2343,6 +2195,17 @@ v. 推动；驱使；推进
 1.propel oneself 自我驱动
 2.propel motion 推动力
 [联] pro-(向前) + -pel(推) ——> 向前推。
+
+update / ˌʌpˈdeɪt /
+v./n. 更新；修订；最新消息
+[例]
+1.The software needs to be updated regularly. 软件需要定期更新。
+2.Please update me on the latest developments. 请告诉我最新的进展。
+3.The news website provides daily updates. 新闻网站提供每日更新。
+[搭] 
+1.update system 系统更新
+2.update data 数据更新
+[联] up-(向上) + -date(日期) ——> 向上到最新日期。
 
 raise / reɪz /
 v. 提高；抬起；筹集；养育；升起
@@ -2355,6 +2218,17 @@ v. 提高；抬起；筹集；养育；升起
 2.raise awareness 提高意识
 [联] 直接联想“举起”。
 
+leak / lik /
+v. 泄漏；泄露；渗漏
+[例]
+1.There is a leak in the pipe. 管道漏水了。
+2.Don't leak confidential information. 不要泄露机密信息。
+3.The secret leaked out before the official announcement. 秘密在正式宣布前泄露了出去。
+[搭] 
+1.leak detection 泄漏检测
+2.leak proof 防漏的
+[联] 直接联想“漏水”。
+
 spill / spɪl /
 v. 溢出；泼洒；泄露
 [例]
@@ -2365,17 +2239,6 @@ v. 溢出；泼洒；泄露
 1.spill prevention 防止溢出
 2.spill control 溢出控制
 [联] 直接联想“泼洒”。
-
-update / ˌʌpˈdeɪt /
-v./n. 更新；修订；最新消息
-[例]
-1.The software needs to be updated regularly. 软件需要定期更新。
-2.Please update me on the latest developments. 请告诉我最新的进展。
-3.The news website provides daily updates. 新闻网站提供每日更新。
-[搭] 
-1.update system 系统更新
-2.update data 数据更新
-[联] up-(向上) + -date(日期) ——> 向上到最新日期。
 
 seep /sip/, /siːp/
 v. 渗出；渗漏；渐渐地进入
@@ -2470,18 +2333,6 @@ v. 奉承；阿谀；恭维
 
 worship / ˈwɜːrʃɪp , ˈwɝːʃɪp /
 
-v. 崇拜，敬仰；爱慕，迷恋  
-[例]  
-1.People worship celebrities for their talent and charm. 人们崇拜名人是因为他们的才华和魅力。  
-2.He worships his teacher as if she were a goddess. 他把老师当作女神一样崇拜。  
-3.Worship of money is dangerous in modern society. 追逐金钱在现代社会是危险的。  
-[搭]  
-1.worship idols 崇拜偶像  
-2.go to worship 去朝拜，去礼拜  
-[联] 将“worship”拆分为“wor-ship”，意为“值得尊敬的人或事”。  
-
----
-
 cause / kəˈz /
 v. 引起，导致；使发生  
 n. 原因，理由；事业，目标  
@@ -2494,119 +2345,21 @@ n. 原因，理由；事业，目标
 2.cause trouble 制造麻烦  
 [联] cause与“cause”同源，意为“事情的起因”。  
 
----
-
 sake / seɪk /
-
-n. 目的；原因；理由  
-[例]  
-1.I did it for the sake of my family. 我这样做是为了我的家人。  
-2.For the sake of argument, let's assume he's right. 出于争论的需要，让我们假设他是对的。  
-3.They sacrificed everything for the sake of peace. 他们为了和平牺牲了一切。  
-[搭]  
-1.for the sake of sth/sb 为了某事/某人  
-2.at the sake of 在……方面  
-
----
 
 purpose / ˈpɜːrpəs /
 
-n. 目的，意图；用途  
-v. 打算，意图  
-[例]  
-1.My purpose is to improve my English. 我的目的是提高英语水平。  
-2.What is the purpose of this meeting? 这次会议的目的是什么？  
-3.She left early on purpose. 她故意早走的。  
-[搭]  
-1.without purpose 毫无目的  
-2.purpose-built 专为某种用途而设计的  
-[联] purpose可联想“intention”，两者都表示“意图”。  
-
----
-
 objective / əbˈdʒektɪv /
-
-adj. 客观的；无偏见的  
-n. 目标，目的；客观事物  
-[例]  
-1.The objective of this project is to reduce costs. 这个项目的目标是降低成本。  
-2.Objective reporting is important in journalism. 客观报道在新闻中很重要。  
-3.His main objective was to win the race. 他的主要目标是赢得比赛。  
-[搭]  
-1.objective judgment 客观判断  
-2.set an objective 设定目标  
-[联] objective由“object”+“-ive”构成，“object”意为“物体”，加后缀表示“与物体有关的”。  
-
----
 
 arouse / əˈraʊz /
 
-v. 引起，唤起；唤醒  
-[例]  
-1.His speech aroused the audience's interest. 他的演讲引起了观众的兴趣。  
-2.The noise aroused me from sleep. 噪音把我从睡梦中唤醒。  
-3.The article aroused widespread discussion. 这篇文章引发了广泛的讨论。  
-[搭]  
-1.arouse curiosity 引起好奇心  
-2.arouse suspicion 引起怀疑  
-[联] arouse与“rise”同根，意为“升起、引发”。  
-
----
-
 trigger / ˈtrɪɡər /
-
-v. 触发，引起；触发器  
-n. 触发器；扳机  
-[例]  
-1.The incident triggered a chain reaction. 这一事件引发了一系列连锁反应。  
-2.Press the trigger to fire the gun. 按下扳机开枪。  
-3.A small spark can trigger a big fire. 一点火星就能引发大火。  
-[搭]  
-1.trigger warning 触发警告  
-2.trigger mechanism 触发机制  
-[联] trigger由“tri-”（三）+“-gger”构成，可能源自扳机的三个部件。  
-
----
 
 seek / siːk /
 
-v. 寻找；追求；探索  
-[例]  
-1.He sought advice from his friends. 他向朋友寻求建议。  
-2.I seek knowledge every day. 我每天都在追求知识。  
-3.They sought shelter from the storm. 他们寻找避雨的地方。  
-[搭]  
-1.seek out 寻找，搜寻  
-2.seek revenge 寻求报复  
-[联] seek与“sea”发音相似，可以联想为“大海深处寻找宝藏”。  
-
----
-
 retrieve / rɪˈtriːv /
 
-v. 取回，找回；恢复  
-[例]  
-1.He retrieved his lost wallet from the park. 他在公园找回了他的钱包。  
-2.The team managed to retrieve the lost data. 这支队伍成功恢复了丢失的数据。  
-3.The dog retrieved the ball from the water. 狗从水中叼回了球。  
-[搭]  
-1.retrieve information 恢复信息  
-2.retrieval system 检索系统  
-[联] retrieve由“re-”（重新）+“trieve”（取回）构成，意为“重新取回”。  
-
----
-
 testify / ˈtɛstɪfaɪ /
-
-v. 作证，证明；表明  
-[例]  
-1.She testified in court that she saw the accident. 她在法庭上作证说她目睹了事故。  
-2.His success testifies to his hard work. 他的成功证明了他的努力。  
-3.The results testify that the drug works. 结果表明这种药物有效。  
-[搭]  
-1.testify against 作证反对  
-2.testify to 证明，证实  
-[联] testify与“test”同源，意为“测试、检验”。
 
 verify / ˈvɛrəfaɪ /; / ˈvɪrəfaɪ /
 v. （证明、确认某事物为真或有效）验证，核实；证明，证实
@@ -3081,4 +2834,15 @@ adv. 向侧面地，向一边地
 1.move sideways 向侧面移动
 2.step sideways 向侧面迈步
 [联] side (边) + -ways (方向) ——> 向侧面的方向
+
+uphold /ʌpˈhoʊld/; /əpˈhoʊld/
+v. 支持，维护；坚持（真理、权利等）
+[例]
+1.The court upheld the decision of the lower court. 法院维持了下级法院的裁决。
+2.We should uphold the principles of justice and fairness. 我们应该坚持正义和公平的原则。
+3.The government is committed to upholding human rights worldwide. 政府致力于在全球范围内维护人权。
+[搭]
+1.uphold the law 维护法律
+2.uphold one's honor 维护某人的名誉
+[联] up (向上) + hold (抓住) ——> 把某物向上托起，象征支持或维护
 

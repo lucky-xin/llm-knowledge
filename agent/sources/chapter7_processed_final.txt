@@ -84,17 +84,6 @@ n. 习俗，惯例；大会，集会；公约，协定；（文学、艺术上�
 2.international convention 国际公约
 [联] con- (一起)+ vent(来)+ -ion(名词后缀)——> 一起来开会。
 
-conversation / ˌkɑːnvərˈseɪʃ(ə)n /
-n.（非正式的）谈话，交谈；<旧>社交，交际
-[例]
-1.She was engrossed in conversation. 她聚精会神地谈话。
-2.The subject came up in conversation. 谈话中提到了这个话题。
-3.The conversation drifted onto politics. 谈话不知不觉就转到政治方面来了。
-[搭]
-1.great conversation 伟大会话
-2.conversation practice 对话练习；会话练习；会话操练；谈话练习
-3.interrupt a conversation 打断谈话；打断一起说话；中断谈话；打断
-
 custom / ˈkʌstəm /
 n. 风俗，习俗；习惯；光顾，惠顾；<法律>惯例，习惯法；（经常性的）顾客
 adj. 定做的，量身设计的
@@ -135,6 +124,17 @@ n. 奴隶制，蓄奴；奴隶身份，奴役；过分依赖，过分投入
 3.social slavery 社会奴役
 4.natural slavery 自然奴役
 [联] slave(奴隶)+ -ry(名词后缀) ——> 奴隶状态
+
+ethical / ˈeθɪk(ə)l /
+adj. 道德的，伦理的；合乎道德的；有益于人（类）的，环保的；（药品）凭处方出售的
+[例]  
+1.Ethical standards in journalism are crucial for maintaining public trust. 新闻行业的道德标准对于维持公众信任至关重要。  
+2.Businesses must consider ethical issues when making decisions. 公司在做决策时必须考虑道德问题。  
+3.An ethical dilemma arises when personal values conflict with professional responsibilities. 当个人价值观与职业责任发生冲突时，就会出现道德困境。  
+[搭]
+1.ethical dilemma 道德困境
+2.ethical committee 道德委员会
+[联] eth- (来自ethics伦理学) + -ical (形容词后缀) ——> 有关伦理的
 
 moral / ˈmɔːrəl /
 adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
@@ -249,14 +249,14 @@ v. 让渡，转让
 
 anthropologist / ˌænθrəˈpɑːlədʒɪst /
 n. 人类学家
-[例]
-1.Anthropologist John has spent decades studying indigenous cultures in South America. 人类学家约翰几十年来一直在研究南美洲的土著文化。
-2.The anthropologist presented her findings on the social behavior of primates. 这位人类学家展示了她关于灵长类动物社会行为的研究成果。
-3.Anthropologists often study ancient artifacts to understand human history. 人类学家经常研究古代文物以了解人类历史。
+[例]  
+1.The anthropologist studied the social behaviors of primitive tribes. 这位人类学家研究了原始部落的社会行为。  
+2.Anthropologists often conduct fieldwork to gather data about different cultures. 人类学家经常进行实地考察以收集关于不同文化的数据。  
+3.The anthropologist's research focused on the evolution of human language. 这名人类学家的研究重点是人类语言的进化。  
 [搭]
 1.cultural anthropologist 文化人类学家
-2.field anthropologist 实地人类学家
-[联] anthropo- (人) + -logist (研究者) ——> 研究人的学者。
+2.physical anthropologist 物理人类学家
+[联] anthropo- (人) + -logist (研究者) ——> 研究人的学者
 
 humanitarian / hjuːˌmænɪˈteriən /
 adj. 人道主义的，博爱的；基督凡人论的
@@ -496,6 +496,16 @@ n. 神圣的东西，圣所
 5.holy place 圣所；圣殿
 [联] hol- (神圣) + -y (形容词后缀) ——> 真正神圣的东西
 
+pope / poʊp /
+n. 教皇，罗马教皇；权威，大师
+[例]  
+1.The pope delivered an important speech yesterday. 教皇昨天发表了一次重要的演讲。  
+2.Many Catholics look up to the pope as their spiritual leader. 许多天主教徒将教皇视为精神领袖。  
+3.The pope is considered the head of the Roman Catholic Church. 教皇被认为是罗马天主教会的首领。  
+[搭]
+1.the Pope of Rome 罗马教皇
+[联] 来源于拉丁语“papa”(父亲)，象征权威和神圣
+
 bishop / ˈbɪʃəp /
 n.（基督教的）主教；（国际象棋中的）象
 [例]
@@ -541,38 +551,6 @@ n. 圣经；圣经全书。
 1.Bible study 圣经研读
 2.Old Testament 旧约圣经
 [联] “Bible” 联想到“Biblical”，即圣经的，可以联想为与圣经相关的词汇
-
-ethical / ˈeθɪk(ə)l /
-adj. 道德的，伦理的；合乎道德的；有益于人（类）的，环保的；（药品）凭处方出售的
-[例]  
-1.Ethical standards in journalism are crucial for maintaining public trust. 新闻行业的道德标准对于维持公众信任至关重要。  
-2.Businesses must consider ethical issues when making decisions. 公司在做决策时必须考虑道德问题。  
-3.An ethical dilemma arises when personal values conflict with professional responsibilities. 当个人价值观与职业责任发生冲突时，就会出现道德困境。  
-[搭]
-1.ethical dilemma 道德困境
-2.ethical committee 道德委员会
-[联] eth- (来自ethics伦理学) + -ical (形容词后缀) ——> 有关伦理的
-
-anthropologist / ˌænθrəˈpɑːlədʒɪst /
-n. 人类学家
-[例]  
-1.The anthropologist studied the social behaviors of primitive tribes. 这位人类学家研究了原始部落的社会行为。  
-2.Anthropologists often conduct fieldwork to gather data about different cultures. 人类学家经常进行实地考察以收集关于不同文化的数据。  
-3.The anthropologist's research focused on the evolution of human language. 这名人类学家的研究重点是人类语言的进化。  
-[搭]
-1.cultural anthropologist 文化人类学家
-2.physical anthropologist 物理人类学家
-[联] anthropo- (人) + -logist (研究者) ——> 研究人的学者
-
-pope / poʊp /
-n. 教皇，罗马教皇；权威，大师
-[例]  
-1.The pope delivered an important speech yesterday. 教皇昨天发表了一次重要的演讲。  
-2.Many Catholics look up to the pope as their spiritual leader. 许多天主教徒将教皇视为精神领袖。  
-3.The pope is considered the head of the Roman Catholic Church. 教皇被认为是罗马天主教会的首领。  
-[搭]
-1.the Pope of Rome 罗马教皇
-[联] 来源于拉丁语“papa”(父亲)，象征权威和神圣
 
 church / tʃɜːrtʃ /
 n. 教堂；礼拜仪式；教派，教会
@@ -843,16 +821,6 @@ n. 怀旧；乡愁
 1.longing for nostalgia 怀旧之情
 2.nostalgia trip 怀旧之旅
 [联] nostalgia = nostal + gia ——> 来自希腊语“nostos”（返乡）和“algos”（痛苦）。
-
-celebrate / ˈselɪbreɪt /
-v. 庆祝，庆贺；赞扬，赞美；主持（宗教仪式）
-[例]
-1.I was in a mood to celebrate. 我很想庆祝一番。
-2.Scottish champs celebrate victory! 苏格兰的冠军庆祝胜利！
-3.Let's celebrate and damn the expense! 管它花多少钱，咱们先庆祝一番再说！
-[搭]
-1.celebrate with 庆祝
-2.celebrate christmas 庆祝圣诞
 
 celebrity / səˈlebrəti /
 n. 名声，名望；名人，明星

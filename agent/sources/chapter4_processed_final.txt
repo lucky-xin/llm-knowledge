@@ -119,15 +119,11 @@ n. 彗星
 meteorite / ˈmiːtiəraɪt /
 n. 陨石，陨星；流星
 [例]
-1.A meteorite struck the moon and created a visible flash. 一颗陨石撞击月球并产生了可见的闪光。
-2.Scientists are studying the meteorite to learn more about its origin. 科学家正在研究这颗陨石以了解更多关于它的起源。
+1.A meteorite struck a car in Russia. 一颗陨石击中了一辆汽车。
+2.Scientists study meteorites to learn more about the solar system. 科学家研究陨石以了解更多关于太阳系的信息。
 3.The meteorite left a crater in the ground. 这颗陨石在地上留下了一个陨石坑。
-[搭] 
-1.meteorite shower 流星雨
-2.Hoba meteorite 霍巴陨铁；荷巴陨石；世界最大
-3.iron meteorite 铁陨石；矿物 陨铁
-4.lunar meteorite 月球陨石；长石角砾岩类
-[联] meta (超越) + orite (石头) ——> 超越普通石头的物体
+[搭] meteorite shower 陨石雨
+[联] meta- (变化，超越) + -lite (石头) ——> 变化的石头
 
 crater / ˈkreɪtər /
 n.（撞击或爆炸形成的）坑，弹坑；火山口；穴，洞；（古希腊用的）调酒碗
@@ -366,27 +362,6 @@ n. 飞掠；飞过；尤指航天器的）近天体飞行；<美>（飞行表演
 2.Flyby Attack 飞扑攻击
 3.helicopter flyby 直升机飞越；直升机在轨物体而
 
-observe / əbˈzɜːrv /
-v. 注意到，观察到；注视，监视；发现；说话，评论；遵守（规则、法律等）；庆祝（节日），纪念（某人或事件）；静默，默哀；举行，参加
-[例]
-1.Will the rebels observe the ceasefire? 叛乱者会遵守停火协议吗？
-2.The scientists will study the variety of trees and observe which are fruiting. 科学家们将研究树木的多样性并观察哪些树木结果实。
-3.Jack was careful to observe the proprieties, treating her with exaggerated respect. 杰克谨慎遵守礼节，对她过分尊重。
-[搭]
-1.Observe and Report 监视与报告；我要做警察；我要当警察
-2.observe the grand opening of 隆重举行；盛大举办；盛大举行；盛大进行
-3.O-observe 观察；观察爱侣的喜好；察看；按你观察的结果
-
-observer / əbˈzɜːrvər /
-n. 观察者，目击者；观察家，评论员；（会议等的）观察员
-[例]
-1.The talks took place in the presence of a diplomatic observer. 会谈是在一位外交观察家在场的情况下进行的。
-2.The current sole superpower is far from being a disinterested observer. 当前惟一的超级大国远非一个公正的观察者。
-3.The president suggested that a UN observer should attend the conference. 大会主席建议应该有一名联合国观察员参加该会议。
-[搭]
-1.observer pattern 观察者模式
-2.observer status 观察员身份
-
 observatory / əbˈzɜːrvətɔːri /
 n. 天文台，气象台；视野开阔的位置（或建筑物）
 [例]
@@ -439,18 +414,6 @@ v. 沿轨道运行，环绕……运行；使（卫星）进入轨道
 4.earth orbit 地球轨道
 5.orbit determination 轨道计算，定轨
 [联] orb(圆) + it ——> 圆形路径
-
-eclipse / ɪˈklɪps /
-n. 日食，月食；黯然失色；羽毛暗淡期；消失，丧失
-v. 遮住……的光，使黯然失色
-[例]
-1.A total solar eclipse is due to take place some time tomorrow. 预计日全食会出现在明天的某个时候。
-2.An eclipse happens when the earth and moon are in line with the sun. 地球和月亮与太阳处在一条直线上，日食就发生了。
-3.Mo did not want to be ruled by anyone and it is notable that she never allowed the men in her life to eclipse her. 莫不想被任何人管制，很显然，她从不允许她生活中的男性使她黯然失色。
-[搭]
-1.solar eclipse［天］日食
-2.total solar eclipse 日全食
-3.total eclipse [天]日全食；月全食
 
 ecliptic / ɪˈklɪptɪk /
 adj.（日、月等）食的，黄道的
@@ -765,6 +728,21 @@ n. 出现次数；频繁；频率
 5.frequency domain [化]频域；频率范围
 [联] frequency = frequen（频繁）+ cy（名词后缀）——> 频繁的程度
 
+signal / ˈsɪɡnəl /
+n. 信号，暗号；标志，预示；（尤指铁路和公路上的）指示灯，信号灯；（无线电、电视等的）讯号，信号；起因，导火线；（桥牌）信号；（传递的）信息
+v. 发信号，示意；标志，预示；告知，表示；（车辆转方向时）打灯示意
+adj. 重大的，显要的；作为信号的
+[例]
+1.The green signal means "go". 绿色信号表示“通行”。
+2.He signalled with his hand to stop. 他用手示意停下。
+3.The radio signal was lost due to interference. 由于干扰，无线电波信号丢失了。
+[搭]
+1.signal strength 信号强度
+2.signal processing 信号处理
+3.digital signal 数字信号
+4.digital signal processing 数字信号处理
+[联] sign (标志) + -al (形容词后缀) ——> 标志性的
+
 antenna / ænˈtenə /
 n. 触须，触角；<美>天线；感觉，直觉
 [例]
@@ -790,30 +768,6 @@ v.（绕……）环行
 1.electric circuit 电路
 2.water circuit 水路
 [联] circuit = circ（环绕）+ uit（后缀）——> 环绕的路径
-
-meteorite / ˈmiːtiəraɪt /
-n. 陨石，陨星；流星
-[例]
-1.A meteorite struck a car in Russia. 一颗陨石击中了一辆汽车。
-2.Scientists study meteorites to learn more about the solar system. 科学家研究陨石以了解更多关于太阳系的信息。
-3.The meteorite left a crater in the ground. 这颗陨石在地上留下了一个陨石坑。
-[搭] meteorite shower 陨石雨
-[联] meta- (变化，超越) + -lite (石头) ——> 变化的石头
-
-signal / ˈsɪɡnəl /
-n. 信号，暗号；标志，预示；（尤指铁路和公路上的）指示灯，信号灯；（无线电、电视等的）讯号，信号；起因，导火线；（桥牌）信号；（传递的）信息
-v. 发信号，示意；标志，预示；告知，表示；（车辆转方向时）打灯示意
-adj. 重大的，显要的；作为信号的
-[例]
-1.The green signal means "go". 绿色信号表示“通行”。
-2.He signalled with his hand to stop. 他用手示意停下。
-3.The radio signal was lost due to interference. 由于干扰，无线电波信号丢失了。
-[搭]
-1.signal strength 信号强度
-2.signal processing 信号处理
-3.digital signal 数字信号
-4.digital signal processing 数字信号处理
-[联] sign (标志) + -al (形容词后缀) ——> 标志性的
 
 refraction / rɪˈfrækʃ(ə)n /
 n. 折射；折光
@@ -964,7 +918,9 @@ v. 绝望，丧失信心
 3.I can't help but feel a sense of despair. 我忍不住感到一阵绝望。
 [搭]
 1.in despair 绝望；失望；在绝望中；绝望之中
-[联] de-(否定) + spar(希望) ——> 绝望。
+2.despair of 失望，丧失信心；对…绝望
+3.sweeter than despair 比绝望更甜美；仿佛甜蜜而绝望的回响；比绝望更加甜美；比绝望更甜蜜
+[联] de-(否定) + spar(希望) ——> 绝望
 
 desperate / ˈdespərət /
 adj. 不顾一切的，拼命的；极需要的，渴望的；极严重的，极危险的；绝望的，无望的；绝望的，无望的

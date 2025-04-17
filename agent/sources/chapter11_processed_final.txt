@@ -1,3 +1,15 @@
+fashion / ˈfæʃ(ə)n /
+n. 时髦打扮，流行装扮；时尚，时兴；（做事的）方式；时装领域，时尚界
+v.（尤指用手工）制作，使成形；塑造
+[例]
+1.The fashion in women's clothing changes every year. 女装的流行趋势每年都在变化。
+2.His new book is the latest fashion in literature. 他的新书是文学领域的最新时尚。
+3.Fashion is something we deal with every day. 我们每天都在接触时尚。
+[搭]
+1.fashion designer 时装设计师
+2.follow the fashion 跟随潮流
+[联] fash (快速) + ion (名词后缀) ——> 迅速流行的东西
+
 fashionable / ˈfæʃ(ə)nəb(ə)l /
 adj. 流行的，时髦的；有钱人光顾的
 [例]
@@ -122,13 +134,15 @@ v.（模仿模特在 T 形台上的姿态）随音乐跳舞
 prevail / prɪˈveɪl /
 v. 流行，盛行；（在比赛、竞赛或争辩中）击败，获胜；占优势，占上风；（继续）使用；说服，劝服（prevail on/upon）
 [例]
-1.The new policy has prevailed over the old one. 新政策已经取代了旧政策。
-2.Health education is prevailing in schools. 健康教育正在学校中普及。
-3.We prevailed upon him to change his mind. 我们说服他改变了主意。
+1.Honesty will always prevail over deceit. 诚实终将战胜欺骗。
+2.The belief that money can solve everything still prevails in some circles. 认为金钱能解决一切的想法在某些圈子里仍然盛行。
+3.I couldn't prevail upon him to change his mind. 我无法说服他改变主意。
 [搭]
 1.prevail against 打败，胜过
 2.prevail on 劝说，说服
-[联] pre- (前，先) + vail (有价值，有效) ——> 先行起作用
+3.prevail over 胜过；占优势
+4.prevail upon 说服；诱使
+[联] pre- (前) + vail (力量) ——> 在前面占据力量
 
 prevalence / ˈprevələns /
 n. 流行，盛行
@@ -517,6 +531,22 @@ adj.（人）高雅的，举止优雅的；精美的，雅致的；简练的，�
 5.elegant shape 式样优雅
 [联] ele- (选择，挑选) + -gant (形容词后缀) ——> 精心挑选，显得高雅
 
+perfect / ˈpɜːrfɪkt /
+adj. 无瑕的，完好的；完全正确的，极其准确的；完美的，理想的；最佳的，绝配的；十足的，完全的；通常的，大体的；（语法）完成时的，完成式的
+v. 完善，使完美；双面印完（一页纸）；<法律>使（礼物、头衔等）合法转移
+n.（语法）完成时，完成体
+[例]
+1.Nothing in this world is perfect. 这个世界上没有完美的东西。
+2.He strives for perfection in everything he does. 他对每件事都追求完美。
+3.Her performance was absolutely perfect. 她的表现绝对完美。
+[搭]
+1.perfect timing 完美的时机
+2.perfect the art 完善艺术
+3.perfect oneself in 精通；熟练；完全掌握
+4.perfect for 应用范围；对…是完美的
+5.perfect harmony 水乳交融；完美无谐波；十分和谐
+[联] per- (完全) + fect (做) ——> 完全做到
+
 perfection / pərˈfekʃ(ə)n /
 n. 完美；完善；完美的人（或物）
 [例]
@@ -558,6 +588,18 @@ v. 用化妆品打扮（cosmetic 的三单形式）
 3.cosmetic products 化妆品
 [联] cosme- (装饰) + -tics (复数名词后缀) ——> 装饰用品
 
+makeup / ˈmeɪˌkʌp /
+n. 组成，构造；化妆品；<美>补考；天性，性格；补给，补充
+[例]
+1.She spends a lot of time on makeup. 她花很多时间化妆。
+2.Her makeup was flawless. 她的妆容无可挑剔。
+3.What is the makeup of this team? 这个团队的构成是什么？
+[搭]
+1.makeup artist 化妆师
+2.makeup water 补充水
+3.makeup remover 卸妆水
+[联] make (制作) + up (向上) ——> 制作上去的东西
+
 handsome / ˈhænsəm /
 adj.（男子）英俊的，帅气的；（女子）端庄健美的；宽敞而美观的，宏伟的；慷慨的，气量大的；（金额）可观的，优厚的；（礼品、奖品）贵重的，值钱的
 [例]
@@ -585,73 +627,6 @@ v. 吸引，迷住；哄诱；向……施魔法（charm 的现在分词形式�
 5.geek charming 千金奇缘；怪诞俏女郎；书呆也性感
 [联] charm (魔法，魅力) + -ing (形容词后缀) ——> 充满魅力
 
-clothing / ˈkloʊðɪŋ /
-n. 衣服，（尤指某种）服装
-v. 给……穿衣，为……提供衣服，赋予（某人某品质）（clothe 的现在分词）
-[例]
-1.He bought some new clothing for the trip. 他为旅行买了些新衣服。
-2.Clothing is essential for survival in cold weather. 在寒冷天气中，衣物是生存必需品。
-3.The store specializes in outdoor clothing. 这家商店专门经营户外服装。
-[搭] 
-1.clothing brand 服装品牌
-2.casual clothing 休闲服装
-3.clothing industry 服装工业；制衣业；缝纫业
-4.protective clothing 防护衣；防护罩，安全罩
-5.clothing store 服装店；成衣店
-[联] cloth (布料) + -ing (名词后缀) ——> 布料制成的东西
-
-fashion / ˈfæʃn /, / fəˈʃen /
-n. 流行，时尚；风尚，习俗。
-[例]
-1.The fashion in women's clothing changes every year. 女装的流行趋势每年都在变化。
-2.His new book is the latest fashion in literature. 他的新书是文学领域的最新时尚。
-3.Fashion is something we deal with every day. 我们每天都在接触时尚。
-[搭]
-1.fashion designer 时装设计师
-2.follow the fashion 跟随潮流
-[联] fash (快速) + ion (名词后缀) ——> 迅速流行的东西。
-
-prevail / prɪˈveɪl /
-v. 流行，盛行；（在比赛、竞赛或争辩中）击败，获胜；占优势，占上风；（继续）使用；说服，劝服（prevail on/upon）
-[例]
-1.Honesty will always prevail over deceit. 诚实终将战胜欺骗。
-2.The belief that money can solve everything still prevails in some circles. 认为金钱能解决一切的想法在某些圈子里仍然盛行。
-3.I couldn't prevail upon him to change his mind. 我无法说服他改变主意。
-[搭]
-1.prevail against 打败，胜过
-2.prevail on 劝说，说服
-3.prevail over 胜过；占优势
-4.prevail upon 说服；诱使
-[联] pre- (前) + vail (力量) ——> 在前面占据力量
-
-perfect / ˈpɜːrfɪkt /
-adj. 无瑕的，完好的；完全正确的，极其准确的；完美的，理想的；最佳的，绝配的；十足的，完全的；通常的，大体的；（语法）完成时的，完成式的
-v. 完善，使完美；双面印完（一页纸）；<法律>使（礼物、头衔等）合法转移
-n.（语法）完成时，完成体
-[例]
-1.Nothing in this world is perfect. 这个世界上没有完美的东西。
-2.He strives for perfection in everything he does. 他对每件事都追求完美。
-3.Her performance was absolutely perfect. 她的表现绝对完美。
-[搭]
-1.perfect timing 完美的时机
-2.perfect the art 完善艺术
-3.perfect oneself in 精通；熟练；完全掌握
-4.perfect for 应用范围；对…是完美的
-5.perfect harmony 水乳交融；完美无谐波；十分和谐
-[联] per- (完全) + fect (做) ——> 完全做到
-
-makeup / ˈmeɪˌkʌp /
-n. 组成，构造；化妆品；<美>补考；天性，性格；补给，补充
-[例]
-1.She spends a lot of time on makeup. 她花很多时间化妆。
-2.Her makeup was flawless. 她的妆容无可挑剔。
-3.What is the makeup of this team? 这个团队的构成是什么？
-[搭]
-1.makeup artist 化妆师
-2.makeup water 补充水
-3.makeup remover 卸妆水
-[联] make (制作) + up (向上) ——> 制作上去的东西
-
 pretty / ˈprɪti /
 adj.（尤指女孩）漂亮的，标致的；（事物）悦目的，悦耳的；（男子）女子气的，俊俏的；巨大的，令人印象深刻的；好看的，令人愉快的； <非正式>非常糟糕的
 adv. 相当，颇；非常，很
@@ -667,6 +642,21 @@ v. 装饰，使漂亮
 3.pretty good 非常好
 4.pretty much 几乎
 [联] pret (可爱的) + ty (名词后缀) ——> 可爱的东西
+
+clothing / ˈkloʊðɪŋ /
+n. 衣服，（尤指某种）服装
+v. 给……穿衣，为……提供衣服，赋予（某人某品质）（clothe 的现在分词）
+[例]
+1.He bought some new clothing for the trip. 他为旅行买了些新衣服。
+2.Clothing is essential for survival in cold weather. 在寒冷天气中，衣物是生存必需品。
+3.The store specializes in outdoor clothing. 这家商店专门经营户外服装。
+[搭] 
+1.clothing brand 服装品牌
+2.casual clothing 休闲服装
+3.clothing industry 服装工业；制衣业；缝纫业
+4.protective clothing 防护衣；防护罩，安全罩
+5.clothing store 服装店；成衣店
+[联] cloth (布料) + -ing (名词后缀) ——> 布料制成的东西
 
 beautiful / ˈbjuːtɪf(ə)l /
 adj. 美丽的，漂亮的；令人愉悦的，美妙的；（完成得）出色的，极好的；<美>仁慈的
@@ -691,6 +681,31 @@ adj. 丑陋的，难看的；（通常因涉及暴力、挑衅行为而）令人
 1.ugly face 丑脸
 2.ugly duckling 丑小鸭；小时难看长大后变得才貌出众的人
 [联] ugl (丑) + y (形容词后缀) ——> 丑的东西
+
+dress / dres /  
+n. 连衣裙，套裙；（特定种类的）服装，衣服；（统指）服装；（上下连身的）女装，童装
+v. 穿衣；给……穿衣服；穿正式服装；清洗包扎（伤口）；调制；加工，处理（食材、材料等）；整队；布置，装饰；为……制作或挑选衣服；做头发
+[例]  
+1.She wore a beautiful dress to the party. 她穿着一件漂亮的裙子去参加聚会。  
+2.Children's dress is usually colorful. 童装通常色彩鲜艳。  
+3.This dress is made of silk. 这条裙子是丝绸做的。  
+[搭]  
+1.dress up 打扮，盛装打扮  
+2.business dress 商务休闲装
+3.dress oneself 打扮；给自己穿衣服
+4.dress in（使）穿…的服装；乔装打扮
+[联] dress 与 dressingroom（更衣室）相关联
+
+clothe / kloʊð /
+v. 给……穿衣；为……提供衣服；赋予（某人某品质）
+[例]  
+1.My mother clothe me every morning. 我妈妈每天早上给我穿衣服。  
+2.We clothe the poor children in winter. 我们冬天给穷孩子提供衣服。  
+3.The company clothe their employees well. 这家公司给员工提供了很好的制服。  
+[搭]  
+1.clothe oneself 自己穿衣服  
+2.be clothed in 穿着……的衣服  
+[联] clothe 联想到 clothing（衣物）
 
 uniform / ˈjuːnɪfɔːrm /
 n. 制服，校服；<非正式>穿制服的警官；（某一群体的人穿的）典型服装，特有服装；（无线电通讯）字母 U 的代码
@@ -843,45 +858,6 @@ n. 牛仔裤；工装裤
 4.jeans wear 牛仔裤的总称；牛仔装
 [联] jeans(牛仔裤)-源自Genoa(热那亚)
 
-vest / vest /
-n. <英> 背心，汗衫； <美>马甲，西装背心；坎肩，（特制的）背心；（无袖保暖）内衣
-v. <正式>授予，赋予，给予（权利或责任）；（权力、财产等）交给，归属；（唱诗班歌手，神职人员）穿圣衣，穿法衣；<文>给……穿衣服
-[例]
-1.He wore a vest under his shirt for extra warmth. 他在衬衫里面穿了件背心以保暖。
-2.The football player put on his protective vest before the game. 这名足球运动员在比赛前穿上防护背心。
-3.Soldiers wear vests to protect themselves from bullets. 士兵们穿着防弹衣保护自己。
-[搭] 
-1.bulletproof vest 防弹背心；避弹衣
-2.sports vest 运动背心
-3.vest in 归属于；授予
-4.close to the vest 做事小心谨慎
-[联] vest 联想到“best”（最好的），想象最好的衣服是背心
-
-dress / dres /  
-n. 连衣裙，套裙；（特定种类的）服装，衣服；（统指）服装；（上下连身的）女装，童装
-v. 穿衣；给……穿衣服；穿正式服装；清洗包扎（伤口）；调制；加工，处理（食材、材料等）；整队；布置，装饰；为……制作或挑选衣服；做头发
-[例]  
-1.She wore a beautiful dress to the party. 她穿着一件漂亮的裙子去参加聚会。  
-2.Children's dress is usually colorful. 童装通常色彩鲜艳。  
-3.This dress is made of silk. 这条裙子是丝绸做的。  
-[搭]  
-1.dress up 打扮，盛装打扮  
-2.business dress 商务休闲装
-3.dress oneself 打扮；给自己穿衣服
-4.dress in（使）穿…的服装；乔装打扮
-[联] dress 与 dressingroom（更衣室）相关联
-
-clothe / kloʊð /
-v. 给……穿衣；为……提供衣服；赋予（某人某品质）
-[例]  
-1.My mother clothe me every morning. 我妈妈每天早上给我穿衣服。  
-2.We clothe the poor children in winter. 我们冬天给穷孩子提供衣服。  
-3.The company clothe their employees well. 这家公司给员工提供了很好的制服。  
-[搭]  
-1.clothe oneself 自己穿衣服  
-2.be clothed in 穿着……的衣服  
-[联] clothe 联想到 clothing（衣物）
-
 trousers / ˈtraʊzərz /
 n. 裤子，长裤； 裤子，长裤（trouser 的复数）
 [例]  
@@ -918,7 +894,7 @@ v. 用纽扣扣住
 [搭]  
 1.button down shirt 格子衬衫  
 2.button up 关闭；结束  
-[联] button 与 buckle（扣环）相关联。  
+[联] button 与 buckle（扣环）相关联
 
 unbutton / ˌʌnˈbʌtn /
 vi. 解开钮扣；吐露
@@ -967,140 +943,6 @@ v. 覆盖；限额收取（或支出）；选入国家队；给（牙齿）上�
 1.cap size 帽子尺寸  
 2.peak cap 礼帽  
 [联] cap 与 hat（帽子）相关联
-
-wrap /ræp/
-v. 包，裹，包装；用（手臂、指头或腿）围紧，用……绕住；绕……走；完成拍摄，杀青 ；<非正式>使（车辆）撞上（固定物体）；（使文字）换行
-n. 披肩，围巾； 包裹（或包装）材料；宽松外套，浴衣；面卷饼（一种三明治，由薄面包包着肉、蔬菜等）；拍摄（或录音）结束，停机
-[例]
-1.She wrapped the gift in colorful paper. 她用五彩纸把礼物包裹起来。
-2.The bandage was tightly wrapped around his arm. 绷带紧紧地缠绕在他的手臂上。
-3.They wrapped the fragile item carefully before shipping it. 在发货之前他们仔细地包裹了易碎物品。
-[搭] 
-1.wrap up 包裹好；结束；总结
-2.wraparound window 环绕窗户
-[联] wrap 联想到“wrap rope”，想象用绳子包裹东西
-
-cloak / kloʊk /
-n. 斗篷，披风；遮掩物，掩盖；<英>衣帽间，行李寄存处
-v. 笼罩，覆盖；隐藏，掩饰
-[例]
-1.The knight wore a heavy cloak in the cold weather. 骑士在寒冷天气里披着厚重的斗篷。
-2.Her kindness is a cloak for her true intentions. 她的善良是她真实意图的掩饰。
-3.The soldiers were dressed in cloaks to hide their identities. 士兵们穿着斗篷来隐藏身份。
-[搭] 
-1.cloak and dagger 间谍活动；秘密行动
-2.rain cloak 雨披
-[联] cloak 联想到“clock”（钟表），想象斗篷像钟表一样遮盖身体
-
-collar / ˈkɑːlər /
-n. 衣领，领口；颈圈；（动物颈部颜色异样的）色圈，颈锁形条纹；箍，套管；（股票交易的）项圈策略；<英>肉卷；猪颈部的熏肉块；（植物的）根颈
-v. <非正式>抓住，逮捕；<非正式>拦住（以便与之谈话）
-[例]
-1.His shirt collar was too tight around his neck. 他的衬衫领子太紧勒住了脖子。
-2.The dog wore a leather collar with its name on it. 这只狗戴着刻有名字的皮项圈。
-3.Policemen wear distinctive collars to show their rank. 警察通过衣领来显示他们的级别。
-[搭] 
-1.collar bone 锁骨
-2.collar button 衣领扣
-[联] collar 联想到“call”，想象打电话时领口被拉扯
-
-sleeve / sliːv /
-n. 袖子；袖套；（机器的）套筒，套管；唱片套；风向袋；（机尾的）减速伞，制动伞
-v. 给……装套筒
-[例]
-1.The sleeve of his jacket was torn. 他夹克衫的袖子破了。
-2.She rolled up her sleeves to do some gardening. 她卷起袖子准备做园艺。
-3.His watch slipped down his sleeve. 他的手表滑进了袖子里。
-[搭] 
-1.sleeveless 没有袖子的
-2.long sleeve 长袖
-[联] sleeve 联想到“slip”（滑倒），想象袖子让人滑倒
-
-sock / sɑːk /
-n. 短袜；长袜
-[例]
-1.She pulled a pair of socks out of the drawer. 她从抽屉里拿出一双袜子。
-2.The baby's socks were too small for him. 这婴儿的袜子对他来说太小了。
-3.He lost one sock in the laundry. 他在洗衣时丢了一只袜子。
-[搭] 
-1.ankle sock 袜筒到脚踝的袜子
-2.crew sock 长筒袜
-[联] sock 联想到“rock”（岩石），想象袜子像岩石一样坚硬
-
-stock / stɑːk /
-n. 现货，存货；储备物，备用物；股本，资本；股份，股票；<英>公债，公债券；家畜，牲畜；种族，家系；高汤，原汤；手足枷（stocks）；柄，枪托；名声，声望
-v. 备有，存有；摆满，供应；为（枪等火器）装枪托；出新芽
-adj. 老一套的，陈腐的；（商店）库存的，常备的；（有关）电影资料镜头的
-[例]
-1.The stock market is in a tailspin. 股票市场一蹶不振。
-2.Stock prices took a dive. 股票价格暴跌。
-3.Do you stock green tea? 你们的库存有绿茶吗？
-[搭]
-1.stock market 股票市场；证券市场；股票交易
-2.in stock 有存货；现有
-3.stock exchange 证券交易所
-
-stocking / ˈstɑːkɪŋ /
-n.（女式）长筒袜；（装礼物用的）圣诞袜；<旧> 男袜；（尤指用于治疗静脉病的）袜状弹性绷带；（马小腿部的）白斑；短袜
-v.（尤指为某个特定时刻或目的而）备货，囤积 （stock的现在分词形式）；储存，贮备；（为销售而）备有，存有
-[例]
-1.She bought several pairs of stockings for the party. 她为聚会买了几双长筒袜。
-2.The stocking fell down her leg. 那长筒袜滑下了她的腿。
-3.These stockings are made of silk. 这些长筒袜是丝绸做的。
-[搭] 
-1.hold-up stocking 松紧带袜
-2.sheer stocking 透明长筒袜
-[联] stocking 联想到“stocking market”，想象股票市场里的长筒袜
-
-slipper / ˈslɪpər /
-n. 室内便鞋，拖鞋；轻便舞鞋
-v. 用拖鞋打（人）
-[例]
-1.She kicked off her slippers when she got home. 她回家后踢掉了拖鞋。
-2.The slippers were left by the door. 拖鞋被放在门口。
-3.He wore slippers while relaxing at home. 他放松时穿着拖鞋。
-[搭] 
-1.slipper sole 拖鞋底部
-2.bedroom slipper 室内拖鞋
-3.bath slipper 洗澡用拖鞋；沐浴用拖鞋；洗浴用拖鞋
-4.paper slipper 纸拖鞋；纸趿拉儿
-[联] slipper 联想到“slip”，想象鞋子容易滑脱
-
-boot / buːt /
-n. 靴子；猛踢；（汽车的）行李箱，后备箱；车轮固定夹；解雇；再者，除此之外（to boot）
-v. 猛踢；锁住（非法停车的轮子）；启动（电脑）；在车轮上装制动装置；解雇；（使）穿靴
-[例]
-1.She bought a new pair of boots for winter. 她为冬天买了一双新靴子。
-2.The cowboy wore boots with spurs. 牛仔穿着带马刺的靴子。
-3.The boot protected his feet from the rain. 靴子保护了他的脚免受雨水侵袭。
-[搭] 
-1.hiking boot 登山靴
-2.combat boot 军用靴
-[联] boot 联想到“bootleg”，想象非法制作的靴子
-
-lace / leɪs /
-n. 网眼织物，蕾丝；鞋带，系带；少量烈酒
-v. 用系带束紧，用鞋带系（鞋）；把（少量酒、药品或毒药等烈性物质）掺入；使编织（或交织、缠绕）在一起；加入……使有味（或有趣）
-[例]
-1.She tied the laces of her sneakers tightly. 她把运动鞋的鞋带系得紧紧的。
-2.The lace broke during the race. 赛跑时鞋带断了。
-3.The dress was fastened with laces. 这条裙子用鞋带固定。
-[搭] 
-1.shoelace 鞋带
-2.lacing system 鞋带系统
-[联] lace 联想到“lake”，想象湖边的鞋带
-
-ribbon / ˈrɪbən /
-n. 丝带，绸带；（表示军功的）绶带，勋带；（作为比赛奖品的）绶带；（表明支持某一组织、原则或目标而配带的）饰带；带状物，狭长的东西
-v. 成带状延伸（或运动）；把…撕成条带；用缎带装饰
-[例]
-1.She tied a ribbon around the present. 她用丝带把礼物包了起来。
-2.A red ribbon was placed around the tree trunk. 树干上系了一条红丝带。
-3.The dancer wore a ribbon in her hair. 舞者头发上别了一条丝带。
-[搭]
-1.ribbon candy 形状像丝带的糖果
-2.gift ribbon 礼品包装用的丝带
-[联] 想象一条漂亮的丝带系在礼品盒上，让礼物更加精致
 
 brim / brɪm /
 n. 帽檐，帽边；（容器的）口，边沿
@@ -1161,6 +1003,129 @@ n. 钱包，皮夹；（装文件的）皮夹，塑料夹；<古>（尤指商贩
 4.pick up a wallet 捡钱包
 [联] 和“purse”类似，但“wallet”更小，专用于放卡片和现金
 
+vest / vest /
+n. <英> 背心，汗衫； <美>马甲，西装背心；坎肩，（特制的）背心；（无袖保暖）内衣
+v. <正式>授予，赋予，给予（权利或责任）；（权力、财产等）交给，归属；（唱诗班歌手，神职人员）穿圣衣，穿法衣；<文>给……穿衣服
+[例]
+1.He wore a vest under his shirt for extra warmth. 他在衬衫里面穿了件背心以保暖。
+2.The football player put on his protective vest before the game. 这名足球运动员在比赛前穿上防护背心。
+3.Soldiers wear vests to protect themselves from bullets. 士兵们穿着防弹衣保护自己。
+[搭] 
+1.bulletproof vest 防弹背心；避弹衣
+2.sports vest 运动背心
+3.vest in 归属于；授予
+4.close to the vest 做事小心谨慎
+[联] vest 联想到“best”（最好的），想象最好的衣服是背心
+
+wrap /ræp/
+v. 包，裹，包装；用（手臂、指头或腿）围紧，用……绕住；绕……走；完成拍摄，杀青 ；<非正式>使（车辆）撞上（固定物体）；（使文字）换行
+n. 披肩，围巾； 包裹（或包装）材料；宽松外套，浴衣；面卷饼（一种三明治，由薄面包包着肉、蔬菜等）；拍摄（或录音）结束，停机
+[例]
+1.She wrapped the gift in colorful paper. 她用五彩纸把礼物包裹起来。
+2.The bandage was tightly wrapped around his arm. 绷带紧紧地缠绕在他的手臂上。
+3.They wrapped the fragile item carefully before shipping it. 在发货之前他们仔细地包裹了易碎物品。
+[搭] 
+1.wrap up 包裹好；结束；总结
+2.wraparound window 环绕窗户
+[联] wrap 联想到“wrap rope”，想象用绳子包裹东西
+
+cloak / kloʊk /
+n. 斗篷，披风；遮掩物，掩盖；<英>衣帽间，行李寄存处
+v. 笼罩，覆盖；隐藏，掩饰
+[例]
+1.The knight wore a heavy cloak in the cold weather. 骑士在寒冷天气里披着厚重的斗篷。
+2.Her kindness is a cloak for her true intentions. 她的善良是她真实意图的掩饰。
+3.The soldiers were dressed in cloaks to hide their identities. 士兵们穿着斗篷来隐藏身份。
+[搭] 
+1.cloak and dagger 间谍活动；秘密行动
+2.rain cloak 雨披
+[联] cloak 联想到“clock”（钟表），想象斗篷像钟表一样遮盖身体
+
+collar / ˈkɑːlər /
+n. 衣领，领口；颈圈；（动物颈部颜色异样的）色圈，颈锁形条纹；箍，套管；（股票交易的）项圈策略；<英>肉卷；猪颈部的熏肉块；（植物的）根颈
+v. <非正式>抓住，逮捕；<非正式>拦住（以便与之谈话）
+[例]
+1.His shirt collar was too tight around his neck. 他的衬衫领子太紧勒住了脖子。
+2.The dog wore a leather collar with its name on it. 这只狗戴着刻有名字的皮项圈。
+3.Policemen wear distinctive collars to show their rank. 警察通过衣领来显示他们的级别。
+[搭] 
+1.collar bone 锁骨
+2.collar button 衣领扣
+[联] collar 联想到“call”，想象打电话时领口被拉扯
+
+sleeve / sliːv /
+n. 袖子；袖套；（机器的）套筒，套管；唱片套；风向袋；（机尾的）减速伞，制动伞
+v. 给……装套筒
+[例]
+1.The sleeve of his jacket was torn. 他夹克衫的袖子破了。
+2.She rolled up her sleeves to do some gardening. 她卷起袖子准备做园艺。
+3.His watch slipped down his sleeve. 他的手表滑进了袖子里。
+[搭] 
+1.sleeveless 没有袖子的
+2.long sleeve 长袖
+[联] sleeve 联想到“slip”（滑倒），想象袖子让人滑倒
+
+sock / sɑːk /
+n. 短袜；长袜
+[例]
+1.She pulled a pair of socks out of the drawer. 她从抽屉里拿出一双袜子。
+2.The baby's socks were too small for him. 这婴儿的袜子对他来说太小了。
+3.He lost one sock in the laundry. 他在洗衣时丢了一只袜子。
+[搭] 
+1.ankle sock 袜筒到脚踝的袜子
+2.crew sock 长筒袜
+[联] sock 联想到“rock”（岩石），想象袜子像岩石一样坚硬
+
+stocking / ˈstɑːkɪŋ /
+n.（女式）长筒袜；（装礼物用的）圣诞袜；<旧> 男袜；（尤指用于治疗静脉病的）袜状弹性绷带；（马小腿部的）白斑；短袜
+v.（尤指为某个特定时刻或目的而）备货，囤积 （stock的现在分词形式）；储存，贮备；（为销售而）备有，存有
+[例]
+1.She bought several pairs of stockings for the party. 她为聚会买了几双长筒袜。
+2.The stocking fell down her leg. 那长筒袜滑下了她的腿。
+3.These stockings are made of silk. 这些长筒袜是丝绸做的。
+[搭] 
+1.hold-up stocking 松紧带袜
+2.sheer stocking 透明长筒袜
+[联] stocking 联想到“stocking market”，想象股票市场里的长筒袜
+
+slipper / ˈslɪpər /
+n. 室内便鞋，拖鞋；轻便舞鞋
+v. 用拖鞋打（人）
+[例]
+1.She kicked off her slippers when she got home. 她回家后踢掉了拖鞋。
+2.The slippers were left by the door. 拖鞋被放在门口。
+3.He wore slippers while relaxing at home. 他放松时穿着拖鞋。
+[搭] 
+1.slipper sole 拖鞋底部
+2.bedroom slipper 室内拖鞋
+3.bath slipper 洗澡用拖鞋；沐浴用拖鞋；洗浴用拖鞋
+4.paper slipper 纸拖鞋；纸趿拉儿
+[联] slipper 联想到“slip”，想象鞋子容易滑脱
+
+boot / buːt /
+n. 靴子；猛踢；（汽车的）行李箱，后备箱；车轮固定夹；解雇；再者，除此之外（to boot）
+v. 猛踢；锁住（非法停车的轮子）；启动（电脑）；在车轮上装制动装置；解雇；（使）穿靴
+[例]
+1.She bought a new pair of boots for winter. 她为冬天买了一双新靴子。
+2.The cowboy wore boots with spurs. 牛仔穿着带马刺的靴子。
+3.The boot protected his feet from the rain. 靴子保护了他的脚免受雨水侵袭。
+[搭] 
+1.hiking boot 登山靴
+2.combat boot 军用靴
+[联] boot 联想到“bootleg”，想象非法制作的靴子
+
+lace / leɪs /
+n. 网眼织物，蕾丝；鞋带，系带；少量烈酒
+v. 用系带束紧，用鞋带系（鞋）；把（少量酒、药品或毒药等烈性物质）掺入；使编织（或交织、缠绕）在一起；加入……使有味（或有趣）
+[例]
+1.She tied the laces of her sneakers tightly. 她把运动鞋的鞋带系得紧紧的。
+2.The lace broke during the race. 赛跑时鞋带断了。
+3.The dress was fastened with laces. 这条裙子用鞋带固定。
+[搭] 
+1.shoelace 鞋带
+2.lacing system 鞋带系统
+[联] lace 联想到“lake”，想象湖边的鞋带
+
 tailor / ˈteɪlər /
 n.（尤指男装）裁缝；蓝鱼（Tailorfish 的简称）
 v. 定做（衣服）；迎合，使适应
@@ -1212,6 +1177,94 @@ v. 缝，缝补；缝合（伤口）；<英，非正式>操纵局势使……处
 3.stitch length 针距；线圈长度；针迹长度
 4.cross stitch 十字缝；十字针法
 [联] 和“sew”相关，“stitch”是缝纫的具体动作
+
+needle / ˈniːd(ə)l /
+n. 缝衣针；编织针；注射针；（针灸疗法用的）刺针；唱针；（仪器上的）指针；针叶；<英，非正式>（尤指竞争所引发的）针锋相对，敌意；气针
+[例]
+1.She threaded the needle with great care. 她小心翼翼地把线穿过针眼。
+2.The doctor used a needle to inject medicine into the patient. 医生用针头为病人注射药物。
+3.A needle in the haystack is hard to find. 在干草堆里找一根针很难。
+[搭]
+1.sewing needle 缝衣针
+2.acupuncture needle 针灸针
+[联] needle 形似针尖
+
+pin / pɪn /
+n.（尤指做衣服时固定布料用的）别针，大头针；<美>胸针，饰针；徽章，像章；钉，楔，销，栓；（接骨用的）钢钉，钢针；（插头的）管脚
+v.（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制
+[例]
+1.She pinned her scarf around her neck. 她用别针把围巾固定在脖子上。
+2.He pinned the notice to the bulletin board. 他把通知别在布告栏上。
+3.A pin can hold two pieces of paper together. 别针可以将两张纸固定在一起。
+[搭]
+1.safety pin 安全别针
+2.hairpin 发夹
+3.rolling pin 擀面杖；杆面棍；面棍
+4.guide pin 导销；导正销；导梢；机 导柱
+5.safety pin 扣针；插销；别针
+[联] pin 可联想“钉住”
+
+string / strɪŋ /
+n. 线，细绳，带子；一连串（类似事件）；一系列（类似的事物）；字符串，信息串；一串；弦；弦乐器，弦乐组；（网拍的）羊肠线，网线；小队，候补队员
+v. 用线穿，串起；使排成一排，把……连在一起；悬挂，系，扎；给（乐器或球拍）串弦；去掉（豆荚）的筋；当特约记者；确定击球顺序；拖延……的时间
+adj. 由弦乐器组成的，弦乐器的；线织的，线的
+[例]
+1.Tie the package with string. 用绳子捆扎包裹。
+2.The kite is held up by a strong string. 风筝靠一根结实的线支撑。
+3.Cut the string before it breaks. 在绳子断裂前剪断它。
+[搭]
+1.guitar string 吉他弦
+2.clothesline 晾衣绳
+[联] string 可联想“一串”
+
+thread / θred /
+n. 线；细线，线状物；思路，贯穿的主线；（互联网留言板上的）同主题帖子，系列相关帖子；少量，较低水平；螺纹；<英，旧> 衣服；（计算机）线程，调度单位
+v. 穿线于，使穿过；将（珠子等）穿起来；装好（胶卷或录音带）；穿行，曲折穿过；使夹杂（线状物）；用手指梳理（尤指头发）；刻螺纹于（孔、螺丝等）
+[例]
+1.Thread the needle carefully. 小心地穿针。
+2.The thread is too thin to sew with. 这根线太细，不能用来缝纫。
+3.Wrap the thread around your finger. 把线绕在手指上。
+[搭]
+1.thread safety 线程安全；线程安全性；多绪安全性；执行绪安全性
+2.thread cutting 螺纹加工装置
+3.multi-thread 多线程；多执行绪；多带穿线
+[联] thread 可联想“线头”
+
+strap / stræp /
+n. 带子，皮带；铁皮条，金属带，铰链片；鞭打（the strap）；拉手吊带，拉手吊环
+v.（用带子）束住，捆绑；用绷带包扎（伤口）；用皮鞭抽打，鞭打
+[例]
+1.The strap of his bag broke. 他的包带断了。
+2.Use a strap to secure the load. 用带子固定货物。
+3.The watch strap is made of leather. 手表带是皮革制成的。
+[搭]
+1.seatbelt 座椅安全带
+2.shoulder strap 肩带
+[联] strap 可联想“条状物”
+
+stripe / straɪp /
+n. 条纹，线条；（军装上表示等级的）臂章，军阶条；类型，特点
+v. 给……加条纹
+[例]
+1.This shirt has blue and white stripes. 这件衬衫有蓝白相间的条纹。
+2.The zebra has black and white stripes. 斑马有黑白相间的条纹。
+3.Paint a stripe on the wall. 在墙上画一条条纹。
+[搭]
+1.candy stripe 红白相间
+2.magnetic stripe 磁条，磁片
+[联] stripe 可联想“条状”
+
+ribbon / ˈrɪbən /
+n. 丝带，绸带；（表示军功的）绶带，勋带；（作为比赛奖品的）绶带；（表明支持某一组织、原则或目标而配带的）饰带；带状物，狭长的东西
+v. 成带状延伸（或运动）；把…撕成条带；用缎带装饰
+[例]
+1.She tied a ribbon around the present. 她用丝带把礼物包了起来。
+2.A red ribbon was placed around the tree trunk. 树干上系了一条红丝带。
+3.The dancer wore a ribbon in her hair. 舞者头发上别了一条丝带。
+[搭]
+1.ribbon candy 形状像丝带的糖果
+2.gift ribbon 礼品包装用的丝带
+[联] 想象一条漂亮的丝带系在礼品盒上，让礼物更加精致
 
 belt / belt /
 n. 腰带，皮带；传送带；地带
@@ -1327,82 +1380,6 @@ n. 毛织物，毛料织物
 2.woollen hat 羊毛帽
 3.woollen sweater 绒衫
 [联] woollen 和 wool（羊毛）发音相似，可联想为羊毛制品
-
-needle / ˈniːd(ə)l /
-n. 缝衣针；编织针；注射针；（针灸疗法用的）刺针；唱针；（仪器上的）指针；针叶；<英，非正式>（尤指竞争所引发的）针锋相对，敌意；气针
-[例]
-1.She threaded the needle with great care. 她小心翼翼地把线穿过针眼。
-2.The doctor used a needle to inject medicine into the patient. 医生用针头为病人注射药物。
-3.A needle in the haystack is hard to find. 在干草堆里找一根针很难。
-[搭]
-1.sewing needle 缝衣针
-2.acupuncture needle 针灸针
-[联] needle 形似针尖
-
-pin / pɪn /
-n.（尤指做衣服时固定布料用的）别针，大头针；<美>胸针，饰针；徽章，像章；钉，楔，销，栓；（接骨用的）钢钉，钢针；（插头的）管脚
-v.（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制
-[例]
-1.She pinned her scarf around her neck. 她用别针把围巾固定在脖子上。
-2.He pinned the notice to the bulletin board. 他把通知别在布告栏上。
-3.A pin can hold two pieces of paper together. 别针可以将两张纸固定在一起。
-[搭]
-1.safety pin 安全别针
-2.hairpin 发夹
-3.rolling pin 擀面杖；杆面棍；面棍
-4.guide pin 导销；导正销；导梢；机 导柱
-5.safety pin 扣针；插销；别针
-[联] pin 可联想“钉住”
-
-string / strɪŋ /
-n. 线，细绳，带子；一连串（类似事件）；一系列（类似的事物）；字符串，信息串；一串；弦；弦乐器，弦乐组；（网拍的）羊肠线，网线；小队，候补队员
-v. 用线穿，串起；使排成一排，把……连在一起；悬挂，系，扎；给（乐器或球拍）串弦；去掉（豆荚）的筋；当特约记者；确定击球顺序；拖延……的时间
-adj. 由弦乐器组成的，弦乐器的；线织的，线的
-[例]
-1.Tie the package with string. 用绳子捆扎包裹。
-2.The kite is held up by a strong string. 风筝靠一根结实的线支撑。
-3.Cut the string before it breaks. 在绳子断裂前剪断它。
-[搭]
-1.guitar string 吉他弦
-2.clothesline 晾衣绳
-[联] string 可联想“一串”
-
-thread / θred /
-n. 线；细线，线状物；思路，贯穿的主线；（互联网留言板上的）同主题帖子，系列相关帖子；少量，较低水平；螺纹；<英，旧> 衣服；（计算机）线程，调度单位
-v. 穿线于，使穿过；将（珠子等）穿起来；装好（胶卷或录音带）；穿行，曲折穿过；使夹杂（线状物）；用手指梳理（尤指头发）；刻螺纹于（孔、螺丝等）
-[例]
-1.Thread the needle carefully. 小心地穿针。
-2.The thread is too thin to sew with. 这根线太细，不能用来缝纫。
-3.Wrap the thread around your finger. 把线绕在手指上。
-[搭]
-1.thread safety 线程安全；线程安全性；多绪安全性；执行绪安全性
-2.thread cutting 螺纹加工装置
-3.multi-thread 多线程；多执行绪；多带穿线
-[联] thread 可联想“线头”
-
-strap / stræp /
-n. 带子，皮带；铁皮条，金属带，铰链片；鞭打（the strap）；拉手吊带，拉手吊环
-v.（用带子）束住，捆绑；用绷带包扎（伤口）；用皮鞭抽打，鞭打
-[例]
-1.The strap of his bag broke. 他的包带断了。
-2.Use a strap to secure the load. 用带子固定货物。
-3.The watch strap is made of leather. 手表带是皮革制成的。
-[搭]
-1.seatbelt 座椅安全带
-2.shoulder strap 肩带
-[联] strap 可联想“条状物”
-
-stripe / straɪp /
-n. 条纹，线条；（军装上表示等级的）臂章，军阶条；类型，特点
-v. 给……加条纹
-[例]
-1.This shirt has blue and white stripes. 这件衬衫有蓝白相间的条纹。
-2.The zebra has black and white stripes. 斑马有黑白相间的条纹。
-3.Paint a stripe on the wall. 在墙上画一条条纹。
-[搭]
-1.candy stripe 红白相间
-2.magnetic stripe 磁条，磁片
-[联] stripe 可联想“条状”
 
 patch / pætʃ /
 n. 补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片

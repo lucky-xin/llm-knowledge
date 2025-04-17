@@ -481,17 +481,6 @@ n.手掌；棕榈树
 2.hand over palm 把手掌翻过来
 [联] palm 和 palm tree（棕榈树）相关联。
 
-fingers / ˈfɪŋɡərz /
-n.手指（finger的复数形式）
-[例]
-1.Use your fingers to press the button. 用你的手指按按钮。
-2.My fingers are crossed for you. 我为你祈祷好运。（字面意思是交叉手指祈愿）
-3.Don't point your fingers at others. 别指责别人。
-[搭] 
-1.fingers crossed 祈祷好运
-2.finger food 手抓食物
-[联] finger 和 finger food（手抓食物）有直接联系。
-
 fist / fɪst /
 n.拳头
 [例]
@@ -1976,97 +1965,23 @@ transplant /trænsˈplɑːnt/, /ˌtrænzˈplænt/
 v. 移植（动词）
 n. 移植物（名词）
 
-[例]
-1.The doctor decided to transplant a kidney to save his life. 医生决定为他移植一个肾以挽救他的生命。
-2.She had to undergo a heart transplant last year. 去年她不得不接受心脏移植手术。
-3.The transplant team prepared everything for the operation. 移植团队为手术做好了一切准备。
-
-[搭]
-1.bone marrow transplant 骨髓移植
-2.organ transplant 器官移植
-
-[联] trans- (转移) + plant (种植) ——> 将某物从一处转移到另一处并植入。
-
 x-ray /ˈeksˈreɪ/ 
-
-[例]
-1.The doctor ordered an x-ray to check the broken bone. 医生要求拍X光片检查骨折情况。
-2.They used an x-ray machine to examine the internal structure of the artifact. 他们使用X光机检查文物的内部结构。
-3.Don't stand too close to the x-ray machine. 不要离X光机太近。
-
-[搭] x-ray film X光胶片
 
 injection /ɪnˈdʒekʃn/
 
-[例]
-1.The nurse gave him an injection in the arm. 护士在他的胳膊上注射了一针。
-2.The injection of new ideas is necessary for progress. 新思想的注入是进步的必要条件。
-3.He has to take insulin injections every day. 他每天必须注射胰岛素。
-
-[搭] injection molding 注塑成型
-
 precaution /prɪˈkɔːʃn/
-
-[例]
-1.Taking precautions can help prevent accidents. 采取预防措施有助于防止事故。
-2.Always wear a helmet as a precaution against head injuries. 总是要戴头盔以防头部受伤。
-3.It's important to take precautions when traveling abroad. 出国旅行时采取预防措施很重要。
-
-[搭] take precautions 采取预防措施
 
 vaccinate /ˈvækəˌneɪt/
 
-[例]
-1.The health department vaccinates children against measles. 卫生部门为儿童接种麻疹疫苗。
-2.Vaccination is one of the most effective ways to prevent disease. 接种疫苗是最有效的疾病预防方法之一。
-3.All the students were vaccinated before starting school. 所有学生入学前都接种了疫苗。
-
-[搭] vaccinate against 接种疫苗预防某种疾病
-
 quarantine /ˈkwɔːrnˌtin/
-
-[例]
-1.Travelers from affected areas may be placed under quarantine. 来自受影响地区的旅客可能需要隔离。
-2.The ship was held in quarantine for two weeks. 这艘船被隔离了两周。
-3.Quarantine measures were implemented to control the spread of the virus. 实施了隔离措施以控制病毒传播。
-
-[搭] quarantine period 隔离期
 
 segregate /ˈsɛɡrɪɡeɪt/
 
-[例]
-1.The company segregates its employees by race and gender. 公司按种族和性别将员工分开。
-2.Schools should not segregate students based on their abilities. 学校不应根据学生的智力将学生分开。
-3.Legislation was passed to segregate waste materials. 通过了立法来分离废物材料。
-
-[搭] segregate...from... 将……与……分开
-
 isolate /aɪˈsoʊleɪt/
-
-[例]
-1.The patient needs to be isolated from others. 病人需要与其他病人隔离。
-2.Isolating variables helps in solving equations. 隔离变量有助于解方程。
-3.The remote village was isolated by snow for weeks. 这个偏远的村庄被大雪封锁了几个星期。
-
-[搭] isolate oneself 隔离自己
 
 pharmacy /ˈfɑːrməsi/
 
-[例]
-1.The pharmacy stocks a wide range of medicines. 药房储备了各种各样的药品。
-2.I went to the pharmacy to buy some aspirin. 我去药房买了一些阿司匹林。
-3.The pharmacist recommended a cream for my skin condition. 药剂师推荐了一种治疗我皮肤状况的药膏。
-
-[搭] community pharmacy 社区药房
-
 medicine /ˈmɛdsɪn/
-
-[例]
-1.The medicine made him feel much better. 这种药让他感觉好多了。
-2.The doctor prescribed strong medicine for his pain. 医生开了一种强效药来缓解他的疼痛。
-3.She kept a supply of medicine at home for emergencies. 她在家里备了一些应急药物。
-
-[搭] traditional medicine 中医
 
 remedy /ˈremədi/, /ˈriːmədi/
 n. 补救办法，矫正方法；药物，疗法  
@@ -2712,22 +2627,12 @@ adj.
 2.She is a modest woman who never boasts about her achievements.她是一位从不夸耀自己成就的谦逊女性。（形容人谦逊）
 3.Modest proposals can often lead to great changes.谦逊的提议常常能带来巨大的变化。（形容提议）
 
-[搭]
-1.modest proposal 谦逊的提议
-2.a modest income 微薄的收入
-
-[联] mod (修饰) + est (最高级后缀) ——> 表示“最修饰的”，即谦虚、适度的意思。
-
 humorous / ˈhjuːmərəs /
 adj.
 [例]
 1.He has a very humorous personality and always makes people laugh.他性格幽默，总能让人们发笑。
 2.The book is full of humorous anecdotes.这本书充满了幽默的小故事。
 3.Her sense of humor is one of her most endearing qualities.她的幽默感是她最迷人的品质之一。
-
-[搭] humorous story 幽默的故事
-
-[联] hum (声音) + or + ous (形容词后缀) ——> 能发出声音让人发笑的人或事物。
 
 polite / pəˈlaɪt /
 adj.
@@ -2736,42 +2641,12 @@ adj.
 2.The children were taught to be polite to their elders.孩子们被教导要对长辈有礼貌。
 3.Polite behavior is important in any social situation.礼貌的行为在任何社交场合都很重要。
 
-[搭] polite society 上流社会
-
-[联] poli (城市) + te (表示行为) ——> 在城市中讲究礼仪的行为。
-
 frank / fræŋk /
 adj.
 [例]
 1.I appreciate your frankness in telling me the truth.我很欣赏你坦白告诉我真相的态度。
 2.Frank discussion is essential for solving problems.坦率的讨论对于解决问题至关重要。
 3.His frankness sometimes gets him into trouble.他的坦率有时会让他陷入麻烦。
-
-[搭] frank expression 坦率的表达
-
-[联] 来源于拉丁语 “francus”，意为自由的，最初的含义是指自由的人，后来引申为坦率的人。
-
-direct / dəˈrekt/, / daɪˈrekt /
-adj.
-[例]
-1.The direct route to the airport is the fastest.去机场的直接路线是最短的。
-2.His direct approach to the problem solved it quickly.他直接处理问题的方式迅速解决了问题。
-3.Direct communication is key to successful teamwork.直接沟通是成功团队合作的关键。
-
-[搭] direct flight 直达航班
-
-[联] dir (直的) + ect (形容词后缀) ——> 表示直的、直接的。
-
-earnest / ˈɜːrnɪst /
-adj.
-[例]
-1.His earnest expression convinced everyone of his sincerity.他认真的表情让每个人都相信了他的诚意。
-2.Earnest efforts are needed to achieve this goal.实现这个目标需要付出认真的努力。
-3.An earnest student is more likely to succeed.认真的学生更有可能成功。
-
-[搭] earnesty 真诚
-
-[联] earn (赚取) + est (最高级后缀) ——> 表示最努力赚取的，即认真的。
 
 mysterious / məˈstɪriəs /
 adj.
@@ -2780,20 +2655,12 @@ adj.
 2.The ancient ruins hold many mysterious secrets.这些古老的废墟隐藏着许多神秘的秘密。
 3.The story of the mysterious island fascinated everyone.那个神秘岛屿的故事吸引了所有人。
 
-[搭] mysterious figure 神秘人物
-
-[联] myster (神秘) + ious (形容词后缀) ——> 充满神秘的。
-
 curious / ˈkjʊriəs /
 adj.
 [例]
 1.Children are naturally curious about the world around them.孩子们天生对周围的世界充满好奇。
 2.Her curious nature led her to explore every corner of the city.她的好奇心驱使她探索城市的每一个角落。
 3.It's curious that he didn't show up at the party.奇怪的是他没有出现在聚会上。
-
-[搭] curious mind 好奇心
-
-[联] curi (关心) + ous (形容词后缀) ——> 表示关心的、好奇的。
 
 daring / ˈderɪŋ /
 adj.
@@ -2802,10 +2669,6 @@ adj.
 2.A daring person is not afraid to take risks.大胆的人不害怕冒险。
 3.The daring rescue operation saved the stranded climbers.这次大胆的营救行动救出了被困的登山者。
 
-[搭] daring adventure 大胆的冒险
-
-[联] dare (敢) + ing (形容词后缀) ——> 敢于做某事的。
-
 manly / ˈmænli /
 adj.
 [例]
@@ -2813,9 +2676,19 @@ adj.
 2.Manly courage is admired by all.男子汉的勇气受到所有人的钦佩。
 3.Manly behavior is expected from a leader.领导者应表现出男子汉的行为。
 
-[搭] manly voice 男人的声音
+direct / dəˈrekt/, / daɪˈrekt /
+adj.
+[例]
+1.The direct route to the airport is the fastest.去机场的直接路线是最短的。
+2.His direct approach to the problem solved it quickly.他直接处理问题的方式迅速解决了问题。
+3.Direct communication is key to successful teamwork.直接沟通是成功团队合作的关键。
 
-[联] man (男人) + ly (形容词后缀) ——> 表示像男人一样的。
+earnest / ˈɜːrnɪst /
+adj.
+[例]
+1.His earnest expression convinced everyone of his sincerity.他认真的表情让每个人都相信了他的诚意。
+2.Earnest efforts are needed to achieve this goal.实现这个目标需要付出认真的努力。
+3.An earnest student is more likely to succeed.认真的学生更有可能成功。
 
 honesty / ˈɑːnhɑːnesti /  
 n.诚实，正直；坦率  
@@ -4527,4 +4400,28 @@ n.成见；固定模式；老套
 1.stereotype image 刻板形象
 2.break the stereotype 打破成见
 [联] stereo (立体声) + type (类型) ——> 固定类型的模式
+
+finger /ˈfɪŋɡər/, /ˈfɪŋɡər/
+
+n.手指；指针；（地图上的）箭头线
+[例]
+1.I cut my finger while chopping vegetables. 我切菜时割伤了手指。
+2.The map has a red finger marking the destination. 地图上有一条红色箭头指向目的地。
+3.Use your fingers to press the dough into shape. 用手把面团捏成形状。
+[搭]
+1.left/right finger 左/右手
+2.finger food 可以用手拿着吃的食品
+[联] finger（手指）——> 类比记忆“手指”可以用来“点东西”，如“指点”。
+
+wound /wuːnd/, /wʊnd/
+
+n.伤口；创伤；伤痕
+[例]
+1.The soldier received a serious wound in the battle. 那名士兵在战斗中受了重伤。
+2.The wound on her leg is healing slowly. 她腿上的伤口愈合得很慢。
+3.The old scar is still visible as a wound. 那旧疤痕依然清晰可见。
+[搭]
+1.wound up 包扎好
+2.open wound 开放性伤口
+[联] wound（伤口）——> 联想“受伤的地方”。
 

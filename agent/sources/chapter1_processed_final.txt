@@ -37,7 +37,7 @@ n. 氧，氧气（不可数）
 3.We need to breathe oxygen to survive. 我们需要呼吸氧气才能存活。
 [搭] 
 1.oxygen mask 氧气面罩
-[联] 来源于希腊语 "oxys" (酸) 和 "genes" (产生者)——> 酸的产生者。
+[联] 来源于希腊语 "oxys" (酸) 和 "genes" (产生者) ——> 酸的产生者
 
 oxide / ˈɑksaɪd /
 n. 氧化物
@@ -47,7 +47,7 @@ n. 氧化物
 3.Iron oxide gives rust its reddish color. 铁的氧化物使铁锈呈现红色。
 [搭] 
 1.oxide film 氧化膜
-[联] ox (氧) + ide (表示化合物) ——> 含氧的化合物。
+[联] ox (氧) + ide (表示化合物) ——> 含氧的化合物
 
 carbon dioxide / ˌkɑrbən daɪˈɒksaɪd /
 n. 二氧化碳
@@ -101,7 +101,7 @@ v. <文>覆盖；（脸）发红，涨红；<古>（液体）布满泡沫，被�
 3.The mantle of leadership has been passed on. 领导权已经移交。
 [搭] 
 1.mantle convection 地幔对流
-[联] 原意为“斗篷”，引申为地球内部的包裹层。
+[联] 原意为“斗篷”，引申为地球内部的包裹层
 
 longitude / ˈlɑːndʒətuːd; ˈlɒndʒətuːd /
 n. 经度
@@ -121,9 +121,9 @@ n. 纬度
 2.The climate of a region is influenced by its latitude. 地区的气候受其纬度的影响。
 3.Polar regions have high latitudes. 极地地区有较高的纬度。
 [搭]
-1.latitude and longitude 纬度和经度。
-2.absolute latitude 绝对纬度。
-[联] lati (lat是拉丁文"side"的缩写) + -tude (名词后缀表示状态或性质) ——> 表示“侧面方向”。
+1.latitude and longitude 纬度和经度
+2.absolute latitude 绝对纬度
+[联] lati (lat是拉丁文"side"的缩写) + -tude (名词后缀表示状态或性质) ——> 表示“侧面方向”
 
 altitude / ˈæltətuːd /
 n. 海拔高度；高地；（天体在地平线上的）地平纬度；顶垂线；（等级和地位等的）高级
@@ -132,8 +132,8 @@ n. 海拔高度；高地；（天体在地平线上的）地平纬度；顶垂�
 2.High altitudes can cause altitude sickness. 高海拔会导致高原反应。
 3.Airplanes usually fly at high altitudes. 飞机通常在高空飞行。
 [搭]
-1.altitude adjustment 海拔调整。
-2.mean sea level altitude 平均海平面高度。
+1.altitude adjustment 海拔调整
+2.mean sea level altitude 平均海平面高度
 [联] alt (高的) + -tude (名词后缀表示状态或性质) ——> 表示“高的状态”
 
 horizon / həˈraɪzn /
@@ -143,8 +143,8 @@ n. 地平线；眼界，视野；界限，范围；地层；层位
 2.Expanding your horizons can lead to new opportunities. 开阔眼界可以带来新的机会。
 3.The horizon was obscured by fog. 地平线被雾遮住了。
 [搭]
-1.event horizon 事件视界。
-2.horizon line 地平线。
+1.event horizon 事件视界
+2.horizon line 地平线
 [联] horiz (水平) + -on (名词后缀) ——> 表示“水平线”
 
 disaster / dɪˈzæstər /
@@ -154,9 +154,9 @@ n. 灾难，灾害；祸患，灾难性事物；彻底的失败
 2.The hurricane caused widespread disaster. 那场飓风造成了广泛的破坏。
 3.Preparedness can reduce the impact of disasters. 准备工作可以减轻灾害的影响。
 [搭]
-1.natural disaster 自然灾害。
-2.disaster relief 灾害救济。
-[联] dis- (否定前缀) + aster (星星) ——> 原意“不吉利的星星”，引申为“灾难”。
+1.natural disaster 自然灾害
+2.disaster relief 灾害救济
+[联] dis- (否定前缀) + aster (星星) ——> 原意“不吉利的星星”，引申为“灾难”
 
 mishap / ˈmɪshæp /
 n. 小事故，不幸事件。灾祸；晦气
@@ -165,8 +165,8 @@ n. 小事故，不幸事件。灾祸；晦气
 2.Traffic mishaps happen every day. 每天都会发生交通意外。
 3.Be careful to avoid any mishaps. 小心避免任何意外。
 [搭]
-1.mishap report 事故报告。
-2.unforeseen mishap 意外事故。
+1.mishap report 事故报告
+2.unforeseen mishap 意外事故
 [联] mis-(错失) + hap(机会，运气) ——> 不幸事件
 
 catastrophic / ˌkætəˈstrɑːfɪk /
@@ -176,8 +176,8 @@ adj. 灾难性的；极糟的，失败的；大规模突变的；（与）地质
 2.The consequences of the decision were catastrophic. 这个决定的后果是灾难性的。
 3.The storm had a catastrophic effect on agriculture. 这场风暴对农业产生了灾难性影响。
 [搭]
-1.catastrophic failure 灾难性故障。
-2.catastrophic risk 灾难性风险。
+1.catastrophic failure 灾难性故障
+2.catastrophic risk 灾难性风险
 [联] cata- (向下) + strophe (转折) ——> 表示“转向坏处”
 
 calamity / kəˈlæməti /
@@ -212,17 +212,16 @@ v. 使陷入危险，危害;危及（等于 jeopardize）；使……受危险
 1.jeopardise security 危害安全
 2.jeopardise success 危害成功
 
-destructive / dɪˈstrʌktɪv; dɛˈstrʌktɪv /
-adj. 造成破坏的，毁灭性的；有害的
-读音区别：第一种读音常见于美东地区，第二种读音常见于美西地区。
+destructive / dɪˈstrʌktɪv; dɪˈstrʌkʃɪv /
+adj. 破坏性的；毁灭性的
 [例]
-1. His destructive behavior has caused a lot of trouble. 他的破坏行为造成了很多麻烦。
-2. This chemical is highly destructive to the environment. 这种化学物质对环境有极大的破坏性。
-3. The storm was extremely destructive. 那场暴风雨极具破坏性。
+1.The destructive storm caused great damage to the city. 这场破坏性的风暴给城市造成了巨大的损害。
+2.His destructive behavior led to the breakup of the team. 他的破坏性行为导致团队解散。
+3.Destructive criticism can be very harmful to one's self-esteem. 破坏性的批评会对一个人的自尊心造成极大的伤害。
 [搭] 
-1.destructive interference 干涉中的破坏性干扰
-destructive criticism 破坏性的批评
-[联] de- (否定前缀) + structure (结构) + -ive (形容词后缀) ——> 破坏结构的
+1.destructive interference 干涉波中的破坏性干涉
+2.destructive waves 破坏性海浪
+[联] destruct (破坏) + -ive (形容词后缀)——> 破坏性的
 
 El Nino / ɛl ˈniːnoʊ /
 n. 厄尔尼诺现象（指热带太平洋海温异常升高的气候现象）
@@ -400,7 +399,7 @@ n. 龙卷风，大旋风；极具破坏力的人（或物），情感火爆的�
 [搭]
 1.tornado watch 龙卷风预警
 2.tornado warning 龙卷风警告
-[联] tornado - 想象为“旋转风暴”。
+[联] tornado - 想象为“旋转风暴”
 
 typhoon / taɪˈfuːn /
 n. 台风
@@ -655,7 +654,7 @@ vt. 使陷入困境
 [联] swamp = Old English "swamm" (湿泥地)
 
 delta / ˈdeltə /
-n. 希腊字母表的第 4 个字母；三角洲；<英>（论文、考试成绩等的）δ等，丁等；丁，δ项，δ类 （一系列项目、分类中的第四位）；（Delta，天文）δ星（星座中第四颗星，通常亮度也居第四位）；（无线电通讯中字母D的代码词）Δ，δ
+n. 希腊字母表的第 4 个字母；三角洲；<英>（论文、考试成绩等的）δ等，丁等；丁，δ项，δ类；（Delta，天文）δ星（星座中第四颗星，通常亮度也居第四位）；（无线电通讯中字母D的代码词）Δ，δ
 [例]
 1.The Nile Delta is one of the most fertile areas in the world. 尼罗河三角洲是世界上最肥沃的地区之一。
 2.The river formed a delta as it emptied into the sea. 河流注入大海时形成了一个三角洲。
@@ -663,7 +662,7 @@ n. 希腊字母表的第 4 个字母；三角洲；<英>（论文、考试成绩
 [搭]
 1.delta region 三角洲地区
 2.delta formation 三角洲形成
-[联] delta = Greek "Δ" (形状像三角形)。
+[联] delta = Greek "Δ" (形状像三角形)
 
 plain / pleɪn /
 adj. 平坦的，无装饰的  
@@ -771,7 +770,7 @@ adj. 南极的
 [联] ant-（反义前缀，表示相反方向）+ arctic ——> 南极相关的
 
 pole / poʊl /
-n. 杆，柱；地极；截然相反的两极之一；磁极；滑雪杖（ski pole 的简称）；简易鱼竿；直干幼树；电极；车辕；（几何）（球体的）轴极；（几何）（极坐标的）极点；（细胞、器官、身体部分的）极；杆（尤指用来测量土地长度的单位）
+n. 杆，柱；地极；截然相反的两极之一；磁极；滑雪杖（ski pole 的简称）；简易鱼竿；直干幼树；电极；车辕；（几何）（球体的）轴极
 v. 用篙撑（船）
 [例]  
 1.The street lamp has a long pole. 街灯有一根长杆。  
@@ -784,7 +783,7 @@ v. 用篙撑（船）
 
 polar / ˈpoʊlər /
 n.（几何）极线；极光双子星
-adj. 极地的，来自极地的；截然不同的；磁极的；（天体）极性的，极地的；（细胞，器官，身体部分）极的；（液体，尤指溶剂）由偶极矩分子组成的；（固体）离子的；（几何）（球体）轴极的
+adj. 极地的，来自极地的；截然不同的；磁极的；（天体）极性的，极地的；（细胞，器官，身体部分）极的；（液体，尤指溶剂）由偶极矩分子组成的
 [例]
 1.The polar regions are covered with ice and snow all year round. 极地地区全年都被冰雪覆盖。
 2.The compass needle points to the magnetic north in a polar direction. 指南针的指针以极向指向磁北。
@@ -859,7 +858,7 @@ v. 侵蚀，腐蚀；削弱，降低
 [搭] 
 1.erode away 侵蚀掉。
 2.erode resistance 侵蚀抵抗力。
-[联] e- (出) + rod (棒) + -e (动词后缀) ——> 出来侵蚀。
+[联] e- (出) + rod (棒) + -e (动词后缀) ——> 出来侵蚀
 
 Mediterranean / ˌmedɪtəˈreɪniən /
 n. 地中海 adj. 地中海的；地中海地区的
@@ -1013,7 +1012,7 @@ v. <正式>容忍，允许（尤指不同意见或反对意见）
 
 stream / striːm /
 n. 小河，小溪；一连串，源源不断（的事情）；（烟、气、液体的）流，股；（同龄学生按能力划分的）班，组；音像流；数据流，指令流
-v.（人，东西）流动，涌动；不断地流出（液体），不断地排出（气体）；（光线）照射，照耀；（尤指在风中或水中）飘动，流动；在线收听（或收看）；按能力分班（或分组）
+v.（人，东西）流动，涌动；不断地流出（液体），不断地排出（气体）；（光线）照射，照耀；（尤指在风中或水中）飘动，流动；在线收听（或收看）
 [例]  
 1. We went fishing in a small stream. 我们去一条小溪里钓鱼。  
 2. The stream flowed gently through the valley. 溪流轻柔地穿过山谷。  
@@ -1141,7 +1140,7 @@ adj.（路、山等）陡峭的；（价格，需求）难以接受的，过高�
 [搭] 
 1.steep hill 陡坡
 2.steep learning curve 学习曲线陡峭（指需要花很多时间学习）
-[联] 联想“st”（像钉子一样）+“ee”（眼睛看下去觉得深）+“p”（山峰形状），就像钉子一样盯着深不见底的山峰。
+[联] 联想“st”（像钉子一样）+ “ee”（眼睛看下去觉得深）+ “p”（山峰形状），就像钉子一样盯着深不见底的山峰
 
 parallel / ˈpærəlel /
 n.（人或事物的）相似的手法，共同点；相似的人（或物）；（地球的）纬线，纬圈；（印刷）平行符号
@@ -1154,7 +1153,7 @@ adv. 与……平行
 3.The parallel between the two events is striking. 这两个事件之间的相似之处令人震惊。
 [搭] 
 1.in parallel 并行地；同时发生地
-[联] “para”（旁边）+“lel”（水平线），表示旁边的一条水平线
+[联] “para”（旁边）+ “lel”（水平线），表示旁边的一条水平线
 
 narrow / ˈnærəʊ; ˈnæroʊ /
 adj. 狭窄的；勉强的；眼光狭隘的
@@ -1167,7 +1166,7 @@ vi.变窄
 [搭] 
 1.narrow escape 窄松逃脱
 2.narrow-minded 眼光狭隘的
-[联] “nar”（像鼻子一样）+“row”（排），像鼻子一样的排状物
+[联] “nar”（像鼻子一样）+ “row”（排），像鼻子一样的排状物
 
 Oceania / ˌoʊsiˈæniə /
 n. 大洋洲
@@ -1187,7 +1186,7 @@ n. 大陆；本土
 1.Lower Mainland 低陆平原；低陆平原地区；低陆平原区；陆地区
 2.Mainland Japan 内地
 3.mainland serow 鬣羚
-[联] “Main”（主要的）+“land”（土地），主要的土地
+[联] “Main”（主要的）+ “land”（土地），主要的土地
 
 peninsula / pɪˈnɪnsələr /
 n. 半岛
@@ -1211,7 +1210,7 @@ n. 气候；气候区；氛围，局势
 1.climate change 气候变化；气候变迁
 2.investment climate 投资环境；投资气候
 3.global climate 全球气候
-[联] “Cli”（冷）+“mate”（热），冷热交替的地方
+[联] “Cli”（冷）+ “mate”（热），冷热交替的地方
 
 weather / ˈweðər /
 n.天气；气候；气象状况
@@ -1246,7 +1245,7 @@ adj.（伤病）不严重的，轻微的；（感觉或表情）不强烈的，�
 [搭] 
 1.mild mannered 温和的
 2.mild climate 温和的气候
-[联] “Mild”（轻柔）+“ld”（像风一样），像风一样轻柔
+[联] “Mild”（轻柔）+ “ld”（像风一样），像风一样轻柔
 
 heating / ˈhiːtɪŋ; ˈhɛdɪŋ /
 v.（使某物）变热，加热；（使某人）激动，激怒。
@@ -1374,7 +1373,7 @@ v.（使）蒙上霜，结霜；<美>在（糕饼）上撒糖霜；<美>将（�
 [搭]
 1.frost belt 霜冻带
 2.antifreeze 防冻剂
-[联] frost 与 freeze 都表示“冷冻”，但 frost 更具体指“霜”。
+[联] frost 与 freeze 都表示“冷冻”，但 frost 更具体指“霜”
 
 hail / heɪl /
 v. 赞扬，欢呼；呼喊，招呼；下冰雹；（大量物体）像雹子般落下（或击打）；<古>表示问候或欢呼欢迎
@@ -1398,7 +1397,7 @@ n. 解冻时期，融化季节；（敌对国家之间）关系缓和
 [搭]
 1.thaw line 融冰线
 2.thawing period 融化期
-[联] thaw 与 freeze 对比记忆，“解冻”与“冻结”的对立。
+[联] thaw 与 freeze 对比记忆，“解冻”与“冻结”的对立
 
 chill / tʃɪl /
 n. 寒冷，寒意；着凉，受寒；害怕，担心；冷漠，敌意；冷模，冷模部件
@@ -1414,7 +1413,7 @@ adj. 冷飕飕的；令人紧张的，令人害怕的
 [联] chill 与 cold 联想记忆，“寒冷”的一种感觉
 
 freeze / friːz /
-v. 结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；使（物价或工资等）固定不动；冻结（钱财）；使定格；（计算机屏幕因系统故障）被暂时锁定
+v. 结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；使（物价或工资等）固定不动；冻结（钱财）；使定格
 n. 冻结；停止；冰冻期；霜冻
 [例]
 1.The water froze solid overnight. 水在一夜之间完全结冰了。
@@ -1622,6 +1621,18 @@ n. 山，高山；许多，大量（a mountain/mountains of）；（食物的）
 1.mountain climbing 爬山
 2.mountain range 山脉
 [联] mountain 和 mount 都与“山”有关，注意拼写的区别
+
+range / reɪndʒ /
+n. 范围；射程；山脉；一系列
+v. 排列；归类；漫游
+[例]
+1.The range of this rifle is about 500 meters. 这支步枪的射程约为500米。
+2.The teacher ranged the students according to their grades. 老师按照成绩把学生分成了几组。
+3.The mountain range stretches for hundreds of miles. 这座山脉绵延数百英里。
+[搭] 
+1.price range 价格范围
+2.within range 在范围内
+[联] range (排列) + -e (动词后缀) ——> 排列
 
 ridge / rɪdʒ /
 n. 山脊，山脉；屋脊；隆起部分，脊状突起；（大气层的）高压脊，高压带
@@ -2220,29 +2231,6 @@ n. 日历；历书；计划表
 2.calendar date 公历日期
 [联] cal (计算) + endar (后缀) ——> 计算时间的东西。
 
-destructive / dɪˈstrʌktɪv; dɪˈstrʌkʃɪv /
-adj. 破坏性的；毁灭性的
-[例]
-1.The destructive storm caused great damage to the city. 这场破坏性的风暴给城市造成了巨大的损害。
-2.His destructive behavior led to the breakup of the team. 他的破坏性行为导致团队解散。
-3.Destructive criticism can be very harmful to one's self-esteem. 破坏性的批评会对一个人的自尊心造成极大的伤害。
-[搭] 
-1.destructive interference 干涉波中的破坏性干涉
-2.destructive waves 破坏性海浪
-[联] destruct (破坏) + -ive (形容词后缀)——> 破坏性的
-
-range / reɪndʒ /
-n. 范围；射程；山脉；一系列
-v. 排列；归类；漫游
-[例]
-1.The range of this rifle is about 500 meters. 这支步枪的射程约为500米。
-2.The teacher ranged the students according to their grades. 老师按照成绩把学生分成了几组。
-3.The mountain range stretches for hundreds of miles. 这座山脉绵延数百英里。
-[搭] 
-1.price range 价格范围
-2.within range 在范围内
-[联] range (排列) + -e (动词后缀) ——> 排列
-
 sunrise / ˈsʌnraɪz /
 n. 日出（时分），黎明；晨曦，朝霞；（Sunrise）森赖斯（弗罗里达州一城市）
 [例]
@@ -2250,17 +2238,6 @@ n. 日出（时分），黎明；晨曦，朝霞；（Sunrise）森赖斯（弗�
 2.The sunrise was breathtakingly beautiful. 日出美丽得令人惊叹。
 3.I like to take a walk during sunrise. 我喜欢在日出时散步。
 [搭] sunrise time 日出时间；sunrise view 日出景色。请提供需要分析的单词或词组，我将严格按照您提供的格式进行输出。
-
-circulate /ˈsɜːrkjəleɪt; ˈsɝːkjəleɪt/
-v.（使）循环，流通；（使）传播，流传
-[例]
-1.The blood circulates through the body. 血液在体内循环。
-2.I heard this rumor has circulated widely in your town. 我听说这个谣言已经在你们镇上传播得很广了。
-3.The information circulated quickly online. 这条信息在网上迅速传播开来。
-[搭]
-1.circulate money 使金钱流通
-2.circulate ideas 传播思想
-[联] circul(圈) + ate(动词后缀) ——> 像圆圈一样运动
 
 sunset / ˈsʌnset /
 n. 日落，傍晚；晚霞，落日余晖；（法律的）自动废止期，效力消减期；衰落期（尤指人生的晚年）
@@ -2350,6 +2327,39 @@ adj. 影子内阁的
 [搭] 
 1.in the shadow 在阴影中
 [联] shadow (影子) ——>  影子
+
+vapour / ˈveɪpər /
+n.（英式）蒸汽，水汽（美式为 vapor）
+[例]
+1.The vapour rose from the hot cup of tea. 茶杯里的热气冒出来了。
+2.The vapour condensed into tiny droplets. 水汽凝结成小水滴。
+3.The vapour from the ocean forms clouds. 海洋中的水汽形成云。
+[搭]
+1.water vapour 水蒸气
+2.vapour trail 飞机尾迹，凝结尾
+[联] vapour 和 vapor 都表示“蒸汽、水汽”，只是拼写方式不同，英式用 vapour，美式用 vapor
+
+evaporate / ɪˈvæpəreɪt /
+v.蒸发；使蒸发；消失，消散
+[例]
+1.Water evaporates quickly in the sun. 阳光下水很快蒸发。
+2.The company is trying to evaporate its debt. 公司正试图摆脱债务。
+3.The meeting evaporated without much discussion. 会议没有太多讨论就结束了。
+[搭]
+1.evaporate away 消失，蒸发掉
+2.evaporate moisture 使水分蒸发
+[联] e- 表示“向外”+vapor（蒸汽）+ -ate（动词后缀）——> 蒸发
+
+circulate / ˈsɜrkjəleɪt /
+v.循环；传播；流通
+[例]
+1.Blood circulates through our bodies. 血液在我们体内循环。
+2.The news circulated quickly online. 这条新闻在网上迅速传播。
+3.The money circulates among the economy. 这笔钱在经济中流通。
+[搭]
+1.circulate freely 自由流通
+2.circulate rumors 传播谣言
+[联] circulate 和 cycle（循环）意思相近，都是表示“循环”
 
 precipitate / prɪˈsɪpɪteɪt; prəˈsɪpɪteɪt /
 v. 使突然发生；使猛冲；使沉淀；n.沉淀物；骤雨，暴雨
@@ -2690,37 +2700,4 @@ n. 石油，原油
 1.Liquefied petroleum gas. 油气 液化石油气；石油气；压凝汽油；液化石油
 2.Petroleum ether. 油气 石油醚；石油精；石油英；石脑油
 3.petroleum product. 石油产品；石油制品；石油产品石油制品
-
-vapour / ˈveɪpər /
-n.（英式）蒸汽，水汽（美式为 vapor）
-[例]
-1.The vapour rose from the hot cup of tea. 茶杯里的热气冒出来了。
-2.The vapour condensed into tiny droplets. 水汽凝结成小水滴。
-3.The vapour from the ocean forms clouds. 海洋中的水汽形成云。
-[搭]
-1.water vapour 水蒸气
-2.vapour trail 飞机尾迹，凝结尾
-[联] vapour 和 vapor 都表示“蒸汽、水汽”，只是拼写方式不同，英式用 vapour，美式用 vapor
-
-evaporate / ɪˈvæpəreɪt /
-v.蒸发；使蒸发；消失，消散
-[例]
-1.Water evaporates quickly in the sun. 阳光下水很快蒸发。
-2.The company is trying to evaporate its debt. 公司正试图摆脱债务。
-3.The meeting evaporated without much discussion. 会议没有太多讨论就结束了。
-[搭]
-1.evaporate away 消失，蒸发掉
-2.evaporate moisture 使水分蒸发
-[联] e- 表示“向外”+vapor（蒸汽）+ -ate（动词后缀）——> 蒸发
-
-circulate / ˈsɜrkjəleɪt /
-v.循环；传播；流通
-[例]
-1.Blood circulates through our bodies. 血液在我们体内循环。
-2.The news circulated quickly online. 这条新闻在网上迅速传播。
-3.The money circulates among the economy. 这笔钱在经济中流通。
-[搭]
-1.circulate freely 自由流通
-2.circulate rumors 传播谣言
-[联] circulate 和 cycle（循环）意思相近，都是表示“循环”
 
