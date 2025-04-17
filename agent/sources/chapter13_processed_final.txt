@@ -1,211 +1,288 @@
-architecture / ˈɑrkɪtektʃər /  
-n. 建筑风格；建筑设计；建筑学  
+architecture / ˈɑːrkɪtektʃər /
+n. 建筑设计，建筑风格；建筑学；结构；计算机的体系结构，架构
 [例]  
-1. Gothic architecture is famous for its pointed arches and ribbed vaults. 哥特式建筑以其尖拱和肋拱而闻名。  
-2. The architecture of this building reflects modernism. 这座建筑的风格反映了现代主义。  
-3. The architecture of ancient Rome was highly advanced. 古罗马的建筑非常先进。  
+1.Gothic architecture is famous for its pointed arches and ribbed vaults. 哥特式建筑以其尖拱和肋拱而闻名。  
+2.The architecture of this building reflects modernism. 这座建筑的风格反映了现代主义。  
+3.The architecture of ancient Rome was highly advanced. 古罗马的建筑非常先进。  
 [搭]  
 1.architecture design 建筑设计  
 2.modern architecture 现代建筑  
-[联] archi- (首字母组合，表示开始、首要) + -tecture (与“tect”相关，意为建造)——> 建造艺术。
+3.modern architecture 现代建筑；外国近现代建筑史
+4.information architecture 资讯架构；信息构架；信息架构；信息构建
+5.software architecture 软件架构；计 软件体系结构；软件构架
+[联] archi- (首字母组合，表示开始、首要) + -tecture (与“tect”相关，意为建造) ——> 建造艺术
 
-architect / ˈɑrkɪtekt /  
-n. 建筑师；设计师  
+architect / ˈɑːrkɪtekt /
+n. 建筑师；设计师，缔造者
 v. 设计，规划  
 [例]  
-1. The architect designed a house with an open floor plan. 这位建筑师设计了一幢开放式平面布局的房子。  
-2. She became an architect at the age of 30. 她30岁时成为了一名建筑师。  
-3. The architect’s plan was approved by the city council. 这位建筑师的设计得到了市议会的批准。  
+1.The architect designed a house with an open floor plan. 这位建筑师设计了一幢开放式平面布局的房子。  
+2.She became an architect at the age of 30. 她30岁时成为了一名建筑师。  
+3.The architect’s plan was approved by the city council. 这位建筑师的设计得到了市议会的批准。  
 [搭]  
 1.architectural firm 建筑事务所  
-2.lead architect 主建筑师  
-[联] archi- (首字母组合，表示开始、首要) + -tect (与“tect”相关，意为建造)——> 开始建造的人。
+2.lead architect 主建筑师
+3.landscape architect 造园技师；环境美化设计家
+4.chief architect 总建筑师
+5.system architect 系统架构师；系统结构设计员
+[联] archi- (首字母组合，表示开始、首要) + -tect (与“tect”相关，意为建造) ——> 开始建造的人
 
-erection / ɪˈrekʃən /  
-n. 竖立；建立；勃起  
+erection / ɪˈrekʃn /
+n. 建造，竖起；建筑物，竖立物；勃起
 [例]  
-1. The erection of the new bridge will take two years. 新桥的竖立需要两年时间。  
-2. The erection of statues in public places often sparks debate. 在公共场所竖立雕像常常引发争议。  
-3. The erection of the tower is a testament to their engineering skills. 塔的竖立是他们工程技能的证明。  
+1.The erection of the new bridge will take two years. 新桥的竖立需要两年时间。  
+2.The erection of statues in public places often sparks debate. 在公共场所竖立雕像常常引发争议。  
+3.The erection of the tower is a testament to their engineering skills. 塔的竖立是他们工程技能的证明。  
 [搭]  
 1.physical erection 生理上的勃起  
-2.the erection of monuments 纪念碑的竖立  
+2.the erection of monuments 纪念碑的竖立
+3.erection stress 架设应力；机 装配应力；安装应力
+4.erection drawing 安装图；架设图
+5.penile erection 阴茎勃起；竖阳
 
-erect / ɪˈrekt / v. 竖立；建立；使直立  
-/ ˈɛrɛkt / adj. 直立的；坚挺的  
+erect / ɪˈrekt /
+v. 搭建，建造；使竖立，竖起；创立，建立；安装，装配；（使）勃起
+adj. 竖直的，直立的；竖起的；勃起的，坚挺的
 [例]  
-1. They erected a statue in honor of the fallen soldiers. 他们竖起一座雕像以纪念阵亡战士。  
-2. He managed to erect a tent before it started raining. 他设法在下雨前搭起了帐篷。  
-3. The bird's feathers were erect as it sensed danger. 鸟儿感觉到危险时羽毛直立起来。  
+1.They erected a statue in honor of the fallen soldiers. 他们竖起一座雕像以纪念阵亡战士。  
+2.He managed to erect a tent before it started raining. 他设法在下雨前搭起了帐篷。  
+3.The bird's feathers were erect as it sensed danger. 鸟儿感觉到危险时羽毛直立起来。  
 [搭]  
 1.erect a building 建造建筑物  
-2.erect a monument 竖立纪念碑  
-[联] erector (建造者) + -ect (与“construct”相关，意为建造)——> 竖立。
+2.erect a monument 竖立纪念碑
+3.erect image 光,天 正像；正立像
+4.erect position 站立位
+5.erect stem 直立茎
+[联] erector (建造者) + -ect (与“construct”相关，意为建造) ——> 竖立
 
-structure / ˈstrʌktʃər /  
-n. 结构；建筑物；组织  
-v. 组织，安排  
+structure / ˈstrʌktʃər /
+n. 结构，构造；结构体，（尤指）大型建筑物；周密安排，精心组织；机构，组织，体系
+v. 计划，组织，安排
 [例]  
-1. The structure of DNA was discovered in 1953. DNA的结构是在1953年被发现的。  
-2. The company has a very rigid organizational structure. 公司有非常严格的组织架构。  
-3. The bridge has a steel structure. 这座桥有钢铁结构。  
+1.The structure of DNA was discovered in 1953.DNA的结构是在1953年被发现的。  
+2.The company has a very rigid organizational structure. 公司有非常严格的组织架构。  
+3.The bridge has a steel structure. 这座桥有钢铁结构。  
 [搭]  
 1.structural integrity 结构完整性  
-2.building structure 建筑结构  
-[联] struct- (与“build”相关，意为建造) + -ure (名词后缀，表示状态或事物)——> 建造的状态。
+2.building structure 建筑结构
+3.industrial structure 产业结构
+4.simple structure 简单结构；静定结构
+5.structure design 结构设计
+[联] struct- (与“build”相关，意为建造) + -ure (名词后缀，表示状态或事物) ——> 建造的状态
 
-structural / strʌkˈtjʊrəl /  
-adj. 结构的；构造上的  
+structural / ˈstrʌktʃərəl /
+adj. 建筑结构的；建筑用的；结构（或构造）上的
 [例]  
-1. The structural integrity of the bridge is crucial. 桥梁的结构完整性至关重要。  
-2. There are some structural problems in the economy. 经济中存在一些结构性问题。  
-3. Structural changes are needed in the education system. 教育系统需要进行结构性改革。  
+1.The structural integrity of the bridge is crucial. 桥梁的结构完整性至关重要。  
+2.There are some structural problems in the economy. 经济中存在一些结构性问题。  
+3.Structural changes are needed in the education system. 教育系统需要进行结构性改革。  
 [搭]  
 1.structural engineer 结构工程师  
-2.structural analysis 结构分析  
-[联] struct- (与“build”相关，意为建造) + -ural (形容词后缀，表示属性)——> 建造的属性。
+2.structural analysis 结构分析
+3.structural adjustment 结构调整，薪级结构调整
+4.structural design 结构设计
+[联] struct- (与“build”相关，意为建造) + -ural (形容词后缀，表示属性) ——> 建造的属性
 
-construct / kənˈstrʌkt /  
-v. 建造；构建；创立  
+construct / kənˈstrʌkt /
+v. 建造，修建；组成，创立，构思；绘制，作图
+n. 构想，观念；建筑物，创造物；结构体
 [例]  
-1. Engineers are constructing a new highway. 工程师们正在修建一条新高速公路。  
-2. We need to construct a detailed plan. 我们需要制定一份详细的计划。  
-3. The artist constructed a sculpture using recycled materials. 这位艺术家用回收材料建造了一座雕塑。  
+1.Engineers are constructing a new highway. 工程师们正在修建一条新高速公路。  
+2.We need to construct a detailed plan. 我们需要制定一份详细的计划。  
+3.The artist constructed a sculpture using recycled materials. 这位艺术家用回收材料建造了一座雕塑。  
 [搭]  
 1.construct a building 建造建筑物  
 2.construct a theory 构建理论  
-[联] con- (加强意义) + -struct (与“build”相关，意为建造)——> 加强建造。
+3.language construct 一种语言结构；语言建构子
+4.psychological construct 心理建构体；心理结构体；心理建构；心理构建体
+5.to construct a building 建造大楼
+[联] con- (加强意义) + -struct (与“build”相关，意为建造) ——> 加强建造
 
-constructive / kənˈstrʌktɪv /  
-adj. 建设性的；建设的；有帮助的  
+constructive / kənˈstrʌktɪv /
+adj. 建设性的，有助益的；<法律>推定的；（与）推断（有关）的，以推断为基础的；构造上的
 [例]  
-1. His constructive criticism helped me improve my work. 他的建设性批评帮助我改进了我的工作。  
-2. We need more constructive solutions to the problem. 我们需要更多建设性的解决方案。  
-3. Constructive feedback is essential for personal growth. 建设性的反馈对个人成长至关重要。  
+1.His constructive criticism helped me improve my work. 他的建设性批评帮助我改进了我的工作。  
+2.We need more constructive solutions to the problem. 我们需要更多建设性的解决方案。  
+3.Constructive feedback is essential for personal growth. 建设性的反馈对个人成长至关重要。  
 [搭]  
 1.constructive discussion 建设性讨论  
-2.constructive criticism 建设性批评  
-[联] construct (建造) + -ive (形容词后缀，表示性质)——> 建造的性质。
+2.constructive criticism 建设性批评
+3.constructive proof 构造性证明；非构造性证明
+4.constructive total loss 推定全损；推定全险；推定金额；推定
+5.constructive solid geometry 构造实体几何；构造立体几何法；构造型立体几何表达法；构造实体几何表示
+[联] construct (建造) + -ive (形容词后缀，表示性质) ——> 建造的性质
 
-obstruct / əbˈstrʌkt /  
-v. 阻碍；挡住；阻塞  
+obstruct / əbˈstrʌkt /
+v. 堵塞，阻塞（洞口、通道、道路等）；遮住，挡住（视线）；阻碍，妨碍
 [例]  
-1. Trees obstructed the view from the window. 树木挡住了窗户的视线。  
-2. The road was obstructed by fallen rocks. 路被落石阻塞了。  
-3. His behavior obstructed our progress. 他的行为阻碍了我们的进展。  
+1.Trees obstructed the view from the window. 树木挡住了窗户的视线。  
+2.The road was obstructed by fallen rocks. 路被落石阻塞了。  
+3.His behavior obstructed our progress. 他的行为阻碍了我们的进展。  
 [搭]  
 1.obstruct traffic 阻碍交通  
-2.obstructive behavior 阻碍行为  
-[联] ob- (反义前缀，表示相反) + struct (与“build”相关，意为建造)——> 反建造。
+2.obstructive behavior 阻碍行为 
+3.please do not obstruct entrance 请不要堵住入口；请不要堵住进口
+4.uterine tube obstruct 输卵管炎性阻塞
+5.to obstruct 阻扰；挡住；阻拦 
+[联] ob- (反义前缀，表示相反) + struct (与“build”相关，意为建造) ——> 反建造
 
-obstacle / ˈɑbstəkl /  
+obstacle / ˈɑːbstək(ə)l /
 n. 障碍；阻碍物  
 [例]  
-1. The main obstacle to success is fear. 成功的主要障碍是恐惧。  
-2. Financial difficulties can be a major obstacle. 经济困难可能是一个主要障碍。  
-3. Time was an obstacle we had to overcome. 时间是我们必须克服的障碍。  
+1.The main obstacle to success is fear. 成功的主要障碍是恐惧。  
+2.Financial difficulties can be a major obstacle. 经济困难可能是一个主要障碍。  
+3.Time was an obstacle we had to overcome. 时间是我们必须克服的障碍。  
 [搭]  
 1.overcome obstacles 克服障碍  
-2.remove obstacles 消除障碍  
-[联] ob- (反义前缀，表示相反) + -stacle (与“stance”相关，意为站立)——> 反站立的东西。
+2.remove obstacles 消除障碍
+3.obstacle to sth 纪念碑；形成阻碍
+4.obstacle race 障碍赛跑；竞走项目；障碍赛；越障碍物比赛
+5.obstacle detection 障碍探测；故障探测；难点检测  
+[联] ob- (反义前缀，表示相反) + -stacle (与“stance”相关，意为站立) ——> 反站立的东西
 
-establish /ɪˈstæb.lɪʃ/, /stəˈbɪl.ɪʃ/
-v.（使）建立，设立；确立；证明。
+establish / ɪˈstæblɪʃ /
+v. 建立，设立；证实，确定；发现，找出；使被接受，使得到承认；使（故事的角色）真实；（桥牌）（通过出大牌）使（某）花色所剩的牌都能赢
 [例]
 1.They established a new branch in Shanghai. 他们在上海市建立了新的分公司。
 2.The scientist established his theory through experiments. 这位科学家通过实验确立了他的理论。
 3.The company has established itself as a leader in its field. 这家公司已确立了其在行业中的领导地位。
 [搭] 
-establish a business 创立企业；establish facts 确定事实；establish relations 建立关系。
-[联] est-(向外)+ablish-(放)-ish(动词后缀)——>向外放→建立。
+1.establish a business 创立企业
+2.establish facts 确定事实
+3.establish relations 建立关系
+4.to establish arrangement 达成协议；告竣和谈
+5.establish the entered value 确立报关单价格
+[联] est-(向外) + ablish-(放)-ish(动词后缀) ——> 向外放——>建立
 
-established /ɪˈstæb.lɪʃt/, /stəˈbɪl.ɪʃt/
-adj.已建立的，确立的；有声望的。
+established / ɪˈstæblɪʃt /
+adj. 确立已久的，早已投入使用的；资深的，知名的；（植物）已生根的，长势良好的；<英>已被认可的，已被接受的（尤指英国国教）
+v. 建立，设立；证实，确定；发现，找出（establish 的过去式和过去分词形式）
 [例]
 1.The established company has been in operation for over 50 years. 这家已有声望的公司已经运营超过50年了。
 2.An established brand is more likely to attract customers. 一个有声望的品牌更有可能吸引顾客。
 3.The established procedures must be followed. 必须遵循既定程序。
-[联] 同上。
+[搭]
+1.be established in 立足于；开业于
+2.established company 知名公司
+3.established practice 惯例；成规
+4.clearly-established ownership 产权清晰；产权清楚；产权明白
 
-build /bɪld/
-v.建造，修建；建设；培养。
+build / bɪld /
+v. 建造，修建；发展，建立；逐渐增强
+n. 体形，体格；（尤指车辆的）造型，构造；构件
 [例]
 1.The workers are building a bridge across the river. 工人们正在河上建造一座桥。
 2.You need to build your confidence gradually. 你需要逐步培养自信。
 3.We are building a strong relationship with our partners. 我们正在与合作伙伴建立牢固的关系。
 [搭] 
-build a house 建房子；build up strength 增强力量；build a team 组建团队。
-[联] b-(加强)+uild(构)-→构建。
+1.build a house 建房子
+2.build up strength 增强力量
+3.build a team 组建团队
+4.build up 增强；逐步建立
+5.build on 依赖，依靠…；建立于；把…建立于…；以…为基础
+[联] b-(加强) + uild(构) ——> 构建
 
-found /faʊnd/
-v.创立，创办；奠定。
+found / faʊnd /
+v. 创办，成立；建造，兴建；根据，以……为基础；熔铸，铸造
+adj. 偶然（或意外）发现的；（艺术）原汁原味的；装备好的；<英>（用餐、供暖）不另外收费的
+v. 找到，找回；发现，发觉；（经过研究）找出，查明（find 的过去式和过去分词形式）
 [例]
 1.She founded a charity to help homeless people. 她创立了一个慈善机构来帮助无家可归的人。
 2.The school was founded in 1890. 这所学校成立于1890年。
 3.They found a new way to solve the problem. 他们找到了解决这个问题的新方法。
 [搭] 
-found a company 创办公司；found a tradition 创立传统。
-[联] f-(开始)+ound(放)-→开始放→创办。
+1.found a company 创办公司
+2.found a tradition 创立传统
+3.found out 找出
+4.found on 基于
+5.lost and found 失物招领
+[联] f-(开始) + ound(放) ——> 开始放 ——> 创办
 
-founder /ˈfaʊn.dɚ/
-v.（使）倾覆，（使）破产；（使）失败。
+founder / ˈfaʊndər /
+n. 铸造工，铸造厂业主（或厂长）；创立者，缔造者；（动物）新群体建立者（尤指已受孕的雌性昆虫）；（马等有蹄动物的）蹄叶炎，马跛病
+v.（船）沉没；（事业，计划）失败，垮掉；绊倒，摔倒；（尤指马等有蹄动物的）患蹄叶炎；感到寒冷；（牲口）因过食而得病
 [例]
 1.The ship founders in rough seas. 船在汹涌的海浪中倾覆。
 2.His plan founders because of lack of funding. 因为缺乏资金，他的计划失败了。
 3.The business foundered after several unsuccessful attempts. 几次尝试失败后，这家企业倒闭了。
 [搭] 
-founder in debt 债务缠身；founder in difficulties 遇到困难。
-[联] f-(开始)+ound(放)-→开始放→倾覆。
+1.founder in debt 债务缠身
+2.founder in difficulties 遇到困难
+3.founder member 创办人；发起人
+4.founder effect 建立者效应；始创效应；始祖效应
+[联] f-(开始) + ound(放) ——> 开始放 ——> 倾覆
 
-concrete /ˈkɑːn.kriːt/
-n.混凝土；具体的事物；adj.具体的，实在的。
+concrete / ˈkɑːnkriːt /
+adj. 确实的，具体的；实在的，有形的；混凝土的；物质的
+n. 混凝土
+v. 用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；使真实（化），使具体（化）
 [例]
 1.The construction uses a lot of concrete. 建筑使用了大量的混凝土。
 2.It's hard to grasp abstract concepts without concrete examples. 如果没有具体的例子，抽象的概念很难理解。
 3.The proposal includes several concrete steps. 这个提议包括几个具体的步骤。
 [搭] 
-concrete structure 混凝土结构；concrete evidence 具体证据。
-[联] con-(共同)+cret(混合)+e→共同混合的东西→混凝土。
+1.concrete structure 混凝土结构
+2.concrete evidence 具体证据
+[联] con-(共同) + cret(混合) + e ——> 共同混合的东西 ——> 混凝土
 
-concretely /kənˈkrɛt.li/
-adv.具体地，实在地。
+concretely / kɑːnˈkriːtli /
+adv. 具体地，实在地
 [例]
 1.He explained the idea concretely. 他具体地解释了这个想法。
 2.The results were presented concretely. 结果被具体地展示出来。
 3.The plan needs to be carried out concretely. 计划需要具体实施。
-[联] concret(e)+ly。
+[搭]
+1.stage concretely 具体说明
+2.concretely speaking 具体而言
+3.put concretely 具体地说
+4.stainless steel 不锈钢
+5.iron and steel 钢铁
+6.steel industry 钢铁工业；钢铁业；炼钢工业
+[联] concret(e) + ly
 
-steel /stiːl/
-n.钢；钢铁；坚强的意志。
+steel / stiːl /
+n. 钢，钢铁；钢铁工业；（用来磨刀的）钢棒；钢制的，钢（铁）的；钢制器具；钢做的部分；<文>兵器；（钢铁般的）坚强，坚定
+v. 使坚强地做（或面对）；钢化
+adj. 钢制的；钢铁业的；坚强的
 [例]
 1.The bridge is made of steel. 这座桥是用钢制成的。
 2.His will is as strong as steel. 他的意志像钢铁一样坚强。
 3.The factory produces high-quality steel. 这家工厂生产高质量的钢材。
 [搭] 
-steel plate 钢板；steel structure 钢结构。
-[联] stee(l)-(坚硬的东西)。
+1.steel plate 钢板
+2.steel structure 钢结构
+[联] stee(l) - (坚硬的东西)
 
-stability /stəˈbɪl.ə.ti/
-n.稳定性；稳定状态；稳固性。
+stability / stəˈbɪləti /
+n. 稳定（性），稳固（性）；坚定，恒心
 [例]
 1.The stability of the building is crucial. 建筑的稳定性至关重要。
 2.The economy showed remarkable stability last year. 去年的经济表现出显著的稳定性。
 3.The stability of the system depends on the quality of materials. 系统的稳定性取决于材料的质量。
 [搭] 
-economic stability 经济稳定性；political stability 政治稳定性。
-[联] stable(稳定的)+ity。
+1.economic stability 经济稳定性
+2.political stability 政治稳定性
+3.thermal stability 热稳定性，耐热性；热稳性
+4.stability analysis 稳定性分析；稳度分析
+5.slope stability 坡面稳定性
+[联] stable(稳定的) + ity
 
-site /saɪt/
-n.地点，场所；现场；vt.把...设置于。
+site / saɪt /
+n.（建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位；（城镇、建筑物或纪念碑的）地基
+v. 使坐落在，为......选址
 [例]
 1.The construction site is very noisy. 施工现场非常嘈杂。
 2.The archaeological site revealed many ancient artifacts. 考古遗址揭示了许多古代文物。
 3.The company plans to site its new office near the city center. 公司计划将其新办公室设在市中心附近。
 [搭] 
-construction site 施工现场；archaeological site 考古遗址。请提供您想要查询的单词或词组，我将按照您要求的格式进行输出。
+1.construction site 施工现场
+2.archaeological site 考古遗址
+3.web site 网页；网址
+4.on site 现场；原地；原位
+5.construction site 建筑工地；施工场地
 
-venue / ˈvin juː /
-n. 场所，地点；会场
+venue / ˈvenjuː /
+n.（事件的）发生地点，（活动的）场所；<英，法律>审判地（指郡或区）
 [例]
 1.The concert will be held at the main venue tomorrow. 明天音乐会将在主会场举行。
 2.The wedding venue is a beautiful garden. 婚礼场地是一个美丽的花园。
@@ -213,10 +290,13 @@ n. 场所，地点；会场
 [搭] 
 1.conference venue 会议地点
 2.event venue 活动场地
-[联] ven(来)+ue(表地点)——> 来的地方，即“地点”。
+3.plastic venue 塑胶场地
+4.venue marketing 赛场营销
+[联] ven(来) + ue(表地点) ——> 来的地方，即“地点”
 
 landmark / ˈlændmɑːrk /
-n. 地标，地标建筑；里程碑，划时代的事物
+n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑
+v. 赋予地标的地位
 [例]
 1.The Statue of Liberty is one of New York's most famous landmarks. 自由女神像是纽约最著名的地标之一。
 2.The discovery of penicillin was a landmark in medical history. 青霉素的发现是医学史上的里程碑。
@@ -224,10 +304,14 @@ n. 地标，地标建筑；里程碑，划时代的事物
 [搭] 
 1.landmark decision 里程碑式的决定
 2.landmark event 里程碑事件
-[联] land(土地)+mark(标记)——> 标在地上的标记，即“地标”。
+3.The Landmark 置地广场；中环置地广场；高级公寓；新希望·北岸壹号
+4.Landmark North 上水广场；上水
+5.landmark building 标志性建筑；地标建筑；置地广场
+[联] land(土地) + mark(标记) ——> 标在地上的标记，即“地标”
 
-situated / səˈtjʊeɪtɪd /
-adj. 位于……的；处于……位置的
+situated / ˈsɪtʃueɪtɪd /
+adj. 坐落在……的，位于……的；处于……状况，处境……
+v. 使（某物）位于，建于；置于环境中，描述（某物）周围状况；处于（某特定经济或婚姻）状况（situate 的过去式和过去分词）
 [例]
 1.The village is situated in a valley surrounded by mountains. 这个村庄位于被群山环绕的山谷中。
 2.The hotel is situated just a short walk from the beach. 这家酒店距离海滩只有短短的步行路程。
@@ -235,10 +319,13 @@ adj. 位于……的；处于……位置的
 [搭] 
 1.be situated near 位于……附近
 2.be situated far from 位于……远处
-[联] sit(坐)+u+ate→坐在某处，即“位于”。
+3.situated learning 情境性学习；情境学习理论；情景学习
+4.situated cognition 情境认知；情境认知理论；情境
+5.situated knowledge 情境知识；情境化知识；情景知识
+[联] sit(坐) + u + ate ——> 坐在某处，即“位于”
 
-locate / loʊˈkeɪt /
-v. 查找，定位；使坐落于；位于
+locate / ˈloʊkeɪt /
+v. 确定……的位置，探明；设立，建立；迁居，开办公司；位于（be located in）
 [例]
 1.Can you locate your keys? 你能找到你的钥匙吗？
 2.The company decided to locate its new factory in the suburbs. 公司决定把新工厂设在郊区。
@@ -246,29 +333,35 @@ v. 查找，定位；使坐落于；位于
 [搭] 
 1.locate...in 把……设在……
 2.locate...on 把……定位在……
-[联] loc(地方)+ate→找出地方，即“定位”。
+3.locate file 文件定位；定位文件
+4.settle-locate 坐落；定居
+5.locate mode 定位方式；定位式；定位模式
+[联] loc(地方) + ate ——> 找出地方，即“定位”
 
 reside / rɪˈzaɪd /
-v. 居住；存在于；隶属于
+v. <正式>居住，定居；<正式>存在于；<正式>（权利、权力等）属于；位（于）
 [例]
 1.They reside in a small apartment downtown. 他们住在市中心的一间小公寓里。
 2.Happiness resides in the heart. 幸福存在于心中。
 3.Power resides with the people. 权力属于人民。
 [搭] 
-1.reside in 居住在
+1.reside in 存在于；居住；属于；居住在
 2.reside with 属于
-[联] re+(st)and(站立)——> 站立在某处，即“居住”。
+3.reside on 居住在；位于；属于；驻留在上
+[联] re + (st)and(站立) ——> 站立在某处，即“居住”
 
-residential / rɪˈzɪdɛnʃl /
-adj. 住宅的；与居住有关的
+residential / ˌrezɪˈdenʃ(ə)l /
+adj. 住宅区的，居民区的 ；家庭的，住宅的；（为工作、学习或受人照料而）住宿（在某地）的
 [例]
 1.They live in a residential area. 他们住在住宅区。
 2.The university has a residential college for international students. 这所大学为国际学生提供了一个住宿学院。
 3.The residential building is equipped with modern facilities. 这栋住宅楼配备了现代化设施。
 [搭] 
-1.residential area 住宅区
+1.residential area 居住区；住宅小区；居住区景观设计
 2.residential complex 住宅小区
-[联] residential=residence(住所)+ial(形容词后缀)——> 与住所相关的。
+3.residential density 人口毛密度；统计 居住密度；栖身密度
+4.residential building 住宅建筑；住宅楼；居住建筑；住宅建筑物
+[联] residential = residence(住所) + ial(形容词后缀) ——> 与住所相关的
 
 inhabit / ɪnˈhæbɪt /
 v. 居住于；栖息于
@@ -279,7 +372,7 @@ v. 居住于；栖息于
 [搭] 
 1.inhabit... 居住于……
 2.inhabitants 居民
-[联] in(在)+hab(it)(住处)+it→住在里面，即“居住于”。
+[联] in(在)+hab(it)(住处)+it——>住在里面，即“居住于”。
 
 migrate / maɪˈgreɪt /
 v. 迁移，移居；迁徙
@@ -290,7 +383,7 @@ v. 迁移，移居；迁徙
 [搭] 
 1.migrate to 迁往
 2.migrate from 从……迁移
-[联] mi(gr)(移动)+ate→移动到别处，即“迁移”。
+[联] mi(gr)(移动)+ate——>移动到别处，即“迁移”。
 
 emigrate / ˈɛmɪɡreɪt /
 v. 移居国外；出境移民
@@ -301,7 +394,7 @@ v. 移居国外；出境移民
 [搭] 
 1.emigrate from 从……移居国外
 2.emigrate to 移居到……
-[联] e(出)+migr(it)(迁移)+ate→从原地移出，即“移居国外”。
+[联] e(出)+migr(it)(迁移)+ate——>从原地移出，即“移居国外”。
 
 immigrate / ɪˈmɪɡreɪt /
 v. 移入，入境移民
@@ -312,7 +405,7 @@ v. 移入，入境移民
 [搭] 
 1.immigrate to 移居到……
 2.immigrate from 从……移居而来
-[联] im(in)(进入)+migr(it)(迁移)+ate→进入某个地方，即“移入”。
+[联] im(in)(进入)+migr(it)(迁移)+ate——>进入某个地方，即“移入”。
 
 settle /ˈsɛtəl/, /ˈsɛtl/
 v. （使）定居，安家；解决，处理；沉淀，安定；平静下来；（使）和解；（使）停息；（使）结清；（使）结束；（使）安定；（使）稳定；（使）稳固；（使）安定下来；（使）安居乐业；（使）安顿；（使）适应；（使）习惯；（使）习惯于；（使）适应于；（使）习惯于某种情况；（使）适应于某种环境；（使）适应于某种生活方式；（使）适应于某种状态；（使）适应于某种条件；（使）适应于某种状况；（使）适应于某种情形；（使）适应于某种局面；（使）适应于某种形势；（使）适应于某种局势；（使）适应于某种情境。
@@ -1170,9 +1263,9 @@ v.铺瓷砖；贴瓦片
 brickwork /ˈbrɪkˌwɜrk/
 n. 砖石建筑；砖工
 [例]
-1. The brickwork of the building is very impressive. 这座建筑的砖石结构非常令人印象深刻。
-2. The old church has beautiful brickwork. 这座古老的教堂有漂亮的砖石装饰。
-3. The brickwork was damaged by the storm. 风暴损坏了砖石建筑。
+1.The brickwork of the building is very impressive. 这座建筑的砖石结构非常令人印象深刻。
+2.The old church has beautiful brickwork. 这座古老的教堂有漂亮的砖石装饰。
+3.The brickwork was damaged by the storm. 风暴损坏了砖石建筑。
 [搭]
 1.brickwork pattern 砖石图案
 [联] brick (砖) + work (工作，作品)——> 砖块构成的作品。
@@ -1181,9 +1274,9 @@ brick /brɪk/
 n. 砖，砖块；砖状物
 v. 用砖建造；阻塞
 [例]
-1. He stacked the bricks neatly in the corner. 他把砖块整齐地堆放在角落里。
-2. The wall was built with bricks. 这堵墙是用砖头砌成的。
-3. They bricked up the window to keep out intruders. 他们用砖封住了窗户以防入侵者进入。
+1.He stacked the bricks neatly in the corner. 他把砖块整齐地堆放在角落里。
+2.The wall was built with bricks. 这堵墙是用砖头砌成的。
+3.They bricked up the window to keep out intruders. 他们用砖封住了窗户以防入侵者进入。
 [搭]
 1.brick road 砖路
 [联] 想象一块砖头（brick）。
@@ -1191,9 +1284,9 @@ v. 用砖建造；阻塞
 suspension /səˈspenʃn/
 n. 悬挂；暂停；吊销；悬浮液
 [例]
-1. The suspension bridge swayed in the wind. 悬索桥在风中摇晃。
-2. His driving license was suspended for six months. 他的驾照被吊销了六个月。
-3. The suspension of classes was due to bad weather. 停课是因为天气不好。
+1.The suspension bridge swayed in the wind. 悬索桥在风中摇晃。
+2.His driving license was suspended for six months. 他的驾照被吊销了六个月。
+3.The suspension of classes was due to bad weather. 停课是因为天气不好。
 [搭]
 1.suspension point 省略号
 [联] 想象东西被悬挂在空中（suspended）。
@@ -1202,9 +1295,9 @@ hook /hʊk/
 n. 钩子；钩状物；钩形物
 v. 钩住；钩住某人；引诱
 [例]
-1. Hang your coat on the hook. 把你的外套挂在钩子上。
-2. He hooked the fish and pulled it out of the water. 他钓到了鱼并把它拉出水面。
-3. She hooked him into coming to the party. 她设法让他来参加聚会。
+1.Hang your coat on the hook. 把你的外套挂在钩子上。
+2.He hooked the fish and pulled it out of the water. 他钓到了鱼并把它拉出水面。
+3.She hooked him into coming to the party. 她设法让他来参加聚会。
 [搭]
 1.hook and ladder 消防梯
 [联] 想象一个弯曲的东西像钩子（hook）。
@@ -1213,9 +1306,9 @@ lever /ˈliːvər/
 n. 杠杆；杠杆作用
 v. 用杠杆撬动
 [例]
-1. Use a lever to lift the heavy stone. 用杠杆抬起沉重的石头。
-2. The principle of the lever is simple. 杠杆原理很简单。
-3. He levered open the door. 他用杠杆撬开了门。
+1.Use a lever to lift the heavy stone. 用杠杆抬起沉重的石头。
+2.The principle of the lever is simple. 杠杆原理很简单。
+3.He levered open the door. 他用杠杆撬开了门。
 [搭]
 1.lever action 杠杆作用
 [联] 想象一个长棍（lever）。
@@ -1224,9 +1317,9 @@ pole /poʊl/
 n. 杆，柱；电杆；极点
 v. 用杆支撑；使向后倾斜
 [例]
-1. The flagpole stands tall in the center of the square. 旗杆矗立在广场中央。
-2. A fishing pole is used to catch fish. 鱼竿用来钓鱼。
-3. The North Pole is located in the Arctic region. 北极位于北极地区。
+1.The flagpole stands tall in the center of the square. 旗杆矗立在广场中央。
+2.A fishing pole is used to catch fish. 鱼竿用来钓鱼。
+3.The North Pole is located in the Arctic region. 北极位于北极地区。
 [搭]
 1.pole vaulting 撑杆跳高
 [联] 想象一根长长的杆子（pole）。
@@ -1235,9 +1328,9 @@ scaffold /ˈskæfəld/
 n. 脚手架；刑台
 v. 架起脚手架；处以绞刑
 [例]
-1. Workers built scaffolds around the building. 工人们在建筑物周围搭建了脚手架。
-2. The scaffold was erected for the construction workers. 为建筑工人搭建了脚手架。
-3. Historically, criminals were executed on the scaffold. 历史上，罪犯曾在刑台上被处决。
+1.Workers built scaffolds around the building. 工人们在建筑物周围搭建了脚手架。
+2.The scaffold was erected for the construction workers. 为建筑工人搭建了脚手架。
+3.Historically, criminals were executed on the scaffold. 历史上，罪犯曾在刑台上被处决。
 [搭]
 1.scaffold safety 脚手架安全
 [联] 想象一个由木头或金属制成的临时结构（scaffold）。
@@ -1268,9 +1361,9 @@ crane /kreɪn/
 n. 吊车；鹤
 v. 伸长脖子看；用起重机吊起
 [例]
-1. A crane lifted the heavy load onto the ship. 吊车将重物吊到船上。
-2. Cranes are graceful birds that live near water. 鹤是生活在水边优雅的鸟。
-3. He craned his neck to see over the crowd. 他伸长脖子越过人群去看。
+1.A crane lifted the heavy load onto the ship. 吊车将重物吊到船上。
+2.Cranes are graceful birds that live near water. 鹤是生活在水边优雅的鸟。
+3.He craned his neck to see over the crowd. 他伸长脖子越过人群去看。
 [搭]
 1.cranesbill 绒毛草
 [联] 想象一种能吊起重物的机器（crane）。
@@ -1279,9 +1372,9 @@ malfunction /mælˈfʌŋkʃn/
 n. 故障；失灵
 v. 发生故障；失灵
 [例]
-1. The car's engine malfunctioned. 汽车发动机出了故障。
-2. There was a malfunction in the computer system. 计算机系统出现了故障。
-3. The malfunction caused the machine to stop working. 故障导致机器停止运转。
+1.The car's engine malfunctioned. 汽车发动机出了故障。
+2.There was a malfunction in the computer system. 计算机系统出现了故障。
+3.The malfunction caused the machine to stop working. 故障导致机器停止运转。
 [搭]
 1.malfunction alarm 故障警报
 [联] 想象功能（function）出了问题（mal-）。
@@ -1289,9 +1382,9 @@ v. 发生故障；失灵
 maltreat /mælˈtriːt/
 v. 滥用；虐待；粗暴对待
 [例]
-1. The children were maltreated by their stepmother. 孩子们受到了继母的虐待。
-2. Animals should not be maltreated. 不应该虐待动物。
-3. The prisoner was maltreated by the guards. 囚犯受到了看守的虐待。
+1.The children were maltreated by their stepmother. 孩子们受到了继母的虐待。
+2.Animals should not be maltreated. 不应该虐待动物。
+3.The prisoner was maltreated by the guards. 囚犯受到了看守的虐待。
 [搭]
 1.maltreatment 虐待
 [联] 想象错误地（mal-）对待（treat）。
@@ -1397,9 +1490,9 @@ drill /drɪl/, /drəʊl/ (v.,n.)
 v. 钻孔，钻探；反复练习，操练
 n. 钻头，钻子；练习
 [例]
-1. I need to drill a hole in this wall. 我需要在这面墙上钻一个洞。
-2. The coach made them drill for hours. 教练让他们训练了好几个小时。
-3. Regular drills help improve their skills. 定期的练习有助于提高他们的技能。
+1.I need to drill a hole in this wall. 我需要在这面墙上钻一个洞。
+2.The coach made them drill for hours. 教练让他们训练了好几个小时。
+3.Regular drills help improve their skills. 定期的练习有助于提高他们的技能。
 [搭]
 1.drill machine 钻床
 drill team 操练队
@@ -1409,9 +1502,9 @@ plumb /plʌm/
 v. 用铅锤测量；彻底探测
 adj. 垂直的；完全的
 [例]
-1. He used a plumb line to check if the wall was vertical. 他用铅垂线检查墙壁是否垂直。
-2. They plumbed the depths of despair. 他们彻底体验了绝望的深渊。
-3. She is a plumb target for criticism. 她是批评的绝佳目标。
+1.He used a plumb line to check if the wall was vertical. 他用铅垂线检查墙壁是否垂直。
+2.They plumbed the depths of despair. 他们彻底体验了绝望的深渊。
+3.She is a plumb target for criticism. 她是批评的绝佳目标。
 [搭]
 1.plumb the ocean floor 测量海底深度
 [联] plumb与“铅锤”有关，铅锤通常是垂直下落的。
@@ -1419,18 +1512,18 @@ adj. 垂直的；完全的
 viaduct /vaɪˈædʌkt/
 n. 高架桥，渡槽
 [例]
-1. The train crossed the viaduct over the river. 火车跨越了河上的高架桥。
-2. The engineers designed a viaduct to connect two mountains. 工程师设计了一座高架桥来连接两座山。
-3. The viaduct has become a tourist attraction. 这座高架桥已经成为旅游景点。
+1.The train crossed the viaduct over the river. 火车跨越了河上的高架桥。
+2.The engineers designed a viaduct to connect two mountains. 工程师设计了一座高架桥来连接两座山。
+3.The viaduct has become a tourist attraction. 这座高架桥已经成为旅游景点。
 [搭] viaduct bridge 高架桥
 
 span /spæn/
 n. 跨度；一段时间
 v. 横跨；贯穿
 [例]
-1. The bridge has a span of 500 meters. 这座桥的跨度为500米。
-2. His speech spanned three hours. 他的演讲持续了三个小时。
-3. The river is spanned by a beautiful bridge. 这条河上有一座美丽的桥梁横跨。
+1.The bridge has a span of 500 meters. 这座桥的跨度为500米。
+2.His speech spanned three hours. 他的演讲持续了三个小时。
+3.The river is spanned by a beautiful bridge. 这条河上有一座美丽的桥梁横跨。
 [搭] 
 1.span of time 时间段
 [联] span可以联想到“spanner”（扳手），两者都有“跨越”的意思。
@@ -1438,17 +1531,17 @@ v. 横跨；贯穿
 span of life /spæn əv laɪf/
 美式音标：/spænd əv laɪf/
 [例]
-1. Our span of life is limited. 我们的生命是有限的。
-2. Happiness can be found within our span of life. 幸福可以在我们的一生中找到。
-3. Education extends our span of life in a way. 教育以某种方式延长了我们的生命。
+1.Our span of life is limited. 我们的生命是有限的。
+2.Happiness can be found within our span of life. 幸福可以在我们的一生中找到。
+3.Education extends our span of life in a way. 教育以某种方式延长了我们的生命。
 
 dam /dæm/
 n. 水坝，坝
 v. 阻止，抑制
 [例]
-1. The dam holds back the water of the river. 这座大坝阻挡了河水。
-2. She is determined to dam the flood of tears. 她决心遏制住泪水。
-3. The government plans to build a new dam. 政府计划建造一座新大坝。
+1.The dam holds back the water of the river. 这座大坝阻挡了河水。
+2.She is determined to dam the flood of tears. 她决心遏制住泪水。
+3.The government plans to build a new dam. 政府计划建造一座新大坝。
 [搭]
 1.dam the flood 防洪
 [联] dam与“挡水”有关，想象大坝挡住水流。
@@ -1456,9 +1549,9 @@ v. 阻止，抑制
 assemble /əˈsɛmbl/
 v. 组装；集合；聚集
 [例]
-1. They assembled the parts into a complete machine. 他们把零件组装成一台完整的机器。
-2. People will assemble in the square tonight. 人们今晚将在广场集合。
-3. The team assembled for the first practice session. 团队为第一次练习会合。
+1.They assembled the parts into a complete machine. 他们把零件组装成一台完整的机器。
+2.People will assemble in the square tonight. 人们今晚将在广场集合。
+3.The team assembled for the first practice session. 团队为第一次练习会合。
 [搭]
 1.assemble a team 组建团队
 [联] assemble与“assembly”有关，都表示“组合”。
@@ -1466,9 +1559,9 @@ v. 组装；集合；聚集
 assembly /əˈsɛmblɪ/
 n. 装配；集会；装配车间
 [例]
-1. The assembly line produces cars efficiently. 装配线高效地生产汽车。
-2. The assembly began at 9 o'clock. 集会于9点开始。
-3. The factory's assembly area is very large. 工厂的装配区非常大。
+1.The assembly line produces cars efficiently. 装配线高效地生产汽车。
+2.The assembly began at 9 o'clock. 集会于9点开始。
+3.The factory's assembly area is very large. 工厂的装配区非常大。
 [搭] 
 1.parts assembly 部件装配
 [联] assembly与“assemble”相关，都是关于“组合”。
@@ -1476,9 +1569,9 @@ n. 装配；集会；装配车间
 install /ɪnˈstɔl/
 v. 安装；使就职；设立
 [例]
-1. We need to install the software on the computer. 我们需要在电脑上安装软件。
-2. The company installed solar panels on the roof. 公司在屋顶安装了太阳能电池板。
-3. He was installed as the new manager. 他被任命为新经理。
+1.We need to install the software on the computer. 我们需要在电脑上安装软件。
+2.The company installed solar panels on the roof. 公司在屋顶安装了太阳能电池板。
+3.He was installed as the new manager. 他被任命为新经理。
 [搭]
 1.install the system 安装系统
 [联] install与“installation”有关，都是关于“设置”。
@@ -1486,9 +1579,9 @@ v. 安装；使就职；设立
 installation /ɪnstəlˈeɪʃn/
 n. 安装；装置；设施
 [例]
-1. The installation of the equipment took several days. 设备的安装花了几天时间。
-2. The art installation was very impressive. 这个艺术装置令人印象深刻。
-3. The new installation will improve efficiency. 新设施将提高效率。
+1.The installation of the equipment took several days. 设备的安装花了几天时间。
+2.The art installation was very impressive. 这个艺术装置令人印象深刻。
+3.The new installation will improve efficiency. 新设施将提高效率。
 [搭]
 1.software installation 软件安装
 [联] installation与“install”相关，都是关于“设置”。
@@ -1496,9 +1589,9 @@ n. 安装；装置；设施
 furnish /ˈfɜːrnɪʃ/, /ˈfɜːrnɪtʃ/
 v. 提供家具；供应；装备
 [例]
-1. The company will furnish all the necessary office furniture. 公司会提供所有必要的办公家具。
-2. They furnished the room with modern art pieces. 他们用现代艺术品布置了这个房间。
-3. A good book can furnish your mind with knowledge. 一本好书可以充实你的思想。
+1.The company will furnish all the necessary office furniture. 公司会提供所有必要的办公家具。
+2.They furnished the room with modern art pieces. 他们用现代艺术品布置了这个房间。
+3.A good book can furnish your mind with knowledge. 一本好书可以充实你的思想。
 [搭] 
 1.furnish information 提供信息
 2.furnish accommodation 提供住宿
