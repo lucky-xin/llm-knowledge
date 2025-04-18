@@ -1,10 +1,14 @@
 import os
+import re
 from typing import TypedDict, Annotated, List
 
+import requests
 from langchain_core.messages import BaseMessage
 from langchain_core.prompts import BasePromptTemplate, ChatPromptTemplate
 from langgraph.graph import add_messages
+from lxml import html
 
+from dict import Dict
 from factory.llm import LLMFactory, LLMType
 
 
@@ -47,6 +51,72 @@ n.（包围地球或其他行星的）大气，大气层；（房间或其他场
     )
 
 
+def create_associate_prompt() -> BasePromptTemplate:
+    # 指令模板
+    instructions = """
+你是一个雅思学习助手，根据用户输入单词进行联想，便于单词记忆。
+单词：{keyword}
+
+输出格式：
+1.如果单词能进行拆分联想则输出格式为：atmo (水汽) + sphere (球体，球形) ——> 大气圈
+
+严格按照格式输出原始文本，不要自己输出markdown文本！
+    """
+    return ChatPromptTemplate.from_messages(
+        [
+            ("system", instructions),
+        ]
+    )
+
+
+def extract_text(ele):
+    tc = ele.text_content().strip()
+    tmp = " ".join(line.strip() for line in tc.split("\n"))
+    tmp = tmp.split('。')[0]
+    tmp = tmp.replace('.', '. ')
+    processed_text = re.sub(r'([a-zA-Z])([\u4e00-\u9fa5;])', r'\1 \2', tmp)
+    processed_text = re.sub(r'([\u4e00-\u9fa5])([a-zA-Z;])', r'\1 \2', processed_text)
+    return re.sub(r"^\d+\s*", "", processed_text.replace(' ; ', '；'), flags=re.MULTILINE)
+
+
+def extract(keyword: str) -> str:
+    url = f"https://dict.youdao.com/result?word={keyword}&lang=en"
+    resp = requests.get(url)
+    tree = html.fromstring(resp.content)
+    phonetic = tree.xpath(
+        '/html/body/div/div/div/div/div[1]/div/div/section/div[1]/div/div/div/div/div[2]/div[2]/span[2]')
+    phonetic_text = phonetic[0].text_content().strip()
+
+    semantics_li = tree.xpath('/html/body/div/div/div/div/div[1]/div/div/section/div[2]/div[2]/div/div[1]/ul/li')
+    semantics = []
+    for semantic in semantics_li:
+        semantic_text = semantic.text_content().strip()
+        semantic_text = semantic_text.replace('.', '. ')
+        semantics.append(semantic_text)
+    phrases = []
+    phrase_li1 = tree.xpath('/html/body/div/div/div/div/div[1]/div/div/section/div[3]/div[2]/div/div/div/ul/li')
+    idx = 1
+    for p in phrase_li1:
+        phrases.append(f"{idx}.{extract_text(p)}")
+        idx += 1
+
+    phrase_li2 = tree.xpath('/html/body/div/div/div/div/div[1]/div/div/section/div[5]/div[2]/div/ul/li')
+    for p in phrase_li2:
+        phrases.append(f"{idx}.{extract_text(p)}")
+        idx += 1
+
+    examples_li = tree.xpath('/html/body/div/div/div/div/div[1]/div/div/section/div[4]/div[2]/div/div[1]/ul/li')
+    idx = 1
+    examples = []
+    for example in examples_li:
+        examples.append(f"{idx}.{extract_text(example)}。")
+        idx += 1
+    return f"""
+{keyword} {phonetic_text}
+{"\n".join(examples)}
+{"\n".join(semantics)}
+"""
+
 def read_blanks(file_path) -> dict[str, str]:
     b1 = os.path.exists(file_path)
     if not b1:
@@ -66,9 +136,6 @@ llm_factory = LLMFactory(llm_type=LLMType.LLM_TYPE_QWENAI)
 llm = llm_factory.create_llm()
 
 chain = create_combine_prompt() | llm
-start = 1
-end = 23
-
 
 def process(src: str, sur_path: str, dst_path: str):
     # 读取文件并去除空行
@@ -101,9 +168,31 @@ def process(src: str, sur_path: str, dst_path: str):
             dst_file.write('\n\n')
 
 
+start = 14
+end = 16
+chain_associate = create_associate_prompt() | llm
+dictionary = Dict()
+parent_dir = '/Users/luchaoxin/dev/workspace/llm-knowledge/htmls'
+
 for i in range(start, end):
-    print(f"Processing chapter {i}")
-    fp = f"../dst/chapter{i}.txt"
-    sur = f"../sources/chapter{i}_processed_final.txt"
-    dst = f"../processed/chapter{i}_processed_final.txt"
-    process(fp, sur, dst)
+    # 获取目录下所有文件和子目录
+    fp = f"{parent_dir}/chapter{i}"
+    print(f"---------------{i}------------------------")
+    blocks = []
+    for filename in os.listdir(fp):
+        filepath = os.path.join(fp, filename)
+        if os.path.isfile(filepath):  # 确保是文件，而不是子目录
+            with open(filepath, 'r', encoding='utf-8') as file:
+                k = filename.replace('.html', '')
+                content = file.read()
+                text = dictionary.extract(content)
+                if not text:
+                    continue
+
+                res = chain_associate.invoke(input={"keyword": k})
+                blocks.append(text + '[联]' + res + '\n')
+
+    dp = f"../processed/chapter{i}_processed_final.txt"
+    with open(dp, 'a', encoding='utf-8') as dst_file:
+        for block in blocks:
+            dst_file.write(block)

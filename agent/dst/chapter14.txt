@@ -23,9 +23,6 @@ suitcase
 memorial
 pyramid
 port
-baggage
-luggage
-suitcase
 carry-on
 rack
 freight
