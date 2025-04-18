@@ -117,6 +117,7 @@ def extract(keyword: str) -> str:
 {"\n".join(semantics)}
 """
 
+
 def read_blanks(file_path) -> dict[str, str]:
     b1 = os.path.exists(file_path)
     if not b1:
@@ -132,10 +133,12 @@ def read_blanks(file_path) -> dict[str, str]:
         res[keyword.strip()] = block
     return res
 
+
 llm_factory = LLMFactory(llm_type=LLMType.LLM_TYPE_QWENAI)
 llm = llm_factory.create_llm()
 
 chain = create_combine_prompt() | llm
+
 
 def process(src: str, sur_path: str, dst_path: str):
     # 读取文件并去除空行
@@ -168,31 +171,44 @@ def process(src: str, sur_path: str, dst_path: str):
             dst_file.write('\n\n')
 
 
-start = 14
-end = 16
-chain_associate = create_associate_prompt() | llm
-dictionary = Dict()
-parent_dir = '/Users/luchaoxin/dev/workspace/llm-knowledge/htmls'
+keywords = [
+    'communism',
+    'communistic',
+    'democratize',
+    'municipalization',
+    'politicization',
+    'politicize',
+]
 
-for i in range(start, end):
-    # 获取目录下所有文件和子目录
-    fp = f"{parent_dir}/chapter{i}"
-    print(f"---------------{i}------------------------")
-    blocks = []
-    for filename in os.listdir(fp):
-        filepath = os.path.join(fp, filename)
-        if os.path.isfile(filepath):  # 确保是文件，而不是子目录
-            with open(filepath, 'r', encoding='utf-8') as file:
-                k = filename.replace('.html', '')
-                content = file.read()
-                text = dictionary.extract(content)
-                if not text:
-                    continue
 
-                res = chain_associate.invoke(input={"keyword": k})
-                blocks.append(text + '[联]' + res + '\n')
+def extract_html():
+    start = 15
+    end = 16
+    chain_associate = create_associate_prompt() | llm
+    dictionary = Dict()
+    parent_dir = '/tmp/htmls'
+    for i in range(start, end):
+        # 获取目录下所有文件和子目录
+        fp = f"{parent_dir}/chapter{i}"
+        print(f"---------------{i}------------------------")
+        blocks = []
+        dirs = [entry for entry in os.listdir(fp)]
+        # 按字母顺序排序
+        sorted_dirs = sorted(dirs)
+        for filename in sorted_dirs:
+            filepath = os.path.join(fp, filename)
+            if os.path.isfile(filepath):  # 确保是文件，而不是子目录
+                with open(filepath, 'r', encoding='utf-8') as file:
+                    k = filename.replace('.html', '')
+                    content = file.read()
+                    text = dictionary.extract(content)
+                    if not text:
+                        continue
 
-    dp = f"../processed/chapter{i}_processed_final.txt"
-    with open(dp, 'a', encoding='utf-8') as dst_file:
-        for block in blocks:
-            dst_file.write(block)
+                    res = chain_associate.invoke(input={"keyword": k})
+                    blocks.append(text + '[联]' + res + '\n')
+
+        dp = f"../processed/chapter{i}_processed_final.txt"
+        with open(dp, 'a', encoding='utf-8') as dst_file:
+            for block in blocks:
+                dst_file.write(block)
