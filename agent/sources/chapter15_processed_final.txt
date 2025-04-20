@@ -1449,15 +1449,16 @@ adj. 爱说话的，健谈的；交际的，沟通的
 5.communicative function 交际功能，交际职能
 [联]com (一起) + municate (交流) ——> 善于交流的
 
-communism / ˈkɒmjənɪzəm /
-n. 共产主义，共产主义理论（或制度）
+communism /ˈkɑːmjunˌɪzəm/, /ˈkɑːmjəˌnɪzəm/
+n. 共产主义；共产主义制度
 [例]
-1.There can be no communism with pauperism, or socialism with pauperism. 不能有穷的共产主义,同样也不能有穷的社会主义.
-2.Marx's ideas gave birth to communism. 马克思的思想孕育了共产主义.
-3.Happy is he who devotes himself to the cause of communism.献身于共产主义事业的人是幸福的.
+1.Marxism-Leninism and communism are different stages of socialism. 马克思主义-列宁主义和共产主义是社会主义的不同阶段。
+2.In the early 20th century, many countries were influenced by communism. 在20世纪初期，许多国家受到共产主义的影响。
+3.Communism aims to create a classless society. 共产主义旨在建立一个无阶级的社会。
 [搭]
-
-[联]community (共同体) + ism (主义) ——> 共产主义
+1.communist party 共产党
+2.communist ideology 共产主义思想
+[联] commu(n) (共同) + nism (主义) ——> 共同主义
 
 communist / ˈkɒmjənɪst /
 n. 共产主义者，共产党党员
@@ -1471,13 +1472,15 @@ adj. 共产主义的，共产党党员的；共产党的（Communist）
 2.a communist country/government/leader 共产主义的国家/政府/领袖
 [联]com (一起) + mun (月亮) + ists (从事者) ——> 共产主义者
 
-communistic / ˌkɒmjʊˈnɪstɪk /
-adj. 共产主义的；共产主义者的
+communistic /kəˈmjunɪstɪk/
+adj. 共产主义的；具有共产主义特征的
 [例]
-
+1.The communistic economic system has been implemented in some countries. 在一些国家实行了共产主义经济体制。
+2.His ideas were considered communistic. 他的想法被认为是共产主义的。
+3.The book explores the principles of a communistic society. 这本书探讨了共产主义社会的原则。
 [搭]
-1.oral communistic 口语交际
-[联]communi (共同) + stic (形容词后缀) ——> 共同主义的
+1.communistic ideology 共产主义思想
+[联] commu(n) (共同) + nist (……主义者) + ic (……的) ——> 共同主义的
 
 communitarian / kəˌmjuːnɪˈteərɪən /
 n. 提倡共产主义社会者；共产主义社会的成员
@@ -1761,8 +1764,8 @@ v. 使民主化；普及，使大众化
 1.It has the potential to greatly accelerate and democratize gene sequencing. 它有可能极大地加快基因测序的速度和普及程度。
 2.But it wants to raise its brand recognition — it's introducing an affordable smartphone that it hopes will "democratize" that technology — and make Huawei a household name. 不过华为想要提升其品牌认知度——它正在推介一款价格实惠的智能手机，希望能够使技术“大众化”——同时让华为成为家喻户晓的名字。
 [搭]
-
-[联]de (一) + m + ocr + at + ize (使成为) ——> 使成为一个能够识别的民主化
+1.democratize the workplace 民主化的工作场所
+[联] demo(cracy) (民主) + -ize (使……) ——> 使民主化
 
 demographic / ˌdeməˈɡræfɪk /
 adj. 人口的，人口统计的
@@ -3263,13 +3266,15 @@ n. 市政当局；自治市
 3.Hylte Municipality 许尔特市
 [联]muni (简单) + cipal (首府) + ity (性质，状态) ——> 城市的性质
 
-municipalization / mjuːˌnɪsɪpəlɪˈzeɪʃən /
-n. 实施自治制；属于自治区管辖；市政府所有
+municipalization /mjuːˌnɪsəpəlɪˈzeɪʃn/
+n. 市政管理；市政化
 [例]
-
+1.The municipalization of water services has improved access for rural areas. 水务市政化改善了农村地区的供水。
+2.The municipalization of public transportation has reduced traffic congestion. 公共交通市政化减少了交通拥堵。
+3.The municipalization of waste management has led to better environmental practices. 废物管理市政化带来了更好的环境保护措施。
 [搭]
-
-[联]muni (小的) + cipal (首府) + ization (过程) ——> 小首府化进程
+1.municipalization of utilities 公用事业市政化
+[联] municip(al) (市政) + -ization (过程或结果) ——> 市政化
 
 nation / ˈneɪʃ(ə)n /
 n. 国家，民族；国民；（美洲土著居民的）部落，部族
@@ -3695,23 +3700,25 @@ n. 从政者，政治家；政客，善于玩弄权术者
 3.real politician 八面玲珑的人
 [联]politi (政策，政治) + cian (表示从事某种职业的人) ——> 政治家
 
-politicization / pəˌlɪtɪsaɪˈzeɪʃn /
-n. 政治化
+politicization /ˌpɒlətɪsaɪˈzeɪʃn/
+n. 政治化；使政治化
 [例]
-1.He there are several factors driving the politicization of history in Russia. VOA : standard. 2009. 12. 25。
-2.Let the politicization and endless debates about HIV and AIDS stop,"VOA : standard. 2009. 12. 02。
+1.The politicization of science has caused controversy. 科学的政治化引起了争议。
+2.The politicization of sports has become more common. 体育的政治化变得更加普遍。
+3.The politicization of education has been debated for years. 教育的政治化已经争论多年。
 [搭]
+1.politicization of issues 问题的政治化
+[联] polit(ic) (政治) + -ization (过程或结果) ——> 政治化
 
-[联]politic (政治的) + ization (名词后缀，表示过程或状态) ——> 政治化
-
-politicize / pəˈlɪtɪsaɪz /
-vt. 使具有政治性
-vi. 参与政治
+politicize /ˈpɒlətaɪz/
+v. 政治化；使政治化
 [例]
-1.They claim they do not want to politicize the face veil, but most French agree this has already been done. VOA : standard. 2010. 01. 30。
+1.Some people argue that the media should not politicize every issue. 有人认为媒体不应把每个问题都政治化。
+2.The politician tried to politicize the economic crisis. 这位政客试图将经济危机政治化。
+3.Environmental issues have been politicized in recent years. 近年来，环境问题被政治化了。
 [搭]
-
-[联]politic (政治的) + ize (动词后缀，使成为) ——> 使政治化
+1.politicize a situation 将局势政治化
+[联] polit(ic) (政治) + -ize (使……) ——> 使政治化
 
 politics / ˈpɒlətɪks /
 n. 政治，政治活动（事务）；政治事业；政治学；(某团体、组织等内的）争权活动，权术；政治信仰，政治观点；（尤指跟社会权力和地位有关的领域、理论或活动的）主张，观（念）；政治思想体系，政治局势
@@ -3841,7 +3848,7 @@ n. （地区、国家等的）人口，人口数量；（某领域的）生物�
 [联]pop (流行) + ulation (类似种子的意思) ——> 人口群体
 
 power / ˈpaʊər /
-n. 控制力，操控力；政权，统治；权力，职权；强国，大国；有影响力的人（或组织）；能力，本领；支配力，实力；（某事物或社会集团的）影响力，势力；力量，体能；能量，电力；动力，功率；幂，乘方，指数；放大率；神灵，神力；（基督教）掌权天使（powers）；（旨在提升某群体地位的）权力运动
+n. 控制力，操控力；政权，统治；权力，职权；强国，大国；有影响力的人（或组织）；能力，本领；支配力，实力；（某事物或社会集团的）影响力，势力
 v. 驱动，推动（机器或车辆）；（使）迅猛移动，快速前进；猛力踢（或推、顶）（尤指球）
 adj. 电力的，电动的；强大的；有重要人士参与的；（服装）礼服的，显示权势的
 [例]

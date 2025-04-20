@@ -21,8 +21,6 @@ enforce
 default
 reject
 constraint
-official
-mandatory
 potent
 bound
 obligation
@@ -107,7 +105,6 @@ clue
 access
 anonymous
 false
-genuine
 falsehood
 genuine
 procedure

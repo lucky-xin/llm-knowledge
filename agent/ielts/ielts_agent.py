@@ -170,23 +170,12 @@ def process(src: str, sur_path: str, dst_path: str):
             dst_file.write(block)
             dst_file.write('\n\n')
 
-
-keywords = [
-    'communism',
-    'communistic',
-    'democratize',
-    'municipalization',
-    'politicization',
-    'politicize',
-]
-
-
 def extract_html():
-    start = 15
-    end = 16
+    start = 18
+    end = 20
     chain_associate = create_associate_prompt() | llm
     dictionary = Dict()
-    parent_dir = '/tmp/htmls'
+    parent_dir = '/agent/htmls'
     for i in range(start, end):
         # 获取目录下所有文件和子目录
         fp = f"{parent_dir}/chapter{i}"
@@ -212,3 +201,4 @@ def extract_html():
         with open(dp, 'a', encoding='utf-8') as dst_file:
             for block in blocks:
                 dst_file.write(block)
+extract_html()

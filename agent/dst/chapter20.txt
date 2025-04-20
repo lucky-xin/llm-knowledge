@@ -121,9 +121,7 @@ contempt
 neglect
 disregard
 ignorance
-irony
 ironic
-indignity
 bias
 prejudice
 deviate
@@ -164,6 +162,7 @@ undertake
 stipulate
 convince
 reassure
+
 wish
 aspire
 desire
@@ -177,7 +176,6 @@ fulfil
 range
 sort
 loom
-exclude
 launch
 commence
 exploit
