@@ -1,515 +1,1193 @@
-daily /ˈdeɪli/
-adj. 每日的，日常的；天天的
-adv. 每天；日常地
+anniversary / ˌænəˈvɜːrsəri; ˌænɪˈvɜːrsəri /
+n. 周年纪念（日）
 [例]
-1.I have a daily routine of exercising in the morning. 我每天早上都有锻炼的习惯。
-2.Daily newspapers keep us informed about current events. 日报让我们了解时事。
-3.She spends her dailies checking emails and answering calls. 她每天都花时间查看邮件和接听电话。
-[搭] daily schedule 日程表
-[联] daily由day加后缀-ly构成，表示“每天的”。
+1.Today's our wedding anniversary. 今天是我们的结婚纪念日。
+2.It's our anniversary. 今天是我们的周年纪念日。
+3.We celebrated our 25th wedding anniversary in Florence. 我们在佛罗伦萨庆祝结婚25周年。
+[搭]
+1.wedding anniversary 结婚纪念日；结婚留念日；结婚周年纪念
+2.Tomb Raider - Anniversary 古墓丽影；周年纪念版；古墓奇兵
+3.ANNIVERSARY WALTZ THE 结婚周年歌；成婚周年歌；完婚周年歌
+4.wedding anniversary 结婚纪念日；结婚周年纪念日
+5.happy anniversary 周年纪念快乐
+6.silver anniversary 二十五周年纪念日
+[联]an (一) + niversary (周年) ——> 一周年的日子
 
-monthly /ˈmʌnθli/
-adj. 每月的；按月支付的
-adv. 每月
+annual / ˈænjuəl /
+adj. 一年一度的；年度的；（植物）一年生的
+n. 一年生植物；年刊，年鉴
 [例]
-1.We receive our monthly salary on the 15th. 我们每月15号领工资。
-2.The magazine is published monthly. 这本杂志是月刊。
-3.Her monthly expenses include rent and groceries. 她每月的开销包括房租和食品杂货。
-[搭] monthly payment 月供
-[联] monthly由month加后缀-ly构成，表示“每月的”。
+1.Annual boarding fees are $10,350. 每年的住校费是10,350美元。
+2.How much annual leave do you get?你们的年假有多长？《牛津词典》。
+3.All roses require annual pruning. 玫瑰都要年年修剪。
+[搭]
+1.annual report 会计  年报； 图情  年度报告；决算书
+2.annual plant 植  一年生植物
+3.Annual Income 年收入； 经  岁入；年发损； 会计  年度收入
+4.annual meeting 年会
+5.annual report 年报，年度报告；年度决算；年度财务报告
+6.annual production 年产量
+[联]annual (一年一次的，年度的) + cycle (循环，周期) ——> 年度循环
 
-quarterly /ˈkwɔːrtəli/
-adj. 每季的；季度的
-adv. 每季度一次
+annualized / ˈænjuəlaɪzd /
+v. 按年计算（利率等）；年度化（annualize 的过去式和过去分词）
 [例]
-1.The company releases its quarterly financial reports. 公司每季度发布财务报告。
-2.Quarterly dividends are paid to shareholders. 股东每季度收到股息。
-3.Our team holds a quarterly meeting to review progress. 我们的团队每季度开会回顾进展。
-[搭] quarterly report 季度报告
-[联] quarterly由quarter（季度）加后缀-ly构成。
+1.Annualized Return: -3. 9%. 年回报率：- 3. 9%。
+2.Annualized Return: 5. 5%. 年回报率：5. 5%。
+3.On an annualized basis, these Numbers are even higher. 从年度统计的角度分析，这些数字变得更高。
+[搭]
+1.annualized net present value 折算年度净现值
+2.Annualized Return 年化报酬率；平均年回报率；怎么计算年化收益率；年化报酬
+3.annualized energy cost 年度能量费
+[联]annual (年度的) + ized (动词后缀，表示使成为) ——> 年度化的
 
-annual /ˈænjuəl/
-adj. 年度的；一年一次的
-n. 年刊
+annually / ˈænjuəli /
+adv. 每年，一年一次地
 [例]
-1.The annual company picnic is next weekend. 公司年度野餐在下周末。
-2.The annual inflation rate has increased. 年度通货膨胀率上升了。
-3.They celebrated their annual festival with great enthusiasm. 他们以极大的热情庆祝年度节日。
-[搭] annual report 年度报告
-[联] annual由ann（一年）+ual构成。
+1.The exhibition is held annually. 这个展览每年举行一次。
+2.Companies report to their shareholders annually. 各公司每年向其股东们汇报一次。
+3.Prune established plants annually as new shoots appear. 每年嫩芽长出来时，要给长成的植物剪枝。
+[搭]
+1.annually frozen layer 年冻结层
+2.semi-annually 每半年一次的；频率
+3.annually bonus 年度奖金
+[联]每年的 ——> annually
 
-yearly /ˈjɜːrli/
-adj. 每年的；一年一次的
-adv. 每年
+billion / ˈbɪljən /
+num. 十亿；<旧>万亿
+n. 十亿；亿万，大量（billions）
 [例]
-1.The yearly subscription fee is $100. 年订阅费为100美元。
-2.Yearly rainfall has decreased over the past decade. 过去十年年降雨量有所减少。
-3.They publish a yearly calendar. 他们每年出版一本日历。
-[搭] yearly income 年收入
-[联] yearly与annual同义，但更口语化。
+1.The new runway is a billion-dollar boondoggle. 这条新跑道是一个价值十亿美元的废物。
+2.Worldwide sales reached 2. 5 billion. 全球销售额达到了25亿。
+3.The company posted a $1. 1 billion loss. 这家公司公布了11亿元的亏损。
+[搭]
+1.Billion Chords 弦字典；吉他和弦查询；吉他和弦查询器；吉他和弦字典
+2.billion electron volts 物  十亿电子伏；十亿电子伏特；千兆电子伏特；京电子伏
+3.BILLION POWER 东方倍力
+[联]billion (十亿) + one (一) + ill (生病的) ——> 一个生病的十亿（想象一种荒诞场景帮助记忆）
 
-anniversary /ˌænɪˈvɜːrsəri/
-n. 纪念日；周年纪念日
+billionaire / ˌbɪljəˈneə(r) /
+n. 亿万富翁
 [例]
-1.Their wedding anniversary is on June 15th. 他们的结婚纪念日是6月15日。
-2.The company celebrated its 50th anniversary this year. 公司今年迎来了成立50周年。
-3.We always celebrate my father's birthday anniversary. 我们总是庆祝我父亲的生日。
-[搭] first anniversary 一周年纪念
-[联] anniversary由ann（一年）+vers（转）+ary构成。
+1.If it were not for the fact that he was a billionaire, she would never have married him. 如果不是因为他是个亿万富翁，她不会嫁给他。
+2.Cost is no obstacle for Missy's mysterious billionaire owner；he's put up $3. 7 million so far to fund A&M's research. 对米西神秘的亿万富翁主人来说，费用不是问题；目前他已经出了370万美元来资助 A&M 的研究。
+3.You're a multi-billionaire.  But doesn't, at some point, all the opportunities for you kind of tug away at that young idealism?你是一个亿万富翁。
+[搭]
+1.Lazy Billionaire 懒惰大富翁
+2.Operation Billionaire 惊天大贼王；片；惊天大
+3.Rebel Billionaire 速成亿万富翁；叛逆的亿万富翁；叛逆富豪
+[联]bi (二) + llion (百万) + aire (富人) ——> 亿万富翁
 
-era /ˈɪərə/
-n. 时代；纪元；年代
+century / ˈsentʃəri /
+n. 世纪；一百年；（板球）一百分
 [例]
-1.We live in the digital era now. 我们现在生活在数字时代。
-2.The new era began after the war ended. 新的时代在战争结束后开始。
-3.The Industrial Revolution marked the beginning of a new era. 工业革命标志着一个新时代的开始。
-[搭] modern era 现代时代
-[联] era指长时间的历史时期。
-
-present /ˈprɛzənt/
-adj. 当前的；出席的
-n. 礼物；现在
-v. 提出；赠送
-[例]
-1.He gave me a present for my birthday. 他给我生日礼物。
-2.The present situation is very promising. 当前形势很有希望。
-3.All the guests were present at the ceremony. 所有嘉宾都出席了仪式。
-[搭] present moment 当前时刻
-[联] present由pres（向前）+ent构成，表示“当前的”。
-
-contemporary /kənˈtɛmpərəri/
-adj. 同时代的；当代的
-n. 同时代的人
-[例]
-1.The artwork is contemporary. 这件艺术品是当代的。
-2.They are both contemporaries. 他们是同时代人。
-3.Contemporary literature reflects modern society. 当代文学反映现代社会。
-[搭] contemporary art 当代艺术
-[联] contemporary由contem（共同）+por（时间）+ary构成。
-
-medieval /ˌmiːdiˈiːvəl/
-adj. 中世纪的；中古的
-[例]
-1.The castle dates back to medieval times. 这座城堡可以追溯到中世纪。
-2.Medieval armor was heavy and cumbersome. 中世纪的盔甲又重又笨拙。
-3.His knowledge of medieval history is extensive. 他对中世纪历史知识渊博。
-[搭] medieval Europe 中世纪欧洲
-[联] medieval由medi（中间）+ev（时代）+al构成。
-
-century /ˈsɛntəri/  
-n. 百年；世纪  
-[例]  
-1.The 20th century saw great technological advancements. 第二十世纪见证了伟大的技术进步。  
-2.We hope to see peace in this century. 我们希望在这个世纪看到和平。  
-3.The story takes place in the 18th century. 这个故事发生在十八世纪。  
-[搭]  
-1.a century ago 一个世纪以前  
-2.turn of the century 世纪之交  
-[联] cent (百) + -ury (与...有关) ——> 一百年的时代  
-
-millennium /mɪˈlɛniəm/  
-n. 千禧年；一千年  
-[例]  
-1.The year 2000 marked the dawn of a new millennium. 2000年标志着新千禧年的开始。  
-2.Many cultures celebrate the millennium with festivals. 许多文化通过节日庆祝千禧年。  
-3.Some people believe the millennium will bring peace. 有些人认为千禧年会带来和平。  
-[搭]  
-1.millennium bug 千禧虫（指计算机在处理日期时可能出现的问题）  
-2.new millennium 新千禧年  
-[联] millen(ni)(一千) + -ium(名词后缀) ——> 一千年  
-
-billion /ˈbɪljən/  
-n. 十亿；大量  
-[例]  
-1.The company's revenue reached over a billion dollars last year. 去年这家公司的收入超过了十亿美元。  
-2.There are billions of stars in the galaxy. 银河系中有数十亿颗恒星。  
-3.Billions of people use the internet daily. 数十亿人每天使用互联网。  
-[搭]  
-1.billionaire 十亿富翁  
-2.billion-dollar project 十亿美元的项目  
-[联] bi-(二) + ll(y) + -ion(名词后缀) ——> 两个“千万”之和  
-
-dozen /ˈdʌzn/  
-n. 十二个；许多  
-[例]  
-1.I bought two dozen eggs at the store. 我在商店买了两打鸡蛋。  
-2.A dozen is a common unit for counting items. 十二是一个常用的计数单位。  
-3.He gave me a dozen reasons why he couldn’t come. 他给了我十几个他不能来的原因。  
-[搭]  
-1.dozen of 许多  
-2.half a dozen 半打（六个）  
-[联] doz(en) (十二) ——> 古英语中表示十二的词  
-
-dawn /dɔːn/  
-v. 黎明；开端 n. 黎明；开端  
-[例]  
-1.The sun began to dawn over the horizon. 太阳开始在地平线上升起。  
-2.New ideas dawned on him as he read the book. 他在读书时有了新的想法。  
-3.Dawn is the start of a new day. 黎明是一天的开始。  
-[搭]  
-1.dawn on sb. 某人突然意识到  
-2.from dawn till dusk 从黎明到黄昏  
-[联] dawn (日出) ——> 日光初现  
-
-midday /ˈmɪdˌdeɪ/  
-n. 正午；中午  
-[例]  
-1.Let’s meet at midday for lunch. 我们正午一起吃午饭吧。  
-2.Work slows down by midday. 到了中午工作速度就慢下来了。  
-3.The temperature peaks at midday. 温度在正午达到峰值。  
-[搭]  
-1.at midday 在正午  
-2.midday break 中午休息  
-[联] mid (中间) + day (白天) ——> 白天的中间时刻  
-
-midnight /ˈmɪdˌnaɪt/  
-n. 午夜；深夜  
-[例]  
-1.The party went on until midnight. 派对一直持续到午夜。  
-2.At midnight, the streets were empty. 午夜时分，街道空无一人。  
-3.Midnight is the darkest time of the night. 午夜是一天中最黑暗的时候。  
-[搭]  
-1.at midnight 在午夜  
-2.midnight snack 午夜小吃  
-[联] mid (中间) + night (夜晚) ——> 夜晚的中间时刻  
-
-overnight /ˌoʊvɚˈnaɪt/  
-adv. 一夜之间；突然  
-[例]  
-1.His business grew overnight. 他的生意一夜之间壮大起来。  
-2.The weather changed overnight. 天气一夜之间变了。  
-3.The plan was completed overnight. 这个计划一夜之间完成了。  
-[搭]  
-1.overnight success 突然成功  
-2.stay overnight 过夜  
-[联] over (超过) + night (夜晚) ——> 超过夜晚的时间  
-
-night /naɪt/  
-n. 夜晚；夜间  
-[例]  
-1.The stars are visible at night. 夜晚可以看到星星。  
-2.I had a dream last night. 昨晚我做了一个梦。  
-3.Night falls early in winter. 冬天夜幕降临得早。  
-[搭]  
-1.at night 在夜晚  
-2.all through the night 整晚  
-[联] night (夜晚) ——> 夜间的时光  
-
-modem /ˈmoʊdəm/  
-n. 调制解调器  
-[例]  
-1.My modem connects my computer to the internet. 我的调制解调器连接我的电脑和互联网。  
-2.The modem is an essential device for online communication. 调制解调器是在线通信的重要设备。  
-3.I need to upgrade my modem for faster internet speed. 我需要升级我的调制解调器以获得更快的网速。  
-[搭]  
-1.wireless modem 无线调制解调器  
-2.broadband modem 宽带调制解调器  
-[联] mod(ulate) + dem(odulate) ——> 调制解调器
-
-recent /ˈriːsnt/, /ˈriːsənt/
-adj.最近的；新近的
-[例]
-1.I met a recent graduate from Harvard University. 我遇到了一位刚从哈佛大学毕业的学生。
-2.Recent developments in technology have changed our lives. 技术上的最新进展改变了我们的生活。
-3.The recent movie was very popular with young people. 最近上映的电影深受年轻人喜爱。
-[搭] 
-1.recent events 最新事件
-2.recent history 近代史
-[联] rec (重新) + ent (形容词后缀) ——> 新近发生的
-
-up-to-date /ˌʌpˈtuːdeɪt/
-adj.最新的；现代的
-[例]
-1.My computer is up-to-date. 我的电脑是最新型号的。
-2.The book provides up-to-date information on climate change. 这本书提供了关于气候变化的最新信息。
-3.Her knowledge of fashion is always up-to-date. 她对时尚的了解总是最新的。
-[搭] 
-1.up-to-date research 最新研究
-2.up-to-date technology 最新技术
-[联] up (向上) + to date (到今天)
-
-first /fɜːrst/
-num.第一；首先；首要的
-[例]
-1.He was the first person to arrive. 他是第一个到达的人。
-2.First, we need to prepare the materials. 首先，我们需要准备材料。
-3.The first chapter introduces the basic concepts. 第一章介绍了基本概念。
-[搭] 
-1.first place 第一名
-2.take first 获得第一名
-[联] first (第一) ——> 初始的顺序
-
-secondly /ˈsekəndli/
-adv.第二；其次
-[例]
-1.Secondly, we should consider the cost. 其次，我们应该考虑成本。
-2.Secondly, there is no evidence to support this claim. 其次，没有证据支持这一说法。
-3.Secondly, it is important to communicate clearly. 其次，清晰沟通很重要。
-[搭] 
-1.secondly consideration 第二考虑
-2.secondly priority 第二优先级
-[联] second (第二) + ly (副词后缀) ——> 排序关系
-
-finally /faɪˈnaɫi/
-adv.最后；终于；最终
-[例]
-1.Finally, he achieved his goal. 最终，他实现了目标。
-2.Finally, we can move on to the next topic. 最后，我们可以继续下一个话题。
-3.Finally, the storm passed. 最后，风暴过去了。
-[搭] 
-1.finally result 最终结果
-2.finally solution 最终解决方案
-[联] final (最后的) + ly (副词后缀) ——> 结束状态
-
-finish /ˈfɪnɪʃ/
-v.完成；结束；做完
-[例]
-1.I finished my homework yesterday. 昨天我完成了作业。
-2.The project will finish by the end of the month. 这个项目将在月底完成。
-3.We need to finish painting before it rains. 我们需要在下雨前完成刷漆。
-[搭] 
-1.finish school 毕业
-2.finish work 完成工作
-[联] fin (结尾) + ish (动词后缀) ——> 结束某事
-
-immediately /ɪˈmiːdiətli/
-adv.立即；马上
-[例]
-1.I need you to answer immediately. 我需要你立刻回答。
-2.The ambulance arrived immediately after the call. 救护车在接到电话后立即赶到。
-3.Please respond immediately to confirm your attendance. 请立即回复确认您的出席。
-[搭] 
-1.immediately action 立即行动
-2.immediately response 立即响应
-[联] im (进入) + medi (中间) + ate (动词后缀) ——> 中间进入状态
-
-instant /ˈɪnstənt/
-n.瞬间；片刻
-[例]
-1.In an instant, the room was filled with smoke. 一瞬间，房间里充满了烟雾。
-2.An instant later, the lights went out. 一秒钟之后，灯熄灭了。
-3.I need an instant decision. 我需要一个即时的决定。
-[搭] 
-1.instant coffee 速溶咖啡
-2.instant message 即时消息
-[联] inst (立即) + ant (名词后缀) ——> 瞬间状态
-
-moment /ˈmoʊmənt/
-n.片刻；瞬间；时刻
-[例]
-1.That was a moment of great joy. 那是一个非常高兴的时刻。
-2.Wait a moment, I'll be right back. 等一下，我马上就回来。
-3.The moment you leave, I will call you. 你一离开，我就给你打电话。
-[搭] 
-1.in the moment 当下
-2.at that moment 在那时
-[联] mom (母亲) + ent (名词后缀) ——> 母亲节的瞬间
-
-minute /ˈmɪnɪt/
-n.分钟；片刻；细节
-[例]
-1.It only takes a minute to walk there. 走到那里只需要一分钟。
-2.Can you wait for a minute? 你能等一分钟吗？
-3.Did you notice every minute detail? 你注意到每一个细节了吗？
-[搭] 
-1.minute hand 分针
-2.to the minute 精确地
-[联] mini (小的) + ute (形容词后缀) ——> 微小的时间单位
-
-prior / ˈpraɪər /
-adj. 更重要的，优先的；在前的；早先的
-[例]
-1.She always gives prior consideration to family matters. 她总是优先考虑家庭事务。
-2.Prior knowledge of the exam content is not allowed. 考试内容事先不允许泄露。
-3.We need to prioritize our tasks for today. 我们需要优先安排今天的工作任务。
-[搭] 
-prior to 在……之前
-[联] 想象一个“优先”的场景，比如排队时站在最前面的人。
-
-former / ˈfɔːrmər /
-adj. 以前的，从前的；两者中较前的
-[例]
-1.The former president gave a speech yesterday. 昨天前总统发表了讲话。
-2.I met her in my former job. 我在之前的工作中遇到过她。
-3.The former method is more efficient. 前一种方法更有效率。
-[搭] 
-none
-[联] 想象“form”（形式）+ “er”（比较级后缀），表示“更形式化的”。
-
-preceding / prɪˈsiːdɪŋ /
-adj. 在前的，先前的
-[例]
-1.The preceding chapter is very important. 前一章非常重要。
-2.Preceding events have shaped the current situation. 先前的事件塑造了当前的局面。
-3.The preceding years were difficult for everyone. 前几年对每个人来说都很艰难。
-[搭] 
-none
-[联] “pre”（之前）+ “cede”（前进）——> 在前进之前的事物。
-
-precedent / ˈprɛsɪdənt /
-n. 先例，惯例；前例
-[例]
-1.There is no precedent for this situation. 这种情况没有先例。
-2.This decision sets an important precedent. 这个决定树立了一个重要先例。
-3.The court relied on a precedent from a previous case. 法院参考了之前的案件先例。
-[搭] 
-set a precedent 树立先例
-[联] 想象“pre”（之前）+ “cedent”（前行者）——> 前行者的做法成为先例。
-
-foremost / fərˈmoʊst /
-adj. 最重要的，首要的；最前面的
-[例]
-1.Health should be our foremost concern. 健康应该是我们的首要关注点。
-2.He is the foremost expert in his field. 他是他领域中最杰出的专家。
-3.Their foremost goal is to improve education. 他们最重要的目标是改善教育。
-[搭] 
-none
-[联] “fore”（前面）+ “most”（最）——> 最前面的。
-
-opening / ˈoʊpənɪŋ /
-n. 开端，开始；空缺职位
-[例]
-1.The opening scene is breathtaking. 开场场景令人惊叹。
-2.There is an opening for a software engineer. 有一个软件工程师的空缺职位。
-3.The opening ceremony was held yesterday. 开幕式昨天举行。
-[搭] 
-job opening 职位空缺
-[联] “open”（开放的）+ “ing”（动名词）——> 开始的状态。
-
-initially / ɪˈnɪʃəli /
-adv. 最初，开始时
-[例]
-1.Initially, I thought it was a bad idea. 最初，我认为这是一个坏主意。
-2.They initially refused to cooperate. 他们最初拒绝合作。
-3.Initially, the plan seemed impossible. 最初，这个计划似乎不可能实现。
-[搭] 
-none
-[联] “initial”（初始的）+ “ly”（副词后缀）——> 初始地。
-
-intermediate / ˌɪntərˈmiːdiət /
-adj. 中间的；中级的
-[例]
-1.An intermediate level of proficiency is required. 需要达到中级熟练程度。
-2.The intermediate course covers basic grammar. 中级课程涵盖基础语法。
-3.The intermediate students are progressing well. 中级学生进步很快。
-[搭] 
-intermediate level 中间水平
-[联] “inter”（之间）+ “mediate”（中间的）——> 介于两者之间的。
-
-midst / mɪdst /
-n. 中间，中央
-[例]
-1.He was in the midst of a crowd. 他在人群之中。
-2.The meeting took place in the midst of a storm. 会议在暴风雨中进行。
-3.The sun shone brightly in the midst of winter. 冬天里阳光明媚。
-[搭] 
-none
-
-meantime / ˈmitaɪm /
-n. 同时，其间
-[例]
-1.In the meantime, please wait here. 同时，请在这里等候。
-2.The project will be completed in the meantime. 项目将在同时完成。
-3.In the meantime, we must stay focused. 同时，我们必须保持专注。
-[搭] 
-in the meantime 同时
-
-meanwhile / ˌmiːnˈhwайл /, / ˌmɪnˈhwail /
-conj. 同时；其间
-[例]
-1.Meanwhile, she finished her homework. 同时，她完成了作业。
-2.Meanwhile, the police arrived at the scene. 那时，警察到达了现场。
-3.Meanwhile, we continued our discussion. 其间，我们继续讨论。
-[搭] meanwhile, on the other hand 然而，同时另一方面
-[联] mean（意味着）+ while（当...时候）——> 在...期间
-
-simultaneous / sɪməlˈteɪniəs /
-adj. 同时发生的；同步的
-[例]
-1.The simultaneous occurrence of two events was unexpected. 两个事件同时发生是意想不到的。
-2.They launched a simultaneous attack. 他们发起了同步攻击。
-3.The simultaneous translation made the conference more accessible. 同声传译使会议更易懂。
-[搭] simultaneous action 同步行动；simultaneous broadcast 同步广播
-[联] simultane-（同时）+ ous（具有...性质的）——> 同时发生的
-
-ongoing / ˈɑːngoɪŋ /
-adj. 进行中的；不断发展的
-[例]
-1.The ongoing project is facing some challenges. 这个正在进行的项目遇到了一些挑战。
-2.Ongoing research has led to new discoveries. 不断的研究带来了新发现。
-3.We need to monitor the ongoing process. 我们需要监控这个进行中的过程。
-[搭] ongoing development 持续发展；ongoing improvement 持续改进
-[联] on（在...上）+ going（进行的）——> 正在进行的
-
-everlasting / ˌevərˈlɑːstɪŋ /
-adj. 永恒的；持久的
-[例]
-1.The everlasting love between them is touching. 他们之间永恒的爱情令人感动。
-2.Everlasting peace is what everyone desires. 永久和平是每个人所渴望的。
-3.The everlasting beauty of nature amazes us. 大自然永恒的美丽让我们惊叹。
-[搭] everlasting life 永生；everlasting glory 永恒荣耀
-[联] ever（永远）+ lasting（持续的）——> 永恒的
-
-permanent / ˈpɜːrmənənt /
-adj. 永久的；固定的
-[例]
-1.The permanent solution to the problem is still being sought. 对于这个问题的永久解决方案仍在寻找中。
-2.His permanent address is in New York. 他的永久地址在纽约。
-3.The permanent fixtures in the room are part of the property. 房间里的固定装置属于财产的一部分。
-[搭] permanent residence 永久居留；permanent record 永久记录
-[联] per（完全）+ manent（保持）——> 完全保持的
-
-punctual / ˈpʌŋktjʊəl /
-adj. 守时的；准时的
-[例]
-1.She is always punctual for her appointments. 她总是准时赴约。
-2.The train was punctual despite the heavy rain. 尽管大雨滂沱，火车还是准时到达。
-3.Punctual delivery is important for businesses. 准时交货对商业很重要。
-[搭] punctual payment 准时付款；punctual attendance 准时出席
-[联] punctu-al（点状的）——> 像时间点一样精确的
-
-duration / djuˈreɪʃn /
-n. 持续时间；期间
-[例]
-1.The duration of the meeting was three hours. 会议持续了三个小时。
-2.What is the duration of this course? 这门课程的时长是多少？
-3.The duration of the flight was eight hours. 航班飞行时间八小时。
-[搭] during duration 在整个期间内；full duration 完整期间
-[联] durat-ion（持续）——> 持续时间
+1.A new century was dawning. 一个新的世纪开始了。
+2.It was built at the turn of the century. 这是在世纪之交修建的。
+3.DAB is the radio system of the 21st century. 数字音频广播是21世纪的广播系统。
+[搭]
+1.th century 世纪；二十世纪
+2.th century 世纪
+3.Century Park 世纪公园；世纪公园酒店；上海世纪公园介绍；世界公园酒店
+4.the twentieth century20世纪
+5.turn of the century 世纪之交；19世纪与20世纪转换交替时期；19世纪末20世纪初
+6.century park 世纪公园
+[联]one (一) + hundred (百) ——> 世纪，百年
 
 consecutive / kənˈsekjətɪv /
-adj. 连续的；顺序的
+adj. 连续的，不间断的
 [例]
-1.Three consecutive days of rain flooded the city. 连续三天的降雨淹没了城市。
-2.The team won five consecutive games. 这支队伍赢得了五场连续的比赛。
-3.Consecutive meetings took up most of his day. 连续的会议占据了他大部分时间。
-[搭] consecutive numbers 连续数字；consecutive sentences 连续句子
-[联] con-（一起）+ secut-e（跟随的）——> 一起跟随的
+1.The Cup was won for the third consecutive year by the Toronto Maple Leafs. 这个奖杯连续第三年由多伦多枫叶队赢去了。
+2.The manufacturing economy contracted in October for the sixth consecutive month. 制造业经济到10月份已连续萎缩6个月了。
+3.In Ontario, August was the first month with below-normal temperatures after eight consecutive months above normal. 在安大略省，8月份是连续8个月高于正常温度之后的第一个低于正常温度的月份。
+[搭]
+1.consecutive passes 连续传球；持续传球；延续传球；一连传球
+2.consecutive number 连续整数；持续整数；编号；连续数
+3.Five consecutive 五连冠；女排五连冠
+4.consecutive days 连续营业日；连续作业日
+5.consecutive interpreting 交替传译
+6.consecutive reaction 连锁反应
+[联]consecutive (连续的) + -ous (形容词后缀) ——> 连续不断的
 
-periodically / pɪˈriədɪkli /
-adv. 周期性地；定期地
+consecutively / kənˈsekjətɪvli /
+adv. 连续地
 [例]
-1.The flowers bloom periodically. 这些花会周期性地开放。
-2.The company reviews its policies periodically. 公司定期审查其政策。
-3.The temperature changes periodically throughout the year. 全年气温周期性变化。
-[搭] periodically reviewed 定期审查的；periodically published 定期出版的
-[联] period-（时期）+ -ically（方式）——> 以时期的方式
+1.Perform the following steps on all three servers consecutively. 在这三个服务器上顺序执行以下步骤。
+2.The % prep, % build, and % install sections are next, consecutively. 接下来依次是% prep、% build 和% install 节。
+3.Each of these methods is consecutively invoked by the look and feel itself. 这些方法中每一个方法都是由该 look and feel 本身连续地调用的。
+[搭]
+1.consecutively departing 依次派出的轿厢
+2.number consecutively 按顺序数；依次编号
+3.consecutively sampling 连续采集
+[联]consecutive (连续的) + ly (副词后缀) ——> 连续不断地
+
+contemporary / kənˈtempəreri /
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+[例]
+1.Contemporary African cinema has much to offer. 当代非洲电影制作艺术有很多贡献。
+2.We weren't out to design a contemporary utopia. 我们不想去设计一个当代乌托邦。
+3.She patronizes many contemporary British artists. 她赞助许多英国当代艺术家。
+[搭]
+1.contemporary literature 语  现代文学；当代；中国现当代文学
+2.Museum of Contemporary Art 洛杉矶当代艺术博物馆；当代艺术博物馆；现代艺术博物馆；现代美术馆
+3.Contemporary R&B 当代节奏布鲁斯；当代节奏蓝调
+4.contemporary art 当代艺术
+5.contemporary literaturen.  现代文学
+6.the contemporary era 当代
+[联]contemp (一起，共同) + orary (属于……的) ——> 属于同一时代的
+
+daily / ˈdeɪli /
+adj. 每日的，日常的；一天的，按天计算的
+adv. 每日，每天；日常地
+n. 日报；<英>日工，女佣；（每天拍摄的）电影样片
+[例]
+1.They held daily press briefings. 他们召开了每日例行的新闻发布会。
+2.The plants want to be watered daily. 这些花草需要天天浇水。
+3.The machines are inspected twice daily. 机器每日检查两次。
+[搭]
+1.Daily Mail 每日邮报；英国每日邮报；逐日邮报；每天邮报
+2.China Daily 中国日报
+3.Daily Mirror 每日镜报；逐日镜报
+4.daily life 日常生活
+5.daily necessities 日用品；生活必需品
+6.daily work 每日作业
+[联]daily (日常的) + habit (习惯) ——> 日常习惯
+
+dawn / dɑːn /
+v. 变得明朗，开始清楚；破晓，开始
+n. 拂晓，黎明；曙光，开端
+[例]
+1.The troops landed at dawn. 部队已在黎明登陆。
+2.They set forth at dawn. 他们在黎明时出发。
+3.He arose at dawn. 他黎明即起。
+[搭]
+1.Red Dawn 红色黎明；天狐入侵；刺色黎明
+2.the dawn 亡灵序曲；魔兽亡灵序曲；指环王
+3.Dawn of the Dead 活死人黎明；僵尸的黎明；生人勿近
+4.at dawn 拂晓；天一亮
+5.before dawn 凌晨；黎明前；拂晓
+6.dawn on 开始被理解；渐渐明白
+[联]day (白天) + awn (芒) ——> 黎明时分，天刚亮，如同植物的芒在白天初现。
+
+dawning / ˈdɔːnɪŋ /
+n. 黎明，开端，曙光
+v. 破晓；展现，显露；认识到，明白（dawn 的现在分词）
+[例]
+1.A new century was dawning. 一个新的世纪开始了。
+2.They turned to one another with the same expression of dawning comprehension, surprise, and relief. 他们带着一样恍然大悟、惊奇、松了一口气的表情相互看了看。
+3.This only applies to American space activities, but the hope is that it will help standardize a set of norms in the dawning commercial spaceflight industry throughout the world. 这只适用于美国的航天活动，但希望是它将有助于使全世界商业航天工业的一套规范标准化。
+[搭]
+1.East Dawning 东方既白
+2.another day is dawning 又是一个黎明将至；新的一天既将来到；新的黎明即将到来；又是一天的黎明
+3.Fox X the Dawning 女杀手福克斯
+4.at dawn 拂晓；天一亮
+5.before dawn 凌晨；黎明前；拂晓
+6.dawn on 开始被理解；渐渐明白
+[联]day (白昼) + dawning (黎明，开端) ——> 白昼的开端
+
+doze / doʊz /
+v. 小睡，打盹；打瞌睡度过
+n. 瞌睡，小睡
+[例]
+1.Some students often doze off in class. 有些学生经常在课堂上打瞌睡。
+2.We couldn't help but doze off during his lecture. 他演讲时我们忍不住打瞌睡。
+3.I had a doze on the train. 我在火车上打了个盹儿。
+[搭]
+1.doze off 打瞌睡
+2.doze away 在瞌睡中将时间打发掉
+3.Doze Mode 打盹模式；休止模式；休眠模式
+4.doze off 打瞌睡；困倦
+[联]doze (打盹) + on (在...之上) ——> 打盹时意识模糊
+
+dozen / ˈdʌz(ə)n /
+n. 一打，十二个；大量，许多；十多个
+[例]
+1.Packages arrived by the dozen from America. 成打的包裹从美国寄来。
+2.She loaded me down with around a dozen cassettes. 她给我的十几个盒子加重了我的负担。
+3.A few dozen employees picketed the company's headquarters. 几十名雇员聚集在公司总部的外面示威抗议。
+[搭]
+1.The Dirty Dozen 十二金刚
+2.Cheaper by the Dozen 儿女一箩筐；父亲大人；二生笑
+3.Deadly Dozen 重返狼穴；威震敌后；十二金刚；敌后敢死队
+4.dozens of 几十；许多
+5.by the dozen 成打地；按打计算
+6.half a dozenadj.  半打，六个
+[联]dozen (十二个) ——> do (做) + zen (禅，一种状态) ——> 做到一种圆满的状态 (一种传统的圆满数量)
+
+dozenth / ˈdʌz(ə)nθ /
+adj. 第十二的；第十二个的
+[例]
+1.Company of American country semiconductor is the United States supplier of conductor of the 4th most, world rank is dozenth . 美国国家半导体公司是美国第四大半导体供给厂商，世界排名第十二。
+[搭]
+
+[联]dozen (十二) + th (序数词后缀) ——> 第十二
+
+duration / djuˈreɪʃn /
+n. 持续，持续时间
+[例]
+1.The duration of previous geologic periods was difficult to determine. 以前很难确定地质期的持续时间。
+2.They were incarcerated for the duration of the war. 他们在战争期间被监禁。
+3.His wounds knocked him out of combat for the duration. 在整个战斗中，他的伤一直令他无法参战。
+[搭]
+1.pulse duration 电子  脉冲持续时间； 电子  脉冲宽度；脉冲时长；脉宽
+2.Duration time 保荷时间；保菏时间；作用时间
+3.sunshine duration 日照时间；日照延时；日光时间
+4.for the duration 在整个非常时期内
+5.short duration 短期间，短历时
+6.long duration 长持续时间
+[联]dur (持续) + ation (名词后缀) ——> 持续的时间
+
+era / ˈɪrə /
+n. 时代，年代，纪元
+[例]
+1.It's the end of an era. 这是一个时代的终结。
+2.It was, if you like, the dawn of a new era. 换句话说，那就是新时代的黎明。
+3.These talks could herald a new era of peace. 这些谈判可能预示着新的和平时代的来临。
+[搭]
+1.Victorian era 维多利亚时代；维多利亚时期
+2.common era 共同时代
+3.Post-PC era 后 PC 时代；后电脑时代
+4.new era 新纪元报
+5.the contemporary era 当代
+6.cenozoic era 新生代
+[联]e (电子) + ra (稻杆) ——> 电子时代
+
+eradicate / ɪˈrædɪkeɪt /
+v. 根除，消灭
+[例]
+1.They are already battling to eradicate illnesses such as malaria and tetanus. 他们已经在为根除疟疾、破伤风等疾病而斗争。
+2.The campaign to eradicate malaria did not do so. 根除疟疾运动没有做到这样。
+3.Surely we will aim to finally eradicate disease and poverty. 当然，我们的目标是最终能够消灭疾病和贫困。
+[搭]
+1.eradicate-eliminate 根除；清除
+2.to eradicate 消除；铲除；扑灭
+3.eradicate cholera 消来霍乱
+[联]ex- (向外) + radic- (根) + -ate (动词后缀) ——> 根除、消灭
+
+everlasting / ˌevərˈlæstɪŋ /
+adj. 永恒的；接连不断的
+[例]
+1.That is how I found myself on the road with four kids, a baby lamb and nothing but my everlasting optimism to see me through. 就这样，我上路了。
+2.I'm tired of your everlasting complaints. 我讨厌你没完没了的抱怨。
+3.To his everlasting credit , he never told anyone what I'd done. 值得永远称赞的是他从未把我做的事告诉过任何人。
+[搭]
+1.Everlasting Regret 长恨歌；外文别名；恨歌；英文名
+2.Tuck Everlasting 真爱无尽；不老泉；永远的狄家；永恒的塔克
+3.Everlasting Love 停不了的爱；永恒的爱；永远的爱；不了情
+4.from everlasting 开天辟地以来，自古以来
+5.everlasting love 永远的爱；不朽之爱
+6.everlasting life 永生；[宗教]来世
+[联]e (字母E) + ver (看作“ver”)+ lasting (持久的) ——> 像字母E一样持久地看下去
+
+finally / ˈfaɪnəli /
+adv. 终于；总之，最后；决定性地，不可变更地
+[例]
+1.Finally she drifted into sleep. 最后她不知不觉地睡着了。
+2.The flames finally died down. 火焰终于减弱了。
+3.My patience finally snapped. 我终于忍不住了。
+[搭]
+1.Love Finally 男得有爱
+2.in the end finally 最后；末了；最初
+3.finally ad 最后；终于最后
+[联]fine (美好的) + -ly (副词后缀) ——> 最终的，终于
+
+finish / ˈfɪnɪʃ /
+v. 完成，做好；（使）结束；消耗尽（所剩之物）；（比赛中）获得（名次）；（英式足球用语）进球；对（物件）做最后加工；杀死，歼灭；使精疲力竭；<旧>为（少女）进入上流社会做好准备；<非正式>使精疲力竭
+n. 结尾，结局；（赛跑、比赛的）终点；最后精细加工；饰面，饰面材料；（葡萄酒或啤酒的）余味
+[例]
+1.I can easily finish it tonight. 我今晚能毫不费力地把它完成。
+2.Listen, I finish at one. 听着，我一点钟结束。
+3.I thought you'd never finish!我还以为你会完成不了呢！《牛津词典》。
+[搭]
+1.Surface finish 机  表面光洁度；表面处理； 建  表面修饰；表面粗糙度
+2.CLEAN FINISH 还口；卷边；原身较结；还嘴
+3.RESIN FINISH 树脂处理；树脂加工； 纺  树脂整理；树胶措置惩罚
+4.finish line 终点线，终航线
+5.finish with 完成，结束；与…断绝关系
+6.surface finish[机]表面抛光
+[联]fin (结尾) + ish (像，类似) ——> 完成，结束
+
+finishing / ˈfɪnɪʃɪŋ /
+n. 得分的表现和技巧；（非正式）最后的修整
+v. 完成；结束；（竞赛）获得（名次）；用完，吃光（finish 的现在分词）
+[例]
+1.I'm just finishing my book. 眼下我正在完成我的一本书。
+2.Now she is busy finishing off a biography of Queen Caroline. 现在她正忙于完成卡罗琳女王的传记。
+3.Jed nodded, finishing off the last piece of pizza. 杰德点了点头，吃完了仅剩的一块比萨饼。
+[搭]
+1.EDGE-FINISHING 边脚处理；边脚措置惩罚；边脚处置；边脚处置惩罚
+2.finishing school 女子精修学校；精修学校；指培养富家女的社交能力的“精修学校；学校毕业
+3.Finishing machines 修整机；精加工机器；修零件；整理机
+4.dyeing and finishing 染整；印染
+5.finishing process 后整理工序；加工制程
+6.finishing agent 整理加工试剂
+[联]fin (结束) + ish (动词后缀，表示完成) ——> 完成中的
+
+first / fɜːrst /
+det. 第一位的，最先的；首（次）的；（某一时间或某事后的）紧接着来到的；（一列中）最前面的；最重要的；（用于工作或职位的头衔中）最高的；最迫切的，最合适的
+adv. 第一，最初；起初；第一次；（列举时用）首先；（强调不愿意）宁可；以身体的某一部位（或某人）在先（或为首）
+n. 第一个人（或事物)；前所未有的事情；（汽车、自行车等的）最低档；（英国大学学位）最高成绩；（棒球）第一垒；一等品
+pron. 第一次
+[例]
+1.We're expecting our first baby. 我们要生第一个孩子了。
+2.First rake the soil smooth. 首先把地耙平。
+3.First class costs more. 第一类邮件邮资较高。
+[搭]
+1.First Love 初恋；初恋这件小事；魔女的条件主题曲
+2.first class 头等舱；头等；一等舱；一等地
+3.First Blood 第一滴血；一血；第一滴血花絮；贰拾叁章
+4.first time 第一次；第一时间
+5.at first 起先，首先；最初
+6.quality first 质量第一
+[联]one (一) + r (拼音“日”的首字母) + ist (表示……的人) ——> 第一人事物
+
+firsthand / ˈfɜːstˈhænd /
+adj. 直接的；直接采购的；直接得来的
+adv. 直接地
+[例]
+1.School trips give children firsthand experience not available in the classroom. 学校组织的旅行可以给孩子们提供教室里学不到的亲身体验。
+2.She sailed for Europe as an accredited correspondent for Life for a firsthand look at the war. 她作为《生活》杂志的特派记者前往欧洲，亲眼目睹了这场战争。
+3.Michael Zhao has seen the damage firsthand. 迈克尔·赵是发现这种危害的第一人。
+[搭]
+1.firsthand information 经管  第一手资料；第一手信息
+2.firsthand data 第一手资料；第一手数据
+3.Firsthand Technology Value Fund 第一手技术价值基金
+4.firsthand information 第一手资料
+[联]first (第一的) + hand (手) ——> 第一手
+
+firstly / ˈfɜːstli /
+adv. （用于引出一系列陈述）首先，第一
+[例]
+1.There are two reasons for this decision: firstly. . . 做此决定理由有二：第一…《牛津词典》。
+2.It makes you look firstly at how you're treated and secondly how you treat everybody else. 它让你首先看别人怎样对待你，其次看你怎样对待别人。
+3.No, firstly, I am superman. 不，首先，我是超人。
+[搭]
+1.Primero Firstly 首先
+2.Minos visited firstly 初访米诺斯
+3.firstly y 首先；第一
+[联]firstly (首先) + ly (副词后缀) ——> 首先，最初
+
+foremost / ˈfɔːməʊst /
+adj. 最前的，最重要的
+adv. 首先，第一；最基础地，最重要地
+[例]
+1.It is first and foremost a trade agreement. 它首先是一项贸易协定。
+2.This question has been foremost in our minds recently. 近来我们的心目中一直认为这个问题最重要。
+3.He does a little teaching, but first and foremost he's a writer. 他干一点教学，但首要的是写作。
+[搭]
+1.first and foremost 首先；首要地；首要的是；首要的
+2.foremost a 首要的；最初的；第一流的；主要的
+3.head foremost 头向前地；头朝下倒栽葱
+4.first and foremost 首先；首要的是
+[联]fore + most ——> 首先的，最重要的
+
+former / ˈfɔːmə(r) /
+adj. 旧时的；以前的，前……；（两者中）前者的
+n. 模子，模型；形成某事的人（或事）；线圈架，绕线模；（机翼、机身的）翼肋
+pron. （两者中的）前者
+[例]
+1.The former option would be much more sensible. 前一种选择要明智得多。
+2.Her article showed no charity towards her former friends. 她的文章对她以前的朋友毫不宽容。
+3.He had renounced his former associates. 他已经宣布与过去的伙伴拆伙。
+[搭]
+1.Former French Mission Building 前法国外方传道会大楼；前法国传道会大楼
+2.former a 以前的；前者
+3.vacuum former 真空成形机
+4.former president 前任总统
+5.former residence 故居
+6.former name 曾用名
+[联]former (以前的，从前的) + -er (表人后缀) ——> 从前的人
+
+formerly / ˈfɔːməli /
+adv. 以前，原来
+[例]
+1.He had formerly been in the navy. 他以前在海军服役。
+2.I learnt that the house had formerly been an inn. 我得知这座房子以前是家客栈。
+3.Formerly he often lingered about [around] a park, doing nothing. 从前他时常在公园里逛荡，无所事事。
+[搭]
+1.Formerly Fur 制作皮毛；功能实在强大制作皮毛
+2.Pocket-formerly Read It Later 网页同步器；存后阅读
+3.formerly Crossair 瑞士航空公司
+[联]former (以前的) + ly (副词后缀) ——> 曾经，以前
+
+immediate / ɪˈmiːdiət /
+adj. 立刻的，即时的；目前的，紧迫的；附近的，紧接的；（关系或级别）最接近的，直系的；（两者间）直接的；（感知，反应）直觉的
+[例]
+1.She demanded an immediate explanation. 她要求立即作出解释。
+2.The immediate cause of death is unknown. 造成死亡的直接原因不明。
+3.The immediate flashpoint was Wednesday's big rally. 星期三的大集会成了直接的导火索。
+[搭]
+1.immediate inference 法,数  直接推理；即时推理；立即推理
+2.immediate shipment 交  立即装运； 水运  即刻装船；立即装船； 交  即装
+3.immediate payment 金融  即期付款
+4.immediate effect 即刻效果；[生物化学]即时效应
+5.immediate attention 注视；及时关注
+6.immediate cause 直接原因
+[联]immediate (立即的，直接的) + ly (副词后缀) ——> 立即地
+
+immediately / ɪˈmiːdiətli /
+adv. 立即，马上；紧接地，紧靠地；直接地
+conj. <英>一……就
+[例]
+1.I warmed to her immediately. 我立即喜欢上了她。
+2.She answered almost immediately. 她几乎立刻就回答了。
+3.The pain immediately eased. 疼痛立刻减轻了。
+[搭]
+1.reply immediately 速复
+2.immediately ad 直接地；紧挨着地；立即；立刻
+3.immediately allocating method 直接定址法
+4.immediately after 立即；接在…之后
+5.immediately following 紧跟着
+6.reply immediately 速复
+[联]in (不) + medi (中间) + ate (使...) + ly (副词后缀) ——> 立即，马上
 
 imminent / ˈɪmɪnənt /
-adj. 即将发生的；逼近的
+adj. 即将发生的，临近的；<古>垂悬的
 [例]
-1.An attack seemed imminent. 攻击似乎迫在眉睫。
-2.The storm clouds made the danger feel imminent. 暴风雨云让危险感显得迫在眉睫。
-3.The completion of the project is imminent. 项目的完成即将来临。
-[搭] imminent danger 迫在眉睫的危险；imminent threat 迫近的威胁
-[联] immin-（接近）+ ent（形容词后缀）——> 接近的
+1.Every one feels that a disaster is imminent, as if a catastrophe is about to come. 谁都感到大事不好，似乎有什么极大的灾难即将来临。
+2.There's been a warning about the imminent death of literate civilization for a long time. 很长一段时间以来，一直有关于文化文明即将死亡的警告。
+3.Some rickshaw pullers I met were resigned to the imminent end of their livelihood and pin their hopes on being offered something in its place. 我见过一些车夫，他们已经对他们的生活即将走到穷途末路的情形逆来顺受，寄希望于能有什么东西来代替他们。
+[搭]
+1.imminent infringement 即发侵权；商标即发侵权
+2.imminent earthquake forecast 临震预报；临震预告
+3.Imminent Crisis 一触即发
+4.imminent danger（法）迫在眉睫的危险
+5.imminent threat 紧迫的威胁；逼近的威胁
+[联]im- (不) + -minent (突出的，显著的) ——> 不突出的，即将来临的
 
-incidentally /ˌɪn.səˈden.təl.i/, /ˌɪn.səˈden.təl.ər/
-adv. 偶然地，非故意地；附带地，顺便提及
+imminently / ˈɪmɪnəntli /
+adv. 紧急地，迫切地
 [例]
-1.I met him incidentally in the park yesterday. 昨天我在公园偶然遇到了他。
-2.He mentioned incidentally that he would be leaving soon. 他顺便提到了他很快就要离开了。
-3.Incidentally, this book also covers some advanced topics. 顺便说一下，这本书还涉及了一些高级话题。
-[搭] incidentally speaking 顺便说一句
-[联] incident (事件) + -ally (形容词后缀) ——> 与事件相关地
+1.Production is set to begin imminently and the shelters could reach those in need as early as this summer. 生产即将开始，最早在今年夏天庇护所就能投入使用。
+2.The mice weren't gnawing as quickly as they might and my condition wouldn't imminently threaten my existence. 我想，老鼠咬树枝的速度也不是那么快，而且我的疾病也不会那么快地就威胁到我的生存。
+3.He is expected to announce new safety measures for the industry imminently, and to extend a moratorium on new permits. 人们预计他将紧急宣布一个针对该产业的新的安全措施，并扩大停发新许可证的范围。
+[搭]
+1.imminently dangerous 紧急危险
+[联]in (不) + min (小的) + ent (形容词后缀) + ly (副词后缀) ——> 不小的，迫在眉睫的
 
+incidentally / ˌɪnsɪˈdent(ə)li /
+adv. 顺便说一句；偶然地；附带地，伴随地
+[例]
+1.Incidentally, have you heard the news about Sue?顺便问一句，你听说过休的事了吗？《牛津词典》。
+2.The information was only discovered incidentally. 这个信息只是偶然得到的。
+3."I didn't ask you to come.  Incidentally, why have you come?"“我没有叫你来。
+[搭]
+1.incidentally ad 顺便说及地；附带地；顺便提及
+2.Capacity to learn incidentally 偶学偶得的能力
+3.incidentally mention 顺便提及
+[联]in (不，无) + cidentally (偶然地) ——> 偶然地
+
+initially / ɪˈnɪʃəli /
+adv. 开始，最初
+[例]
+1.The chick initially has no fear of man. 小鸡最初不怕人。
+2.I initially dismissed the idea out of hand. 我起初不假思索地一口否决了这个主意。
+3.Initially the system was offline for a number of days. 最初系统有几天没有联网。
+[搭]
+1.initially-at first 最初
+2.initially search 初探
+3.initially written 最初的书面；最初写；最初书面
+[联]initially (最初地，开头) + ly(副词后缀) ——> 最初地
+
+instant / ˈɪnstənt /
+adj. 立刻的，马上的；速食的，即食的；紧急的，紧迫的；<旧>（商业信函用语）本月的；<旧>此刻的，现时的
+n. 瞬间，片刻；当时，那一刻；<非正式>速溶咖啡
+[例]
+1.For an instant I was infected by her fear. 一瞬间，我被她的恐惧所感染。
+2.For an instant, Barney was tempted to flee. 那一瞬间，巴尼很想逃走。
+3.The engine delivers instant acceleration whatever the revs. 不论转速如何，发动机都可以立即加速。
+[搭]
+1.instant coffee 即溶咖啡；运动模板
+2.Instant noodles 方便面；速食面；利便面
+3.instant noodle 方便面；即食面；泡面；速食面
+4.in an instant 瞬间；马上
+5.instant messaging 即时通讯
+6.for an instant 片刻，瞬间
+[联]in + stant ——> 瞬间
+
+instantaneous / ˌɪnstənˈteɪniəs /
+adj. 瞬间发生的，瞬间完成的
+[例]
+1.Used in this way, intuition is an almost instantaneous cognitive process in which a manager recognizes familiar patterns. 在这种情况下，直觉是管理者识别熟悉模式的瞬间认知过程。
+2.To a culture which has come to take instantaneous communication for granted, as part of the very structure of civilized life, this "time barrier" may have a profound psychological impact. 对于一个将即时通讯视为文明生活结构一部分的文化来说，这种“时间障碍”可能会产生深远的心理影响。
+3.Death was almost instantaneous. 当时生命垂危。
+[搭]
+1.instantaneous relay 瞬时继电器；瞬动继电器
+2.instantaneous amplitude 瞬时振幅；瞬态振幅；瞬间振幅
+3.instantaneous compandor 瞬时压缩扩张器；瞬时压扩器；瞬时压扩器
+4.instantaneous frequency 瞬时频率
+5.instantaneous power 瞬时功率
+6.instantaneous center 瞬时中心，瞬心
+[联]in - stant - neous ——> 不停的 + 时刻 + 的 ——> 瞬间的
+
+instantaneously / ˌɪnstənˈteɪniəsli /
+adv. 即刻；突如其来地
+[例]
+1.Airbags inflate instantaneously on impact to form a cushion between the driver and the steering column. 安全气囊在碰撞时立刻膨胀，在司机和方向盘之间形成一个缓冲。
+2.I cried, forgetting instantaneously my foolish fears. 我嚷道，立刻把我那愚蠢的恐惧忘掉了。
+3.She got a cookbook out and we were eating great, instantaneously. 她拿出一本食谱书，我们很快就享受上一顿大餐。
+[搭]
+1.instantaneously ad 即刻地
+2.instantaneously type safety gear 瞬时式安全钳
+3.instantaneously changeable system 瞬变体系
+[联]in -stant -ane -ously ——> 在瞬间的、立即的、有如 INSTANT（瞬间）一般
+
+instantiate / ɪnˈstænʃɪeɪt /
+v. 例示，举例说明；（哲）有例为证
+[例]
+1.Instantiate a local JNDI Context. 实例化本地 jndi 上下文。
+2.Instantiate an object of that class. 实例化该类的一个对象。
+3.Minimally, they instantiate and destroy objects. 最低限度下，它们实例化并销毁对象。
+[搭]
+1.Instantiate Live Controls 实例化活控件；实体控件；实例控件；实体模型
+2.instantiate template 具现样板；实体控件
+3.instantiate dependency 个体关系
+[联]instant (立刻，立即) + i + date (日期) ——> 立即实例化
+
+instantly / ˈɪnstəntli /
+adv. 立刻，马上；<旧>急切地，坚持地
+conj. 一……就……
+[例]
+1.The man was killed instantly. 那人立即被杀死了。
+2.I was instantly branded as a rebel. 我立刻被归为造反者。
+3.I recognized it instantly and felt a quiver of panic. 我立刻认出它了，感到一阵惊恐的颤抖。
+[搭]
+1.Love Instantly 爱立刻
+2.instantly ad 立即
+3.Watch Instantly 立即观赏；即时看；立即看；立即观看
+[联]in + stant + ly ——> 立即的，立刻的
+
+intermediate / ˌɪntəˈmiːdiət /
+adj. 居中的，中间的；中等程度的，中级的
+n. 中级水平者，中级学生；中间事物；（化合物）中间体
+v. 充当调解人，斡旋
+[例]
+1.Students are categorized as novice, intermediate, or advanced. 学生分为新生、中级生或高级生。
+2.Honestly, the harder classes that I'm in are intermediate microeconomics. 老实说，我现在上的更难的课程是中级微观经济学。
+3.They have to assess your level and steer you to the right class, beginner, intermediate. 他们必须评估你的水平然后把你分到正确的班级，如初级班，中级班。
+[搭]
+1.intermediate filament 细胞  中间纤维；间纤维；中间丝状体； 细胞  中间丝
+2.Intermediate Egret 鸟
+3.Intermediate Region 中间区域；中间地带；中间区
+4.intermediate frequency 中频
+5.intermediate level 中间能级；中间水平
+6.intermediate product 中间产品；半成品；中间乘积
+[联]inter (之间) + medi (中间) + ate (使成为) ——> 中间状态
+
+meantime / ˈmiːntaɪm /
+adv. 同时，在此期间
+n. 其时，其间
+[例]
+1.I'll contact them soon.  Meantime don't tell them I'm back. 我会尽快和他们联系。
+2.In the meantime the war of nerves seems likely to continue. 同时心理战似乎很有可能要继续下去。
+3.My first novel was rejected by six publishers.  In the meantime I had written a play. 我的第一部小说遭到六家出版商的拒绝。
+[搭]
+1.MNTIME Meantime 同时
+2.meantime auto-spectrometer 同时式自动光谱仪
+3.Not meantime 不同时间
+4.in the meantime 在此期间；于此际
+5.at the meantime 同时
+[联]mean (意味着) + time (时间) ——> 在这段时间内
+
+meanwhile / ˈmiːnwaɪl /
+adv. 与此同时；在此期间；另一方面
+n. 其间，其时
+[例]
+1.Meanwhile, my debts were mounting up. 同时，我的债务在不断增加。
+2.Political stability, meanwhile, will be a prime concern. 与此同时，政治稳定将是头等大事。
+3.You, meanwhile, will be skulking in the safety of the car. 与此同时，你会安全地藏在汽车里。
+[搭]
+1.in the meanwhile 在此期间；与此同时；同时；在此同时
+2.Meanwhile in Switzerland 与此同时；瑞士
+3.Meanwhile I'm just standing there 然后我就在那里；然后我就开始一言不发
+4.in the meanwhile 同时；在此期间
+[联]meanwhile (同时) ——> mean (意味着) + while (当……时候) ——> 在……意味着……的时候
+
+medieval / ˌmediˈiːv(ə)l /
+adj. 中世纪的；<非正式>非常老派的，极其过时的
+[例]
+1.It is a perfect example of a medieval castle. 这是最典型的中世纪城堡。
+2.He began studying politics and medieval history. 他开始学习政治学和中世纪史。
+3.He was able to pinpoint on the map the site of the medieval village. 他能在地图上准确找出那个中世纪村庄的位置。
+[搭]
+1.Medieval philosophy 中世纪哲学
+2.Medieval music 中世纪音乐
+3.Medieval Latin 中世纪拉丁语；中古拉丁文；中古拉丁语
+[联]middle + ages ——> 中世纪
+
+medievalism / ˌmidɪˈivəlɪzəm /
+n. 中世纪精神；中世纪性质
+[例]
+
+[搭]
+1.New Medievalism 新中世纪主义
+2.neo-medievalism 新中世纪主义
+3.medievalism ideal 中世主义理想
+[联]medieval (中世纪的) + ism (主义) ——> 中世纪主义
+
+medievalist / ˌmedɪˈiːvəlɪst /
+n. 中世纪研究家；中古史学家
+[例]
+1.A medievalist at the University of Oxford, Tolkien (1892-1973) used his knowledge of European history, legends and myths to create a world that is imaginary yet utterly persuasive. 作为牛津大学的中古史学者，托尔金(1892 - 1973)运用了他所了解的欧洲历史、传说、神话，创造出一个既虚幻但又完全令人信服的世界。
+[搭]
+1.Tolkien the Medievalist 书名
+[联]medieval (中世纪的) + -ist (表示从事某领域的人) ——> 中世纪研究者
+
+midnight / ˈmɪdnaɪt /
+n. 午夜，半夜
+adj. 半夜的，午夜的
+[例]
+1.It was going on (for) midnight. 快半夜了。
+2.They had to leave at midnight. 他们不得不半夜离开。
+3.It won't go on beyond midnight. 这事不会延续到午夜以后。
+[搭]
+1.Midnight Sun 午夜阳光；太阳之歌； 天  子夜太阳；午夜太阳
+2.Midnight in Paris 午夜巴黎；情迷午夜巴黎；半夜巴黎；巴黎午夜
+3.midnight blue 午夜蓝；深夜蓝
+4.at midnight 在午夜
+5.burn the midnight oil 开夜车
+6.midnight sunn.  夜半太阳（夏季在南极或北极能见到）
+[联]mid + night ——> 中午的夜晚
+
+millennium / mɪˈleniəm /
+n. 一千年；千周年纪念日，千禧年（the millennium）；世界末日前基督治理世界的一千年（the millennium）；（作为乌托邦的）美满时期，太平盛世（the millennium）
+[例]
+1.How did you celebrate the millennium?你们是如何欢庆千禧年的？《牛津词典》。
+2.Managing ecosystems sustainably is more profitable than exploiting them, according to the Millennium Ecosystem Assessment. 根据千禧生态系统评估报告，可持续地管理生态系统比掠夺消耗它更有好处。
+3.Kofi Annan's staff devised the millennium development goals. 科菲安南的工作人员策划了千年发展目标。
+[搭]
+1.Millennium Falcon 千年隼号；千年鹰号；千年隼；千年鹰
+2.Millennium Stadium 千年球场；千禧球场；体育场；千禧体育馆
+3.Dubai Millennium 迪拜千禧；杜拜千禧
+4.millennium development goals 千年发展目标（millennium development goal 的复数）
+5.millennium bug 千年虫；千禧虫
+6.china millennium monument 中华世纪坛
+[联]millennium (一千年) + era (时代) ——> 千年时代
+
+minute / ˈmɪnɪt /
+n. 分，分钟；片刻，一会儿，瞬间；时刻；一分钟的路程；分（角度单位，即六十分之一度）；会议记录；摘要，备忘录
+adj. 极小的，微小的；详细的，细致入微的
+v. 将（某事）写进会议记录；发送备忘录
+[例]
+1.They arrived barely a minute later. 过了不到一分钟他们就到了。
+2.You don't need to minute that. 你不必记录那些。
+3.She was here just a minute ago. 刚才她还在这儿。
+[搭]
+1.minute of arc 数  角分； 数,计  弧分；壶分
+2.in a minute 一会儿；过了一会儿；马上
+3.revolutions per minute 每分钟转速； 机  每分钟转数；每分种转数
+4.every minuten.  完全，彻底；时时刻刻
+5.in a minute 马上；立即
+6.at the last minute 到最后一刻
+[联]tiny (微小的) + -ute (名词后缀，表示小的东西) ——> 分钟
+
+minutely / maɪˈnjuːtli /
+adv. 详细地；精密地
+adj. 每分钟的
+[例]
+1.The agreement has been examined minutely. 协议经过了细致入微的审查。
+2.The metal is then minutely examined to ensure there are no cracks. 之后金属被详细地检查来确保没有裂缝。
+3.The benefit of an x-ray far outweighs the minutely increased risk of cancer. x 射线的好处要远远超过细小增加地癌症风险《柯林斯英汉双解大词典》。
+[搭]
+1.Minutely create 微创
+2.minutely ad 详细地
+3.minutely serrate 有细锯齿的
+[联]minute (极小的) + -ly (副词后缀，表示方式或状态) ——> 详细地
+
+minuteness / maɪˈnjuːtnɪs /
+n. 微小，微细；精密
+[例]
+1.A difficult problem about minuteness mud was faced in the course of practice. 在工艺实践过程中，遇到了微细矿泥难处理的问题。
+2.A new method of measuring minuteness quality by using CCD sensor is introduced. 介绍一种利用 CCD 传感器对物体微小质量测量的新方法。
+3.This article introduces detailed a sort of test measure of measure minuteness indentation depth, the electrical measurement. 详细地介绍了一种用于测量微小压痕深度的测量方法——电阻法。
+[搭]
+1.Super-Precision & Minuteness Processing 超精微细加工；超精密加工和微细加工；超精微细
+2.Minuteness Processing 超精密加工和微细加工
+3.minuteness cable 微细光缆
+[联]minute (微小的) + ness (名词后缀，表示性质、状态) ——> 细节性、精确性
+
+modem / ˈmoʊdəm /
+n. 调制解调器（等于 modulator-demodulator）
+[例]
+1.What's it called again? Yeah, that's right.  A modem. 再说一遍它叫什么？好的，对，调制解调器。
+2.A minimum 28,800 bps modem is probably the slowest you'll want to put up with. 一个最低28800比特/秒的调制解调器可能是你能愿意忍受的最慢的了。
+3.He sent his work to his publishers by modem. 他通过调制解调器把作品发给他的出版商。
+[搭]
+1.Cable Modem 电缆调制解调器；线缆调制解调器；缆线数据机；缆线调制解调器
+2.ADSL Modem 宽带猫；调制解调器；路由器；上网猫
+3.fax modem 传真猫；传真调制解调器；传真模式；传真机调制解调器
+4.cable modem 有线通
+5.adsl modem 宽带调制解调器
+[联]mo (更多) + dem (示范) ——> 更多示范
+
+moment / ˈmoʊmənt /
+n. 片刻，瞬间；某一时刻；现在，目前；时机，机会；（事物发展的）关头，转折点；重大，重要；力矩；矩，动差
+[例]
+1.It was a really scary moment. 那一刻真是吓人。
+2.I wanted to savour every moment. 我要细心品味，一刻也不错过。
+3.The moment of decision had arrived. 决策的时刻已经到了。
+[搭]
+1.moment of inertia 转动惯量； 力  惯性矩；贯性矩
+2.magnetic moment 电磁  磁矩；磁力瞬间；磁偶极矩
+3.for the moment 目前；暂时；现在；此刻
+4.at the moment 此刻；当时
+5.for a moment 片刻，一会儿；暂时
+6.for the moment 暂时，暂且；目前
+[联]瞬间 + ment (名词后缀) ——> 某时、某一时刻
+
+momentarily / ˈməʊməntrəli /
+adv. 片刻地，短暂地；<美>立刻
+[例]
+1.I'll be with you momentarily. 我马上就到你这儿来。
+2.He paused momentarily. 他稍作停顿。
+3.She paused momentarily when she saw them. 她看到他们时稍停了一会儿。
+[搭]
+1.want momentarily 顷刻之间想要
+2.relax momentarily 顷刻间地放松
+3.hesitate momentarily 短暂地犹豫
+[联]moment + arity → 短暂的时间
+
+momentary / ˈməʊmənt(ə)ri /
+adj. 片刻的，短暂的；随时会发生的
+[例]
+1.The momentary relief was followed by worse suffering. 短暂的缓解之后接着是更为剧烈的痛苦。
+2.Such momentary thoughts were represented in words and passed down across generations. 这种瞬间的想法通过文字表达出来，代代相传。
+3.The lights go off, and the din of the tourists turns from a momentary grumble of protest to a greedy growl to whispered disappointment. 灯光熄灭了，一时间游客的噪声从短暂的抗议的抱怨声变成了贪婪的咆哮声，接着变成了失望的低语声。
+[搭]
+1.momentary speed 瞬间速度
+2.momentary current 瞬时电流
+3.momentary overload 瞬时过载
+[联]moment + ary ——> 持续很短的时刻
+
+momentous / məˈmentəs /
+adj. 重大的，重要的
+[例]
+1.These same cycles of change had momentous impacts on the sparse human populations of the region. 这些相同的变化周期对该区域稀少的人口产生了重大影响。
+2.In that year, two momentous discoveries were made. 那年有2项重大的新发现。
+3.Invention is momentous and fundamental to people what the soul is vital and significant to us. 对于人们来说，发明是至关重要、必不可少的，正如灵魂对人们来说是不可或缺且意义重大的一样。
+[搭]
+1.Momentous Fall 重大阵亡
+2.a momentous occasion 重要的场合
+3.momentous duty 重大责任
+[联]mom (妈妈) + entousiasm (热情) ——> 母亲的热情
+
+momentum / moʊˈmentəm /
+n. 冲力，推力；动力，势头；动量，冲量
+[例]
+1.The vehicle gained momentum as the road dipped. 那辆车顺着坡越跑冲力越大。
+2.The spinning top was losing momentum. 旋转的陀螺正在失去动量。
+3.One kind of momentum is technological momentum. 有一种动力是技术动力。
+[搭]
+1.angular momentum 物  角动量；动量矩；影格拉；安格蒙特
+2.momentum operator 动量算符； 力  动量算子；角动量算符
+3.Four-momentum 四维动量
+4.angular momentum[化]角动量
+5.momentum equation 动量方程
+6.momentum conservation 动量守恒
+[联]mom (妈妈) + entum (谐音) ——> 妈妈推着小车前进时的冲劲
+
+monthly / ˈmʌnθli /
+adj. 每月的，每月一次的；按月支付的，按月计算的；（票、通行证等）有效期为一个月的
+n. 月刊
+adv. 每个月，每月一次
+[例]
+1.We issue a monthly newsletter. 我们出版一份通讯月刊。
+2.The agency will pay you a monthly retainer. 这个机构将会每月付给你聘用金。
+3.We went to renew our monthly season ticket. 我们去续了月票。
+[搭]
+1.monthly statement 金融  月结单；月结；每月结帐；对账单
+2.Atlantic Monthly 大西洋月刊；大西洋半月刊；年夜西洋月刊
+3.monthly report 会计  月报；月报表；月度报告；月报告
+[联]month (月) + -ly (形容词后缀，表示“每……的”) ——> 每月的
+
+night / naɪt /
+n. 夜间，夜晚；晚上，傍晚；<文>黄昏；（特殊活动之）夜；黑夜，夜色；挫败时期
+adj. 夜晚的；夜晚使用的；夜间进行的；夜晚活动的
+int. 晚安（goodnight 的简称）
+[例]
+1.Roses scented the night air. 夜空中弥漫着玫瑰花香。
+2.Night was fast approaching. 黑夜迅速降临。
+3.Music filled the night air. 夜空荡漾着乐声。
+[搭]
+1.Silent Night 平安夜；寂静的夜；安全夜
+2.Date Night 约会之夜；好事多磨
+3.Fright Night 吸血鬼就在隔壁；新天师斗僵尸；惊魂之夜
+4.at night 在夜里
+5.last night 昨晚
+6.in the night 在夜里
+[联]night (夜晚) + mare (拉丁语，意思是海) ——> 月海 (指月球表面 darker regions that were once thought to be seas)
+
+nightfall / ˈnaɪtfɔːl /
+n. 黄昏；傍晚；日暮
+[例]
+1.I need to get to Houston by nightfall. 我需要在黄昏时赶到休斯顿。
+2.They had advanced 20 miles by nightfall. 夜幕降临时，他们已推进了20英里。
+3.By nightfall the whole city was burning. 到黄昏时，全城已是一片火海。
+[搭]
+1.Nightfall in Pamplona 日落
+2.Just Before Nightfall 夜幕刚降临之前
+3.towards nightfall 到夜幕降临时
+[联]night (夜晚) + fall (落下) ——> 夜幕降临
+
+nightingale / ˈnaɪtɪŋɡeɪl /
+n. 夜莺
+n. （Nightingale）人名；（英）奈廷格尔
+[例]
+1.Poor Jorindel saw the nightingale was gone—but what could he do?可怜的约雷德尔看到夜莺不见了——可他又能怎么办呢？。
+2.Florence Nightingale was a nurse who saved many people in the 19th century. 弗洛伦斯·南丁格尔是一名护士，她在19世纪救了很多人。
+3.She mumbled something to herself, seized the nightingale, and went away with it in her hand. 她喃喃自语了几句，抓住了夜莺，然后拿着它走了。
+[搭]
+1.Florence Nightingale 弗罗伦斯·南丁格尔；南丁格尔；弗洛伦斯·南丁格尔；佛罗伦萨·南丁格尔
+2.The Nightingale 夜莺；上一篇作文；丑小鸭
+3.Ode to a Nightingale 夜莺颂；夜莺歌；济慈
+4.florence nightingale 弗洛伦斯·南丁格尔（英国护士）
+[联]night (夜晚) + ingale (无实际意义，但可联想eagle表示鹰) ——> 夜莺
+
+nightly / ˈnaɪtli /
+adj. 每晚的，每夜的
+adv. 每晚地
+[例]
+1.She appears nightly on the television news. 她每晚都在电视新闻中出现。
+2.To be sure, the battery still has a long way to go before the nightly recharge completely replaces the weekly trip to the gas station. 诚然，在夜间充电完全取代每周去加油站之前，电池还有很长的路要走。
+3.At about age 15 or so, the men voluntarily began cutting down their nightly sleep time because of pressures from school, work, and other activities. 在大约15岁左右的时候，由于学校、工作和其他活动的压力，这些男性自愿开始减少夜间睡眠时间。
+[搭]
+1.NBC Nightly NewsNBC 晚间新闻；NBC 夜间新闻；晚间新闻；全国广播公司晚间新闻
+2.Nightly Build 每日构建；逐日构建；每晚更新；每晚构建
+3.Nightly News 晚间新闻；夜间新闻
+[联]night (夜晚) + ly (形容词后缀) ——> 每晚的
+
+nightmare / ˈnaɪtmer /
+n. 噩梦；可怕的经历，很难对付的人（或情形）
+[例]
+1.Maureen put the nightmare behind her. 莫琳将噩梦抛诸脑后。
+2.The years in prison were a nightmare. 数年的铁窗生涯是一场噩梦。
+3.Our dream holiday turned into a nightmare. 我们梦想的假日变成了一场噩梦。
+[搭]
+1.A Nightmare On Elm Street 猛鬼街；新猛鬼街；榆树街噩梦；参演两部
+2.The Nightmare Before Christmas 怪诞城之夜；圣诞夜惊魂；圣诞惊魂夜；中英双语字幕高清版
+3.Nightmare in the Dark 午夜噩梦；午夜恶梦；黑夜中的恶梦；黑暗守墓者
+[联]night (夜晚) + mare (马) ——> 夜晚的噩梦
+
+ongoing / ˈɑːnɡoʊɪŋ /
+adj. 持续存在的，仍在进行的，不断发展的
+[例]
+1.When Pemberton created his drink, it represented an ongoing trend. 当彭伯顿发明他的饮料时，它代表了一种持续的趋势。
+2.The police investigation is ongoing. 警方的调查在持续进行中。
+3.There is an ongoing debate on the issue. 关于这个问题争论还在继续。
+[搭]
+1.Ongoing market research 持续地市场分析调研；持续地市场分析
+2.ongoing work 正在进行的工作
+3.ongoing item 正在进行的项目
+[联]on (一再) + going (进行) ——> 一再进行
+
+opening / ˈoʊpənɪŋ /
+n. 洞，缺口；开始，开端；开幕式，落成典礼；国际象棋的开局；首次发生，首演；开案陈述；机会，机遇；空缺的职位；开放，开业；开，打开；<美>（林中）空地；开襟，开口
+adj. 开始的，开端的
+v. 打开，开启；开放，展开；开业，开门（open 的现在分词形式）
+[例]
+1.He muffed his opening speech. 他搞砸了自己的开幕讲话。
+2.The skirt has a side opening. 这裙子是侧面开口的。
+3.She began opening a can of tuna. 她开始打开一罐金枪鱼。
+[搭]
+1.opening ceremony 开幕式；开幕典礼；开学典礼；揭幕式
+2.SLEEVE OPENING 袖口；袖口阔；袖口宽；袖口儿
+3.opening price 金融  开盘价； 金融  开盘价格；开市价； 物价  开价
+4.opening up 开放，扩大开放；疏通，打通；开发矿山
+5.opening ceremony 开学典礼；开幕式；开幕仪式；开幕典礼
+6.at the opening 开盘价；按开市价盘；开盘指令；开盘委托
+[联]open (打开) + ing (现在分词后缀) ——> 开始、开端
+
+overnight / ˌoʊvərˈnaɪt /
+adv. 在夜间，在晚上；突然，一夜之间
+adj. 夜间的，只供一夜的；突然的，一夜之间的
+v. 过夜；<美>连夜快递（货物）
+n. 一夜的逗留
+[例]
+1.I camped overnight in a field. 我在田野里露营过夜。
+2.Almost overnight I was cured. 几乎在一夜之间我被治愈了。
+3.I usually soak the beans overnight. 我通常把豆子泡一夜。
+[搭]
+1.Overnight Delivery 爱情快递；隔夜送达；补镬情缘； 金融  隔夜交割
+2.overnight ad 突然；在头一天晚上
+3.overnight margin 隔夜按金；隔夜保证金；隔夜包管金
+[联]overnight (整夜) + sleep (睡觉) ——> 整晚不睡
+
+periodically / ˌpɪəriˈɒdɪkli /
+adv. 定期地，周期性地；偶尔，间歇
+[例]
+1.Mailing lists are updated periodically. 邮寄名单定期更新。
+2.Meetings are held periodically to monitor progress on the case. 定期召开会议监控案件的进展情况。
+3.Periodically, starfish population explodes. 海星的数量会周期性地激增。
+[搭]
+1.periodically operated switch 电,自  周期动作开关
+2.Reconciliation with suppliers periodically 定期地与供应商对账
+3.post periodically 定期公布
+[联]period (一段时间) + odically (有规律地) ——> 周期性地
+
+permanent / ˈpɜːrmənənt /
+adj. 永久的，永恒的；（尤指问题或困难）不断出现的，一直存在的；（员工）终生的，长期的；（家庭住址）固定的
+n. <美>烫发
+[例]
+1.The accident has not done any permanent damage. 那场事故没有造成什么永久性损伤。
+2.She has been granted permanent residency in Britain. 她获准在英国永久居住。
+3.Heavy drinking can cause permanent damage to the brain. 饮酒过量可能造成永久性脑损伤。
+[搭]
+1.permanent magnet 电  永磁体；永久磁铁； 电  永磁铁；永磁
+2.permanent address 永久住址；永久地址；永久通信地址；永久居住地
+3.permanent resident 永久居民；长期定居者
+4.permanent magnet 永久磁铁
+5.permanent residence 长期居留
+6.permanent resident 永久性居民
+[联]per (每) + manent (坚持的) ——> 永恒的
+
+permanently / ˈpɜːmənəntli /
+adv. 永久地；（问题或困难）不断发生地，一直存在地
+[例]
+1.She had decided to settle permanently in France. 她已经决定永久定居法国。
+2.The blast left him with permanently impaired hearing. 爆炸造成了他永久性听力损伤。
+3.His confidence had been permanently affected by the ordeal. 他的信心已永久地被这次磨难影响了。
+[搭]
+1.Permanently Moved 性转移；永久性转移
+2.Moved Permanently 永久移动；永久移除；被永久移动；客户试图访问的资源已移到新的永久位置
+3.permanently discontinued business 永久停业
+[联]permanent (永久的) + ly (副词后缀) ——> 永久地
+
+precedent / ˈpresɪdənt /
+n. 先例，前例；判例，实例；常规，惯例
+adj. 在先的，前面的
+[例]
+1.They were determined to break from precedent. 他们决心打破先例。
+2.The ruling set a precedent for future libel cases. 这项裁决为今后的诽谤案提供了判例。
+3.The trial could set an important precedent for dealing with similar cases. 这次审判能为处理类似案件开创一个重要先例。
+[搭]
+1.Condition precedent 先决条件；前提条件
+2.binding precedent 具有约束力的判例；有约束力的判例；有约束力的先例
+3.precedent partner 首合伙人；需由首席合伙人
+4.judicial precedent 司法判例
+5.condition precedent 先决条件
+6.conditions precedent 先决条件
+[联]precedent (先例，前例) + -ent (形容词后缀) ——> 先例，前例
+
+precedential / ˌpresɪˈdenʃəl /
+adj. 有先例的；优先的
+[例]
+1.Not all cases are published, however, and there is considerable debate in many jurisdictions about the precedential value of unpublished decisions. 不是所有的案例会出版，然而，关于未出版的判例的先例性价值在诸多管辖地有着大量的争论。
+[搭]
+1.precedential support 判例支持
+2.precedential effect 优先效应
+[联]precedent (先例) + ial (形容词后缀) ——> 具有先例意义的
+
+preceding / prɪˈsiːdɪŋ /
+adj. 先前的，前面的
+v. 在……之前发生（或出现）；走在……前面（precede 的现在分词形式）
+[例]
+1.As we saw in the preceding chapter, groups can be powerful agents of socialization. 如我们在前一章所见，团组可以是社会化的有力动因。
+2.She informed us that eighteen members of the staff had left during the preceding year. 她当时告知我们，18位教职员在此前的一年里离开了。
+3.We shall be known better than any preceding generations. 我们将比前几代人更出名。
+[搭]
+1.preceding year basis 税收  以上年度为基础；上年度评税基期
+2.preceding limb 西边缘； 天  前导边缘
+3.preceding quarter 上季度
+[联]pre (之前) + ceding (与cede“让步、放弃”相关，这里可理解为“让出”) ——> 先前的、在……之前的
+
+present / ˈprez(ə)nt; prɪˈzent /
+adj. （人）在场的，出席的；（事物）存在的；现在的，目前的；考虑中的，正在讨论的；（语法）现在时（态）的；历历在目的
+n. 现在，目前；礼物，赠品；（语法）现在时；（举枪的）瞄准（姿势）
+v. 颁发，赠送；出示（护照等供检查）；正式提交（支票，账单）；<正式> 正式引见，介绍；正式出席，到场；引起，造成；<正式>表达（歉意等）；提出，陈述；上映，播出；展示，表现；<英> 主持（广播或电视节目）；把……对准；<医>（病人）呈现症状
+[例]
+1.Her letters conflate past and present. 她的信把过去与现在结合在一起。
+2.She chose the present with loving care. 她满怀爱意精心挑选了这件礼物。
+3.They wrote thanking us for the present. 他们写信来感谢我们赠送的礼物。
+[搭]
+1.At present 目前；现在
+2.present value 金融  现值；现时值；当前值
+3.Net Present Value 净现值法； 金融  净现值；现值净额
+4.present oneself 出席
+5.at present 目前，现在
+6.present situation 现状
+[联]present (礼物) + -ent (形容词后缀) ——> 当前的、出席的
+
+presentation / ˌpriːz(ə)nˈteɪʃ(ə)n /
+n. （颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示；（证物的）提交，提供；（戏剧的）演出；（胎儿的）先露位置，产位；（尤指在帝王前）正式引见，引……朝见；<史>（圣职等的）推荐
+[例]
+1.A computer software glitch fouled up their presentation. 一个电脑软件故障弄砸了他们的展示会。
+2.I am making a multimedia presentation for my science project. 我正在为我的科学项目做多媒体演示。
+3.Computer graphics will give your presentation the professional touch. 计算机绘图将会使你的演示具有专业特色。
+[搭]
+1.Presentation Layer 计  表示层；表现层；表达层
+2.Cross-presentation 交叉呈递；交叉提呈；交叉递呈
+3.oral presentation 口头报告；口头陈述；口头演讲；口头发言
+4.oral presentation 口头报告；口头陈述；口头演讲
+5.presentation skilln.  演讲技巧；表达技巧
+6.visual presentation 视觉显示；可视图像
+[联]pre (之前) + sent (发送) + ation (名词后缀) ——> 在之前发送的东西
+
+prior / ˈpraɪər /
+adj. 先前的，事先的；<正式>优先的，更重要的；<正式>在前面的（prior to）
+n. <美，非正式>犯罪前科；小修道院院长；大修道院副院长；托钵会会长
+[例]
+1.Visits are by prior arrangement. 参观需要事先安排。
+2.The firm I wanted to use had prior commitments. 我选择的那家公司有优先承诺。
+3.He claimed he had no prior knowledge of the protest. 他声称他事先对那次抗议一无所知。
+[搭]
+1.prior probability 数  先验概率；事先概率；前概率
+2.prior to 在前；居先；先于
+3.prior art 现有技术；先有技术；先技术
+4.prior notice 事先通知；预先通报
+5.prior art 先前技术
+6.prior approval 事先批准；预先审批；事前批准；事前许可；预先核准
+[联]prior (优先的) + ity (名词后缀) ——> 优先级
+
+prioritize / praɪˈɔːrətaɪz /
+v. 按优先顺序列出；优先考虑（处理）
+[例]
+1.The organization was formed to prioritize the needs of older people. 这个机构是为优先满足老年人的需要而成立的。
+2.Prioritize what is essential to their best advantage. 优先考虑对他们最有利的重要因素。
+3.They prioritize their favored activity over what they should do. 他们优先考虑他们喜欢的活动而不是他们应该做的事情。
+[搭]
+1.Rank and prioritize 等级与优先；权重排列；与优先
+2.You don't prioritize me 你从来就不先考虑我
+3.Prioritize Requirements 划分优先级；需求优先排序
+[联]prioritize (优先处理) + ity (名词后缀) ——> 优先级
+
+priority / praɪˈɔːrəti /
+n. 优先事项，最重要的事；优先，优先权，重点；<英>优先通行权
+adj. 优先的
+[例]
+1.Club members will be given priority. 俱乐部成员享有优先权。
+2.Buses have priority at this junction. 在这个路口，公共汽车有优先通行权。
+3.Cleaning up the water supply is their top priority. 清洗供水系统是他们的首要任务。
+[搭]
+1.Aperture Priority 光圈优先；光圈先决；光圈优先模式；人像摄影必选
+2.Shutter Priority 快门优先；快门先决；快门优先模式；快门先决模式
+3.Priority Inheritance 优先级继承；继承策略；优先权继承；一种被称作优先级传承
+4.give priority to 优先考虑；认为优先
+5.top priority 最优先的
+6.first priority 最优先；绝对优先权
+[联]prior (优先的) + ity (表名词后缀) ——> 优先权
+
+punctual / ˈpʌŋktʃuəl /
+adj. 准时的，守时的；<旧>精确的；（语法）（动作）瞬息性的
+[例]
+1.She has been reliable and punctual. 她一直可靠守时。
+2.He's always very punctual.  I'll see if he's here yet. 他一向很准时。
+3.A man who gets up at seven o'clock every morning is punctual. 每天早上七点起床的人是守时的。
+[搭]
+1.punctual timing 走时准确；走时正确
+2.be punctual 英文家庭版；按时
+3.be punctual to the minute 非常准时；一分不差；非常守时；十分准时
+[联]punct (点) + ual (相似的) ——> 准时的
+
+punctuality / ˌpʌŋktʃuˈæləti /
+n. 准时性
+[例]
+1.She lays great stress on punctuality. 她十分注重守时。
+2.They're very hot on punctuality at work. 他们很重视工作守时。
+3.He's becoming more and more obsessive about punctuality. 他对守时要求越来越过分了。
+[搭]
+1.Punctuality-论守时；守时
+2.Punctuality Cheerful 正点欢快
+3.a punctuality 守时的
+[联]punc (标点) + tuality (性质，状态) ——> 准时性的性质
+
+punctually / ˈpʌŋktʃuəli /
+adv. 准时地，如期地
+[例]
+1.My guest arrived punctually. 我的客人准时到了。
+2.Punctually at nine o'clock the doctor arrived. 医生准时在九点钟到达。
+3.They always pay punctually. 他们一向按时付款。
+[搭]
+1.attend punctually 准时参加
+2.discharge punctually 准时离开
+3.work punctually 准时地工作
+[联]punct (点) + u + ctually (实际上) ——> 准时地
+
+quarter / ˈkwɔːrtər /
+n. 四分之一；一刻钟，十五分钟；季度，三个月；<美>学季，四分之一学年；（城镇中的）区；个人，群体；（士兵、服务人员等的）营房；上弦（或下弦）月；（美式足球的）一节；（美国和加拿大的）二十五分硬币；四分之一磅；（对败者的）宽恕，仁慈；四分之一畜体（或鸟身）；（马的）腰腿，臀部及后腿（quarters）；（罗盘上四个点之一所指的）方向；船侧后部；盾的四分之一
+v. 将……四等分；把……降至原先的四分之一；提供食宿；在（某处）来回走动；移动，斜向行进；展示，炫耀（盾的四分之一部位上的不同纹章）
+adj. 四分之一的
+[例]
+1.Nowitzki fouled Mitchell early in the third quarter. 在第三节早些时候，诺维斯基就对米切尔犯了规。
+2.It's (a) quarter to four now—I'll meet you at (a) quarter past. 现在是差一刻四点，我会在四点一刻和你碰面。
+3.The moon is in its first quarter. 月亮正处于上弦。
+[搭]
+1.Jewish quarter 犹太区；犹太人区；犹太人居住区
+2.French Quarter 法国区；法国街区；法国角；法语区
+3.Gothic Quarter 哥特区；歌特区；哥德区
+4.first quarter 第一个季度；上弦月；上弦
+5.fourth quarter 第四季度；第四节
+6.a quarter of 四分之一的；四分之一
+[联]quarter (四分之一) + moon (月亮) ——> 月相的四分之一阶段
+
+quarterly / ˈkwɔːrtərli /
+adj. 季度的，每季的；（盾，图记）纵横划成四（或更多）部分的
+adv. 一季一次地，按季度；（纹章）在盾的四分之一部分（或对角两部分）上
+n. 季刊
+[例]
+1.Their quarterly meetings were anodyne affairs. 他们的季度会议是平淡乏味的事情。
+2.A full listing of the companies will be published quarterly. 公司名录大全每季度出版一次。
+3.Clients normally pay fees in advance, monthly, quarterly, or yearly. 客户们通常提前付费，或按月，或按季度，或按年。
+[搭]
+1.The China Quarterly 中国季刊；英文中国季刊
+2.McKinsey Quarterly 麦肯锡季刊；麦肯锡高层管理论丛；麦肯锡季报；麦肯钖季刊
+3.Social Psychology Quarterly 社会心理学季刊
+4.quarterly report 季报，季度报告
+[联]quarterly (季度的，每三个月一次) ——> quarter (四分之一) + ly (副词后缀) ——> 每个季度的
+
+recent / ˈriːs(ə)nt /
+adj. 最近的，最新的；（地质）全新世的 （Recent）
+[例]
+1.He seems unabashed by his recent defeat. 他似乎不为近期的失败感到羞耻。
+2.These bushes are fairly recent plantings. 这些灌木丛是最近栽植的。
+3.A recent book has demolished this theory. 最近出版的一本书推翻了这种理论。
+[搭]
+1.Open Recent 最近打开文件；打开最近的；打开近期访问过的文件；打开最近的文件
+2.recent call 近来的呼叫；通话记录；迩来的呼叫；近来的呼唤
+3.Recent Commands 当前命令；最近使用过的命令；最近的命令；当前下令
+4.in recent years 最近几年中
+5.recent development 最近发展，最新发展
+6.more recent 较新的
+[联]recent (最近的) + ly (副词后缀) ——> 最近地
+
+recently / ˈriːs(ə)ntli /
+adv. 最近，不久前
+[例]
+1.Prices have gone down recently. 最近物价下降了。
+2.I've gained weight recently. 最近我的体重增加了。
+3.He's been overdoing things recently. 他最近过于努力了。
+[搭]
+1.recently a 近来的；最近的；目前的
+2.Least Recently Used 科技  最近最少使用；算法；最近最久未使用；最近使用
+3.Recently launched 近期推出
+4.until recentlyadj.  直到最近
+[联]recently (最近) ——> rec (再次) + ent (名词后缀，表事物) + ly (副词后缀) ——> 最近
+
+up-to-date / ˌʌp tə ˈdeɪt /
+adj. 包含最新信息的；现代的，时髦的
+[例]
+1.You need an up-to-date Web browser. 你需要一个最新的网络浏览器。
+2.Web services are always up-to-date and available. 网络服务总是最新的且随时可用。
+3.Make sure your vaccinations are up to date. 一定要接种最新的疫苗。
+[搭]
+1.up to date 时新的；在进行中；现代的；最新式的
+2.up-to-date styling 款式新颖；款式新奇；款式新鲜；格式新鲜
+3.bring me up-to-date 告诉我最新消息；给我最新的消息
+4.keep up-to-date 赶时髦
+[联]up- (向上) + to (到) + date (日期) ——> 与时代同步
+
+yearly / ˈjɪrli /
+adj. 一年一次的，每年的；年度的，一年的
+adv. 一年一次地，每年地
+n. 年刊，年鉴
+[例]
+1.The two sisters looked forward to their yearly meetings. 姐妹俩期盼着她们一年一度的会面。
+2.In Holland, the government sets a yearly budget for health care. 在荷兰，政府设有一个保健年度预算。
+3.Pay is reviewed on a yearly basis. 工资每年审查一次。
+[搭]
+1.Yearly Salaries 年收入；随便点一个
+2.yearly installment 按年分期付款
+3.yearly rent 每年租金；年租
+4.yearly output 年产量
+5.yearly income 岁入， 年度收入
+6.yearly report 年报
+[联]year (年) + ly (形容词后缀) ——> 每年的

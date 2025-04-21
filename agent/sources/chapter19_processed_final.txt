@@ -1,1274 +1,3311 @@
-pioneer /ˌpaɪəˈnɪr/, /ˌpɪərəˈnɪr/
-n. 先锋，开拓者；先驱
-v. 开拓，开发
+accompaniment / əˈkʌmpənimənt /
+n. 伴奏；伴随物
 [例]
-1.Pioneers risked their lives to open up the American West. 先锋们冒着生命危险开辟了美国西部。
-2.The company is a pioneer in the field of biotechnology. 这家公司是生物技术领域的先驱。
-3.She pioneered a new method of teaching English. 她开创了一种新的英语教学方法。
-[搭] 
-1.pioneer work 开创性工作
-2.pioneer spirit 开拓精神
-[联] pie (派)+ neer (谐音) ——> 想象一个吃着派走在开拓路上的人
-
-prophet /ˈprɑːfɪt/
-n. 先知，预言家
-[例]
-1.The prophet foretold the coming of the Messiah. 先知预言了救世主的到来。
-2.In many cultures, prophets are believed to have divine inspiration. 在许多文化中，先知被认为受到神的启示。
-3.The prophet's words were often cryptic and difficult to interpret. 先知的话语常常晦涩难懂。
-[搭] 
-1.prophetic vision 预言性的视野
-2.prophet of doom 不祥之兆
-[联] pro (前)+ phet (谐音) ——> 提前知道未来的人
-
-herald /ˈherəld/
-n. 使者，预告者；报信人
-v. 宣告，预示
-[例]
-1.The arrival of spring is heralded by the blooming of cherry blossoms. 樱花盛开预示着春天的到来。
-2.The news was heralded as a major breakthrough. 这一消息被宣布为重大突破。
-3.The newspaper heralded the discovery of a new planet. 报纸报道了新行星的发现。
-[搭] 
-1.herald change 宣告变革
-2.herald the dawn of a new era 宣告新时代的来临
-[联] her (这里)+ ald (谐音) ——> 想象一个穿着古代服装的使者
-
-heir /ɛr/
-n. 继承人，嗣子
-[例]
-1.He is the heir to a vast fortune. 他是巨额财产的继承人。
-2.The throne will pass to the heir apparent. 王位将传给王储。
-3.She was the sole heir to her father's estate. 她是她父亲遗产的唯一继承人。
-[搭] 
-1.heir apparent 显然的继承人
-2.heir presumptive 假定继承人
-[联] he (他)+ ir (谐音) ——> 他将来的所有者
-
-successor /səkˈsɛsər/
-n. 接替者，继任者
-[例]
-1.The new CEO is a successor to the former leader. 新任CEO是前任领导的继任者。
-2.The successor took over the project after his predecessor left. 接替者在前任离开后接手了这个项目。
-3.The successor was well-prepared for the new role. 接替者为新角色做好了充分准备。
-[搭] 
-1.successor and predecessor 前任与继任
-2.line of succession 继承顺序
-[联] suc (成功)+ cessor (谐音) ——> 成功接棒的人
-
-generation /ˌdʒɛnəˈreɪʃən/
-n. 一代人；产生，发生；代
-[例]
-1.The younger generation has different values from the older one. 年轻一代的价值观与老一代不同。
-2.New ideas are constantly being generated. 新想法不断涌现。
-3.This technology will revolutionize a generation of industries. 这项技术将彻底改变一代产业。
-[搭] 
-1.a generation gap 代沟
-2.generation gap 缺乏共同语言
-[联] gen (出生)+ eration (谐音) ——> 出生的一代
-
-surname /ˈsɜːrˌneɪm/
-n. 姓氏
-[例]
-1.His surname is Johnson. 他的姓氏是约翰逊。
-2.What is your surname? 你姓什么？
-3.The surname is an important part of identity. 姓氏是身份的重要组成部分。
-[搭] 
-1.change one's surname 改姓
-2.family surname 家族姓氏
-[联] sur (上面)+ name (名字) ——> 上面的名字
-
-gender /ˈdʒɛndər/
-n. 性别
-[例]
-1.The gender ratio in this class is balanced. 这个班的性别比例是平衡的。
-2.Gender equality is a fundamental human right. 性别平等是一项基本人权。
-3.The book explores issues of gender and identity. 这本书探讨了性别和身份的问题。
-[搭] 
-1.gender roles 性别角色
-2.gender discrimination 性别歧视
-[联] gen (出生)+ der (谐音) ——> 出生时的不同
-
-sex /sɛks/
-n. 性别，性；（生物）性别
-[例]
-1.Male and female are two sexes. 雄性和雌性是两种性别。
-2.The study focuses on the differences between the sexes. 这项研究关注两性之间的差异。
-3.Sex education is important for teenagers. 性教育对青少年很重要。
-[搭] 
-1.sex education 性教育
-2.sex difference 性别差异
-[联] s (施)+ ex (排除) ——> 施加于身体的
-
-female /ˈfiːmeɪl/
-adj. 女性的；雌性的
-n. 女性；雌性动物
-[例]
-1.The female workers received equal pay. 女性工人获得了同等报酬。
-2.The female students outnumbered the male ones. 女学生人数多于男生。
-3.Female athletes are breaking records. 女运动员正在打破记录。
-[搭] 
-1.female role 女性角色
-2.female workforce 女性劳动力
-[联] fe (发)+ male (男性) ——> 发出与男性不同的
-
-couple /ˈkʌpəl/, /ˈkʌpl/
-n. 一对，一双；夫妻，配偶
-[例]
-1.They have been a happy couple for ten years. 他们已经做幸福的一对十年了。
-2.I saw a couple walking hand in hand in the park. 我看到一对夫妻在公园里手牵手散步。
-3.A couple of days ago, I met my old friend. 几天前，我遇到了我的老朋友。
+1.They performed to the accompaniment of guitars. 他们在吉他的伴奏下表演。
+2.He sang "My Funny Valentine" and "Wanted" to musical director Jim Steffan's piano accompaniment. 他在音乐总监吉姆·斯蒂芬的钢琴伴奏下演唱了《我可爱的情人》与《需要有人爱》。
+3.The pianist improvised an accompaniment to the song. 那位钢琴家为那首歌即席伴奏。
 [搭]
-1.a couple of 两个，几个
-2.couple with 将...连接在一起
-[联] couple由“cup”（杯子）演变而来，想象两只杯子成双。
+1.MUSIC ACCOMPANIMENT SCORES FOR GRADE 第六级教材伴奏曲谱
+2.piano accompaniment 钢琴伴奏；回来我身边；悲怆第四乐章；钢琴伴奏教程
+3.sound accompaniment 伴音
+4.to the accompaniment of 在…的伴奏下
+[联]accompaniment (伴奏；伴随物) + music (音乐) ——> 乐曲的伴奏部分
 
-spouse /spaʊz/
-n. 配偶，夫妻
+accompany / əˈkʌmpəni /
+v. 陪伴，陪同；伴随，与……一起发生；为……伴奏（或伴唱）；附带，补充
 [例]
-1.My spouse is my best friend. 我的配偶是我最好的朋友。
-2.She divorced her spouse last year. 去年她和她的配偶离婚了。
-3.He is a supportive spouse. 他是一个支持性的配偶。
+1.Ken agreed to accompany me on a trip to Africa. 肯同意陪我去非洲旅行。
+2.Barron invited her to accompany him to the races. 巴伦邀请了她陪他去看比赛。
+3.Government monitors will continue to accompany reporters. 政府监督员们将继续陪同记者们。
 [搭]
-无特殊搭配
-[联] spouse与“spit”（吐出）同源，意为亲密关系中的人。
+1.DOCUMENT TO ACCOMPANY AIRR WAYBILL 货运单所附文件
+2.Accompany With Me 我的依赖；陪陪我；伴随着我
+3.Accompany each other intimately 卿卿我我
+4.accompany with 伴随着，兼带着；陪…同行
+5.accompany by 随行，伴奏；在…的陪同下
+[联]ac - company ——> 一起旅行
 
-husband /ˈhʌzbənd/
-n. 丈夫；经营者，管理者
+actress / ˈæktrəs /
+n. 女演员
 [例]
-1.My husband is very kind. 我的丈夫非常善良。
-2.He works hard to be a good husband. 他努力做一个好丈夫。
-3.As a husband, he is responsible. 作为丈夫，他很负责任。
+1.Her vocation is her work as an actress. 她适合的职业就是当演员。
+2.She fancies herself (as) a serious actress. 她自以为是严肃的演员。
+3.Jane is determined to stake her claim as an actress. 简决心提出她作为一名女演员的应有权利。
 [搭]
-1.be a good husband 成为一个好丈夫
-[联] husband由“house”（家）+ “band”（带子）组成，意为家庭的支柱。
+1.Best Actress 最佳女演员；威尼斯电影节；最佳女主角奖
+2.film actress 女电影明星；电影女演员；女影戏明星；女片子明星
+3.Actress in a Leading Role 最佳女主角；最佳女配角；女主角
+[联]act + ress ——> act (行动) + ress (女性 suffix) ——> 女演员
 
-gay /geɪ/
-adj. 同性恋的；快乐的；鲜艳的 n. 同性恋者
+adolesce / ˌædəˈles /
+vi. 进入青春期；如青春期少年般行事
 [例]
-1.He is a gay man. 他是一个同性恋者。
-2.Gay rights are human rights. 同性恋权利是人权。
-3.The music made everyone feel gay. 这音乐让每个人感到快乐。
+1.adj. adolescent 青春期的；未成熟的。
+2.n. adolescent 青少年 adolescence 青春期。
 [搭]
-无特殊搭配
-[联] gay原指“明亮的”，后来引申为“快乐的”，最终用于描述同性恋。
+1.Hotel Adolesce 青少年酒店
+2.Adolesce e 青年期；进入青春期
+3.adolesce nt children 青春期儿童
+[联]adolesce (渐渐成长) + cent (中心) ——> 逐渐成为中心
 
-grandfather /ˈgrændˌfɑːðər/
-n. 祖父；外祖父
+adolescence / ˌædəˈles(ə)ns /
+n. 青春期，青春
 [例]
-1.My grandfather taught me how to fish. 我的祖父教我钓鱼。
-2.His grandfather is over eighty. 他的祖父已年过八十。
-3.All the grandchildren love their grandfather. 所有孙辈都爱他们的祖父。
+1.No one knows for sure why adolescence is unique to humans. 没人确切知道为什么青春期是人类独有的。
+2.The play is set in the dangerous no-man's land between youth and adolescence. 该剧定位于少年和青春期之间的危险的中间年龄段。
+3.Some young people suddenly become self-conscious and tongue-tied in early adolescence. 一些年青人在青春期早期突然变得害羞结舌。
 [搭]
-无特殊搭配
-[联] grandfather由“grand”（大的）+ “father”（父亲）组成。
+1.Adolescence Medley 青春期集成曲
+2.adolescence or puberty 青春期
+3.education of adolescence 青春期教育
+4.late adolescence 青春晚期
+[联]adolescence (青春期) + education (教育) ——> 青春期教育
 
-father-in-law /ˈfɑːðər ɪn lɔːr/
-n. 岳父；公公
-[例]
-1.My father-in-law is a doctor. 我的岳父是一名医生。
-2.Her father-in-law likes gardening. 她的公公喜欢园艺。
-3.Their father-in-law is a strict man. 他们的岳父是个严厉的人。
-[搭]
-无特殊搭配
-
-sibling /ˈsɪblɪŋ/
-n. 兄弟或姐妹
-[例]
-1.My sibling is younger than me. 我的兄弟姐妹比我小。
-2.Siblings often fight but still love each other. 兄弟姐妹常常争吵但仍然相爱。
-3.Everyone has at least one sibling. 每个人至少有一个兄弟姐妹。
-[搭]
-无特殊搭配
-[联] sibling由“sib”（亲属关系）+ “ling”（小的）组成。
-
-cousin /ˈkʌzn/
-n. 堂兄弟，表兄弟；堂姐妹，表姐妹
-[例]
-1.My cousin lives next door. 我的堂兄住在隔壁。
-2.She is my cousin. 她是我的表妹。
-3.Cousins often visit each other. 堂兄弟姐妹经常互相拜访。
-[搭]
-无特殊搭配
-[联] cousin由“co”（共同）+ “usin”（亲戚）组成。
-
-nephew /ˈnɛfjuː/
-n. 侄子；外甥
-[例]
-1.My nephew is very smart. 我的侄子很聪明。
-2.His nephew plays football well. 他的侄子足球踢得很好。
-3.The aunt loves her nephews and nieces. 阿姨爱她的侄子和侄女。
-[搭]
-无特殊搭配
-[联] nephew由“ne”（近亲）+ “phew”（男孩）组成。
-
-niece /niːs/
-n. 侄女；外甥女
-[例]
-1.My niece is cute. 我的侄女很可爱。
-2.Her niece studies hard. 她的侄女学习很努力。
-3.The uncle buys toys for his nieces. 叔叔给他的侄女买玩具。
-[搭]
-无特殊搭配
-[联] niece由“ne”（近亲）+ “ce”（女性）组成。
-
-twin /twɪn/
-adj. 相似的，成对的
-[例]
-1.These two ideas are twin concepts. 这两个概念是孪生概念。
-2.Twin cities have similar climates. 双子城市气候相似。
-3.The twin towers were destroyed in the attack. 双子塔在袭击中被摧毁了。
-[搭]
-1.twin peaks 双峰
-2.twin engines 双引擎
-[联] twin = two，表示“两个”，与“成对”相关。
-
-embryo /ˈɛmbroʊ/; /ɪmˈbroʊ/
-n. 胚胎；萌芽状态的事物
-[例]
-1.The embryo develops into a fetus. 胚胎发育成胎儿。
-2.This project is still in its embryo stage. 这个项目还处于萌芽阶段。
-3.The scientist studied the embryo development. 科学家研究胚胎发育。
-[搭]
-1.embryo transfer 胚胎移植
-2.embryo culture 胚胎培养
-[联] embryo = em- (进入) + bro (发芽)——> 进入发芽状态。
-
-infant /ˈɪnfənt/
-adj. 幼稚的，未成熟的
-[例]
-1.His infant behavior embarrassed everyone. 他幼稚的行为让所有人都很尴尬。
-2.The infant system needs improvement. 幼稚系统需要改进。
-3.The infant plan is still being discussed. 幼稚计划仍在讨论中。
-[搭]
-1.infant industry 幼稚产业
-2.infant knowledge 幼稚知识
-[联] infant = in- (进入) + fant (说话)——> 刚学会说话的阶段。
-
-orphan /ˈɔːrfən/
-n. 孤儿
-[例]
-1.The orphan lived with his aunt. 孤儿和姑姑一起生活。
-2.The orphanage took care of many orphans. 孤儿院照顾了许多孤儿。
-3.The orphan was adopted by a foreign family. 孤儿被一个外国家庭收养。
-[搭]
-1.orphan care 孤儿护理
-2.orphan education 孤儿教育
-[联] orphan = or- (离开) + -phan (显现)——> 离开父母显现的孩子。
-
-juvenile /ˈdʒuːvənaɪl/
-adj. 幼稚的；少年的
-[例]
-1.His juvenile behavior annoyed his parents. 他的幼稚行为惹恼了他的父母。
-2.The juvenile stage is important for growth. 少年阶段对成长很重要。
-3.The juvenile product is designed for teenagers. 青少年产品是为青少年设计的。
-[搭]
-1.juvenile fiction 青少年小说
-2.juvenile magazine 青少年杂志
-[联] juvenile = juven (年轻) + -ile (形容词后缀)——> 表示年轻的。
-
-youngster /ˈjʌŋstər/
-n. 年轻人；小孩
-[例]
-1.The youngster played happily in the park. 小孩在公园里开心地玩耍。
-2.My younger brother is a lively youngster. 我的弟弟是个活泼的小孩。
-3.The teacher praised the youngsters for their efforts. 老师表扬了孩子们的努力。
-[搭]
-1.youngster camp 小孩夏令营
-2.youngster soccer team 小孩足球队
-[联] youngster = young (年轻) + -ster (名词后缀)——> 年轻的人。
-
-youth /juːθ/
-n. 年轻人
-[例]
-1.The youth gathered in the square. 年轻人聚集在广场上。
-2.The youth are the future of our country. 年轻人是我们国家的未来。
-3.The youth need guidance and support. 年轻人需要指导和支持。
-[搭]
-1.youth culture 青年文化
-2.youth fashion 青年时尚
-[联] youth = y (表示“年轻”) + -outh (名词后缀)——> 年轻的人。
-
-gang /ɡæŋ/
-n. 小集团；帮派
-[例]
-1.The gang committed several crimes. 这个小集团犯下了几起罪行。
-2.The police broke up the gang. 警方瓦解了这个帮派。
-3.The gang members were arrested. 帮派成员被逮捕。
-[搭]
-1.gang leader 帮派头目
-2.gang warfare 帮派斗争
-[联] gang = group (群体)——> 表示小团体。
-
-teenager /ˈtiːneɪʤər/
+adolescent / ˌædəˈles(ə)nt /
 n. 青少年
+adj. 青春期的；不成熟的
 [例]
-1.The teenager is studying hard. 青少年正在努力学习。
-2.My neighbor has three teenagers. 我的邻居有三个青少年。
-3.The teenager enjoys listening to music. 青少年喜欢听音乐。
+1.Most adolescent problems are temporary. 多数青春期的问题都是暂时的。
+2.He was showing off, as is the way with adolescent boys. 他在炫耀，青春期的男孩都是这个样子。
+3.A little adolescent rebellion is commonly believed to be healthy. 少许青春期叛逆被普遍认为是一个健康的现象。
 [搭]
-1.teenager problem 青少年问题
-2.teenager education 青少年教育
-[联] teenager = teen (十几岁) + -ager (表示年龄)——> 十几岁的年龄段。
+1.Adolescent Health 小儿科；青少年健康；小儿科青少；青少
+2.adolescent pregnancy 少女怀孕；青少年怀孕； 妇产  青春期妊娠；青少年妊娠
+3.adolescent river 青年河；壮年河； 地理,水文  少壮河
+4.adolescent health 青少年健康
+[联]ado ( Adoption 收养 ) + les ( the ) + cent ( hundred 百 ) ——> 收养百人
 
-adolescence /ˌædəˈlesns/
-n. 青春期
+appoint / əˈpɔɪnt /
+v. 任命，指派；约定，安排（日期、时间）；装饰，布置（房间或空间）；<古>命令，颁布法令；受权处置（财产）
 [例]
-1.Adolescence is a critical period for development. 青春期是发展的关键时期。
-2.The symptoms of adolescence vary among individuals. 青春期的症状因人而异。
-3.Adults often remember their adolescence fondly. 成年人常常怀念他们的青春期。
+1.It made sense to appoint a banker to this job. 任命一位银行家做这项工作是合理的。
+2.He promised to appoint an AIDS czar to deal with the disease. 他承诺任命一位艾滋病特使来对付这种疾病。
+3.After due consideration, we have decided to appoint Mr Davis to the job. 经过适当考虑，我们决定委任戴维斯先生干这项工作。
 [搭]
-1.adolescence education 青春期教育
-2.adolescence psychology 青春期心理学
-[联] adolescence = adolesc (成长) + -ence (名词后缀)——> 成长的状态。
+1.to appoint 任命；委派；引用
+2.Appoint a time 合约期；以按日或约期；就打电话约期
+3.APPOINT FIRST DIRECTOR 董事委任书
+[联]appoint (指派) + ment (名词后缀) ——> 指派的职位或任务
 
-**kin** /kɪn/
-n. 家族，亲戚；同族，同类  
-[解释]  
-- 当作名词时，通常指与某人有血缘关系的人。  
-- 无其他词性变化，读音固定为/kɪn/。  
-
-[例]  
-1. He has no kin in this city. 他在城里没有亲戚。  
-2. All my kin will come to the wedding. 我所有的亲戚都会来参加婚礼。  
-3. They are close kin to each other. 他们是亲密的亲属。  
-
-[搭]  
-1.kin and kind 同类，同族  
-2.blood kin 血亲  
-
-[联] kin 与 kind 相近，都表示“种类”，通过谐音记忆：“亲近”的人才是“kin”。  
-
-**folk** /fok/  
-n. 人们，民族；家人，亲属；民间（艺术等）  
-
-[例]  
-1. Many folk tales have been passed down for centuries. 很多民间故事流传了几百年。  
-2. How are your folk? 你的家人都还好吗？  
-3. The local folk are very friendly. 当地人非常友好。  
-
-[搭]  
-1.folk music 民间音乐  
-2.folk tale 民间故事  
-
-[联] folk 发音类似“福克”，可以联想“福克一家”住在民间。  
-
-**relative** /ˈrelətɪv/  
-n. 亲戚，亲属；adj. 相对的，比较的  
-
-[读音] n. /ˈrelətɪv/；adj. /ˈrelətɪv/  
-
-[例]  
-1. She is a distant relative of mine. 她是我的远房亲戚。  
-2. Are they related? 他们有亲戚关系吗？  
-3. The relative importance of these issues cannot be ignored. 这些问题的重要性不容忽视。  
-
-[搭]  
-1.relative poverty 相对贫困  
-2.relative clause 关系从句  
-
-[联] relative 可联想“relate”（联系），亲戚之间是有联系的。  
-
-**intimate** /ˈɪntəmət/ 或 /ɪnˈtɪmət/  
-adj. 亲密的；详尽的；私人的；adv. 亲密地  
-
-[读音] adj. /ˈɪntəmət/；adv. /ɪnˈtɪmət/  
-
-[例]  
-1. We've been intimate friends for years. 我们是多年的好朋友。  
-2. His intimate knowledge of the subject made him an expert. 他对这个主题的深入了解使他成为专家。  
-3. She shared her intimate thoughts with me. 她向我倾诉了自己的内心想法。  
-
-[搭]  
-1.intimate gathering 私人聚会  
-2.intimate relationship 亲密关系  
-
-[联] intimate 发音类似“爱慕特”，可以联想“亲密的爱慕之情”。  
-
-**dear** /dir/  
-adj. 亲爱的；昂贵的；n. 亲爱的  
-
-[读音] adj. /dir/；n. /dir/  
-
-[例]  
-1. My dear friend, how are you? 亲爱的朋友，你好吗？  
-2. It's too dear to buy. 太贵了买不起。  
-3. Dearest, please call me soon. 亲爱的，请尽快给我打电话。  
-
-[搭]  
-1.dear friend 亲爱的朋友  
-2.dear price 高价  
-
-[联] dear 可联想“dare”（敢），与“爱”相关联。  
-
-**darling** /ˈdɑrlɪŋ/  
-n. 亲爱的，心爱的人；adj. 亲爱的  
-
-[读音] /ˈdɑrlɪŋ/  
-
-[例]  
-1. She is my darling daughter. 她是我心爱的女儿。  
-2. You're such a darling! 你真可爱！  
-3. Darling, let's go out tonight. 亲爱的，今晚我们出去吧。  
-
-[搭]  
-1.my darling 我的爱人  
-2.darling child 心爱的孩子  
-
-[联] darling 发音像“达林”，可以联想“亲爱的达林”。  
-
-**lover** /ˈlʌvər/  
-n. 爱人，情人  
-
-[读音] /ˈlʌvər/  
-
-[例]  
-1. She became the lover of a famous artist. 她成了一个著名艺术家的情人。  
-2. They were secret lovers for years. 他们是多年的情人。  
-3. A true lover of art would never sell a masterpiece. 一个真正的艺术爱好者永远不会卖掉一件杰作。  
-
-[搭]  
-1.true lover 真正的爱人  
-2.lover's quarrel 情侣之间的争吵  
-
-[联] lover 可联想“love”（爱）+“er”（人），即“爱的人”。  
-
-**beloved** /bɪˈlovd/  
-adj. 深受喜爱的；n. 所爱的人  
-
-[读音] adj. /bɪˈlovd/；n. /bɪˈlovd/  
-
-[例]  
-1. She is the beloved leader of her people. 她是深受人民爱戴的领袖。  
-2. My beloved hometown is always in my heart. 我深爱的家乡永远在我心中。  
-3. He is the beloved of all his students. 他是所有学生的宠儿。  
-
-[搭]  
-1.beloved family 深爱的家庭  
-2.beloved memory 美好回忆  
-
-[联] beloved 发音类似“比洛夫”，可联想“被深爱的人”。  
-
-**housewife** /ˈhaʊswaɪf/  
-n. 家庭主妇  
-
-[读音] /ˈhaʊswaɪf/  
-
-[例]  
-1. She works as a housewife. 她是一名家庭主妇。  
-2. A good housewife knows how to manage a budget. 一位称职的家庭主妇懂得如何管理预算。  
-3. The housewife is busy preparing dinner. 家庭主妇正忙着准备晚餐。  
-
-[搭]  
-1.housewife knife 家庭主妇刀（一种多功能小刀）  
-
-[联] housewife 发音类似“豪斯威夫”，联想“家里妇女”。  
-
-**widow** /ˈwɪdoʊ/  
-n. 寡妇  
-
-[读音] /ˈwɪdoʊ/  
-
-[例]  
-1. She became a widow at a young age. 她年轻时就成了寡妇。  
-2. The widow received a pension from the government. 寡妇从政府领取抚恤金。  
-3. Widows often face economic hardships. 寡妇常常面临经济困难。  
-
-[搭]  
-1.widowhood 寡居  
-
-[联] widow 发音类似“维多”，联想“失去丈夫的女人”。
-
-maid / meɪd /  
-n. 女仆，女侍者  
-[例]  
-1.The maid cleaned the house every morning. 女仆每天早上打扫房子。（名词）  
-2.She acted as my maid during the trip. 在旅行期间她充当我的女仆。（名词）  
-3.He treated his maid like family. 他把他的女仆当作家人一样对待。（名词）  
-[搭]  
-1.household maid 家庭女仆  
-2.become someone's maid 成为某人的女仆  
-[联] maid 可联想 maid in Japan（日本女仆咖啡馆文化）  
-
-maiden / ˈmeɪdn /  
-n. 处女； maiden voyage（处女航）  
-[例]  
-1.She is a beautiful maiden. 她是个美丽的少女。（名词）  
-2.The ship will set sail on its maiden voyage tomorrow. 这艘船将于明天开始它的首次航行。（形容词）  
-3.Maiden speech 新官上任后的第一次演讲。  
-[搭]  
-1.maiden name 本名，婚前姓名  
-2.maiden flight 首次飞行  
-[联] maiden 联想 maiden name（婚前名字），可记忆为 maiden 表示“未被触碰过的”，因此 maiden name 是“未被改变的名字”。  
-
-household / ˈhaʊshəld /  
-n. 家庭，户；adj. 家庭的，家常的  
-[例]  
-1.Our household has five members. 我们家有五口人。（名词）  
-2.Household chores need to be shared equally. 家务需要平分。（形容词）  
-3.A household name 全家人都熟悉的名字。  
-[搭]  
-1.household income 家庭收入  
-2.household products 家居产品  
-[联] household 可联想 house（房子）+ hold（持有）——> 持有房子的人就是家庭。  
-
-chore / tʃɔːr /  
-n. 家务活，杂务  
-[例]  
-1.Doing chores is part of daily life. 做家务是日常生活的一部分。（名词）  
-2.I hate doing the dishes, it's such a chore. 我讨厌洗碗，这太麻烦了。（名词）  
-3.My mom always assigns me some chores. 我妈妈总是给我分配一些家务。（名词）  
-[搭]  
-1.chore list 家务清单  
-2.daily chore 日常家务  
-[联] chore 联想 core（核心），可以理解为“家务是家庭的核心事务”。  
-
-host / hoʊst /  
-n. 主人；vt. 主持，主办  
-[例]  
-1.As the host, he welcomed all the guests warmly. 作为主人，他热情地欢迎所有客人。（名词）  
-2.They hosted a party last weekend. 上周末他们举办了一场派对。（动词）  
-3.The hotel hosted an international conference. 这家酒店承办了一场国际会议。（动词）  
-[搭]  
-1.host a meeting 主办会议  
-2.be the host 成为主人  
-[联] host 联想 hostel（旅店），两者都与“接待”相关。  
-
-landlord / ˈlændlɔːrd /  
-n. 房东，地主  
-[例]  
-1.The landlord raised the rent this year. 这一年房东涨了房租。（名词）  
-2.We had a friendly relationship with our landlord. 我们和我们的房东关系很好。（名词）  
-3.The landlord is responsible for the maintenance of the property. 房东负责房产的维护。（名词）  
-[搭]  
-1.landlord and tenant 房东与租客  
-2.rent from the landlord 向房东租房  
-[联] landlord 可联想 land（土地）+ lord（领主）——> 土地的主人。  
-
-tenant / ˈtenənt /  
-n. 租客，房客  
-[例]  
-1.The tenant paid the rent on time every month. 房客每个月按时支付房租。（名词）  
-2.The new tenant moved into the apartment last week. 上周新租客搬进了公寓。（名词）  
-3.The landlord and tenant signed a one-year lease. 房东和租客签署了一份为期一年的租赁合同。（名词）  
-[搭]  
-1.tenant farmer 租地农民  
-2.tenant rights 租客权利  
-[联] tenant 可联想 tenancy（租期），两者都与“租住”相关。  
-
-customer / ˈkʌstəmər /  
-n. 顾客，客户  
-[例]  
-1.The store attracts many customers every day. 这家商店每天吸引许多顾客。（名词）  
-2.The customer service was very helpful. 客服非常有帮助。（名词）  
-3.The restaurant offers discounts to regular customers. 这家餐厅给老顾客提供折扣。（名词）  
-[搭]  
-1.customer service 客户服务  
-2.customer loyalty 客户忠诚度  
-[联] customer 可联想 custom（习俗），可以理解为“按照习俗来照顾的人”。  
-
-client / ˈklaɪənt /  
-n. 客户，委托人  
-[例]  
-1.The lawyer has many wealthy clients. 律师有许多富有的客户。（名词）  
-2.The client requested several changes to the design. 客户要求对设计做几处修改。（名词）  
-3.The financial advisor manages the client's assets. 财务顾问管理客户的资产。（名词）  
-[搭]  
-1.client base 客户基础  
-2.client satisfaction 客户满意度  
-[联] client 可联想 clinic（诊所），两者都与“寻求帮助的人”相关。  
-
-encounter / ɪnˈkaʊntər /  
-v. 遇见，遭遇；n. 遭遇，相遇  
-[例]  
-1.I encountered an old friend on the street yesterday. 昨天我在街上遇到了一位老朋友。（动词）  
-2.They had a violent encounter with the police. 他们与警察发生了一场激烈的冲突。（名词）  
-3.Encounters with wild animals can be dangerous. 遇到野生动物可能会很危险。（名词）  
-[搭]  
-1.encounter difficulties 遇到困难  
-2.encounter problems 遇到问题  
-[联] encounter 可联想 counter（柜台），两者都与“面对面接触”相关。
-
-chase /tʃeɪs/, /tʃeɪs/
-v.追赶，追逐；追求，谋求；驱赶，赶走
+appointee / əˌpɔɪnˈtiː /
+n. 被任命者
 [例]
-1.The dog chased the cat around the yard. 那只狗在院子里追着猫跑。
-2.He chased after his dream of becoming an actor. 他追求着成为演员的梦想。
-3.The police chased the thief down the street. 警察沿着街道追逐那个小偷。
-[搭] 
-1.chase away 驱赶，赶走
-2.chase off 追赶，驱逐
-[联] chase 可以联想到“chasing after success”——追求成功。
-
-miss /mɪs/
-v.错过，失去；想念，怀念；未击中，未射中
-[例]
-1.I missed the bus and had to wait for another one. 我错过了公交车，不得不等下一辆。
-2.She missed her old friend who moved away. 她想念搬走的老朋友。
-3.Did you miss the target? 你没射中目标吗？
-[搭] 
-1.miss out on 错过，未能享受
-2.come close to missing 差点错过
-[联] miss 可以联想到“missing out on opportunities”——错失机会。
-
-appointment /əˈpɔɪntmənt/
-n.约会，约定；任命，委派；职位，职务
-/əˈpɔɪntmənt/
-[例]
-1.I have a dentist appointment at 3 PM. 我下午三点有牙医预约。
-2.She got an appointment as a manager. 她被任命为经理。
-3.They announced the new appointment of the CEO. 他们宣布了新任CEO的任命。
-[搭] 
-1.keep an appointment 守约，赴约
-2.make an appointment 约定，预约
-[联] appointment 可以联想到“appointing someone”——任命某人。
-
-accompany /əˈkʌmpəni/
-v.陪伴，陪同；伴随，和……一起发生；为……伴奏
-[例]
-1.My sister accompanied me to the store. 我姐姐陪我去商店。
-2.His words were accompanied by a smile. 他说的话伴随着一个微笑。
-3.Can you accompany me on the piano? 你能给我弹钢琴伴奏吗？
-[搭] 
-1.accompany sb. to someplace 陪伴某人去某个地方
-2.accompany with 和……一起发生
-[联] accompany 可以联想到“accompanying a friend”——陪伴朋友。
-
-dependent /dɪˈpendənt/
-adj.依靠的，依赖的；取决于……的
-[例]
-1.My brother is financially dependent on my parents. 我哥哥在经济上依赖父母。
-2.Their success is dependent on hard work. 他们的成功取决于努力工作。
-3.The child is completely dependent on her mother. 这个孩子完全依赖她母亲。
-[搭] 
-1.be dependent on 依靠，依赖
-2.dependent variable 因变量
-[联] dependent 可以联想到“dependence”——依赖。
-
-propose /prəˈpoʊz/
-v.提议，建议；求婚；提名，推荐
-[例]
-1.He proposed a new plan to solve the problem. 他提出了一个新的计划来解决问题。
-2.He proposed to her last weekend. 上周末他向她求婚了。
-3.The committee proposed him as the new president. 委员会提名他为新主席。
-[搭] 
-1.propose doing sth. 提议做某事
-2.propose to do sth. 打算做某事
-[联] propose 可以联想到“proposal”——提议。
-
-engagement /ɪnˈɡeɪdʒmənt/
-n.订婚；约定，约定时间；从事，忙于
-[例]
-1.They announced their engagement last month. 他们上个月宣布订婚了。
-2.I can't make it; I have another engagement. 我不能去了，我有别的安排。
-3.She is deeply engaged in her work. 她全身心投入工作。
-[搭] 
-1.engagement ring 订婚戒指
-2.breach of engagement 违背订婚誓言
-[联] engagement 可以联想到“engaged”——订婚的。
-
-marry /ˈmæri/
-v.结婚，嫁娶；给……主婚
-[例]
-1.They got married last year. 他们去年结婚了。
-2.My father married me to a wealthy man. 我父亲把我嫁给了一个富有的人。
-3.The priest married the couple. 牧师为这对夫妇主持了婚礼。
-[搭] 
-1.get married 结婚
-2.marry into wealth 嫁入豪门
-[联] marry 可以联想到“marriage”——婚姻。
-
-wedding /ˈwɛdɪŋ/
-n.婚礼，结婚典礼
-[例]
-1.The wedding took place in a small church. 婚礼在一个小教堂举行。
-2.All of our friends attended the wedding. 所有的朋友都参加了婚礼。
-3.The bride wore a beautiful white dress at the wedding. 新娘在婚礼上穿了一件漂亮的白色婚纱。
-[搭] 
-1.wedding ceremony 婚礼仪式
-2.wedding anniversary 婚礼纪念日
-[联] wedding 可以联想到“bride”——新娘。
-
-honeymoon /ˈhənuˌmun/
-n.蜜月；新婚期
-[例]
-1.They went to Paris for their honeymoon. 他们去巴黎度蜜月了。
-2.Their honeymoon was ruined by bad weather. 他们的蜜月被糟糕的天气毁掉了。
-3.Many newlyweds take a trip during their honeymoon. 很多新婚夫妇会在蜜月期间旅行。
-[搭] 
-1.go on a honeymoon 去度蜜月
-2.honeymoon suite 蜜月套房
-[联] honeymoon 可以联想到“honeymoon phase”——蜜月期。
-
-kiss / kɪs /
-v. 吻；轻触；用唇碰某物
-n. 吻；亲吻的动作
-[例]
-1.I kissed my mother goodbye before leaving for school. 离开家去上学前，我吻别了我的母亲。（v.）
-2.She gave me a kiss on the cheek. 她在我脸颊上亲了一下。（n.）
-3.They kissed each other passionately. 他们深情地接吻。（v.）
+1.I am a New appointee!我是一只新的手！。
+2.This year, is a year that New appointee generation out. 这一年，是新人辈出的一年。
+3.The ruling on April 3rd was unanimous and written by a Republican appointee. 4月3日的判决获得了全体法官的一致通过，最终由共和党的一位法官写下最后的判词。
 [搭]
-1.kiss and make up 和好如初
-2.a kiss of death 致命一击
-[联] 想象嘴唇轻轻触碰一个东西的画面，就像“k”开头的声音一样轻快。
+1.appointee e 被任命人；被任命者
+2.new appointee 新贵
+3.the appropriate appointee 最适宜的岛主
+[联]appointee (被任命者) + -ee (表示被动，接受者) ——> 被任命的人
 
-divorce / dɪˈvɔːrs, daɪˈvɔːrs /
-v. 离婚；分开；使分离
-n. 离婚；离婚诉讼
+appointment / əˈpɔɪntmənt /
+n. 约会，约定；任命，委派；职务，职位；家具，陈设
 [例]
-1.They divorced after 10 years of marriage. 结婚10年后，他们离婚了。（v.）
-2.Their divorce was finalized last month. 他们的离婚上个月正式生效了。（n.）
-3.Divorce can be emotionally difficult for children. 对于孩子来说，离婚可能在情感上很困难。（n.）
+1.When is your next appointment?你下一次预约时间是什么时候？《牛津词典》。
+2.The appointment is at 3 p. m. 约会定于下午3点。
+3.He failed to keep the appointment. 他未履约。
 [搭]
-1.file for divorce 提出离婚申请
-2.cause for divorce 离婚理由
-[联] 想象“di”（分开）+ “vorce”（声音像撕裂）——> 分离。
+1.recess appointment 休会任命
+2.Making an Appointment 安排预约；预约；约会
+3.make an appointment 预约；约会；预约时间；约定
+4.make an appointment 约会，预约
+5.make an appointment with 与某人约会
+6.have an appointment 有约会
+[联]ap + point + ment ——> 约定，预约
 
-separate / ˈsepəreɪt /
-v. 分开；隔离；分离
-adj. 分开的；独立的
+attorney / əˈtɜːni /
+n. 律师；代理人
 [例]
-1.Please separate the wheat from the chaff. 请把麦子和谷壳分开。（v.）
-2.The two islands are separated by a narrow channel. 这两个岛屿被一条狭窄的海峡隔开。（v.）
-3.They live in separate apartments. 他们住在不同的公寓里。（adj.）
+1.He needed to consult with an attorney. 他需要和律师咨询。
+2.At the hearing, her attorney did not enter a plea. 在听证会上，她的律师没有提出申诉。
+3.The new district attorney has promised to fight police corruption. 新上任的地方检察官承诺要与司法腐败作斗争。
 [搭]
-1.separate...from... 把……与……分开
-2.live separately 分居生活
-[联] 想象两样东西被一条线（“-”）分开，“sep-a-rate”。
+1.Attorney General 司法部长；检察长；检察总长
+2.attorney fee 律师费
+3.The Attorney 辩护人；逆权大状；律师
+4.power of attorney 委托书
+5.attorney general 司法部长；首席检察官
+6.district attorney 美国地方检察官（略作 D. A. ）
+[联]at +orney ——> at(在) +orney(法律代理人) ——> 在法律事务中代理的人
 
-single / ˈsɪŋɡl /
-adj. 单一的；单身的；单程的
-v. 使成单一；使独身
+barber / ˈbɑːrbər /
+n. 理发师；（男子）理发店 （the barber's）
+v. 给（男子）理发
 [例]
-1.He is a single man. 他是个单身汉。（adj.）
-2.Single tickets are sold here. 这儿出售单程票。（adj.）
-3.I single out Tom as the best player. 我选汤姆为最佳球员。（v.）
+1.I gave the barber a tip. 我给了理发师小费。
+2.My father marched me over to Otto, the local barber, to have my hair cut short. 爸爸把我拽到当地理发师奥托跟前，让他把我的头发剪短。
+3.What about Barber Jones?那巴伯·琼斯呢？。
 [搭]
-1.single out 挑选出
-2.single room 单人房
-[联] 想象一个人独自一人（“single”）。
+1.Samuel Barber 萨缪尔·巴伯；巴伯；序曲
+2.The Barber of Seville 塞维利亚的理发师；塞维利亚理发师；塞尔维亚理发师；塞维亚的理发师
+3.John Barber 约翰·巴伯；专栏作家巴伯；翰·巴柏；标签
+4.barber shop 理发店
+[联]barber (理发师) + -er (表人后缀) ——> 理发师
 
-respective / rɪˈspektɪv /
-adj. 各自的；分别的
+barbershop / ˈbɑːrbərʃɑːp /
+n. 理发店
+adj. 有男声合唱之和声的
 [例]
-1.The students went to their respective homes. 学生们各自回家了。（adj.）
-2.Each country has its respective customs. 每个国家都有各自的风俗习惯。（adj.）
-3.The two sisters were wearing respective dresses. 两个姐妹穿着各自的裙子。（adj.）
+1.Gabriel's family soon helped him open his first barbershop in San Isidro, Peru, which he worked at for one and a half years. 加布里埃尔的家人很快帮他在秘鲁的圣伊西德罗开了第一家理发店，他在那里工作了一年半。
+2.If the prostitute establishment has a barbershop-like sign or neon lighting, then that's the kind of place I'm talking about. 如果妓院有类似理发店的招牌或霓虹灯，那就是我说的那种地方。
+3.That's a barbershop?那是一家理发店。
 [搭]
-1.in a respective manner 各自地
-2.respective roles 各自的角色
-[联] 想象每个人做自己的事情（“re-spect”——重新思考自己的位置）。
+1.sister's barbershop 姐妹理发馆；姐妹剃头馆；妹理发馆
+2.In barbershop 在理发店
+3.Barbershop Quartet 理发店四重唱
+[联]barber (理发师) + shop (店铺) ——> 理发店
 
-each / iːtʃ /
-pron. 每一个；各自
+beggar / ˈbeɡər /
+n. 乞丐，叫花子；<英，非正式>家伙
+v. 使贫穷，使匮乏；难以相信，无法相容
 [例]
-1.Each student received a book. 每个学生都收到一本书。（pron.）
-2.Each of them knows the answer. 他们每个人都知道答案。（pron.）
-3.Each time I see her, she looks happier. 每次见到她，她看起来都更开心。（adv.）
+1.He tossed a penny to the beggar. 他扔给乞丐一便士。
+2.The soldier said, "Mind thy manners, thou young beggar!"士兵说：“注意你的举止，你这个小乞丐！”。
+3.Why should I beggar myself for you?我为什么要为你受穷？《牛津词典》。
 [搭]
-1.each other 彼此
-2.every and each 每一个
-[联] 想象每个东西都排成一行，像“e-a-c-h”。
+1.clever beggar 聪明的乞丐
+2.abject beggar 可鄙的乞丐
+3.Britain Beggar 英国乞丐
+[联]be + ggar ——> 请求 + 乞丐 ——> 乞讨的人
 
-individual / ɪndɪˈvɪdjuəl /
-adj. 个人的；单独的；独特的
-n. 个人；个体
+beggary / ˈbeɡərɪ /
+n. 赤贫；卑劣；行乞
 [例]
-1.Every individual has unique qualities. 每个人都有独特的品质。（n.）
-2.The individualism in this society is strong. 这个社会的个人主义很强。（adj.）
-3.Individual freedom is important. 个人自由很重要。（adj.）
+1.His speculation reduced him to beggary. 他的投机使他陷于赤贫。
+2.From this it was but a step to beggary. 这只差一步就沦为乞丐了。
+3.Idleness is key of beggary and the root of all evil. 懒惰是赤贫之道，也是万恶之源。
 [搭]
-1.individuality 个性
-2.individual rights 个人权利
-[联] 想象一个单独的人（“indi-vid-ual”）。
+1.Come To Beggary 沦为乞丐
+2.Be reduced to beggary 陷于极度贫困之中
+3.they knew Beggary 他们了解奢侈
+[联]beggar (乞丐) + y (表性质或状态) ——> 乞讨的状态
 
-commuter / kəˈmjuːtər /
-n. 通勤者；经常乘交通工具上下班的人
+beloved / bɪˈlʌvɪd /
+adj. 钟爱的，深受爱戴的
+n. 心爱的人
 [例]
-1.The commuter train runs every hour. 通勤火车每小时一班。（n.）
-2.A lot of commuters use bicycles to go to work. 很多通勤者骑自行车上班。（n.）
-3.The commuter traffic is heavy during rush hours. 上下班高峰时段通勤交通繁忙。（n.）
+1.It was a gift from her beloved. 那是她心爱的人送的礼物。
+2.I miss thee, beloved father. 亲爱的父亲，我想念您。
+3.Strangely enough, the last thing he thought of was his beloved Tanya. 真奇怪，他最后想到的是他心爱的坦尼娅。
 [搭]
-1.commute to work 上班通勤
-2.daily commuter 每日通勤者
-[联] 想象一个人每天往返于家和工作地点之间（“com-mute”）。
+1.Beloved 骇人游戏
+2.Immortal Beloved 不朽真情；永远的爱人；贝多芬传；永恒的爱人
+3.For Beloved One 宠爱之名；痛爱之名；溺爱之名；宠嬖之名
+[联]beloved (亲爱的，心爱的) + ed (形容词后缀) ——> 表示被爱的人或事物
 
-neighbourhood / ˈneɪbərhʊd /
-n. 邻近地区；附近；邻居关系
+boss / bɔːs /
+n. 上司，领导，领班；圆形装饰物，浮雕装饰；牛犊，奶牛
+v. 发号施令，对……颐指气使；当首领
+adj. 很好的，出色的
 [例]
-1.My house is in a quiet neighbourhood. 我的房子在一个安静的社区。（n.）
-2.The neighbourhood has many shops and restaurants. 这个社区有许多商店和餐馆。（n.）
-3.The fire spread quickly through the entire neighbourhood. 火灾迅速蔓延到整个社区。（n.）
+1.His boss is a complete tyrant. 他的老板是个不折不扣的暴君。
+2.His boss has a foul temper. 他的老板脾气很坏。
+3.She ran away with her boss. 她与老板私奔了。
 [搭]
-1.neighbourhood watch 社区看守
-2.local neighbourhood 当地社区
-[联] 想象邻里之间的关系（“neigh-bour-hood”）。
+1.The Boss 老板；大国男儿；引领者
+2.Hugo Boss 雨果博斯；雨果波士；胡戈波士；胡戈·波士
+3.The Big Boss 唐山大兄；大老板；片；唐山大兄专辑
+4.gang boss 小组长；领班；帮派头目
+5.party boss 党魁
+6.lug boss 突起部，凸起部
+[联]boss + master (主人，大师) ——> 老板
 
-boss / bɑːs /
-n. 老板；上司
-v. 指挥；指挥（乐队等）
+bossy / ˈbɒsi /
+adj. 好指挥人的，专横的
+n. 母牛，牛犊
 [例]
-1.My boss asked me to finish the report today. 我的老板让我今天完成报告。（n.）
-2.The conductor will boss the musicians around. 指挥会让音乐家们听从他的指挥。（v.）
-3.The new boss is very strict. 新来的老板非常严格。（n.）
+1.Most of the time, she is bossy and pushy. 大多数时候，她都是专横、固执的。
+2.Tears conquer the face of the bossy head nurse. 专横的护士长的脸上滑落点点泪珠。
+3.If you weren't so bossy, I wouldn't have done that!如果你不是那么专横，我就不会那样做了！。
 [搭]
-1.boss around 指挥；发号施令
-2.be the boss 是领导
-[联] 想象一个有权势的人在管理他人（“bo-ss”）。
+1.Bossy Grant 霸道的格兰特
+2.FC Collex Bossy 科尔西博西
+3.bossy hill 供应日单
+[联]bossy (专横的，发号施令的) + boss (老板) ——> 老板气
 
-member /ˈmɛmbər/, /ˈmɛmbɚ/
-n. 成员，会员；部件，零件；构件
+butcher / ˈbʊtʃər /
+n. 屠夫；肉店；刽子手；笨蛋，莽夫；（火车或剧院的）小贩
+v. 屠宰；弄砸；残杀，杀戮
 [例]
-1.All members of the team attended the meeting. 团队的所有成员都参加了会议。
-2.He is a member of the board of directors. 他是董事会成员之一。
-3.Members can access exclusive content. 会员可以访问专属内容。
+1.Look on the label or ask your butcher. 看看标签或询问你的屠夫。
+2."What have you done?" shrieked the butcher. “你做了什么？”屠夫尖叫道。
+3.It's about music, which is too good for the butcher. 这是关于音乐的，对屠夫来说已经太好了。
 [搭]
-1.full member 正式成员
-2.member of parliament 国会议员
-[联] mem (记忆)+ ber (后缀) ——> 记忆中的团体成员
+1.Magnificent Butcher 林世荣
+2.Mike Butcher 麦克·巴契；麦柏乔；营运总监麦柏乔；标签
+3.The Butcher Boy 屠夫男孩；悲欢岁月；屠夫的孩子；屠夫男孩专辑
+[联]butcher (屠夫) + knife (刀) ——> 屠夫手中的刀
 
-manager /ˈmænəʤər/, /ˈmænəʤɚ/
-n. 经理，管理人；经营者
+butchery / ˈbʊtʃəri /
+n. 残杀，屠宰；屠宰场；肉铺
 [例]
-1.The manager called an emergency meeting. 经理召集了一次紧急会议。
-2.I reported the incident to the manager. 我向经理报告了这起事件。
-3.The manager was very supportive. 经理非常支持我们。
+1.In her view, war is simply a legalized form of butchery. 在她看来，战争就是一种合法的屠杀。
+2.Mr Gwynne is frank about the butchery on both sides. 格恩先生坦诚了双方的暴行。
+3.Skilled butchery is a mixture of big, bold movements and detailed, precise knife-work. 有技术的宰杀是一个胆大、心细，准确的使用刀的工作。
 [搭]
-1.sales manager 销售经理
-2.department manager 部门经理
-[联] man (人) + age (状态或行为) ——> 管理的人
+1.Retail butchery 肉食销售员
+2.butchery trade 屠宰业
+3.Butchery Demi Chef 肉房厨师领班
+[联]massacre (大屠杀) + -ery (行为，场所) ——> 屠杀行为
 
-supervisor /səˈvaɪzər/
-n. 监督者，主管；视察员
+cashier / kæˈʃɪr /
+n. 收银员，出纳员
+v. 开除，革除（军职）
 [例]
-1.The supervisor checked the work. 主管检查了工作。
-2.My supervisor is very strict. 我的主管非常严格。
-3.The supervisor gave us feedback. 主管给了我们反馈。
+1.The cashier fell asleep again. 出纳员又睡去了。
+2.The cashier gives me receipts. 收银员给我收据。
+3.Is this the cashier desk?这是收银台吗？。
 [搭]
-1.production supervisor 生产主管
-2.site supervisor 现场监督员
-[联] super (超过) + visor (看守者) ——> 超越他人去监督
+1.general cashier 总出纳；出纳
+2.Chief Cashier 总出纳；出纳主任；出纳股长；首席出纳
+3.THE CASHIER 出纳员；收银台；出纳；收银员
+[联]cash (现金) + ier (表示人) ——> 出纳员
 
-subordinate /səˈbɔːrdɪn/, /səˈbɑːrdɪn/
-adj. 从属的，次要的；下级的
-v. 使从属，使附属
+chancellery / ˈtʃɑːnsələri /
+n. 大臣；大使馆；总理之职
 [例]
-1.His role was subordinate to mine. 他的角色从属于我的。
-2.We subordinate personal interests to collective ones. 我们把个人利益置于集体利益之下。
-3.Subordinate tasks should be completed first. 次要任务应先完成。
+1.He is a former head of the chancellery. 他是总理府前任首席官员。
+2.The office or department of a chancellor；a chancellery. 大臣部门中的全体工作人员。
+3.Placed on the pedestal, two volumes are rising: one of Chancellery and another of Institute offices. 在基座之上，两个体量映入眼帘：一个是大臣官署，另一个是学院办公室。
 [搭]
-1.subordinate clause 从句
-2.subordinate position 下属地位
-[联] sub (下面) + ordinate (排列) ——> 排列在下面的
+1.chancellery palace 主教宫
+2.Secretariat-Chancellery 中书门下
+3.THE STATE OF CHANCELLERY 执行机构
+[联]chancellery (国务院；大臣办公室) ——> chancel (唱诗席，圣坛) + lery (名词后缀，表地点或事物) ——> 大臣办公地点
 
-partner /ˈpɑːrtnər/, /ˈpærtnər/
-n. 合伙人；伙伴；配偶
+chancellor / ˈtʃɑːnsələ(r) /
+n.（英国）财政大臣；（德国或奥地利）总理；（英国大学）名誉校长，（美国大学）校长；法官
 [例]
-1.He is my business partner. 他是我的商业伙伴。
-2.They were partners in crime. 他们是同谋犯。
-3.My partner is very supportive. 我的搭档非常支持我。
+1.By the time I was vice chancellor, the Senate had become a much larger and a much more democratic body. 到我做副校长的那个时候，大学评议会已经成为一个更大、更民主的机构了。
+2.The trembling Chancellor answered, "Good your Majesty, I cry you mercy!"吓得发抖的大法官回答说：“陛下圣明，我求您发发慈悲！”。
+3.Andrew Hamilton, Oxford's vice-chancellor, said: "the school represents a huge milestone in oxford's history. "牛津大学副校长安德鲁·汉密尔顿表示：“这所学校是牛津历史上的一座巨大里程碑。
 [搭]
-1.business partner 商业伙伴
-2.life partner 生活伴侣
-[联] part (部分) + ner (人) ——> 共同分享部分的人
+1.Chancellor of the Exchequer 财政大臣；英国财政大臣；财务大臣；政大臣
+2.vice-chancellor 副校长；大学副校长；大学校长；校长
+3.Deborah Chancellor 查斯勒；黛博拉·钱塞勒；张西乐
+4.chancellor of the exchequer 英国财政大臣
+5.lord chancellorn.  （英国上议院的）大法官
+6.shadow chancellorn.  影子大臣
+[联]chancellor (首相，大学校长) + office (办公室) ——> 首相办公室
 
-mate /meɪt/
-n. 同事，伙伴；配偶；同伴
+chancellorship / ˈtʃɑːnsələʃɪp /
+n. 长官之职位或任期；财政部长的职位；大学名誉校长的职位
 [例]
-1.My office mate is very friendly. 我的办公室同事很友好。
-2.They are mates for life. 他们是终生的伙伴。
-3.Mate, can you help me? 朋友，你能帮我一下吗？
+1.. Hence the second reason why next year's budget is so important for Mr Brown's chancellorship.  ECONOMIST: His next trick。
+2.. The CDU has also admitted operating a system of secret accounts during Mr Kohl's chancellorship.  BBC: Kohl raid foiled by leak。
+3.. It had been reported that Mr Balls blamed Lord Mandelson for blocking his move to the chancellorship.  BBC: Leaked Brown e-mail 'not hostile'。
 [搭]
-1.ship's mate 船上的助手
-2.roommate 室友
-[联] mate (匹配) ——> 可以匹配相处的人
+1.chancellorship detail 长官之职
+[联]chancellor (首相) + ship (身份，状态) ——> 首相的身份或职务
 
-colleague /ˈkɑːliːg/, /ˈkoʊliːg/
-n. 同事
+chase / tʃeɪs /
+v. 追逐，追赶；匆忙赶往，急奔；追求，努力争取；求爱；驱逐，赶走；撤职；催促；镂刻，雕刻
+n. 追赶，追逐；争取，努力获得；狩猎，猎捕；越野赛马，障碍赛马
 [例]
-1.My colleagues are very helpful. 我的同事们非常乐于助人。
-2.We worked with our colleagues. 我们与同事一起工作。
-3.I discussed the project with my colleague. 我和同事讨论了这个项目。
+1.The movie has a car chase to end all car chases. 这部影片的汽车追逐场面非常刺激。
+2.The thieves were caught by police after a short chase. 经过短暂追捕，小偷被警察擒获。
+3.The chase is always much more exciting than the conquest anyway. 无论如何，追求总比征服更令人兴奋。
 [搭]
-1.close colleague 密切的同事
-2.working colleague 工作中的同事
-[联] co- (共同) + league (联盟) ——> 共同合作的人
+1.JPMorgan Chase 摩根大通；摩根大通银行；摩根大通集团
+2.chase county 蔡斯县
+3.Chase Budinger 蔡斯·巴丁格；巴丁格；蔡斯；保丁加
+4.chase after 追逐；追赶
+5.cut to the chase 开门见山；提到关键问题；转入（或切入）正题
+6.jpmorgan chase 摩根大通公司
+[联]city (城市) + chase (追逐) ——> 在城市中追逐梦想
 
-comrade /ˈkɑːmreɪd/, /ˈkoʊmreɪd/
-n. 同志；战友；同伴
+chaser / ˈtʃeɪsər /
+n. 驱逐舰；猎人；饮烈酒后喝的饮料；[机] 螺纹梳刀
 [例]
-1.We are comrades in arms. 我们是并肩作战的同志。
-2.My comrade helped me out. 我的同志帮助了我。
-3.Comrades, we have won! 同志们，我们胜利了！
+1.Employees formed "storm chaser teams" and competed in storm-themed educational exercises to earn various rewards. 员工们组成“风暴追逐者队”，参加以风暴为主题的教育活动，以获得各种奖励。
+2.Photo Tip: Become a storm chaser. 摄影小贴士：去追寻暴风雨吧。
+3.“And women, ” said Chaser Angelina Johnson. 女捕手安戈琳娜。
 [搭]
-1.comrade-in-arms 战友
-2.socialist comrade 社会主义同志
-[联] com (共同) + rade (道路) ——> 共同走在道路上的人
+1.VIRUS CHASER 驱逐舰；杀毒软件；驱逐舰杀毒软件；驱赶舰
+2.ambulance chaser 救护车的追逐者；救护车追逐者；追救护车的人
+3.Caligo Chaser 卡利戈猎人；恶魔猎手；恶魔猎人；魔力小子
+[联]chas (追逐) + er (表示人或物的后缀) ——> 追逐者
 
-acquaintance /əˈkweɪntəns/
-n. 熟人；相识；了解
+chore / tʃɔː(r) /
+n. 家庭杂务，杂活；累活，苦差事
 [例]
-1.I met an old acquaintance. 我遇到了一位老熟人。
-2.My acquaintances know about my work. 我的熟人了解我的工作。
-3.Acquaintance breeds contempt. 熟悉生轻蔑。
+1.Shopping's a real chore for me. 对我来说，购物真是件苦差事。
+2.It was a methodical, unexciting chore. 这是按部就班的乏味的杂务。
+3.She sees exercise primarily as an unavoidable chore. 她把锻炼主要看作是不得不做的琐事。
 [搭]
-1.personal acquaintance 私人关系
-2.acquaintance information 熟人信息
-[联] ac- (加强) + quaint (熟悉) + ance (名词后缀) ——> 加强熟悉的程度
+1.chore jacket 劳动茄克；工装夹克
+2.chore boy 临时工人；临时勤杂工
+3.Chore Wars 家务战争
+[联]housework (家务) + routine (常规的) ——> 日常家务
 
-affection /əˈfekʃən/
-n. 喜爱，钟爱；爱慕；情感
+choreograph / ˈkɒriəɡrɑːf /
+v. 给……设计舞蹈动作， 给……编舞；设计，筹划（活动，工作）
 [例]
-1.She has a great affection for her parents. 她非常喜爱她的父母。
-2.Affection can last a lifetime. 爱可以持续一生。
-3.Children need parental affection. 孩子需要父母的关爱。
+1.Easily choreograph animation with the timeline editor. 用时间轴编辑器轻松地设计动画动作。
+2.What I would really like to do is to choreograph other people.  It would be an exciting career. 我真正想做的是为别人设计舞蹈动作，这将是个令人兴奋的职业。
+3.After services are implemented, they need to be used to compose and choreograph the business processes. 在服务实现之后，需要用它们组合和编排业务流程。
 [搭]
-1.show affection 表达感情
-2.true affection 真正的感情
-[联] af- (加强) + fect (影响) ——> 对某人产生强烈影响的感情
+1.choreograph E 设计舞蹈动作
+2.choreograph artistry 编排
+3.Choreograph ing Space 舞台空间
+[联]cho (厨房) + reo (规律) + graph (书写，记录) ——> 记录厨房规律
 
-stranger / ˈstreɪndʒər /
-n.陌生人；外地人；陌路人
+choreographer / ˌkɔːriˈɑːɡrəfər /
+n. 编舞者，舞蹈指导
 [例]
-1.A stranger came to town last night. 昨晚一个陌生人来到镇上。
-2.I don't trust strangers easily. 我不轻易相信陌生人。
-3.The stranger asked for directions to the station. 那个陌生人询问去车站的方向。
+1.Facial expressions aren't as important in live performances generally, because the choreographer knows that someone in the back row of a theater may not be able to see a dancer's face clearly. 面部表情在现场表演中通常不那么重要，因为编舞者知道坐在剧院后排的人可能看不清舞者的脸。
+2.British author and speaker Sir Kenneth Robinson talked about this at TED.  He told the story of Gillian Lynne, a dancer and a choreographer (编舞者) who has worked on famous musicals like Cats and Phantom of the Opera (《歌剧魅影》) . 英国作家和演讲者肯尼斯·罗宾逊爵士在 TED 上谈到了这个。
+3.The Service Choreographer solution pattern. 服务编排解决方案模式。
 [搭]
-1.stranger to 对...陌生
-2.total stranger 完全陌生的人
-[联] stran (陌生) + ger (人) ——> 陌生的人
+1.Dancer or Choreographer 跳舞人或者舞蹈编导；舞者或编舞；舞蹈演员及编舞；舞者或舞蹈编导
+2.the action choreographer 武术指导
+3.Business Process Choreographer 业务流程编排器
+[联]cho (厨房) + reographer (记录者) ——> 厨房记录者
 
-apprentice / əˈpren.tɪs /
-n.学徒；初学者
-v.当学徒；向...学习
+choreography / ˌkɔːriˈɑːɡrəfi /
+n. 编舞；舞蹈艺术；舞艺
 [例]
-1.He worked as an apprentice in a carpentry shop. 他在一家木匠铺当学徒。
-2.She apprenticed herself to a famous chef. 她拜一位名厨为师学习烹饪。
-3.The young man apprenticed himself to a master craftsman. 这个年轻人拜一名工匠大师为师。
+1.The Alvin Ailey American Dance Theatre was formed in the 1950s and quickly established itself as a leading exponent of progressive choreography and contemporary dance. 阿尔文·艾利美国舞蹈剧形成于20世纪50年代，并很快树立自己为激进舞蹈艺术和现代舞蹈的最主要的典范。
+2.Listen to part of a lecture in a choreography class. 请听编舞课上的部分内容。
+3.The choreography of Eric Hawkins is considered radical by ballet audiences. 埃里克·霍金斯的舞蹈编排被芭蕾舞剧的观众认为是不同凡响的。
 [搭]
-1.apprentice under 在...门下当学徒
-2.take on apprentices 收学徒
-[联] app (接近) + rentice (学习) ——> 接近学习的人
+1.Best Choreography 最佳舞蹈设计；最佳舞蹈编排；最佳编舞；最佳跳舞设计
+2.Best Action Choreography 最佳动作设计
+3.Service Choreography 服务编排；服务自动编排；服务协同；服务编舞
+[联]choreography (舞蹈编排) + graphy (书写、记录) ——> 舞蹈记谱法
 
-deputy / ˈdep.juː.pi /
-n.代理人；副职；代表
-adj.代理的；副的
+client / ˈklaɪənt /
+n. 客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客
 [例]
-1.The deputy mayor will take over the mayor's duties. 副市长将接替市长的职责。
-2.The deputy is responsible for managing the office. 副官负责管理办公室。
-3.He acted as deputy while the manager was away. 经理不在期间他担任代理职务。
+1.Do you have a client named Peters?你们有一位名叫彼得斯的客户吗？《牛津词典》。
+2.I have a client with me right now. 我现在有个客户。
+3.He lunched with a client at the Ritz. 他与一位客户在里茨饭店共进了午餐。
 [搭]
-1.deputy minister 副部长
-2.deputy chairman 副主席
-[联] de (表示下面) + p + uty (职责) ——> 下面的职责
+1.client-server 主从式架构；主从式；服务器；客户
+2.DHCP client 我不需要这东西；客户机；网络环境；管理网络设置
+3.thin client 瘦客户端；瘦客；瘦客户机；瘦客户
+4.client service 客户服务；向委托部门提供服务
+5.client base 客户群；基本顾客
+6.client side 客户端；使用端
+[联]cli (倾斜) + ent (实体) ——> 倾斜的实体
 
-hero / ˈhɪər.oʊ /
-n.英雄；男主角；男主角演员
+clientele / ˌkliːənˈtel /
+n. 顾客群，客户群；（总称）委托人
 [例]
-1.His father is his hero. 他的父亲是他心目中的英雄。
-2.The movie features a heroic figure as the hero. 这部电影的主角是一位英雄形象。
-3.Every child has a hero they admire. 每个孩子都有他们崇拜的英雄。
+1.This pub had a mixed clientele. 这家酒吧有混杂的顾客群。
+2.We cater to an exclusive clientele. 我们满足一个特殊客户群的需求。
+3.A district should serve its clientele, namely students, staff, and parents. 一个学区应该服务于其主顾，即学生、教职员工和家长。
 [搭]
-1.hero of the hour 当时的英雄
-2.lead a hero's life 过英雄般的生活
-[联] hero (希腊神话中的半神) ——> 英雄
+1.clientele effect 追随者效应；顾客效应；客户效应；顾客效果
+2.Our Clientele 我们的客户
+3.Clientele Effect Theory 效应理论；客户效应理论；追随者效应理论
+[联]client (客户) + ele (元素) + te (特殊，形容词后缀) ——> 客户群
 
-heroine / ˈher.əˌniː /
-n.女英雄；女主角；女主角演员
+commandeer / ˌkɒmənˈdɪə(r) /
+vt. 征用；霸占，没收；强取
 [例]
-1.The story is about a brave heroine. 这个故事讲述了一位勇敢的女英雄。
-2.The heroine saves the prince in the end. 女主角最终救了王子。
-3.The actress played the role of a tragic heroine. 这位女演员扮演了一位悲剧性的女主角。
+1.The government will commandeer ships only in wartime. 政府只在战争时期征用船只。
+2.He decides to commandeer their room. 他决定强行占用他们的房间。
+3.Commandeer unused space in your home to carve out a dedicated work space. 在你家征用一个闲置的地方，打造一个专属工作空间。
 [搭]
-1.fictional heroine 虚构的女英雄
-2.historical heroine 历史上的女英雄
-[联] hero (英雄) + ine (女性) ——> 女英雄
-
-actress / ˈæk.tərs /
-n.女演员
-[例]
-1.The actress won an award for her performance. 这位女演员因她的表演获得了奖项。
-2.The actress is known for her versatile roles. 这位女演员以多变的角色而闻名。
-3.The actress has been in several popular films. 这位女演员参演了几部热门电影。
-[搭]
-1.leading actress 主演女演员
-2.supporting actress 配角女演员
-[联] act (表演) + ress (女性) ——> 女表演者
-
-chancellor / ˈtʃæn.sə.lər /
-n.首相；校长；大法官
-[例]
-1.The chancellor made a speech yesterday. 首相昨天发表了讲话。
-2.The chancellor of the university is retiring next year. 这所大学的校长明年退休。
-3.The chancellor of the exchequer is responsible for financial policy. 财政大臣负责财政政策。
-[搭]
-1.chancellor of the exchequer 财政大臣
-2.chancellor of the university 大学校长
-[联] chan (唱歌) + cellor (人) ——> 歌唱的人
+1.Commandeer It 征用它
+2.commandeer bluchers 边带鞋
+3.Commandeer Revison 角色互换
+[联]com (一起) + mand (命令) + eer (人) ——> 发号施令的人
 
 commander / kəˈmændər /
-n.指挥官；司令；领导人
+n. 指挥官，长官；海军中校；英国高级警官；高级骑士（或爵士）
 [例]
-1.The commander led his troops into battle. 指挥官带领他的部队投入战斗。
-2.The ship's commander reported directly to the admiral. 这艘船的指挥官直接向海军上将汇报。
-3.The fire commander coordinated the efforts to extinguish the blaze. 火灾指挥官协调灭火行动。
+1.The commander had been forewarned of the attack. 指挥官预先得到敌人要发动袭击的警告。
+2.The commander and some of the men had been released. 指挥官和一些士兵已被释放。
+3.The commander said that the army would comply with the ceasefire. 指挥官说过部队会遵从停火协议。
 [搭]
-1.commander-in-chief 总指挥
-2.ship's commander 船长
-[联] command (命令) + er (人) ——> 发布命令的人
+1.Wing Commander 银河飞将；铁翼司令；星际战争之未来战士
+2.Supreme Commander 最高指挥官；超级指挥官；最高批示官；最高统帅
+3.lieutenant commander 海军少校；军衔；上尉指挥官
+4.commander in chief 统帅，总司令
+5.company commander 连长
+6.deputy commander 副司令；副指挥
+[联]com (一起) + mand (命令) + er (名词后缀) ——> 指挥官
 
-director / dəˈrektər /
-n.导演；主管；董事
+commandery / kəˈmɑːndəri /
+n. 骑士团管理地；会所
 [例]
-1.The director of the film is well-known. 这部电影的导演很有名。
-2.The marketing director presented the new campaign. 市场总监介绍了新的营销活动。
-3.The company's board of directors met yesterday. 公司董事会昨天召开了会议。
+1.The commandery seat was at Dianchi County (present day Jinning). 这个郡坐落于滇池县（今天的晋宁县）。
+2.In 109 BC, Emperor Wu sent General Guo Chang south to Yunnan, establishing Yizhou commandery and twenty-four subordinate counties. 公元前109年，汉武帝派将军郭昌南行，到达云南，建立益州郡和下属二十四个县。
+3.I believe mother it is merely a title.  the count purchased an island in the tuscan archipelago and as he told you to-day has founded a commandery . 我相信，妈，这只是一个头衔，伯爵在托斯卡纳多岛海里买下了一个岛子，正如他今天所告诉您的，就把那个岛作为他的封地。
 [搭]
-1.film director 电影导演
-2.executive director 执行董事
-[联] direct (指导) + or (人) ——> 指导的人
+1.Tai Commandery 代郡
+2.Ungjin Commandery 熊津都督府
+3.Wu Commandery 吴郡
+[联]无办法进行拆分联想。
 
-proponent / prəˈpoʊ.nənt /
-n.支持者；提倡者
+committee / kəˈmɪti /
+n. 委员会；<英>受托人，监护人；<美>精神病者监护人
 [例]
-1.The proponent argued strongly for the proposal. 支持者强烈主张这项提议。
-2.The proponent of the plan explained its benefits. 提案的支持者解释了其优点。
-3.Many proponents attended the conference. 很多支持者参加了这次会议。
+1.The committee meets on Fridays. 委员会每周五开会。
+2.The committee meets fortnightly. 委员会两星期开一次会。
+3.The committee has been dissolved. 委员会被解散了。
 [搭]
-1.main proponent 主要支持者
-2.key proponent 关键支持者
-[联] pro (支持) + ponent (倾向) ——> 支持倾向的人
+1.Election Committee 竞选委员会
+2.Steering Committee 指导委员会；筹划指导委员会；督导委员会；委员会
+3.Executive Committee 管理  执行委员会；执委会；常务委员会；理事会
+4.party committee 党委
+5.standing committee 常务委员会
+6.central committee 中央委员会
+[联]com (一起) + mit (送) + tee (茶会) ——> 一起送茶会
 
-committee /kəˈmɪti/, /ˈkɑːmɪti/
-n. 委员会；全体委员；（一小组）受托人，托管人
+committeeman / kəˈmɪtɪmən /
+n. 委员
 [例]
-1.The committee is responsible for making decisions. 委员会负责做决定。
-2.The committee consists of ten members. 委员会由十名成员组成。
-3.The committee met to discuss the budget. 委员会开会讨论预算。
-[搭] committee chair 主席；committee meeting 委员会会议
-[联] com- (一起) + mit- (送) + -tee (-人) ——> 一起送人，即共同管理的人
-
-council /ˈkaʊnsl/
-n. 市政委员会；理事会；顾问团；咨询委员会
-[例]
-1.The city council approved the new building plan. 市议会批准了新的建筑计划。
-2.The school council organizes student events. 学校理事会组织学生活动。
-3.The council held a meeting to address community concerns. 理事会召开会议解决社区问题。
-[搭] city council 市政府；school council 学生会
-[联] coun- (共同) + cil- (商议) ——> 共同商议的团体
-
-delegate /ˈdelɪɡeɪt/
-n. 代表；v. 推选……为代表；委派……为代表
-[例]
-1.John was chosen as the delegate for the conference. 约翰被选为会议代表。
-2.The company delegated him to negotiate with the union. 公司派他去与工会谈判。
-3.She will delegate the task to her assistant. 她会把任务交给助理。
-[搭] delegate to 外交使节；delegation 委员会
-[联] de- (下) + leg- (选择) + -ate (-人) ——> 下令选择的人
-
-specialist /ˈspɛʃəlɪst/
-n. 专家；专科医生；行家
-[例]
-1.He is a specialist in ancient history. 他是古代历史方面的专家。
-2.A dentist is a type of medical specialist. 牙医是一种医学专家。
-3.The article discusses the role of specialists in technology. 文章讨论了技术专家的作用。
-[搭] specialist knowledge 专业知识；specialist skills 专业技能
-[联] special (特别的) + -ist (-者) ——> 专门研究特别事物的人
-
-consultant /kənˈsʌltənt/
-n. 顾问；顾问医师；咨询师
-[例]
-1.She works as a consultant for a law firm. 她在一家律师事务所担任顾问。
-2.The company hired a consultant to improve their marketing strategy. 公司聘请了一位顾问来改进他们的营销策略。
-3.The consultant provided valuable advice. 这位顾问提供了宝贵的建议。
-[搭] management consultant 管理顾问；consultant fee 咨询费
-[联] consult (咨询) + -ant (-者) ——> 提供咨询的人
-
-veterinary /vɛtərˈnɛri/
-adj. 兽医的；兽医学的
-[例]
-1.Veterinary medicine is a field of study. 兽医学是一门学科。
-2.Veterinary care is essential for animals. 兽医护理对动物来说是必需的。
-3.Veterinary clinics offer treatment for pets. 兽医诊所提供宠物治疗服务。
-[搭] veterinary science 兽医学；veterinary hospital 兽医院
-[联] vet (老兵) + -inary (-相关) ——> 关于老兵的医疗
-
-counsellor /ˈkaʊnslər/
-n. 顾问；法律顾问；心理辅导员
-[例]
-1.The counsellor helped her deal with stress. 心理辅导员帮助她应对压力。
-2.A legal counsellor can provide advice. 法律顾问可以提供建议。
-3.The university has a counsellor for international students. 大学为国际学生配备了辅导员。
-[搭] career counsellor 职业顾问；school counsellor 校园辅导员
-[联] counsel (建议) + -or (-者) ——> 提供建议的人
-
-solicitor /səˈlɪsɪtər/
-n. 律师（英国称谓，相当于美国的律师）
-[例]
-1.The solicitor prepared the contract. 律师准备了合同。
-2.A solicitor advises clients on legal matters. 律师就法律事务向客户提供咨询。
-3.The solicitor represented the client in court. 律师在法庭上代表客户。
-[搭] family solicitor 家庭律师；solicitor's office 律师事务所
-[联] solicit (请求) + -or (-者) ——> 请求法律帮助的人
-
-attorney /əˈtɜːrnɪ/
-n. 律师；代理人；（美国指检察官）
-[例]
-1.An attorney defends the accused person. 律师为被告辩护。
-2.The attorney general is the chief lawyer of the government. 总检察长是政府的首席律师。
-3.The attorney negotiated a settlement. 律师协商达成了和解。
-[搭] criminal attorney 刑事律师；defense attorney 辩护律师
-[联] at- (加强意义) + turn (转) + -ey (-人) ——> 转移案件的人
-
-umpire /ʌmˈpaɪər/
-n. 裁判；仲裁人；v. 当裁判；裁定
-[例]
-1.The umpire called the ball fair. 裁判判定这个球是界内。
-2.The two parties agreed to let an umpire decide. 双方同意让一位裁判来裁决。
-3.The umpire blew the whistle to stop the game. 裁判吹哨暂停比赛。
-[搭] baseball umpire 棒球裁判；umpire decision 裁判判决
-[联] up- (向上) + mire (泥沼) ——> 在泥沼中向上指引的人
-
-cashier /kəˈʃɛr/, /ˈkæʃˌɛr/
-n. 收银员；出纳员
-[例]
-1.The cashier counted the money and balanced the register at the end of the day. 收银员在一天结束时清点现金并核对收银机。
-2.I asked the cashier where the bathroom was. 我问收银员洗手间在哪里。
-3.The cashier greeted me with a smile as I entered the store. 我进商店时，收银员微笑着向我打招呼。
+1.The society decided on(upon)a lecture series and appointed a committeeman to determine the dates, etc. 一系列的联谊活动，座谈会，汉语课程和专题讲座。
 [搭]
-1.cashier's check 支票
-2.cashier's office 出纳室
-[联] cash (现金) + ier (表示人) ——> 收现金的人
+1.academic committeeman 学部委员
+2.liquor tasting committeeman 白酒评委
+[联]com (一起) + mittee (委员会) + man (人) ——> 委员会成员
 
-nurse /nɜrs/
-n. 护士；看护者
+commutation / ˌkɒmjuˈteɪʃn /
+n. 减刑；交换；经常来往；代偿
 [例]
-1.The nurse took my temperature. 护士给我量了体温。
-2.My mother works as a nurse in the hospital. 我妈妈在医院当护士。
-3.The nurse explained the medication to me carefully. 护士仔细地向我解释药物的使用方法。
+1.The prisoner obtained a commutation of his sentence from death to life imprisonment. 这个囚犯得到减刑，由死刑改判无期徒刑。
+2.Each period of DC excitation and forced commutation drives is set with an external capacitor. 直流励磁时间和强制换向时间都由一个外部电容设定。
+3.Single person sofa is having more expressional commutation Spaces, also allow the memory of next more feeling. 单人沙发有着更多的表情变换空间，也容下更多喜怒哀乐的记忆。
 [搭]
-1.school nurse 校医
-2.nurse practitioner 护理师
-[联] nurse (照顾) ——> 看护病人的人
+1.commutation condition 换向状况
+2.line commutation 电网换流； 电  电网换相
+3.forced commutation 强迫换流； 电  强制换向
+4.commutation system 交换系统
+[联]com (一起) + mutation (变化) ——> 交换、变换
 
-gardener /ˈgɑrdnər/
-n. 园丁；园艺工作者
+commutative / kəˈmjuːtətɪv /
+adj. 交换的，交替的；（一般）代替的
 [例]
-1.The gardener watered the plants every morning. 园丁每天早上浇花。
-2.My grandfather is an experienced gardener. 我爷爷是一位经验丰富的园丁。
-3.The gardener trimmed the hedges into shapes. 园丁把树篱修剪成各种形状。
+1.Hence, SUM is commutative to partition. 因而，SUM 就是可互换分区。
+2.Rules can also be used for commutative and noncommutative algebra. 规则可以用于交换和非交换代数。
+3.Commutative writes also simplify the process of bringing up new partitions. 可交换的写操作简化了新数据块的创建流程。
 [搭]
-1.gardener's gloves 园艺手套
-2.community gardener 社区园丁
-[联] garden (花园) + -er (表示人) ——> 负责打理花园的人
+1.commutative algebra 可对易代数；可换代数
+2.commutative ring 数  交换环；可换环
+3.Commutative property 交换律；交换性
+4.commutative ring 交换环；可换环
+[联]commute (往返，通勤) + ative (形容词后缀) ——> 形容词，表示交换律的，可交换的
 
-barber /ˈbɑrbər/
-n. 理发师
+commute / kəˈmjuːt /
+v. 通勤，上下班往返；减轻（刑罚）；代偿；（两个运算，两个量）可交换
+n. 通勤，上下班交通路程
 [例]
-1.I went to the barber for a haircut. 我去理发店剪了头发。
-2.My barber recommended a new product to me. 我的理发师向我推荐了一款新产品。
-3.The barber gave me a shave and a trim. 理发师给我剃了胡子并修了边。
+1.So how long is your commute?那么你上下班路程要花多长时间？《柯林斯英汉双解大词典》。
+2.People are prepared to commute long distances if they are desperate for work. 亟须得到工作的人会愿意长途乘车往返上下班。
+3.They were asked to predict whether they'd enjoy the commute more if they conversed with other people. 他们被要求预测如果与他人交谈，他们是否会更享受通勤。
 [搭]
-1.barber shop 理发店
-2.barber pole 理发店标志杆
-[联] barber (理发) ——> 给人理发的人
+1.Does not Commute 拒绝上班
+2.to commute to work 上班工作
+3.Change Your Commute 改变上班路线
+[联]com (一起) + mute (沉默) ——> 一起保持沉默
 
-haircut /ˈhɛrkʌt/
-n. 剪发；发型；减价
+commuter / kəˈmjuːtə(r) /
+n. 上下班往返的人
 [例]
-1.I got a new haircut yesterday. 我昨天剪了个新发型。
-2.Haircuts can change your whole look. 发型可以改变你的整体形象。
-3.The company announced a 10% haircut on their profits. 公司宣布削减10%的利润。
+1.She accidentally stepped on his foot on a crowded commuter train. 她在一辆拥挤的通勤火车上不小心踩到他的脚。
+2.The deal would have reduced competition in the commuter-aircraft market. 该交易本可以减少通勤飞机市场的竞争。
+3.Commuter airlines fly to out-of-the-way places.  And business travellers are the ones who go to those locations. 通勤航空公司飞往偏僻的地方。
 [搭]
-1.haircut price 打折价格
-2.haircut style 发型风格
-[联] hair (头发) + cut (剪) ——> 剪头发的动作或结果
+1.commuter rail 通勤铁路；通勤火车；然后乘坐通勤火车；通勤轨道交通
+2.Japan Air Commuter 日本空中通勤；通勤航空公司；日本通勒航空公司；日本通勒航空
+3.Ryukyu Air Commuter 琉球空中通勤
+4.commuter train 市郊往返列车
+[联]com (一起) + mutter (嘀咕) ——> 一起嘀咕
 
-fishman /ˈfɪʃmən/
-n. 渔夫
+consultancy / kənˈsʌltənsi /
+n. 咨询公司；咨询意见，顾问工作
 [例]
-1.The fishman returned with a full basket of fish. 渔夫带着一篮子鱼回来了。
-2.The fishman repaired his net by the shore. 渔夫在岸边修补渔网。
-3.The fishman told stories about his adventures at sea. 渔夫讲述了他在海上冒险的故事。
+1.A survey of 57 hospitals by Newchurch, a consultancy, reveals striking improvements. 纽彻奇咨询公司对57家医院的调查显示明显的改善。
+2."It's been the year of interactive television advertising for the last ten or twelve years," says Colin Dixon of a digital-media consultancy. 数字媒体咨询公司的科林·迪克森说：“过去的10年或12年都是交互式电视广告的时代。
+3.Professor Gauthier believes schools should not just be selecting candidates from traditional sectors such as banking, consultancy and industry. 戈捷教授认为，学校不应该只从银行业、咨询业和工业等传统行业挑选候选人。
 [搭]
-1.fishman's boat 渔船
-2.fishman's market 渔市
-[联] fish (鱼) + man (人) ——> 捕鱼的人
+1.consultancy company 点子公司；点子自己搞；江东省一家咨询公司；咨询公司
+2.Tata Consultancy Services 塔塔咨询服务公司；塔塔咨询服务；塔塔咨询；塔塔谘询服务
+3.Chinese Legal Consultancy Centre 中国法律质询中心
+4.consultancy service 咨询服务；顾问服务
+5.consultancy company 点子公司
+[联]consult (咨询) + ancy (后缀，表状态或性质) ——> 咨询服务的状态或性质
 
-butcher /ˈbʊtʃər/
-n. 屠夫；肉贩
+consultant / kənˈsʌltənt /
+n. 顾问；高级顾问医师，会诊医师；咨询者
 [例]
-1.The butcher wrapped up the meat for me. 屠夫为我包好肉。
-2.My local butcher sells organic beef. 我附近的屠夫卖有机牛肉。
-3.The butcher recommended a good cut of lamb. 屠夫推荐了一块不错的羊排。
+1.She is a consultant to the government. 她是政府顾问。
+2.He is currently engaged as a consultant. 他现在受雇为顾问。
+3.He was a consultant rheumatologist at the local hospital. 他是当地医院的一位风湿病学顾问。
 [搭]
-1.butchery 屠宰场
-2.slaughterhouse 屠宰场
-[联] butcher (屠宰) ——> 切割肉类的人
+1.Senior Consultant 高级顾问；专业顾问；高级猎头顾问；资深顾问
+2.Management Consultant 管理顾问；经营顾问；治理顾问；业务顾问
+3.Financial Consultant 财务顾问；理财顾问；财资规划顾问；寿险理财师
+4.management consultant 管理顾问
+5.marketing consultant 营销顾问；市场顾问；销售顾问
+6.consultant firm 咨询公司；顾问公司
+[联]con (一起) + sult (讨论) + ant (……的人) ——> 咨询师
 
-groom /ɡrum/
-n. 新郎；马夫
+council / ˈkaʊns(ə)l /
+n. 委员会，理事会；政务委员会，地方议会；会议；（教会的）集会
+adj. 地方政府廉租的
 [例]
-1.The groom wore a suit and tie on his wedding day. 新郎在婚礼当天穿着西装打着领带。
-2.The groom led the horse out of the stable. 马夫牵着马出了马厩。
-3.All eyes were on the groom during the ceremony. 在仪式上所有人都注视着新郎。
+1.The members left the council chamber. 议员离开了会议厅。
+2.The Tree Council promotes tree planting. 林木委员会倡导植树造林。
+3.The Council answered those questions in the negative. 理事会对那些问题做出了否定回答。
 [搭]
-1.groom the bride 给新娘梳妆打扮
-2.groom the horse 鞭打马匹
-[联] groom (梳理) ——> 给马梳理毛发的人
+1.British Council 英国文化协会；英国文化委员会；英国大使馆文化教育处；英国文化教育协会
+2.Council of Europe 欧洲委员会；欧洲理事会；欧洲议会；事会
+3.privy council 枢密院；英国枢密院
+4.state council 国务院
+5.security council（联合国）安全理事会
+6.city council 市议会
+[联]coun (乡村) + cil (引导) ——> 乡村引导员
 
-hostage /ˈhɑstɪdʒ/
-n. 人质
+councillor / ˈkaʊnsələ(r) /
+n. 市议员，政务委员会委员
 [例]
-1.The kidnappers demanded a ransom for the hostage. 绑匪要求赎金赎回人质。
-2.The soldier refused to leave the hostage behind. 士兵拒绝留下人质不管。
-3.The police negotiated with the hostage-taker. 警察与劫持人质者谈判。
+1.This reply fully satisfied the Councillor；the title suited the dress. 司法官对这个回答非常十分满意；这个头衔与装扮很相称。
+2.The Councillor knew nothing of the age in which he at that moment was. 司法官一点也不知道他现在是什么年纪。
+3.The Councillor stood still, and watched a most strange procession pass by. 司法官站着不动，看着一支奇怪的队伍走过。
 [搭]
-1.hostage situation 人质事件
-2.swap hostages 交换人质
-[联] host (主人) + age (名词后缀) ——> 被扣押的“主人”
+1.town councillor 镇议会议员
+2.STATE COUNCILLOR 国务委员
+3.incumbent councillor 现任议员
+[联]councillor (地方议会议员) + or (表示人) ——> 议会议员
 
-toil /tɔɪl/
-v. 辛苦工作；努力劳动
+councilman / ˈkaʊnslmən /
+n. 议员；委员
 [例]
-1.She toiled away in the fields all day long. 她整天在田里辛苦劳作。
-2.The workers toiled through the night to finish the project. 工人们通宵达旦地工作以完成项目。
-3.I toiled over my homework until late at night. 我熬夜做作业直到深夜。
+1.A dying hepatocyte is forming an eosinophilic "councilman body". 濒临死亡的肝细胞正形成嗜酸性小体。
+2.We once had a computer print a monthly bill for a city councilman. 有一次，我们给一位市政会成员用计算机打印了一份月度账单。
+3.Councilman Steve Wolfson asked if there were any risks to the city in the deal. 议员史蒂夫·沃尔·福森问此次交易对城市是否存在风险。
 [搭]
-1.toil and trouble 苦差事和麻烦事
-2.toil for success 为成功而努力工作
-[联] toil (劳动) ——> 不辞辛劳地工作
+1.Councilman bodies 康氏小体
+2.acidophilic body or Councilman body 嗜酸性小体
+3.common councilman 地方议会议员
+[联]council (委员会) + man (人) ——> 委员会成员
 
-beggar / ˈbɛɡər /
-n.乞丐；可怜的人；依赖他人的人
+councilor / ˈkaʊns(ə)lə(r) /
+n. 顾问；评议员；参赞
 [例]
-1.The beggar asked for money on the street corner. 那个乞丐在街角请求施舍。
-2.She felt like a beggar for attention after her sister's birth. 她觉得妹妹出生后自己就像个乞求关注的孩子。
-3.He was reduced to begging after losing his job. 失去工作后他沦落为乞讨。
+1.Amender's mother employs a personal trainer, a bodyguard, a singing coach and a councilor to look after all her fifteen-year-old daughter's needs. Amender 的母亲雇了一名私人教练、一名保镖、一名歌唱教练和一名顾问来满足她15岁女儿的一切需要。
+2.A local councilor said he wants it to stay that way. 当地一名议员表示，他希望这样的状况一直保持下去。
 [搭]
-1.street beggar 街头乞丐
-2.beggar one's bread 维持生计
-[联] 从“beg”（乞讨）引申而来。
+1.State Councilor 国务委员
+2.Privy Councilor 智囊团
+3.city councilor 市议员；市政厅议员
+4.state councilor 国务委员
+[联]coun (乡村) + cil (引导) + or (人) ——> 乡村引导者
 
-slave / sleɪv /
-n.奴隶；苦工；受人摆布的人
-v.像奴隶一样工作
+counsellor / ˈkaʊnsələr /
+n. 顾问，辅导顾问；律师；<美>夏令营负责人；（使馆的）参赞
 [例]
-1.His father worked as a slave in the fields all his life. 他的父亲一生都在田间做苦工。
-2.She felt like a slave to her job. 她觉得自己被工作奴役。
-3.The company has no right to enslave its employees. 公司无权奴役其雇员。
+1.Hicks worked with children as a camp counsellor. 希克斯是一名和孩子打交道的夏令营辅导员。
+2.You need to take your problems to a trained counsellor. 你需要向一位训练有素的顾问请教你的问题。
+3.Your first step should be to talk to a teacher or school counsellor. 你第一步应该是去找个老师或学校辅导员谈谈。
 [搭]
-1.slave labor 奴隶劳力
-2.be a slave to 对...上瘾
-[联] 与“labor”（劳动）相关联。
+1.Counsellor of State 国务顾问
+2.commercial counsellor 贸易  商务参赞；商业上的事务参与赞助；商业上的事务参赞
+3.Careers Counsellor 职业顾问；职业参赞；职业咨询师；招聘顾问
+[联]counsellor (顾问，咨询师) + or (表示人) ——> 建议的人
+
+counselor / ˈkaʊnsələr /
+n. 顾问，咨询师；律师，法律顾问；（使馆的）参赞，参事；（夏令营的）辅导员（counsellor 的美式拼写）
+[例]
+1.Listen to a conversation between a student and a counselor at the University Counseling Center. 请听一段学生和大学咨询中心辅导员之间的对话。
+2.The ability to relate well with their student is something a counselor should possess, not a teacher. 与学生相处融洽的能力是辅导员应该具备的，而不是老师。
+3.The ability to relate well with their students is something a counselor should possess, not a teacher. 与学生融洽相处的能力是辅导员应该具备的，而不是老师。
+[搭]
+1.The Counselor 黑金杀机；黑权大状；法律顾问
+2.Minister Counselor 公使
+3.Commercial Counselor 商务参赞；商业
+4.guidance counselor 咨询顾问
+5.minister counselor 公使
+6.school counselor 学校辅导员
+[联]coun (建议) + selor (类似老师) ——> 像给出建议的老师
+
+couple / ˈkʌp(ə)l /
+n. 两个，几个；一对夫妇，一对情侣
+v. 加上，结合；（把设备等）连接；形成一双，配成一对；<旧>交配，交媾；（用电磁感应，静电荷或光学通信线路）将（电路元件）耦合
+[例]
+1.It's only a couple blocks away. 那地方离这里只有几个街区。
+2.The couple have no children. 这对夫妇没有孩子。
+3.They were an odd-looking couple. 这对夫妇长相奇特。
+[搭]
+1.a couple of 几个；一对；两个；两三个
+2.Very Ordinary Couple 恋爱的温度
+3.married couple 夫妇；已婚夫妇；夫妻
+4.a couple of 三两个…；一对…
+5.young couple 青年夫妇
+6.a couple of days 一两天
+[联]a couple (一对， couple) ——> co- (共同) + -uple (与...有关的数量) ——> 两个事物或人结合在一起的数量
+
+couplet / ˈkʌplət /
+n.（尤为押韵等长的）对句，对联
+[例]
+1.In the third couplet, the poet describes a peaceful scene to us. 第三联中，诗人向我们描绘了一幅宁静的景象。
+2.This antithetical couplet is my father's handwriting. 这幅对联是父亲的亲笔。
+3.Hasn't the valentine day to, what had to deliver well, delivers antithetical couplet. 情人节到了，没啥好送的，就送对联一副。
+[搭]
+1.Heroic Couplet 英雄双行体；英雄双韵体；好汉双行体；双韵体
+2.Philippe Couplet 柏应理
+3.antithetical couplet 对联；联语；属对；对子
+[联]couplet (对联) + poem (诗歌) ——> 由两行对仗工整的诗句组成的诗歌
+
+cousin / ˈkʌz(ə)n /
+n. 堂（表）兄弟，堂（表）姐妹；远房亲戚；兄弟民族（或国家）的人（来自不同国家但文化近似）；相似的人（物）
+[例]
+1.Eric was my cousin Edward's boy. 埃里克是我堂兄爱德华的儿子。
+2.She's my cousin. 她是我的表妹。
+3.I tried again to get ahold of my cousin Joan. 我又试着联系了一次我表姐琼。
+[搭]
+1.My Cousin Vinny 我的堂兄文尼；智勇急转弯；英文名；妙计扭干坤
+2.Le Cousin Pons 邦斯舅舅
+3.Cousin Cousine 表兄妹
+4.first cousin 堂兄弟姊妹
+5.distant cousin 远表兄妹
+6.second cousin 远房堂或表兄弟姊妹
+[联]family member + relative ——> 表兄妹
 
 coward / ˈkaʊərd /
-n.懦夫；胆小鬼
+n. 胆小鬼，懦夫
+adj. <文>胆小的，怯懦的；（动物形象）夹着尾巴的
 [例]
-1.He called his opponent a coward during the debate. 辩论中他称对手为懦夫。
-2.No one respects a coward who runs away from a fight. 没有人尊重逃避战斗的懦夫。
-3.I hate cowards who betray their friends. 我讨厌背叛朋友的懦夫。
+1.You coward! What are you afraid of?你这胆小鬼！你怕什么呢？《牛津词典》。
+2.'Coward!' a tiny inner voice insisted. “胆小鬼！”内心一个小声音坚持说。
+3.By attacking me, by attacking my wife, he has proved himself to be a gutless coward. 通过袭击我，袭击我妻子，他已经证明了自己是一个胆小的懦夫。
 [搭]
-1.cowardly act 懦弱的行为
-2.live as a coward 以懦夫的方式生活
-[联] “cow”（牛）+ “-ard”（表示“具有某种特性的人”）——> 胆小如鼠的人。
+1.Noël Coward 编剧诺埃尔·考沃德
+2.Noel Coward 科沃德；诺埃尔·科沃德；考沃德；寇威尔
+3.Coward Knight 胆小骑士；中文版；破解版；懦夫骑士
+[联]coward (懦夫) + heart (心脏) ——> 没有勇气的人
 
+cowardice / ˈkaʊədɪs /
+n. 怯懦，胆小
+[例]
+1.Her cowardice began to trouble her in a way. 她的怯懦在某种程度上开始困扰她。
+2.In his late novel the hero, Robert Jordan, thinks sadly that his father was really a coward who finally proved his cowardice by committing suicide. 在他最近的小说里，主人公罗伯特·乔丹悲哀地认为，他的父亲确实是个懦夫，最终以自杀来证明自己的懦弱。
+3.He openly accused his opponents of cowardice. 他公开指责对手胆小怯懦。
+[搭]
+1.moral cowardice 道义上的怯懦
+2.Courage and Cowardice 勇敢和怯懦；英勇和勇敢
+3.Forgive my cowardice 原谅我的胆怯；原谅我的懦弱
+[联]cowardice (懦弱) + ice (冰) ——> 懦弱如冰，形容一个人像冰一样冷淡，缺乏勇气
+
+cowardly / ˈkaʊədli /
+adj. 怯懦的，胆小的；恃强凌弱的
+adv. <古>胆怯地，怯懦地
+[例]
+1.He was weak, cowardly and treacherous. 他软弱、胆怯、奸诈。
+2.I was too cowardly to complain. 我胆小得都不敢抱怨。
+3.This was a cowardly thing to do. 做这种事是懦弱的行为。
+[搭]
+1.Courage the Cowardly Dog 胆小狗英雄；怯懦狗好汉
+2.mean and cowardly 卑怯；卑下怯懦
+3.The Cowardly Lion 胆小的狮子；懦弱的狮子
+[联]cowardly (怯懦地) + lion (狮子) ——> 狮子胆小鬼
+
+custom / ˈkʌstəm /
+n. 风俗，习俗；习惯；光顾，惠顾；<法律>惯例，习惯法；（经常性的）顾客
+adj. 定做的，量身设计的
+[例]
+1.It was her custom to rise early. 早起是她的习惯。
+2.The origin of the custom is obscure. 该习俗的起源鲜为人知。
+3.This quaint custom should be revived. 应该恢复这一独特的风俗。
+[搭]
+1.Full custom 全定制
+2.Define Custom Shape 定义自定外形；定义自定义形状；定义型版
+3.Folk custom 民俗；民间习俗；民俗风情；黎族民间童话
+4.folk customn.  民间习俗
+5.custom duty 关税
+6.custom made 定做的，非现成的；定制品
+[联]custom (风俗) + um ——> 习惯
+
+customary / ˈkʌstəməri /
+adj. 习俗的，习惯的；特有的，典型的；<法律>按习惯法的，依惯例的；与非洲黑人传统（或法律）有关的
+n. <史>习惯法汇编
+[例]
+1.It is customary to offer a drink or a snack to guests. 通常用饮料或小吃招待客人。
+2.In the United States, it is not customary to telephone somenone very early in the morning. 在美国，人们不习惯在大清早给人打电话。
+3.Church records show he was baptized on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. 教会记录显示，他于4月26日受洗，在为新生婴儿施洗之前，通常需要等待三天。
+[搭]
+1.customary packing 包装  习惯包装；普通包装；中性包装；习气包装
+2.customary tare 贸易  习惯皮重；惯用包装；习惯皮重法；划定皮重量
+3.customary international law 国际习惯法；习惯国际法；国际惯例法
+4.customary law 习惯法
+[联]custom (习俗) + a + ry (表性质或状态) ——> 习惯的、常规的
+
+customer / ˈkʌstəmər /
+n. 顾客；（某一类型的）家伙
+[例]
+1.The customer called to cancel. 顾客打电话来取消了。
+2.The firm has excellent customer relations. 此公司与客户关系极好。
+3.They set high standards of customer service. 他们制订了严格的客户服务标准。
+[搭]
+1.Customer Service 客户服务； 贸易  顾客服务；客服中心；线客服
+2.customer loyalty 顾客忠诚度；顾客忠诚；客户忠诚度；客户忠诚
+3.customer value 顾客价值；客户价值；客户确定价值；顾客价值分析
+4.customer service 客户服务；售后服务
+5.customer satisfaction 客户满意度
+6.customer first 客户至上；顾客至上
+[联]custom (定制) + er (表示人) ——> 顾客
+
+customization / ˈkʌstəməzeɪʃən /
+n. 定制；[计] 用户化；客制化服务
+[例]
+1.Run the customization script. 运行自定义脚本。
+2.Now, customization is king. 现在是客户化为王。
+3.Inline customization is one way to do this. 一种实现方法是内联定制。
+[搭]
+1.Mass Customization 大规模定制；大量客制化；大批量定制；规模定制
+2.CUSTOMIZATION LOGISTICS 定制
+3.Customization Marketing 定制营销；综；芈；缳
+4.mass customization 大规模定制；大众化定制
+[联]custom (习惯的) + ization (名词后缀) ——> 定制化
+
+customize / ˈkʌstəmaɪz /
+v. 订制，改制（以满足顾主的需要）
+[例]
+1.Supporters say open source software is more secure, cheaper to buy and maintain and easier to customize. 拥护者认为开放源代码软件更安全，购买价格及维修成本也更为低廉，并且更容易定制。
+2.They "customize" their books by engaging with different layers and linkages. 他们通过加入不同的层次和连接部分“定制”了自己的书。
+3.Roto-Rooter spokesman Paul Abrams said the firm spent about $5, 000 on parts and components to customize the toilet. Roto-Rooter 发言人保罗·艾布拉姆斯说公司在定制马桶的零件和组件上花了约5000美元。
+[搭]
+1.Customize UI 定制用户界面；定制自已的界面设置；定制界面；定制使用者界面
+2.Customize User Interface 自定义用户界面；定制用户界面；自界说用户界面；用户自定义界面
+3.Customize Toolbars 自界说东西条；客户端工具条
+[联]custom (定制) + ize (动词后缀) ——> 定制化
+
+darling / ˈdɑːlɪŋ /
+n. 亲爱的，宝贝；亲切友好的人；宠儿，红人
+adj. 亲爱的，心爱的；可爱的，迷人的
+[例]
+1.Come on, darling, we'll be late. 快点，亲爱的，我们要迟到了。
+2.What's the matter, darling?怎么啦，亲爱的？《牛津词典》。
+3.'Darling Henry,' the letter began. “亲爱的亨利”，信的开头这样写道。
+[搭]
+1.Darling Harbour 达令港；情人港；达伶港；达令海港
+2.Darling River 达令河；与达令河；及达令河
+3.Alistair Darling 戴理德；英国财政大臣；财政大臣达林
+4.little darling 小宝贝；小爱人
+[联]dear (亲爱的) + ling (小的) ——> 小亲爱的
+
+dear / dɪr /
+adj. 珍视的；(用于信函抬头名字或头衔前)亲爱的；昂贵的
+n.（称呼所爱的人）亲爱的
+int. 啊，天呐
+[例]
+1.Would you like a drink, dear?喝点什么吗，亲爱的？《牛津词典》。
+2.My dear girl, you're wrong. 我亲爱的姑娘，你错了。
+3.You're a lot like me, dear. 你和我太像了，亲爱的。
+[搭]
+1.Dear John 亲爱的约翰；最后一封情书；分手信；亲爱的面霜
+2.Dear Heart 甜心；亲爱的心；心上人；亲爱的
+3.Dear Friends 二分之一的友情；亲爱的朋友；海贼王；海贼王插曲
+4.dear friend 亲密朋友
+5.dear john（美）女友给男方的绝交信
+6.dear john letter 绝交信
+[联]d (字母) + ear (耳朵) ——> 耳朵上的字母（想象在耳朵上写字母）
+
+dearest / ˈdɪərɪst /
+adj. 最亲爱的；深切的，由衷的；很贵的
+n. 最亲爱的人
+[例]
+1.Come (my) dearest, let's go home. 好啦，亲爱的，咱们回家吧。
+2.'Dearest Nina', the letter began. “最亲爱的尼娜”，信的开始这样写道。
+3.It was her dearest wish to have a family. 有一个家是她由衷的希望。
+[搭]
+1.My Dearest 罪恶王冠；我最亲爱的；主题曲；初回生产限定盘
+2.Sister Dearest 妹俏娇娃；傻妹俏娇娃；年
+3.Dearest Bride 新娘；新娘专辑
+[联]dear (亲爱的) + est (形容词最高级后缀) ——> 最亲爱的人
+
+dearly / ˈdɪəli /
+adv. 深深地；昂贵地
+[例]
+1.She loved her father dearly. 她深深地爱着她的父亲。
+2.She loves him dearly. 她深深地爱着他。
+3.I would dearly love to marry. 我热切地想结婚。
+[搭]
+1.DeArly Beloved 最心爱的；敬爱的人们；下村阳子；挚爱
+2.Loving Dearly 疼爱；深深地爱着；爱代价高昂
+3.Dearly love yesterday 爱死了昨天
+[联]dear (亲爱的) + ly (副词后缀) ——> 表示深情地、昂贵地
+
+dearth / dɜːθ /
+n. 缺乏；<古>食物短缺，饥荒
+[例]
+1.There was a dearth of reliable information on the subject. 关于这个课题缺乏可靠资料。
+2.Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the "unsettling dearth of integrity across so many of our institutions. "两年前，鲁珀特·默多克的女儿伊丽莎白曾说过，“我们许多机构缺乏诚信，这令人不安。
+3.There is, however, no dearth of technological resources, rather, managers in the service sector fail to take advantage of widely available skills and machines. 然而，技术资源并不缺乏，相反，服务部门的管理人员未能利用广泛可用的技能和机器。
+[搭]
+1.The Dearth ofBirths 走低的出生率；走低的出世率
+2.dearth h 饥荒；缺乏；饥馑；少量的
+3.Randy Dearth 鲁迪·德斯
+[联]dearth (缺乏，不足) + supply (供应) ——> 缺乏供应
+
+dependence / dɪˈpendəns /
+n. 依赖，依靠；（对毒品或酒精的）瘾，癖
+[例]
+1.It liberated industry from dependence on running water. 它使工业摆脱了对自来水的依赖。
+2.Only a few kinds of drugs can cause physical dependence. 只有少数几种毒品能引起身体的依赖性。
+3.America's almost complete dependence on automobiles has been a terrible mistake. 美国几乎完全依赖汽车的做法是一个严重的错误。
+[搭]
+1.Path Dependence 路径依赖；路径依赖理论；路径依靠
+2.dependence on 依赖
+3.alcohol dependence 酒精依赖；酒依赖；依赖；酒瘾
+4.dependence on 依赖；依靠；信赖
+5.linear dependence 线性相关；线性关系
+6.time dependence 时间相依；时间依赖性
+[联]de (一) + pend (悬挂) + ence (名词后缀) ——> 依赖，依靠
+
+dependency / dɪˈpendənsi /
+n. 属国；从属；从属物
+[例]
+1.Their aim is to reduce people's dependency on the welfare state. 他们旨在减少人们对福利制度的依赖。
+2.But social workers say that this has created a culture of dependency, particularly in urban areas. 但是社会工作者说，这造成了一种依赖习惯，在城区尤其如此。
+3.We saw his dependency on his mother and worried that he might not survive long if anything happened to her. 我们看到他对母亲的依赖，担心万一她有个闪失，他也会活不长。
+[搭]
+1.Dependency Theory 依赖理论；依附论
+2.dependency ratio 扶养比；抚养比率；抚养比；依赖比率
+3.Dependency inversion principle 依赖反转原则；依赖倒置原则；依赖倒转原则；依赖倒置
+4.dependency theory 依赖理论，从属关系理论；依附理论
+5.functional dependency 函数相关性；功能相关
+6.dependency relationship 依赖关系
+[联]depend (依赖) + ency (名词后缀) ——> 依赖性
+
+dependent / dɪˈpendənt /
+adj. 依赖的，依靠的；取决于；有瘾的
+n. 受供养者
+[例]
+1.The area is heavily dependent on tourism. 这个地区非常依赖旅游业。
+2.She is still financially dependent on her parents. 她在经济上仍然依靠父母。
+3.She had grown ever more peevishly dependent on him. 她脾气变得更坏，对他的依赖更重了。
+[搭]
+1.Dependent Variable 因变量； 数  应变量； 数  应变数；依变项
+2.conservation dependent 依赖保育；低危还包括依赖保护；保护依赖
+3.dependent territory 属地；属土；境外领地；海外省
+4.dependent on 依赖于；依靠
+5.time dependent 依时性，与时间有关的
+6.dependent variable 因变量；他变数；应变数
+[联]de (一) + pend (悬挂) + ent (……的) ——> 依赖的
+
+deputation / ˌdepjuˈteɪʃn /
+n. 代表团，代表；委任代理
+[例]
+1.A deputation of elders from the village arrived headed by its chief. 村子里的年老者代表团在村长的带领下到了。
+2.They sent a deputation to the ministry to complain. 他们派了一个代表团到部里投诉。
+3.We were surprised at there being such a large deputation to meet us. 有这么庞大的代表团来迎接我们，我们感到很吃惊。
+[搭]
+1.Ober-Bau-Deputation 代表
+2.Water Deputation 净水处理
+3.Deputation Theory 委托代理理论
+[联]de- (否定前缀) + putation (与放置有关) ——> 表示派遣，尤指派代表团
+
+depute / dɪˈpjuːt /
+v. 向（某人）授权；委派（某人）
+n. 受权人
+[例]
+1.He depute the running of the department to an assistant. 他把部门的管理工作委托给助手了。
+2.The depute at the moment revolves around whether other delegates should attend. 此刻的辩论围绕着其他代表们是否应该参加。
+3.Depute To build it, the company is using a new system of suppliers around the world. 为了建造这个，公司在全球使用了新的供货系统。
+[搭]
+1.depute judge 法  助理法官
+2.depute procurator 法  助理检察官
+3.Kathy K Depute 标签
+[联]depute (委派，授权) + mission (任务) ——> 委派任务
+
+deputy / ˈdepjuti /
+n. 代理人，副手，副职；代表，议员；（美国协助地方治安官办案的）警官
+adj. 副的；代理的
+[例]
+1.Who has she designated (as) her deputy?她委任了谁为她的副手？《牛津词典》。
+2.His brother was acting as his deputy in America. 他的兄弟充当他在美洲的代理人。
+3.By convention the deputy leader was always a woman. 按惯例，这一领导职务的副职总是由女性担任。
+[搭]
+1.Deputy Director 副处长；副司长；副院长
+2.Deputy General Manager 副总经理；常务副总经理；副总经理室
+3.deputy dean 副院长；副系主任
+4.deputy director 副局长，副厅长；副院长
+5.deputy secretary 副秘书
+6.deputy director general 副局长；副处长；副司长
+[联]deputy (副手，代理人) + chief (首领，长官) ——> 副手
+
+director / dəˈrektər /
+n. 导演；管理者，负责人；董事，理事
+[例]
+1.The director has the most to lose. 主任可能会损失最大。
+2.She has only the director over her. 她的上司只有主任一个。
+3.He was voted most promising new director. 他当选为最有前途的新导演。
+[搭]
+1.Executive Director 执行董事；行政董事；执行理事；常务董事
+2.film director 电影导演；导演；职业；出品总监
+3.managing director 董事总经理； 经管  总经理；行政董事
+4.deputy director 副局长，副厅长；副院长
+5.managing directorn.  总经理，常务董事
+6.vice director 副处长；副主任；副院长；副会长
+[联]direct + or ——> 导演，主管
+
+directorate / dəˈrektərət; daɪˈrektərət /
+n. 董事会；理事会；指挥部
+[例]
+1.The bank will be managed by a directorate of around five professional bankers. 该银行将由五名左右的职业银行家组成的董事会管理。
+2.Coincident interests with the corporate rich and political directorate are pointed out. 这些被指是符合公司富豪和政治官员的利益。
+3.Within a few years, he got in the directorate in the company. 几年之后，他进了公司的董事会。
+[搭]
+1.Intelligence Directorate 情报局
+2.Interlocking directorate 连锁董事；交叉董事会； 经管  连锁董事会；人事连锁
+3.Program Directorate 项目群委员会
+[联]direct (引导的) + orate (发言人，演说家) ——> 领导机构
+
+directory / dəˈrektəri /
+n. 名址录，电话号码簿；（计算机的）目录，文件夹；<史>（尤指长老会和罗马天主教会的）礼拜规则书
+adj. 指导的，咨询的
+[例]
+1.This command deletes files from the directory. 这一指令把文档从目录中删除。
+2.Yahoo is the oldest and best-known Web directory service. 雅虎是提供网上目录检索服务最早、最知名的网站。
+3.You can use a directory service to search for people on the Internet. 你可以使用目录服务在因特网上搜索人。
+[搭]
+1.Home directory 计  主目录；输入此用户的主目录；私人目录
+2.telephone directory 通信  电话簿；电话号码薄；电话号码本；电话使用指南
+3.Directory Service 计  目录服务；名录服务；目次办事；目录效劳
+4.telephone directory 电话簿
+5.current directoryn.  [计]当前目录
+6.root directory 根目录
+[联]directory (目录) + ry (后缀，无实际意义) ——> 目录
+
+divorce / dɪˈvɔːrs /
+n. 离婚；离婚判决；分开，脱离
+v. 与（某人）离婚；使分离，割裂
+[例]
+1.Divorce was legalized in 1981. 离婚在1981年被合法化了。
+2.The divorce was not contested. 这桩离婚案没有人提出异议。
+3.Divorce is bad for children. 离婚对孩子不好。
+[搭]
+1.Mexican divorce 墨西哥离婚
+2.Divorce American Style 美国式离婚
+3.marriage after divorce 再婚；离婚再婚
+4.divorce rate 离婚率
+5.divorce from 离婚；分离
+6.divorce court 离婚法庭
+[联]di + vor + ce ——> 分开 + 前往 + 结束 ——> 离婚
+
+each / iːtʃ /
+det. 每，各，每一
+pron. 每个，各个
+adj. 每个的，各自的
+adv. 给每个，对各个
+[例]
+1.He articulated each syllable. 他清楚地说出了每个音节。
+2.They cost 20p each. 这些东西每个要20便士。
+3.They lost $40 each. 他们每人损失了40元。
+[搭]
+1.each other 互相；彼此；相互；取长补短
+2.help each other 互相帮助；互助；互相帮忙；互帮互助
+3.Each person 每人；每一个人
+4.each other 彼此，互相
+5.each of 每个
+6.each one 每个人；各人
+[联]each (每一个) + one (一个) ——> 每一个人
+
+embryo / ˈembrioʊ /
+n. 胚，胚胎；萌芽期，初期；萌芽状态的事物，发展初期的事物
+adj. 胚胎的；初期的
+[例]
+1.Embryo research is an emotive issue. 胚胎研究是个让人情绪激动的问题。
+2.An eight-week-old embryo is only an inch long. 一个8周大的胎儿仅1英寸长。
+3.The sex of the embryo is predetermined at fertilization. 胚胎的性别早在受精时就决定了。
+[搭]
+1.embryo transfer 胚  胚胎移植；胚胎转移； 胚  胚泡移植
+2.embryo culture 胚  胚胎培养； 胚  胚培养；胚培
+3.embryo sac 植  胚囊
+4.embryo transfer 胚胎移植；胚胎转移；胚胎植入
+5.in embryo 未发展的；在筹划中的；在萌芽时期的
+6.embryo sac 胚囊
+[联]embryo (胚胎) + genesis (发生，生成) ——> 胚胎的发生
+
+embryogenesis / ˌembrɪoʊˈdʒenəsɪs /
+n. 胚胎形成，胚胎发生
+[例]
+1.Charcoal prevents Browning of tissues and stimulates embryogenesis and rooting. 炭可防止组织变棕色并刺激胚胎发生与生根。
+2.Its embryogenesis and the criteria for pathological diagnosis have been clarified. 阐述了该病的胚胎发生学及其病理学诊断标准。
+3.Somatic embryogenesis is a way of plant cell totipotency, and a new pathway of rapid propagation. 体胚发生是植物细胞全能性的一种表达方式，是快速繁殖的新途径。
+[搭]
+1.somatic embryogenesis 体细胞胚胎发生；体胚发生；胚状体发生；体细胞胚发生
+2.haploid embryogenesis 单倍体胚发生
+3.late embryogenesis abundant protein 胚胎发育晚期丰富蛋白；晚期丰富蛋白；胚胎晚期丰富蛋白；一类植物胚胎发育后期丰富蛋白
+[联]embryo (胚胎) + genesis (发生，生成) ——> 胚胎发生
+
+embryology / ˌembriˈɑːlədʒi /
+n. [胚] 胚胎学
+[例]
+1.The UK Human Fertilisation and Embryology Authority was founded 20 years later. 20年后，英国人类受精和胚胎管理局成立。
+2.The results were presented at the European Society of Human Reproduction and Embryology annual conference in Amsterdam. 上述研究结果在总部位于阿姆斯特丹的欧洲人类生殖及胚胎学会上作了发表。
+3.The findings are being presented today at the 24th annual conference of the European Society of Human Reproduction and Embryology in Barcelona, Spain. 今天，该结果在西班牙巴塞罗那由欧洲人类生殖和胚胎学会召开的第24届年会上被公布。
+[搭]
+1.experimental embryology 胚  实验胚胎学；实验发生学
+2.human embryology 基医  人体胚胎学；人体发生学
+3.Histology and Embryology 组织胚胎学；组织学与胚胎学；组织学与胚胎；组织与胚胎学
+[联]embryo (胚胎) + logy (学科) ——> 胚胎学
+
+embryonic / ˌembriˈɑːnɪk /
+adj. 胚胎的；似胚胎的
+[例]
+1.At the time, he was trying to recruit members for his embryonic resistance group. 那时候他正在为他那萌芽中的抵抗组织招兵买马。
+2.Different from the embryonic stem cell we talked about before, it's an example of an adult stem cell. 和我们之前谈到的胚胎干细胞有所不同，这是一个成人干细胞的例子。
+3.Why people are so excited about embryonic stem cells is because in nature they become all the cells of the body. 胚胎干细胞如此让人激动是因为它的天然功能就是分化成身体所有的细胞。
+[搭]
+1.embryonic stem cell 胚胎干细胞；细胞；胚性干细胞；小鼠胚胎干细胞
+2.embryonic induction 胚胎诱导； 胚  胚胎诱导作用
+3.embryonic development 胚胎发育；胚长生；胚的发育； 胚  出生前发育
+4.embryonic development 胚胎发育
+5.embryonic stage 胚[胎]期
+6.embryonic cell 胚细胞
+[联]em (如果) + bryo (发芽) + nic (像) ——> 如果像发芽的阶段
+
+encounter / ɪnˈkaʊntər /
+v. 遭遇；偶遇，邂逅
+n. 偶遇，邂逅；经历，体验；冲突；比赛，交锋
+[例]
+1.Did you encounter anyone in the building?你在那栋大楼里偶然遇到什么人了吗？《柯林斯英汉双解大词典》。
+2.In high school, I was very unpopular, and I did encounter a little prejudice. 在中学，我很不受欢迎，确实遇到了一点偏见。
+3.Every day of our lives we encounter major and minor stresses of one kind or another. 生活中的每一天，我们会遇到或大或小的这样那样的压力。
+[搭]
+1.An Encounter 偶遇；相遇；邂逅相遇
+2.Stitch Encounter 幸会史迪仔
+3.close encounter 人与外星生物接触；近距离接触；紧密交会
+4.encounter with 遭遇，遇到
+5.close encounter 近距离接触；紧密交会
+[联]en (进入) + counter (计数，反对) + encounter (遭遇) ——> 遭遇，遇到
+
+engage / ɪnˈɡeɪdʒ /
+v. 雇用，聘请；参加，从事；吸引，引起；与……交战，开战；（使）（机器）啮合，接合；<旧>预定（膳食，地方等）；适应，与……有密切关系；允诺，签约保证；（运动员或击剑手）使（兵器）交结在一起；占用
+[例]
+1.Even in prison, he continued to engage in criminal activities. 他甚至在监狱里还继续从事犯罪活动。
+2.They never learned skills to engage the attention of the others. 他们从来没有学过吸引别人注意的技巧。
+3.They tried to engage him in conversation. 他们试图使他加入谈话。
+[搭]
+1.ENGAGE POINT 进刀点
+2.Initial Engage 初始进刀
+3.ENGAGE ANGLES 进刀角度
+4.engage in 从事于（参加）
+5.engage with 交战；与…接洽
+6.engage on 从事；开始
+[联]en- (前缀，使进入) +gage (测量) ——> 从事，参与
+
+engagement / ɪnˈɡeɪdʒmənt /
+n. 婚约，订婚；约会，约定；交战，战斗；演出任务；聘用，雇用；参加，从事；(与……的)密切关系，(对……的)了解；啮合；（与……的）密切关系，（对……的）了解
+[例]
+1.The engagement was a bad mistake. 这婚约是一项大错。
+2.They've broken off their engagement. 他们突然解除了婚约。
+3.It was her first official engagement. 那是她第一次正式约会。
+[搭]
+1.Rules of Engagement 交战规则；约会规则；约会法则；火线冲突
+2.engagement ring 订婚戒指；订婚戒；定婚戒指
+3.Engagement letter 委托书；业务约定书； 管理  聘书；审计聘函
+[联]engagement (订婚) + ceremony (仪式) ——> 订婚仪式
+
+father-in-law / ˈfɑːðər ɪn lɔː /
+n. 岳父；公公；继父
+[例]
+1.He had been deeply affected by the sudden death of his father-in-law. 他深受其岳父突然辞世的影响。
+2.The immediate problem is that my father-in-law wants a detailed report by next Monday. 当务之急是我继父希望在下周一之前得到一份详细的报告。
+3.But the immediate problem is that my father-in-law wants a detailed report by next Monday. 但当务之急是我继父希望在下周一之前得到一份详细的报告。
+[搭]
+1.father in law 岳父；公公；岳夫
+2.father-in-law fathers-in-law 岳父
+3.his prospective father-in-law 他未来的岳父
+[联]father (父亲) + in law (法律上或社会关系上) ——> 岳父或公公
+
+female / ˈfiːmeɪl /
+adj. 女性的，妇女的；女性特有的；由女性组成的；内孔的；雌性的，母的；雌蕊的
+n. 雌性动物，雌性植物；女子
+[例]
+1.Oestrogen is a female sex hormone. 雌激素是一种雌性荷尔蒙。
+2.Two of the candidates must be female. 候选人中必须有两名是女性。
+3.The audience was almost entirely female. 观众几乎全是女性。
+[搭]
+1.Female Agents 幕后女英雄；超级女特工；超女特工；谍网女特务
+2.female die 母模；阴模；凹模
+3.female infertility 妇产  女性不孕症；雌性不育性；女性不孕；不孕症
+4.male and female 雌雄；[化]凹凸面
+5.female flower 雌花
+6.female parent[生]母本
+[联]fem (女人) + ale (词缀，表示小的) ——> 女性
+
+femaleness / ˈfiːmeɪlnes /
+n. 女性特征；女子本性
+[例]
+1.It may also add a word for maleness or femaleness: she-bear, guepardo-hembra. 也可以用加一个单词办法来表示雄性或雌性，如：母熊（she-bear），雌猎豹（guepardo-hembra）。
+2.In this way, the body maintains its femaleness and its maleness. 以这个方式，身体维持它的女性和它的男性。
+3.The male directors, by contrast, seemed to set slightly more store by our femaleness . 相比之下， 男性董事对我们的女性身份似乎更看重一些。
+[搭]
+1.femaleness gene 雌性基因
+[联]female (女性) + ness (名词后缀，表示性质、状态) ——> 女性特质
+
+folk / fəʊk /
+n. 人们；家人，双亲；民间音乐；诸位，大伙儿
+adj. 民俗的，传统的；流传民间的，普通百姓的
+[例]
+1.The entertainment was provided by a folk band. 这个文娱节目由民歌乐队演出。
+2.Garlic is widely used in Chinese folk medicine. 大蒜广泛应用于中国民间医药。
+3.He arranged traditional folk songs for the piano. 他把传统民歌改编成钢琴曲。
+[搭]
+1.Queer As Folk 同志亦凡人；同志亦常人；同志常人
+2.folk music 民俗音乐；民间音乐；民族音乐；民谣音乐
+3.folk dance 民族舞蹈；民间舞蹈；民族舞；民间舞
+4.folk art 民间艺术
+5.folk music 民俗音乐
+6.folk culture 民俗文化；民间文化
+[联]folk (人们) + lore (知识，传说) ——> 民间传说
+
+folklore / ˈfoʊklɔːr /
+n. 民间传说，民俗；民俗学
+[例]
+1.The story rapidly became part of family folklore. 这个故事很快就成为家族传说的一部分。
+2.In Chinese folklore the bat is a symbol of good fortune. 在中国民间传说中，蝙蝠是好运的象征。
+3.On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore. 关于这个问题，亨特和利普说，考古证据支持了拉帕努伊的民间传说。
+[搭]
+1.expert on folklore 民俗学家；俗学家；风俗学家；平易近俗学家
+2.Folklore Studies 民俗研究；民俗学；民俗学志
+3.Public Folklore 公众民俗学；公共民俗学；民俗学
+[联]folk (人民) + lore (传说，故事) ——> 人民的传说
+
+folktale / ˈfəʊkˌteɪl /
+n. 民间故事；民间传说
+[例]
+1.I thought that a fairy tale was just a written version of an oral folktale. 我以为童话只是那些口头传说的书面版本。
+2.Every storyteller, or, maybe every town, might have had a slightly different version of the same folktale. 每一个讲故事的人，或者在每一个城镇，关于同一个民间田的版本都可能又细微差别。
+3.The folktale he told to me is gruesome one. 他给我讲了个令人毛骨悚然的民间故事。
+[搭]
+1.The Folktale 世界民间故事分类学；民间故事
+2.Morphology of the Folktale 民间故事形态学；童话形态学；故事形态学
+3.chinese folktale 中国民间故事
+[联]folk (民间) + tale (故事) ——> 民间故事
+
+gang / ɡæŋ /
+n.（青少年的）帮派，团伙；犯罪团伙；一群（体力劳动者）；<非正式>一伙（常聚会的朋友）；（安装在一起的）一套开关，插座（或其他电气、机械装置）
+v. 成群，结伙；将（电气设备或机器）连接，编组
+[例]
+1.A gang taunted a disabled man. 一帮混混儿羞辱了一个残疾人。
+2.Police suspect a local gang. 警方怀疑当地的一个不良帮派。
+3.The gang tied up a security guard. 那群歹徒把一名保安人员捆绑起来。
+[搭]
+1.gang dies 复合模；复式模
+2.gang horde 成群结队；孑然一身；三五成群
+3.Gridiron Gang 热血橄榄队；铁血雄心；巨石强森
+4.gang of four 四人帮
+5.criminal gang 犯罪集团
+6.gang upv.  聚集；联合起来
+[联]gang (一群，一伙) + ster (表示人或物的名词后缀) ——> 帮派成员
+
+ganglia / ˈɡæŋɡlɪə /
+n. 神经节；神经中枢
+[例]
+1.It was childish nonsense—the chimera of frazzled ganglia. 那是幼稚的废话——疲倦的神经节的嵌合体。
+2.So did the dorsal root ganglia in situ as the sclerotome in situ. 背根神经节原位也就是硬核刀原位。
+3.Acetylcholine is also the principal neurotransmitter in all autonomic ganglia. 乙酰胆碱也是所有自主神经节的主要神经递质。
+[搭]
+1.basal ganglia 解剖  基底核； 解剖  基底神经节； 解剖  基底节；脑基底核
+2.The basal ganglia 基底神经节；基底核
+3.thoracic ganglia 解剖  胸神经节
+4.basal ganglia 基底神经节；基底核
+[联]ganglia (神经节) + cell groups (细胞群) ——> 神经系统的细胞群
+
+ganglion / ˈɡæŋɡliən /
+n. [组织] 神经节；[医] 腱鞘囊肿
+[例]
+1.These cells are called melanopsin ganglion cells. 这些细胞被称为黑视素神经节细胞。
+2.Like rods and cones, these ganglion cells are found in the retina. 与杆状和锥状细胞一样，神经节细胞也是在视网膜上发现的。
+3."We have special receptors on our retinas, called photoreceptive ganglion cells. "我们眼睛视网膜有种特殊受体，叫做受光体神经中枢细胞。
+[搭]
+1.dorsal root ganglion 背根神经节
+2.stellate ganglion 星状神经节，星状神经结
+3.ganglion cell 神经节细胞，节细胞
+[联]ganglion (神经节) + cell (细胞) ——> 神经细胞团
+
+gangrene / ˈɡæŋɡriːn /
+n. [外科] 坏疽
+vi. 生坏疽；腐败
+vt. 使生坏疽
+[例]
+1.Gangrene set in and he had to have his leg amputated. 他的腿生了坏疽，必须截除。
+2.Once gangrene has developed, the tissue is dead, and the only hope is to contain the damage. 一旦出现坏疽，组织就会坏死，那么惟一的希望就是抑制其损害。
+3.The wound is festering, and gangrene has set in. 伤口在化脓，继而发生了坏疽。
+[搭]
+1.gas gangrene 医  气性坏疽；气肿疽； 中医  烂疔；气疽症
+2.dry gangrene 内科  干性坏疽；性坏疽
+3.moist gangrene 湿性坏疽
+4.gas gangrene 气性坏疽
+[联]gang (帮派) + rene (音近于“蕊内”) ——> 帮派内部
+
+gardener / ˈɡɑːdnə(r) /
+n. 园丁；花匠；园艺家
+n.（Gardener）人名；（英）加德纳
+[例]
+1.My wife's a keen gardener. 我的妻子是个热衷园艺的人。
+2.She employed a gardener. 她雇了一个园丁。
+3.She herself was not a keen gardener. 她本人就不是一个热衷于园艺的人。
+[搭]
+1.The Constant Gardener 不朽的园丁；疑云杀机
+2.Landscape Gardener 园艺匠；庭园美化师；造园家；景观园丁
+3.The Gardener 园丁集；经营农园种菜赚钱；小恩的花园；园丁
+[联]gardener (园丁) + en (动词后缀) + er (表示人) ——> 从事园艺工作的人
+
+gay / ɡeɪ /
+adj. 同性恋的；<旧>艳丽的；<旧>快乐的；<非正式>品质差的，没有意义的
+n. 同性恋者（尤指男性）
+[例]
+1.I didn't know he was gay. 我不知道他是同性恋者。
+2.He has waffled on abortion and gay rights. 他在人工流产和同性恋者的权利问题上含糊其辞。
+3.He has always championed the cause of gay rights. 他一直在为争取同性恋者的权利而斗争。
+[搭]
+1.The Gay Science《快乐的科学》（尼采所著的一本哲学作品）
+2.a gay dog 一个快乐的人
+3.gay marriage 同性恋婚姻
+4.gay man 男同性恋者
+[联]gay (快乐的) + straight (笔直的) ——> 双关语，形容人性格开朗或性取向
+
+gayer / ˈɡeɪə(r) /
+adj. 更同性恋的；更与同性恋有关的；更愉快的；更鲜艳的
+n.（Gayer）（美）高耶尔（人名）
+[例]
+1.Actually, maybe, I should say 'gayer'. 其实，也许，我应该说'嘎耶'。
+2.Never, I am sure, were people gayer or happier. 我相信这世界上没有谁比我们更快乐、更幸福。
+3.He is used to much gayer places than Mansfield. 他习惯于比曼斯菲尔德热闹得多的地方。
+[搭]
+1.Ted Gayer 特德·盖亚；泰德·盖尔
+2.Karl Gayer 盖耶尔
+3.Castle Gayer 盖伊城堡
+[联]gayer (更快乐的) + gay (快乐的，明亮的) ——> 更加明亮或快乐的样子
+
+gayety / ˈɡeɪətɪ /
+n. 愉快；轻快
+[例]
+1.A brisk gayety was in the air. 空气里洋溢着一片轻松愉快的气氛。
+2.You are moved to pity, excitement, or gayety. 你感动得去怜悯，激动或者高兴。
+3.A beginning full of terror, in which is mingled a sort of formidable gayety. 开始时人们心中充满了惊恐，同时也搀杂着一种骇人的得意劲头。
+[搭]
+1.Gayety Holdings Limited 喜尚控股有限公司
+2.GAYETY HLDGS 喜尚控股
+3.filled with gayety 形容非常得意或异常欢乐的样子
+[联]gai (快乐) + tety (无实际意义，辅助记忆) ——> 欢乐气氛
+
+gender / ˈdʒendər /
+n. 性别；（语法中的）性；（总称）男性，女性
+[例]
+1.Latin nouns have case, number and gender. 拉丁语名词有格、数和性。
+2.Gender roles are often conditioned by cultural factors. 文化因素常常对性别的角色有着重要的影响。
+3.The report was redrafted to remove gender-specific language. 重新起草这个报告，删除带有性别特点的语言。
+[搭]
+1.gender issues 性别问题；性别题目；性别议题；性别
+2.gender gap 性别差异；性别差距；性别落差
+3.common gender 通性
+4.gender difference 性别差异
+5.gender role 性别角色
+6.gender discrimination 性别歧视
+[联]gen (出生) + der (相关) ——> 性别
+
+general / ˈdʒen(ə)rəl /
+adj. 总体的，普遍的；一般的，常规的；大致的，大概的；综合的，广泛的；首席的，总管的
+n. 上将，将军；半军事化管理的宗教组织（如耶稣会修士、多明我会修士或救世军）的领袖；<古>大众，公众
+[例]
+1.The General refused to be flustered. 将军没有被搅得慌乱不安。
+2.The general gave the order to advance. 将军下令前进。
+3.My father venerated General Eisenhower. 我父亲十分敬仰艾森豪威尔将军。
+[搭]
+1.General Electric 通用电气；通用电气公司；奇异公司
+2.General Motors 通用汽车；通用汽车公司；美国通用汽车公司
+3.major general 少将；缺兵少将；大将军；范大将军
+4.(army) general 将军
+5.in general 总之，通常；一般而言
+6.general manager 总经理
+[联]general (普通的) + knowledge (知识) ——> 普通知识
+
+generate / ˈdʒenəreɪt /
+v. 产生，引起
+[例]
+1.The research methods of social science generate two kinds of data. 社会科学的研究方法生成两类数据。
+2.The paradox of exercise is that while using a lot of energy it seems to generate more. 锻炼的矛盾之处在于消耗很多能量却似乎又产生更多能量。
+3.We need someone to generate new ideas. 我们需要有人出新主意。
+[搭]
+1.generate profit 产生利润
+2.Generate Path 自动适配路径；生成路径
+3.generate electricity 发电；发电机
+4.generate electricity 发电
+5.generate profit 创利，产生利润
+[联]gen (产生) + erate (动词后缀，表示使...) ——> 产生，发生
+
+generation / ˌdʒenəˈreɪʃ(ə)n /
+n. 一代（人）；一代人的时间；（产品发展的）代；产生
+[例]
+1.He is arguably the best actor of his generation. 按理他是他那一代中最优秀的演员。
+2.He was a beacon of hope for the younger generation. 他是年轻一代的希望之灯。
+3.She was one of the greatest minds of her generation. 她是她那一代人中最聪慧的人之一。
+[搭]
+1.Girls' Generation 少女时代；少女时期；少女；表演者
+2.Beat Generation 垮掉的一代；垮掉一代；跨掉的一代；垮了的一代
+3.Lost Generation 迷惘的一代；迷失的一代；迷惑举动失常的一代
+4.new generation 新世代，新一代；新生代
+5.power generation 发电，发电量；发电机设备
+6.from generation to generation 代代相传
+[联]gene (起源) + ration (比例，计算) ——> 一代人
+
+generational / ˌdʒenəˈreɪʃən(ə)l /
+adj. 一代的；生育的
+[例]
+1.The coalition government's strongest claim to fairness may, in fact, be a generational vision. 联合政府所强烈要求的公平，实际上，可能是一个世代的愿景。
+2.To most people, such a home base, in the literal sense, needs more than one person for sustenance and in generational extension. 对大多数人来说，这样一个家庭基础，就其字面意义而言，需要不止一个人来维持和世代延续。
+3.Overall, there was a large generational shift in which the second generation of parents was much less likely to spank than their own parents. 总体上看，有一个很大的一代人的转变，与自己的父母相比，第二代父母更不可能打屁股。
+[搭]
+1.Generational Collecting 分代；分代收集
+2.Generational Tensions 代际关系紧张；代际联系慌张
+3.generational accounting 代际核算；代际核算方法；世代会计；世代会计方法
+[联]gene (基因) + ration (比例，合理安排) + al (形容词后缀) ——> 世代的，代际的
+
+generic / dʒəˈnerɪk /
+adj. 一般的，通用的；（货物，尤指药品）没有牌子的，无商标的；属的，类的；（生）属的，类的
+n. 无商标消费品，不受商标注册保护的消费品
+[例]
+1.The index at the back of the book lists both brand and generic names. 书末尾的索引把商标名和通用名都列了出来。
+2.Parmesan is a generic term used to describe a family of hard Italian cheeses. 巴尔马干酪是一个用来描述一类坚硬的意大利奶酪的通用名称。
+3.Doctors sometimes prescribe cheaper generic drugs instead of more expensive brand names. 医生有时开比较便宜的非注册商标的药品，而不开比较昂贵的品牌药。
+[搭]
+1.generic programming 泛型；泛型编程；程序设计；类属编程
+2.generic top-level domain 通用顶级域名；授权的通用顶级域名；顶级网域名称
+3.generic trademark 通用商标
+4.generic term 通用术语；地理通名
+5.generic type 类属型
+6.generic name 属名；总名称；通用名称
+[联]gen (产生) + eric (与土地有关) ——> 通用的，普通的
+
+genuine / ˈdʒenjuɪn /
+adj. 真正的，非伪造的；真诚的，真心的
+[例]
+1.Only genuine refugees can apply for asylum. 只有真正的难民才能申请政治避难。
+2.This isn't a genuine antique—you've been done. 这不是真正的古董—你上当了。
+3.If this offer is genuine, I will gladly accept it. 如果这份帮助是真诚的，我将愉快地接受它。
+[搭]
+1.genuine partnership 合伙企业；合伙契约
+2.genuine diamond 真钻石的；真宝石
+3.genuine leather 真皮；皮表带；表带；高档牛皮
+4.genuine leather 真皮
+5.genuine gold 纯金，赤金
+6.genuine diamond 真钻石的
+[联]genuine (真正的，真诚的) + sphere (球体，球形) ——> 真理之球
+
+genuinely / ˈdʒenjuɪnli /
+adv. 真诚地；的确
+[例]
+1.He genuinely cares about his employees. 他真诚地关心他的雇员。
+2.He sounded genuinely interested. 听他的口气，他真的感兴趣。
+3.He was genuinely remorseful. 他发自内心地感到懊悔。
+[搭]
+1.Genuinely listened to 叶公好龙
+2.Of loving you so genuinely 真诚爱你的记忆；真挚爱你的记忆；那样真诚爱你的记忆；那些真实爱过你的日子
+3.need genuinely 真正地需要
+[联]genus (种类) + ually (副词后缀) ——> 真正地
+
+grandfather / ˈɡrænfɑːðər /
+n. 祖父；始祖
+vt. 不受新规定限制
+[例]
+1.His grandfather was a professor. 他爷爷曾是位教授。
+2.His grandfather was a Muslim cleric. 他祖父是一位穆斯林教士。
+3.Her grandfather taught her to conjure. 她的祖父教她变魔术。
+[搭]
+1.grandfather paradox 祖父悖论；祖父佯谬；唱片名
+2.My Grandfather 我的爷爷；我的外公；我的祖父；事例记人祖父
+3.My Belved Grandfather 我敬爱的姥爷；我敬爱
+4.grandfather clock 落地式大摆钟
+5.maternal grandfather 外公，外祖父
+[联]grand (宏大) + father (父亲) ——> 祖父
+
+grandfatherly / ˈɡrændˌfɑːðəlɪ /
+adj. 慈祥的；老祖父的
+[例]
+1.He's now 70 years old, considered a grandfatherly and is somewhat reclusive. 他现在70岁了， 可以作为爷爷级的人物，还有点隐士的脾性。
+2.We're not worried about this, "Jackson said in his best grandfatherly voice. "“我们并不担心这些，”杰克逊和蔼的说。
+3.Highly unlikely that happens with Buffett, both because of his legal rights and his grandfatherly gravitas. 这种情况不可能出现在巴菲特身上，这既是因为他拥有合法权力，也因为他有着“祖父一样的”气场。
+[搭]
+1.the scent of grandfatherly love 一条跨越水域的铁路；祖父慈爱的味道
+[联]grandfather + ly ——> 像祖父一样的
+
+groom / ɡruːm /
+v.（给动物）擦洗，刷洗；（动物为自己或另一动物）梳理毛发；梳妆，打扮；修饰，修整（某物）；培训，使做好准备；（尤指透过网际网路）勾引，诱奸（儿童）
+n. 新郎；马夫；<英>王室侍从官
+[例]
+1.Guests toasted the bride and groom with champagne. 客人们以香槟为新娘新郎敬酒。
+2.I'd like to propose a toast to the bride and groom. 我提议为新郎新娘的幸福干杯！《牛津词典》。
+3.The head groom is responsible for seeing that Milton and his stablemates travel safely. 该马夫长负责确保密尔顿及其他来自同一养马场的赛马都能安全抵达。
+[搭]
+1.Bio-Groom 碧艾欧；拜奥美；傲农
+2.Winston Groom 温斯顿·格卢姆；格卢姆；温斯顿·葛鲁姆
+3.bridegroom or groom 新郎
+4.bride and groom 新娘和新郎
+[联]groom (新郎) + bride (新娘) ——> 婚礼
+
+haircut / ˈherkʌt /
+n. 理发；发型
+[例]
+1.Say, that's a nice haircut!啧啧，这个头发剪得很漂亮！《牛津词典》。
+2.I see you've had a haircut. 我看得出你理发了。
+3.What do you think of my new haircut?你觉得我的新发型怎么样？《牛津词典》。
+[搭]
+1.Getting a Haircut 剪头发；去理发；理发
+2.a terrible haircut 一个糟糕的发型；可怕的发型；糟糕的发型；可怕的头型
+3.Getting Ready for a Haircut 准备理发；预备理发
+4.get a haircut 剪头发
+5.have a haircut 理发
+[联]hair (头发) + cut (修剪，剪切) ——>  haircut (理发)
+
+heir / er /
+n. 继承人，子嗣；接班人
+v. 继承
+[例]
+1.Her duty was to produce an heir to the throne. 她的任务就是生育王位继承人。
+2.He is the eldest son and thus heir to the title. 他是长子，因此是这个封号的继承人。
+3.He claims to be the rightful heir. 他要求做合法的继承人。
+[搭]
+1.Heir Apparent 法定继承人；继承人；当然继承人；皇储
+2.Doug Heir 杜格•埃厄
+3.Heir Audio 海澳德
+4.heir apparent[律]法定继承人，有确定继承权的人
+[联]heir (继承人) + ant (蚂蚁) ——> 继承蚂蚁的遗产
+
+heiress / ˈerəs /
+n. 女继承人
+[例]
+1.An heiress, she doesn't know what to be when she grows up, either. 作为家族继承人，在长大之后她也不知道该做什么。
+2.He also wrote several plays, of which the most successful was the Heiress (1786). 他还写过几部喜剧，其中最成功的一部是《千金小姐》(1786年)。
+3.Yang Huiyuan, the property heiress who topped last year's list, is the biggest loser. 杨慧妍，是去年位列财富榜首的地产大亨女继承人，如今是最大的输家。
+[搭]
+1.The Heiress 女继承人；千金小姐；令媛蜜斯
+2.The False Heiress 魔法封印之真假继承人
+3.The young heiress 血染少女心
+[联]heiress (继承人) + wealth (财富) ——> 拥有巨额财产的女性继承人
+
+heirloom / ˈeəluːm /
+n. 传家宝；祖传遗物
+[例]
+1.Heirloom seeds come from plants that were traditionally grown in human populations, as opposed to the seeds used for large-scale agricultural production. 传家宝种子来自传统的人类种植的植物，而不是来自用于大规模农业生产的种子。
+2.This year, she's planning to plant rare heirloom vegetables that you can't get in the store. 今年，她计划种她们家祖传的稀有蔬菜，在店里是买不到的。
+3.This is especially true with heirloom varieties, which are cultivated for taste over appearance. 传统的品种尤其如此，它们的培养特别注重滋味多于注重外观。
+[搭]
+1.Heirloom quality furniture 祖传家具；家传家具；祖家庭里世代相传具；祖传
+2.Inca Quest Heirloom 印加秘宝
+3.The Heirloom 宅变
+[联]heir (继承人) + loom (织布机) ——> 继承物
+
+herald / ˈherəld /
+v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞
+n. 预兆；使者，先驱；棘翅夜蛾；<古> 掌礼官，（负责比武大会的）纹章官；（英国）宗谱纹章院或苏格兰纹章院官员（位低于纹章官助理）
+[例]
+1.He picked up extra money as a local stringer for the New York Herald. 他通过做《纽约先驱报》的本地特约记者赚了些外快。
+2.The Sydney Morning Herald carried the headline: "Sorry Ma'am, Most Australians Want a Republic. "《悉尼先驱晨报》有这样一则头版标题：“对不起，夫人，大多数澳大利亚人想要一个共和国。
+3.These talks could herald a new era of peace. 这些谈判可能预示着新的和平时代的来临。
+[搭]
+1.Miami Herald 迈阿密先驱报；迈阿密前锋报；迈阿密前驱报
+2.Herald Sun 先驱太阳报；太阳先驱报；前驱太阳报；前锋太阳报
+3.The Korea Herald 韩国先驱报；韩国前驱报；韩国先锋报
+4.international herald tribune 国际前锋论坛报
+5.sydney morning herald 悉尼先驱晨报
+[联]herald (传令官，预告者) + announce (宣布) ——> 传令官
+
+heraldic / heˈrældɪk /
+adj. 纹章的；纹章学的；传令官的；司宗谱纹章官员的
+[例]
+1.Incorrect coloring of heraldic mails is fixed. 纹章甲不正确的着色被修正。
+2.The Beatles were heraldic of a new style of music. 甲壳虫乐队是一种新音乐风格的先驱。
+3.There was a little heraldic chair by the chimney-piece . 壁炉架旁边有一把印有纹章的小椅子。
+[搭]
+1.Heraldic Lines 纹章学中的线条
+2.heraldic badge 家族徽标
+3.Heraldic artists 纹章艺术家
+[联]herald (传令官) + ic (常见于形容词后缀) ——> 传令官相关的
+
+hero / ˈhɪroʊ /
+n. 英雄，勇士；男主角，男主人公；偶像，崇拜对象；（夹有冷切肉、乳酪、沙拉等的）长卷三明治；（神话或传说中的）超人
+[例]
+1.The hero dies in Act 5, Scene 3. 男主角在第五幕第三场死去。
+2.He was eulogized as a hero. 他被赞誉为英雄。
+3.The hero of Doctor Zhivago dies in 1929. 《日瓦戈医生》的男主人公于1929年去世。
+[搭]
+1.Big Hero 6超能陆战队
+2.Guitar Hero 吉他英雄；吉他好汉；吉它英雄；六弦琴英雄
+3.Big Hero 超能陆战队；大英雄天团；六大英雄；超能陆战队机器人大战
+4.national hero 民族英雄；国家英雄
+5.hero worship 英雄崇拜
+6.tragic hero 悲剧英雄；英雄好汉
+[联]hero (英雄) + ine (表形容词后缀) ——> 英雄般的
+
+heroic / həˈrəʊɪk; hɪˈrəʊɪk /
+adj. 英雄的，英勇的；矢志不渝的，艰苦卓绝的；巨大的；男主角的；（雕像）大于真人（或实物）但不及其两倍大的
+n. 勇敢果断的行为；哗众取宠的愚蠢行为；英雄诗体
+[例]
+1.His heroic deeds were celebrated in every corner of India. 他的英勇事迹在印度的每个角落被传颂。
+2.The heroic leader charged into battle, ready to smite the enemy. 英勇的军官冲上战场，准备重击敌人。
+3.Shirese's expedition was heroic. Shirese 的远征是英勇的。
+[搭]
+1.Heroic Age 英雄时代；英雄世纪；英雄时代主题曲；英雄年代
+2.The Heroic Trio 东方三侠全集；方三；三侠系列
+3.Heroic Duo 双雄；米兰双雄；南美双雄；曼城双雄
+[联]heroic (英勇的) + ic (形容词后缀) ——> 英勇的
+
+heroin / ˈheroʊɪn /
+n. 海洛因
+[例]
+1.Heroin is highly addictive. 海洛因很容易使人上瘾。
+2.He had overdosed on heroin. 他过量服用了海洛因。
+3.He'd overdosed on heroin. 他过量吸食了海洛因。
+[搭]
+1.heroin dependence 海洛因依赖
+2.Heroin abusers 海洛因成瘾者
+3.heroin look 海洛因风貌
+[联]hero (英雄) + in (在...) ——> 英雄在其中
+
+heroine / ˈheroʊɪn /
+n. 女英雄；女主角，女主人公；女偶像；（神话和传说中的）女超人
+[例]
+1.The heroine is played by Demi Moore. 女主角由黛米•摩尔扮演。
+2.The heroine made her exit to great applause. 女主角在热烈的掌声中退场。
+3.She was well fitted to the role of tragic heroine. 她很适合演悲剧女主角。
+[搭]
+1.Death of A Red Heroine 红英之死
+2.Heroine Anthem 圣女之歌；人鱼的新娘；圣女之歌1人鱼的新娘；圣女之歌 I
+3.cultural heroine 文化英雄
+[联]hero (英雄) + ine (名词后缀) ——> 英雄般的女性
+
+heroism / ˈherəʊɪzəm /
+n. 英雄气概，英勇行为
+[例]
+1.By their tremendous heroism, men such as Shakleton, Scott, and Amundsen caused a new continent to emerge from the shadows, and yet that heroic age, little more than a century old, is already passing. 沙克尔顿、斯科特和阿蒙森等人以他们巨大的英雄主义，使一个新大陆从阴影中浮现，但那个英雄时代，一个多世纪前，已经一去不复返了。
+2.He received a medal for his heroism. 他由于英勇而获得一枚奖章。
+3.What is heroism?什么是英雄主义？。
+[搭]
+1.Super-heroism 超级英雄主义
+2.male heroism 英雄主义
+3.the heroism 英雄主义
+[联]heroism (英雄主义) + spirit (精神) ——> 英雄精神
+
+honeymoon / ˈhʌnimuːn /
+n. 蜜月
+v. 度蜜月
+[例]
+1.They're on their honeymoon. 他们正在度蜜月。
+2.We went to Venice for our honeymoon. 我们去威尼斯度的蜜月。
+3.They've fixed on Paris for their honeymoon. 他们已选定在巴黎度蜜月。
+[搭]
+1.honeymoon suite 蜜月套房；蜜月组曲；蜜月套间；豪华海上蜜月别墅
+2.Honeymoon Bay 蜜月湾
+3.honeymoon trip 蜜月旅行；旅行结婚；蜜月之旅；度蜜月
+4.honeymoon suite 蜜月套房
+5.second honeymoon 二度蜜月
+[联]honey (蜂蜜) + moon (月亮) ——> 蜜月
+
+host / hoʊst /
+n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体
+v. 主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站
+[例]
+1.Shall I take my host family a gift?我要不要给主人家带件礼物呢？《牛津词典》。
+2.Shall I take a gift to my host family?我要不要给主人家带件礼物呢？《牛津词典》。
+3.Our host shook each of us warmly by the hand. 主人热情地和我们每个人握手。
+[搭]
+1.The Host 宿主；汉江怪物；怪物；骇人怪物
+2.Host name 计  主机名；主机的名称；域主机名
+3.host country 东道国；主办国；东道主国家
+4.a host of 许多，一大群；众多，大量
+5.host country 东道国；主办国；所在国
+6.host cityn.  主办城市；举办城市
+[联]host (主人) + el ( suffix 表示小的) ——> 主人般待客的小东西
+
+hostage / ˈhɑːstɪdʒ /
+n. 人质
+[例]
+1.Somebody is holding your wife hostage. 有人在扣留你的妻子当人质。
+2.The group had shot dead another hostage. 这伙人又打死了一名人质。
+3.One group claimed to have executed the hostage. 一个组织声称他们已处死了那名人质。
+[搭]
+1.iran hostage crisis 伊朗人质危机
+2.Hostage Rescue 非常人质解救；援救人质；人质救援
+3.FBI Hostage RescueFBI 拯救人质；fbi 挽救被拘留人；FBI 解救人质
+[联]host + age ——> 主人 + 时期/状态 ——> 人质
+
+hostess / ˈhoʊstəs /
+n. 女主人，女东道主；女主持人；（餐馆的）女迎宾，女门迎；（夜总会的）女招待；（飞机，火车等上的）女服务员
+[例]
+1.The hostess introduced them. 女主人介绍了他们。
+2.An air hostess was arrested and charged with drug smuggling. 一位空姐被抓了起来，并被指控走私毒品。
+3.The Hostess came bustling towards him. 女主人正急急忙忙地向他走来。
+[搭]
+1.air hostess 空中小姐；女乘务员；男服务员；地面小姐
+2.air-hostess 空中小姐；女乘务员；的中文意思；空气
+3.married air hostess 空嫂
+4.air hostess 空中小姐
+[联]host (主持人) + ess (名词后缀，表示女性) ——> 女主持人
+
+hostile / ˈhɑːst(ə)l /
+adj. 敌对的，怀敌意的；强烈反对的；敌人的，敌方的；艰苦的，不利的；不受（被购公司）欢迎的
+n. 敌对分子
+[例]
+1.It depends what you mean by 'hostile'. 那得看你所说的 hostile 的含义。
+2.He was disheartened by their hostile reaction. 他被他们敌意的反应弄得灰心了。
+3.She fixed her questioner with a hostile glare. 她敌意地瞪着向她提问的人。
+[搭]
+1.Hostile Takeover 敌意收购；恶意收购；恶意并购
+2.hostile forces 敌对势力；敌军；敌对权力；敌方力量
+3.hostile environment 恶劣的环境；危机大行动
+4.hostile takeover 恶性接收；敌意接管
+[联]hostile (敌对的) + nature (天性) ——> 敌对天性
+
+hostility / hɑːˈstɪləti /
+n. 敌意，对抗；强烈的反对，愤怒反抗；战斗，战争行动
+[例]
+1.Hostility glinted in his eyes. 他眼睛里流露出敌意。
+2.There was open hostility between the two schools. 这两所学校公开相互敌对。
+3.In spite of her hostility, she was attracted to him. 尽管心存敌意，她还是被他吸引住了。
+[搭]
+1.Irrational Hostility 征服者；不合理敌视；非理性的敌意
+2.basic hostility 基本敌意；基本敌对情绪；生基础敌意；基本敌对
+3.overt hostility 公开的敌意；公然的敌意；公众智慧的结晶
+[联]hostility (敌意) + city (城市) ——> 敌意之城
+
+household / ˈhaʊshoʊld /
+n. 家庭，一家人；家务；王室（the Household）
+adj. 家用的，家务的；全家人的；家喻户晓的；皇家的（Household）
+[例]
+1.She became a household name in the 1960s. 她在20世纪60年代成为家喻户晓的人物。
+2.Today, fashion designers are household names. 如今，服装设计师们家喻户晓。
+3.Many household products give off noxious fumes. 很多家用产品散发有害气体。
+[搭]
+1.household income 家庭年收入； 经  家庭收入；住户收入
+2.Household furniture 家庭家具；家子家庭用具；家俱；家子家具
+3.Imperial Household Agency 宫内厅；宫内庁
+4.household goods 家庭用品；日用商品
+5.household appliance 家用电器
+6.household registration 户口登记
+[联]house + hold ——> 家庭， households指的是家庭成员，house表示房子，hold表示持有、容纳，合起来可以理解为“房子中持有（容纳）的人和物品”。
+
+housekeeping / ˈhaʊskiːpɪŋ /
+n. 家务管理；家用开支；总务部，后勤部；内务处理；（细胞的）基本代谢功能调节
+[例]
+1.I thought that cooking and housekeeping were unimportant, easy tasks. 我曾认为做饭和料理家务是琐碎简单的工作。
+2.As the working classes prospered and the servant shortage set in, housekeeping became a matter of interest to the educated classes. 随着工人阶级的繁荣和佣人短缺的出现，家政成为了受教育阶级感兴趣的事情。
+3.When Emma isn't caring for Bowie, she works for four housekeeping clients, including one who requires that she should iron for eight hours. 当艾玛不在照顾鲍伊时，她为四个家政客户服务，其中一个客户要求她熨8个小时的衣服。
+[搭]
+1.housekeeping gene 遗  管家基因；家务基因；家基因；内参基因
+2.Housekeeping Department 管家部；客房部；总务部门；房务部
+3.Good Housekeeping 好管家；时尚好管家；时尚
+4.good housekeeping 好管家；家政（美国一份内容保守的妇女杂志）
+[联]house (房子) + keeping (维护，保持) ——> 家务，房屋管理
+
+housewife / ˈhaʊswaɪf /
+n. 家庭主妇
+[例]
+1.I hated the label 'housewife'. 我不喜欢“家庭主妇”这个称谓。
+2.Sometimes being a mother and a housewife felt like a thankless task. 做母亲和家庭主妇有时使人觉得好像是个受累不讨好的差使。
+3.Married at nineteen, she was a traditional housewife and mother of four children. 她19岁就结婚了，是个传统的家庭主妇和4个孩子的母亲。
+[搭]
+1.The Happy Housewife 片
+2.desperate housewife 绝望主妇；绝望的主妇；剧情好看；疯狂主妇
+3.Bad Housewife 不良主妇日记；何在旭；不良主妇
+[联]house (房子) + wife (妻子) ——> 家庭主妇
+
+housewifely / ˈhaʊswaɪfli /
+adj. 主妇们的；节俭的
+[例]
+1.She was a housewifely little creature, and helped Hannah keep home neat and comfortable for the workers, never thinking of any reward but to be loved. 她是个贤妻良母型的小姑娘，帮罕娜为工人们把家里打理得整洁舒适，从不乞求报偿，只要被人爱着便心满意足。
+2.Her older sister, Margaret, was matronly and dignified, probably from having assumed matronly and housewifely responsibilities too early in life, their mother having died when they were quite young. 大姐玛格·丽特像母亲一样威严，大概是因为她太早地承担了母亲和家庭主妇的责任，母亲在她们年幼时就去世了。
+[搭]
+1.housewifely chores 主妇的家务
+[联]house (房子) + wife (妻子) + ly (形容词后缀) ——> 家庭主妇似的
+
+housewifery / ˈhaʊswɪfəri /
+n. 家事；家政
+[例]
+1.Objective to understand to engage housewifery middles womens' mental health state after coming off sentry duty and obtains employment again. 目的了解下岗后再就业从事家政的中年女性的心理健康状况。
+[搭]
+1.housewifery women 家政女性
+2.housewifery education 家政教育
+3.Housewifery Knowledge 家政知识
+[联]house (房屋) + wifery (妻子的职责) ——> 家务事
+
+housework / ˈhaʊswɜːrk /
+n. 家务劳动，家务事
+[例]
+1.Housework is a never-ending task. 家务活做起来真是没完没了。
+2.They share the housework equally. 他们平均分担家务。
+3.He always helps with the housework. 他总是帮着做家务。
+[搭]
+1.do housework 做家务；做家务事；做家务劳动；做家务活
+2.Sharing Housework 分摊家务；上一篇
+3.do the housework 做家务；干家务活；在做家务
+4.do housework 做家务，干家务活
+[联]house (房子) + work (工作) ——> 家务活
+
+husband / ˈhʌzbənd /
+n. 丈夫
+v. 节约使用
+[例]
+1.Her husband walked out on her. 她的丈夫弃她而走。
+2.My husband says I am frigid. 我的丈夫说我性冷淡。
+3.She's divorcing her husband. 她在与丈夫闹离婚。
+[搭]
+1.Husband and wife 夫妻；夫妇；夫妻那些事；伉俪
+2.Husband Hill 赫斯本德山；丈夫山；哈斯本山
+3.Ex-husband 前夫
+4.husband and wife 夫妻
+[联]house (房子) + band (乐队，带状物) ——> 家里的带状物
+
+husbandman / ˈhʌzbəndmən /
+n. 农夫；百姓
+[例]
+1.The great Husbandman is not always threshing. 农夫不会一直打谷的，上帝也不会一直用杖的。
+2.The average American was an educated husbandman. 一般美国人都是受过教育的农民。
+3.And Noah began to be an husbandman, and he planted a vineyard. 挪亚作起农夫来，栽了一个葡萄园。
+[搭]
+1.animal husbandman 畜牧专家
+2.crop husbandman 栽培人员
+3.anima husbandman 畜牧工作者
+[联]husband (丈夫) + man (人) ——> 从事农业的人
+
+husbandry / ˈhʌzbəndri /
+n. 饲养业，农牧业；（金钱和其他必要物品的）管理，妥善使用；<古>家政
+[例]
+1.There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis. 英国畜牧业占大头是有充分理由的：其大部分地区的土壤或气候不适宜农作物商业化种植。
+2.The high prices encouraged the peasants to improve their animal husbandry techniques；for example, they began feeding their animals indoors in order to raise the milk yield of their cows. 高昂的价格鼓励农民提高畜牧业技术；例如，为了提高奶牛的产奶量，他们开始在室内喂养动物。
+3.They depended on animal husbandry for their livelihood. 他们以畜牧业为生。
+[搭]
+1.animal husbandry 畜牧  畜牧业；畜牧〔业；畜牧
+2.Department of Animal Husbandry 畜牧系
+3.dairy husbandry 制酪业； 食品  乳品业；乳牛业
+4.animal husbandry 畜牧业；畜牧学
+[联]husband (丈夫) + ry (表示状态或性质) ——> 丈夫管理的状态或性质
+
+individual / ˌɪndɪˈvɪdʒuəl /
+adj. 单独的，个别的；个人的；独特的，与众不同的
+n. 个人，个体；与众不同的人，有个性的人；某种类型的人
+[例]
+1.Some individual investors exulted at the record. 一些个人投资者为这一记录欢欣鼓舞。
+2.Japan won the Men's 200 metre individual medley. 日本赢得了男子200米个人混合泳比赛。
+3.It's impossible to hold any individual responsible. 不可能让任何个人承担责任。
+[搭]
+1.Individual Difference 经  个体差异；个体差；体差异
+2.individual sport 个人运动；单项体育；个人与个人比赛的项目
+3.Individual Sports 体育项目；单项运动；人运动
+4.individual character 个性；单字
+5.individual income tax[经]个人所得税
+6.individual freedom 个人自由
+[联]in (不) + dividual ( divid(分割) + ual(形容词后缀) ) ——> 不可分割的
+
+individuality / ˌɪndɪˌvɪdʒuˈæləti /
+n. 个性，个人特征；个体，单个实体；个人的嗜好
+[例]
+1.She expresses her individuality through her clothes. 她从穿着上表现出她的个性。
+2.People should be free to express their individuality. 人们应该自由表现自己的个性。
+3.Individuality is a valued and inherent part of the British character. 个性是英国人重视并固有的特征。
+[搭]
+1.graphic individuality 书画个性
+2.your individuality 保持自我
+3.Individuality and uniqueness 个性化设计；性化设计；风格；性化风格
+[联]in (不) + dividual (分开的) + ality (性质，状态) ——> 个 性化的状态
+
+individually / ˌɪndɪˈvɪdʒuəli /
+adv. 分别地，单独地，各别地；独特地，有个性地；个人地，以个人身份地
+[例]
+1.These paints can be used individually or in combination. 这些涂料可单独或混合使用。
+2.We'd better go in a group, not individually. 最好集体去，不要单个儿去。
+3.The manager spoke to them all individually. 经理逐一和他们各人谈话。
+[搭]
+1.individually owned enterprise 个体企业；个别企业
+2.opening up individually 单独开拓
+3.both individually 无论是单独；个别；两个单独地；两个人
+[联]in (不) + divid (分开) + ually (形容词后缀) ——> 独立地、个别地
+
+infant / ˈɪnfənt /
+n. 婴儿，幼儿；（英国学校里四至七岁的）学童；<法律>未成年人
+adj. 供婴幼儿用的；初期的，初创期的；四岁至七岁幼儿的
+[例]
+1.There was an infant squalling in the back of the church. 教堂的后面有个婴儿大声啼哭的声音。
+2.The nation's infant mortality rate has reached a record low. 该国的婴儿死亡率已达历史最低。
+3.Infant mortality is a reliable barometer of socio-economic conditions. 婴儿死亡率是社会经济状况的可靠指标。
+[搭]
+1.Infant mortality 婴儿死亡率；早期失效率；早期失效
+2.infant school 幼儿学校；幼儿园；幼儿黉舍
+3.premature infant 妇产,儿科  早产儿；未成熟儿；早产婴儿；早产
+4.infant formula 婴儿配方；婴儿配方食品
+5.infant mortality 婴儿死亡率，早期失效；早期故障期
+6.premature infant 早产儿
+[联]in + fant ——> 不断成长的 + 幼小的 ——> 婴儿
+
+infanticide / ɪnˈfæntɪsaɪd /
+n. 杀婴，杀婴者；杀婴犯；杀婴罪
+[例]
+1.Would life in the tundra justify infanticide?苔原地带的艰苦生活能作为杀婴行为的借口吗？。
+2.In some species, such as lions and langurs, this results in deliberate infanticide. 在诸如狮子及叶猴等物种中，这导致了故意杀婴。
+3.Not surprisingly, maternal infanticide is mainly a crime of poor, single women. 一点也不奇怪，杀婴母亲主要是贫穷、单身者。
+[搭]
+1.infanticide by violence 积极杀婴
+2.passive infanticide 消极杀婴；胎儿出生后
+3.Female Infanticide 杀女婴；女婴
+[联]in (不) + fantic (婴儿) + ide (形容词后缀) ——> 反婴儿的，杀婴的
+
+infantile / ˈɪnfəntaɪl /
+adj. 婴儿的；幼稚的；初期的
+[例]
+1.Very often, we do not completely outgrow that infantile notion that our wishes cause things to happen. 我们的愿望导致事情发生这样幼稚的想法，我们很多时候并没有成熟到能够摆脱。
+2.These three explanations of infantile amnesia are not mutually exclusive；indeed, they support each other. 对婴儿健忘症的这三种解释并不相斥；事实上，他们互相支持。
+3.Most people are not able to recount memories for experiences prior to the age of three years, a phenomenon called infantile amnesia. 大多数人都不能回忆起三岁之前的经历，这种现象被称为婴儿失忆症。
+[搭]
+1.infantile diarrhea 儿科  婴儿腹泻；小儿腹泻；婴幼儿腹泻；小儿泄泻
+2.infantile eczema 皮肤  婴儿湿疹；小儿湿疹； 中医  奶癣； 皮肤  幼儿湿疹
+3.infantile acne 婴儿痤疮
+4.infantile diarrhea 幼儿腹泻；婴儿腹泻
+5.infantile autism[医]自闭症（精神病学）
+[联]in (不) + fant (幻想) + ile (形容词后缀) ——> 幼稚的
+
+infantry / ˈɪnfəntri /
+n. 步兵；步兵团
+[例]
+1.A U. S.  infantry battalion was marching down the street. 一个美军步兵营沿着街道行进。
+2.The lieutenant was put in charge of an infantry platoon. 中尉被委任指挥一个步兵排。
+3.Infantry and armor units are already deploying on the Gaza border. 步兵和装甲部队已经部署在加沙边境。
+[搭]
+1.light infantry 轻装步兵；有时辅以轻装兵团；轻步兵；步兵班
+2.infantry fighting vehicle 步兵战车；战车；装步战车；多功能步兵车
+3.Line Infantry 线列步兵；战列步兵
+4.light infantry 轻步兵
+5.infantry division 步兵师，陆军师；机步师
+[联]inf (信息) + ant (蚂蚁) + ry (表集合) ——> 信息蚂蚁的集合
+
+intimate / ˈɪntɪmət /
+adj. 亲密的；个人的，隐私的；温馨的，幽静舒适的；详尽的，精通的；密切的，紧密的；有性关系的，暧昧的
+v. 透露，暗示；宣布，通告
+n. 密友，知己
+[例]
+1.He wrote about the intimate details of his family life. 他写下了家庭生活中一些私人的细节。
+2.The cafe has an intimate but buzzy atmosphere. 咖啡馆气氛暧昧但又很活泼。
+3.We're not on intimate terms with our neighbours. 我们和邻居来往不多。
+[搭]
+1.intimate relationship 亲密关系；亲密的关系；男女关系
+2.The First Intimate Contact 第一次的亲密接触
+3.Intimate Enemies 亲密的敌人；亲密的敌人专辑
+4.intimate relationship 亲密的关系
+5.intimate friend 知交，知己
+6.intimate contact 亲密接触
+[联]inner (内部的) + mate (伙伴) ——> 亲密的伙伴
+
+intimately / ˈɪntɪmətli /
+adv. 熟悉地；亲切地；私下地
+[例]
+1.He did not feel he had got to know them intimately. 他觉得自己不必和他们亲密熟悉。
+2.It was the first time they had attempted to talk intimately. 这是他们第一次试图私下交谈。
+3.She was intimately involved in the project. 她已投入到这个项目中。
+[搭]
+1.Accompany each other intimately 卿卿我我
+2.Intimately Beckham 亲密贝克汉姆；贝克汉宣言
+3.intimately adverb 密切地
+[联]in (不译) + tim (时间) + ate (使...) ——> 亲密地
+
+juvenile / ˈdʒuːvənaɪl /
+adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
+n. 青少年，未成年人；扮演青少年角色的演员；幼鸟，幼兽
+[例]
+1.Juvenile crime is increasing at a terrifying rate. 青少年犯罪在以惊人的速度增加。
+2.She wasn't sent to the juvenile court；instead she was cautioned. 她未被送上少年法庭，而是受到了警告。
+3.Fifteen-year-old Danny is on the run from a juvenile detention centre. 15岁的丹尼从少年犯拘留所逃了出来。
+[搭]
+1.juvenile delinquency 青少年犯罪；少年犯罪；未成年人犯罪；未成年人违法
+2.juvenile hormone 生理  保幼激素；青春激素；保幼烯酯；激素
+3.Juvenile Court 少年法庭；未成年人法庭；青少年法庭；青少年法院
+4.juvenile delinquency 少年违法犯罪
+5.juvenile courtn.  少年法庭
+6.juvenile diabetes 青少年糖尿病；幼年型糖尿病
+[联]juvenile (青年的，幼稚的) + stage (阶段) ——> 青春期阶段
+
+juvenilia / ˌdʒuːvəˈnɪliə /
+n. 少年读物
+[例]
+1.Three vellum note books contain her "Juvenilia" -the stories and poems she wrote as a teenager. 有三本羊皮纸笔记记录了她的“少女之作”——她在青少年时期写的故事与诗歌。
+2.Even as a child, without any prompting from others, I wanted to be a writer and, indeed, I turned out a good deal of the usual juvenilia. 就算是在少年时期，在没有任何外界刺激的情况之下，我仍然想要成为一名作家，并且，我也实实在在的把自己的注意力转向了大量的阅读少年读物。
+3.Declining Years "image, the archetype of Zhang Ailing's story character, appeared first in her prose Declining Years, which was her juvenilia. "“迟暮”意象是张爱玲小说人物的原型。
+[搭]
+1.juvenilia a 少年文艺读物
+[联]juve (青春) + nil (无，没有) + ia (表状态或性质的后缀) ——> 青春期之前的创作作品
+
+juvenility / ˌdʒuːvɪˈnɪlɪti /
+n. 年轻，年少；不成熟
+[例]
+1.Juvenility and full of energy are our capital. 年轻和充满活力是我们最大的资本。
+2.Juvenility cofactors have been identified as terpenes. 幼年辅助因子已经鉴定出是萜类化学物。
+3.Maybe not only women , but also men themselves yearn the days of their juvenility . 也许不单是女人。
+[搭]
+1.root juvenility 根不成熟性
+2.Long Juvenility 长童期
+3.juvenility factor 幼态因素
+[联]juve (年轻人) + nility (性质，状态) ——> 幼稚性质
+
+kin / kɪn /
+n.（统称）家属，亲戚
+adj.（人）有亲戚关系的
+[例]
+1.We have notified the next of kin. 我们已经通知了直系亲属。
+2.Her next of kin have been informed. 她最近的亲属已得到通知了。
+3.The form must be signed by next of kin. 这表格必须由最近亲签字。
+[搭]
+1.Kwok Kin Pong 郭建邦
+2.Tsang Kin Fong 曾健晃
+3.kin selection 亲属选择；亲缘选择；亲族选择；血缘淘汰
+4.of kin◎有亲戚关系的
+5.next of kin 最近的血亲，最亲的亲戚
+6.kith and kin 朋友和亲属
+[联]kin + ship ——> 亲属关系
+
+kind / kaɪnd /
+n. 种类；同类的人；特征，性质；圣餐的圣体（指面包或葡萄酒）
+adj. 宽容的，体贴的，亲切友好的；温和的，无害的；关爱的，好心的（尤用于答谢语中）
+[例]
+1.She was a kind, motherly woman. 她是一位善良的充满母爱的女人。
+2.He's in some kind of trouble. 他遇到了什么麻烦。
+3.I've caught some kind of lurgy. 我有点小病。
+[搭]
+1.a kind of 一种；一类；表示一种不确定性；某种
+2.payment in kind 会计  实物支付；以物品支付；用实物付酬；以实物付款
+3.kind of 有点儿；有几分；有点；稍微
+[联]kind (仁慈的，友好的) + hearted (有心的) ——> 心地善良的
+
+kindergarten / ˈkɪndərɡɑːrt(ə)n /
+n. 幼儿园
+[例]
+1.She's in kindergarten now. 她现在在上幼儿园。
+2.My musical career consisted of playing the triangle in kindergarten. 我的音乐生涯包括在幼儿园演奏三角铁。
+3.Some drawings by kindergarten kids are excellent. 幼儿园小朋友画的一些画非常棒。
+[搭]
+1.Kindergarten Cop 幼儿园警探；幼儿园特警；幼稚园特警；魔鬼孩子王
+2.Hanamaru Kindergarten 花丸幼稚园
+3.kindergarten crunch 幼儿园；幼儿园“入园难
+[联]kind (善良的) + ergarten (儿童花园) ——> 幼儿园
+
+kindly / ˈkaɪndli /
+adv. 亲切地；温和地；仁慈地
+adj. 亲切的；和蔼的；体贴的；爽快的
+[例]
+1.She spoke kindly to them. 她与他们亲切交谈。
+2.A kindly twinkle came into her eyes. 她的眼睛里闪烁着亲切的光芒。
+3.Visitors are kindly requested to sign the book. 敬请参观者在这本册子上签名。
+[搭]
+1.Kindly Remind 温馨提示；温暖提示
+2.speak kindly 言调温和
+3.Kindly indulgence 温和地纵容；任性的
+4.take something kindly◎欣然接受，诚恳地接受(忠告等)
+5.take kindly to◎乐意接受
+[联]kind (善良的) + ly (副词后缀) ——> 和蔼地
+
+kinetic / kɪˈnetɪk /
+adj. [力] 运动的；活跃的
+[例]
+1.We apply the kinetic analysis to investigate the role of the intersystem crossing. 我们应用动力学分析来研究系统间交叉的作用。
+2.The axes are comprised of a generalized homologous temperature, the normalized kinetic energy flux, and the net film thickness. 坐标轴包括广义同系温度，标量化动能以及净膜厚度。
+3.The inhibitory effects of 4-hydroxycinnamic acid on the activity of monophenol oxidase in tyrosinase were studied using enzymological kinetic method. 采用酶动力学方法研究了对羟基肉桂酸对酪氨酸酶单酚酶的抑制效应。
+[搭]
+1.kinetic theory 物  分子运动论；运动论；动力学理论；动力论
+2.kinetic energy 力  动能；就是；运动能量；动
+3.Kinetic design 动感设计；动态设计；动能美学；运动设计
+4.kinetic energy[物]动能
+5.kinetic theory 动力论；分子运动论
+6.kinetic characteristic 动力学特性，动态特性
+[联]kinetic (运动的) + energy (能量) ——> 动能
+
+kiss / kɪs /
+v. 亲吻，接吻；轻拂，轻触；用唇轻触（以示敬意）；（球）轻轻擦过（另一球）
+n. 吻，接吻；（一球与另一球的）轻擦
+[例]
+1.The first kiss is dynamite. 初吻是激动人心的。
+2.He gave her a brief, brotherly kiss. 他给了她短促、兄弟般的一吻。
+3.Maria blew him a kiss. 玛丽亚给了他一个飞吻。
+[搭]
+1.kiss the rain 雨的印记；钢琴曲；雨之印记；轻音乐
+2.KISS CAT 接吻猫；千百度；高创鞋业；单鞋
+3.Paradise Kiss 天堂之吻；天国之吻；天堂之吻原声集；天堂之吻原声音乐
+4.kiss away 吻掉（用吻来消除忧愁、眼泪等）
+5.kiss of deathn.  死亡之吻（表面看上去有益但实际上具有毁灭性的行为或事务）
+6.kiss and tell 专揭名人私生活的书；根据第一手资料写成的绯闻或丑闻故事
+[联]kiss (吻) + lips (嘴唇) ——> 亲吻时接触的部位
+
+landfill / ˈlændfɪl /
+n. 废物填埋，垃圾填埋；废物填埋场，垃圾填埋地；填埋的废弃物；填埋的废弃物
+v. 把…埋在垃圾填埋场
+[例]
+1.The poison inside them moves through rain water to the bottom of the landfill. 它们里面的毒物通过雨水流到垃圾填埋场的底部。
+2.Shrinking landfill space and rising costs for burying and burning rubbish are forcing local governments to look more closely at recycling. 垃圾填埋场面积的缩小，以及填埋和焚烧垃圾成本的上升，都在迫使地方政府更深入地研究如何回收利用垃圾。
+3.It will come as no surprise to learn that the main candidates spent their largest sums on flyers, leaflets, posters and other bumf destined for the landfill. 得知主要的候选人将他们最大的一笔钱花在传单、传单、海报和其他注定要被填埋的垃圾上时，这并不惊讶。
+[搭]
+1.refuse landfill 垃圾填埋
+2.sanitary landfill 卫生掩埋；垃圾填坑；卫生填埋；卫生填地
+3.landfill leachate 垃圾渗滤液；垃圾填埋渗滤液
+4.landfill site 垃圾填埋场；垃圾堆填区
+5.sanitary landfill 卫生掩埋；垃圾填坑
+6.landfill gas 填埋的废物气体（指垃圾分解而产生的一种甲烷、二氧化碳等的混合气体）
+[联]land (陆地) + fill (填满) + -ey (表小后缀) ——> 垃圾填埋场
+
+landlady / ˈlændleɪdi /
+n. 女房东，女地主；（酒吧或招待所的）女老板
+[例]
+1.The landlady patted her hair nervously. 女房东不安地轻拍着她的头发。
+2.There was a note under the door from my landlady. 门下有我女房东的一张便条。
+3.When my landlady said she wanted to keep $380 of my deposit to paint the walls, I threw a fit. 当女房东说她要用我的$380押金来粉刷墙壁时，我大发脾气。
+[搭]
+1.The Landlady 女房东；女屠夫
+2.Landlady and tenant 阿珍要嫁人
+3.landlady y 女房东；房东太太；女地主；老板娘
+[联]land (土地) + lady (女士) ——> 房东
+
+landlord / ˈlændlɔːd /
+n. 房东，地主；<英>（客栈、酒吧或出租公寓的）店主，老板
+[例]
+1.His landlord doubled the rent. 他的房东把房租提高了一倍。
+2.She has now settled with her landlord. 她现在已经和她的房东算清了。
+3.The landlord has put the rent up again. 房东又提高房租了。
+[搭]
+1.The Landlord 地主；地主游戏；房东；大地主
+2.middleman landlord 二房东
+3.absentee landlord 外居地主；不在地主；在外地主
+[联]land + lord ——> 土地的主人
+
+landmark / ˈlændmɑːk /
+n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑
+v. 赋予地标的地位
+[例]
+1.Marble Arch is a famous London landmark. 大理石拱门是伦敦著名的标志性建筑。
+2.The Menger Hotel is a San Antonio landmark. 蒙尔饭店是圣安东尼奥的一个标志性建筑。
+3.There are efforts under way to designate the bridge a historic landmark. 在努力把这座桥定为历史地标。
+[搭]
+1.The Landmark 置地广场；中环置地广场；高级公寓；新希望·北岸壹号
+2.Landmark North 上水广场；上水
+3.landmark building 标志性建筑；地标建筑；置地广场
+[联]land (陆地) + mark (标记) ——> 陆地上的标记
+
+lover / ˈlʌvər /
+n.（非婚的）情人；爱好者
+[例]
+1.I'm a lover of the outdoors. 我是个户外活动爱好者。
+2.She acted out the role of the wronged lover. 她扮作一个受冤枉的情人。
+3.Every Thursday she would meet her lover Leon. 每个星期四她都去约会她的情人利昂。
+[搭]
+1.dream lover 梦中情人；梦里人；梦中人；一千零一夜之梦中人
+2.The Phantom Lover 夜半歌声；新专辑夜半歌声；夜半
+3.Star's Lover 明星的恋人
+4.dream lovern.  梦中人
+[联]love (爱) + ver(看作“vera”，拉丁语中“真实”的意思) ——> 真心相爱的人
+
+maid / meɪd /
+n. 女仆，女佣；<旧>少女，年轻姑娘；<古>处女
+[例]
+1.There is a maid to do the housework. 有个女仆做家务事。
+2.Her maid locked the case in the safe. 她的女仆把那盒子锁进了保险箱。
+3.They had a butler, a cook, and a maid. 他们有一位管家、一位厨师和一位女仆。
+[搭]
+1.Hand Maid May 袖珍女侍小梅；袖珍侍女小梅；袖珍丫鬟小梅；梅
+2.Maid in Manhattan 曼哈顿女佣；曼哈顿灰姑娘；女佣变凤凰；五星级恋人
+3.Minute Maid 美汁源；美粒果；大的果汁饮料经销商；小妇人苏打水
+4.old maid 老处女；谨小慎微的人
+5.an old maidn.  老处女；[口]谨小慎微的人
+6.maid of honor 女傧相；宫女
+[联]maid (女仆) + service (服务) ——> 家政服务
+
+maiden / ˈmeɪd(ə)n /
+n. <旧>少女，未婚女子，处女；（板球）零得分投球轮；（赛跑中）未赢过的马
+adj. 首次的，初次的；（女子）未婚的；（赛马）从未跑赢过的；（树木或其他果实植物）生长期第一年内的
+[例]
+1."Listen," said the robber maiden to Gerda. “听着。
+2.The young man betrothed the neighboring maiden. 这名男青年答应娶邻居的少女为妻。
+3.Now there was once a maiden whose name was Jorinda. 从前有个姑娘名叫约丽丹。
+[搭]
+1.Iron Maiden 铁娘子；铁娘子乐团；铁娘子乐队；攻击反噬
+2.Rozen Maiden 蔷薇少女；玫瑰少女；蔷薇乙女；蔷薇姹女
+3.Automatic Maiden 魔力女管家；女管家；吸引力女管家
+4.maiden name（女子的）婚前姓；娘家姓
+5.iron maiden 铁娘子；铁处女（英国伦敦的重金属乐队）
+[联] maiden (少女) + voyage (航海，航行) ——> 少女的航行
+
+maidenhead / ˈmeɪdnhed /
+n. 处女膜；处女性
+[例]
+1.. Belfast, Hull, Maidenhead and Slough will be switched on before the end of 2012.  ENGADGET: EE's 4G network to be available in 35 locations by the end of March 2013。
+2.. She also criticised the neighbouring borough of Windsor and Maidenhead for not building more affordable housing.  BBC: MP criticises funding cuts over Slough shed homes。
+3.. Windsor and Maidenhead Council said it did not want to respond to Ms Mactaggart's comments.  BBC: MP criticises funding cuts over Slough shed homes。
+[搭]
+[联] maiden (少女) + head (头部) ——> 少女头，指英国的一个地名 maidenhead
+
+manager / ˈmænɪdʒər /
+n.（公司、部门等的）经理；（艺人或运动员的）经纪人；（运动队的）管理人，主教练；管理某物的人；（计算机）管理程序
+[例]
+1.The manager was fat and jolly. 经理胖乎乎乐呵呵的。
+2.I wish to speak to the manager. 我想跟经理说话。
+3.Did you see the manager himself?你见到经理本人了吗？《牛津词典》。
+[搭]
+1.General Manager 总经理；总经理介绍；总司理；总经理室
+2.Project Manager 项目经理；项目管理器；专案经理；工程管理器
+3.Business Manager 经管  业务经理；商务经理；营业部经理；业务经理〔公司注册处
+4.general manager 总经理
+5.project manager 项目经理
+6.sales manager 销售经理；营业主任
+[联]man (人) + ager (与...有关的人) ——> 经理
+
+marriage / ˈmærɪdʒ /
+n. 结婚，婚姻；婚礼；紧密结合；配对（指伯齐克和其他牌戏中同花色K与Q组合）
+[例]
+1.She likens marriage to slavery. 她把婚姻比作奴役。
+2.They don't believe in marriage. 他们不相信婚姻。
+3.His first marriage broke up. 他的第一次婚姻破裂了。
+[搭]
+1.marriage certificate 结婚证；结婚证书；结婚证明；结婚证明书
+2.The Marriage of Figaro 费加罗的婚礼；莫扎特费加罗的婚礼；费加洛的婚礼；费加洛婚礼
+3.Mixed marriage 异族通婚；跨国婚姻；涉外婚姻；杂婚
+4.marriage law 婚姻法
+5.happy marriage 美满的婚姻
+6.marriage certificate 结婚证书
+[联]marriage (婚姻) + ceremony (仪式) ——> 婚礼仪式
+
+marrow / ˈmæroʊ /
+n. 髓，骨髓；精华；活力
+n.（Marrow）人名；（英）马罗
+[例]
+1.The marrow donor is her 14-month-old sister. 该骨髓捐献者是她14个月大的妹妹。
+2.Our bone marrow contains fat in the form of small globules. 我们骨髓里有圆滴式的脂肪。
+3.There are 2,000 children worldwide who need a bone marrow transplant. 全世界有2000名需要骨髓移植的儿童。
+[搭]
+1.bone marrow 解剖  骨髓；髓；髓样；慢性
+2.spinal marrow 脊髓；骨髓；背髓
+3.marrow bean 菜豆；四季豆
+4.bone marrow 骨髓
+5.marrow cell 骨髓细胞
+6.marrow cavity 骨髓腔
+[联]bone + row (一排，一列) ——> 骨髓
+
+marry / ˈmæri /
+v. 结婚，嫁，娶；为……主持婚礼；把……嫁给，为……娶亲；使结合在一起；拼接缆绳
+[例]
+1.I would dearly love to marry. 我热切地想结婚。
+2.Many people choose not to marry. 许多人情愿不结婚。
+3.They'll forbid you to marry. 他们会不许你结婚。
+[搭]
+1.Marry me 嫁给我；等你愿意；最佳配偶；我们结婚吧
+2.will you marry me 愿意嫁给我吗；你愿意嫁给我吗；匈牙利版；嫁给我好吗
+3.He Who Can't Marry 不能结婚的男人
+4.marry him 嫁给他
+5.marry into 通过结婚成为…的一员
+6.marry up 结婚；结合；配合；联合
+[联]mate (配偶) + ry (后缀，表状态或性质) ——> 结婚状态
+
+member / ˈmembər /
+n. 成员，一分子；会员；<英>议员；用于表示荣誉的头衔（尤指最低级）勋章获得者；（建筑或桥的）构件；（句子）成分；（方程式）端边；（一组数字）项；（数学集合）元；<旧>身体的一部分（如胳膊或腿）；阴茎
+[例]
+1.She is a life member of the club. 她是这个俱乐部的终身会员。
+2.He's a member of several London clubs. 他是伦敦几个男性俱乐部的会员。
+3.How much does it cost to become a member?要成为会员得花多少钱？《牛津词典》。
+[搭]
+1.member variable 成员变数
+2.Member of Parliament 议员；下院议员；下议院议员
+3.excellent League member 优秀团员；优异团员；优良团员；优秀
+4.party member 党员
+5.family member 家庭成员；家族成员
+6.staff member 职员
+[联]mem (回忆) + ber (类似后缀) ——> 回忆起类似的事物
+
+membership / ˈmembəʃɪp /
+n. 会员身份，会籍；会员数；（全体）会员
+[例]
+1.Membership almost doubled in two years. 两年内会员数目几乎翻了一番。
+2.She had allowed her membership to lapse. 她的会员资格期满终止，没有再续。
+3.The club has a membership of more than 500. 俱乐部的会员人数超过了500名。
+[搭]
+1.membership card 会员卡； 社科  会员证；会员可视卡；有会员卡么
+2.membership function 数  隶属函数；归属函数；属籍函数；隶属度函数
+3.Particulars of membership 会员专用
+4.membership function 从属函数；属籍函数
+5.membership fee 会员费；入会费
+6.degree of membership 隶属程度
+[联]mem (记忆) + bership (联想归属感) ——> 会员身份的归属感
+
+miss / mɪs /
+n. 女士，小姐，年轻未婚女子
+vt. 错过，想念，缺（勤）
+[例]
+1.I miss thee, beloved father. 亲爱的父亲，我想念您。
+2.I miss my family very much. 我很想念我的家人。
+3.Will that be all, Miss?就这些吗，小姐？《牛津词典》。
+[搭]
+1.Miss Universe 环球小姐；环球小姐大赛；宇宙小姐；举世蜜斯
+2.Miss World 世界小姐；世界蜜斯；世界小；世界小姐大赛
+3.Miss Kicki 霓虹心；蜜思奇；又名；琪琪小姐
+4.miss you so much 真的好想你
+5.miss out 错过；遗漏；省略
+6.miss out on 错过机会；错失了…
+[联]miss (错过) + take (拿走) ——> 错过的机会无法拿回来
+
+missile / ˈmɪs(ə)l /
+n. 导弹，飞弹；投掷物
+adj. 可投掷的；用以发射导弹的
+[例]
+1.The missile homed in on the target. 导弹正向目标飞去。
+2.The missile fell harmlessly into the sea. 导弹落到了海里，没有导致任何伤害。
+3.Their most potent weapon was the Exocet missile. 他们效力最强的武器是飞鱼导弹。
+[搭]
+1.cruise missile 航,军  巡航导弹；经营机制
+2.ballistic missile 航,军  弹道导弹；弹道飞弹；弹道式导弹；弹道飞弹潜艇
+3.anti-ship missile 反舰导弹；反舰飞弹；舰飞弹
+4.ballistic missilen.  弹道飞弹，弹道导弹
+5.cruise missilen.  巡航导弹
+6.guided missile 导弹；导向飞弹；有线导引飞弹
+[联]mis (错误) + sile (沉默) ——> 错误的沉默
+
+mission / ˈmɪʃ(ə)n /
+n.（尤指赴他国的）使命，重要任务；职责，天职；（军用飞机或航天火箭的）飞行任务；军事行动；（一个组织的）目的，宗旨；外交使团，代表团；驻外机构，使馆；（尤指在海外的）传教，布道；传教团，布道团；布道所，传教所
+vi. 作艰苦的长途旅行（尤指去许多地方）；派遣；向……传教
+[例]
+1.The mission was a washout. 这个任务彻底失败了。
+2.I reside at the mission at St.  Michael's. 我住在圣迈克尔教堂的布道所。
+3.The squadron flew on a reconnaissance mission. 这支空军中队执行一项侦察任务。
+[搭]
+1.The Mission 战火浮生；枪火；教会；如教会
+2.Mission Impossible 职业特工队
+3.Mission to Mars 火星任务；火星使命；火星任务专辑；火星
+4.mission statement 宗旨
+5.space mission 太空任务；航天任务
+6.mission impossible 不可能的任务，棘手的任务
+[联]mission (任务) + -ary (形容词后缀，表示与...有关的) ——> 与任务有关的
+
+neighbour / ˈneɪbər /
+n. 邻居，邻人；邻近的人（或物）；邻国；他人，世人
+vt.（地方，物体）位于……的附近，邻接；住在邻近
+adj. 邻居的，邻近的
+[例]
+1.This neighbour crewed on a ferryboat. 这位邻居在一艘渡船上当船员。
+2.Britain's nearest neighbour is France. 英国最近的邻国是法国。
+3.A neighbour sheltered the boy for seven days. 一个邻居将这个男孩藏了7天。
+[搭]
+1.beggar-my-neighbour 抢邻居；以邻为壑；把对方全吃光为胜的一种游戏
+2.Neighbour Girl 新学期女同桌
+3.A Letter to My Neighbour 给邻居的一封信；给邻人的一封信；给街坊的一封信
+[联]neigh (嘶鸣) + bour (来自法语，意为居住的人) ——> 邻居
+
+neighbourhood / ˈneɪbəhʊd /
+n. 社区，四邻；邻近的地方；邻里情谊，邻居间的友善关系；（数）领域
+[例]
+1.In the larger neighbourhood, I felt very unsafe. 在较大的街区，我感到非常不安全。
+2.It cost in the neighbourhood of $500. 这大约花费了500元。
+3.We grew up in the same neighbourhood. 我们是在同一条街上长大的。
+[搭]
+1.Neighbourhood Unit 邻里单位；近里单位；邻里单元
+2.Neighbourhood improvement schemes 社区改善计划；社区改进打算
+3.Neighbourhood and Workers Service Centre 街坊工友服务处
+4.in the neighbourhood of 大约；在. . . 附近
+[联]neigh (类似) + bour (村庄) + hood (状态，身份) ——> 邻居的状态或身份
+
+nephew / ˈnefjuː /
+n. 侄子，外甥
+[例]
+1.He entrusted the task to his nephew. 他把这任务托付给了他的侄儿。
+2.He entrusted his nephew with the task. 他把这任务托付给了他的侄儿。
+3.She has a nephew who is just ten years of age. 她有个才满10岁的侄子。
+[搭]
+1.Rameau's Nephew 拉摩的侄儿
+2.Nephew nephew 是侄子
+3.Nephew and uncle 叔侄
+[联]uncle (叔叔) + -ew (后缀，表示关系) ——> 侄子，外甥
+
+niece / niːs /
+n. 外甥女，侄女
+[例]
+1.He looked affectionately at his niece. 他慈爱地看着他的侄女。
+2.She was not exactly overjoyed at the prospect of looking after her niece. 想到要照料她的侄女，她就高兴不起来了。
+3.Now she's in assisted living, and her niece and nephew are helping with her affairs. 她现在住在辅助生活型住房里，她的侄女和侄子在帮助处理她的事务。
+[搭]
+1.Grand niece 侄孙女
+2.Niece niece 是侄女；是侄女儿
+3.great-niece 侄孙女
+[联]niece (侄女，外甥女) + sister (姐姐，妹妹) ——> 姐妹的孩子
+
+nurse / nɜːrs /
+n. 护士；<旧>保姆，奶妈；保育虫；（保护其他作物的）防护作物；沙锥齿鲨
+v. 看护，照料；细心打理；调养，调治；喂奶，哺乳；吃奶；怀有；慢慢地喝；爱惜地搂抱；<旧>（在某种特定条件下）被抚养长大；（台球，斯诺克）聚球，使球互相靠拢
+[例]
+1.The nurse cleaned the wound. 护士清洗了伤口。
+2.The nurse washed and shaved him. 护士给他洗了脸，刮了胡子。
+3.The nurse mopped his fevered brow. 护士擦拭了他发烫的前额。
+[搭]
+1.Paul Nurse 保罗·纳斯
+2.wet nurse 奶妈；奶奶；乳娘
+3.head nurse 护士长；护；护理主任；护长室
+4.head nurse 护士长
+5.at nurse◎(孩子)由别人照看(或抚养)
+6.wet nursen.  奶妈；乳母
+[联]hospital (医院) + care (照顾，护理) ——> 护士
+
+nursery / ˈnɜːrsəri /
+n. 托儿所，幼儿园；儿童房；<旧>儿童活动室；苗圃；（医院里的）育婴室；动物繁殖场；温床；两岁的马参加的赛马
+adj. 幼儿教育的
+[例]
+1.Her youngest child is at nursery now. 她最小的孩子现在上托儿所。
+2.The nursery is bright and cheerful, with plenty of toys. 该托儿所明亮宜人，有许多玩具。
+3.One area of contention is the availability of nursery care. 争论的一个方面是提供幼儿保育的可能性。
+[搭]
+1.nursery school 托儿所；幼儿园；保育学校；托儿学校
+2.nursery rhyme 儿歌；童谣；摇篮曲；儿童佛乐
+3.Nursery Room 哺乳室；育婴室；托儿室
+4.nursery stock 苗木
+5.nursery schooln.  幼儿园
+6.nursery tale 童话
+[联]nur (养育) + sery (谐音“瑟”) ——> 幼儿园
+
+orphan / ˈɔːf(ə)n /
+n. 孤儿；（印刷）孤行
+v. 使成为孤儿
+adj. 孤儿的，无双亲的
+[例]
+1.He stayed with a raccoon orphan he had adopted. 他和一只他收养的浣熊孤儿待在一起。
+2.It's the latest in a long line of orphan literature. 这是最新的孤儿文学作品。
+3.He brought up the orphan and passed onto him his knowledge of medicine. 他把一个孤儿养大，并且把自己的医术传给了他。
+[搭]
+1.Orphan Black 黑色孤儿；玄色孤儿；最终季
+2.Orphan Drug 罕见病药物；罕用药
+3.orphan works 孤儿作品；孤儿着作；无主作品
+[联]orphan (孤儿) + less (无，没有) ——> 无父母的
+
+orphanage / ˈɔːrfənɪdʒ /
+n. 孤儿院；<古>孤儿身份，孤儿状态
+[例]
+1.She visited a Thai orphanage. 她参观了泰国的一家孤儿院。
+2.More likely, I was dropped at the orphanage steps or somewhere else. 更有可能的是，我被扔在孤儿院的台阶上或别的地方。
+3.Finally, at the orphanage, Pineda began to receive support and encouragement. 最后，在孤儿院，皮涅达开始得到支持和鼓励。
+[搭]
+1.the orphanage 凶宅儿魂；灵异孤儿院；孤堡惊情；孤儿院
+2.Elephant Orphanage 大象孤儿院；大笨象孤儿院
+3.Pinnawela Elephant Orphanage 大象孤儿院；宾纳瓦拉；小象孤儿院
+[联]orphan (孤儿) + age (时期，状态) ——> 孤儿院
+
+pioneer / ˌpaɪəˈnɪr /
+n. 拓荒者；先锋；（前苏联等共产党国家的）少年先锋队队员；（先头部队的）工兵；<爱尔兰>（天主教禁欲团体）完全禁欲先锋联盟的成员；先锋号（Pioneer）
+adj. 先驱的；拓荒的
+v. 做先锋，倡导；开辟（道路）
+[例]
+1.What if I am a pioneer or even a genius?要是我是个开拓者，甚至是个天才怎么办？。
+2.Li Dong, 46, is a pioneer in this field. 46岁的李东是这一领域的先驱。
+3.In the US, California has been a pioneer. 在美国，加利福尼亚州是一个开拓者。
+[搭]
+1.Pioneer program 先驱者计划；先锋计划
+2.Pioneer Corporation 先锋公司；前锋公司；日本先锋株式会社
+3.Pioneer Zephyr 先锋者微风号
+4.young pioneer 少先队员
+5.pioneer park 创业园
+6.pioneer plant 先锋植物
+[联]pioneer (先驱，开拓者) + -eer (表示从事某种职业的人) ——> 先锋，开拓者
+
+prophecy / ˈprɒfəsi /
+n. 预言；预言能力
+[例]
+1.Will the teacher's prophecy be fulfilled?那位老师的预言会实现吗？《柯林斯英汉双解大词典》。
+2.She was believed to have the gift of prophecy. 据信她有预言的天赋。
+3.Fear of failure can become a self-fulfilling prophecy. 害怕失败可能真会导致失败。
+[搭]
+1.The Prophecy 魔翼杀手
+2.self-fulfilling prophecy 自证预言；自我实现的预言；自我实现预言；自我应验预言
+3.Indigo Prophecy 幻象杀手；靛蓝预言；华氏温度计
+4.self-fulfilling prophecy 自我应验的预言
+[联]prophesy (预言) + -cy (名词后缀) ——> 预言的性质或状态
+
+prophet / ˈprɒfɪt /
+n.（基督教、犹太教、伊斯兰教等的）先知；预言家；提倡者，拥护者；穆罕默德（the Prophet，伊斯兰教创始人）；犹太教诸先知，《先知书》（the Prophets）
+[例]
+1.He had defiled the sacred name of the Holy Prophet. 他已经亵渎了神圣先知的圣名。
+2.He holds the belief that he is a latter-day prophet. 他深信自己是当代先知。
+3.The pity is that you are not a prophet. 可惜你不能未卜先知。
+[搭]
+1.The Prophet 先知；预言家；预言者；纪伯伦
+2.A Prophet 预言者；大狱言家；预言先知；预言者影评
+3.false prophet 虚假先知
+[联]prophet (先知) + let (让，使) ——> 让人们提前知道未来的事情
+
+prophetic / prəˈfetɪk /
+adj. 预言的，预示的；先知的
+[例]
+1.Many of his warnings proved prophetic. 他的许多警告都证明是有先见之明的。
+2.This ominous warning soon proved prophetic. 这一不详的警示不久就证明有预见性。
+3.It's a set of images that couldn't be more foreign or more alien to the prophetic mode of the old testament prophets. 这是一组不能再背离旧约先知的形象的一组比喻了。
+[搭]
+1.Prophetic Perfect 豫言完成式
+2.Prophetic Old Book 预言的古书
+3.Prophetic singing 预言性的歌唱
+[联]prophet (预言家) + ic (形容词后缀) ——> 预言的
+
+proponent / prəˈpəʊnənt /
+n. <正式>支持者，建议者；提出认证遗嘱者
+[例]
+1.Halsey was identified as a leading proponent of the values of progressive education. 哈尔西被认为是进步教育价值观的首要支持者。
+2.The most influential proponent of the coastal migration route has been Canadian archaeologist Knut Fladmark. 沿海移民路线最具影响力的支持者是加拿大考古学家克努特·弗拉德马克。
+3.In 1938, at the government-convened National Health Conference, organized labor emerged as a major proponent of legislation to guarantee universal health care in the United States. 1938年，在政府召开的全国卫生会议上，有组织的劳工成为立法的主要支持者，以保证美国的全民医疗保健。
+[搭]
+1.Tank Proponent 坦克支持者
+2.Infantry Proponent 步兵支持者
+3.proponent supporter 支持者
+[联]proponent (主张者，支持者) + advocate (提倡者，拥护者) ——> 支持者
+
+proposal / prəˈpoʊz(ə)l /
+n. 提议，建议；提案；（计划、建议等的）提出；求婚
+[例]
+1.The proposal was emphatically defeated. 这个建议已被断然否决。
+2.The proposal is relatively uncontentious. 这个建议并没有什么重大的争议。
+3.Her proposal met with unanimous rejection. 她的建议遭到一致否决。
+[搭]
+1.The Proposal 假结婚；爱情限时签；求婚的恶魔；弄假成真
+2.Indecent Proposal 桃色交易；下流的建议
+3.A Modest Proposal 一个小小的建议；一个温和的建议；唱片名
+4.proposal for sth 预备；提建议
+5.design proposal 设计方案，设计建议
+6.to table a proposal 提出建议
+[联]proposal (提议，提案) + accept (接受) ——> 提案被接受
+
+propose / prəˈpoʊz /
+v. 提议，建议；提出（理论或解释）；提名，推荐；计划，打算；求婚；（向立法机构或委员会）提交（动议）；提议祝（酒）
+[例]
+1.What do you propose to do now?现在你打算做什么？《牛津词典》。
+2.How do you propose getting home?你打算怎么回家？《牛津词典》。
+3.What would you propose?你想提什么建议？《牛津词典》。
+[搭]
+1.propose a price 开价
+2.propose to do 打算做某事；打算
+3.propose doing 建议做某事；建议
+4.propose to someone 向某人求婚
+5.propose a toast 敬酒；举杯
+6.propose someone for 推荐某人(参加某组织)；提名某人(任某职)
+[联]pro (向前) + pose (放置，提出) ——> 提出（建议、计划等）
+
+proposer / prəˈpəʊzə(r) /
+n. 要保人；申请人；提案人
+[例]
+1.The proposer must be aged 18 or above. 投保人必须年满18岁或以上。
+2.The composition proposer disposed of the components. 作文提议者处理掉了那些元件。
+3.Obstructing the giving of notification by the proposer or insured. 妨害要保人或被保险人为告知者。
+[搭]
+1.proposer r 申请人；要保人；提案人
+2.proposer and advocator 提出者和倡导者
+3.Signature of Proposer 投保人签署
+[联]proposer (提出建议的人) + -er (表人后缀) ——> 提议者
+
+proposition / ˌprɑːpəˈzɪʃ(ə)n /
+n. 主张，观点；（尤指商业或政治上的）提议，建议；（美国的）法律修正案；欲做的事，待处理的问题；（数学或逻辑）命题；（尤指被视作有冒犯性的）性交提议，求欢
+v. 向（某人）提议；（尤指冒犯地）提出与……性交，向……求欢
+[例]
+1.How did you vote on Proposition 8?对于第8项修正案你是怎么投的票？《牛津词典》。
+2.As a business proposition, it's a non-starter. 作为一份商业建议，它不可能取得成功。
+3.I'd like to put a business proposition to you. 我想向您提个业务上的建议。
+[搭]
+1.selling proposition 销售计划；提议；销售主张；销售提议
+2.inverse proposition 逆命题；反命题
+3.true proposition 真命题；真命题
+4.value proposition 价值主张；价值定位；价值命题
+5.make someone a proposition◎[口语]向某人提出一项办法(或提议)
+6.unique selling proposition 独特的销售主张
+[联]pro (向前) + position (位置) ——> 提出观点或建议
+
+relation / rɪˈleɪʃn /
+n.（人或物间的）联系；（国家、公司、组织等之间的）（正式）关系；<正式> 性关系；亲戚，亲属；讲述，叙述
+[例]
+1.It is a question of the relation of ethics to economics. 这是个道德和经济之间关系的问题。
+2.The relation that exists when opposites cannot coexist. 对立面不能共存的关系。
+3.The relation between employees and employers is becoming tense. 员工和雇主之间的关系变得紧张起来。
+[搭]
+1.binary relation 数  二元关系；二元瓜葛；二项关系
+2.public relation 公关；公共关系；公共关系学；公共关系专业
+3.in relation to 关于；有关；波及；涉及
+4.in relation to 关于；涉及
+5.public relation 公共关系
+6.direct relation 直接联系
+[联]relative (相关的) + ship (关系) ——> 关系
+
+relationship / rɪˈleɪʃ(ə)nʃɪp /
+n.（人、团体、国家等相互间的）关系；（人或事物之间的）关联，关系；恋人关系，性爱关系；血缘关系，姻亲关系
+[例]
+1.Their relationship flowered. 他们的关系变得更好了。
+2.Their relationship soon went sour. 他们的关系很快有了嫌隙。
+3.She is in a loveless relationship. 她身陷一段没有爱情的关系中。
+[搭]
+1.relationship marketing 关系营销；关系行销；客户关系营销；干系营销
+2.interpersonal relationship 人际关系；人际联系；人际交往
+3.intimate relationship 亲密关系；亲密的关系；男女关系
+4.relationship management 关系管理
+5.customer relationship management 客户关系管理（简写 CRM）
+6.cooperative relationship 合作关系
+[联]relate (联系) + ship (状态，情况) ——> 关系状态
+
+relative / ˈrelətɪv /
+n. 亲戚，亲属；同类事物，亲缘动物（或植物）；（语法）关系代词，关系限定词，关系副词；（哲学）关系项；相关物
+adj. 相比较而言的，比较的；相对的，相关联的；（语法）（代词、限定词或副词）关系的，（从句）由关系词引导的；（乐）（大小调）调号相同的；（与不同军种的军阶）相应（或对应）的；<正式> 关于（或涉及到）. . . . . . 的；相比之下存在（或有）的
+[例]
+1.He's a distant relative of the mayor. 他是市长的远房亲戚。
+2.She enjoyed the relative informality of island life. 她喜欢相对轻松随意的岛屿生活。
+3.The fighting resumed after a period of relative calm. 战斗在一段相对的平静之后重新开始。
+[搭]
+1.relative humidity 气象  相对湿度；操作相对湿度；相对温度；操作相对温度
+2.relative velocity 物  相对速度；相对速率；相对于速度
+3.relative risk 相对危险度； 科技  相对危险性； 经  相关风险
+4.relative humidity 相对湿度
+5.relative error 相对误差
+6.relative position 相对位置
+[联]relate (联系) + -ive (形容词后缀) ——> 有关系的
+
+relatively / ˈrelətɪvli /
+adv. 相当地，相对地
+[例]
+1.The job is relatively poorly paid. 相对而言，这工作报酬很低。
+2.The sums needed are relatively small. 所需金额相对较小。
+3.The interview was relatively painless. 此次面试相对轻松。
+[搭]
+1.relatively closed set 数  相对闭集
+2.relatively prime elements 互素元
+3.relatively prime functions 数  互素函数
+[联]relatively (相对地) + ly (-地，副词后缀) ——> 相对地
+
+respective / rɪˈspektɪv /
+adj. 分别的，各自的
+[例]
+1.It is important that we dovetail our respective interests. 我们寻求各自利益共同点是重要的。
+2.The happy couple and their respective parents took to the floor. 那幸福的一对和他们各自的父母开始跳起舞来。
+3.They are each recognized specialists in their respective fields. 他们在各自的领域都被视为专家。
+[搭]
+1.Respective Will 第十三章
+2.Their respective 各自；所属院校
+3.respective a 各自的；分别的
+[联]respect (尊重) + -ive (形容词后缀) ——> 分别的、各自的
+
+respectively / rɪˈspektɪvli /
+adv. 分别地，依次地
+[例]
+1.Their sons were three and six respectively. 他们的儿子们分别是3岁和6岁。
+2."Black" and "White" implied dark and fair respectively. “黑”和“白”分别表示黑暗和公正。
+3.The length, width, and height of a cuboid are 8 cm, 6 cm, and 4 cm, respectively. 一个长方体的长、宽、高分别是8厘米、6厘米、4厘米。
+[搭]
+1.be construed respectively as 被分别解释为
+2.respectively ad 独自地；各自地
+3.horizontally respectively 垂直的；中键
+[联]respectively (分别地，各自地) + ly (副词后缀) ——> 分别地
+
+separate / ˈseprət /
+adj. 单独的，分开的；不同的，不相关的
+v.（使）分离；（把……）分成不同部分；隔开，阻隔；（夫妻）分居，（同居情侣）分手；区分，区别；<美>解雇，辞退
+n. 可搭配穿着的单件衣服（separates）；独立音响设备（separates）；（按照颗粒大小、矿物组成等标准的）土壤划分（separates）
+[例]
+1.It happened on three separate occasions. 这事在三个不同的场合发生过。
+2.Men and women have separate exercise rooms. 男士和女士有分开的健身房。
+3.Police moved in to separate the two groups. 警察插进来分开了那两群人。
+[搭]
+1.Separate Tables 鸳鸯谱；分离的桌子；鸯鸳谱；新鸳鸯谱
+2.A Separate Peace 独自和解；一个人的和平
+3.SEPARATE APPLICATION 分别申请；分开涂胶法；分别敷用；分离上胶
+4.separate from 分离；把…和…分开
+5.separate out 析出；分出
+6.separate ways 分别，分道扬镳
+[联]sep (分开) + arate (使成为...) ——> 使...分离
+
+separation / ˌsepəˈreɪʃn /
+n. 分开，分隔；分离，离别；（夫妇的）分居；离析；分色（colour separation 的简称）
+[例]
+1.They agreed to a trial separation. 他们同意尝试一次分居。
+2.She wondered if Harry had been unfaithful to her during this long separation. 她想知道，在分开的漫长岁月里哈里是否已经对她不忠了。
+3.Separation from his friends made him sad. 与朋友们分离使他伤心。
+[搭]
+1.Six Degrees of Separation 六度分离；六度分隔理论；六度分隔；六度分割理论
+2.separation of powers 权力分立；分权；分立
+3.A Separation 伊朗式分居；一次别离；纳德和西敏一次别离
+4.membrane separation 薄膜分离
+5.magnetic separation 磁选；磁性分离；磁力分离；磁力选矿
+6.air separation 空气分离；风选
+[联]sep (分开) + aration (状态，过程) ——> 分离状态
+
+separator / ˈsepəreɪtər /
+n. 分离器；[计] 分隔符
+[例]
+1.The separator must be a comma. 必须使用逗号作为分隔符。
+2.By default, the separator is an underscore character. 在默认情况下，分隔符是下划线字符。
+3.The second one USES a single space as the "default" separator. 第二个方法使用了一个空格作为“默认”分隔符。
+[搭]
+1.magnetic separator 粮食,矿业  磁选机； 矿业  磁力分离器； 矿业  磁性分选仪；磁力分离机
+2.cyclone separator 化工  旋风分离器；旋林级机；气旋分离器
+3.Vapor-Liquid Separator 蒸气液体分离器；蒸气液体分散器；蒸气液体别离器；蒸气液体合集器
+4.cyclone separator 旋风分离器（除尘器）
+5.magnetic separator 磁力分离器
+6.water separator 水分离器；脱水器；干燥剂
+[联]sep (分开) + arator (相关物) ——> 分隔器
+
+sex / seks /
+n. 性行为，性交；性，性别；雄性，雌性；性器官（用于小说中避免更粗俗或更露骨的措词）
+v. 辨别. . . . . . 的性别，辨识. . . . . . 的雌雄；<非正式> 引起……的性欲
+[例]
+1.His voice oozed with sex appeal. 他的声音充溢着性感。
+2.My sex life is my business. 我的性生活是我的私事。
+3.He has sex on the brain. 他脑子里想的全是性。
+[搭]
+1.sex ratio 性别比；性比；性比率；性比例
+2.sex chromosome 性染色体；染色体
+3.Sex Drive 破处之旅；性冲动；性爱之旅；性动力
+4.sex education 性教育
+5.have sex 性交
+6.opposite sex 异性
+[联]solar (太阳的) + system (系统) ——> 太阳系
+
+sexist / ˈseksɪst /
+n. 性别歧视者
+adj.（尤指对女性）性别歧视者的
+[例]
+1.Old-fashioned sexist attitudes are still common. 老套的性别歧视态度仍然很普遍。
+2.She is a strong woman who has risen to the top of a deeply sexist organization. 她是一位坚强的女性，在一个性别歧视严重的组织中升到了顶层。
+3.We're not trying to assign blame or criticize anyone or call anyone consciously sexist. 我们不是要指责或批评任何人，也不是有意给人戴上性别歧视者的帽子。
+[搭]
+1.sexist language 性别歧视语言；性歧视语言；性别歧视语
+2.sexist word 性别歧视词
+3.sexist bias 性别歧视
+[联]sexist (性别歧视的) + ism (思想、主义) ——> 性别歧视主义
+
+sexual / ˈsekʃuəl /
+adj. 性的，性行为的；性别的；性取向的；生殖的，有性繁殖的；（繁殖）配子融合的
+[例]
+1.Sexual detail added piquancy to the story. 性的情节给故事添加了刺激的成分。
+2.The descriptions of sexual abuse are graphic. 这些对于性虐待的描述清楚而具体。
+3.Women's groups denounced sexual discrimination. 妇女组织谴责性别歧视。
+[搭]
+1.sexual spore 有性孢子
+2.Sexual Health 性健康；性安康；性卫生
+3.primary sexual character 第一性征
+4.sexual intercourse 性交
+5.sexual harassment 性骚扰
+6.sexual behavior 性行为
+[联]sex (性别) + ual (相关的) ——> 与性别相关的
+
+sexuality / ˌsekʃuˈæləti /
+n. 性征，性欲，性行为；性取向
+[例]
+1.He was confused about his sexuality. 他对自己的性别感到困惑。
+2.He believes he has been discriminated against because of his sexuality. 他认为他因自己的性倾向而受到了歧视。
+3.It's a question of expressing feelings that'll touch the soul and heart and the emotions, sexuality of the audience. 这是一个表达情感的问题，它会触动灵魂和心灵以及观众的情感和性欲。
+[搭]
+1.sexuality in plants 性别
+2.sexuality in animals 性别
+3.sexuality science 性科学
+[联]sex (性别) + uality (属性，性质) ——> 性属性
+
+sexy / ˈseksi /
+adj. 性感的，引起性欲的；性兴奋的，性冲动的；<非正式>让人兴奋的，吸引人的
+[例]
+1.Jo wore a long wig that made her look very sexy. 乔带着一头长长的假发，使她看起来很性感。
+2.In her new book Crazy Sexy Cancer Tips, writer Kris Carr looks at cancer from the perspective of a young adult who confronts death just as she's discovering life. 作家克里斯·卡尔在她的新书《疯狂性感的癌症小贴士》中，从一个年轻的成年人的角度来看待癌症，这个年轻人在发现生命的同时也面临着死亡。
+3.Asian women prefer to avoid the sun because being pale or white is considered beautiful, whereas a tanned complexion is considered much more beautiful and sexy in the west. 亚洲女性更喜欢避免日晒，因为皮肤白皙或洁白被认为是美丽的，而在西方，人们认为晒黑的皮肤更为美丽和性感。
+[搭]
+1.sexy prime 六素数
+2.Sexy Underwear 性感底裤；性感内衣；情趣内衣；性感内裤
+3.Sexy photo 性感写真
+4.sexy girl 性感女孩；性感女郎
+[联]s + exy (吸引人的) ——> 吸引人的身材或气质
+
+sibling / ˈsɪblɪŋ /
+n. <正式>兄弟姐妹
+[例]
+1.The remaining 22% lived in the home of another family member (such as a grandparent, in-law or sibling), a non-relative, or in group quarters like college dormitories. 剩下22%的人住在另一个家庭成员家里（如祖父母、姻亲或兄弟姐妹）、非亲属成员家里、或是像大学宿舍一样的集体住房里。
+2.A calm, rule-following child might respond better to a different sort of parenting than a younger sibling. 一个冷静、循规蹈矩的孩子对不同类型的养育方式的反应可能比弟弟妹妹更好。
+3.A calm, rule-following child might respond better to a different sort of parenting than, for example, a younger sibling. 一个冷静、守规矩的孩子对某种不同的育儿方式的反应可能会好过其弟弟妹妹。
+[搭]
+1.sibling rivalry 同胞争宠；枕边不细语；手足之争；同胞竞争
+2.sibling species 两似种
+3.sibling rivalry disorder 同胞竞争障碍
+4.sibling rivalry 同胞争宠；手足之争
+[联]sibling (兄弟，姐妹) + -ship (名词后缀，表示关系) ——> 兄弟姐妹关系
+
+single / ˈsɪŋɡ(ə)l /
+adj. 单一的，单个的；单身的，未婚的；各自的，分别的；单人的，单人用的；<英>（票）单程的；统一的；由一个部分构成的；（花）单瓣的；唯一的；（酒的）一份
+n. 单曲唱片；（板球中的）一分打，（棒球中的）一垒打；单身者，未婚者；<英> 单程票；（旅馆等的）单人房间；单打（比赛）；<美，非正式> 一元纸币；（鸣钟术）不同次序鸣钟法；<美>（影剧院的）一张票，一个座位；一份酒
+v. 挑选，选出；（棒球）击出一垒打；对（幼苗，幼树）进行间苗；将（铁轨）变成单线；以一垒打使（跑垒）得分
+[例]
+1.The single is titled "White Love. "这支单曲名为《白色之恋》。
+2.Are you still single?你还是单身吗？《牛津词典》。
+3.When will the single currency be operable?什么时候实行单一货币？《牛津词典》。
+[搭]
+1.single room 单人房；单人间
+2.A Single Man 单身男人；单身男子；单身汉
+3.single market 统一市场；北京单场；单一市场；同一市场
+4.every single[口语][加强语气]每一个
+5.single chip 单晶片
+6.single crystal 单晶
+[联]single (单一的) + room (房间) ——> 单人间
+
+singleton / ˈsɪŋɡltən /
+n. 单独的人（或物体）；单生子女，单生幼畜；单身的人；（纸牌戏，尤指桥牌）单张；单元（素）集
+n.（Singleton）（美）辛格尔顿（人名）
+[例]
+1.We could either implement each state as a Singleton, or create a factory of states which creates and manages the states. 我们既可以执行每个状态作为 Singleton，也可以创建一个状态工厂用于生成和管理状态。
+2.Bank is a 38-year-old singleton who grew up in Philadelphia. 班克是一个38岁的单身汉，在费城长大。
+3.Product inference engine, singleton fuzzifier and center average defuzzifier were used to calculate outputs. 用乘积推理机、单值模糊器和中心平均解模糊化来计算输出。
+[搭]
+1.John Singleton 约翰·辛格顿；约翰辛格顿；约翰；辛格顿
+2.James Singleton 詹姆斯·辛格尔顿；詹姆斯；辛格顿；辛格尔顿
+3.Chris Singleton 辛格尔顿；克里斯；标签；英文名
+[联]single (单一的) + ton (大量，大批) ——> 单例（在软件开发中指只有一个实例的对象）
+
+slave / sleɪv /
+n. 奴隶，苦工；完全受（某事物）控制的人；从动装置
+v. 苦干，拼命干；使（装置）从属于（另一装置）
+[例]
+1.She treated her daughter like a slave. 她对待女儿像对待奴隶一样。
+2.Huge palaces were built by slave labour. 宏伟的宫殿是奴隶建成的。
+3.She was born a slave and remained a slave and remained a slave for nearly thirty years. 她生下来就是个奴隶，一直都是奴隶，而且当了将近30年的奴隶。
+[搭]
+1.Master-Slave 计  主从；主；主从式装置；主从式
+2.slave cylinder 机  从动缸
+3.bus slave 总线受控；总线附属装置；总线从设备
+[联]s+lave ——> 奴隶
+
+slaver / ˈslævər; sleɪvər /
+vi. 淌口水
+vt. 淌口水弄湿；淌口水弄脏
+n. 口水；奴隶贩卖船；奴隶商人；谄媚；诱骗女子为娼者
+[例]
+1.Today's slaver will drain into tomorrow's tear. 今天哈喇子将成为明天的眼泪。
+2.His stinky slaver distains the castle in my dream. 恶臭的口水，玷污着我梦中的城堡。
+3.Master and slaver model: When a node is working as master server, the other is working as slaver server for backup. 主从模式：当一台服务器作为主服务器运行某个应用时，另一台服务器就是备份机。
+[搭]
+1.PCI slaver modePCI 从模式
+2.master-slaver d flip-flop 主从型 d 触发器
+3.master-slaver mode j-k flip-flop 主从式 j
+[联]slave (奴隶) + r ——> 奴役者
+
+slavery / ˈsleɪvəri /
+n. 奴隶制，蓄奴；奴隶身份，奴役；过分依赖，过分投入
+[例]
+1.She likens marriage to slavery. 她把婚姻比作奴役。
+2.It has been called modern-day slavery. 人们称之为现代版的奴隶制度。
+3.They thought slavery was morally wrong. 他们当时认为奴隶制是不道义的。
+[搭]
+1.Semi-slavery 半主半奴
+2.social slavery 社会奴役
+3.natural slavery 自然奴役
+[联]slave (奴隶) + ry (表状态或性质的后缀) ——> 奴隶状态
+
+solicit / səˈlɪsɪt /
+v. 请求，索求，征求（意见）；<美>兜售，推销；拉（客），卖淫
+[例]
+1.Like women, Burke thought, and from a similar greatness and delicacy in their nature, the aristocracy were understood at once to require deference and to solicit compassion. 伯克想，和女人一样，贵族们由于本性也同样伟大和细腻，立刻被理解为需要尊重和乞求同情。
+2.They were planning to solicit funds from a number of organizations. 他们正计划向一些机构募集资金。
+3.Prostitutes were forbidden to solicit on public roads and in public places. 娼妓被禁止在公路上和公共场所拉客。
+[搭]
+1.to solicit payment 恳求付帐；哀告付帐；请求付帐
+2.solicit contributions 募捐；募集；征稿；组稿
+3.Solicit input 征求意见
+[联]solicit (请求，恳求) + ing (后缀，表示动作正在进行) ——> 正在请求
+
+solicitation / səˌlɪsɪˈteɪʃn /
+n. 请求，（意见的）征求；引诱，怂恿，教唆
+[例]
+1.Republican leaders are making open solicitation of the Italian-American vote. 共和党领袖正公开地向意大利裔美国人拉票。
+2.Advertising, solicitation, application and approval. 广告，营销，申请，批准。
+3.Now for the fun part: the active solicitation of user information. 这是非常有趣的一个部分：积极征求用户信息。
+[搭]
+1.Solicitation planning 询价计划编制；询价计划；编制询价计划；询价计划制定
+2.Router Solicitation 路由器请求；路由请求；路由器恳求
+3.attempt of solicitation 教唆未遂；唆使未遂
+[联]solicit (请求，恳求) + ation (名词后缀) ——> 恳求， solicitous (热切的，渴望的)
+
+solicitor / səˈlɪsɪtə(r) /
+n. <英>初级律师，事务律师，诉状律师；<美>推销员，招揽生意的人，游说者；<美>法务官
+[例]
+1.Our solicitor holds our wills. 律师保存着我们的遗嘱。
+2.My solicitor is no longer in practice. 我的律师已不再执业了。
+3.He has always been the family solicitor. 他一直是这个家的律师。
+[搭]
+1.solicitor fee 律师费
+2.CROWN SOLICITOR 民事检察专员；政府律师
+3.solicitor fee 律师费
+[联]solicitor (律师) + tor (山峰，巨石) ——> 律师像山峰一样为客户提供支持和帮助
+
+specialise / ˈspeʃəlaɪz /
+vi. 专门研究（specialize 的英式拼写）
+vt. 使专门化；限定……的范围；深入（specialize 的英式拼写）
+[例]
+1.Of course we need to specialise eventually. 当然，我们最终需要专业化。
+2.Primates specialise in savoring the many millions of flavor combinations that they can create for their mouths. 灵长类动物特别擅长于为它们的嘴巴创造数百万种不同的味道组合。
+3.Of course all the stall will do their best to answer your questions, but now we're each going to specialise in certain areas. 当然，所有的摊位都会尽力回答你的问题，但现在我们每个人都将专注于某些领域。
+[搭]
+1.specialise each item 逐项列举
+2.specialise in 专门从事；专门研究
+3.We Specialise in 负责其产品
+4.specialise in 专门从事，专门研究；专门经营
+[联]special (特殊的) + ise (动词后缀) ——> 专攻， specialize
+
+specialist / ˈspeʃəlɪst /
+n. 专家；专科医生；美国陆军专业人员（高于一等兵低于下士的军衔）
+adj. 专业的；专门的；专家的
+[例]
+1.My doctor referred me to a specialist. 我的医生让我去找一位专家诊治。
+2.A specialist has now pronounced him fully fit. 一位专家已宣布他完全康复了。
+3.Each specialist has a team of doctors under him or her. 每位专家手下都有一组医生。
+[搭]
+1.Specialist Physicians 专科医生；专科医师；内科专家；专业医师
+2.Training Specialist 培训专员；助理；培训专家
+3.Specialist degree 专家学位；专科学位
+4.specialist system 专家系统；专家制度
+5.heart specialist 心脏病专家
+[联]special + ize + ist ——> 专门研究特殊事物的人
+
+specialistic / ˈspeʃəlɪstɪk /
+adj. 专家的；专攻的；专门学科的
+[例]
+1.Many specialistic techniques contribute to archaeology. 许多专业技术对考古学作出贡献。
+[搭]
+1.specialistic adsorption 专属吸附
+2.specialistic forecast method 专家预测法
+3.specialistic courses 专门课程
+[联]special (特殊的) + istic (形容词后缀) ——> 特殊的，专门的
+
+spousal / ˈspaʊzl; ˈspaʊsl /
+adj. 结婚的；与婚姻有关的，配偶的
+n.（常复数）婚礼
+[例]
+1.Bingo, he or she changes spousal brands. 对的，然后她改换了和自己结婚的品牌。
+2.Spousal revenge "is the most rare form of filicide, the murder of a child by a parent. 配偶的复仇“是最罕见的杀子形式，即被父亲或母亲谋杀。
+3.Health officials report a huge increase in spousal and child abuse by returning vets. 来自医疗部门的报告指出，在回来的这些人中，家庭暴力和虐待儿童的比例正在显著上升。
+[搭]
+1.spousal relationship 夫妻关系；夫妻身份
+2.spousal support 配偶赡养；配偶赡养费；配偶间的扶养；赡养
+3.spousal remainder trust 配偶幸存者信托
+[联]spousal (配偶的，婚姻的) + relationship (关系) ——> 婚姻关系
+
+spouse / spaʊs /
+n. 配偶
+v. 和……结婚
+[例]
+1.You, or your spouse, must be at least 60 to participate. 你或你的配偶至少要有60岁才能加入。
+2.It is often helpful to have your spouse in the room when major news is expected. 在等待重大消息时，让你的配偶在场往往是很有好处的。
+3.In theory, a girl may veto the spouse her parents have chosen. 理论上，女孩可以不接受她父母已为自己选择的配偶。
+[搭]
+1.military spouse 军嫂；军人家属
+2.Spouse Visa 配偶签证；伴侣签证；配偶签；英国配偶签证
+3.right of spouse 配偶权
+4.surviving spouse 未亡配偶
+[联]mate (配偶) + ouse (来自拉丁语，意为房屋、家) ——> 家中的伴侣
+
+spout / spaʊt /
+n. 管口，容器嘴；（急速喷出的）水流，水柱；（鲸喷出的）水气柱；出水管，排水沟；（由高向低的）运货斜槽，滑道；<史>（当铺中将抵押品传送到存放处的）升降车
+v. 喷涌；滔滔不绝地说，喋喋不休地说；（鲸鱼，海豚）从呼吸孔中喷出水柱
+[例]
+1.He replaced the boiler when the last one began to spout flames. 原来的锅炉开始喷射火焰之后他便更换了一个。
+2.She lifted the kettle a little and tilted its spout over the tea-pot. 她稍稍提起烧水壶，将壶嘴向茶壶倾斜。
+3.It was so much fun figuring out where to put the openings for the spout and handle!要弄明白在哪儿给壶嘴和把手开个口，这事真是太有趣了！。
+[搭]
+1.water spout 水龙卷；海龙卷；水管
+2.discharge spout 卸料槽；漏嘴；喷口；排料槽
+3.Steel Spout 出钢槽
+4.up the spout 无可挽回；在典押中；在困难中
+5.down spout 下水管；雨落管；水落管；出渣槽
+[联]spout (喷口，水管) + out (向外) ——> 喷出
+
+successful / səkˈsesf(ə)l /
+adj. 成功的，如愿以偿的；事业有成的，飞黄腾达的；（公司、影片、产品等）利润丰厚的，非常赚钱的
+[例]
+1.I think it's going to be successful. 我认为它将会成功。
+2.The play was very successful on Broadway. 那部剧在百老汇大获成功。
+3.His invention was not commercially successful. 他的发明从赢利角度看并不成功。
+[搭]
+1.Successful Participant 成功参赛奖；国际三等奖；成功参赛
+2.Successful career 事业有成；事业成功；成功的事业；成功的职业生涯
+3.Successful case 成功案例；联系我们；案例；合作案例
+4.successful in 在…成功的
+5.successful person 成功的人
+6.successful marriage 成功的婚姻
+[联]suc (表示"成功") + cess (表示"过程") + ful (形容词后缀，表示"充满...的") ——> 充满成功过程的
+
+successfully / səkˈsesfəli /
+adv. 成功地；顺利地
+[例]
+1.Shareholders successfully scuttled the deal. 股东成功地阻止了这桩交易。
+2.Parker had successfully flown both aircraft. 帕克成功地驾驶过这两架飞机。
+3.We successfully negotiated the release of the hostages. 我们成功地达成了释放人质的协议。
+[搭]
+1.successfully ad 成功地；乐成地
+2.Successfully accomplish their mission 不辱使命
+3.successfully evade 成功逃脱
+[联]suc (成功) + cess (行走，行动) + fully (充满地) ——> 成功地行动地
+
+succession / səkˈseʃ(ə)n /
+n. 连续不断的人（物）；继任，继承，继承权；交替，更迭；（地质）（地层的）次序，生长顺序
+[例]
+1.They are semi-finalists for the fourth year in succession. 这是他们连续第四年打入半决赛。
+2.He fired three shots in quick succession. 他瞬间连发三枪。
+3.They had three children in quick succession. 短短几年间，他们接连生了三个孩子。
+[搭]
+1.War of the Spanish Succession 西班牙王位继承战争
+2.in succession 连续的；继承；纷纷；接连的
+3.secondary succession 植  次生演替；次生演替系列； 植  次级演替；二次演替
+4.in succession 接连地，连续地
+5.a succession of 一连串；一系列
+6.in quick succession 紧接地
+[联]succession ( succession ) ——> 一系列，连续，继承
+
+successive / səkˈsesɪv /
+adj. 连续的，依次的；接替的，继承的
+[例]
+1.This was their fourth successive win. 这是他们连续第四次获胜。
+2.Jackson was the winner for a second successive year. 杰克逊是连续第二年的获胜者。
+3.Successive governments have tried to tackle the problem. 历届政府都试图解决这个问题。
+[搭]
+1.three successive championships 三连冠
+2.successive approximation 数  逐次逼近法；逐次逼近；逐次趋近；连续近似
+3.successive contrast 连续对比；相继对比；继时对比； 生理  继时性对比
+4.successive approximation 连续的近似值；连续的学习步骤；逐次近似计算法
+5.successive elimination 逐次消元
+[联]successive (连续的，接连的) + ive (形容词后缀) ——> 描述事物一个接一个发生的状态
+
+successively / səkˈsesɪvli /
+adv. 相继地；接连着地
+[例]
+1.This concept has been applied successively to painting, architecture and sculpture. 这一概念相继应用于绘画、建筑和雕塑中。
+2.The school team won five games successively. 校队先后胜了5场球。
+3.Repeat this pattern for each successively lower level of Packages. 为包的每个递降层级重复执行这一模式。
+[搭]
+1.Select Successively 连选
+2.successively worked parallel relay network 继电并联传递网路
+3.decrease successively 依次减少
+[联]successively (连续地，相继地) + ly(副词后缀) ——> 依次地
+
+successor / səkˈsesə(r) /
+n. 继承者，接替的事物；（组织、机器等的）接替物
+[例]
+1.Sokagakkai was able to handpick his successor. 苏卡格凯可以亲自挑选他的继承人。
+2.Mr.  Olsen has always avoided anointing any successor. 奥尔森先生总是避免指定任何继任者。
+3.He was deposed and replaced by a more pliant successor. 他被赶下台，由一个比较容易摆布的继任者取代。
+[搭]
+1.successor ordinal 后继序数
+2.Martian Successor Nadesico 机动战舰
+3.spiritual successor 精神续作
+4.legal successor 法定继承人；合法继承人
+[联]suc (成功) + cessor (继承者) ——> 接替者
+
+supervision / ˌsuːpərˈvɪʒ(ə)n /
+n. 监督，管理
+[例]
+1.The FCC should be put under strict supervision. 美国联邦通信委员会（FCC）应该受到严格监督。
+2.The old man's will was executed under the personal supervision of the lawyer. 老人的遗嘱是在律师的亲自监督下执行的。
+3.It's a great opportunity to learn more about fitness through the clear instruction and supervision of a fitness instructor. 在健身教练的明确指导和监督下了解更多关于健身的知识，这是一个非常好的机会。
+[搭]
+1.financial supervision 金融监管；财政监督；财务监督；金融监督
+2.grass-roots supervision 基层监督；下层监视
+3.Basel Committee on Banking Supervision 巴塞尔银行监理委员会；巴塞尔银行监管委员会；巴塞尔委员会；银行监理委员会
+4.technical supervision 技术监督；技术管理
+5.financial supervision[法]财政监督
+6.supervision and control 监督控制
+[联]super (超过) + vision (视力，视觉) ——> 监督、监管
+
+supervisor / ˈsuːpərvaɪzər /
+n. 监督者，管理者；（英国大学里负责学生研究工作的）指导教师；<美>镇长，县长
+[例]
+1.The supervisor is always very critical. 主管总是很挑剔。
+2.I have a meeting with my supervisor about my research topic. 我要就我的研究课题同导师见一次面。
+3.We wanted to be here early in case the whatsit, maintenance supervisor had forgotten to deal with it. 我们想早点儿到这儿，以防那个什么维修主管忘了处理这个事儿。
+[搭]
+1.Sales Supervisor 销售监管；销售主管；销售主任；营销主管
+2.SUPERVISOR PASSWORD 管理者密码；超级用户口令；超级用户密码；管理员密码
+3.Finance Supervisor 财务主管；总帐主管；财政主管；这么用的
+4.production supervisor 生产主管
+5.warehouse supervisor 仓库主管；仓库管理人
+6.sales supervisor 销售主管；销售监管；销售主任
+[联]super (超过) + visor (观察者，监视器) ——> 主管，监督员
+
+supervisory / ˌsuːpəˈvaɪzəri; ˌsjuːpəˈvaɪzəri /
+adj. 监督的
+[例]
+1.She has a supervisory role on the project. 她负责这个项目的监督工作。
+2.Only 6. 1 percent of users have ever appealed to supervisory departments and about half of them do not know how to cancel unwanted SMS subscriptions. 仅有6. 1%的手机用户曾向监管部门提出申诉，其中约一半人不知道如何取消不想要的短信订阅服务。
+3.Most supervisory boards meet only twice a year. 大多数监理会一年只开两次会。
+[搭]
+1.supervisory board 监事会；监控板；监督董事会；监督委员会
+2.supervisory control 自  监控； 自  监督控制； 自  管理控制；遥控
+3.supervisory system 自  监控系统；监管制度； 计  管理系统；监督系统
+4.supervisory system 监控系统；管理系统
+5.supervisory control 管理控制
+6.supervisory board 监事会；监控板
+[联]super (超过) + visory (与看有关) ——> 监督的
+
+surname / ˈsɜːrneɪm /
+n. 姓；绰号，别名
+v. 给······姓氏，给······起别名
+[例]
+1.He had anglicized his surname. 他已使他的姓氏英语化了。
+2.How do you spell your surname?你的姓怎么拼？《牛津词典》。
+3.Winters is a common enough surname. 温特斯是一个相当普通的姓。
+[搭]
+1.Last name Surname 填上你的名；填；姓
+2.a surname 欧；姓氏；赵阳
+3.Compound surname 指复姓；两个字的姓
+[联]sur (超过) + name (名字) ——> 姓氏
+
+teenage / ˈtiːneɪdʒ /
+adj. 青少年的；十几岁的
+n. 青少年时期
+[例]
+1.Madonna was her teenage heroine. 麦当娜是她十几岁时的偶像。
+2.Most teenage romances are transitory. 大多数少年时代的罗曼史都转瞬即逝。
+3.She looked like any other teenage girl. 她看上去和别的少女一样。
+[搭]
+1.Teenage Mutant Ninja Turtles 忍者神龟；新忍者神龟；忍者神龟变种时代
+2.Teenage Dream 凯蒂·派瑞；花漾年华；猫咪版；花季幻想之中
+3.Teenage Dreamers 柠檬可乐
+4.teenage mutant ninja turtle 忍者神龟（美国动画电影）
+[联]teen + age ——> 青春期
+
+teenager / ˈtiːneɪdʒər /
+n. 青少年，十几岁的孩子（13到19岁之间的孩子）
+[例]
+1.He was acting like a lovelorn teenager. 他表现的像一个患有相思病的少年。
+2.As a teenager I was self-harming regularly. 我十几岁时经常自残。
+3.Clothes are a safe bet as a present for a teenager. 衣服适合作为送给十几岁孩子的礼物。
+[搭]
+1.Teenager Master 小飞侠
+2.as a teenager 作为一个十几岁；作为一名少年；成为一名少年
+3.Teenager Superstar 赵敏惠
+[联]teen + ager ——> 青春期的人
+
+tenant / ˈtenənt /
+n. 房客，租户；<法律>业主
+v.（作为租赁者）居住，工作
+[例]
+1.The decorating was done by a previous tenant. 装修是一位前房客搞的。
+2.The rent is a matter for negotiation between the landlord and the tenant. 租金可以由房东和租户协商确定。
+3.Under the provisions of the lease, the tenant is responsible for repairs. 按契约规定，房客负责房屋维修。
+[搭]
+1.Tenant-in-chief 直属封臣；总佃户
+2.joint tenant 联名业主；联名承租人
+3.The Tenant of Wildfell Hall 荒野庄园的房客；女房客；王德弗尔大厅的房客；怀尔德菲尔府的房客
+[联]ten (十) + ant (蚂蚁) ——> 十只蚂蚁
+
+tenantable / ˈtenəntəbl /
+adj. 可居住的；可租借的
+[例]
+1.If The Premise is not tenantable during the period of repair, the rent fees for the period shall be deducted. 如果在维修期间房屋无法居住，则应扣除该期间的租金。
+2.If The Premise is not tenantable during the period of repair or remedy, the rent fees for the period shall be deducted, or the tenancy period shall be extended accordingly. 逾期不维修的，乙方可代为维修，费用由甲方承担。
+[搭]
+1.tenantable repair 维持可租的修理
+[联]tenantable (可租赁的) ——> tenant (租户) + able (能够) ——> 能够成为租户的
+
+tenantry / ˈtenəntri /
+n. 承租人；佃农；租出的财产；租赁
+[例]
+1.He ended his tenantry of the estate. 他结束了对该地产的租借。
+2.You know the state of your farming tenantry in 1821. 你们知道你们的佃农在1821年的情况。
+[搭]
+1.finance tenantry 金融租赁
+2.tenantry venture 租赁风险
+3.equipment tenantry 设备租赁
+[联]tenant (租户) + ry (表状态或性质) ——> 租佃状态或租户的集合
+
+toil / tɔɪl /
+v.（长时间地）苦干，辛勤劳作；艰难缓慢地移动，跋涉
+n.（尤指体力上的）苦工，苦活；网，捕捉野兽的陷阱
+[例]
+1.They toil on farms. 他们在农场辛勤劳作。
+2.I have nothing to offer but blood, toil, tears and sweat. 我所能奉献的只有热血、辛劳、眼泪与汗水。
+3.The finite which admits of progress and sublime toil, they do not think about. 他们没有想到承认进步和高贵的辛劳这一有限之物。
+[搭]
+1.toil and moil 辛辛苦苦地工作；辛苦工作；口饭奔驰；辛劳和费劲
+2.toil on 艰苦工作；艰苦的工作
+3.sweat and toil 汗水和辛苦；血汗；辛苦劳作
+[联]toil (辛苦劳作) + labor (劳动) ——> 辛勤工作
+
+toilet / ˈtɔɪlət /
+n. 抽水马桶，坐便器；厕所，洗手间；梳洗，打扮；（治疗过程中对身体部位的）清洗；上厕所，解手
+v. 照料（人，尤其是婴儿或伤病人士）上厕所；上厕所；梳妆，打扮
+[例]
+1.He heard the flush of a toilet. 他听到马桶的冲水声。
+2.I knelt by the toilet and gagged. 我跪在马桶边作呕。
+3.She had gone in to use the toilet. 她已经去上洗手间了。
+[搭]
+1.Public Toilet 人民公厕；公共厕所；公厕；公共卫生间
+2.toilet paper 卫生纸；手纸；厕纸；草纸
+3.flush toilet 建  抽水马桶；冲水马桶；缩水搪瓷马桶；冲水式的厕所
+4.toilet paper 卫生纸，厕纸
+5.toilet seat 马桶座圈
+6.public toilet 公厕；人民公厕
+[联]loo (房间) + let (让) ——> 厕所
+
+toiletry / ˈtɔɪlətri /
+n. 化妆品；化妆用具
+[例]
+1.Invest in smaller bottles and use the bathroom supplies, such as shampoo, soap, mouthwash, etc. , provided by the hotel to keep your toiletry case light. 购买小瓶包装的，并尽量使用旅馆提供的盥洗用品：像洗发水、肥皂、漱口水、吹风机等，来让你的洗漱包轻便。
+2.They're both in the suitcase already, along with my toiletry kit and some medicine. 它们都已经在行李箱了，还有盥洗用品包和一些药品。
+3.Jim: They're both in the suitcase already, along with my toiletry kit and some medicine. 吉姆：它们都已经在行李箱了，还有盥洗用品包和一些药品。
+[搭]
+1.Toiletry product 卫生间产品
+2.TOILETRY SALES LIMITED 申欧公司
+3.TOILETRY KIT 盥洗包
+[联]toiletry (化妆品，盥洗用品) + travel (旅行) ——> 旅行化妆包
+
+twin / twɪn /
+n. 双胞胎之一，孪生儿之一；两个极相似的事物之一，两个非常相像的人中的一个；（有一对单人床的）双人间；双引擎飞机；孪晶体；双子星座（the Twins）
+adj. 双胞胎的，孪生的；成对的，成双的；双重的，相关联的，同时出现的；<英>（镇或市）友好的，姐妹的；（植物）双生的；（卧室）有两张单人床的；（晶体）孪晶的
+v. 使结成姐妹城市，使结成友好城市；使（两人或两事物）紧密结合，使相连；生双胞胎
+[例]
+1.I can't tell one twin from the other. 我分不出双胞胎中谁是谁。
+2.Can you tell Tom from his twin brother?你能分得出汤姆和他的孪生弟弟吗？《牛津词典》。
+3.People often confuse me and my twin sister. 人们常常把我和我的孪生妹妹搞错。
+[搭]
+1.twin prime 孪生素数；编曲
+2.Twin Sisters 烽火孪生泪；孪生姐妹；双胞胎姐妹；姊妹花
+3.twin beds 成对床；两张单人床；成对单人床；双床房
+4.twin screw 双螺旋桨；双推进器；双驱动桥
+5.twin sister 双胞胎姐妹之一
+6.twin brothern.  孪生兄弟
+[联]twin (双胞胎) + birth (出生) ——> 双胞胎的出生
+
+twinkle / ˈtwɪŋk(ə)l /
+v. 闪烁，闪耀；（眼睛因高兴而）发亮，发光；（脚）轻快移动
+n. 闪烁，闪耀；（眼睛的）闪亮，欣喜的神情
+[例]
+1.At night, lights twinkle in distant cabins across the valleys. 晚上，灯光在山谷对面远处的小木屋里闪烁。
+2.Do you know why the stars twinkle so merrily?你知道为什么星星闪烁得那么快乐吗？。
+3."Yes, there is!" I say with a magical twinkle. “是的，确实有！”我闪烁着神秘的眼神说道。
+[搭]
+1.Twinkle Twinkle Little Star 一闪一闪亮晶晶；一闪一闪小星星；小星星；星际钝胎
+2.Twinkle Star Sprites 梦幻小妖精；梦幻小精灵；梦幻小妖精街机游戏；梦境小妖精
+3.twinkle toes skating 花样滑冰
+[联]tiny (微小的) + twinkle (闪烁) ——> 微小的闪烁
+
+umpire / ˈʌmpaɪər /
+n.（体育比赛中的）裁判；仲裁人，公断人
+v. 在……中担任裁判
+[例]
+1.We need someone to umpire. 我们得找个人当裁判。
+2.He was the only National League umpire to wear an outside chest protector. 他是惟一穿着外层护胸的全国联盟裁判。
+3.I still play football here, and sometimes I umpire here, so it's a great park. 我仍然在这儿踢球，而且有时候在这儿当裁判，所以这是个很棒的公园。
+[搭]
+1.base umpire 司垒裁判员；垒审；司垒裁判；司垒评判员
+2.plate umpire 司球裁判员；主裁判；司球评判员；司球判定胜负员
+3.chair-umpire 主裁判
+[联]u (你) + mp (脉搏) + ire (愤怒) ——> 你脉搏愤怒时可以扮演裁判
+
+veterinarian / ˌvetərɪˈneriən /
+n. 兽医
+[例]
+1.If you're a veterinarian, you're out of luck. 如果你是一个兽医，那你的运气可真不佳。
+2.In extreme cases, you may need the help of your veterinarian. 在一些特殊情况下，你也许需要向你的兽医求助。
+3.She's telling me about school and why she wants to be a veterinarian, and I'm thinking, "Jesus, she and her friend look exactly alike. "她告诉我学校里的事情以及为什么她想成为一名兽医，我就想：“天啊，她和她的朋友简直是从一个模子印出来的。
+[搭]
+1.American Veterinarian Association 依照美国兽医协会；照好国兽医协会
+2.Veterinarian Assistant 兽医助理
+3.chief veterinarian 主任兽医；主治兽医师
+[联]vet (兽医) + er (表示从事某职业的人) + i + na + ri + an ——> 兽医
+
+veterinary / ˈvetərəneri /
+adj. 兽医的
+n. <旧>兽医
+[例]
+1.Students should have prior experience of veterinary practice. 学生应有兽医工作的经验。
+2.It was decided that our veterinary screening of horses at events should be continued. 已经决定，我们对参赛马匹的疾病检查将继续进行。
+3.In Sweden, they say, 'Let's call the veterinary authorities. 在瑞典，他们会说，'让我们叫兽医来。
+[搭]
+1.Royal Veterinary College 原为被伦敦大学允许可授予伦敦大学学位的学校；英国皇家兽医学院；缪
+2.veterinary certifieate 动物检疫证书
+3.Veterinary Certificate 兽医证明书
+4.veterinary medicine 兽医
+5.veterinary station 兽医站
+6.veterinary science 兽医；兽医学
+[联]vet (兽医) + erinary (后缀，表示与...有关的) ——> 兽医学
+
+wed / wed /
+v. 结婚，娶，嫁；（使）结合；坚持，专心于（活动、信仰或制度）
+[例]
+1.The couple plan to wed next summer. 这俩人计划在夏天结婚。
+2.In his red ear, she whispered, "Why I wed you?"她在他通红的耳朵轻语：“我为何要嫁给你？”。
+3.He has bought a house for the couple and hopes that one day they can wed. 他为这对情侣买了房子，希望有一天他们能够结婚。
+[搭]
+1.License to Wed 结婚证书；结婚纠察队；结婚执照
+2.Wed Mar 水木社区；发信站；南京大学小百合站；理发信站
+3.Wed Apr 发信站；北邮人论坛；飘渺水云间；珞珈山水
+[联]wed + ding ——> 婚礼
+
+wedding / ˈwedɪŋ /
+n. 婚礼，结婚庆典；婚礼的；<英>结婚纪念，结婚纪念日；结合
+v. 结婚，娶，嫁；（使）结合；坚持，专心于（活动、信仰或制度）（wed 的现在分词）
+[例]
+1.The wedding season is upon us. 婚礼旺季即将来临。
+2.Today's our wedding anniversary. 今天是我们的结婚纪念日。
+3.The wedding day finally arrived. 婚礼这一天终于到来。
+[搭]
+1.wedding dress 婚纱；结婚礼服；婚纱礼服；摄影基地
+2.Wedding March 婚礼进行曲；结婚行进曲
+3.Wedding cake 结婚蛋糕；结婚糕；结婚典礼蛋糕
+4.wedding ceremonyn.  结婚典礼
+5.wedding dress 结婚礼服
+6.wedding day 举行婚礼的日子；结婚纪念日
+[联]wedding (婚礼) + dress (礼服) ——> 新娘穿着华丽的礼服参加婚礼
+
+widow / ˈwɪdəʊ /
+n. 寡妇，遗孀；活寡妇（指丈夫经常外出参加某项运动或活动的女人）；寡妇鸟；（印刷）未排足的行
+v. 使丧偶，使成为寡妇（或鳏夫）
+[例]
+1.She became a widow a year ago. 她一年前成了寡妇。
+2.She's a widow now. 她现在是一个寡妇。
+3."You're a widow?"—"Yes.  My husband's been dead a year now. "“你是个寡妇？”——“是的，我丈夫去世1年了。
+[搭]
+1.Black Widow 黑寡妇；黑未亡人；黑蜘蛛；黑孀妇
+2.Red Widow 血玫瑰；第一季
+3.grass widow 留守女士；离婚的女子；离婚女子
+4.black widow 黑寡妇（一种黑蜘蛛）
+5.grass widow 离婚的女子；被抛弃的女子
+[联]widow (寡妇) + hood (身份，状态) ——> 寡妇的身份
+
+youngster / ˈjʌŋstə(r) /
+n. 年轻人，少年
+[例]
+1.As a youngster, she might have found it too restrictive, not creative enough. 作为一个年轻人，她可能会发现这项活动约束太多，不够创新。
+2.Tests do not compensate for gross social inequality, and thus do not tell how able an underprivileged youngster might have been had he grown up under more favorable circumstances. 测试并不弥补明显的社会不公，因此不能说明一个物质条件差的年轻人，如果在较好的环境下成长的话，会有多大才干。
+3.For example, tests do not compensate for gross social inequality, and thus do not tell how able an underprivileged youngster might have been had he grown up under more favorable circumstances. 例如，测试并不弥补明显的社会不公；因此，它们不能说明一个物质条件差的年轻人，如果在较好的环境下成长的话，会有多大才干。
+[搭]
+1.underprivileged youngster 的
+2.Hero Youngster 少年陈真
+3.Youngster Oil 幼鸽油
+[联]young (年轻的) + ster (后缀，表示人) ——> 年轻人
+
+youth / juːθ /
+n. 青少年时期；早期，初期；小伙子；（总称）青年人；青春，朝气
+[例]
+1.The poem contrasts youth and age. 这首诗对比了青春与老年。
+2.Youth is simply an attitude of mind. 青春仅仅是心态问题。
+3.The music evoked memories of her youth. 这乐曲勾起了她对青年时代的回忆。
+[搭]
+1.Sonic Youth 音速青年；音速青春；音速青年乐队
+2.Youth Hostel 青年旅舍；青年招待所
+3.youth without youth 没有青春的青春；第三朵玫瑰；逆转年华；迷失青春
+4.youth league 青年团
+5.youth hostel 青年招待所；青年（学生）宿舍
+6.the communist youth league 共产主义青年团
+[联]young (年轻的) + strength (力量) ——> 青春的力量
+
+youthful / ˈjuːθfl /
+adj. 年轻人的，青春的，天真的；年轻的
+[例]
+1.He was full of youthful idealism. 他满脑子都是年轻人的理想主义。
+2.She's a very youthful 65. 她65岁了，但显得非常年轻。
+3.I'm a very youthful 50. 我是个显得很年轻的50岁的人。
+[搭]
+1.Youthful Times 小时候
+2.youthful days 青春雷锋；青年期；青年时期；青春岁月
+3.YOUTHFUL ZONE 青少年区；年轻的地方
+[联]young (年轻的) + truthful (诚实的) ——> 年轻真诚的
+
+youthfulness / ˈjuːθflnəs /
+n. 少壮；青春
+[例]
+1.Love is the power for our youthfulness. 爱情是青春的动力。
+2.I wonder at her perennial youthfulness. 我对她青春常驻感到惊讶。
+3.His ability allied with his youthfulness should enable Cech to become the biggest goalkeeping name in our illustrious history. 他的能力和年轻使得切赫成为我们杰出历史上的最伟大的门将。
+[搭]
+1.My Youthfulness 我的青春谁做主；我国青春；我的青春
+2.youthfulness detail 青春
+3.Youthfulness of spirit 年轻的心灵
+[联]youth (青春) + fulness (性质、状态) ——> 青春性质的状态

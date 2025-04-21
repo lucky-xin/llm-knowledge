@@ -43,7 +43,7 @@ n.（包围地球或其他行星的）大气，大气层；（房间或其他场
 [联] atmo (水汽) + sphere (球体，球形) ——> 大气圈
 
 严格按照格式输出原始文本，不要自己输出markdown文本！
-    """
+"""
     return ChatPromptTemplate.from_messages(
         [
             ("system", instructions),
@@ -171,11 +171,11 @@ def process(src: str, sur_path: str, dst_path: str):
             dst_file.write('\n\n')
 
 def extract_html():
-    start = 18
-    end = 20
+    start = 21
+    end = 23
     chain_associate = create_associate_prompt() | llm
     dictionary = Dict()
-    parent_dir = '/agent/htmls'
+    parent_dir = '/Users/luchaoxin/dev/workspace/llm-knowledge/htmls'
     for i in range(start, end):
         # 获取目录下所有文件和子目录
         fp = f"{parent_dir}/chapter{i}"
