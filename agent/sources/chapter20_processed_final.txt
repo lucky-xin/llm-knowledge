@@ -76,7 +76,6 @@ n. 适应
 1.The different structures are related with specific difference and living environment.  And it is also the accustomization for environment. 这种结构上的差异与种的特异性及其生存环境密切相关，卵壳的结构差异是鸟类对环境的一种适应。
 2.ConclusionThe scientific and reasonable strategy of accustomization ensure the lower rates of positive for AMS scores in this altitude training. 结论本次外训习服策略安排科学合理，确保了相对较低的 AMS 评分阳性率。
 [搭]
-
 [联]ac (一再) + custom (习惯) + ization (名词后缀) ——> 使习惯于
 
 act / ækt /
@@ -705,9 +704,8 @@ adj. 吸引人的，有吸引力的；（人）迷人的，有魅力的；值得
 1.attractive force 力  引力； 力  吸引力；吸力；磁吸引力
 2.attractive design 款式新颖；格局新颖；精美设计
 3.attractive appearance 造型美观；外形美观；魅姿；魅力登场
-4.attractive appearance 造型美观
+4.attractive designs 款式新颖；款式新奇
 5.attractive force 引力，吸引力
-6.attractive designs 款式新颖；款式新奇
 [联]at + tract + ive ——> 吸引 + 使... + 形容词 → 有吸引力的
 
 attractiveness / əˈtræktɪvnəs /
@@ -747,8 +745,7 @@ n. 属性，特质；标志，象征；定语
 2.attribute to 归因于；归功于；归咎于
 3.attribute value 属性值；特性值
 4.attribute data 属性资料（数据）
-5.attribute value 属性值
-6.attribute name 属性名称
+5.attribute name 属性名称
 [联]at + tribute ——> 对某事物的描述或评价
 
 attribution / ˌætrɪˈbjuːʃn /
@@ -872,7 +869,7 @@ n. 洗礼；严峻考验
 1.mind baptism 心灵洗礼
 2.receive baptism 受洗
 3.baptism of russ 罗斯受洗
-4.baptism of firen.  炮火的洗礼；[圣经]圣灵的恩赐；严峻考验
+4.baptism of fire 炮火的洗礼；[圣经]圣灵的恩赐；严峻考验
 [联]bap (洗礼) + tism (表状态或行为的名词后缀) ——> 洗礼的状态或行为
 
 baptize / bæpˈtaɪz /
@@ -932,7 +929,6 @@ v. 行为，表现；起反应，起作用；守规矩，举止得体
 3.behave as 表现为
 4.behave oneself 使举止规矩
 5.behave well 表现好；举止得体；行为检点；表现良好
-6.behave yourself 请检点一点，行为规矩些
 [联]behave (表现，举止) + well (好地) ——> 表现良好
 
 behavior / bɪˈheɪvjə(r) /
@@ -1012,7 +1008,6 @@ n. 行为，举止，态度；活动方式，特点，特性；习惯
 3.Cost Behaviour 成本习性
 4.mechanical behaviour 机械性能，机械特性
 5.good behaviour 品行良好；得体的行为
-6.consumer behaviour 消费行为；消费者行为学
 [联]behave (表现) + our (我们的) ——> 我们的表现
 
 bet / bet /
@@ -1042,7 +1037,6 @@ v. 背叛，出卖；食言，辜负；违背（信仰、原则等）；泄露�
 1.betray sb 背叛某人
 2.Betray you 翻脸不认人
 3.betray oneself 原形毕露；无意中露出本性；暴露本来面目；露原形
-4.betray oneself 原形毕露
 [联]be (做) + tray (托盘) ——> 做出背叛的行为
 
 bewilder / bɪˈwɪldə(r) /
@@ -1082,9 +1076,9 @@ adv. 偏斜地
 1.Cognitive Bias 认知偏差；认知偏误；认知偏见；认知的偏差
 2.BIAS CUT 斜纹裁；纵纹裁
 3.Confirmation bias 确认偏误；证实偏见；确认偏差；证实偏差
-4.bias voltage[电]偏压
+4.bias voltage [电]偏压
 5.bias current 偏置电流；偏流
-6.on the bias◎偏斜地，倾斜地，歪斜地
+6.on the bias 偏斜地，倾斜地，歪斜地
 [联]prejudice (偏见) + ice (冰) ——> 偏心冰
 
 bless / bles /
@@ -1141,7 +1135,7 @@ v.（使）建立亲密关系；与……黏合（或连接）
 3.hydrogen bond 氢键；以氢为引；氢键结合；氢键一种弱键
 4.bond market 债券市场
 5.in bond（进口货物）在关栈中；保税
-6.bond strength[化]粘合强度；键强度
+6.bond strength [化]粘合强度；键强度
 [联]bond (束缚，联系) + tie (系，打结) ——> 联系，纽带
 
 bully / ˈbʊli /
@@ -1191,7 +1185,7 @@ n. 取消，撤销；作废，废除
 [联]cancel (取消) + lation (名词后缀) ——> 取消的行为或状态
 
 catch / kætʃ /
-v. 接住；抓住，握住；逮住，捕获；发现，撞见；钩住，绊住；击中，碰到；得病，染病；引起，吸引（注意或兴趣）；（对某事）感到兴奋；搭乘，赶上；及时做（或谈等）；出席，观看；表现，再现；使措手不及；察觉，瞥见；听清，理解；突然意识到；盛住（液体）；（板球）使被接杀出局；（棒球中）当接球手；受（光）照射；（风或水）裹挟，推动；着火，燃烧；遭遇，陷入（困境）；固定，系牢；被（悬浮物）覆盖
+v. 接住；抓住，握住；逮住，捕获；发现，撞见；钩住，绊住；击中，碰到；得病，染病；引起，吸引（注意或兴趣）；（对某事）感到兴奋；搭乘，赶上
 n. 接（球等）；（鱼的）捕获量，捕获物；<旧>理想的对象；门闩，吊扣；（声息）哽塞；隐患，隐藏的困难；（乐）轮唱片段；传接球游戏；捉人游戏
 [例]
 1.You'll be sorry if I catch you!要是让我抓着，你会后悔的！《牛津词典》。
@@ -1274,8 +1268,8 @@ adj. 庆祝的；庆贺的；快乐的
 [联]celebration (庆祝) + tory (无实际意义，用于辅助记忆) ——> 庆祝性质的
 
 clear / klɪr /
-adj. 易懂的，明白的；明显的，明确的；完全了解的，清楚的；透明的，清澈的；易看清的，听得清的；（颜色）明亮的，鲜明的；（皮肤）光洁的；没有问题的，健康的；晴朗的；畅通的，无阻碍的；（时间）空闲的；完整的；问心无愧的，清白的；头脑清醒的，思维敏锐的；（比分）领先的；未碰触的，悬离的；摆脱掉（不愉快事物）的；（钱款）净得的，纯收入的；发音清晰的
-v. 清除，清理；恢复畅通，不再受阻；证明……无罪；批准，许可；准许……入境（出境）；（使）不再困惑，（使）变清醒；获利，净赚；清偿（债务）；兑现（支票）；（天气）变晴朗；（液体）变清澈；（视力）变清晰；（烟雾等）开始消失；（皮肤）变光滑，变健康；（表情）放松，舒展；使离开，清场；穿过，越过；解决，成功地处理；做完（所有工作）；踢出解围球
+adj. 易懂的，明白的；明显的，明确的；完全了解的，清楚的；透明的，清澈的；易看清的，听得清的；（颜色）明亮的，鲜明的；（皮肤）光洁的
+v. 清除，清理；恢复畅通，不再受阻；证明……无罪；批准，许可；准许……入境（出境）；（使）不再困惑，（使）变清醒；获利，净赚；清偿（债务）
 adv. <美>一直；离开，不靠近；清除了地，理清了地；全地，整地，满地，足地；清楚地，清晰地
 n. 清白的，无罪的（in the clear）；不再困难的，已脱险的（in the clear）；清除；空隙
 [例]
@@ -1308,7 +1302,7 @@ n. 审核批准；（飞机起降的）许可，准许；间距，间隙；清�
 
 clearer / ˈklɪrər /
 n. 清洁剂，清洁器；票据交换银行
-adj. 更清楚的；更明显的；更思维敏锐的；更容易看的；更透明的；（天气）更晴朗的；（皮肤）更无斑的；（眼睛）更明亮的；更畅通无阻的；更清白的；更摆脱（不愉快事物）的；更远离的；更完整的；（扣除税项后）更净的
+adj. 更清楚的；更明显的；更思维敏锐的；更容易看的；更透明的；（天气）更晴朗的；（皮肤）更无斑的；（眼睛）更明亮的；更畅通无阻的；更清白的
 [例]
 1.Our preliminary results suggest that people do subjectively find the speech clearer. 我们的初步结果表明人们的确主观地觉得这个演讲更清楚。
 2.Nothing can be clearer than that. 没有什么比那更清楚的了。
@@ -1510,7 +1504,6 @@ n. 导电性；[物][生理] 传导性
 3.electric conductivity 电导率；电导；导电性；导电率
 4.thermal conductivity 导热系数；热导率
 5.electrical conductivity 导电性；导电率
-6.electric conductivity[化]电导率；电导性
 [联]con (一起) + duct (引导) + ivity (性质) ——> 导电性质
 
 conductor / kənˈdʌktər /
@@ -1520,12 +1513,11 @@ n.（乐队等的）指挥；售票员，检票员；导体；<英>传导教育�
 2.Graphite is a highly efficient conductor of electricity. 石墨是一种高效的电导体。
 3.Under its new conductor, the orchestra has established an international reputation. 在新指挥的领导下，这个乐团建立了国际声誉。
 [搭]
-1.electrical conductor 电导体
+1.electrical conductor 导电体，电导体；电导线
 2.Fast ion conductor 快离子导体
 3.conductor side 电  导线面
-4.bus conductorn.  公共汽车售票员
+4.bus conductor 公共汽车售票员
 5.good conductor 良导体
-6.electrical conductor 导电体，电导体；电导线
 [联]con (一起) + duct (引导) + or (名词后缀，指人) ——> 导演，指导者
 
 congratulate / kənˈɡrætʃəleɪt /
@@ -1538,8 +1530,8 @@ v. 祝贺，向……道贺；感到高兴（或自豪）
 1.Congratulate of love 爱之祝贺；播放爱之祝贺；爱之恭喜
 2.congratulate on 祝贺；恭贺；咖啡王子一好店应付；向…致贺词
 3.congratulate sb on doing sth 祝贺某人做了某事；祝贺某人做某事
-4.congratulate oneselfv.  感到庆幸
-5.congratulate onv.  祝贺
+4.congratulate oneself  感到庆幸
+5.congratulate onv 祝贺
 [联]congratulate (祝贺) + late (晚的) ——> 祝贺来得晚了一些
 
 congratulatory / kənˌɡrætʃuˈleɪtəri /
@@ -1623,9 +1615,8 @@ adj. 供联络的；接触性的，通过接触而起作用的
 1.Contact Us 联系我们；联系方式；联络方式
 2.contact lens 隐形眼镜；角膜接触镜；接触镜
 3.contact binary 天  相接双星；密接小行星；密接联星；密接双星
-4.contact us 联系我们；联络我们；联系方式
+4.in contact with 接触；与…有联系
 5.contact with 与…联系
-6.in contact with 接触；与…有联系
 [联]con (一起) + tact (触摸) ——> 接触
 
 contain / kənˈteɪn /
@@ -1704,7 +1695,7 @@ n. 同时代的人；同龄人，同辈
 2.Museum of Contemporary Art 洛杉矶当代艺术博物馆；当代艺术博物馆；现代艺术博物馆；现代美术馆
 3.Contemporary R&B 当代节奏布鲁斯；当代节奏蓝调
 4.contemporary art 当代艺术
-5.contemporary literaturen.  现代文学
+5.contemporary literature 现代文学
 6.the contemporary era 当代
 [联]contem (一起，共同) + porary (居住) ——> 同时代的
 
@@ -1832,7 +1823,6 @@ v. 类似于，相当于；通信；相一致，符合
 1.correspond to 相当于；相似；相当；与
 2.correspond with 相符合；相一致
 3.correspond with sb 通信；和某人通信；与某人通信
-4.correspond with 符合，一致；与……通信
 [联]co (一起) + respond (回答) ——> 相应的
 
 correspondence / ˌkɒrəˈspɒndəns /
@@ -1857,12 +1847,10 @@ n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者
 2.I am the foreign correspondent in Washington of La Tribuna newspaper of Honduras. 我是洪都拉斯《论坛报》驻华盛顿的记者。
 3.A correspondent for Reuters news agency says he saw a number of demonstrators being beaten. 路透通讯社的一名记者说他看到一些示威者遭到殴打。
 [搭]
-1.Foreign Correspondent 海外特派员
+1.foreign correspondent 海外特派员；报社派驻国外的通讯记者
 2.war correspondent 军  战地记者；随军记者
 3.Correspondent Bank 金融  通汇银行； 金融  代理银行；代理行
-4.correspondent bank 往来行；代理银行；通汇银行
-5.foreign correspondent 报社派驻国外的通讯记者
-6.special correspondentn.  特派记者；特派员
+6.special correspondent 特派记者；特派员
 [联]correspond (通信，对应) + ent (表名词后缀) ——> 记者，通讯员
 
 curse / kɜːrs /
@@ -1942,7 +1930,7 @@ n. 删除键
 3.Delete Keys 删除关键帧；删除关键点；删除要害帧；删除键点
 4.delete all 全部删除
 5.delete from 删除；从…上删掉
-6.delete keyn.  [计]删除字符键
+6.delete key [计]删除字符键
 [联]de (离开) +lete (选取) ——> 删除
 
 deleterious / ˌdeləˈtɪəriəs /
@@ -1955,7 +1943,6 @@ adj. 有毒的，有害的
 1.deleterious substance 有害杂质；有害物质；迟固黏着剂
 2.deleterious gene 有害基因；不良基因
 3.deleterious effect 毒害身心的作用；有害影响；有害效应；有害作用
-4.deleterious effect 毒害身心的作用，有毒影响
 [联]deleterious (有害的，损伤的) ——> delete (删除) + terri (恐惧) + ous (形容词后缀) ——> 删除恐惧的（引申为有害的）
 
 deserve / dɪˈzɜːrv /
@@ -1966,8 +1953,7 @@ v. 值得，应受
 3.Government officials clearly deserve some of the blame as well. 政府官员们显然也应受到某些谴责。
 [搭]
 1.deserve to do sth 值得干某事；值得；值得做某事；应该做
-2.deserve to 值得；应受；应得
-3.You Deserve To Be Single 活该你单身；单身你活该
+2.You Deserve To Be Single 活该你单身；单身你活该
 [联]deserve (应得，值得) + effort (努力) ——> 值得努力
 
 deservedly / dɪˈzɜːvɪdli /
@@ -1979,7 +1965,6 @@ adv. 理所当然地；应得报酬地
 [搭]
 1.deservedly ad 当然应受地
 2.blame deservedly 有保留地责怪
-3.deservedly y ad 当然应受地
 [联]deserve (应得) + dly (副词后缀) ——> 应得地
 
 designate / ˈdezɪɡneɪt /
@@ -2094,8 +2079,7 @@ n. 客观，超然，冷漠；分遣队，独立小分队；拆卸，分离
 1.retinal detachment 视网膜脱离；视网膜剥离；视网膜离开
 2.Red Detachment of Women 红色娘子军；红色娘子军专辑
 3.choroidal detachment 脉络膜脱离；膜脱离；而脉络膜脱离；伴脉络膜脱离
-4.retinal detachment 视网膜脱离
-5.detachment fault 拆离断层；滑脱断层；脱顶断层；挤离断层
+4.detachment fault 拆离断层；滑脱断层；脱顶断层；挤离断层
 [联]de (离开) + tach (接触) + hment (状态) ——> 脱离接触的状态
 
 deviate / ˈdiːvieɪt /
@@ -2123,9 +2107,8 @@ n. 偏离，违背；离差，偏差
 1.standard deviation 统计  标准差； 物  标准偏差； 统计  标准离差；标准方差
 2.frequency deviation 通信  频率偏移； 通信  频偏；频率偏差；频移
 3.Deviation Surcharge 绕航附加费；绕航附带加之费；附加费；绕航费
-4.standard deviation 标准偏差
+4.deviation angle 偏向角
 5.relative standard deviation 相对标准偏差；相对标准差
-6.deviation angle 偏向角
 [联]de (离开) + viation (道路) ——> 偏离原定道路
 
 differentiate / ˌdɪfəˈrenʃieɪt /
@@ -2149,10 +2132,9 @@ n. 区分，差异化
 3.This may in fact be then part of the process of differentiation from the practices of Israel's neighbors, who would have celebrated these springtime rituals. 事实上，这可能是区别以色列邻国做法的一部分，这些邻国会庆祝这些春季仪式。
 [搭]
 1.cell differentiation 细胞分化；分化；细胞解析；第一节
-2.Product Differentiation 产品差异化；产品差别；产品差别化
+2.product differentiation 产品差异化；产品差别；产品差别化
 3.cellular differentiation 细胞分化
 4.cell differentiation[医]细胞分化
-5.product differentiation 产品差异化；产品分化
 6.differentiation strategy 差异化策略
 [联]different (不同的) + ation (名词后缀) ——> 差异化
 
@@ -2195,7 +2177,6 @@ v. 使反感，使憎恶；使感到恶心（作呕）
 1.in disgust 厌恶地；不喜欢；厌恶的
 2.However disgust 愤愤然
 3.core disgust 核心厌恶
-4.in disgust 厌恶的；讨厌
 [联]dis (分开) + gust (强烈的风) ——> 强烈的厌恶感
 
 dispatch / dɪˈspætʃ /
@@ -2221,10 +2202,9 @@ v. 处理，放置，安排；使易于，使倾向于；丢掉
 2.Agencies and companies throughout the world are working on developing technology that would dispose of or capture space debris before it causes serious damage. 世界各地的机构和公司都在致力于开发一种技术，可以在太空垃圾造成严重损害之前将其处理或捕获。
 3.Subway said that it worked hard to minimize the impact of litter on communities, so it was "still down to the individual customer to dispose of their litter responsibly". 赛百味表示，公司努力将垃圾对社区的影响降到最低，因此“对垃圾处理负责仍取决于个人客户”。
 [搭]
-1.dispose of 去掉；解决；处理掉；除掉
+1.dispose of 处理；转让；解决；吃光；除掉；卖掉
 2.dispose for 布置
 3.Dispose Pattern 处置模式；清理模式；释放模式；料理
-4.dispose of 处理；转让；解决；吃光；除掉；卖掉
 [联]dis (分开) + pose (放置) ——> 处置、处理
 
 disposer / dɪsˈpəʊzə /
@@ -2246,7 +2226,7 @@ adj. 有争议的，有待讨论的
 2.The origin of city-states is disputable. 古代城邦的起源是有争议的。
 3.Furthermore, the degree of control for "disputable events" will also be upgraded. 另外，“争议性事件”的参考程度也将增加。
 [搭]
-1.It is disputable that 无可争辩
+1.it is disputable that 无可争辩
 2.disputable person 有争议的人
 3.disputable e 有争议的
 [联]dis + put + able ——> 可争论的
@@ -2260,7 +2240,7 @@ n. 争论；辩论；驳斥
 [搭]
 1.disputation IMF 争议
 2.self-disputation 作自我辩论
-3.Sino- Soviet disputation 中苏大论战
+3.Sino-Soviet disputation 中苏大论战
 [联]dis + putation ——> 反对 + 讨论、争论 ——> 争论、争辩
 
 dispute / dɪˈspjuːt /
@@ -2274,9 +2254,8 @@ v. 对……提出质疑，否认；争论，辩论；争夺，竞争；<旧>阻
 1.labor dispute 劳资纠纷；劳动争议；劳动纠纷；劳资矛盾
 2.in dispute 在争议中；争议中；在争论中；处于争议中
 3.territorial dispute 领土纠纷；领土争端；领土纷争；领土争夺
-4.dispute resolution[法律]调解纠纷
+4.dispute resolution [法律]调解纠纷
 5.in dispute 在争论中
-6.labor dispute 劳动争议；劳资纠纷
 [联]dis - agree (不同意) + ment (表名词) ——> 不同意的态度或状态
 
 disregard / ˌdɪsrɪˈɡɑːd /
@@ -2304,8 +2283,7 @@ v. 使有别于；看清，认出；区别，分清
 2.Model Distinguish 模型辨识；模子辨识；磨削原理
 3.distinguish right from wrong 明辨是非；辨明是非；是非分明；区分是非
 4.distinguish oneself 使扬名；使杰出
-5.distinguish betweenv.  区别；分辨
-6.distinguish from 区别，辨别
+5.distinguish from 区别，辨别
 [联]dis (分开) + tinguish (认出，辨别) ——> 区分
 
 distinguishable / dɪˈstɪŋɡwɪʃəbl /
@@ -2331,7 +2309,6 @@ v. 区别；表现突出（distinguish 的 ing 形式）
 1.distinguishing technique 区别技术；区别的技术；区别手艺
 2.distinguishing test 区别试验；鉴别试验； 计  辨别测试
 3.distinguishing feature 特点；显着特征；区别性特征
-4.distinguishing feature 特点；特征
 [联]distin (区别) + guishing (动词后缀，表示动作) ——> 区分的动作
 
 distribute / dɪˈstrɪbjuːt /
@@ -2514,7 +2491,7 @@ n. 橡皮擦，黑板擦
 2.Norton Power Eraser 诺顿强力清除工具；诺顿强力清除器；清除工具；诺顿强力扫描病毒木马
 3.bulk eraser 消磁器；大消磁器；大量抹除器； 电子  整体消磁器
 4.eraser tool 橡皮擦工具；擦除工具
-5.blackboard erasern.  黑板擦
+5.blackboard eraser 黑板擦
 [联]e + raser ——> e（字母）+ 擦去（raser的含义）——> 橡皮擦
 
 evacuate / ɪˈvækjueɪt /
@@ -2526,7 +2503,7 @@ v.（把人从危险的地方）疏散，撤离；（从危险的地方）搬出
 [搭]
 1.Evacuate Earth 撤离地球；末日倒数
 2.Lesser Evacuate 低级集体转移；低级集体撤退
-3.spill - evacuate area 泄漏；疏散地区；分散地域
+3.spill-evacuate area 泄漏；疏散地区；分散地域
 [联]e (离开) + vacate (腾空，撤离) ——> 撤离
 
 exaggerate / ɪɡˈzædʒəreɪt /
@@ -2548,7 +2525,7 @@ adv. 夸张地
 2.B exaggeratedly took a deep breath. 夸张地作了一个深呼吸。
 3.She laughed exaggeratedly at their jokes. 听了他们的笑话，她夸张地笑起来。
 [搭]
-1.exaggeratedly or aggressivelymasculine 极具男子气的
+1.exaggeratedly or aggressively masculine 极具男子气的
 2.Exaggeratedly Slow 夸张地缓慢
 3.Exaggeratedly Embellish 夸饰
 [联]ex - (向外) + aggerate (累积) + -edly (副词后缀) ——> 过于夸大地
@@ -2600,9 +2577,9 @@ v. 原谅，宽恕；辩解，开脱；准许……离开；同意免除
 1.Excuse me 对不起；请原谅；打扰一下；打扰了
 2.excuse oneself from 借口推托；婉言拒绝；婉拒；捏词推托
 3.No Excuse 没有任何借口；没有借口；没有理由；没有借口读后感
-4.excuse oneselfv.  为自己辩解；请求免除；请求准予离开
+4.excuse oneself 为自己辩解；请求免除；请求准予离开
 5.excuse for 借口；原谅
-6.make one's excuses(对不能出席社交聚会等)表示抱歉(或遗憾)
+6.make one's excuses (对不能出席社交聚会等)表示抱歉(或遗憾)
 [联]excuse (借口) + use (使用) ——> 为使用找借口
 
 exert / ɪɡˈzɜːrt /
@@ -2615,8 +2592,7 @@ v. 运用，施加（影响）；努力，尽力（exert oneself）
 1.exert oneself to 努力；尽力；起劲
 2.exert oneself 努力；着力；出力；尽力
 3.to exert a force 施作用力；施作使劲
-4.exert oneself 努力；尽力
-5.exert an influence on 对……产生影响
+4.exert an influence on 对……产生影响
 [联]ex- (向外) + ert (发音类似“尔特”) ——> 施加、发挥 (联想：向外施力或影响)
 
 exertion / ɪɡˈzɜːʃn /
@@ -2627,8 +2603,7 @@ n. 费力，努力；运用，行使
 3.She was hot and breathless from the exertion of cycling uphill. 她骑车上山累得全身发热，喘不过气来。
 [搭]
 1.exertion dyspnea 活动性呼吸困难；翻译
-2.exertion n 发挥；努力
-3.Transitional exertion 过渡劳累
+2.Transitional exertion 过渡劳累
 [联]exertion (努力， exert努力，ion名词后缀) ——> 努力的成果
 
 exhalation / ˌekshəˈleɪʃn /
@@ -2676,7 +2651,7 @@ v. 把……开除（或除名）；驱逐；排出（空气、水、气体等�
 1.expel sb from school 开除
 2.Break down to expel 故障排除
 3.Expel Undead 驱赶亡灵
-4.expel fromv.  驱逐出；开除；排出
+4.expel from 驱逐出；开除；排出
 [联]ex (向外) + pel (驱赶) ——> 赶出、开除
 
 explain / ɪkˈspleɪn /
@@ -2690,8 +2665,7 @@ v. 解释，说明；说明（……的）原因，解释（……的）理由
 2.No Time To Explain 没空解释；没时间解释；激光男孩；没空说明
 3.explain away 搪塞；解释掉；解释
 4.explain oneself 为自己辩解；说明自己意图
-5.explain away 通过解释消除
-6.explain clearly 阐明，清晰的解释
+5.explain clearly 阐明，清晰的解释
 [联]ex (向外) + plain (平坦的，清晰的) ——> 解释，说明
 
 explanation / ˌekspləˈneɪʃ(ə)n /
@@ -2718,9 +2692,8 @@ adj. 解释的，说明的
 1.Explanatory power 解释力；解释能力
 2.Explanatory Chart 图示
 3.self-explanatory 不言自明的；不言而喻的； 计  自解释；自明的
-4.explanatory power 解释力；解释功效
+4.explanatory variable 解释变量；说明变数
 5.explanatory note 注释；附注
-6.explanatory variable 解释变量；说明变数
 [联]explain (解释) + atory (形容词后缀) ——> 解释性的
 
 exploit / ɪkˈsplɔɪt /
@@ -2747,8 +2720,7 @@ n. 剥削，压榨；开发，开采；（出于私利、不公正的）利用
 2.Exploitation license 采矿许可证；采矿容许证；采矿允许证；采矿答应证
 3.Exploitation right 采矿权
 4.mine exploitation 矿山开发
-5.exploitation right 采矿权
-6.exploitation of real estate 房地产开发
+5.exploitation of real estate 房地产开发
 [联]ex (向外) + ploit (开垦) + ation (名词后缀) ——> 剥削、利用
 
 exploration / ˌekspləˈreɪʃ(ə)n /
@@ -2763,7 +2735,7 @@ n. 勘探，勘察；研究，探究
 3.Mars Exploration Rover 火星探测漫游者；火星探测器；漫游者；者号
 4.exploration and development 勘探与开发
 5.geological exploration 地质勘探；地质勘察；地质勘测
-6.seismic exploration[工程]地震探查
+6.seismic exploration [工程]地震探查
 [联]ex (向外) + ploration (词根词缀联想) ——> 探索、探究
 
 explorative / ɪkˈsplɒrətɪv /
@@ -2815,9 +2787,8 @@ n. 探险者，勘探者
 1.Internet Explorer 浏览器；IE 浏览器；禁用脚本调试；无加载项
 2.File Explorer 文件资源管理器；文件管理器；文件浏览器；资源管理器
 3.Root Explorer 管理器；RE 管理器；文件管理器；管理器中文版
-4.internet explorer 因特网浏览器；微软网页浏览器
+4.server explorer 服务器资源管理器；服务器总管
 5.solution explorer[计]解决方案资源管理器（设计数据库所用软件的菜单选项）
-6.server explorer 服务器资源管理器；服务器总管
 [联]explorer (探索者) + sea (海洋) ——> 海洋探索者
 
 farewell / ˌfeəˈwel /
@@ -2833,7 +2804,7 @@ int. 再见，一路顺风
 1.Farewell My Concubine 霸王别姬；再见了；霸主别姬
 2.Cape Farewell 费尔韦尔角；法韦尔角；送别角
 3.A Farewell to Arms 永别了武器；告别武器；武器
-4.farewell partyn.  欢送会；惜别会
+4.farewell party 欢送会；惜别会
 5.farewell dinner 送别宴
 6.farewell speech 告别词
 [联]farewell (再会，告别) + well (良好，健康) ——> 希望分别后再见时大家都安好
@@ -2861,7 +2832,7 @@ n. 扣件；钮扣；按钮；使系牢之物
 1.snap fastener 机  按扣；急钮；四合扣；揿钮
 2.ZIPPER FASTENER 拉索系结物；拉链系结
 3.paper fastener 工字针；钮扣型纸夹；书钉；纸张扣钉
-4.slide fastenern.  拉链
+4.slide fastener 拉链
 [联]fast (快速的) + en (使...) + er (名词后缀) ——> 使...加快的东西
 
 flatter / ˈflætə(r) /
@@ -2874,7 +2845,6 @@ v. 奉承，讨好；使高兴，使感到荣幸；使显得更漂亮；使（�
 1.flatter-compliment 奉承；赞美
 2.You really flatter me 你让我受宠若惊
 3.flatter oneself 自认为；自夸；自以为；自以为是
-4.flatter oneself 自鸣得意；自以为是
 [联]flat (平的) + ter (形式后缀) ——> 使...变平
 
 flatterer / ˈflætərər /
@@ -2911,7 +2881,7 @@ v. 逃离，逃避，逃跑
 1.Flee Market 跳蚤市场
 2.Fight Or Flee 决死一战；战斗或逃走；逃跑
 3.flee from famine 逃荒
-4.flee fromvt.  从……逃出来
+4.flee from 从……逃出来
 [联]flee (逃跑) + ing (后缀，表示动作正在进行) ——> fleeing (正在逃跑)
 
 fold / foʊld /
@@ -2942,7 +2912,7 @@ n. 跟随，追随
 2.Follow Through 自始至终完成工作；动作跟随；送球自球杆击到球之后到结束的这一段动作
 3.follow suit 学样子；学样
 4.follow up 跟踪；坚持完成；继续做某事
-5.as followadv.  依下列各项
+5.as follow 依下列各项
 6.follow in 跟进；跟上投篮
 [联]follow (跟随) + ing (后缀，表示持续的动作) ——> 跟随某人或某事持续进行
 
@@ -2993,7 +2963,7 @@ vt. 履行；实现；满足；使结束（等于 fulfil）
 1.fulfill the long-cherished wishes 实现夙愿；告竣夙愿；完成夙愿
 2.To fulfill dreams 成就梦想；我们的使命成就梦想
 3.Fulfill their duties 恪尽职守；各尽其责
-4.fulfill oneselfv.  完全实现自己的抱负
+4.fulfill oneself 完全实现自己的抱负
 [联]fulfill (完成，履行) + fill (装满，充满) ——> 使充满，完成
 
 fulfillment / fʊlˈfɪlmənt /
@@ -3074,7 +3044,7 @@ n. 凝视，注视；特定视角，特定角度
 2.Ulysses' Gaze 尤里西斯生命之旅；尤利西斯之旅；尤里西斯的凝视；尤利西斯的凝视
 3.gaze at 盯住；凝视；注视；注目
 4.gaze at 盯住；凝视
-5.at gaze◎【纹章学】(鹿或类似鹿的动物)从旁看去似在盯着人看的，侧身正视的
+5.at gaze【纹章学】(鹿或类似鹿的动物)从旁看去似在盯着人看的，侧身正视的
 6.gaze out 向外注视
 [联]gaze (凝视，注视) + eye (眼睛) ——> 用眼睛凝视
 
@@ -3142,8 +3112,7 @@ adj. 腺的，腺状的
 [搭]
 1.glandular cyslitis 腺性膀胱炎；膀胱炎
 2.glandular hair 植  腺毛；蜜毛
-3.glandular epithelium 组织  腺上皮；腺性皮膜
-4.glandular epithelium[医]腺上皮
+3.glandular epithelium 腺上皮；腺性皮膜
 [联]glan (腺体) + dular (形容词后缀) ——> 腺体的
 
 glare / ɡler /
@@ -3157,7 +3126,6 @@ n. 刺眼的强光；怒视；密切关注；<古>耀眼（或炫耀的）外表
 1.disability glare 减能眩光；失能眩光；致残闪光；污点
 2.direct glare 直接眩光；直射；直拉眩光；直照闪光
 3.glare at 向人瞪眼；怒视；怒目注视
-4.glare at 怒视
 [联]glare (瞪视) + eye (眼睛) ——> 怒目而视
 
 glimpse / ɡlɪmps /
@@ -3171,9 +3139,8 @@ v. 瞥见；开始理解；<古>闪烁，隐约出现
 1.glimpse of 瞥见；一瞥
 2.I glimpse eternity 我瞥见了永恒；我瞥见了永远；我看到了永恒；我看见了永恒
 3.catch a glimpse of 瞥见；看一看；瞥一眼；看见
-4.glimpse of 瞥见；一瞥
+4.glimpse atv.  看到；瞥见
 5.catch a glimpse of 瞥见
-6.glimpse atv.  看到；瞥见
 [联]a glimpse (一瞥) + seer (预言家) ——> 仿佛看到了未来的景象
 
 grab / ɡræb /
@@ -3307,7 +3274,7 @@ n. 强盗；抢劫者
 3.A police sniper killed the hijacker, Rolando Mendoza, but not before the eight were killed. 一名警方狙击手开枪打死劫持者门多萨，但是那时，8名人质已经被杀。
 [搭]
 1.session hijacker 会话劫持
-2.Searchforit browser hijacker 进程名称；属于
+2.Search for it browser hijacker 进程名称；属于
 3.IBIS Toolbar hijacker 属于；进程名称
 [联]hi + jack + er ——> 高兴的杰克+人 → 劫机者
 
@@ -3335,9 +3302,8 @@ adj. 庞大的，极大的；<非正式>很受欢迎的，著名的
 1.huge-crowd strategy 人海战术；人流战术
 2.huge amounts of 大量的
 3.Huge Numbers 巨大的数字
-4.huge amounts of 大量的
+4.sudden huge profits 暴利
 5.huge system 巨系统
-6.sudden huge profits 暴利
 [联]huge (巨大的) ——> h (一) + uge (放大) ——> 一放大就显得巨大
 
 hugely / ˈhjuːdʒli /
@@ -3363,9 +3329,7 @@ n. 急忙；紧急，赶紧的理由
 1.in a hurry 急于；立即；急忙
 2.hurry up 赶快；赶紧；快点；匆匆完成
 3.hurry off 匆忙离开；匆匆离去；急着赶车；趋向
-4.in a hurry 立即，匆忙
-5.hurry up（使）赶快
-6.in no hurry 不着急；不匆忙
+4.in no hurry 不着急；不匆忙
 [联]hurry (急忙，匆忙) + up (向上) ——> 加快速度
 
 ignorance / ˈɪɡnərəns /
@@ -3451,8 +3415,7 @@ n. 压印，印记
 1.impress on 使某人有印象；留下印象；给予印象；留给某人印象
 2.impress sb 感动某人；给某人留下印象；使某人印象深刻；给某人留下深刻的印象
 3.impress on sb 给某人以深刻印象；给某人留下好印象
-4.impress on 给…留下印象
-5.impress upon 使牢记；给…留下印象；留下印记
+4.impress upon 使牢记；给…留下印象；留下印记
 [联]in (不) + press (压) ——> 不压，不压制
 
 impression / ɪmˈpreʃ(ə)n /
@@ -3478,7 +3441,7 @@ adj. 敏感的；易受影响的
 3.The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king. 一个天性敏感的农民，他的生活比一个天性迟钝的国王的生活更广阔、更丰富、更激动人心。
 [搭]
 1.impressionable years hypothesis 敏感年岁假说
-2.impressionaBle plaster 可塑性塑料
+2.impressionable plaster 可塑性塑料
 3.impressionable thin-skinned 易感的
 [联]im- (不，无) + press (压) + ion (名词后缀) + able (可...的) ——> 容易受影响的
 
@@ -3529,7 +3492,6 @@ n. 侮辱；轻蔑；有伤尊严；无礼举动
 [搭]
 1.indignity to dead body 控以对尸体不敬
 2.indignity to a body 对尸体不敬
-3.indignity y 侮辱
 [联]indignity (不公正待遇，侮辱) +ity (名词后缀) ——> 不公正待遇
 
 induce / ɪnˈduːs /
@@ -3582,9 +3544,8 @@ n. 插入，嵌入；（书、文章等中）添加的东西；（服装面料�
 1.insertion order 广告订单；加插刊登通知；托刊单；告白定单
 2.quarter insertion 插腰；拔腰
 3.Insertion Loss 插损；介入损失；介入损耗；带内插损
-4.insertion loss 插入损耗
+4.insertion point 插入点
 5.weft insertion 引纬；投纬
-6.insertion point 插入点
 [联]in (不翻译) + sert (拉丁语，意为“插入”) + ion (名词后缀，表动作或状态) ——> 插入的动作或状态
 
 intake / ˈɪnteɪk /
@@ -3631,7 +3592,6 @@ adj. 整合的
 3.Electronics & integrate circuit 电子电路；电子与集成电路；电子学与集成电路
 4.integrate with 使与…结合
 5.integrate into 成为一体，融入；使…并入
-6.integrate circuit 集成电路
 [联]integer (整数) + -ate (动词后缀) ——> 整合，使成整体
 
 integration / ˌɪntɪˈɡreɪʃ(ə)n /
@@ -3645,8 +3605,7 @@ n. 结合，融合；取消种族隔离；（数）积分法，求积分；（�
 2.Vertical Integration 经  纵向一体化；纵向合并；垂直
 3.system integration 计  系统集成；系统综合；支持
 4.economic integration 经济一体化
-5.system integration 系统综合
-6.integration method 积分法
+5.integration method 积分法
 [联]inte (整数) + gration (与...结合) ——> 将整数结合在一起的过程
 
 integrative / ˈɪntɪɡreɪtɪv /
@@ -3671,7 +3630,6 @@ v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介�
 1.intervene in 干涉；干预；介入；干涉〔调停
 2.intervene therapy 介入治疗
 3.illegally intervene therein 非法干预
-4.intervene in 干预；插手；调停
 [联]inter (在之间) + vene (来自拉丁语，意为来) + e (形式词尾) ——> 干涉、干预
 
 invite / ɪnˈvaɪt /
@@ -3719,8 +3677,6 @@ v. 牵涉，涉及；包含，需要；使陷入，使卷入；（使）参加�
 [搭]
 1.involve in 牵涉；包含；参与；使牵连
 2.involve deeply 使全神贯注；埋头于；深深陷入
-3.involve e 包含；牵涉；使卷入；涉及
-4.involve in 参与；涉及；卷入，陷入
 [联]in + involve (卷入，包含) ——> 卷入其中
 
 involvement / ɪnˈvɒlvmənt /
@@ -3735,7 +3691,6 @@ n. 参与，介入；投入，沉迷；暧昧关系，恋爱关系
 3.Worker involvement 雇员参与计划；雇员参与
 4.involvement in 介入；参与
 5.job involvement 工作投入；职务参与；工作认同
-6.employee involvement 员工参与；员工投入
 [联]in (不) + volv(e) (滚转) + ment (名词后缀) ——> 与...无关的状况
 
 ironic / aɪˈrɒnɪk /
@@ -3799,7 +3754,7 @@ n. 痒；<非正式>渴望，热望
 2.CURE FOR THE ITCH 消除发痒；满足愿望；消弭发痒；渴望痊愈
 3.Seven Year Itch 七年之痒；疥疮；装饰画；挂画
 4.itch for 渴望
-5.jock itch[病]股癣
+5.jock itch [病]股癣
 [联]itch (发痒) + scratch (搔抓) ——> 发痒时想要搔抓
 
 itching / ˈɪtʃɪŋ /
@@ -3852,7 +3807,6 @@ n. 绑匪；诱拐者
 [搭]
 1.Accidental Kidnapper 绑架狂想曲；片；英文名
 2.To Trap a Kidnapper 诱拐报道
-3.kidnapper r 绑架者；绑匪
 [联]kidnap (绑架) + per (每，每个) ——> 绑匪
 
 knee / niː /
@@ -3866,9 +3820,8 @@ v. 用膝盖顶（撞）
 1.knee joint 膝关节；铰链关节；肘接；弯头接合
 2.Left Knee 左膝
 3.Knee injury 膝伤；膝关节损伤；膝关节外伤
-4.knee joint 膝关节；弯头结合
+4.knee pad 护膝
 5.on one's knee◎(恳求、祈祷、屈服时)跪着
-6.knee padn.  护膝
 [联]knee (膝盖) + cap (帽子) ——> 膝盖帽
 
 kneel / niːl /
@@ -3880,8 +3833,7 @@ v. 跪着，跪下
 [搭]
 1.kneel down 跪下；弯下膝盖；下跪
 2.I won't kneel 我不会再倒下
-3.Kneel Reversion 跪式后弯成圈
-4.kneel down 下跪；跪倒
+3.kneel reversion 跪式后弯成圈
 [联]knee (膝盖) + l (像一根棍子) ——> 跪下时膝盖弯曲像一根棍子支撑身体
 
 launch / lɔːntʃ /
@@ -3895,9 +3847,8 @@ n.（航天器的）发射；（产品的）上市；（事件的）发起；汽
 1.launch window 航  发射窗；发射时限；本体发卖后数个月内
 2.launch vehicle 运载工具； 航  运载火箭； 航  活动发射装置
 3.United Launch Alliance 联合发射联盟；联合发射同盟；盟公司；联合发射联盟公司
-4.launch vehicle 运载火箭
+4.launch pad 发射台
 5.product launch 产品发布
-6.launch padn.  发射台
 [联]1. launch (发射) + pad (发射台) ——> 发射台
 
 launcher / ˈlɔːntʃər /
@@ -3907,12 +3858,11 @@ n. 发射器；发射台；发射者
 2.Follow the instructions on the page for your phone to add the bookmark as a shortcut on your app launcher. 按照页面上的指示在你手机上添加书签作为你的应用启动栏中的快捷方式。
 3.Now, I can have a M203 (an overunder M16 grenade launcher) which is not crew-served. 现在，我可以拥有 M203（M16 双筒上下重叠的榴弹发射器）了，不需要乘员就可以使用。
 [搭]
-1.rocket launcher 火箭发射器；运载火箭；火箭筒； 航  火箭发射装置
+1.rocket launcher 火箭发射器；运载火箭；火箭筒；火箭发射装置
 2.multiple rocket launcher 多管火箭炮；多管火箭发射器
 3.Zeam Launcher 桌面管家；美化桌面；汉化版；面管家
-4.rocket launcher 火箭发射装置，火箭发射器；火箭筒，火箭发射车
+4.grenade launcher 枪榴弹发射器
 5.missile launcher 导弹发射器；火箭发射装置
-6.grenade launcher 枪榴弹发射器
 [联]lan + tch + er ——> 发射器
 
 leak / liːk /
@@ -3997,7 +3947,7 @@ n. 织布机；（尤指海上物体在黑暗或浓雾中的）隐隐显现；�
 [搭]
 1.Lore Of The Loom 隐身的学问；织布机；织布机的传说；织布机的故事
 2.hand loom 手织样； 纺  手织机；指生产大货前；用来确认颜色
-3.Rainbow loom 彩虹织机；如何用彩虹橡皮筋；彩虹编织机；彩虹织机中文站
+3.rainbow loom 彩虹织机；如何用彩虹橡皮筋；彩虹编织机；彩虹织机中文站
 4.rapier loom 剑杆织机；剑杆式投纬织机
 5.air-jet loom 喷气织机
 6.shuttle loom 梭织机；有梭织机
@@ -4038,8 +3988,6 @@ n. 放大；放大率；放大的复制品
 1.Pulse Power Magnification 脉冲功率放大；电子脉冲功率放大
 2.magnification factor 放大倍数；放大因子； 电子  放大因数；纵深放大
 3.Image magnification 摄影倍率；影象放大；影像放大倍数
-4.magnification factor 扩大因数；放大因数；放大倍数
-5.image magnification 图像（象）放大
 [联]mag (大) + nifica (做) + tion (名词后缀) ——> 放大，放大率
 
 magnificence / mæɡˈnɪfɪsns /
@@ -4099,7 +4047,6 @@ v. 放大，扩大；夸张，夸大；使（问题）加重，加剧；<古>赞
 [搭]
 1.CE Magnify 夸大效果；强调效验；强调成效
 2.magnify the photo 放大照片
-3.magnify y 放大；扩大；赞美；夸大
 [联]mag (大的) + nify (使...) ——> 放大
 
 manipulate / məˈnɪpjuleɪt /
@@ -4135,7 +4082,6 @@ v. 感到惊奇，大为赞叹
 1.Marvel Comics 漫威漫画；惊奇漫画；漫威漫画公司；惊奇漫画公司
 2.Captain Marvel 惊奇队长；神奇队长；奇迹队长；惊奇女士
 3.Marvel Entertainment 漫威娱乐；惊奇娱乐公司；惊奇娱乐；奇迹娱乐
-4.marvel atv.  对…惊奇
 [联]marvel (令人惊讶的) + el (常见后缀) ——> 令人惊讶的东西
 
 marvelous / ˈmɑːrvələs /
@@ -4166,10 +4112,10 @@ massacre / ˈmæsəkə(r) /
 n. 屠杀，残杀；<非正式>（运动或比赛中的）惨败
 v.（大规模地）屠杀，杀戮；<非正式>（比赛或竞争等中）使惨败，彻底击败；<非正式>笨拙地演奏（演唱）
 [例]
-1.vt. 残杀；彻底击败 mow down。
-2.n. 大屠杀；惨败 holocaust / bloodbath。
+1.the bloody massacre of innocent civilians. 对无辜平民的血腥屠杀。
+2.The game was a 10–0 massacre for our team. 这场比赛我们队以0：10惨败。
+3.Troops indiscriminately massacred the defenceless population. 军队肆无忌惮地屠杀手无寸铁的民众。
 [搭]
-
 [联]massacre (大屠杀) + er ——> 屠杀者
 
 mental / ˈment(ə)l /
@@ -4198,17 +4144,17 @@ n. 提及，说起，写上一笔；提名表扬
 1.Not to mention 且不说；更不用说；谈不上
 2.Honorable Mention 二等奖；国际二等奖；荣誉奖；优秀奖
 3.make mention of 提及；提到；说起；谈到
-4.not to mention 更不必说；不必提及
-5.mention of 提及…
-6.make mention ofv.  提到，提及
+4.mention of 提及…
 [联]men (男人) + tion (名词后缀) ——> 提到
 
-mesmerise / ˈmezməraɪz /
+mesmerize / ˈmezməraɪz /
 v. 迷住，吸引；对……实施催眠术（等于 mesmerize）
 [例]
-1.Stoats are small and fierce and quick and feral；they kill by biting the necks of their prey；they are said to mesmerise their larger victims with a snake-like dance. 白鼬体型娇小、行动敏捷和性情凶猛；它们通过咬破颈项的方式来捕杀猎物；据说它们会跳蛇舞来迷惑体型比自己庞大的受击对象。
+1.I can feel that you mesmerize my heart. 我能感受到你在蛊惑我的心智。
+2.He needs no bravado to mesmerize spectators. 他不需要虚张声势给观众催眠。
+3.You can mesmerize anyone you meet with your cultured attitude and outlook. 凭你的修养态度，你能记住所有遇到的人。
 [搭]
-
+1.mesmerize the crowd 迷住观众
 [联]mesmerise (使着迷) + eye (眼睛) ——> 迷住眼睛
 
 mesmerism / ˈmezmərɪzəm /
@@ -4240,11 +4186,9 @@ v. 弄脏，弄乱；玩弄；随地便溺；在军人食堂就餐
 [搭]
 1.mills mess 米尔斯错综；米尔斯错综德语
 2.Mess about 做手脚；胡闹；粗鲁对待某人
-3.mess up 瞎搅和
-4.mess up 陷入困境；搞糟
+3.mess up 瞎搅和；陷入困境；搞糟
+4.in a mess 乱糟糟，一团糟
 5.a mess of 一大堆…；把…弄糟
-6.in a mess 乱糟糟，一团糟
-[联]m ess (混乱) ——> mess (混乱)
 
 messy / ˈmesi /
 adj. 脏的，凌乱的；使脏乱的，使不整洁的；棘手的，令人厌烦的；马虎的，不精确的
@@ -4282,10 +4226,9 @@ n. 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲
 2.It was a mockery of a trial. 这次审判实在可笑。
 3.The trial made a mockery of justice. 这次审判是对正义的嘲弄。
 [搭]
-1.Self-mockery 自我解嘲；自嘲
-2.make a mockery of 是对的嘲笑
+1.self-mockery 自我解嘲；自嘲
+2.make a mockery of 是对的嘲笑；嘲笑；把…作为笑料；愚弄
 3.mockery usually by caricature 讽刺的嘲笑
-4.make a mockery of 嘲笑；把…作为笑料；愚弄
 [联]mock (嘲笑) + ery (名词后缀，表行为) ——> 嘲弄，嘲谑
 
 mortification / ˌmɔːrtɪfɪˈkeɪʃ(ə)n /
@@ -4310,7 +4253,6 @@ vi. 禁欲；苦行；约束；腐坏
 [搭]
 1.mortify the flesh 禁欲
 2.mortified mortify 使深感羞辱或难堪
-3.mortify y 使痛心；羞辱
 [联]morte (死亡) + fy (使...) ——> 使...死亡
 
 mow / moʊ /
@@ -4337,7 +4279,6 @@ n.（Mower）人名；（英）莫厄尔
 1.lawn mower 农机  割草机；剪草机；引剪草机；剪草皮机
 2.motor mower 机动割草机；动力刈草机；自行割草机
 3.spindle mower 旋轴剪草机
-4.lawn mower 割草机
 [联]lawn (草坪) + mower (割草机) ——> 割草机
 
 mown / məʊn /
@@ -4442,8 +4383,6 @@ v. 通报，告知；申报
 1.notify party 通知方；通知人；被通知人；告诉人
 2.ALSO NOTIFY 另请通知；通知人；另请报信；也可以联系
 3.notify list 通知列表；关照列表；通知清单
-4.notify party 到货受通知人
-5.also notify 另请通知
 [联]notify (通知) + fy (使...) ——> 使知晓
 
 nourish / ˈnɜːrɪʃ /
@@ -4496,9 +4435,8 @@ adj. 客观的，不带个人情感的；客观存在的；宾格的；目标的
 1.objective function 计  目标函数；对象的动作；物镜函数；目的函数
 2.employment objective 工作目标；应聘职位；任务目的；劳动目标
 3.career objective 职业目标；工作目标；求职目标；求职意向
-4.objective function 目标函数
+4.objective evaluation 客观评价
 5.objective analysis 目标分析，客观分析
-6.objective evaluation 客观评价
 [联]object + ive ——> 客观的
 
 objectively / əbˈdʒektɪvli /
@@ -4509,7 +4447,7 @@ adv. 客观地
 3.He has had time to cool down and look at what happened more objectively. 他有时间平静下来，并且更加客观地考虑发生的一切。
 [搭]
 1.objectively asserted 而可以客观地肯断
-2.Objectively Speaking 客观地讲；客观来讲；客观地说
+2.objectively speaking 客观地讲；客观来讲；客观地说
 3.objectively valuable 客观上有价值
 [联]objectively (客观地) + ly (副词后缀) ——> 从客观的角度
 
@@ -4520,8 +4458,8 @@ n. 客观性
 2.It is believed that anyone who upholds justice and objectiveness will have a sensible view on this. 相信任何客观公正正义的人士对此都会有清醒认识。
 3.A given ethnic culture has its historical objectiveness and is the foundation of its cultural identity. 民族文化具有历史客观性，是文化认同的基石。
 [搭]
-1.Maximum Objectiveness 最大限度的客观性
-2.Control Objectiveness 控制目标
+1.maximum objectiveness 最大限度的客观性
+2.control objectiveness 控制目标
 3.the objectiveness of law 法律客观性
 [联]objectiveness (客观性) + ness (名词后缀) ——> 客观性
 
@@ -4584,9 +4522,7 @@ v.（尤指通过艰难的过程）得到，获得；<正式>（规则或情况�
 1.obtain employment 就业；从业；参加工作
 2.obtain evidence 取证
 3.obtain indemnity 获得赔偿
-4.obtain employment 就业，找到工作
-5.obtain information 获得信息；索取资料或合同
-6.obtain evidence 取证
+4.obtain information 获得信息；索取资料或合同
 [联]ob - tain ——> 获得 something, like a goal (目标) through effort (努力)
 
 obtainable / əbˈteɪnəb(ə)l /
@@ -4611,9 +4547,8 @@ n. 违法行为，犯罪；冒犯，得罪；过错，不当；讨厌的东西�
 1.Attack Offence 攻击术；缺；羺；进犯术
 2.first offence 初次违犯；初次出错； 法  初犯
 3.criminal offence 刑事罪行；刑事罪
-4.criminal offence 刑事犯罪
+4.traffic offence 违反交通规章
 5.take offence 生气
-6.traffic offence 违反交通规章
 [联]offence (冒犯，犯罪) + defence (防御) ——> 一个行为要么是 offence，要么需要 defence
 
 offensive / əˈfensɪv /
@@ -4633,7 +4568,7 @@ n.（军事）进攻，攻势；  （引人注意的）系列行动，攻势
 [联]offensive (冒犯的) + sense (感觉，感官) ——> 冒犯的感觉
 
 offer / ˈɒfə(r) /
-v. 提供，给予；提议，表示愿意（做某事）；出（价），开（价）；提出，作出；表示（爱、友谊等）；（向上帝或神）奉献（祈祷、赞美），祭献（牺牲）； 试图（使用暴力，进行抵抗）；<古>发动，挑起（战争）；把……摆好（或放到位）（以便检测或评估其外观或状况）；<旧>（机会）出现；求婚
+v. 提供，给予；提议，表示愿意（做某事）；出（价），开（价）；提出，作出；表示（爱、友谊等）；（向上帝或神）奉献（祈祷、赞美），祭献（牺牲）
 n. 主动提议，提供； 出价，报价； （商品的）特价，特惠；求婚
 [例]
 1.The offer has been withdrawn. 那个报价已经撤销了。
@@ -4644,8 +4579,7 @@ n. 主动提议，提供； 出价，报价； （商品的）特价，特惠；
 2.non-firm offer 虚盘
 3.on offer 在出售中；在出卖中；在销售中；出售中
 4.offer for 对…报价
-5.on offer 出售中
-6.make an offer 要价，出价
+5.make an offer 要价，出价
 [联]atmo (水汽) + sphere (球体，球形) ——> 大气圈
 
 offset / ˈɔːfset /
@@ -4661,8 +4595,7 @@ adj. 胶印的，平版印刷的；偏离中心的，偏置的
 2.frequency offset 频率偏移；频率偏移量
 3.dc offset 直流偏移；直流偏置；直流偏差；直流失调
 4.offset printing 胶印，平版印刷；胶版印刷；平板印刷
-5.frequency offset 频率偏移；频率偏置
-6.offset press 胶印机
+5.offset press 胶印机
 [联]off (偏离) + set (设定，设置) ——> 偏离设定
 
 omit / əˈmɪt /
@@ -4722,8 +4655,8 @@ v. 超过，赶上；（数量或重要性方面）超过；（尤指厄运）�
 3.Lung cancer has now overtaken breast cancer as a cause of death for women in the U. S. 肺癌作为一种美国女性死亡原因现已超过了乳腺癌。
 [搭]
 1.overtaken vessel 被超越船被追越船；被超越船；被追越的船
-2.Overtaken by events 事过境迁；被事件
-3.Overtaken Vehicle 被超车辆
+2.overtaken by events 事过境迁；被事件
+3.overtaken vehicle 被超车辆
 [联]over (超过) + take (拿走) + n (无实际意义，辅助拆分) ——> 被超越
 
 panic / ˈpænɪk /
@@ -4738,7 +4671,7 @@ v.（使）恐慌，（使）惊慌失措
 1.Panic disorder 恐慌症；惊恐障碍；惊恐症
 2.Panic buying 抢购；恐慌性抢购；抢购风；恐慌购买
 3.Panic Room 战栗空间；颤栗空间；房不胜防；战栗之屋
-4.no panic[美国俚语]不大高明；平凡
+4.no panic [美国俚语]不大高明；平凡
 5.panic disorder 惊恐性障碍，恐慌症
 6.in panic 惊慌的
 [联]panic (恐慌) + c (无实际意义，作为辅助记忆符号) ——> 惊慌失措
@@ -4823,7 +4756,7 @@ n.（水果、蔬菜的）皮，外皮；去角质；（16世纪时建在英格�
 2.Robert Peel 罗伯特·皮尔；罗伯特；皮尔爵士；罗伯特·比尔
 3.Peel Street 请看皮尔街
 4.orange peel 橙皮；橘皮皱
-5.peel offv.  剥去；脱掉
+5.peel off 剥去；脱掉
 6.peel strength 剥离强度
 [联]skin (皮肤) + off (离开，脱落) ——> 剥皮
 
@@ -4918,9 +4851,7 @@ vt. <正式>遍及，弥漫
 2.However, biases against women still pervade many places on the Internet. 但是，网络上对于女性的歧视仍然屡见不鲜。
 3.Expressionist graphics, decisive slogans and modernist wit pervade these images. 表象派作家生动的，坚定的标语和现代主义作者遍及街头的风趣画作。
 [搭]
-1.pervade 弥漫；遍及
-2.pervade 遍及
-3.Pervade & prevail 流行
+1.Pervade & prevail 流行
 [联]per (通过) + vade (去，走) ——> 贯穿，弥漫
 
 pervasive / pəˈveɪsɪv /
@@ -4959,7 +4890,6 @@ v.（锋利尖锐物体）刺入，刺穿；（在身体某部位）扎眼，穿
 2.Pierce Brosnan 皮尔斯·布鲁斯南；布鲁斯南；皮尔斯
 3.Paul Pierce 皮尔斯；保罗·皮尔斯；保罗；皮亚斯
 4.pierce through 突破，穿刺入
-5.pierce brosnan 皮尔斯·布鲁斯南（美国电影演员）
 [联]pierce (刺穿) + eardrum (耳膜) ——> 刺穿耳膜
 
 pledge / pledʒ /
@@ -4974,8 +4904,7 @@ v. 保证，发誓；使保证，使许诺；承诺给予，承诺提供；用�
 2.Giving Pledge 捐赠誓言；赠与誓言；捐款誓言；捐赠誓约
 3.Pledge of Allegiance 效忠誓词；效忠誓言；宣誓
 4.pledge oneself 宣誓；保证
-5.pledge of allegiance 效忠誓言
-6.cash pledge 押金
+5.cash pledge 押金
 [联]pledge (承诺，保证) + give (给予) ——> 给予承诺
 
 plumb / plʌm /
@@ -5093,8 +5022,7 @@ v. 使有偏见，使有成见； 损害，不利于
 2.Bride and Prejudice 爱斗气爱上你；新娘与偏见；傲慢与偏见；新娘与私见
 3.Pride & Prejudice 傲慢与偏见；狂妄与成见；刹那；傲慢与成见
 4.without prejudice 无偏见
-5.pride and prejudice《傲慢与偏见》
-6.prejudice againstvt.  对……的偏见
+5.prejudice against 对……的偏见
 [联]pre- (预先) + judice (判断) ——> 先入为主的判断
 
 prolong / prəˈlɒŋ /
@@ -5209,9 +5137,8 @@ n.（飞机或轮船的）螺旋桨，推进器
 1.Propeller Shaft 传动轴； 航,船  螺旋桨轴；螺桨式轴；艉轴
 2.propeller pump 旋浆泵；螺桨泵；轴流泵；旋桨泵
 3.screw propeller 螺旋桨；螺旋推进器；螺桨；螺旋推进器螺旋桨
-4.propeller shaftn.  传动轴；螺旋轴
+4.propeller shaft  传动轴；螺旋轴
 5.propeller blade 螺旋桨叶片
-6.screw propellern.  螺旋桨
 [联]pro (向前) + peller (推动者) ——> 推动者向前的装置
 
 provoke / prəˈvoʊk /
@@ -5224,7 +5151,7 @@ v. 激起，引起；激励，刺激；挑衅，激怒
 1.provoke a quarrel 寻隙挑衅
 2.provoke elicit 引起；诱发
 3.to provoke 寻衅；挑拔；挑灯拨火；撩惹
-[联]pro (向前) +voke (唤起) ——> 引发，激起
+[联]pro (向前) + voke (唤起) ——> 引发，激起
 
 purpose / ˈpɜːrpəs /
 n. 目的，意图；目标，计划；（达到生活中目标的）决心，毅力；（情势等的）需要，用意（purposes）；重要意义，有价值的意义
@@ -5289,8 +5216,7 @@ v. 争吵，吵架；不同意，反对；抱怨
 1.pick a quarrel 叫板；找茬儿；寻衅；怎么翻译及发音
 2.quarrel with 吵架；与某人争吵；争吵；与
 3.the quarrel 争吵；吵架
-4.quarrel withv.  抱怨；不同意；拒绝接受；跟…吵架
-5.quarrel about 争论；为…争吵
+4.quarrel about 争论；为…争吵
 [联]quarrel (争吵) + family (家庭) ——> 家庭争吵
 
 quarrelsome / ˈkwɒrəlsəm /
@@ -5306,11 +5232,11 @@ adj. 爱争吵的，好口角的
 [联]quarrel (争吵) + some (形容词后缀) ——> 好争吵的
 
 raise / reɪz /
-v. 提起，举起；（使）直立，站立；建造，树立（塑像等）；增加，提高；筹募，征集；提出，提起；引起，使出现；饲养，种植；抚养，养育；使自乘……次；比（对手）多下赌注；叫醒；使复活；终止，解除；与……取得联系；（海上人员）驶近能看见（陆地或其他船只）的地方；（免疫）刺激（抗血清、抗体等的）生成
+v. 提起，举起；（使）直立，站立；建造，树立（塑像等）；增加，提高；筹募，征集；提出，提起；引起，使出现；饲养，种植；抚养，养育；使自乘……次
 n. <美>加薪；（扑克牌或勃莱格牌用语）赌注加码；（举重）（持杠铃时的）提，举
 [例]
-1.How can we raise standards in schools?我们怎样才能提高学校的水平？《牛津词典》。
-2.Don't you raise your voice to me!别对我高声大气！《柯林斯英汉双解大词典》。
+1.How can we raise standards in schools?我们怎样才能提高学校的水平？。
+2.Don't you raise your voice to me!别对我高声大气！。
 3.We were forced to raise the price. 我们被迫提价。
 [搭]
 1.You Raise Me Up 你鼓舞了我；你激励了我；你的鼓励；一切因你
@@ -5322,8 +5248,8 @@ n. <美>加薪；（扑克牌或勃莱格牌用语）赌注加码；（举重）
 [联]rise (上升) + s (复数形式) ——> 上升的事物
 
 range / reɪndʒ /
-n.（变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；山脉；牧场，牧区；靶场，射击场，炸弹试验场；（尤指旧时的）炉灶；一排建筑物；<古>方向，走向；（飞机等交通工具的）续航距离
-v.（在一定的范围内）变化，变动；（按一定位置或顺序）排列，排序；徘徊，四处移动；（文章或讲话）涉及，包括 ；（枪、炮、射击后校准）测距，（用雷达或激光）测距；支持，反对；自然生长，分布；与……联合起来，加入……行列
+n.（变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；山脉；牧场，牧区；靶场，射击场，炸弹试验场
+v.（在一定的范围内）变化，变动；（按一定位置或顺序）排列，排序；徘徊，四处移动；（文章或讲话）涉及，包括 ；（枪、炮、射击后校准）测距，（用雷达或激光）测距
 adj. <文>（生活方式）有秩序的，安定的
 [例]
 1.Our equipment is top of the range. 我们的设备是最昂贵的。
@@ -5362,7 +5288,6 @@ v.（作出）反应；起化学反应； (对食物等）不良反应，过敏�
 2.react on upon 对…产生影响
 3.read and react 解读并反应；伺机而动
 4.react onv.  起作用于；对…有影响
-5.react against 反抗；反对；起反作用
 [联]re (再次) + act (行动) ——> 再次行动
 
 reaction / riˈækʃ(ə)n /
@@ -5377,7 +5302,7 @@ n. 反应，回应；反应能力（reactions）；（药物或食物引起的�
 3.exothermic reaction 发热反应；放热反映；氧化放热效应
 4.reaction time 反应时间
 5.reaction temperature 反应温度；适应温度
-6.chemical reactionn.  化学反应
+6.chemical reaction 化学反应
 [联]chemical (化学的) + change (变化) ——> 化学反应
 
 reactive / riˈæktɪv /
@@ -5390,7 +5315,7 @@ adj. 反应的；电抗的；反动的
 1.C-reactive proteinC 反应蛋白；反应蛋白；高敏 C 反应蛋白；蛋白
 2.reactive power 电  无功功率；无效功率；无功；千阀
 3.reactive component 无功分量；抗性分量；无功斤两；抗性斤两
-4.reactive power[化]无功功率
+4.reactive power [化]无功功率
 5.reactive power compensation 无功补偿
 6.reactive dye 活性染料
 [联]re + active ——> 对外界刺激有反应的
@@ -5398,16 +5323,15 @@ adj. 反应的；电抗的；反动的
 reactor / riˈæktər /
 n. 核反应堆；反应器，反应炉；阳性反应者；起反应的人；（物理）电抗器
 [例]
-1.Exelon Corp.  will explore building a new nuclear reactor downstate. 美国爱克斯龙电力公司会在州的最南部研发建造一个新的核反应堆。
+1.Exelon Corp. will explore building a new nuclear reactor downstate. 美国爱克斯龙电力公司会在州的最南部研发建造一个新的核反应堆。
 2.The nuclear reactor was not damaged in the lightning storm that struck late last night. 核反应堆在昨晚后半夜的雷雨中没有受损。
 3.The atomic reactor generates enormous amounts of thermal energy. 原子反应堆发出大量的热能。
 [搭]
-1.nuclear reactor 核  核反应堆；核反应推；核反应器；核子反应炉
+1.nuclear reactor 核反应堆；核反应推；核反应器；核子反应炉
 2.boiling water reactor 沸水反应堆；沸水堆；沸水式反应器；沸腾水型堆
 3.light water reactor 轻水反应堆；轻水堆；轻水式反应器；反应炉
-4.nuclear reactor 核反应堆；原子炉
+4.flow reactor 连续反应器；流动反应器；怜反应器
 5.fluidized bed reactor 流化床反应器；怜床反应堆
-6.flow reactor 连续反应器；流动反应器；怜反应器
 [联]re (反) + actor (演员) ——> 反应堆
 
 reassurance / ˌriːəˈʃʊərəns; ˌriːəˈʃɔːrəns /
@@ -5430,8 +5354,7 @@ v. 使安心，使消除疑虑
 3.He needn't have gone to hospital, but he went just to reassure himself. 他本不必去医院的，去了只是想让自己放心点。
 [搭]
 1.Reassure me 让顾客安心
-2.reassure e 使放心；使安心；使消除疑虑；使
-3.to reassure 再保证；稳贴；使
+4.to reassure 再保证；稳贴；使
 [联]re- (再次) + assure (使确信) ——> 再次使确信
 
 recalcitrant / rɪˈkælsɪtrənt /
@@ -5512,7 +5435,7 @@ n. 记忆力，回忆；回忆起的事物（或景象），往事
 [联]re (再次) + collection (收集) ——> 对过去经历的再次收集
 
 recover / rɪˈkʌvər /
-v. 恢复（健康，精神，体力）；康复，复原（be recovered）；（从不愉快的经历中）恢复；（从弱势或困境中）好转，扭转；重新获得，寻回；收回（开支、投资等）；恢复（意识、神志或身体状态）；挽回（地位），弥补（时间损失）；提取（能源或化工品等），回收利用； 给……换上新面
+v. 恢复（健康，精神，体力）；康复，复原（be recovered）；（从不愉快的经历中）恢复；（从弱势或困境中）好转，扭转；重新获得，寻回；收回（开支、投资等）
 n.（军事操练）枪还原，收枪（the recover）
 [例]
 1.The economy is at last beginning to recover. 经济终于开始复苏了。
@@ -5536,19 +5459,18 @@ adj. 可收回的；可恢复的；可补偿的
 2.recoverable reserves 工业储量；可回收的储量；可采埋蔵量
 3.recoverable amount 可回收金额；可收回金额；可收回价值
 4.recoverable reserve 可采储量
-5.recoverable amount 可收回金额；能索回的价值
-6.recoverable loss[经]可收回损失
+5.recoverable loss [经]可收回损失
 [联]re (再次) + cover (覆盖) + able (能够的) ——> 能够再次覆盖的
 
 recovery / rɪˈkʌvəri /
-n. 康复，痊愈；戒除；恢复，复苏；（供刚做完手术的病人使用的）监护室；（被拿走或失去的东西的）复得，找回；收回的物品（资金）；（破损车辆或坠毁飞机）回收修理；（高尔夫）挽回败局之击，复原之击（击回球道或球穴区）；（美橄）重新获球；（划船，自行车赛，游泳）还原至预备姿势（如回桨等）；回收利用（能源、化工品等）
+n. 康复，痊愈；戒除；恢复，复苏；（供刚做完手术的病人使用的）监护室；（被拿走或失去的东西的）复得，找回；收回的物品（资金）；（破损车辆或坠毁飞机）回收修理
 [例]
 1.Economic recovery is here. 经济复苏现在开始了。
 2.The patient made a rapid recovery. 病人很快恢复了健康。
 3.The economy is poised for recovery. 经济呈复苏之势。
 [搭]
 1.economic recovery 经济复苏； 经  经济复原；经济苏醒
-2.Data Recovery 计  数据恢复；数据复原；删除文件恢复大师；数据修复
+2.Data Recovery 数据恢复；数据复原；删除文件恢复大师；数据修复
 3.Disaster Recovery 灾难恢复；灾难性恢复；灾害复原
 4.recovery rate 恢复速率
 5.oil recovery 油回收
@@ -5565,8 +5487,7 @@ n. 修正，矫正；（电）整流
 1.Rectification of names 正名
 2.optical rectification 测  光学纠正；光学校正；光整流；光黉舍正
 3.rectification column 精馏柱；精氩塔
-4.rectification column[化]精馏塔
-5.rectification circuit 整流电路
+4.rectification circuit 整流电路
 [联]re (反) + ctify (纠正) + ation (行为，过程) ——> 纠正的过程
 
 rectifier / ˈrektəˌfaɪər /
@@ -5597,7 +5518,7 @@ v. <正式>纠正，矫正；整流，把（交流电）转变成直流电；蒸
 [联]correct (改正) + -ify (动词后缀，使成为) ——> 纠正，矫正
 
 redeem / rɪˈdiːm /
-v. 补救，掩饰……之不足；挽回（声誉），弥补（过错）（redeem oneself）；（尤指基督教中）解救，为……赎罪；偿还（欠款）；兑换（优惠券、彩票等）；赎回（股票、债券等）；履行，遵守（诺言）
+v. 补救，掩饰……之不足；挽回（声誉），弥补（过错）（redeem oneself）；（尤指基督教中）解救，为……赎罪；偿还（欠款）；兑换（优惠券、彩票等）
 [例]
 1.He was able to redeem his watch from the pawnshop. 他得以从当铺赎回他的表。
 2.He had no way to redeem his furniture out of pawn. 他无法赎回典当的家具。
@@ -5658,7 +5579,7 @@ n. 改选；再选
 [搭]
 1.knowledge reelection 知识复选
 2.controversial reelection 引起争议的改选
-3.Journey of 'Reelection'重选」之旅
+3.Journey of 'Reelection' 重选之旅
 [联]re - election ——> re (再次) + election (选举) ——> 再次选举
 
 reflect / rɪˈflekt /
@@ -5671,8 +5592,7 @@ v. 反射（光、热或声音）；反映，照出（影像）；显示，表�
 1.reflect on 反省；回忆；思考
 2.Reflect Sheet 反射膜；反射板
 3.Quell Reflect 水滴解密之反射；水滴解谜；水滴反射；超精美水滴解谜之反射
-4.reflect on 仔细考虑，思考；反省；回想，回顾；怀疑
-5.reflect uponvt.  考虑（回想；回顾）
+4.reflect upon 考虑（回想；回顾）
 [联]re (再次) + flect (弯曲) ——> 再次弯曲光线
 
 reflection / rɪˈflekʃ(ə)n /
@@ -5699,10 +5619,8 @@ adj. 反射的，反光的 ；沉思的，深思的；体现……的，反映�
 [搭]
 1.Anti-reflective coating 增透膜；防反射涂膜；抗反射涂层；抗反光涂料
 2.Reflective glass 镀膜玻璃；反射玻璃；反光玻璃；玻璃
-3.Reflective Teaching 反思性教学；反思教学；反省教学
-4.reflective teaching 反映性教学
-5.reflective mirror 反光镜
-6.reflective glass 反光玻璃；反射玻璃
+3.reflective teaching 反思性教学；反思教学；反省教学
+4.reflective mirror 反光镜
 [联]reflect + -ive ——> 反射的
 
 refusal / rɪˈfjuːz(ə)l /
@@ -5731,8 +5649,7 @@ adj. 废弃的
 2.refuse to do sth 拒绝做某事；拒绝干某事；拒绝做；谢绝做某事
 3.refuse incinerator 垃圾焚化厂；垃圾焚化炉；垃圾焚烧炉
 4.municipal refuse 城市垃圾
-5.refuse to do 拒绝做某事
-6.refuse treatment 垃圾处理；废物处理
+5.refuse treatment 垃圾处理；废物处理
 [联]re (反) + use (使用) ——> 反使用
 
 regard / rɪˈɡɑːd /
@@ -5746,7 +5663,7 @@ n. <正式> 尊重，敬佩；<正式> 关心，关注；注视，凝视；（�
 1.with regard to 关于；至于；对于；就
 2.in regard to 关于；至于；对于；关于至于
 3.regard as 当作；认作；属于；算是
-4.with regard toadv.  关于；至于
+4.with regard toad 关于；至于
 5.in this regard 就这一点而言
 6.in regard to 关于
 [联]re (再，回) + gard (守卫，注意，源于法语garder) ——> 注视，关注
@@ -5762,7 +5679,6 @@ adj. 不管的，不注意的
 1.regardless of 不顾；不管；不惜；且不论
 2.stand together regardless of situation 风雨同舟；风雨同船；休戚相干
 3.regardless ad 不顾一切地；不管怎样；不顾
-4.regardless of 不顾，不管
 [联]ir (无论什么) + regard (注意，关心) + less (没有，缺少) ——> 不管怎样
 
 remind / rɪˈmaɪnd /
@@ -5775,8 +5691,7 @@ v. 提醒，使想起；（因相像）使联想起（remind sb.  of）
 1.remind me 来提醒我；智能提醒；提醒我
 2.Remind you 提醒大家；提醒你；泽野弘之
 3.remind of 提醒；使想起；使记起；使某人回想起
-4.remind of 提醒；使记起；使回想起
-5.that reminds me[用来转换话题]我想起来了
+4.that reminds me [用来转换话题]我想起来了
 [联]re (再次) + mind (思维，记忆) ——> 提醒
 
 reminder / rɪˈmaɪndə(r) /
@@ -5801,7 +5716,6 @@ adj. 使人联想的；怀旧的，缅怀往事的；与……相像的
 1.a reminiscent mood 怀旧情绪；笨树一棵；的意思
 2.reminiscent of 形容词；提示的；怀旧的
 3.aura reminiscent 梦样状态先兆
-4.reminiscent of 令人回忆起；引起联想
 [联]reminiscent (怀旧的，有回忆的) ——> re- (再次) + miniscent (与mini有关，这里表示小范围的回忆) ——> 再次想起小范围的回忆
 
 render / ˈrendər /
@@ -5897,7 +5811,7 @@ n. 代替，更换；取代（或代替）的人（或物）；补充兵员
 1.Replacement cost 重置成本；更新成本；重置费用；迁建费用
 2.hormone replacement therapy 激素替代疗法；激素替代治疗；疗法；治疗
 3.The Replacement Killers 原名；英文名；替身杀手
-4.hormone replacement therapyn.  激素取代疗法
+4.hormone replacement therapy 激素取代疗法
 5.replacement cost 重置成本
 6.replacement ratio 替代率；补偿比率
 [联]re (再，又) + placement (放置，安置) ——> 再安置，替换
@@ -5934,12 +5848,11 @@ n.（口头或书面）回答，答复；回应，作出反应；<英>（比赛�
 2.His reply was not repeatable. 他的回答不便重复。
 3.She growled a sarcastic reply. 她以讥讽的口吻咬牙切齿地作了回答。
 [搭]
-1.reply to 回答；答复；回复；回应
-2.reply-to 或邮件回复；回邮地址；回复
+1.reply to 或邮件回复；回邮地址；回复
+2.reply for 代表…作答
 3.reply immediately 速复
 4.in reply 作为答复
 5.no reply 无回答，无应答
-6.reply for 代表…作答
 [联]re (回) + ply (折叠) ——> 回复
 
 rescue / ˈreskjuː /
@@ -5953,7 +5866,7 @@ n. 营救，救援；营救行动
 1.Rescue Me 火线救援；救救我；浴火群英；拯救我
 2.rescue team 救援队；直升机救援队；救援队伍
 3.Bondi Rescue 拯溺雄心
-4.rescue workn.  救济事业
+4.rescue work 救济事业
 5.rescue workers 救援人员
 6.search and rescue 搜索与营救
 [联]rescue (营救) + -ue (名词后缀) ——> 救援
@@ -5979,11 +5892,10 @@ v. 诉诸，求助于；<正式>常去，（成群结队地）去
 3.It's a favourite resort for the rich and famous. 这是富人和名流最喜欢去度假的地方。
 [搭]
 1.resort to 诉诸于；诉诸；采取；速诸于
-2.Last Resort 破釜沉舟；不得已；终极手段
+2.last resort 最后手段
 3.ski resort 滑雪场；滑雪胜地；滑雪场专区；滑雪度假村
-4.last resort 最后手段
-5.tourist resort 观光胜地
-6.summer resort 避暑地；避暑圣地
+4.tourist resort 观光胜地
+5.summer resort 避暑地；避暑圣地
 [联]re (再次) + sort (整理，排列) ——> 诉诸，诉请
 
 respond / rɪˈspɒnd /
@@ -6116,11 +6028,9 @@ n.（尤指中枪猎物的）找回；收绕钓鱼线；<古> 恢复的可能性
 2.The men were trying to retrieve weapons left when the army abandoned the island. 那些人正试图找回该军队撤离这个岛时留下的武器。
 3.It includes methods to add and delete bookmarks, retrieve a user's bookmark list, and retrieve (or rename) a user's tags. 它包括添加和删除书签、检索用户书签列表和检索（或者重命名）用户标记的方法。
 [搭]
-1.retrieve data 计  检索数据；撷取资料；回线数据
+1.retrieve data 检索数据；撷取资料；回线数据
 2.beyond retrieve 不可挽回；不可恢复
 3.diving retrieve 扑救；鱼跃救球
-4.retrieve data 检索数据
-5.beyond retrieve 不可恢复；不可挽回
 [联]re + trie + ve ——> 重新取回
 
 retriever / rɪˈtriːvər /
@@ -6133,8 +6043,7 @@ n.（训练成能寻回猎物的）寻回犬；取回的人，挽救者
 1.Labrador Retriever 拉布拉多犬；拉布拉多猎犬；拉布拉多；拉布拉多寻回犬
 2.Golden Retriever 金毛寻回犬；寻回犬；金毛猎犬；黄金猎犬
 3.Chesapeake Bay Retriever 乞沙比克猎犬；切萨皮克海湾寻回犬；切萨皮克湾寻猎犬；乞沙比克海湾猎犬
-4.golden retriever 金毛猎犬
-5.labrador retriever 拉布拉多寻回犬（犬种）
+4.labrador retriever 拉布拉多寻回犬（犬种）
 [联]retriever ( retrieval 检索 + -er 表示人或物) ——> 一种能够帮助取回物品的狗，通常用于狩猎或搜救任务
 
 retrospect / ˈretrəspekt /
@@ -6148,7 +6057,6 @@ v. 回顾，追溯
 1.in retrospect 回顾；回想起来
 2.RETROSPECT AND PROSPECT 回顾与展望；回顾与前瞻；回顾与展望我国城市轨道交通发展历程
 3.EMC Retrospect 企业数据安全系统
-4.in retrospect 回顾；回顾往事；检讨过去
 [联]re- (再次) + retro- (向后的) + spect (看) ——> 回顾、回想
 
 retrospection / ˌretrəˈspekʃn /
@@ -6218,20 +6126,18 @@ adj. 渴望复仇的，一心报复的
 [联]revenge (复仇) + ful (形容词后缀，表示充满……的) ——> 复仇心切的
 
 reverse / rɪˈvɜːrs /
-v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；倒（车）；（发动机）反向运转；<英>打对方付费的电话；使（铅字，图案）印成白或浅色
-n. 相对，相反（the reverse）；逆向，逆转；倒车挡；<正式>失败，挫折；反面，背面；（翻开的书）左手页，（活页文件的）背面；（硬币或奖牌）反面图案（或刻字）；（美式橄榄球）反向传球，变位传球
+v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；倒（车）
+n. 相对，相反（the reverse）；逆向，逆转；倒车挡；<正式>失败，挫折；反面，背面；（翻开的书）左手页，（活页文件的）背面；（硬币或奖牌）反面图案（或刻字）
 adj. 相反的，反向的；背面的，反面的；（半导体结的外加电压）反向的；（地层）逆断的，冲断的；反身的
 [例]
 1.In the south, the reverse applies. 在南方，情况相反。
 2.In 2002 economic growth went into reverse. 2002年，经济增长发生了逆转。
 3.You should reverse the order of these pages. 你该把这几页的顺序颠倒过来。
 [搭]
-1.reverse engineering 计  逆向工程；反向工程；反求工程
+1.reverse engineering 逆向工程；反向工程；反求工程
 2.reverse osmosis 逆渗透；反相渗透；反渗；反渗透膜
 3.reverse transcriptase 生化  逆转录酶； 分子生物  反转录酶；逆转录
-4.in reverseadv.  相反，向相反方向，倒（退），逆（行、转等）
-5.reverse engineering 逆向工程
-6.reverse osmosis 反渗透，逆向渗透
+4.in reverse 相反，向相反方向，倒（退），逆（行、转等）
 [联]re (反) + verse (转动) ——> 反转
 
 reversely / rɪˈvɜːslɪ /
@@ -6291,8 +6197,8 @@ n. 利益，好处；目的；为了便于讨论（for the sake of argument）�
 3.'For heavens' sake!' he burst out. “天哪！”他大叫一声。
 [搭]
 1.for the sake of 为了；的好处；起见；由于
-2.Candida sake 清酒假丝酵母
-3.Taru Sake 菊正宗清酒
+2.candida sake 清酒假丝酵母
+3.taru sake 菊正宗清酒
 4.for the sake 为了…；为了. . . 的利益
 5.for the sake of 为了；为了…的利益
 6.for god's sake 看在上帝面上
@@ -6334,7 +6240,6 @@ n. 饱和脂肪
 [搭]
 1.Saturate condition 饱和条件；饱和状态；海水
 2.saturate with 使充满；饱和；使饱和
-3.saturate e 使饱和；使湿透；浸透；饱和
 [联]sat + urate ——> 饱和状态
 
 saturation / ˌsætʃəˈreɪʃ(ə)n /
@@ -6360,8 +6265,8 @@ n. 零星散布的东西；（统计）（对某一变量作反复测量或观�
 2.A transparent object doesn't absorb or scatter light. 透明物体不吸收或散射光。
 3.It's not extensive in the sense that you just have to scatter your stuff over wide fields；that's not what it is. 它不是广泛的，从这个角度说，不是你只要在宽广的土地上散播你的东西就够了；它并非是这样。
 [搭]
-1.Scatter Diagram 统计  散布图；散点图；散布图分析；分布图
-2.Scatter plot 散点图；散点分析；散布图
+1.scatter diagram 散布图；散点图；散布图分析；分布图
+2.scatter plot 散点图；散点分析；散布图
 3.scatter propagation 电子,物  散射传播
 [联]scat (散开) + ter (形式后缀，无实际意义) ——> 散开，分散
 
@@ -6379,7 +6284,7 @@ n. 爱训斥人的人
 [联]rebuke (责备) + parent (父母) ——> 责备父母
 
 scrape / skreɪp /
-v.（用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；勉强维持，艰难地完成；勉强维持生活（scrape by/along）；勉强通过；（艰难地）凑集，积累（scrape sth.  together/up）；节俭；挖坑，挖洞； 把头发拢在后面（scrape sth.  back）；（幽默）不入调地演奏小提琴；<英>在面包上涂一层薄薄的（黄油，人造黄油）；用程序从网上下载（数据）
+v.（用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；勉强维持，艰难地完成；勉强维持生活（scrape by/along）；勉强通过
 n. 擦伤，擦痕；刮擦，刮擦声；<非正式>困境，窘境；地面空洞处，（尤指鸟求爱、筑巢时）在地面挖的洞；<英>涂在面包上的一层黄油（或麦琪淋）；<非正式>（医）刮宫
 [例]
 1.I might scrape through the exam if I'm lucky. 要是走运的话，我也许能勉强及格。
@@ -6390,7 +6295,7 @@ n. 擦伤，擦痕；刮擦，刮擦声；<非正式>困境，窘境；地面空
 2.bow and scrape cringe 卑躬屈膝；卑恭屈节；大义凛然
 3.scrape by 勉强通过；勉强维持；勉强度日；勉强过活
 4.scrape together 东拼西凑
-5.scrape upvt.  积攒；积蓄；凑集
+5.scrape up 积攒；积蓄；凑集
 6.scrape off 刮掉；擦去
 [联]scrape (刮擦) + off (去掉) ——> 刮掉
 
@@ -6404,13 +6309,12 @@ n. 刮刀；铲土机；守财奴
 1.scraper conveyor 刮板输送机；刮板式输送器；链板运输机；刮板运输机
 2.scraper ring 刮油环；刮油涨圈；油环； 机  刮油胀圈
 3.scraper loader 耙斗运载机；刮斗装载机；耙斗装岩机；刮板式装载机
-4.scraper conveyor 刮板式运输机
+4.chain scraper conveyor 链板输送机
 5.scraper conveyer 刮板输送机
-6.chain scraper conveyorn.  链板输送机
 [联]scrape (刮，擦) + per (每个，每) ——> 刮刀，刮削器
 
 scratch / skrætʃ /
-v.（用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片
+v.（用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）
 n.（某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声
 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱
 adj.（球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
@@ -6425,7 +6329,7 @@ adj.（球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫�
 4.from scratch 白手起家；从头做起
 5.start from scratch 从头开始；白手起家；从起跑线开始
 6.up to scratch 达到标准
-[联]scr +atch ——> 划痕
+[联]scr + atch ——> 划痕
 
 scratchy / ˈskrætʃi /
 adj. 潦草的；刺痒的；草率的；发刮擦声的
@@ -6447,11 +6351,10 @@ v. 寻找；寻求，谋求；请求（帮助），征求（意见）；试图�
 3.Students may decide to seek tutorial guidance. 学生们可以决定寻求助教的指导。
 [搭]
 1.hide and seek 捉迷藏；躲猫猫；藏猫猫
-2.Hide-and-Seek 躲猫猫；藏猫猫；游戏名称
-3.Average seek time 平均寻道时间；平均搜寻时间；平均搜查时间
-4.seek forv.  寻找；追求；探索
+2.seek advice 征求意见；请教
+3.average seek time 平均寻道时间；平均搜寻时间；平均搜查时间
+4.seek for 寻找；追求；探索
 5.seek out 找出；搜出；想获得
-6.seek advice 征求意见；请教
 [联]seek (寻找) + er (表示人) ——> 寻找者
 
 seep / siːp /
@@ -6465,7 +6368,6 @@ n.（油、水）渗出地表的地方
 1.Memories seep from my veins 回忆自我的血管渗出；那些回忆不须留；记忆从我的心底缓缓流溢；记忆从我的
 2.ACRYLIC SEEP 亚克力纱
 3.seep into 流入；影响到；渗漏
-4.seep into 渗入；影响到；流入
 [联]无能为力
 
 seepage / ˈsiːpɪdʒ /
@@ -6478,13 +6380,12 @@ n. [流] 渗流；渗漏；渗液
 1.seepage line 渗漏线；渗透线
 2.seepage flow 渗流量；渗透水流； 流  渗流
 3.seepage water 渗透水；流水；渗滤水
-4.seepage flow 渗流量；渗透水流
-5.water seepage 渗水，漏水
-6.seepage pressure 渗透压力；渗流压力；流力
+4.water seepage 渗水，漏水
+5.seepage pressure 渗透压力；渗流压力；流力
 [联]seep (渗出) + age (状态，结果) ——> 渗出的状态
 
 shake / ʃeɪk /
-v. 摇动，抖动；削弱，动摇；发抖，哆嗦；握手；使震惊，使烦乱；使改变（态度、信念）；摆脱，克服；舞动（拳头、棍子等）；抖掉，抖出；使劲甩动，急剧晃动；摇头（以示否定）；（声音）颤抖
+v. 摇动，抖动；削弱，动摇；发抖，哆嗦；握手；使震惊，使烦乱；使改变（态度、信念）；摆脱，克服；舞动（拳头、棍子等）；抖掉，抖出；使劲甩动，急剧晃动
 n. 摇动，摇晃；奶昔；（摇动容器后的）撒出物；<非正式>哆嗦，颤抖（the shakes）；<美>木制墙面板；<非正式>地震；（乐）颤音
 [例]
 1.Her hands had started to shake. 她的手早已哆嗦起来。
@@ -6527,8 +6428,6 @@ n.（Shaker）人名；（阿拉伯、哈萨、乌兹、塔吉、吉尔、阿塞
 2.Shaker furniture 夏克式家具；莎克家具；震颤派家具
 3.salt shaker 盐瓶；盐罐；盛食盐的瓶子；撒盐瓶子
 4.shale shaker 振动筛；泥浆振动筛
-5.salt shaker 盐瓶
-6.cocktail shaker 鸡尾酒调制器
 [联]shake (摇动) + r (表示工具的后缀) ——> 摇晃器
 
 shuffle / ˈʃʌf(ə)l /
@@ -6748,9 +6647,8 @@ n. 洒出（量），溢出（量）；（从马、自行车上等的）摔下�
 1.spill the beans 露马脚；泄漏秘密；泄露秘密
 2.Spill Suppressor 溢出抑制；溢色抑制；溢出压制；溢色怏抑制
 3.oil spill 石油泄漏
-4.oil spill 漏油；浮油
-5.spill over 溢出
-6.spill the beans 泄密；说漏嘴
+4.spill over 溢出
+5.spill the beans 泄密；说漏嘴
 [联]spill (溢出) + cup (杯子) ——> 溢出的杯子
 
 spillage / ˈspɪlɪdʒ /
@@ -6786,12 +6684,11 @@ adj. 分裂的
 2.My parents split up last year. 我父母去年离婚了。
 3.The word is they've split up. 据说他们离异了。
 [搭]
-1.Split Second 争分夺秒；一刹那；瞬间；分秒必争
+1.split second 争分夺秒；一刹那；瞬间；分秒必争
 2.split mold 双并式模具；分割式模具；对合铸模；可拆模
 3.stock split 股票分割；股份拆细；拆股；股票拆细
 4.split up 分裂，分离
-5.split second 一刹那；极快的
-6.split hairs 斤斤计较，在小事上争论不休；作无益的、琐碎的分析
+5.split hairs 斤斤计较，在小事上争论不休；作无益的、琐碎的分析
 [联]split (分开) + apart (分离) ——> 分裂
 
 stake / steɪk /
@@ -6805,9 +6702,8 @@ v. 拿…. . . 冒险，以…. . . 打赌；用桩支撑；<美，非正式>资
 1.at stake 在危险中；危如累卵；利害攸关；在危急关头
 2.to stake 铆合；支木柱；铆开
 3.Proof-of-Stake 权益证明
-4.at stake 危如累卵；处于危险中；在紧要关头
+4.equity stake 股权
 5.stake someone to something 为某人取得某物而提供金钱(或援助)，资助某人取得某物
-6.equity stake 股权
 [联]stake (桩， stakes的原形) + take (拿走，取走) ——> 投资，下注
 
 stakeholder / ˈsteɪkhəʊldə(r) /
@@ -6820,8 +6716,7 @@ n. 股东，利益相关者；赌金保管人；（争执或销售时的）财�
 1.Responsible Stakeholder 负责任的利益相关者；负责任的利害关系人；负责任的利益攸关者；有责任的利益相关者
 2.Stakeholder satisfaction 满意度；更高的股东满意度
 3.Stakeholder Request 项目干系人的请求；涉众请求；利害相关方请求
-4.stakeholder theoryn.  特定权益集团理论
-5.responsible stakeholder 有责任的利益相关者
+4.stakeholder theory 特定权益集团理论
 [联]stake ( stakes, 棋子；利害关系 ) + holder ( 持有者，占有者 ) ——> 利益相关者
 
 stare / steə(r) /
@@ -6836,8 +6731,7 @@ n. 凝视，注视
 2.stare decisis 遵循先例；遵从前例；遵循先例原则；先例拘束原则
 3.Stop And Stare 伫足凝视；停步·凝视；停步•凝视
 4.stare at 凝视，盯住
-5.stare intov.  凝视
-6.stare decisis 遵循先例；（拉）[律]根据过去判例
+5.stare into 凝视
 [联]star (星星) + e (助记符号) ——> 凝视着星星
 
 steer / stɪr /
@@ -6865,7 +6759,7 @@ adj.（叶子，植物）有托叶的，具托叶的
 1.stipulate verb 规定
 2.law stipulate 法律规制
 3.Self Stipulate On-Off test 自定断续测试
-4.stipulate forv.  制订；规定
+4.stipulate for 制订；规定
 [联]stipulate (规定；约定) + contract (合同) ——> 在合同中规定
 
 stipulation / ˌstɪpjuˈleɪʃ(ə)n /
@@ -7012,8 +6906,8 @@ v. 供应，提供，供给；补充，填充；满足要求（或需要）；�
 [联]sup + ply ——> 提供，供应
 
 support / səˈpɔːrt /
-v. 支持，拥护，鼓励；帮助，援助；支撑，承受（人或建筑物等的重量）；供养，赡养；资助，赞助；追随（或支持）（某个运动队）；证实，确认；（计算机，操作系统）支持（程序，语言，装置的）运行 ；支持……的生存；忍受，容忍；（在流行音乐会上）当助演，担任演出嘉宾；支付……费用，（尤指）用钱维持（不良嗜好，如毒品）；胜任
-n. 支持，拥护；帮助，援助；赞助，资助；支撑物，支柱；（身体部位的）支持器，托；支撑，支承；（音乐会、演出的）助演演员，助演乐队；证实，证明；信息供应，信息支持；（战争中的）支援；抚养，供养；支持者，拥护者
+v. 支持，拥护，鼓励；帮助，援助；支撑，承受（人或建筑物等的重量）；供养，赡养；资助，赞助；追随（或支持）（某个运动队）；证实，确认
+n. 支持，拥护；帮助，援助；赞助，资助；支撑物，支柱；（身体部位的）支持器，托；支撑，支承；（音乐会、演出的）助演演员，助演乐队；证实，证明
 [例]
 1.We assured him of our support. 我们向他保证给予支持。
 2.We offer free technical support. 我们免费提供技术支持。
@@ -7022,7 +6916,7 @@ n. 支持，拥护；帮助，援助；赞助，资助；支撑物，支柱；�
 1.Engineering Support 工程支援；工程保障；工程支持；工程技术支持
 2.Support ship 辅助船；助理船；扶助船
 3.spring support 弹簧支座；弹簧架；弹簧座；弹簧支架
-4.support oneself◎养活自己
+4.support oneself 养活自己
 5.support of 支持；赞助
 6.support for 对…的支持
 [联]sup (支持) + port (搬运) ——> 支撑、支持
@@ -7100,7 +6994,7 @@ n. 监视，监察
 1.surveillance aircraft 侦察机
 2.CHINA MARINE SURVEILLANCE 中国海监总队；中国海监
 3.Secondary Surveillance Radar 二次雷达；二次监视雷达；雷达；次级搜索雷达
-4.surveillance systemn.  观测系统，监视系统
+4.surveillance system 观测系统，监视系统
 5.surveillance radar 监视雷达
 6.electronic surveillance 电子监视
 [联]surveillance (监视，监管) + system (系统) ——> 监控系统
@@ -7118,7 +7012,7 @@ v. 做民意测验，做民意调查；（尤指认真地）审视，检查；�
 3.redshift survey 红移巡天
 4.questionnaire survey 问卷调查
 5.survey data 测量数据，测量资料
-6.field surveyn.  实地调查；实地考察
+6.field survey 实地调查；实地考察
 [联]sur (类似“所”音) + vey (类似“威”) ——> 所观察、所评估
 
 survival / sərˈvaɪv(ə)l /
@@ -7134,7 +7028,6 @@ adj. 幸存的，赖以生存的，救生用的
 3.Survival analysis 生存分析；存活分析；生存分析法；存活率分析
 4.survival rate 存活率
 5.survival time 生存时间；存活期
-6.survival of the fittest 适者生存
 [联]survival (生存) + -al (名词后缀) ——> 生存状态
 
 survive / sərˈvaɪv /
@@ -7151,7 +7044,7 @@ v.（经历事故、战争或疾病后）活下来，幸存；比……活得久
 [联]survive (生存) + -ive (形容词后缀) ——> 有能力活下去的
 
 survivor / sərˈvaɪvər /
-n.（灾难性事故中的）幸存者，生还者，幸存物；能在艰苦环境中生存的人，挺过困难者；（死者的）尚在世的家人，遗属；遭遇过（不幸经历）的人，经受过（苦难）的人；留存的人（或物），继续发挥作用的人（或物），竞赛中的过关者；幸存的公司；<法律>（共有财产产主中的）存者
+n.（灾难性事故中的）幸存者，生还者，幸存物；能在艰苦环境中生存的人，挺过困难者；（死者的）尚在世的家人，遗属；遭遇过（不幸经历）的人，经受过（苦难）的人
 [例]
 1.I'm a survivor.  I'll get by. 我是个幸存者。
 2.General Geichenko was a survivor.  His father, also a top-ranking officer, had perished during the war. 格晨科将军是一位幸存者。
@@ -7194,7 +7087,7 @@ n. 宣誓；诅咒
 [联]swear (发誓) + ear (耳朵) ——> 发誓时要倾听内心的声音
 
 sweat / swet /
-v. 流汗，出汗，冒汗；通过出汗排除；（通过运动或费力）使（人，动物）出汗；（食品，物体）渗出水分；辛苦工作，拼命干活；（人）（多指长时间的）处于极度焦虑中；<非正式> 担心，焦虑，紧张；熔焊（金属）；用文火炖（肉或蔬菜）
+v. 流汗，出汗，冒汗；通过出汗排除；（通过运动或费力）使（人，动物）出汗；（食品，物体）渗出水分；辛苦工作，拼命干活；（人）（多指长时间的）处于极度焦虑中
 n. 汗水，汗液；一身汗，满身大汗；<非正式> 艰难的工作，累活，繁重的工作；<美> 田径服，运动服，运动裤（sweats）；（用羊毛似的厚棉布做的）宽松休闲服装
 [例]
 1.His skin was agleam with sweat. 他的皮肤因出汗而闪闪发光。
@@ -7226,8 +7119,8 @@ n.（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；
 [联]tackle (对付，处理) + problem (问题) ——> 解决问题
 
 tap / tæp /
-v. 轻拍，轻扣，轻敲；敲出节奏，打拍子；凿孔装（龙头或旋塞）；旋开（桶等容器）放出液体；在（树）上切口（导出液体）；（在电话上）装窃听器，窃听；开发，发掘，利用（资源、形势）；<美> 委任，指定（某人做某事）；<英，非正式> 非法劝说（运动员）转会（到另一俱乐部）；向（某人）索取， 从……处获得钱（或信息）；（使用键盘）输入；给……攻丝；发出轻拍音
-n. 水龙头，阀门，旋塞；轻拍（声），轻敲（声）；窃听，窃听器；踢踏舞；（踢踏舞鞋尖或鞋跟上的）金属片；（军营里晚上的）熄灯号，（军队的）葬礼号；<英>（女童子军活动中）篝火晚会上（或集会上）唱的结束曲；<英> 酒吧；螺丝攻；<英>（电） 分接头；轻拍音
+v. 轻拍，轻扣，轻敲；敲出节奏，打拍子；凿孔装（龙头或旋塞）；旋开（桶等容器）放出液体；在（树）上切口（导出液体）；（在电话上）装窃听器，窃听
+n. 水龙头，阀门，旋塞；轻拍（声），轻敲（声）；窃听，窃听器；踢踏舞；（踢踏舞鞋尖或鞋跟上的）金属片；（军营里晚上的）熄灯号，（军队的）葬礼号
 [例]
 1.Is the tap water safe to drink?这自来水喝了不会闹病吧？《牛津词典》。
 2.A tap in the kitchen was dripping. 厨房的水龙头在滴水。
@@ -7389,7 +7282,7 @@ v.（通常指在法庭上）作证；证明，证实；<美>（尤指做礼拜�
 
 tilt / tɪlt /
 v.（使）倾斜，（使）倾侧；（使）倾向于，（使）偏向于；俯仰（摄影机）；<史>（格斗中）持矛冲刺（或比武）；以言词或文字抨击
-n. 倾斜，倾侧，倾斜度；（对某人、某信仰或某行为的）倾向，偏向；（意欲赢得某物或战胜某人的）企图，尝试；（口头或文字的）抨击，攻击；（摄影机的）俯仰转动，上下摇摄；<美，非正式>（双人或两队间的）比赛，竞赛；<加>林中小屋；<史>骑马持矛冲刺，马上比枪，比武
+n. 倾斜，倾侧，倾斜度；（对某人、某信仰或某行为的）倾向，偏向；（意欲赢得某物或战胜某人的）企图，尝试；（口头或文字的）抨击，攻击
 [例]
 1.The second movement involved in the hypothesis has to do with axial tilt. 假设中涉及的第二个运动与轴向倾斜有关。
 2.The table is at a slight tilt. 这桌子有点儿歪。
@@ -7404,8 +7297,8 @@ n. 倾斜，倾侧，倾斜度；（对某人、某信仰或某行为的）倾�
 [联]teeter (摇晃) + totter (摇摇欲坠) ——> 摇摇晃晃
 
 touch / tʌtʃ /
-v. 触摸，碰；接触，触及；损坏，伤害；吃，喝，使用；感动，触动；影响，与……有关；与……媲美，比得上；达到（某一水平等）；参与，涉及；处理，做（某事）；（在脸上）闪现，掠过；轻轻击（球）；具有……特性；<非正式>向（某人）讨要（物品）；跑垒得分；（几何）与（曲线，表面）切触；（用画笔、铅笔）轻轻勾勒
-n. 触觉，触感；触摸，碰；触摸时的感觉；润色，装点；作风，风格，手法；一点儿，少许；略微，稍微；边线以外的区域；触球，控球；（音乐家的）触键法，弹奏法；（乐器键、弦的）弹性，弹力；（钢笔、铅笔等的）轻触；转调较少的钟乐
+v. 触摸，碰；接触，触及；损坏，伤害；吃，喝，使用；感动，触动；影响，与……有关；与……媲美，比得上；达到（某一水平等）；参与，涉及；处理，做（某事）
+n. 触觉，触感；触摸，碰；触摸时的感觉；润色，装点；作风，风格，手法；一点儿，少许；略微，稍微；边线以外的区域；触球，控球；（音乐家的）触键法，弹奏法
 [例]
 1.No! Don't touch it! It's hot. 别！别碰它！很烫。
 2.She recoiled from his touch. 她躲开他的触摸。
@@ -7496,8 +7389,8 @@ n. 城镇，市镇； （生活、工作或刚提到的）城镇；（城镇的�
 [联]town (城镇) + -ville (法语后缀，表示村庄或小镇) ——> 小镇
 
 trail / treɪl /
-n. 痕迹，踪迹；（人或动物的）足迹，嗅迹；（乡间的）小路，小径；（特定）路线，路径；一系列（坏事或有害事件）；（尤指细长）一缕，一串；<美>滑雪坡，滑雪道，越野滑雪路线；电影或广播的预告片；（炮架的）架尾
-v. 拖，拉；没精打采地走，拖沓地走；（在竞赛或选举中）落后，输；跟踪，追踪；蔓生，蔓延，被搁置；垂下；慢慢移动，缓缓流动；（声音，喇叭）渐弱；事先宣传，预告（影片，节目等）；喷注（泥釉）
+n. 痕迹，踪迹；（人或动物的）足迹，嗅迹；（乡间的）小路，小径；（特定）路线，路径；一系列（坏事或有害事件）；（尤指细长）一缕，一串
+v. 拖，拉；没精打采地走，拖沓地走；（在竞赛或选举中）落后，输；跟踪，追踪；蔓生，蔓延，被搁置；垂下；慢慢移动，缓缓流动
 [例]
 1.The trail starts just outside the town. 足迹从刚出城的地方开始。
 2.He was following a trail through the trees. 他正沿着一条崎岖小路穿过树林。
@@ -7521,7 +7414,7 @@ n. 开拓者；开路的人；先驱者
 [联]trailblazer (开拓者) + trail (小径，踪迹) + blazer (开拓者) ——> 开辟小径的人
 
 trailer / ˈtreɪlər /
-n. 拖车，挂车；（卡车或货车的）载货挂车；<美>旅行拖车，活动房屋；（电影或电视节目的）预告片；无篷大车；运船平底驳船；拖尾物，蔓生物（尤指蔓生植物）；追踪者
+n. 拖车，挂车；（卡车或货车的）载货挂车；<美>旅行拖车，活动房屋；（电影或电视节目的）预告片；无篷大车；运船平底驳船；拖尾物，蔓生物（尤指蔓生植物）
 v. 预告（电影，节目）；用拖车运输；乘拖车式活动房屋旅行
 [例]
 1.Driving a tractor-trailer is not an easy job. 驾驶一辆牵引式挂车不是一项容易的工作。
@@ -7557,7 +7450,6 @@ n. 锐利；鲜明
 [例]
 1.It echoes trenchancy to realism as well as complements and perfects relating theory. 这既是对客观现实的有力呼应，也是对相关理论的有益补充和完善。
 [搭]
-
 [联]trench (战壕) + ancy (后缀，表示状态或性质) ——> 战壕的状态或性质
 
 trenchant / ˈtrentʃənt /
@@ -7601,7 +7493,7 @@ n. 扭动，转动；弯曲处，拐弯处；转折，变化；螺旋形物体�
 2.TWIST LEG 扭脾扭脚；扭髀；扭髀扭脚；左右裤筒不对称
 3.Operation Twist 扭转操作；扭曲操作；卖短债买长债；扭转操纵
 4.twists and turns 迂回曲折
-5.twist drilln.  麻花钻；螺旋钻
+5.twist drill 麻花钻；螺旋钻
 6.twist and turn 迂回曲折
 [联]twist (扭曲，捻转) + wire (电线) ——> 扭曲的电线
 
@@ -7615,7 +7507,6 @@ n. 旋风，龙卷风；骗子，不老实的人；旋转球；缠绕者
 1.Tongue Twister 英文绕口令；饶口令
 2.mersenne twister 梅森旋转算法；随机数生成；马其赛特旋转；其赛旋转
 3.tongue-twister 绕口令；拗口令
-4.tongue twister 绕口令
 [联]twist (扭曲) + ister (表示人或物的后缀) ——> 扭曲者
 
 undertake / ˌʌndərˈteɪk /
@@ -7722,7 +7613,7 @@ n. 烦恼，失望；肠胃不适；爆冷门；混乱，麻烦；翻倒，颠�
 3.upset welding 电阻对接焊；端压焊接；电阻对焊接；电阻对焊
 4.upset stomach 肚子痛
 5.get upset 伤心；感到不安
-6.stomach upsetn.  肠胃不适，消化不良
+6.stomach upset 肠胃不适，消化不良
 [联]up (向上) + set (放置) ——> 将东西向上放置时感到不安或烦恼
 
 urge / ɜːrdʒ /
@@ -7758,11 +7649,10 @@ adj. 紧急的，急迫的；急切的，催促的；<正式>（尤指某人的�
 3.I have some urgent business to attend to. 我有一些急事要处理。
 [搭]
 1.Urgent care 紧急护理；紧急救护；应急诊所
-2.Urgent need 迫切需要；急需；急需的；迫切需求
+2.urgent need 迫切需要；急需；急需的；迫切需求
 3.urgent a 紧迫的；意为；紧急的；急迫的
-4.urgent need 迫切需要
-5.extremely urgent 迫在眉睫
-6.urgent message 加急电报，紧急通知
+4.extremely urgent 迫在眉睫
+5.urgent message 加急电报，紧急通知
 [联]ur + gent ——> 紧急的，急迫的
 
 urgently / ˈɜːdʒəntli /
@@ -7797,7 +7687,7 @@ n. 证实，证明，核实；（哲）（通过实证方法对命题）证实�
 3.But deeper verification is lacking. 但是还缺乏更深的验证。
 [搭]
 1.formal verification 形式验证；形式化验证；正式验证； 数  形式证明
-2.Functional verification 功能验证
+2.functional verification 功能验证
 3.cancel after verification 核销；及核销单
 4.experimental verification 实验验证；实验性鉴定
 5.verification process 验实过程，验证过程
@@ -7840,7 +7730,7 @@ n. 震动，颤动，抖动；<非正式>（情感）感应，共鸣
 2.Vibration Damper 减震器；减振器；振动阻尼器；振动衰减器
 3.vibration test 振动试验；震动测试；振动实验
 4.vibration control 振动控制；防振
-5.vibration isolation[机]隔振
+5.vibration isolation [机]隔振
 6.vibration frequency 频率；振动频率；波动频率
 [联]vib (颤动) + ration (比例，合理安排) ——> 颤振，振动
 
@@ -7899,8 +7789,8 @@ n. 旋转，回旋； 纷繁，忙乱；晕眩；螺旋状的糖果（或饼干�
 3.Planets are believed to emerge from the accretion of particles in a disk of gas and dust as they whirl around the star. 行星被认为是由围绕恒星旋转的气体和尘埃组成的圆盘中的粒子累积而成。
 [搭]
 1.whirl gate 回旋浇口；离心集渣浇口；急漩口
-2.Axial whirl 轴向涡流
-3.Oil Whirl 油膜涡动；油膜振荡；旋转油膜
+2.axial whirl 轴向涡流
+3.oil whirl 油膜涡动；油膜振荡；旋转油膜
 4.in a whirl 混乱的；在旋转中
 5.give it a whirl[美国口语]尝试，试一试
 [联]vortex (旋转，涡流) + movement (运动) ——> 旋转运动
@@ -7927,7 +7817,7 @@ v. 吹口哨，用口哨吹奏（曲调）；（向某人）吹口哨（以唤�
 3.The whistle went for no side. 一声哨响比赛结束。
 [搭]
 1.Whistle Of The Wind 风的呢喃；风之声；风的喃呢；下载地址
-2.air whistle 船  气笛；空气笛
+2.air whistle 气笛；空气笛
 3.Whistle Down the Wind 微风轻哨；白费唇舌；放弃
 4.blow the whistle 告发；揭发
 5.clean as a whistle 擦得净亮
@@ -7953,12 +7843,10 @@ n.（湿）抹布，纸巾；擦，拭，擦净；划变
 2.I tried to wipe the whole episode from my mind. 我设法把这整个经历从心中抹掉。
 3.You can never wipe out the past. 你永远不能把过去一笔勾销。
 [搭]
-1.wipe out 彻底摧毁；擦净；擦去
-2.wipe off 擦掉；还清
+1.wipe out 消灭，彻底摧毁；垮台；（滑雪等时的）翻倒；[电信]封闭
+2.wipe off 除去；还清；洗刷
 3.Wipe Battery Stats 清空电池状态；清除电池数据；擦拭电池统计；清楚电池信息
-4.wipe out 消灭，彻底摧毁；垮台；（滑雪等时的）翻倒；[电信]封闭
-5.be wiped out[美国俚语]
-6.wipe off 除去；还清；洗刷
+4.be wiped out [美国俚语]
 [联]wipe (擦掉) + cloth (布) ——> 用布擦掉
 
 wiper / ˈwaɪpə(r) /
@@ -7970,14 +7858,12 @@ n. 擦拭之物；弧刷；滑动片；擦拭者；手帕；接帚，接触电�
 [搭]
 1.windscreen wiper 雨刷；雨刮器；挡风玻璃刮水器；风档刮水器
 2.wiper motor 刮水器电机；刮水器电动机； 电  刮水电动机；雨刮马达
-3.Air wiper 压缩空气式刮水器；空气擦拭器
-4.wiper motor 刮水器电机
-5.wiper blade 雨刮器，雨刷；刮水片
-6.windscreen wiper 挡风玻璃刮水器；风档雨雪刷
+3.air wiper 压缩空气式刮水器；空气擦拭器
+4.wiper blade 雨刮器，雨刷；刮水片
 [联]windshield (挡风玻璃) + sweep (扫除) ——> 用于扫除挡风玻璃上的雨水或灰尘的刮水器
 
 wish / wɪʃ /
-v. 希望（做某事），想要（某事发生）；祝，祝愿（某人好运、幸福等）；愿望，心愿；希望（不可能或可能性很小的事变成事实）；真希望（用于表示对做过某事或未做某事感到后悔或失望）；（用来表示对某人行为的厌烦）我希望……；（用于要说的话可能使人不快或担心等时）不想，无意；这是再好不过的，没有比这更好的了；希望……发生在……身上
+v. 希望（做某事），想要（某事发生）；祝，祝愿（某人好运、幸福等）；愿望，心愿；希望（不可能或可能性很小的事变成事实）
 n. 希望，愿望；（靠魔术实现的）愿望，心愿；（书信或贺卡等中的）祝愿，祝福（wishes）；想要的东西，希望的事；请求，要求
 [例]
 1.I wish you'd take me seriously. 我希望你认真对待我的话。
@@ -7999,10 +7885,9 @@ adj. 渴望的；一厢情愿的
 2.I've got a feeling that Alex likes me, but that might just be wishful thinking. 我有一种感觉：亚历克斯喜欢我。
 3.Hope, for Bloch, has its starting point in fear, in uncertainty, and in crisis: it is a creative force that goes hand in hand with utopian "wishful images". 在布洛赫的理念里，希望起于恐惧、未知和危机：它是一种创造力，同乌托邦式“希望的愿景”相辅相成。
 [搭]
-1.Wishful thinking 如意算盘；一厢情愿；痴心妄想；胡思乱想
-2.Wishful milenio 千禧愿；千喜愿
-3.A Wishful Way 跳房子；原唱田原；冰鉴；奢望中的天路
-4.wishful thinkingn.  如意算盘；痴心妄想
+1.wishful thinking 如意算盘；一厢情愿；痴心妄想；胡思乱想
+2.wishful milenio 千禧愿；千喜愿
+3.a Wishful Way 跳房子；原唱田原；冰鉴；奢望中的天路
 [联]wishful (满怀希望的) + ful (形容词后缀) ——> 充满期待的
 
 worship / ˈwɜːrʃɪp /
@@ -8015,10 +7900,9 @@ n. 敬神，拜神；崇拜，爱慕；<英> 阁下（对地位高的人的尊�
 [搭]
 1.money worship 拜金主义；拜金主意；拜金
 2.muscle worship 肌肉崇拜
-3.nature worship 自然崇拜
-4.nature worship◎自然崇拜，对自然现象的顶礼膜拜
-5.money worship 拜金主义
-6.ancestor worship 祖先崇拜；祭祖；敬奉祖先
+3.nature worship 自然崇拜，对自然现象的顶礼膜拜
+4.money worship 拜金主义
+5.ancestor worship 祖先崇拜；祭祖；敬奉祖先
 [联]worship (崇拜) + ship (状态，性质) ——> 崇拜的状态
 
 wrap / ræp /
@@ -8032,9 +7916,8 @@ n. 披肩，围巾； 包裹（或包装）材料；宽松外套，浴衣；面�
 1.plastic wrap 保鲜纸；塑料包装；保鲜膜；塑包效果
 2.word wrap 自动换行；词语换行；主动换行；自动折行
 3.wrap up 包起来；席卷而去；包好；裹紧
-4.wrap up 伪装；使全神贯注；穿暖和的衣服
-5.under wraps 不公开的；秘密的
-6.wrap aroundadj.  卷绕的，环绕的
+4.under wraps 不公开的；秘密的
+5.wrap around 卷绕的，环绕的
 [联]w (向上的箭头，代表方向) + rap (快速的) ——> 快速向上包裹
 
 wrapper / ˈræpər /
@@ -8059,8 +7942,7 @@ v. 怀念，渴望
 1.yearn for 渴望；心向往之；非常想念
 2.yearn towards 想念；娅妮；忖量
 3.Yearn in Dream 梦里相思
-4.yearn for 渴望
-5.yearn towards 向往…；想念
+4.yearn towards 向往…；想念
 [联]yearn (渴望，向往) + heart (心脏) ——> 渴望之心
 
 yearning / ˈjɜːnɪŋ /

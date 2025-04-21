@@ -219,7 +219,6 @@ adj. 第十二的；第十二个的
 [例]
 1.Company of American country semiconductor is the United States supplier of conductor of the 4th most, world rank is dozenth . 美国国家半导体公司是美国第四大半导体供给厂商，世界排名第十二。
 [搭]
-
 [联]dozen (十二) + th (序数词后缀) ——> 第十二
 
 duration / djuˈreɪʃn /
@@ -356,7 +355,7 @@ adv. 直接地
 [联]first (第一的) + hand (手) ——> 第一手
 
 firstly / ˈfɜːstli /
-adv. （用于引出一系列陈述）首先，第一
+adv.（用于引出一系列陈述）首先，第一
 [例]
 1.There are two reasons for this decision: firstly. . . 做此决定理由有二：第一…《牛津词典》。
 2.It makes you look firstly at how you're treated and secondly how you treat everybody else. 它让你首先看别人怎样对待你，其次看你怎样对待别人。
@@ -384,7 +383,7 @@ adv. 首先，第一；最基础地，最重要地
 former / ˈfɔːmə(r) /
 adj. 旧时的；以前的，前……；（两者中）前者的
 n. 模子，模型；形成某事的人（或事）；线圈架，绕线模；（机翼、机身的）翼肋
-pron. （两者中的）前者
+pron.（两者中的）前者
 [例]
 1.The former option would be much more sensible. 前一种选择要明智得多。
 2.Her article showed no charity towards her former friends. 她的文章对她以前的朋友毫不宽容。
@@ -618,7 +617,6 @@ adj. 中世纪的；<非正式>非常老派的，极其过时的
 medievalism / ˌmidɪˈivəlɪzəm /
 n. 中世纪精神；中世纪性质
 [例]
-
 [搭]
 1.New Medievalism 新中世纪主义
 2.neo-medievalism 新中世纪主义
@@ -831,7 +829,7 @@ n. 黄昏；傍晚；日暮
 
 nightingale / ˈnaɪtɪŋɡeɪl /
 n. 夜莺
-n. （Nightingale）人名；（英）奈廷格尔
+n.（Nightingale）人名；（英）奈廷格尔
 [例]
 1.Poor Jorindel saw the nightingale was gone—but what could he do?可怜的约雷德尔看到夜莺不见了——可他又能怎么办呢？。
 2.Florence Nightingale was a nurse who saved many people in the 19th century. 弗洛伦斯·南丁格尔是一名护士，她在19世纪救了很多人。
@@ -937,7 +935,6 @@ n. <美>烫发
 3.permanent resident 永久居民；长期定居者
 4.permanent magnet 永久磁铁
 5.permanent residence 长期居留
-6.permanent resident 永久性居民
 [联]per (每) + manent (坚持的) ——> 永恒的
 
 permanently / ˈpɜːmənəntli /
@@ -960,12 +957,11 @@ adj. 在先的，前面的
 2.The ruling set a precedent for future libel cases. 这项裁决为今后的诽谤案提供了判例。
 3.The trial could set an important precedent for dealing with similar cases. 这次审判能为处理类似案件开创一个重要先例。
 [搭]
-1.Condition precedent 先决条件；前提条件
+1.condition precedent 先决条件；前提条件
 2.binding precedent 具有约束力的判例；有约束力的判例；有约束力的先例
 3.precedent partner 首合伙人；需由首席合伙人
 4.judicial precedent 司法判例
-5.condition precedent 先决条件
-6.conditions precedent 先决条件
+5.conditions precedent 先决条件
 [联]precedent (先例，前例) + -ent (形容词后缀) ——> 先例，前例
 
 precedential / ˌpresɪˈdenʃəl /
@@ -991,9 +987,9 @@ v. 在……之前发生（或出现）；走在……前面（precede 的现在
 [联]pre (之前) + ceding (与cede“让步、放弃”相关，这里可理解为“让出”) ——> 先前的、在……之前的
 
 present / ˈprez(ə)nt; prɪˈzent /
-adj. （人）在场的，出席的；（事物）存在的；现在的，目前的；考虑中的，正在讨论的；（语法）现在时（态）的；历历在目的
+adj.（人）在场的，出席的；（事物）存在的；现在的，目前的；考虑中的，正在讨论的；（语法）现在时（态）的；历历在目的
 n. 现在，目前；礼物，赠品；（语法）现在时；（举枪的）瞄准（姿势）
-v. 颁发，赠送；出示（护照等供检查）；正式提交（支票，账单）；<正式> 正式引见，介绍；正式出席，到场；引起，造成；<正式>表达（歉意等）；提出，陈述；上映，播出；展示，表现；<英> 主持（广播或电视节目）；把……对准；<医>（病人）呈现症状
+v. 颁发，赠送；出示（护照等供检查）；正式提交（支票，账单）；<正式> 正式引见，介绍；正式出席，到场；引起，造成；<正式>表达（歉意等）；提出，陈述
 [例]
 1.Her letters conflate past and present. 她的信把过去与现在结合在一起。
 2.She chose the present with loving care. 她满怀爱意精心挑选了这件礼物。
@@ -1008,7 +1004,7 @@ v. 颁发，赠送；出示（护照等供检查）；正式提交（支票，�
 [联]present (礼物) + -ent (形容词后缀) ——> 当前的、出席的
 
 presentation / ˌpriːz(ə)nˈteɪʃ(ə)n /
-n. （颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示；（证物的）提交，提供；（戏剧的）演出；（胎儿的）先露位置，产位；（尤指在帝王前）正式引见，引……朝见；<史>（圣职等的）推荐
+n.（颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示
 [例]
 1.A computer software glitch fouled up their presentation. 一个电脑软件故障弄砸了他们的展示会。
 2.I am making a multimedia presentation for my science project. 我正在为我的科学项目做多媒体演示。
@@ -1017,9 +1013,8 @@ n. （颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的�
 1.Presentation Layer 计  表示层；表现层；表达层
 2.Cross-presentation 交叉呈递；交叉提呈；交叉递呈
 3.oral presentation 口头报告；口头陈述；口头演讲；口头发言
-4.oral presentation 口头报告；口头陈述；口头演讲
-5.presentation skilln.  演讲技巧；表达技巧
-6.visual presentation 视觉显示；可视图像
+4.presentation skill 演讲技巧；表达技巧
+5.visual presentation 视觉显示；可视图像
 [联]pre (之前) + sent (发送) + ation (名词后缀) ——> 在之前发送的东西
 
 prior / ˈpraɪər /
@@ -1034,8 +1029,7 @@ n. <美，非正式>犯罪前科；小修道院院长；大修道院副院长；
 2.prior to 在前；居先；先于
 3.prior art 现有技术；先有技术；先技术
 4.prior notice 事先通知；预先通报
-5.prior art 先前技术
-6.prior approval 事先批准；预先审批；事前批准；事前许可；预先核准
+5.prior approval 事先批准；预先审批；事前批准；事前许可；预先核准
 [联]prior (优先的) + ity (名词后缀) ——> 优先级
 
 prioritize / praɪˈɔːrətaɪz /
@@ -1103,7 +1097,7 @@ adv. 准时地，如期地
 [联]punct (点) + u + ctually (实际上) ——> 准时地
 
 quarter / ˈkwɔːrtər /
-n. 四分之一；一刻钟，十五分钟；季度，三个月；<美>学季，四分之一学年；（城镇中的）区；个人，群体；（士兵、服务人员等的）营房；上弦（或下弦）月；（美式足球的）一节；（美国和加拿大的）二十五分硬币；四分之一磅；（对败者的）宽恕，仁慈；四分之一畜体（或鸟身）；（马的）腰腿，臀部及后腿（quarters）；（罗盘上四个点之一所指的）方向；船侧后部；盾的四分之一
+n. 四分之一；一刻钟，十五分钟；季度，三个月；<美>学季，四分之一学年；（城镇中的）区；个人，群体；（士兵、服务人员等的）营房；上弦（或下弦）月
 v. 将……四等分；把……降至原先的四分之一；提供食宿；在（某处）来回走动；移动，斜向行进；展示，炫耀（盾的四分之一部位上的不同纹章）
 adj. 四分之一的
 [例]

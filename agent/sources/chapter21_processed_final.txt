@@ -173,15 +173,6 @@ n. 剧痛，创痛；痛楚，苦难
 6.agony aunt（英）问答专栏阿姨；心理咨询阿姨
 [联]agony (痛苦， agony) ——> a + go + ny ——> 一种像“一去不返”的痛苦感觉
 
-agreeability / əˌɡriːəˈbɪlɪtɪ /
-约定性
-[例]
-1.In the pool, she must have been giddy with agreeability. 泳池里的她肯定因为温顺而显得轻浮。
-2.But once you're gainfully employed, you go along to get along, thinking your boss will appreciate your agreeability. 但当你富有成效地找到了工作，你便习惯与他人搞好关系，幻想着老板总会欣赏你的世故。
-[搭]
-
-[联]a (一个) + gree (同意) + ability (能力) ——> 同意的能力
-
 agreeable / əˈɡriːəb(ə)l /
 adj. 愉悦的，讨人喜欢的；欣然同意的；可接受的
 [例]
@@ -380,8 +371,7 @@ adj.（与）抗生素（有关）的，（与）抗菌素（有关）的
 [联]anti (反对) + biotic (生命的) ——> 抗菌的
 
 anxieties / æŋˈzaiətiz /
-担心
-渴望
+n. 担心，渴望
 [例]
 1.Our anxieties can also be controlled by isolating thoughts, feelings and memories. 我们的焦虑也可以通过对思想、感情和记忆分别进行考虑来加以控制。
 2.Parental anxieties reflect their circumstances. 父母的焦虑反映了他们的处境。
@@ -584,7 +574,6 @@ arterialize / ɑːˈtɪərɪəlaɪz /
 v. 化为动脉血
 [例]
 1.adj. arterial[解剖] 动脉的；干线的；像动脉的 arteriolar 小动脉的 arteriosclerotic 动脉硬化的。
-2.n. artery 动脉；干道；主流 arteriole[解剖] 小动脉；细动脉 arteriosclerosis[内科] 动脉硬化 arteriectasis 动脉扩张 arteriogram 动脉波；动脉脉搏图；动脉搏描记图 arteriography 动脉 X 线摄影法 arteritis[内科] 动脉炎。
 [搭]
 1.to arterialize 动脉化
 [联]arter (动脉) + ialize (使具有...) ——> 使具有动脉的特性
@@ -610,7 +599,6 @@ n. [外科] 关节炎患者
 [例]
 1.I developed serious arthritic symptoms and chronic sinusitis. 我有了严重的关节炎症状和慢性鼻窦炎。
 2.I've found that my handwork with yarn has helped my arthritic fingers remain more dexterous as I age. 我发现，随着年龄的增长，我用纱线做手工使患有关节炎的手指变得更加灵活了。
-3.I've found that my handiwork with yarn has helped my arthritic fingers remain more dexterous as I age. 我发现，尽管年龄在增长，用纱线做手工让我患有关节炎的手指变得更加灵活了。
 [搭]
 1.arthritic psoriasis 关节病型银屑病；牛皮癣性关节炎；白疕；银屑病关节炎
 2.Arthritic knee 细胞死亡；细胞外基质
@@ -647,14 +635,13 @@ adj. 感到羞愧，感到羞耻；羞于（做某事）
 [联]ashamed (羞愧的) + ame (同音词，意为爱慕) ——> 因爱慕而感到羞愧
 
 ashamedly / əˈʃeɪmɪdlɪ /
-不好意思地
+adj. 不好意思地
 惭愧地
 [例]
 1.I ashamedly smile and replied to come over, this mongols is really brave!我不好意思地笑着，接了过来，这蒙古人真的是豪迈啊！。
 2.Li Jia's madam smells the speech cause reserve spirit lusty ground to Liu Jia madam's lo, Liu Jia's madam but some ashamedly lest to take a glimpse. 李家夫人闻言理直气壮地给刘家夫人瞧，刘家夫人却有些不好意思地避过眼去。
 3.Chu Zhong is some to deelpy ashamedly and literally quest causative, the words of heart this whether the fact actually says to don't let people's joke dead tin not. 楚仲有些汗颜的随便找了个理由，心的话这要是实话实说非让人笑话死不可。
 [搭]
-
 [联]ashamed (羞愧的) + -ly (副词后缀) ——> 羞愧地
 
 asleep / əˈsliːp /
@@ -989,14 +976,6 @@ adj. 生物节律的：与生物体内的周期性生理现象有关的。
 [搭]
 1.biorhythmic training method 生物节奏训练法
 [联]bio (生命) + rhythmic (有节奏的) ——> 生物节律
-
-biorhythmics / ˌbaɪəʊˈrɪðmɪks /
-n. 生物节律学
-[例]
-1.BiorhythmicsA biorhythm (from Greek βίος - bios, "life" and ῥυθμός - rhuthmos, "any regular recurring motion, rhythm") is an attempt to predict various aspects of a person's life through simple mathematical cycles.  Most scientists believe that the idea has no more predictive power than chance and consider the concept an example of pseudoscience. 。
-[搭]
-
-[联]bio (生命) + rhythm (节奏) + ics (学科) ——> 生物节律学
 
 bleed / bliːd /
 v. 流血，出血；给……放血；散开，渗开，渗透；榨取（钱财）；（金钱）不断流失，持续损失；抽掉（气体或液体）；印成出血版
@@ -1391,7 +1370,7 @@ v. 描述，刻画；成为……的特征，是……的典型
 [例]
 1.How would you characterize them?你会如何描述他们？。
 2.The piercing cries of the rhinoceros hornbill characterize the Southeast Asian rain forest, as do the unmistakable calls of the gibbons. 犀鸟刺耳的鸣叫，和长臂猿那不会被认错的叫声，象征着东南亚雨林。
-3.How does one characterize Benjamin Franklin?怎么描绘本杰明·富兰克林（Benjamin Franklin）呢？。
+3.How does one characterize Benjamin Franklin? 怎么描绘本杰明·富兰克林（Benjamin Franklin）呢？。
 [搭]
 1.typify characterize 代表
 2.be characterize by 有的特点；被描述的
@@ -1602,9 +1581,8 @@ adj.（疾病）慢性的，长期的；（问题）一直有的，反复出现�
 1.Chronic bronchitis 慢性支气管炎；气管炎；性支气嗓炎；支气管炎
 2.Chronic inflation 慢性通货膨胀；长期通货膨胀
 3.chronic disease 慢性病；顽疾；痼疾
-4.chronic disease[医]慢性病
+4.chronic bronchitis 慢性支气管炎
 5.chronic renal failure 慢性肾功能衰竭；慢性肾衰竭
-6.chronic bronchitis 慢性支气管炎
 [联]chronic (慢性的) + disease (疾病) ——> 慢性病
 
 chronical / ˈkrɒnɪkəl /
@@ -1777,7 +1755,7 @@ n. 司空见惯的事，常见的东西；老生常谈，陈词滥调
 [联]com (共同) + mon (命令) + place (地方) ——> 普通的地方
 
 commonwealth / ˈkɒmənwelθ /
-n. 国家，独立的政治共同体（尤指民主共和国）；英联邦（the Commonwealth）；界，组织；（自愿加入美国的）自治政区，自治政体（如波多黎各）；（美国的）州（尤指肯塔基、马萨诸塞、宾夕法尼亚和弗吉尼亚）；（澳大利亚）联邦；<古>公益
+n. 国家，独立的政治共同体（尤指民主共和国）；英联邦（the Commonwealth）；界，组织；（自愿加入美国的）自治政区，自治政体（如波多黎各）
 [例]
 1.The prime minister of Fiji has said Fiji is in no hurry to rejoin the Commonwealth. 斐济总理称斐济并不急于重返英联邦。
 2.Britain has announced that it is to cancel about 200 million pounds' worth of debts owed to it by poorer Commonwealth countries. 英国宣布将免除英联邦内较为贫穷的国家欠下的约2亿英镑债务。
@@ -1848,7 +1826,7 @@ n. 共同统治；财产共有权；独立产权的公寓
 [联]condo (合作) + minium (最小的) + ium (抽象名词后缀) ——> 共管公寓
 
 cone / koʊn /
-n. 圆锥体；圆锥形物；锥形路标；（松树或冷杉的）球果；（盛冰淇淋的）锥形蛋卷筒，蛋筒冰激凌；视锥细胞；圆锥形山脉（或山峰）（尤指）火山锥；锥体，锥面；（在既定温度下融化的，用以测量窑温的）测温锥，示温锥；芋螺（=cone shell）；（尤指啤酒花藤的）球花
+n. 圆锥体；圆锥形物；锥形路标；（松树或冷杉的）球果；（盛冰淇淋的）锥形蛋卷筒，蛋筒冰激凌；视锥细胞；圆锥形山脉（或山峰）（尤指）火山锥；锥体，锥面
 v. <英>用锥形交通路标分隔（或标明）道路（cone sth.  off）；使成锥形
 [例]
 1.In one week he was the owner of a cone five hundred feet high. 一个星期之内，他拥有了一个500英尺高的圆锥体。
@@ -2428,7 +2406,6 @@ adv. 有害地；不利地
 2.A particularly difficult set of well conditions that may detrimentally affect steel, elastomers, mud additives, electronics, or tools and tool components. 特别困难的井眼条件，可能会有害地影响钢材、合成橡胶、泥浆添加剂、电子产品、或者工具和工具部件。
 3.Just because you might not smoke and hit the gym regularly, that doesn't mean there's not another sneaky habit that is detrimentally affecting your health without you even knowing. 就算你可能不吸烟，并定期去健身房，那也并不意味着你没有影响你健康，甚至你都不知道的坏习惯。
 [搭]
-
 [联]det + riment + ally ——> 像导致衰退一样地
 
 diabetes / ˌdaɪəˈbiːtiːz /
@@ -2710,7 +2687,6 @@ adj. 苦恼的，不幸的
 2.They were distressful memories to her. 它们都是使她感到悲伤的回忆。
 3.Shy sweetness of meeting, the same distressful tears of farewell. 分享著初相遇时羞涩的甜蜜，再见时不舍的泪花。
 [搭]
-
 [联]distress (痛苦) + ful (形容词后缀，表示充满...) ——> 充满痛苦的
 
 distressing / dɪˈstresɪŋ /
@@ -2924,7 +2900,6 @@ dumbass / dʌmˈbæs /
 笨蛋
 傻子
 [例]
-
 [搭]
 1.Dumbass Drivers 笨蛋司机
 2.dumbass stupid sorry ass 可怜人
@@ -4984,7 +4959,7 @@ adj. 极其严重的，使人痛苦的
 [例]
 1.He had been the victim of a grievous injustice. 他曾遭受极不公正的待遇。
 2.He survived in spite of suffering grievous injuries. 尽管遭受重伤，他仍然活下来了。
-3.Mr.  Morris said the victims had suffered from a very grievous mistake. 莫里斯先生说受害者们为一个非常严重的失误而受苦。
+3.Mr. Morris said the victims had suffered from a very grievous mistake. 莫里斯先生说受害者们为一个非常严重的失误而受苦。
 [搭]
 1.General Grievous 格里弗斯将军；葛瑞费斯将军；格雷沃斯将军；葛里维斯将军
 2.Too grievous 太委屈
@@ -5537,7 +5512,6 @@ adj. 无害的；不会受伤的
 2.At present, the hurtless treatment for chrome slag is undergoing in many chromate plants in China. 目前，许多铬盐厂正在进行铬渣无害化处理，速度快的已基本完成。
 3.There are a lot of pictures on the page is hurtless, want them not to push a written language only. 页面上有很多图片是无害的，只要它们不挤走文字。
 [搭]
-
 [联]hurt (伤害) + less (无，没有) ——> 无伤的
 
 hygiene / ˈhaɪdʒiːn /
@@ -5851,9 +5825,7 @@ adj. 冷淡的，不关心的；中等的，平庸的；一般的，相当差的
 indifferentism / ɪnˈdɪfrənˌtɪzəm /
 n. 冷淡主义；信仰无差别论
 [例]
-
 [搭]
-
 [联]in (不，无) + different (不同的) + ism (主义) ——> 对事物无差别的态度主义
 
 indifferently / ɪnˈdɪfrəntli /
@@ -5941,7 +5913,6 @@ n. 伤害者
 2.The phenomenon that the injurer only compensates limited damages commonly exists in reality, which is called as restrictive compensation. 在现实生活中大量存在加害人只在一定的限额内承担赔偿责任的现象，本文称之为限制性损害赔偿。
 3.Through establishing simple model, we analysis the moral hazard problem in different supervising levels of insurer and in different wealth levels of injurer. 本文主要研究了保险中的道德风险与保险人的监督水平以及致害人的财富水平之间的关系。
 [搭]
-
 [联]injurer (伤害者) + ure (表名词后缀) ——> 伤害者
 
 injurious / ɪnˈdʒʊəriəs /
@@ -6047,7 +6018,6 @@ adj. 患失眠症的，失眠的
 2.There was obvious effective for insomnious phobia with no response to other treatment. 门诊森田疗法对于其他治疗无效的失眠恐怖患者有一定疗效。
 3.Insomnious patient wants as far as possible the habit of seasonable go to bed when education is Mondayish. 失眠的病人要尽可能培养困倦时及时就寝的习惯。
 [搭]
-
 [联]insomnious (失眠的) +ious (形容词后缀) ——> 形容失眠的状态
 
 insult / ɪnˈsʌlt; ˈɪnsʌlt /
@@ -7659,7 +7629,6 @@ n. 俗世；宇宙
 [例]
 1.I think the core of this work is its interior conflict, that is the conflict between sanctity and mundaneness. 我认为一件作品的活力在于它本身的内在矛盾，即神圣与世俗之间的矛盾。
 [搭]
-
 [联]monotonousness (单调) + commonness (普通，平凡) ——> 乏味的平凡
 
 mutual / ˈmjuːtʃuəl /
@@ -8386,7 +8355,6 @@ vt. 使开始运转；实施；使用于操作
 2.The analysts need to operationalize soft goals into implementable requirements. 分析人员需要将软目标转换为可实现的需求。
 3.It is about how you operationalize and subsequently capitalize on market opportunity. 它是关于您如何实施并且随后利用市场机会的。
 [搭]
-
 [联]operational (操作的) + ize (动词后缀) ——> 将操作概念化
 
 optimist / ˈɒptɪmɪst /
@@ -9371,7 +9339,6 @@ adv. 充满希望地；大有可为地
 2.The day began promisingly with bright sunshine. 晨曦灿烂，预示了一个大好的晴天。
 3.One of the consistent claims of books like these is that happiness is associated with all sorts of good life outcomes, including—most promisingly—good health. 这类书籍的一个一贯主张是，幸福与生活中各种美好的结果有关，包括——最有前景的——健康。
 [搭]
-
 [联]pro (向前地) + mising (失踪的) + ly (副词后缀) ——> 前向地
 
 proud / praʊd /
@@ -10982,7 +10949,6 @@ adv. 懒惰地，怠惰地
 [例]
 1.The clouds there were fairly white and light floating slothfully in the sky. 那里的云朵洁白，轻盈，慵懒地飘在空中。
 [搭]
-
 [联]sloth (懒惰) + fully (副词后缀) ——> 懒洋洋地
 
 slothfulness / ˈsləʊθfəlnəs /
@@ -11225,9 +11191,8 @@ adj. 自发的，非筹划安排的；（程序，事件）自发的，自然的
 1.spontaneous fission 核  自发裂变；自发分裂
 2.spontaneous combustion 自发燃烧； 热  自然燃烧
 3.spontaneous emission 自发辐射；自发射
-4.spontaneous combustion 自燃
+4.spontaneous abortion 自然流产；自发性流产
 5.spontaneous emission[电磁学]自发发射
-6.spontaneous abortion 自然流产；自发性流产
 [联]spontaneous (自发的，自然产生的) ——> sport (运动) + on + ious (形容词后缀) ——> 与运动有关的，形容某事物像运动一样自然而然发生
 
 spontaneously / spɒnˈteɪniəsli /
@@ -13468,7 +13433,6 @@ adj. 热心者的；狂热的；热心的
 [例]
 1.adj. 热心者的；狂热的；热心的 crazy/eager/wild/keen/enthusiastic。
 [搭]
-
 [联]zeal (热情) + otic (与...有关的) ——> 狂热相关的
 
 zealotry / ˈzelətri /
