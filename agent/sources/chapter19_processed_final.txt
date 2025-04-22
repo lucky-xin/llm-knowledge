@@ -102,7 +102,7 @@ n. 被任命者
 appointment / əˈpɔɪntmənt /
 n. 约会，约定；任命，委派；职务，职位；家具，陈设
 [例]
-1.When is your next appointment?你下一次预约时间是什么时候？《牛津词典》。
+1.When is your next appointment?你下一次预约时间是什么时候？。
 2.The appointment is at 3 p. m. 约会定于下午3点。
 3.He failed to keep the appointment. 他未履约。
 [搭]
@@ -162,7 +162,7 @@ v. 使贫穷，使匮乏；难以相信，无法相容
 [例]
 1.He tossed a penny to the beggar. 他扔给乞丐一便士。
 2.The soldier said, "Mind thy manners, thou young beggar!"士兵说：“注意你的举止，你这个小乞丐！”。
-3.Why should I beggar myself for you?我为什么要为你受穷？《牛津词典》。
+3.Why should I beggar myself for you?我为什么要为你受穷？。
 [搭]
 1.clever beggar 聪明的乞丐
 2.abject beggar 可鄙的乞丐
@@ -378,7 +378,7 @@ n. 编舞；舞蹈艺术；舞艺
 client / ˈklaɪənt /
 n. 客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客
 [例]
-1.Do you have a client named Peters?你们有一位名叫彼得斯的客户吗？《牛津词典》。
+1.Do you have a client named Peters?你们有一位名叫彼得斯的客户吗？。
 2.I have a client with me right now. 我现在有个客户。
 3.He lunched with a client at the Ritz. 他与一位客户在里茨饭店共进了午餐。
 [搭]
@@ -495,7 +495,7 @@ commute / kəˈmjuːt /
 v. 通勤，上下班往返；减轻（刑罚）；代偿；（两个运算，两个量）可交换
 n. 通勤，上下班交通路程
 [例]
-1.So how long is your commute?那么你上下班路程要花多长时间？《柯林斯英汉双解大词典》。
+1.So how long is your commute?那么你上下班路程要花多长时间？。
 2.People are prepared to commute long distances if they are desperate for work. 亟须得到工作的人会愿意长途乘车往返上下班。
 3.They were asked to predict whether they'd enjoy the commute more if they conversed with other people. 他们被要求预测如果与他人交谈，他们是否会更享受通勤。
 [搭]
@@ -672,7 +672,7 @@ coward / ˈkaʊərd /
 n. 胆小鬼，懦夫
 adj. <文>胆小的，怯懦的；（动物形象）夹着尾巴的
 [例]
-1.You coward! What are you afraid of?你这胆小鬼！你怕什么呢？《牛津词典》。
+1.You coward! What are you afraid of?你这胆小鬼！你怕什么呢？。
 2.'Coward!' a tiny inner voice insisted. “胆小鬼！”内心一个小声音坚持说。
 3.By attacking me, by attacking my wife, he has proved himself to be a gutless coward. 通过袭击我，袭击我妻子，他已经证明了自己是一个胆小的懦夫。
 [搭]
@@ -781,7 +781,7 @@ n. 亲爱的，宝贝；亲切友好的人；宠儿，红人
 adj. 亲爱的，心爱的；可爱的，迷人的
 [例]
 1.Come on, darling, we'll be late. 快点，亲爱的，我们要迟到了。
-2.What's the matter, darling?怎么啦，亲爱的？《牛津词典》。
+2.What's the matter, darling?怎么啦，亲爱的？。
 3.'Darling Henry,' the letter began. “亲爱的亨利”，信的开头这样写道。
 [搭]
 1.Darling Harbour 达令港；情人港；达伶港；达令海港
@@ -795,7 +795,7 @@ adj. 珍视的；(用于信函抬头名字或头衔前)亲爱的；昂贵的
 n.（称呼所爱的人）亲爱的
 int. 啊，天呐
 [例]
-1.Would you like a drink, dear?喝点什么吗，亲爱的？《牛津词典》。
+1.Would you like a drink, dear?喝点什么吗，亲爱的？。
 2.My dear girl, you're wrong. 我亲爱的姑娘，你错了。
 3.You're a lot like me, dear. 你和我太像了，亲爱的。
 [搭]
@@ -919,7 +919,7 @@ deputy / ˈdepjuti /
 n. 代理人，副手，副职；代表，议员；（美国协助地方治安官办案的）警官
 adj. 副的；代理的
 [例]
-1.Who has she designated (as) her deputy?她委任了谁为她的副手？《牛津词典》。
+1.Who has she designated (as) her deputy?她委任了谁为她的副手？。
 2.His brother was acting as his deputy in America. 他的兄弟充当他在美洲的代理人。
 3.By convention the deputy leader was always a woman. 按惯例，这一领导职务的副职总是由女性担任。
 [搭]
@@ -1067,7 +1067,7 @@ encounter / ɪnˈkaʊntər /
 v. 遭遇；偶遇，邂逅
 n. 偶遇，邂逅；经历，体验；冲突；比赛，交锋
 [例]
-1.Did you encounter anyone in the building?你在那栋大楼里偶然遇到什么人了吗？《柯林斯英汉双解大词典》。
+1.Did you encounter anyone in the building?你在那栋大楼里偶然遇到什么人了吗？。
 2.In high school, I was very unpopular, and I did encounter a little prejudice. 在中学，我很不受欢迎，确实遇到了一点偏见。
 3.Every day of our lives we encounter major and minor stresses of one kind or another. 生活中的每一天，我们会遇到或大或小的这样那样的压力。
 [搭]
@@ -1436,7 +1436,7 @@ v.（给动物）擦洗，刷洗；（动物为自己或另一动物）梳理毛
 n. 新郎；马夫；<英>王室侍从官
 [例]
 1.Guests toasted the bride and groom with champagne. 客人们以香槟为新娘新郎敬酒。
-2.I'd like to propose a toast to the bride and groom. 我提议为新郎新娘的幸福干杯！《牛津词典》。
+2.I'd like to propose a toast to the bride and groom. 我提议为新郎新娘的幸福干杯！。
 3.The head groom is responsible for seeing that Milton and his stablemates travel safely. 该马夫长负责确保密尔顿及其他来自同一养马场的赛马都能安全抵达。
 [搭]
 1.Bio-Groom 碧艾欧；拜奥美；傲农
@@ -1448,9 +1448,9 @@ n. 新郎；马夫；<英>王室侍从官
 haircut / ˈherkʌt /
 n. 理发；发型
 [例]
-1.Say, that's a nice haircut!啧啧，这个头发剪得很漂亮！《牛津词典》。
+1.Say, that's a nice haircut!啧啧，这个头发剪得很漂亮！。
 2.I see you've had a haircut. 我看得出你理发了。
-3.What do you think of my new haircut?你觉得我的新发型怎么样？《牛津词典》。
+3.What do you think of my new haircut?你觉得我的新发型怎么样？。
 [搭]
 1.Getting a Haircut 剪头发；去理发；理发
 2.a terrible haircut 一个糟糕的发型；可怕的发型；糟糕的发型；可怕的头型
@@ -1607,8 +1607,8 @@ host / hoʊst /
 n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体
 v. 主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站
 [例]
-1.Shall I take my host family a gift?我要不要给主人家带件礼物呢？《牛津词典》。
-2.Shall I take a gift to my host family?我要不要给主人家带件礼物呢？《牛津词典》。
+1.Shall I take my host family a gift?我要不要给主人家带件礼物呢？。
+2.Shall I take a gift to my host family?我要不要给主人家带件礼物呢？。
 3.Our host shook each of us warmly by the hand. 主人热情地和我们每个人握手。
 [搭]
 1.The Host 宿主；汉江怪物；怪物；骇人怪物
@@ -2142,7 +2142,7 @@ n.（公司、部门等的）经理；（艺人或运动员的）经纪人；（
 [例]
 1.The manager was fat and jolly. 经理胖乎乎乐呵呵的。
 2.I wish to speak to the manager. 我想跟经理说话。
-3.Did you see the manager himself?你见到经理本人了吗？《牛津词典》。
+3.Did you see the manager himself?你见到经理本人了吗？。
 [搭]
 1.General Manager 总经理；总经理介绍；总司理；总经理室
 2.Project Manager 项目经理；项目管理器；专案经理；工程管理器
@@ -2203,7 +2203,7 @@ n. 成员，一分子；会员；<英>议员；用于表示荣誉的头衔（尤
 [例]
 1.She is a life member of the club. 她是这个俱乐部的终身会员。
 2.He's a member of several London clubs. 他是伦敦几个男性俱乐部的会员。
-3.How much does it cost to become a member?要成为会员得花多少钱？《牛津词典》。
+3.How much does it cost to become a member?要成为会员得花多少钱？。
 [搭]
 1.member variable 成员变数
 2.Member of Parliament 议员；下院议员；下议院议员
@@ -2234,7 +2234,7 @@ vt. 错过，想念，缺（勤）
 [例]
 1.I miss thee, beloved father. 亲爱的父亲，我想念您。
 2.I miss my family very much. 我很想念我的家人。
-3.Will that be all, Miss?就这些吗，小姐？《牛津词典》。
+3.Will that be all, Miss?就这些吗，小姐？。
 [搭]
 1.Miss Universe 环球小姐；环球小姐大赛；宇宙小姐；举世蜜斯
 2.Miss World 世界小姐；世界蜜斯；世界小；世界小姐大赛
@@ -2405,7 +2405,7 @@ v. 做先锋，倡导；开辟（道路）
 prophecy / ˈprɒfəsi /
 n. 预言；预言能力
 [例]
-1.Will the teacher's prophecy be fulfilled?那位老师的预言会实现吗？《柯林斯英汉双解大词典》。
+1.Will the teacher's prophecy be fulfilled?那位老师的预言会实现吗？。
 2.She was believed to have the gift of prophecy. 据信她有预言的天赋。
 3.Fear of failure can become a self-fulfilling prophecy. 害怕失败可能真会导致失败。
 [搭]
@@ -2469,9 +2469,9 @@ n. 提议，建议；提案；（计划、建议等的）提出；求婚
 propose / prəˈpoʊz /
 v. 提议，建议；提出（理论或解释）；提名，推荐；计划，打算；求婚；（向立法机构或委员会）提交（动议）；提议祝（酒）
 [例]
-1.What do you propose to do now?现在你打算做什么？《牛津词典》。
-2.How do you propose getting home?你打算怎么回家？《牛津词典》。
-3.What would you propose?你想提什么建议？《牛津词典》。
+1.What do you propose to do now?现在你打算做什么？。
+2.How do you propose getting home?你打算怎么回家？。
+3.What would you propose?你想提什么建议？。
 [搭]
 1.propose a price 开价
 2.propose to do 打算做某事；打算
@@ -2497,7 +2497,7 @@ proposition / ˌprɑːpəˈzɪʃ(ə)n /
 n. 主张，观点；（尤指商业或政治上的）提议，建议；（美国的）法律修正案；欲做的事，待处理的问题；（数学或逻辑）命题；（尤指被视作有冒犯性的）性交提议，求欢
 v. 向（某人）提议；（尤指冒犯地）提出与……性交，向……求欢
 [例]
-1.How did you vote on Proposition 8?对于第8项修正案你是怎么投的票？《牛津词典》。
+1.How did you vote on Proposition 8?对于第8项修正案你是怎么投的票？。
 2.As a business proposition, it's a non-starter. 作为一份商业建议，它不可能取得成功。
 3.I'd like to put a business proposition to you. 我想向您提个业务上的建议。
 [搭]
@@ -2726,8 +2726,8 @@ n. 单曲唱片；（板球中的）一分打，（棒球中的）一垒打；�
 v. 挑选，选出；（棒球）击出一垒打；对（幼苗，幼树）进行间苗；将（铁轨）变成单线；以一垒打使（跑垒）得分
 [例]
 1.The single is titled "White Love. "这支单曲名为《白色之恋》。
-2.Are you still single?你还是单身吗？《牛津词典》。
-3.When will the single currency be operable?什么时候实行单一货币？《牛津词典》。
+2.Are you still single?你还是单身吗？。
+3.When will the single currency be operable?什么时候实行单一货币？。
 [搭]
 1.single room 单人房；单人间
 2.A Single Man 单身男人；单身男子；单身汉
@@ -3037,7 +3037,7 @@ n. 姓；绰号，别名
 v. 给······姓氏，给······起别名
 [例]
 1.He had anglicized his surname. 他已使他的姓氏英语化了。
-2.How do you spell your surname?你的姓怎么拼？《牛津词典》。
+2.How do you spell your surname?你的姓怎么拼？。
 3.Winters is a common enough surname. 温特斯是一个相当普通的姓。
 [搭]
 1.Last name Surname 填上你的名；填；姓
@@ -3151,7 +3151,7 @@ adj. 双胞胎的，孪生的；成对的，成双的；双重的，相关联的
 v. 使结成姐妹城市，使结成友好城市；使（两人或两事物）紧密结合，使相连；生双胞胎
 [例]
 1.I can't tell one twin from the other. 我分不出双胞胎中谁是谁。
-2.Can you tell Tom from his twin brother?你能分得出汤姆和他的孪生弟弟吗？《牛津词典》。
+2.Can you tell Tom from his twin brother?你能分得出汤姆和他的孪生弟弟吗？。
 3.People often confuse me and my twin sister. 人们常常把我和我的孪生妹妹搞错。
 [搭]
 1.twin prime 孪生素数；编曲

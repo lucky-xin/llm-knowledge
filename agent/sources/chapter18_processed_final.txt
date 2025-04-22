@@ -1103,7 +1103,7 @@ n. 停止
 [例]
 1.They voted to cease strike action immediately. 他们投票决定立即停止罢工。
 2.Heavy fighting erupted there today after a two-day cease-fire. 激烈的战斗在两天的停火之后今天在那里爆发了。
-3.You never cease to amaze me!你总能让我感到惊奇！《牛津词典》。
+3.You never cease to amaze me!你总能让我感到惊奇！。
 [搭]
 1.cease-fire 停火；停战；休战
 2.cease fire 停火；停战协议
@@ -1264,7 +1264,7 @@ n. <美>温暖的盖被
 comfortably / ˈkʌmftəbli； ˈkʌmfətəbli /
 adv. 舒服地；安乐地；充裕地
 [例]
-1.Are you sitting comfortably?你坐得舒服吗？《柯林斯英汉双解大词典》。
+1.Are you sitting comfortably?你坐得舒服吗？。
 2.She is comfortably cocooned in pillows. 她舒服地裹在一堆枕头里面。
 3.All the rooms were comfortably furnished. 所有的房间都配置了舒适的家具。
 [搭]
@@ -1450,7 +1450,7 @@ comprehension / ˌkɒmprɪˈhenʃ(ə)n /
 n. 理解力，领悟力；（听力或阅读）理解测试；包括，包含
 [例]
 1.This was utterly beyond her comprehension. 这完全超出了她的理解力。
-2.Is this test a good measure of reading comprehension?这种测试是判断阅读理解力的好方法吗？《牛津词典》。
+2.Is this test a good measure of reading comprehension?这种测试是判断阅读理解力的好方法吗？。
 3.It's a devastating and barbaric act that defies all comprehension. 这是毁灭性的野蛮行径，完全没有方法可理解。
 [搭]
 1.reading comprehension 阅读理解；阅读测验；阅读考试；第三部分阅读
@@ -1535,8 +1535,8 @@ n.（大型、正式的）会议，研讨会；（小型正式的）商讨，讨
 confirm / kənˈfɜːrm /
 v. 确定，确认；证实，证明；批准，认可；使坚定，加强；给（某人）施坚信礼
 [例]
-1.Can you confirm what happened?你能证实一下发生了什么事吗？《牛津词典》。
-2.Can you write and confirm your booking?你能写信来确认你的预订项目吗？《牛津词典》。
+1.Can you confirm what happened?你能证实一下发生了什么事吗？。
+2.Can you write and confirm your booking?你能写信来确认你的预订项目吗？。
 3.A brief dip into history serves to confirm this view. 随便翻阅一下历史就足以证实这种观点。
 [搭]
 1.CONFIRM PASSWORD 确认密码；重复密码；再输入一次密码；密码确认
@@ -1670,7 +1670,7 @@ v. 争辩，提出异议；争取赢得，角逐
 [例]
 1.The contest should be very keenly fought. 比赛应该争夺很激烈。
 2.I'm going to be emceeing a costume contest. 我将要主持一场时装比赛。
-3.Who is adjudicating at this year's contest? 今年比赛谁当裁判？《牛津词典》。
+3.Who is adjudicating at this year's contest? 今年比赛谁当裁判？。
 [搭]
 1.beauty contest 选美活动；选美；选美比赛；选美会
 2.The Contest 灌篮比赛；该比赛；比赛
@@ -1695,7 +1695,7 @@ n. 参赛者，竞争者；争辩者
 contribute / kənˈtrɪbjuːt /
 v. 捐赠，捐助；（为……）做贡献；促成，是……的原因之一；撰稿，投稿；发表意见，提议
 [例]
-1.Do you wish to contribute?你想捐助吗？《牛津词典》。
+1.Do you wish to contribute?你想捐助吗？。
 2.You need not feel obliged to contribute. 你不必认为你非得捐款。
 3.Local businesses have agreed to contribute. 当地的公司已经同意捐助了。
 [搭]
@@ -1766,7 +1766,7 @@ adj. 伪造的，假冒的；<古>假装的，虚假的
 v. 伪造，仿造；佯作，假装；酷似
 n. 伪造物，赝品
 [例]
-1.Are you aware these notes are counterfeit?你觉察到这些钞票是伪造的吗？《牛津词典》。
+1.Are you aware these notes are counterfeit?你觉察到这些钞票是伪造的吗？。
 2.He admitted possessing and delivering counterfeit currency. 他承认持有和运送了假币。
 3.It is a crime to counterfeit money. 伪造钱币是犯罪行为。
 [搭]
@@ -1905,7 +1905,7 @@ defend / dɪˈfend /
 v. 保卫，防御；捍卫，维护；（在比赛中）防守，防卫；参加卫冕赛，蝉联；做……的辩护律师，为……辩解
 [例]
 1.The newspaper continues to defend its publication of the photographs. 这家报纸继续为刊登这些照片辩护。
-2.How can you defend such behaviour?你怎能为这种行为辩解呢？《牛津词典》。
+2.How can you defend such behaviour?你怎能为这种行为辩解呢？。
 3.If cornered, the snake will defend itself. 蛇在被逼得走投无路时会自卫的。
 [搭]
 1.God Defend New Zealand 天佑新西兰；上帝保佑新西兰；天佑新西兰德语
@@ -3384,7 +3384,7 @@ v. 加大……的油门，使加速；<美> 猛投，猛掷
 [例]
 1.She raised the gun and fired. 她举枪射击。
 2.The gun roared deafeningly. 枪炮轰鸣声震耳欲聋。
-3.Look out, he's got a gun!小心，他有枪！《牛津词典》。
+3.Look out, he's got a gun!小心，他有枪！。
 [搭]
 1.Top Gun 壮志凌云；捍卫战士；雄心万丈；顶尖高手
 2.Machine gun 军  机关枪；机炮；式激光发射器
@@ -3512,7 +3512,7 @@ n. 悬挂方式；下垂，低垂；（画展中画作的）陈列，布局
 [例]
 1.Hang on—I'm not quite ready. 请稍候—我还没准备好呢。
 2.It's OK—hang loose and stay cool. 没事儿，你要镇定，要冷静。
-3.Can you just hang on a sec?您能稍等一下吗？《柯林斯英汉双解大词典》。
+3.Can you just hang on a sec?您能稍等一下吗？。
 [搭]
 1.hang up 挂断；挂断电话；挂起来
 2.Hang Seng Index 恒生指数；香港恒生指数；恒生估价指数；恒生指数〔恒指
@@ -3616,7 +3616,7 @@ int. 见鬼（用于表示生气或恼怒）
 v. 过放荡生活
 [例]
 1."Hell, no!" the doctor snapped. “该死，不！”医生厉声说。
-2.Where the hell have you been?你究竟去了哪里？《柯林斯英汉双解大词典》。
+2.Where the hell have you been?你究竟去了哪里？。
 3.It was pure, unadulterated hell. 那是纯粹的，十足的地狱。
 [搭]
 1.From Hell 来自地狱；开膛手；屠出地狱；来自天堂
@@ -4054,8 +4054,8 @@ n. 解释，理解；表演，演奏，艺术处理；口译
 interrupt / ˌɪntəˈrʌpt /
 v. 打断，打扰；使暂停，使中断；阻断，遮挡
 [例]
-1.Why must she interrupt?她为什么偏要打断呢？《柯林斯英汉双解大词典》。
-2.Can I interrupt you just for a minute?我可不可以打断你一会儿？《柯林斯英汉双解大词典》。
+1.Why must she interrupt?她为什么偏要打断呢？。
+2.Can I interrupt you just for a minute?我可不可以打断你一会儿？。
 3.Please continue—I didn't mean to interrupt. 请继续往下说，我并非有意打断你的话。
 [搭]
 1.interrupt latency 中断延迟；中断潜伏期；中断延时
@@ -4086,7 +4086,7 @@ v. 闯入；打扰，侵扰；（火成岩）侵入（已生成构造）
 [例]
 1.That, too, explains the heavy Washington presence at this year's show, as these new technologies intrude upon heavily regulated areas. 这也解释了为什么在今年的展会上华盛顿有很多人参加，因为这些新技术侵入了受到严格监管的领域。
 2.I'm sorry to intrude on you like this. 很抱歉这样打扰你。
-3.Do you feel anxious when unforeseen incidents intrude on your day?当无可预料的事件侵扰到你的生活时，你会感到焦虑吗？《柯林斯英汉双解大词典》。
+3.Do you feel anxious when unforeseen incidents intrude on your day?当无可预料的事件侵扰到你的生活时，你会感到焦虑吗？。
 [搭]
 1.intrude into 进犯；闯进；非法进入；强行进入
 2.Intrude Detection 入侵检测
@@ -4109,7 +4109,7 @@ n. 闯入者，侵入者；不速之客
 invade / ɪnˈveɪd /
 v. 武力入侵，侵略；大量涌入，蜂拥而入；侵扰，干扰；扩散，渗入
 [例]
-1.When did the Romans invade Britain?古罗马人是何时侵略英国的？《牛津词典》。
+1.When did the Romans invade Britain?古罗马人是何时侵略英国的？。
 2.The press invade people's privacy unfairly and unjustifiably every day. 媒体每天都在不公平也没有正当理由地侵犯人们的隐私。
 3.Whales will invade king penguins' breeding grounds. 鲸鱼会入侵帝企鹅的繁殖地。
 [搭]
@@ -4339,7 +4339,7 @@ n. 事情，问题；事态，情况；困境，麻烦（the matter）；物质�
 v. 要紧，有关系；（伤口）化脓，流脓
 [例]
 1.This matter is their concern. 这件事由他们负责。
-2.Is something the matter, princess?有什么事吗，大小姐？《牛津词典》。
+2.Is something the matter, princess?有什么事吗，大小姐？。
 3.The matter is under investigation. 此事正在调查中。
 [搭]
 1.dark matter 天  暗物质；黑暗物质；暗物质空间
@@ -4384,7 +4384,7 @@ n. 强大力量，威力
 n. (Might) （美）迈特（人名）
 [例]
 1.'I might,' he said enigmatically. “我也许会的。
-2.Might I make a suggestion?我可以提个建议么？《柯林斯英汉双解大词典》。
+2.Might I make a suggestion?我可以提个建议么？。
 3.Insecurity might creep in. 不安全感可能会悄然而生。
 [搭]
 1.Might and Magic 魔法门系列；魔法门；怀旧游戏之魔法门系列；魔法与力量
@@ -4702,7 +4702,7 @@ oblige / əˈblaɪdʒ /
 v. 迫使，责成；施恩惠于，帮……的忙；<古>使（某人）遵守誓约（或承诺、约定）
 [例]
 1.Moreover, the integration of the European community will oblige television companies to cooperate more closely in terms of both production and distribution. 此外，欧洲共同体的一体化将迫使电视公司在制作和发行方面进行更密切的合作。
-2.Would you oblige me with some information?拜托您给我透露些消息好吗？《牛津词典》。
+2.Would you oblige me with some information?拜托您给我透露些消息好吗？。
 3.Call me if you need any help—I'd be happy to oblige. 若有需要，尽管给我打电话。
 [搭]
 1.noblesse oblige 地位高则责任重；身在其位即谋其职；位高则任重；贵族义务
@@ -4805,7 +4805,7 @@ adv. 偶然，偶尔
 occur / əˈkɜː(r) /
 v.（尤指意外地）发生；存在，出现；（想法）产生
 [例]
-1.When exactly did the incident occur?这一事件究竟是什么时候发生的？《牛津词典》。
+1.When exactly did the incident occur?这一事件究竟是什么时候发生的？。
 2.These snails do not occur on low-lying coral islands. 这些蜗牛不会出现在低洼的珊瑚岛上。
 3.Rattlesnakes occur in the warmer, drier parts of North America. 响尾蛇出现在北美温暖干燥的地区。
 [搭]
@@ -4949,7 +4949,7 @@ adv. 在对面，在对过
 prep. 在……对面，与……相对；与……合演，与……联袂演出
 [例]
 1.Exactly the opposite is true. 事实恰恰相反。
-2.What is the opposite of heavy?重的反义词是什么？《牛津词典》。
+2.What is the opposite of heavy?重的反义词是什么？。
 3.He sat down in the chair opposite. 他在对面的椅子上坐了下来。
 [搭]
 1.opposite to 在对面；对立的；相反的；在对于面
@@ -5280,7 +5280,7 @@ n. 毒药；有害的思想；恶毒的言辞（或行动）；（化）抑制�
 v. 毒杀；在……下毒；毒化，败坏；污染（环境）；抑制
 adj. 有毒的
 [例]
-1.How did he die? Was it poison?他是怎么死的？是中毒吗？《牛津词典》。
+1.How did he die? Was it poison?他是怎么死的？是中毒吗？。
 2.Her blood was found to contain poison. 她的血液中发现有毒素。
 3.Some mushrooms contain a deadly poison. 有些蘑菇含有致命毒素。
 [搭]
@@ -5524,7 +5524,7 @@ v. 保护……免受影响（或损害）；印……的校样；校对；<美>
 [例]
 1.There was no absolute proof. 没有确凿的证据。
 2.We didn't have any definite proof. 我们没有任何确凿的证据。
-3.Do you have any proof of identity?你有身份证明吗？《牛津词典》。
+3.Do you have any proof of identity?你有身份证明吗？。
 [搭]
 1.Death Proof 金刚不坏；死亡证据；片
 2.proof of concept 概念验证；概念证明；概念性验证；观点提供证据
@@ -5539,7 +5539,7 @@ v. 校对，校阅
 [例]
 1.I didn't even have the chance to proofread my own report. 我甚至没有机会校对自己的报告。
 2.The different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. 当测试对象被要求在无噪声条件下对书面材料进行校对时，不同的噪声条件会产生不同的后效应。
-3.Has this document been proofread?这份文件校对过没有？《牛津词典》。
+3.Has this document been proofread?这份文件校对过没有？。
 [搭]
 1.Proofread printed pages 校对打印的页面；校对印刷页
 2.proofread d 校对
@@ -5581,7 +5581,7 @@ protestant / ˈprɒtɪstənt /
 adj. 抗议的；持异议的；新教的
 n. 抗议者；持异议者；新教徒
 [例]
-1.Are they Catholic or Protestant?他们是天主教徒还是新教徒？《牛津词典》。
+1.Are they Catholic or Protestant?他们是天主教徒还是新教徒？。
 2.The family was staunchly Protestant. 那一家人是虔诚的新教徒。
 3.He's a Protestant. 他是新教教徒。
 [搭]
@@ -5596,7 +5596,7 @@ v. 提供，供给；配备，准备好；（法律或规章）规定；供养�
 [例]
 1.He refused to provide a specimen. 他拒绝提供抽样。
 2.They would not provide any details. 他们不肯提供任何细节。
-3.Can you provide any proof of identity ?你能提供什么身份证明吗？《牛津词典》。
+3.Can you provide any proof of identity ?你能提供什么身份证明吗？。
 [搭]
 1.provide for 供养；奉养；供给；抚育
 2.Provide feedback 提供反馈；提供回馈
@@ -5752,7 +5752,7 @@ n. 辞职，离任
 [例]
 1.He quit his job as an office boy. 他辞去了办公室勤杂员的工作。
 2.If I don't get more money I'll quit. 不给我加薪我就辞职。
-3.Quit it! That hurts!戒掉它吧！这东西害人！《柯林斯英汉双解大词典》。
+3.Quit it! That hurts!戒掉它吧！这东西害人！。
 [搭]
 1.I quit 我退出；我不干了；我加入；我放弃
 2.QUIT GAME 退出游戏；离开游戏；是退出游戏；结束游戏
@@ -6237,7 +6237,7 @@ v. 使遭受（失去、毁坏或伤害的）危险；冒. . . . . . 的危险�
 [例]
 1.There is no risk of contagion. 没有接触传染的风险。
 2.You must be mad to risk it. 你去冒这种风险，简直是疯了。
-3.Dare she risk staying where she was?她敢冒险呆在原地不动吗？《柯林斯英汉双解大词典》。
+3.Dare she risk staying where she was?她敢冒险呆在原地不动吗？。
 [搭]
 1.risk management 风险管理；风险控制；危机管理
 2.risk factor 危险因素；风险因素；影响因素
@@ -6316,7 +6316,7 @@ sacrifice / ˈsækrɪfaɪs /
 n. 牺牲，献出；献祭，供奉；祭牲，供品；基督的献身（指耶稣被钉在十字架上）；（天主教作为献祭圣体和圣血，或新教表示感恩的）圣餐礼；（棋）（为战略或战术原因所作出的）弃子，弃卒；（棒球中）牺牲打（sacrifice bunt/fly）；（桥牌）（指在对方叫到进局定约之后的）牺牲性叫牌（sacrifice bid）
 v. 牺牲，献出；献祭，以……为祭品；（棋）（故意）弃子，弃卒；（棒球）做牺牲打；（棒球）以牺牲打使（跑垒者）进垒；（桥牌）作牺牲性叫牌；亏本出售
 [例]
-1.Should motherhood necessarily mean sacrifice and self-denial?做母亲必须要自我牺牲和忘我吗？《柯林斯英汉双解大词典》。
+1.Should motherhood necessarily mean sacrifice and self-denial?做母亲必须要自我牺牲和忘我吗？。
 2.He was willing to sacrifice his happiness on the altar of fame. 为了名声，他心甘情愿牺牲幸福。
 3.I thanked my parents for all their self-sacrifice on my behalf. 我感谢父母为我所做的一切牺牲。
 [搭]
@@ -6640,7 +6640,7 @@ v. 抽出，拿出（时间、金钱等）；饶恕，赦免；省得，免去�
 n. 备用品；（车辆或机器的）零件，备件；（十柱保龄球戏中的）二击全倒
 [例]
 1.He could have taken a spare key. 他原本可以带上一把备用钥匙的。
-2.How do you spend your spare time?你在业余时间干什么？《牛津词典》。
+2.How do you spend your spare time?你在业余时间干什么？。
 3.He's studying music in his spare time. 他在空闲时间学音乐。
 [搭]
 1.spare parts 备件；备品备件；零配件；配件
@@ -7010,7 +7010,7 @@ v. 围绕，环绕；（军队，警察等）包围；与……紧密相连（�
 n.（物品的）边，饰边；周围的事物，环境
 [例]
 1.The police fanned out to surround the house. 警察散开包围了这座房子。
-2.How can one ever separate out the act from the attitudes that surround it?如何才能将行动同围绕着它的种种看法区分开来呢？《柯林斯英汉双解大词典》。
+2.How can one ever separate out the act from the attitudes that surround it?如何才能将行动同围绕着它的种种看法区分开来呢？。
 3.I surround you with my light. 我用我的光包围着你。
 [搭]
 1.Surround sound 环绕立体声；环绕声；环绕音响
@@ -7270,7 +7270,7 @@ terrific / təˈrɪfɪk /
 adj. 极好的，了不起的；极大的，惊人的
 [例]
 1.I am completely energized and feeling terrific. 我现在充满了活力，感觉棒极了。
-2.I feel absolutely terrific today!我今天的感觉真是好极了！《牛津词典》。
+2.I feel absolutely terrific today!我今天的感觉真是好极了！。
 3.She's doing a terrific job. 她活儿干得真棒。
 [搭]
 1.terrific value 大贱卖；大甩卖
@@ -7680,7 +7680,7 @@ adj. 经验丰富的，老练的；<英>古老的
 victory / ˈvɪktəri /
 n. 胜利，成功，获胜
 [例]
-1.Scottish champs celebrate victory!苏格兰的冠军庆祝胜利！《牛津词典》。
+1.Scottish champs celebrate victory!苏格兰的冠军庆祝胜利！。
 2.The team looks set for victory. 看来这个队能赢。
 3.He bulldozed his way to victory. 他一路过关斩将，取得了最后胜利。
 [搭]

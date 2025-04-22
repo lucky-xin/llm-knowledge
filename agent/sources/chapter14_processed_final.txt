@@ -3,7 +3,7 @@ n. <英>邮政，邮递；<英>邮件，包裹；<英>收集（或投递）邮�
 v. <英>邮寄；把……放入（或塞入）；派驻，委派；使驻守，设置（岗哨等）；张贴，公布；发布，发帖子；交付（保释金）；（运动员，参赛队）取得（成绩）
 prep. 在……之后
 [例]
-1.Have you opened your post yet?你拆开邮件了没有？《牛津词典》。
+1.Have you opened your post yet?你拆开邮件了没有？。
 2.He was reinstated in his post. 他重新回到了自己的岗位。
 3.I went round to the post office. 我到邮局去了一趟。
 [搭]
@@ -23,10 +23,9 @@ v. 张贴海报
 [搭]
 1.film poster 电影海报
 2.Poster Edges 海报边缘滤镜；海报效果；海报边沿
-3.Poster Boy 海报女孩；片；宣传画上的男孩
+3.poster board 广告纸板；海报用纸；写布告用的硬纸板
 4.poster design 海报设计
-5.poster childn.  作为模范的人或物
-6.poster board 广告纸板；海报用纸；写布告用的硬纸板
+5.poster child 作为模范的人或物
 [联]post + er ——> 邮递员
 
 postponement / pəˈspəʊnmənt /
@@ -57,13 +56,12 @@ postulate / ˈpɒstʃəleɪt /
 v. 假定，假设；（教会法）提名（某人）任圣职，选举（某人）任圣职
 n. <正式>假定，假设；<正式>（数）公设
 [例]
-1.The universe encompasses all of space and time we know, so it is beyond the realm of the Big Bang model to postulate what the universe beyond our horizon is. 宇宙包含我们所知的所有空间和时间，所以要求用大爆炸模型解释我们视界之外的宇宙超出了这个模型的限定范围。
+1.Let's postulate that she is a cook. 我们假定她是一位厨师。
 2.Therefore some scientists postulate that the Earth's earliest atmosphere, unlike that of today, was dominated by hydrogen, methane, and ammonia. 因此，一些科学家推断，地球早期的大气与现在的不一样，主要由氢、甲烷和氨构成。
-3.Let's postulate that she is a cook. 我们假定她是一位厨师。
 [搭]
 1.parallel postulate 平行公设；平行公理
 2.accounting postulate 会计假设； 会计  会计假定；管帐假设
-3.Drucker postulate 德鲁克公设
+3.drucker postulate 德鲁克公设
 [联]postu (假设) + late (放置) ——> 假设性放置
 
 postgraduate / ˌpoʊstˈɡrædʒuət /
@@ -105,7 +103,6 @@ v. 用煤车运载
 1.Peak Tram 山顶缆车；山顶电车；山缆车；山顶缆车德语
 2.The Peak Tram 山顶缆车
 3.tram stop 有轨电车停靠站；地铁站
-4.peak tram 山顶电车
 [联]tram (有轨电车) + way (道路，路线) ——> 有轨电车行驶的道路
 
 tramp / træmp /
@@ -118,8 +115,7 @@ n. 流浪汉，流浪乞丐；沉重的脚步声；长途步行，徒步旅行�
 [搭]
 1.Royal Tramp 鹿鼎记；皇家流浪汉；鹿鼎记电影版；新鹿鼎记
 2.Lady and the Tramp 小姐与流浪汉；蜜斯与地痞；小姐与漂泊汉
-3.Royal Tramp II 鹿鼎记 II 神龙教；鹿鼎记2神龙教；神龙教主；鹿鼎记
-4.on the tramp 走江湖，跑码头；漂泊着
+3.on the tramp 走江湖，跑码头；漂泊着
 [联]tramp (艰难地走，跋涉) + path (道路) ——> 艰难的道路
 
 trample / ˈtræmp(ə)l /
@@ -127,14 +123,11 @@ v. 踩，践踏；伤害，侵犯；脚步沉重地走
 n. <文>践踏，踩踏声
 [例]
 1.Trample not upon thy beseeching worms, O noble Majesty!高贵的陛下，不要践踏你那哀求的可怜虫！。
-2.An angry elephant can trample an enemy to death or pick him up with his trunk and smash his hated enemy on the ground. 一头愤怒的大象可以把敌人踩死，也可以用鼻子把他提起来，把他讨厌的敌人击倒在地。
-3.Their feet will trample on the dead bodies of their perfidious aggressors. 他们将从背信弃义的侵略者的尸体上踏过。
+2.Their feet will trample on the dead bodies of their perfidious aggressors. 他们将从背信弃义的侵略者的尸体上踏过。
 [搭]
 1.boot trample 皮靴踩踏之米迦勒之舞；皮靴踩踏之叶问；踩踏之保持通话
 2.trample down 践踏；踩坏
 3.trample on 践踏；蹂躏；伤害
-4.trample onv.  践踏；蹂躏
-5.trample down 践踏
 [联]stomp (践踏) + ample (足够的，大量的) ——> 践踏大量的东西
 
 trampoline / ˌtræmpəˈliːn /
@@ -169,8 +162,7 @@ transitory / ˈtrænzətri /
 adj. 短暂的，暂时的；瞬息的
 [例]
 1.Most teenage romances are transitory. 大多数少年时代的罗曼史都转瞬即逝。
-2.Human bias is inevitable, but another source of bias in the representation of history has to do with the transitory nature of the materials themselves. 人类的偏见是在所难免的，但在历史的表现中，偏见的另一种来源与材料本身的短暂性有关。
-3.In man transitory life attains its peak of animation, of soul power, so to speak. 可以这么说，在人身上，短暂的生命达到了其活力与精神力量的巅峰。
+2.In man transitory life attains its peak of animation, of soul power, so to speak. 可以这么说，在人身上，短暂的生命达到了其活力与精神力量的巅峰。
 [搭]
 1.transitory starch 植  过渡淀粉
 2.transitory stage 过渡阶段
@@ -182,29 +174,24 @@ adj.（动词）及物的；（关系）可递的，可迁的，传递的
 n. 及物动词
 [例]
 1.The verbs were subdivided into transitive and intransitive categories. 动词被细分为及物和不及物两类。
-2.In 'She wrote a letter', the verb 'wrote' is transitive and the word 'letter' is the direct object. 在 She wrote a letter 一句中，动词 wrote 是及物动词，letter 一词是直接宾语。
-3.This is called "transitive memory". 这被称为“交互记忆”。
+2.This is called "transitive memory". 这被称为“交互记忆”。
 [搭]
-1.TRANSITIVE VERB 语  及物动词；外动词
-2.transitive closure 数  传递闭包；类上执行传递性关闭
-3.transitive relation 数  传递关系；递移关系；可递关系；传递的二元关系
-4.transitive verb 及物动词；单宾动词；外动词
-5.transitive closure 传递闭包
+1.transitive verb 及物动词；单宾动词；外动词
+2.transitive closure 传递闭包；类上执行传递性关闭
+3.transitive relation 传递关系；递移关系；可递关系；传递的二元关系
 [联]trans- (超过，贯穿) + itive (倾向于...) ——> 具有超越能力的，倾向于传递的
 
 transitional / trænˈzɪʃən(ə)l /
 adj. 暂时的，转型的，过渡的；（建筑）过渡式样的
 [例]
-1.Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. 直到最近才发现的化石，显然是介于陆地哺乳动物和鲸类之间的过渡物种。
-2.Other features, however, show experts that Pakicetus is a transitional form between a group of extinct flesh-eating mammals, the mesonychids, and cetaceans. 然而，专家认为巴基鲸是已经灭绝的食肉哺乳动物中爪类和鲸类之间的过渡物种。
-3.Poverty levels omit the transitional dynamics between levels. 贫困水平忽略了水平之间的过渡动态。
+1.Poverty levels omit the transitional dynamics between levels. 贫困水平忽略了水平之间的过渡动态。
+2.Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. 直到最近才发现的化石，显然是介于陆地哺乳动物和鲸类之间的过渡物种。
 [搭]
 1.transitional epithelium 组织  移行上皮； 组织  变移上皮；上皮细胞；移形上皮
 2.transitional cell carcinoma 移行细胞癌；过渡细胞癌；泌尿道上皮；细胞癌
 3.transitional period 过渡期；过渡时期；过渡期间；转移阶段
 4.transitional zone 过渡带；过渡区
-5.transitional cell carcinoma 移行细胞癌
-6.transitional area 过渡区
+5.transitional area 过渡区
 [联]transitional (过渡的) ——> trans (横跨，穿过) + ition (名词后缀，动作、状态) + al (形容词后缀) ——> 横跨状态的变化的
 
 transition / trænˈzɪʃ(ə)n /
@@ -220,15 +207,14 @@ v. 转变，过渡
 3.Transition Zone 交换区域； 植  过渡区；过渡带
 4.transition period 过渡时期
 5.phase transition 相变
-6.transition temperature[电]转移温度
+6.transition temperature [电]转移温度
 [联]transit (跨越) + tion (名词后缀，表行为过程) ——> 跨越的过程
 
 transitional / trænˈzɪʃən(ə)l /
 adj. 暂时的，转型的，过渡的；（建筑）过渡式样的
 [例]
 1.Missing until recently were fossils clearly intermediate, or transitional, between land mammals and cetaceans. 直到最近才发现的化石，显然是介于陆地哺乳动物和鲸类之间的过渡物种。
-2.Other features, however, show experts that Pakicetus is a transitional form between a group of extinct flesh-eating mammals, the mesonychids, and cetaceans. 然而，专家认为巴基鲸是已经灭绝的食肉哺乳动物中爪类和鲸类之间的过渡物种。
-3.Poverty levels omit the transitional dynamics between levels. 贫困水平忽略了水平之间的过渡动态。
+2.Poverty levels omit the transitional dynamics between levels. 贫困水平忽略了水平之间的过渡动态。
 [搭]
 1.transitional zone 过渡带；过渡区
 2.transitional cell carcinoma 移行细胞癌
@@ -307,8 +293,9 @@ v. 用救护车送（人）
 ambulation / ˈæmbjʊˌleɪʃən /
 n. 移动；步行
 [例]
-1.Three tests, including open field test, spatial water maze and rotarod test were applied to evaluate ambulation and muscular coordination. 采用开阔地试验、空间水迷宫试验和旋转台试验三种方法对步行能力和肌肉协调性进行了评价。
-2.For example the correspondence power supply equipments of the Chinese ambulation. 比如中国移动的通信电源设备。
+1.The ambulation of the direction key control person. 方向键控制人物的移动。
+2.The mouse controls or so ambulation. 鼠标控制左右移动。
+3.For example the correspondence power supply equipments of the Chinese ambulation. 比如中国移动的通信电源设备。
 [搭]
 1.ambulation training 步行训练；行走训练
 2.Early Ambulation 早日下床活动；早期下床活动
@@ -326,8 +313,7 @@ n.（旧时的）马车；（火车）车厢；滑架，托板；炮架，托架
 2.carriage free 免收运费；免费；运费免除；运费免付
 3.carriage paid 运费已付；货价包括运费；运费；运费付讫
 4.baby carriage 婴儿车；童车（等于 baby buggy，carriage）
-5.carriage returnn 回车
-6.carriage way 车行道
+5.carriage way 车行道
 [联]car + riage ——> 小车 + 驾驶，运送
 
 carried / ˈkærid /
@@ -337,12 +323,11 @@ v. 拿；提；搬；扛；背；抱；运送；携带；传播（carry 的过�
 2.The assistant carried on talking. 那个助理接着谈了下去。
 3.He carried on peeling the potatoes. 他不停地削土豆皮。
 [搭]
-1.Carried forward 发扬光大； 会计  结转；移下页
+1.Carried forward 发扬光大；结转；移下页
 2.The Things They Carried 士兵的重负；书名
-3.balance carried down 余额转下；差额转下；余额移后页； 会计  余额移后
+3.balance carried down 余额转下；差额转下；余额移后页；余额移后
 4.be carried out 被执行；得到实现
 5.carried away 带走；非常激动；使…失去自制力
-6.carried forward 结转；转下页；接后
 [联]无能为力 (无法按照要求拆分联想)
 
 carrier / ˈkæriər /
@@ -352,12 +337,11 @@ n. 搬运人，运输工具；航空公司；军车，运输舰；购物袋；�
 2.He stooped to pick up the carrier bag of groceries. 他弯腰提起装满食品杂货的购物袋。
 3.His father accused him of acting as a carrier for some drug pushers. 他父亲指责他为某些毒贩子充当毒品运送人。
 [搭]
-1.aircraft carrier 军,船  航空母舰；航母；彩市航母；舰艇概述
+1.aircraft carrier 航空母舰；航母；彩市航母；舰艇概述
 2.charge carrier 载流子；载荷子；电荷载子；电荷载劣
 3.mail carrier 邮  邮递员；邮件运输车；邮差；农用车
-4.aircraft carriern.  航空母舰；全能篮球中锋
-5.carrier frequency 载波频率
-6.carrier phase 载波相位
+4.carrier frequency 载波频率
+5.carrier phase 载波相位
 [联]car (车) + rier (运送者) ——> 运输车
 
 cart / kɑːrt /
@@ -368,12 +352,11 @@ v. 用车装运；搬运，移动；挟持，带走
 2.We harnessed two ponies to the cart. 我们把两匹矮种马套到了车上。
 3.The cart began its gradual ascent up the hill. 运货马车开始缓缓上山。
 [搭]
-1.Shopping cart 购物车；购物栏；订单查询；购物网
+1.shopping cart 购物车；购物栏；订单查询；购物网
 2.cart noodle 车仔面；仔
-3.Add to Cart 加入购物车；放入购物车；加到购物车；购物车
-4.shopping cart 购物手推车
-5.in the cart[英国俚语]处于困境，处于失利地位；为难
-6.golf cart 高尔夫球车；球具手推车
+3.add to cart 加入购物车；放入购物车；加到购物车；购物车
+4.in the cart[英国俚语]处于困境，处于失利地位；为难
+5.golf cart 高尔夫球车；球具手推车
 [联]car (小汽车) + t (作为连接符) + cart (手推车) ——> 小汽车和手推车的结合
 
 carton / ˈkɑːrtn /
@@ -384,27 +367,23 @@ v. 用盒包装；制作纸箱
 2.A carton of milk lay on its side. 一盒牛奶侧躺着放在那里。
 3.He went to the shop for a carton of milk. 他到店里买了一盒牛奶。
 [搭]
-1.Carton size 外箱尺寸；外箱规格；纸箱尺寸；包装尺寸
-2.SHIPPING CARTON 出口箱；装运箱；入口箱；包装箱落下试验
-3.EXPORT CARTON 出口箱；出口纸箱；入口箱；出口
+1.carton size 外箱尺寸；外箱规格；纸箱尺寸；包装尺寸
+2.folding carton 折叠纸盒；折叠箱
+3.paper carton 纸箱，包装纸板盒
 4.carton box 纸箱；硬纸盒；纸箱抗压机
-5.folding carton 折叠纸盒；折叠箱
-6.paper carton 纸箱，包装纸板盒
 [联]car (小车) + ton (吨) ——> 一车货物
 
 cartoon / kɑːrˈtuːn /
 n. 漫画，讽刺画；动画片，卡通片；草图，底图
 v. 给……画漫画；画漫画
 [例]
-1.Mickey Mouse, Donald Duck, and other Disney cartoon characters gave endless delight to millions of children. 米老鼠、唐老鸭及其他迪斯尼卡通形象给数百万的儿童带来了无尽的欢乐。
+1.Disney has made many cartoon movies. 迪斯尼制作了许多卡通电影。
 2.They visited the Cartoon Museum. 他们参观了卡通博物馆。
-3.Disney has made many cartoon movies. 迪斯尼制作了许多卡通电影。
 [搭]
-1.Cartoon Network 卡通频道；卡通网络；卡通电视网；动画频道
+1.cartoon network 卡通频道；卡通网络；卡通电视网；动画频道
 2.Cartoon Saloon 卡通沙龙；制作公司；海洋之歌
 3.cartoon physics 动画物理学
-4.animated cartoonn.  动画；卡通片
-5.cartoon network 卡通频道；卡通电视网（美国一个专门播放动画节目的有线电视频道）
+4.animated cartoon 动画；卡通片
 [联]car (小车) + from (来自) ——> 来自小车的动画
 
 cartilage / ˈkɑːrtɪlɪdʒ /
@@ -412,14 +391,11 @@ n. 软骨
 [例]
 1.The tissue and cartilage of a nose are too soft to fossilize. 鼻部的组织和软骨结构太软，无法形成化石。
 2.Andre Agassi has pulled out of next week's Grand Slam Cup after tearing a cartilage in his chest. 安德烈·阿加西胸部软骨拉伤后已退出了下周的大满贯赛事。
-3.This area of cartilage within the bone grows in length by appositional growth as the individual grows to maturity. 这个区域内的软骨骨生长在同位的长度的增长随着个体的发展成熟。
 [搭]
 1.elastic cartilage 解剖  弹性软骨；黄软骨
 2.hyaline cartilage 组织,解剖  透明软骨；透庙骨
 3.articular cartilage 解剖  关节软骨；关节软骨缺损；修复关节软骨缺损；关节软骨细胞
-4.articular cartilage 关节软骨
-5.hyaline cartilage 透庙骨，透明软骨
-6.thyroid cartilage[解]甲状软骨
+4.thyroid cartilage[解]甲状软骨
 [联]cartilage (软骨) + tissue (组织) ——> 软骨组织
 
 cartridge / ˈkɑːrtrɪdʒ /
@@ -431,10 +407,9 @@ n. 弹壳，弹药筒；（机器、设备等可更换使用的）盒，卡；�
 [搭]
 1.ink cartridge 墨盒；墨匣；墨水盒；油墨盒
 2.cartridge paper 画图纸；图画纸；弹壳纸；厚纸
-3.Cartridge valve 插装阀；筒形插装式阀；二通插装阀
+3.cartridge valve 插装阀；筒形插装式阀；二通插装阀
 4.toner cartridge 碳粉匣，色粉盒
-5.ink cartridgen.  墨匣；墨水盒；油墨盒
-6.cartridge valve 插装阀；插装式阀
+5.ink cartridge 墨匣；墨水盒；油墨盒
 [联]car + ridge ——> 小车的山脊
 
 carry-on / ˈkæri ɒn /
@@ -442,7 +417,7 @@ n.（非正式）大惊小怪；手提行李，随身行李；可疑行为，暧
 adj. 可随身携带的
 [例]
 1.Only one carry-on is allowed. 随身只能携带一个小包。
-2.That's it, carry on!对啦！继续！《牛津词典》。
+2.That's it, carry on!对啦！继续！。
 3.The consulate will carry on a political dialogue with Indonesia. 领事馆将与印度尼西亚展开政治对话。
 [搭]
 1.carry on 继续；从事；进行；继续下去
@@ -459,12 +434,9 @@ v. 乘地铁
 2.The closest subway stop is Houston Street. 最近的地铁站是休斯敦街。
 3.The subway is efficient and spotlessly clean. 地铁快，而且一尘不染。
 [搭]
-1.Subway Surfers 地铁跑酷；地铁冲浪；地铁冲浪者；轨道跑酷
-2.Beijing Subway 北京地铁
-3.Spring Subway 开往春天的地铁；开往春天；哈瑞猴特；伊颜尘
-4.subway stationn.  地铁车站
-5.take the subway 乘地铁
-6.subway system 地铁网
+1.subway station 地铁车站
+2.take the subway 乘地铁
+3.subway system 地铁网
 [联]sub (下面的) + way (道路) ——> 地下通道
 
 appear / əˈpɪr /
@@ -475,11 +447,10 @@ v. 出现，呈现；首次使用，起源；出庭；演出，出场；出版�
 3.Cracks began to appear in the walls. 墙壁开始出现裂缝了。
 [搭]
 1.appear offline 显示脱机；显示为脱机；显示为离线；出现脱机
-2.You appear 你出现；你的出现
+2.appear to be 好像是；仿佛
 3.words appear 字样出现；文字出现；字显示
 4.appear in 出现在…
 5.appear on 在. . . 上出现
-6.appear to be 好像是；仿佛
 [联]a + ppear ——> 向...出现
 
 appearance / əˈpɪrəns /
@@ -489,12 +460,10 @@ n. 露面，演出；出庭，到场；外表，外观；表面现象，假象�
 2.She sets great store by her appearance. 她十分看重自己的外貌。
 3.He worries obsessively about his appearance. 他过度烦恼自己的外表。
 [搭]
-1.FINAL APPEARANCE 最终外观；终极外不雅；终极外观；终究概况
-2.FINISHED APPEARANCE 完成后的外观；完成后的外不雅；实现后的外观；竣事后的概况
-3.appearance quality 经管  外观质量；外观品质；表面质量；外不雅质量
-4.in appearanceadv.  在外表上
-5.outward appearance 外观；外表
-6.elegant appearance 美观大方
+1.outward appearance 外观；外表
+2.elegant appearance 美观大方
+3.appearance quality 外观质量；外观品质；表面质量；外不雅质量
+4.in appearance  在外表上
 [联]appear (出现) + ance (名词后缀) ——> 外貌，外观
 
 disappear / ˌdɪsəˈpɪr /
@@ -519,7 +488,6 @@ n. 消失，失踪；消亡，灭绝
 [搭]
 1.The Disappearance of Haruhi Suzumiya 凉宫春日的消失；抢先汉化版
 2.The Disappearance Of Alice Creed 爱丽丝的失踪；爱丽丝的失落
-3.LOVE'S DISAPPEARANCE 罗伍失踪
 [联]dis (分开) + appear (出现) + ance (名词后缀) ——> 消失，失踪
 
 disappoint / ˌdɪsəˈpɔɪnt /
@@ -527,7 +495,6 @@ v. 使失望；使破灭，使落空
 [例]
 1.His latest novel does not disappoint. 他最近发表的这部小说没有使人失望。
 2.Her decision to cancel the concert is bound to disappoint her fans. 她决定取消这场音乐会，肯定会使她的歌迷失望。
-3.She would do anything she could to please him, but she knew that she was fated to disappoint him. 她愿意做任何事情来讨好他，但她知道她注定会让他失望。
 [搭]
 1.disappoint your boss 使老板失望
 2.Disappoint has come and gone 失望来来去去
@@ -551,12 +518,10 @@ n. 地图册；第一颈椎，寰椎；（希腊式建筑中支撑柱楣的）�
 [例]
 1.The events took place against the dramatic backdrop of the Atlas mountains. 活动在雄伟的阿特拉斯山脉举行。
 2.Provided you have not cheated by consulting an atlas, you will notice something rather surprising. 如果你没有通过查阅地图集作弊，你会注意到一些相当令人惊讶的事情。
-3.He feared that a map in the atlas could pull climate scientists into another vortex of damaging controversy. 他担心新闻评述会同地图集里的地图一道，将气象学家们拉入另一个破坏性争议的漩涡之中。
 [搭]
 1.Atlas Copco 阿特拉斯·科普柯；阿特拉斯；阿特拉斯科普柯
 2.Atlas Mountains 阿特拉斯山脉；阿特拉斯山；拉斯山区；艾德拉斯山脉
 3.Atlas Shrugged 阿特拉斯耸耸肩；地球颤栗；阿特拉斯摆脱重负；地球战栗
-4.atlas mountains 阿特拉斯山脉（阿尔卑斯山系的一部分）
 [联]at + las ——> 拿着地图
 
 sail / seɪl /
@@ -570,18 +535,17 @@ n. 帆；乘船航行；（用作交通工具的）帆船的使用；（潜艇�
 1.Age of Sail 风帆时代；航海时代
 2.set sail 起航；启航；扬帆；开航
 3.sail boat 帆小船图片；开船
-4.set sail 启航；张帆
+4.in sail 扬帆
 5.sail for 船开向…；乘船往…
-6.in sail◎扬帆
 [联]ship (船) + ail (谐音) ——> 船只在海上航行
 
 sailorman / ˈseɪləmæn /
 n. 水手；船员
 [例]
-1.I vas a sailorman pefore you vas borned, and I knot and reef and splice ven you play mit topstrings and fly kites. 你出生之前我就在做水手了，你还在玩翻绳游戏，放风筝的时候我就已经会打结、收帆、捻接绳子了。
-2.On January 17, the airport stuff William, 49, dressed as cartoon character "Popeye the sailorman" to entertain his relatives and friends in Medellin, Columbia. 1月17日，在哥伦比亚麦德林市，49岁的机场工作职员威廉扮成大力水手的卡通形象来娱乐亲友。
+1.Popeye the sailorman eats spinach to make him strong. 大力水手吃菠菜使自己很强壮。
+2.As knows China is as great shipping country, sailorman labor booms with the development of shipping. 我国是航运大国, 船员劳务的发展随着航运业的发展越来越迅速。
 [搭]
-1.Sailorman blade 水手弯刀
+1.sailorman blade 水手弯刀
 [联]sailorman (水手) ——> sail (帆) + man (人) ——> 操纵帆的人
 
 sailboat / ˈseɪlboʊt /
@@ -589,7 +553,6 @@ n. 帆船
 [例]
 1.A usually triangular sail attached to the forestay or headstay of a sailboat. 一面通常是三角形的帆，安装在帆船的前桅支索或前支索上。
 2.He also liked to take his sailboat out on the water on windless days, "just for the challenge". 他还喜欢在无风的日子里驾着帆船出海，“只为了迎接挑战”。
-3.To remember your ATM PIN (4298, say), imagine yourself on a sailboat when a swan tries to attack you. 为了记住你的银行卡密码（比如4298），想象你坐在帆船上，一只天鹅尝试攻击你。
 [搭]
 1.Franklin'S SAILBOAT 富兰克林的帆船
 2.The Sailboat Oblivion 善忘之舟
@@ -600,8 +563,7 @@ sailor / ˈseɪlər /
 n. 水手，船员；驾船人，帆船驾驶者；喜好航海的人（尤指富有经验者）
 [例]
 1.A sailor carrying a sawn-off shotgun was arrested in Los Angeles. 一位携带着锯短的散弹枪的水手在洛杉矶被捕。
-2.Divers this morning found the body of another American sailor drowned during yesterday's ferry disaster. 潜水员们今天早晨发现了在昨天渡轮失事中淹死的又一名美国水手的尸体。
-3.He could reply like a sailor. 他就可以像水手一样回答。
+2.He could reply like a sailor. 他就可以像水手一样回答。
 [搭]
 1.Sailor Moon 水手月亮；美少女战士；月野兔；第一部
 2.Sailor Mercury 水野亚美；水手水星；水兵水星；水手月亮真人 H 版
@@ -612,7 +574,7 @@ n. 水手，船员；驾船人，帆船驾驶者；喜好航海的人（尤指�
 expire / ɪkˈspaɪə(r) /
 v. 到期，失效；死亡；呼气，吐气；（任期）届满
 [例]
-1.When does your driving licence expire?你的驾照什么时候到期？《牛津词典》。
+1.When does your driving licence expire?你的驾照什么时候到期？。
 2.Library Cards expire after four years. 图书馆借书证四年后到期。
 3.He is planning another tour abroad, yet his passport will expire at the end of this month. 他计划再次出国旅行，但他的护照将于本月底到期。
 [搭]
@@ -643,9 +605,8 @@ n. 信封，封皮；气囊；（彗核）包层，彗发；（数学）包络�
 1.red envelope 红包；送红包；大红包；发红包
 2.nuclear envelope 细胞  核被膜；核膜；核包膜；核套膜
 3.circumstellar envelope 天  星周包层
+5.envelope curve 包络曲线；包迹
 4.flight envelope 飞行包线
-5.nuclear envelope 核膜；核被膜
-6.envelope curve 包络曲线；包迹
 [联]en- (前缀，表示进入) + velop (词根，表示展开、包裹) + e (名词后缀) ——> 信封
 
 velocity / vəˈlɒsəti /
@@ -655,9 +616,9 @@ n. 速度，速率；高速，快速；（经济）周转率，流通速度
 2.Jaguars can move with an astonishing velocity. 美洲豹跑起来速度惊人。
 3.I mean, that's the whole point of escape velocity, right?我的意思是，这是逃逸速度的全部意义所在，不是吗？。
 [搭]
-1.angular velocity 力  角速度；角速率；角频；角速度
-2.signal velocity 通信  信号速度；信号传播速度；讯号速度
-3.Phase velocity 物  相速度； 物  相位速度； 物  相速；相速度波速
+1.angular velocity 角速度；角速率；角频；角速度
+2.signal velocity 信号速度；信号传播速度；讯号速度
+3.phase velocity 相速度；相位速度；相速；相速度波速
 4.flow velocity 流速
 5.velocity field 速度场；流速场
 6.velocity distribution 速度分布
@@ -677,7 +638,7 @@ adj. 偶然的，碰巧的
 3.clifford chance 高伟绅律师事务所；高伟绅；高伟绅律师行；英国高伟绅律师事务所
 4.by chance 偶然；意外地
 5.have a chance 有机会；有希望
-6.take a chancevt.  冒险
+6.take a chance 冒险
 [联]opportunity (机会) + knock (敲门) ——> 机会 knocking at your door
 
 chancellor / ˈtʃænslər /
@@ -712,7 +673,6 @@ n. 女修道院
 [搭]
 1.Cordeliers Convent 科德利埃修道院
 2.Convent School 儿时入读修女院黉舍；女时进读建女院黉舍；儿时入读修女院学校
-3.CHIJ katong convent 圣婴加东修道院；加东修道院女校
 [联]convent (修道院) + -ent (形容词后缀，表示具有...性质的) ——> 具有修道院性质的地方
 
 convention / kənˈvenʃ(ə)n /
@@ -724,10 +684,8 @@ n. 习俗，惯例；大会，集会；公约，协定；（文学、艺术上�
 [搭]
 1.Ramsar Convention 拉姆萨公约；拉姆萨尔公约；国际湿地公约
 2.convention center 会展中心；快棋赛；会议中心；国际会展中心
-3.national convention 国民公会；国民大会；全国党代表大会；全国大会
+3.national convention 国民公会；国民大会；全国党代表大会；全国大会；全国代表大会（美国政党为总统候选人提名而召开）；国民公会（指1792－1795年间的法国议会）
 4.international convention 国际惯例；国际公约；国际协定
-5.convention centern.  会议中心；会展中心
-6.national convention 全国代表大会（美国政党为总统候选人提名而召开）；国民公会（指1792－1795年间的法国议会）
 [联]convention (惯例，公约) + agreement (协议) ——> 国际公约
 
 conventional / kənˈvenʃən(ə)l /
@@ -750,14 +708,11 @@ n. 传送带，传送装置；传播者，传达者
 [例]
 1.The damp bricks went along a conveyor belt into another shed to dry. 潮湿的砖块沿着传送带进入另一个棚子进行干燥。
 2.Theoretically, this convection would carry the continental plates along as though they were on a conveyor belt. 从理论上讲，这种对流会把大陆板块带到一起，好像把它们放在传送带上一样。
-3.Additionally, the temperature changes induced by a shutdown in the North Atlantic heat conveyor system are too small to explain the Younger Dryas. 此外，北大西洋热输送系统关闭所引起的温度变化太小，无法解释新仙女木天气。
 [搭]
 1.belt conveyor 机  带式输送机；皮带式输送机；皮带输送机；传送带
 2.conveyor belt 传送带；运轮带；输送带；带式运输机胶带
 3.slat conveyor 条板式输送机；板条输送机；板条式输送机
-4.belt conveyor 皮带运输机，带式运输机
-5.conveyor belt 传送带
-6.scraper conveyor 刮板式运输机
+4.scraper conveyor 刮板式运输机
 [联]belt (传送带) + transport (运输) ——> 传送带
 
 conveyance / kənˈveɪəns /
@@ -801,7 +756,7 @@ v. 引导，把……用于；输送，传送；通灵；努力赶上，受启�
 3.Fox News Channel 福克斯新闻频道；福斯新闻频道；福克斯新闻台；新闻频道
 4.marketing channel 销售渠道，行销通道
 5.main channel 主通道
-6.change the channel[美国俚语]转移话题
+6.change the channel [美国俚语]转移话题
 [联]canal (沟渠) + lane (小路，通道) ——> 运河，频道
 
 change / tʃeɪndʒ /
@@ -809,15 +764,14 @@ v. 改变，变化；更换，替换；换乘；兑换，找零；交换，互�
 n. 变化，变革；找回的钱，零钱；换乘；替代物，替换衣物；全新体验；转成新月；钟乐敲打的一种套路
 [例]
 1.Leaves change colour in autumn. 树叶在秋天改变颜色。
-2.Can we change seats?咱们可以交换一下座位吗？《牛津词典》。
+2.Can we change seats?咱们可以交换一下座位吗？。
 3.A change in the money supply brings a corresponding change in expenditure. 货币供应量的改变随即引起支出的相应改变。
 [搭]
 1.climate change 气候  气候变化；气候改变；天气变化
 2.change management 应变管理；变革管理；变更管理；变革管理计划
 3.phase change 物  相变；相变化；相位变换；相转移
 4.change in 在…方面改变
-5.climate change 气候变化；气候变迁
-6.for a change 为了改变一下；为了换换口味
+5.for a change 为了改变一下；为了换换口味
 [联]currency (货币) + exchange (交换) ——> 货币兑换
 
 changeable / ˈtʃeɪndʒəb(ə)l /
@@ -837,13 +791,11 @@ v. 上船，上飞机；着手，开始（新的或艰难的事情）
 [例]
 1.Some forethought and preparation is necessary before you embark on the project. 你着手进行这个项目之前必须有所考虑，有所准备。
 2.For some women I know, this sense of trust and self-belief later in life gave them the courage to leave dysfunctional relationships or embark on new career paths. 对一些我认识的女性来说，这种信任感和自信心在日后给了她们离开不正常人际关系的勇气，或是从事新职业的勇气。
-3.Faced withunknown challenges, they are audacious enough to embark on a perilous journey while most of their peers enjoy stable salaries by working as white-collars at high-end office buildings. 面对未知的挑战，他们敢于踏上一段危险的旅程，而他们的同龄人大多在高端写字楼里做白领，享受着稳定的薪水。
 [搭]
 1.embark on 从事；着手；开始；登上船
 2.embark on sth 开始着手做某事；开端着手做某事
 3.embark on the criminal road 走上犯罪道路
-4.embark on 从事，着手；登上船
-5.embark upon 从事，着手，开始
+4.embark upon 从事，着手，开始
 [联]em (进入) + bark (树皮) ——> 上船、启航
 
 emergence / ɪˈmɜːrdʒəns /
@@ -896,10 +848,9 @@ n. 突创特征；露出水面的植物，（高于林中其他树木的）露�
 3.Discovering these patterns is the key to emergent design. 发现这些模式是紧急设计的关键。
 [搭]
 1.emergent declearation change 冲关费；闯关费；冲闭费
-2.Emergent Treatment 急救处理；急症治疗；急救；外科治疗
+2.emergent treatment 急救处理；急症治疗；急救；外科治疗
 3.emergent structure 层创结构；新显结构；突生结构；新创结构
 4.emergent light 出射光；应急灯
-5.emergent treatment 急救处理；急症治疗
 [联]emer (突然的) + gent (产生的) ——> 突然产生的
 
 defer / dɪˈfɜː(r) /
@@ -910,8 +861,7 @@ v. 延期，推迟；听从，遵从（defer to）
 3.Doctors are encouraged to defer to experts. 鼓励医生们听从专家的意见。
 [搭]
 1.defer to 尊重；遵从；听从；遵守
-2.Kaylee DeFer 凯莉·黛弗
-3.Defer a payment 要求暂缓付款
+2.Defer a payment 要求暂缓付款
 [联]de- (否定前缀) + fer (带来) ——> 推迟
 
 deferent / ˈdefərənt /
@@ -933,7 +883,7 @@ n. 延期；迟延；缓役
 2.A deeper reduction, not deferral, is needed. 迫切需要的是进一步削减债券总量，而不是延迟支付。
 3.Shouldn't deferral be a conscious decision rather than a rule?我们难道不应该把推迟作为一种有意识的决定，而不是一种规则吗？。
 [搭]
-1.Deferral taxes 递延税款；祈；滞
+1.deferral taxes 递延税款；祈；滞
 2.tax deferral 税收  延期纳税； 税收  延期缴税；延迟缴税；税收递延
 3.deferral method 递延法
 [联]defer (推迟) + ral (名词后缀) ——> 推迟，延期
@@ -947,8 +897,7 @@ n. 尊重，遵从
 [搭]
 1.in deference to 听从；鉴于；考虑到；遵从
 2.judicial deference 司法尊重；或司法顺从主义；司法谦抑
-3.Chevron deference 谢弗林尊重
-4.in deference to 鉴于；听从
+3.chevron deference 谢弗林尊重
 [联]deference (尊敬，敬重) + -ence (名词后缀) ——> 尊敬、恭顺
 
 deferred / dɪˈfɜːd /
@@ -959,12 +908,11 @@ v. 推迟（defer 的过去式及过去分词形式）
 2.The department deferred the decision for six months. 这个部门推迟了六个月才作决定。
 3.Any significant changes should be deferred to a future generation of the solution to maintain its stability. 任何重大更改都应推迟到该解决方案的下一代，以保持其稳定性。
 [搭]
-1.deferred payment 金融  延期付款；分期付款；递延付款
-2.deferred assets 会计  递延资产；长期待摊费用
+1.deferred payment 延期付款；分期付款；递延付款
+2.deferred assets 递延资产；长期待摊费用
 3.Deferred charges 递延费用；待摊费用；递延资产；递延借项
-4.deferred payment 延期付款
-5.deferred tax 递延税款
-6.deferred income 递延收入，递延收益
+4.deferred tax 递延税款
+5.deferred income 递延收入，递延收益
 [联]de (推迟) + fer (携带) + red (红色的) ——> 推迟携带的东西变成红色的
 
 deferential / ˌdefəˈrenʃ(ə)l /
@@ -988,12 +936,10 @@ n.（Harbor）（美）哈伯（人名）
 2.Ships last a lot longer when they go to sea than when they stay in the harbor. 出海的船舶寿命要比留在港口里的船舶寿命长得多。
 3.Though smaller than many other phocids, harbor seals are similar in size to most otariids. 虽然港海豹的体型较小，但其体型与大多数的 otariids（海狮和海狗）相似。
 [搭]
-1.Pearl Harbor 珍珠港；真珠港；珍珠港事件；珍珠港专辑
-2.Safe Harbor 避风港；免责规定；安全港规则
+1.pearl harbor 珍珠港；真珠港；珍珠港事件；珍珠港专辑
+2.safe harbor 安全港；避风港
 3.Apra Harbor 阿普拉港；及阿帕拉港
-4.pearl harbor 珍珠港（美国夏威夷港口）
-5.safe harbor 安全港；避风港
-6.harbor basin 港池；港域
+4.harbor basin 港池；港域
 [联]harbor (海港) + -or (表人) ——> 海港管理员
 
 pyramid / ˈpɪrəmɪd /
@@ -1045,12 +991,11 @@ v. 冒失地提出，冒险猜测；使遭危险，使处于危险
 2.Catching colds is unfortunately an occupational hazard in this profession. 不幸的是，患感冒是这个行业的职业风险。
 3.The recent outbreaks of cholera are a timely reminder that this disease is still a serious health hazard. 最近几次爆发的霍乱是一个适时的提醒，该疾病依然是个严重的健康危害。
 [搭]
-1.moral hazard 社科  道德风险；道德危险；道德危机；道德危害
+1.moral hazard 道德危机；由于投保人可能不可靠所冒的风险
 2.hazard ratio 风险比；危险比；危害比
 3.hazard identification 危险源辨识；危害鉴定；危险
-4.moral hazard 道德危机；由于投保人可能不可靠所冒的风险
-5.hazard analysis 危害分析
-6.fire hazard 火灾；火灾隐患
+4.hazard analysis 危害分析
+5.fire hazard 火灾；火灾隐患
 [联]risk + ard ——> 冒险的人
 
 hazardous / ˈhæzərdəs /
@@ -1060,10 +1005,9 @@ adj. 危险的，有害的；碰运气的
 2.The report calls for a ban on the import of hazardous waste. 这篇报道呼吁禁止危险废弃物的进口。
 3.They have no way to dispose of the hazardous waste they produce. 他们没法处理那些由他们制造出来的危害性废弃物。
 [搭]
-1.Hazardous wastes 危险废物
+1.hazardous wastes 危险废物；有害垃圾
 2.hazardous substance 危险物质；有害物质；有毒有害物质或元素；危险物
-3.Hazardous Article 交  危险品；危险物品；有害物品
-4.hazardous waste 危险废物；有害垃圾
+3.hazardous article 危险品；危险物品；有害物品
 5.hazardous material 有害物质；危险品
 6.hazardous area 危险区；危险场地
 [联]haz (警告) + ard (勤奋的) + ous (充满……的) ——> 充满警告的、危险的
@@ -1079,9 +1023,8 @@ v. 挖沟，修渠；<非正式>摆脱，抛弃；<美，非正式>逃学，旷�
 1.drainage ditch 排水沟；臭水沟；排水渠道；排水渠
 2.oxidation ditch 氧化沟；氧化沟法；氧化渠；氧化沟技术
 3.oily ditch seal 油沟密封
-4.oxidation ditch 氧化沟
-5.foundation ditch 基坑；基础沟
-6.last ditch 最后防线，最后手段
+4.foundation ditch 基坑；基础沟
+5.last ditch 最后防线，最后手段
 [联]ditch (沟渠) + escape (逃脱) ——> 挖沟逃脱
 
 ditcher / ˈdɪtʃə(r) /
@@ -1095,7 +1038,7 @@ n. 挖沟机，开沟机；挖沟人，挖沟工
 [联]ditch (沟渠) + er (表示人) ——> 挖沟渠的人
 
 rail / reɪl /
-n. 铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘；（电子）定电位导体轨；秧鸡
+n. 铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘
 v. 用栏杆把……围起，把……隔开；<正式>谴责，抱怨；由铁路运送（货物）；（风帆冲浪用语）斜板滑行
 [例]
 1.Raw materials and labour come by ship , rail or road. 从水上、铁路和公路运来原料和工人。
@@ -1120,7 +1063,7 @@ v. 迫使……仓促行事，强迫……做；迫使……草率通过；<美>
 [搭]
 1.railroad tie 枕木
 2.railroad line 铁路运输公司
-3.Underground Railroad 地下铁路；地下铁道；地下逃亡线；表演者
+3.underground railroad 地下铁路；地下铁道；地下逃亡线；表演者
 4.railroad car 有轨电车
 5.railroad industry 铁路工业
 6.railroad station 火车站；铁路车站
@@ -1167,7 +1110,6 @@ n. 背离；离开，启程
 3.airport of departure 始发站；始发站机场；机场；启运地
 4.departure from 离开；违反，违背
 5.point of departure 出发地
-6.departure time 出发时间；撤离时刻；起飞时刻
 [联]depart (离开) + ure (名词后缀) ——> 离开的状态或行为
 
 department / dɪˈpɑːrtmənt /
@@ -1177,12 +1119,11 @@ n.（组织或机构中的）部，司，系，处，科；（商场里的）部
 2.She resigned as head of department. 她辞去了部门主管的职务。
 3.His department will merge with mine. 他的部门将和我的合并。
 [搭]
-1.Department Store 贸易  百货公司； 贸易  百货商店；百货商场；百货店
-2.Department of Justice 美国司法部；反不正当竞争部门
+1.department store 贸易  百货公司； 贸易  百货商店；百货商场；百货店
+2.department of Justice 美国司法部；反不正当竞争部门
 3.planning department 企划部；计划司；计划部
-4.department store 百货公司；百货商店
-5.state departmentn.  （美国）国务院
-6.sales department 业务部，营业部
+4.state department（美国）国务院
+5.sales department 业务部，营业部
 [联]de (的) + part (部分) + ment (名词后缀) ——> 部门
 
 transform / trænsˈfɔːrm /
@@ -1193,9 +1134,9 @@ n.（数，语言学）变换式，转换句；（数，语言学）转换规则
 2.She actually wanted to reconstruct the state and transform society. 她其实想改造这个国家并完全改变社会。
 3.How do we transform one type of file to another?我们如何将一种文件类型转换为另一种类型？。
 [搭]
-1.Laplace transform 拉普拉斯变换；拉普拉斯转换；拉氏变换；拉氏转换
-2.Fourier transform 傅里叶变换
-3.Hough transform 霍夫变换
+1.laplace transform 拉普拉斯变换；拉普拉斯转换；拉氏变换；拉氏转换
+2.fourier transform 傅里叶变换
+3.hough transform 霍夫变换
 4.fourier transform 傅里叶变换
 5.fast fourier transform 快速傅里叶变换
 6.transform into 转变成
@@ -1208,16 +1149,14 @@ n. 变压器；促使改变的人（或物）；（计算机）转换器
 2.At a worktable inside the transformer plant, young Jason Stenquist looks flustered by the copper coils he's trying to assemble and the arrival of two visitors. 在变压器厂的一张工作台边，年轻的 Jason Stenquist 似乎被他正在组装的铜线圈和两位来访者的到来弄得很慌乱。
 3.The coupling coefficient of transformer relates the transforming efficiency. 变压器的耦合系数与变压器的效率有关。
 [搭]
-1.TRANSFORMER OIL 电  变压器油；变压仆
-2.current transformer 电  电流互感器； 电  变流器；电流变压器
-3.flyback transformer 电  回扫变压器；回转变压器；反激变压器；高压包
+1.transformer substation 变电站，变电所
+2.current transformer 电流互感器；变流器；电流变压器
+3.flyback transformer 回扫变压器；回转变压器；反激变压器；高压包
 4.power transformer 电力变压器，电源变压器
-5.current transformern.  电流变换器
-6.transformer substation 变电站，变电所
 [联]trans (转变) + former (形成者) ——> 变形金刚
 
 transformation / ˌtrænsfəˈmeɪʃ(ə)n /
-n.（彻底或重大的）改观，变化，转变；（用于南非）民主改革；舞台场景的突变；（动物生命周期中的）变态；（物理）嬗变，核的转换；（数，逻）变换；（语言学）转换；（生）遗传转化；（生）细胞转化
+n.（彻底或重大的）改观，变化，转变；（用于南非）民主改革；舞台场景的突变；（动物生命周期中的）变态；（物理）嬗变，核的转换；（数，逻）变换
 [例]
 1.The transformation of American sea power began in 1940. 美国海军力量的改革开始于1940年。
 2.Norah made plans for the transformation of an attic room into a study. 诺拉制订了将阁楼间改造为书房的几个方案。
@@ -1255,8 +1194,7 @@ n.（尤指广播、电视信号）发射机，发射台；传播者，传递媒
 2.video transmitter 电讯,电讯  视频发射机
 3.flow transmitter 自  流量变送器
 4.pressure transmitter 压力变送器；压力传送器
-5.radio transmitter 无线电广播发射机
-6.radar transmitter 雷达发射器
+5.radar transmitter 雷达发射器
 [联]trans (传递) + mitt (发送) + er (名词后缀) ——> 发送器
 
 transmittance / trænsˈmɪtəns /
@@ -1273,12 +1211,12 @@ n. [光] 透射比；透明度
 [联]trans- (转移，传递) + mittance (发送，传输) ——> 透光率
 
 transfer / trænsˈfɜːr /
-v.（使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）；转接（电话）；将（钱）转到（另一个账户上）；转让（财产，权利），移交（责任）；转用；转存，转录（资料、音乐等），改编；（旅途中）转乘，换乘；转印（图画，图案）；（通过延伸、隐喻）转变（词义，短语义）
-n. 转移，转让，调动；（运动员）转会；转换，过渡；已调动的人，已转移的东西；（旅行中）转乘，转搭；<美>转车票，换乘票；纸上可转印的图画或图案；迁移（将已习得的行为在新的情况下应用）
+v.（使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）
+n. 转移，转让，调动；（运动员）转会；转换，过渡；已调动的人，已转移的东西；（旅行中）转乘，转搭；<美>转车票，换乘票；纸上可转印的图画或图案
 [例]
 1.The novel does not transfer well to the movies. 这部小说不太适宜改编成电影。
 2.You can transfer data to a disk in a few seconds. 你可以在几秒钟内将数据转存到磁盘上。
-3.How can I transfer money from my bank account to his?怎么才能把我账户上的钱转到他的账户上呢？《牛津词典》。
+3.How can I transfer money from my bank account to his?怎么才能把我账户上的钱转到他的账户上呢？。
 [搭]
 1.heat transfer 热  传热；传热学； 热  热量传递
 2.Technology Transfer 技术转移； 专利  技术转让；技术转让谈判
@@ -1292,13 +1230,11 @@ transferable / trænsˈfɜːrəb(ə)l /
 adj. 可转让的；[数] 可转移的
 [例]
 1.The key idea behind professionalisation, argues Menand, is that "the knowledge and skills needed for a particular specialisation are transmissible but bot transferable". 梅南认为，职业化背后的关键是“特定专业所需的知识和技能是可传递但不可转移的”。
-2.But the key idea behind professionalization, argues Mr.  Menand, is that "the knowledge and skills needed for a particular specialization are transmissible but not transferable. "但是，莫南德先生认为，专业化背后的关键理念是：“对于某一特定的专业来说，所需知识和技能可以传授，但不可以转让。
+2.But the key idea behind professionalization, argues Mr. Menand, is that "the knowledge and skills needed for a particular specialization are transmissible but not transferable. "但是，莫南德先生认为，专业化背后的关键理念是：“对于某一特定的专业来说，所需知识和技能可以传授，但不可以转让。
 3.Asking juicy questions appears to be a transferable skill for deepening collaborative inquiry into the science content found in exhibits. 提出有趣的问题似乎是一种可以转移的技巧，可以深化对展览中发现的科学内容的合作探究。
 [搭]
 1.transferable credit 可转让信用证；可转帐信用证；转让信用状
-2.transferable L 可转让信用证
-3.Transferable Skills 可转换的技巧；可转移的能力；可迁移技能
-4.transferable credit 可转让信用状
+2.transferable skills 可转换的技巧；可转移的能力；可迁移技能
 [联]trans + fer + able ——> 可转移的
 
 cycle / ˈsaɪk(ə)l /
@@ -1311,10 +1247,8 @@ v. 骑自行车；循环
 [搭]
 1.life cycle 生命周期； 生物  生活史； 生物  生活周期；生命期
 2.business cycle 贸易  商业周期；经济周期；景气循环；商业循环
-3.Cell Cycle 细胞  细胞周期；周期；细胞循环；三．细胞周期
-4.life cycle 寿命周期；生存期
-5.cell cycle 细胞周期
-6.development cycle 开发周期
+3.cell cycle 细胞周期；周期；细胞循环；三．细胞周期
+4.development cycle 开发周期
 [联]bi (自行车) + cycle (循环) ——> 自行车的循环使用
 
 cyclone / ˈsaɪkloʊn /
@@ -1326,9 +1260,8 @@ n. 气旋，龙卷风
 [搭]
 1.tropical cyclone 气象  热带气旋；热带旋风；飓风；寒带气旋
 2.extratropical cyclone 气象  温带气旋；中纬度气旋
-3.Cyclone Monica 热带气旋莫妮卡
+3.cyclone monica 热带气旋莫妮卡
 4.cyclone separator 旋风分离器（除尘器）
-5.tropical cyclone 热带气旋
 [联]cycl (自行车) + one (一) ——> 一种像自行车轮一样的旋转风暴
 
 cyclist / ˈsaɪklɪst /
@@ -1338,9 +1271,9 @@ n. 骑自行车的人
 2.He beeped his horn at the cyclist. 他对骑自行车的人按喇叭。
 3.She swerved sharply to avoid a cyclist. 她猛地急转弯，以躲开一个骑自行车的人。
 [搭]
-1.The Solitary Cyclist 孤身骑车人
+1.the solitary cyclist 孤身骑车人
 2.trick cyclist 精神病医生
-3.Psycho Cyclist 极限自行车；疯狂自行车；街头自行车
+3.psycho cyclist 极限自行车；疯狂自行车；街头自行车
 [联]cycle (循环，周期) + list (列表) ——> 从事循环运动的人，如骑自行车的人
 
 recycle / ˌriːˈsaɪk(ə)l /
@@ -1351,11 +1284,10 @@ n. 回收利用，循环使用
 2.The power of the Green movement in Germany has made that country a leader in the drive to recycle more waste materials. 德国环保运动的力量已经使该国成了循环利用更多废料运动中的领先者。
 3.We can recycle plastic bottles. 我们可以回收塑胶瓶。
 [搭]
-1.Recycle Bin 回收站；垃圾箱；资源回收桶；鬼域
+1.recycle bin 回收站；垃圾箱；资源回收桶；鬼域
 2.recycle pump 再循环泵；循环泵；炉水循环泵；洗涤循环水泵浦
 3.fuel recycle 能源  燃料再循环
-4.recycle bin 回收站；资源回收筒
-5.recycle gas 回注气，循环气
+4.recycle gas 回注气，循环气
 [联]re (再，回) + cycle (循环) ——> 再循环
 
 recyclable / ˌriːˈsaɪkləbl /
@@ -1393,10 +1325,9 @@ adj. 周期的，循环的
 2.There is also a cyclical pattern in fashion. 时尚业也存在着一个周期性的模式。
 3.In this situation, the predator and prey population may continue in this cyclical pattern for some time. 在这种情况下，捕食者和被捕食者可能会在一段时间内继续这种循环模式。
 [搭]
-1.cyclical unemployment 劳经  周期性失业；周期性赋闲
-2.cyclical fluctuation 统计  循环变动；周期波动；循环波动
+1.cyclical unemployment 周期性失业；周期性赋闲
+2.cyclical fluctuation 循环变动；周期波动；循环波动
 3.Cyclical Variation 循环变动； 数  周期性变动；轮回变动
-4.cyclical fluctuationn.  循环变动，周期性波动
 [联]cycle (循环) +lical (形容词后缀) ——> 循环的
 
 swift / swɪft /
@@ -1409,11 +1340,8 @@ adv. <文> （在组合形式以外为诗歌或文学用于）迅速
 3.Our task is to challenge the U. N.  to make a swift decision. 我们的任务是敦促联合国做出迅速的决定。
 [搭]
 1.Taylor Swift 泰勒；泰勒·史薇芙特；泰勒斯威夫特
-2.Jonathan Swift 乔纳森·斯威夫特；斯威夫特；乔纳森斯威夫特；江纳生·斯威夫特
-3.SWIFT code 银行代码；银行国际代码；国际汇款代码；电汇代码
-4.taylor swift 泰勒·斯威夫特（乡村女歌手）
-5.swift growth 快速增长
-6.jonathan swiftn.  乔纳森·斯威夫特（英国政治家及小说家）
+2.Jonathan Swift 乔纳森·斯威夫特
+3.growth 快速增长
 [联]swift (敏捷的) + foot (脚) ——> 敏捷的脚
 
 swiftly / ˈswɪftli /
@@ -1425,7 +1353,7 @@ adv. 很快地；敏捷地；即刻
 [搭]
 1.too swiftly flown away 飞快地掠过；太早飞离；太迅速飞走
 2.swiftly ad 迅速地
-3.To swiftly flown away 瞬间飞走
+3.to swiftly flown away 瞬间飞走
 [联]swift (迅速的) + -ly (副词后缀，表方式) ——> 迅速地
 
 auto / ˈɔːtoʊ /
@@ -1439,10 +1367,9 @@ comb. 与汽车相关的；自动的；自身的；自发的
 [搭]
 1.Grand Theft Auto 侠盗猎车手；侠盗猎车；侠盗飞车；疯狂恋爱跑天下
 2.Auto China 北京国际汽车展览会；北京车展；北京国际车展；汽车展览会
-3.Grand Theft Auto IV 侠盗猎车手；侠盗飞车；侠盗车手
+3.auto sales 自动售货机（auto sale 的复数）；汽车销售额
 4.auto parts 汽车配件；汽车零件
 5.auto industry 汽车工业；汽车业；汽车行业
-6.auto sales 自动售货机（auto sale 的复数）；汽车销售额
 [联]auto (自动) + mate (伙伴) ——> 自动伴侣
 
 autonomous / ɔːˈtɒnəməs /
@@ -1453,11 +1380,9 @@ adj. 自治的，有自治权的；自主的，有自主权的；自动的
 3.The next wave of autonomous farm machinery is already at work. 下一波自主农业机械的浪潮已经开始发挥作用。
 [搭]
 1.autonomous system 计  自治系统； 计  自主系统；自激系统；自值统
-2.Autonomous Prefecture 自治州；民族自治州
+2.autonomous prefecture 自治州
 3.autonomous region 社科  自治区；内蒙古自治区；从乱区
-4.autonomous region 自治区
-5.autonomous county 自治县
-6.autonomous prefecture 自治州
+4.autonomous county 自治县
 [联]auto (自我) + nomous (法律的) ——> 自治的
 
 automatically / ˌɔːtəˈmætɪkli /
@@ -1492,12 +1417,11 @@ n. 自动换挡汽车；自动武器
 2.She set the camera on automatic. 她把照相机调到自动状态。
 3.Modern trains have automatic doors. 现代火车都有自动门。
 [搭]
-1.automatic control 自  自动控制；自动操纵；自动第；自控
+1.automatic control 自动控制；自动操纵；自动第；自控
 2.automatic transmission 车辆  自动变速器； 机  自动变速装置；自动换档；自动发报
-3.Automatic teller machine 自动取款机；自动柜员机； 会计  自动出纳机
-4.automatic control 自动控制
-5.automatic control system 自动控制系统
-6.fully automatic 全自动的
+3.automatic teller machine 自动取款机；自动柜员机； 会计  自动出纳机
+4.automatic control system 自动控制系统
+5.fully automatic 全自动的
 [联]auto (自我) + matic (自动的) ——> 自动的、自动化的
 
 garage / ɡəˈrɑːʒ /
@@ -1550,7 +1474,7 @@ n. 航空，飞行（术）；航空工业，飞机工业
 [联]aviation (航空) + -ation (名词后缀) ——> 航空相关事物
 
 wagon / ˈwæɡən /
-n.（一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人
+n.（一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车
 v. 用运货马车运输货物
 [例]
 1.The wagon jolted again. 马车又颠簸起来。
@@ -1572,12 +1496,10 @@ adj. 直线的，线性的；长度的；连续的，连贯的；（关系）直
 2.In his art he broke the laws of scientific linear perspective. 他在自己的绘画艺术中打破了科学的直线透视法规律。
 3.The slope of this linear fitting equation is 0. 432 cm/sheet. 该线性拟合方程的斜率为0. 432 cm/张。
 [搭]
-1.Linear Programming 数  线性规划；第二十九章；线性程序编制；线性规划法
-2.Linear Algebra 数  线性代数；线形代数；线性代数 B；线性代数 A
-3.linear regression 数  线性回归；直线回归；线性回归分析；线性衰退
-4.linear regression 线性回归
-5.linear programmingn.  线性规划
-6.linear model 线性模型；线性模式
+1.linear programming 线性规划；第二十九章；线性程序编制；线性规划法
+2.linear algebra 线性代数；线形代数；线性代数 B；线性代数 A
+3.linear regression 线性回归；直线回归；线性回归分析；线性衰退
+4.linear model 线性模型；线性模式
 [联]line (线) + ar (形容词后缀) ——> 线性的
 
 tyre / ˈtaɪər /
@@ -1588,16 +1510,15 @@ v. 装轮胎于……
 2.His bike's rear tyre punctured. 他的自行车的后胎被扎破了。
 3.She taught me how to change a tyre. 她教会了我换轮胎。
 [搭]
-1.Front tyre 前轮尺寸；前轮胎；前轮
-2.Rear tyre 后轮尺寸；后方轮胎；后轮胎
+1.front tyre 前轮尺寸；前轮胎；前轮
+2.rear tyre 后轮尺寸；后方轮胎；后轮胎
 3.tyre lever 轮胎撬杠；撬棒；卸外胎用的撬棍；装胎杆
 4.tyre pressure 轮胎气压
-5.flat tyre 瘪胎
-6.tyre cord 轮胎帘线；轮胎帘子布
+5.tyre cord 轮胎帘线；轮胎帘子布
 [联] tyre (轮胎) + car (汽车) ——> 汽车轮胎
 
 cross / krɔːs /
-v. 反对；杂交；在（支票）上划线（表示只能转入银行帐户）；超过，超出（极限或范围）；（表情）掠过，闪过；（基督教徒）画十字；横传；（两封来往的信）相互错过，相互交错；做斗鸡眼；穿越，横渡；交叉
+v. 反对；杂交；在（支票）上划线（表示只能转入银行帐户）；超过，超出（极限或范围）；（表情）掠过，闪过；（基督教徒）画十字；横传
 n. 十字标记，十字形（或叉形）物；杂交，混合物；十字架；苦难；横传；（拳击中的）钩拳迎击
 adj. 恼怒的；脾气坏的，易怒的；（街道）交叉的，十字的
 [例]
@@ -1607,10 +1528,9 @@ adj. 恼怒的；脾气坏的，易怒的；（街道）交叉的，十字的
 [搭]
 1.iron cross 铁十字勋章；铁十字；钢铁十字；铁十字皮带扣
 2.cross out 划掉；删去；取消；删除
-3.Red cross 红十字；红十字组织
+3.red cross 红十字；红十字组织
 4.cross oneself 在自己身上用手画十字(表示祈求上帝保佑)
 5.on the cross 不光明正大地；对角
-6.red crossn.  红十字会
 [联]cross (交叉) + road (道路) ——> 人行横道
 
 parcel / ˈpɑːrs(ə)l /
@@ -1622,11 +1542,10 @@ v. <英>把……包起来（parcel sth.  up）；分配（parcel sth.  out）�
 3.I managed secretly to undo a corner of the parcel. 我设法偷偷地打开包裹的一角。
 [搭]
 1.parcel receipt 包裹收据；小包收据；包裹收条；包裹提单
-2.parcel post 包裹邮寄； 邮  包裹邮递；包裹邮件；邮包
-3.parcel post receipt 邮  邮包收据；邮政包裹收据；邮政收据；邮包收条
+2.parcel post 包裹邮寄；包裹邮递；包裹邮件；邮包
+3.parcel post receipt 邮包收据；邮政包裹收据；邮政收据；邮包收条
 4.part and parcel 必要部分；重要的部分
 5.part and parcel of 不可缺少的一部分
-6.parcel post 邮政包裹；包裹邮递
 [联]paper (纸) + parcel (包裹) ——> 用纸包裹的东西
 
 parcellation / ˌpɑːsəˈleɪʃən /
@@ -1654,7 +1573,7 @@ n. 隧道，地道；（动物的）洞穴通道；运动场运动员通道；�
 v. 开凿隧道，挖地道；（物理）（粒子）穿透势垒，隧（道贯）穿
 [例]
 1.He passed down the tunnel. 他穿过隧道。
-2.How long is the tunnel?这隧道有多长？《柯林斯英汉双解大词典》。
+2.How long is the tunnel?这隧道有多长？。
 3.The tunnel was blasted out of solid rock. 这条隧道是在坚固的岩石中炸出来的。
 [搭]
 1.wind tunnel 航  风洞；风洞风洞；风
@@ -1666,7 +1585,7 @@ v. 开凿隧道，挖地道；（物理）（粒子）穿透势垒，隧（道�
 [联]under + ground + passage ——> 地下通道
 
 truck / trʌk /
-n. 卡车，载重汽车；<英>（铁路）运货车皮，敞篷货运火车；（运送东西的）手推车，手拉车；火车转向架；（滑板的）轮转轴；（桅杆或旗杆顶端有孔可穿升降索的）桅冠，旗杆冠；<古>交易，买卖；<美>商品菜园产物（尤指蔬菜）
+n. 卡车，载重汽车；<英>（铁路）运货车皮，敞篷货运火车；（运送东西的）手推车，手拉车；火车转向架；（滑板的）轮转轴
 v. <美>用卡车装运；<美>驾驶卡车；轻松前进，平稳前进；<古>交换，交易
 [例]
 1.She hitched a lift on a truck. 她免费搭乘了一辆卡车。
@@ -1703,12 +1622,11 @@ n. 拖，拉，牵引，拉力，牵引力；（车轮等对地面的）附着�
 2.Scientific and accurate analysis and calculation on the requirement for traction force is necessary when the impact compactor is working. 冲击式压路机在工作时，对牵引力的要求进行科学准确的分析计算十分必要。
 3.Isabelle's legs were in traction for about two and a half weeks. 伊莎贝尔的双腿作了大约两周半的牵引。
 [搭]
-1.traction motor 电  牵引电动机；牵引马达；牵引电机；电车用电动机
+1.traction motor 牵引电动机；牵引马达；牵引电机；电车用电动机
 2.traction control system 牵引力控制系统；循迹控制系统；牵引控制系统；循迹系统
-3.Electric Traction 电力拖动； 电  电力牵引；电牵引； 电  电气牵引
+3.electric traction 电力拖动；电力牵引；电牵引；电气牵引
 4.traction power 牵引力
 5.traction control 牵引力控制系统；循迹控制系统
-6.traction motor 牵引电动机；牵引马达；电车用电动机
 [联]tract (拉，拖) + ion (名词后缀) ——> 牵引力
 
 tractable / ˈtræktəb(ə)l /
@@ -1730,9 +1648,8 @@ n. 卡车司机；从事货车运输业者
 2.Another friend mentioned he'd become a trucker. 另一个朋友提到他会成为货车司机。
 3.Kim then runs to the highway and flags down a trucker for help. 金姆跑向公路，向一个卡车司机挥手示意，寻求帮助。
 [搭]
-1.Trucker 2卡车司机；正宗卡车司机
-2.Galaxy Trucker 银河卡车；银河卡车司机；银河货运
-3.trucker hat 卡车司机帽；司机帽
+1.trucker hat 卡车司机帽；司机帽
+2.galaxy trucker 银河卡车；银河卡车司机；银河货运
 [联]truck (卡车) + er (表示从事某职业的人) ——> 卡车司机
 
 truckload / ˈtrʌkləʊd /
@@ -1743,8 +1660,7 @@ n. 一货车的容量；货车荷载；（非正式）大量
 3.Having kids means buying lots and lots of stuff, including a truckload of toys. 有了孩子就意味着要买很多很多的东西，一卡车的玩具是少不了喽。
 [搭]
 1.LTL Less-than-truckload 散货拼车
-2.less than truckload 不足一车零担
-3.less-than-truckload 使得许多零担运输；货运的零担货运；零担运输
+2.less than truckload 不足一车零担；使得许多零担运输；货运的零担货运；零担运输
 [联]truckload (一卡车) + of (……的) + goods (货物) ——> 一卡车的货物
 
 sternal / ˈstɜːrnl /
@@ -1768,11 +1684,9 @@ v. 航行，远行
 3.This voyage was his first taste of freedom. 这次航行使他第一次体验到自由的滋味。
 [搭]
 1.voyage charter 租赁  定程租船； 租赁,船  程租船；航次租赁；航次租船
-2.Bon Voyage 一路顺风；旅途愉快；海贼王；一路平安
-3.Round voyage 往返航次；全航程；往出航次； 交  往返航程
-4.maiden voyagen.  初航，首航，处女航
-5.sea voyage 远航，航海
-6.bon voyage 一路平安
+2.sea voyage 远航，航海
+3.round voyage 往返航次；全航程；往出航次；往返航程
+4.maiden voyage 初航，首航，处女航
 [联]voyage (航行) + age (时期，状态) ——> 航行的时期
 
 airplane / ˈeəpleɪn /
@@ -1817,9 +1731,8 @@ v. 滚（球，箍或其他圆形物）；（板球等）投球；击中三柱�
 1.Super Bowl 超级碗；超级杯；超等碗；美国橄榄球超级杯大赛
 2.Rose Bowl 玫瑰碗；玫瑰杯；玫瑰碗体育场；玫瑰杯美式足球赛
 3.Hollywood Bowl 好莱坞露天剧场；露天剧场；好莱坞露天戏院
-4.super bowl 美国橄榄球超级杯大赛
+4.rice bowl 饭碗；水稻种植区
 5.mixing bowl 搅拌钵；混料罐；[美俚]公路交叉点
-6.rice bowln.  饭碗；水稻种植区
 [联]basin (盆) + well (井) ——> 一个用来取水的盆状结构
 
 bower / ˈbaʊə(r) /
@@ -1831,8 +1744,7 @@ vt. 荫蔽
 3.It builds a roofed bower, complete with moss flooring, and ornaments from the surrounding forests—including fruits, berries, and acorns. 它修建了一个有屋顶的凉亭，配有苔藓地板和从周围的森林里收集的装饰品——包括水果、浆果和橡子。
 [搭]
 1.Jamie Campbell Bower 杰米·坎贝尔·鲍尔；占美保华；影后哈莉·贝瑞
-2.Marvin Bower 马文·鲍尔；马特·布朗；鲍尔先生
-3.bower anchor 船  首锚；艏锚；船头锚
+2.bower anchor 首锚；艏锚；船头锚
 [联]bower (凉亭) + er (表示人) ——> 凉亭建造者
 
 bowel / ˈbaʊəl /
@@ -1846,8 +1758,7 @@ n. 肠，肠道；内部，深处
 2.inflammatory bowel disease 炎症性肠病；炎性肠病；发炎性肠道疾病；疾病
 3.bowel obstruction 肠梗阻；肠阻塞
 4.bowel movement 排便
-5.irritable bowel syndrome[医]肠道易激综合症
-6.small bowel 小肠
+5.small bowel 小肠
 [联]intestine (肠道) + tract (管状物) ——> 消化道
 
 curb / kɜːrb /
@@ -1862,7 +1773,7 @@ n. 控制，抑制；<美>路缘，马路牙子；（马的跗关节后部因扭
 2.Curb weight 汽车整备质量；整备质量；整车质量；车辆整备重量
 3.Pull over the curb 靠路边停车；靠路边泊车
 4.curb inflation 抑制通货膨胀
-5.curb marketn.  场外交易市场；股票证券场外交易市场
+5.curb market 场外交易市场；股票证券场外交易市场
 [联]curb (路缘) + b (字母b) ——> 路缘像字母b的形状
 
 lorry / ˈlɔːri /
@@ -1876,7 +1787,6 @@ n. 卡车，货运汽车
 2.breakdown lorry 工程救险车；修理车；救险起重车；救险汽车
 3.lorry crane 货车吊机；机动式起重吊车；随车起重机
 4.lorry driver 卡车司机
-5.lorry crane 货车吊机；机动式起重吊车
 [联]lorry (卡车) + carry (运送) ——> 运送货物的车辆
 
 motor / ˈmoʊtər /
@@ -1943,7 +1853,7 @@ n. 高速公路；宽平滑雪道
 2.The getaway car was dumped near the motorway. 那辆逃亡的小汽车被丢弃在高速公路附近。
 3.A nine-mile stretch of motorway has been closed. 一段九英里长的高速公路已关闭。
 [搭]
-1.Entry to motorway 高速入口；高速进口
+1.entry to motorway 高速入口；高速进口
 2.approaching end of motorway 即将驶出高速；公路和交通；行将驶出高速
 3.Service Zone At Motorway 高速公路服务区
 [联]motor (发动机) + way (道路) ——> 高速公路
@@ -1965,12 +1875,12 @@ v. 窝藏，庇护；心怀（想法、感受等）；带有（某种疾病）�
 [联]harbour (海港，军港) + -our (表状态或性质的后缀) ——> 海港状态
 
 passage / ˈpæsɪdʒ /
-n. 过道，走廊；（人体的）管道；段落，章节；通道，通路；通行权，通行许可；经过，穿过；（时间的）流逝；（法案的）通过；航程，船票；过渡，转变；（候鸟的）迁徙；<医>（微生物的）传代；巴沙基（盛装舞步和古典骑术的高抬腿舞步）
+n. 过道，走廊；（人体的）管道；段落，章节；通道，通路；通行权，通行许可；经过，穿过；（时间的）流逝；（法案的）通过；航程，船票；过渡，转变
 v. <医>使（微生物）继代移种
 [例]
 1.He read a passage from Emerson. 他读了一段爱默生的作品。
 2.Mack knew this passage by heart. 麦克会背这一段。
-3.Can you translate this passage into German?你能把这一段文字译成德语吗？《牛津词典》。
+3.Can you translate this passage into German?你能把这一段文字译成德语吗？。
 [搭]
 1.Drake Passage 德雷克海峡；穿越德雷克海峡；德瑞克海峡；克海峡
 2.Northwest Passage 西北水道；神枪游侠；西北航道；西北通道
@@ -1994,12 +1904,11 @@ v. 驾驶（飞行器）；领航；试验，试行；使（新法律）顺利�
 3.Pilot Officer 军  空军少尉；少尉；引航员；军衔
 4.pilot test 小规模试验；初步试验
 5.pilot project 试点项目，试点工程；样板工程，样板设计
-6.pilot studyn.  初步研究；预备试验；飞行员研究
+6.pilot study 初步研究；预备试验；飞行员研究
 [联]air (空气) + plane (飞机) ——> 飞行员
 
 seaman / ˈsiːmən /
 n. 海员，水手；水兵
-n.（Seaman）人名；（英）西曼；（意、瑞典）塞亚曼
 [例]
 1."Yes, can't you remember when we were very little," said the old seaman, "and ran and played about?"“是的，”老水手说，“你记得吗？我们小的时候常常在一起跑，一起玩耍。
 2."I'm a seaman second class, " came the reply. “我是二等水兵。
@@ -2018,9 +1927,9 @@ n. 马力（功率单位）
 2.Horsepower was hostile to them. 马力对他们很有敌意。
 3.Horsepower rushed out of the hut. 马力冲出了棚屋。
 [搭]
-1.air horsepower 机  空气马力；轴功率；空气功率；气体马力
-2.nominal horsepower 物  标称马力；额定功率； 机  额定马力；标准马力
-3.effective horsepower 电  有效马力；有效功率；轴功率
+1.air horsepower 空气马力；轴功率；空气功率；气体马力
+2.nominal horsepower 标称马力；额定功率；额定马力；标准马力
+3.effective horsepower 有效马力；有效功率；轴功率
 4.brake horsepower 制动马力；煞车马力
 [联]horse (马) + power (力量) ——> 马力
 
@@ -2031,9 +1940,9 @@ adj. 破坏性的，毁灭性的
 2.The war was a paradigm of the destructive side of human nature. 那场战争尽显人性中具有破坏性的一面。
 3.Tanks are heavy on fuel, destructive to roads and difficult to park. 坦克耗油量大，对道路有破坏性，并且难以停放。
 [搭]
-1.destructive interference 光  相消干涉； 光  相消干扰；破坏性干扰；破坏性干涉
+1.destructive interference 相消干涉； 相消干扰；破坏性干扰；破坏性干涉
 2.Destructive wear 破坏性磨损；毁坏性磨损
-3.destructive read 破环读出；破坏性读取； 计  破坏读出；破坏性阅读
+3.destructive read 破环读出；破坏性读取；破坏读出；破坏性阅读
 4.destructive power 破坏力
 5.destructive testing 破坏性试验
 6.destructive effect 破坏性
@@ -2064,7 +1973,7 @@ v. 破坏，摧毁；（在精神上）毁掉，使崩溃；杀死，消灭（�
 [联]de (破坏) + stroyed (建造的过去式) ——> 被破坏的建筑物
 
 bind / baɪnd /
-v. 捆绑，系；包扎；使紧密联系；迫使，使负有义务（或责任）；（使）凝结，（使）粘合；装订；给……镶边，给……滚边；（量词）适用于（给定的变量）；（规则，语法条件）决定（共指名词词组）之间的关系；（食物，药品）使便秘
+v. 捆绑，系；包扎；使紧密联系；迫使，使负有义务（或责任）；（使）凝结，（使）粘合；装订；给……镶边，给……滚边；（量词）适用于（给定的变量）
 n. 窘境，困境；令人不快的事情；法律约束；连结线；蔓，藤
 [例]
 1.Take him home and bind his wounds. 带他回家，包扎他的伤口。
@@ -2073,15 +1982,13 @@ n. 窘境，困境；令人不快的事情；法律约束；连结线；蔓，�
 [搭]
 1.Bind Skin 绑定蒙皮；绑定皮肤；也叫皮肤绑定；蒙皮
 2.Go to Bind Pose 恢复骨头绑定；回到初始绑定姿势；恢复绑定姿势；定位到绑定姿式
-3.E-BIND 依拜；渚濇嫓
+3.bind on（用绳等）把…绑上
 4.bind up 包扎；装订
-5.in a bindadv.  处于困境
-6.bind on（用绳等）把…绑上
+5.in a bind 处于困境
 [联]band (带子) + ind (谐音“一打”) ——> 用带子捆住一打东西
 
 binder / ˈbaɪndər /
 n. [胶粘]粘合剂；活页夹；装订工；捆缚者；用以绑缚之物
-n.（Binder）人名；（英、西）宾德；（德、俄、罗、捷、瑞典、匈）宾德尔
 [例]
 1.The effect of water binder ratio (W/C) was studied. 对水灰比的影响进行了研究。
 2."Our priority is the pets," Binder said. “宠物是我们的头等大事，”宾得说。
@@ -2090,25 +1997,23 @@ n.（Binder）人名；（英、西）宾德；（德、俄、罗、捷、瑞典
 1.binder plate 压板
 2.organic binder 有机粘结剂；有机结合料；有机接合剂
 3.Binder fiber 粘合纤维；粘合用纤维；纤维状黏合剂；黏合性纤维
-4.organic binder 有机粘结剂
-5.asphalt binder 沥青结合料；沥青粘结剂，沥青胶泥
-6.ring binder 扣眼活页夹
+4.asphalt binder 沥青结合料；沥青粘结剂，沥青胶泥
+5.ring binder 扣眼活页夹
 [联]binder (装订剂， binder ) ——> bind (捆绑，装订) + er (表人或物的后缀) ——> 装订东西的人或物
 
 delay / dɪˈleɪ /
 v. 推迟，延期；延误，耽搁；（故意）拖延，磨蹭
 n. 延期，推迟；延误，耽搁；延迟器
 [例]
-1.Can you delay him in some way?你能用什么办法耽搁他一下吗？《柯林斯英汉双解大词典》。
+1.Can you delay him in some way?你能用什么办法耽搁他一下吗？。
 2.They were impatient at the delay. 他们对拖延不耐烦了。
 3.Any delay would be fatal. 任何延误都可能导致失败。
 [搭]
-1.Propagation Delay 通信  传播延迟；传播时延；传输时延；传输延迟
+1.propagation delay 通信  传播延迟；传播时延；传输时延；传输延迟
 2.time delay 电子,通信  时间延迟； 电子  时延；时间滞延
 3.delay of game 阻碍比赛之正常进行；拖延比赛；障碍竞赛之正常停止；阻碍角逐之正常进行
 4.without delay 立即；毫不迟延地
-5.time delay 延时，延迟
-6.delay time 延迟时间，推迟时间
+5.delay time 延迟时间，推迟时间
 [联]de (离开) + lay (放置) ——> 延迟
 
 aboard / əˈbɔːd /
@@ -2127,8 +2032,8 @@ prep. 在（船、飞机、火车等）上；上（船、飞机、火车等）�
 [联] aboard (上船，上车) + ship (船) ——> 登船
 
 stamp / stæmp /
-n. 邮票；印记，戳记；印，章，戳；跺脚（声），跺蹄（声）；特征，痕迹，烙印；类型，种类，类别；表明，表示；重要影响，持久影响；（捣矿机中用于捣碎矿石的）铁砧；购物券，购买券
-vt. 跺（脚），重踩，重踏；迈着重步走，跺着脚走；在……上面印盖（图案、记号、字母等）；显示出（感情）；表明（某人）是……；（用印模）冲压；对…有重要（永久性）的影响；在……上贴邮票；捣碎（矿石），压碎（矿石）
+n. 邮票；印记，戳记；印，章，戳；跺脚（声），跺蹄（声）；特征，痕迹，烙印；类型，种类，类别；表明，表示；重要影响，持久影响
+vt. 跺（脚），重踩，重踏；迈着重步走，跺着脚走；在……上面印盖（图案、记号、字母等）；显示出（感情）；表明（某人）是……；（用印模）冲压
 [例]
 1.A commemorative stamp will be issued October 15. 一枚纪念邮票将于10月15日发行。
 2.He says he'll have no problem authenticating the stamp. 他说他完全可以鉴定这枚邮票。
@@ -2165,13 +2070,12 @@ n. 典范，范例；样板，范式；词形变化表；纵聚合关系语言�
 1.paradigm shift 典范转移；范式转移；范式转换；范式转变
 2.programming paradigm 编程范型；程序设计方法；程序设计范型
 3.New Paradigm 新范式；新范例；一种临床实践新范例
-4.paradigm shift 典范转移；思考模式的转移
 [联]para (旁边) + dime (硬币) ——> 旁边的硬币
 
 luggage / ˈlʌɡɪdʒ /
 n. 行李；精神负担
 [例]
-1.Do you have a lot of luggage?你的行李多吗？《牛津词典》。
+1.Do you have a lot of luggage?你的行李多吗？。
 2.A luggage rack is a sensible option. 行李架是个明智的选择。
 3.Two pieces of luggage have gone missing. 有两件行李丢了。
 [搭]
@@ -2180,7 +2084,6 @@ n. 行李；精神负担
 3.luggage rack 交  行李架；伞架；实木行李架
 4.hand luggage 手提行李
 5.carry-on luggage 随身携带的行李
-6.luggage rack 行李架
 [联]luggage (行李) + tag (标签) ——> 带有标签的行李
 
 baggage / ˈbæɡɪdʒ /
@@ -2193,25 +2096,23 @@ n. 行李；思想包袱，成见
 1.baggage claim 行李提领处；行李领取处；行李认领；领取行李
 2.baggage car 交  行李车
 3.baggage elevator 行李电梯；运行李电梯
-4.baggage claim 行李认领；领取行李；取行李处
-5.excess baggagen.  超重行李；累赘
-6.hand baggagen.  手提行李
+4.excess baggage 超重行李；累赘
+5.hand baggage 手提行李
 [联]baggage (行李) + age (时期，阶段) ——> 行李的年代
 
 port / pɔːrt /
-n. 港口，避风港；口岸，港口城市；（计算机）端口，接口；波尔图葡萄酒（产自葡萄牙）（=port wine）；（船、飞机等的）舷门，舷窗；射击孔，枪眼（=gun port）；通道，排气口；<苏格兰>城门，城门洞；（计算机）移植（软件）；<文>姿势，姿态；（军）斜持枪位置；<澳大利亚，非正式>旅行箱，旅行包
+n. 港口，避风港；口岸，港口城市；（计算机）端口，接口；波尔图葡萄酒（产自葡萄牙）（=port wine）；（船、飞机等的）舷门，舷窗
 v. 转移，移植（软件）；使（船，舵）向左转；（军）斜持枪
 [例]
 1.The port is quiet and unspoiled. 这个港口很安静，有未受破坏的自然美。
 2.The ship steered into port. 船驶进港口。
 3.The ship spent four days in port. 这艘船在港口停泊了四天。
 [搭]
-1.serial port 串行接口； 计  串行端口；串行口；串口该选项可以通过重新分配端口地址或禁用端口来避免设备资源冲突
+1.serial port 串行接口；串行端口；串行口；串口该选项可以通过重新分配端口地址或禁用端口来避免设备资源冲突
 2.Port Arthur 亚瑟港；阿瑟港；阿瑟港监狱；亚瑟港监狱
 3.Port Said 塞得港；塞德港；卸货港；赛德港
 4.at the port 作持枪的姿势
 5.in port 在港内
-6.serial port[计]串行端口；序列埠
 [联]port (港口) + able (能够的) ——> 能够停靠船只的地方
 
 portal / ˈpɔːrtl /
@@ -2239,7 +2140,7 @@ adj.（纸张、页面、照片等）竖式的，纵向的
 3.family portrait 全家福
 
 portion / ˈpɔːrʃ(ə)n /
-n.（某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产；<古> 命运，天数
+n.（某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产
 v. 分配；<古> 给（新娘）嫁妆
 [例]
 1.A supersize portion of fries contains 600 calories. 一个超大份炸薯条含600卡路里。
@@ -2266,7 +2167,7 @@ load / loʊd /
 n. 负载，重荷；一批待洗的衣物；工作量；发电量，电荷；承载量；大量，许多；负担，压力；胡说八道，废话
 v. 装上，装进；承载，装载；大量给予；装上（底片），上（子弹）；满（垒）；载入（计算机程序）
 [例]
-1.You're talking a load of crap !你这是一派胡言！《牛津词典》。
+1.You're talking a load of crap !你这是一派胡言！。
 2.The load was too burdensome. 负担太繁重了。
 3.You're talking a load of rubbish. 一派胡言。
 [搭]
@@ -2289,8 +2190,7 @@ n. （Loader）（美、爱、英）洛德（人名）
 1.wheel loader 装载机；轮式装载机；轮胎式装载机
 2.class loader 类装载器；类加载器；类装入器；类别载入器
 3.sheet loader 薄板装料机；薄板拆料机
-4.wheel loader 装载机；轮式装载机，轮胎式装载机
-5.boot loader 引导装载程序
+4.boot loader 引导装载程序
 [联]load (装载) + er (表人或物的后缀) ——> 装载机
 
 unloader / ˌʌnˈloʊdər /
@@ -2307,7 +2207,7 @@ n. 减荷器；卸料机
 [联]unload (卸下) + er (表人) ——> 卸货工
 
 unload / ˌʌnˈləʊd /
-v.（从车、船上）卸，取下；退出，取出（子弹或胶卷等）；<非正式>推卸（责任），甩掉（包袱）；把（非法或不是很好的东西）脱手，抛售；倾诉，发泄；让（某人）下车，让（某人）下船；<非正式>射出（子弹）；<美，非正式>猛击，猛打
+v.（从车、船上）卸，取下；退出，取出（子弹或胶卷等）；<非正式>推卸（责任），甩掉（包袱）；把（非法或不是很好的东西）脱手，抛售；倾诉，发泄
 [例]
 1.The truck driver was waiting to unload. 卡车司机在等着卸货。
 2.This isn't a suitable place to unload the van. 这个地方不适宜卸车。
@@ -2345,9 +2245,7 @@ v. 旅行
 1.Journey to the West 西游记；新西游记；少年西游；西纪行
 2.Lost On Journey 人在囧途；人在窘途；人在逋
 3.Magical Journey 奇幻旅程；奇幻旅程专辑；神奇之旅
-4.long journey 长途旅行
-5.journey to the west 西游记
-6.on the journey 在旅程中
+4.on the journey 在旅程中
 [联]journey (旅行) + ney (名词后缀) ——> 旅程
 
 airline / ˈerlaɪn /
@@ -2361,9 +2259,8 @@ adj. 航线的
 1.airline hub 枢纽机场
 2.airline ticket 机票；飞机票
 3.Darwin Airline 达尔文航空
-4.airline ticket 飞机票
-5.airline industry 航空公司；航线
-6.airline company 航空公司
+4.airline industry 航空公司；航线
+5.airline company 航空公司
 [联]air (空气) + line (线，线路) ——> 航空公司
 
 route / ruːt /
@@ -2375,11 +2272,11 @@ v. 按特定路线发送（车辆、货物或乘客）；以. . . . . . 线路�
 3.The route has been marked in red. 路线用红色标明了。
 [搭]
 1.Northern Sea Route 北方海路；北海航线；北海航道；航线
-2.default route 默认路由；缺省路径； 计  缺省路由
+2.default route 默认路由；缺省路径；缺省路由
 3.Route Twisk 荃锦公路
 4.en route（法）在途中
 5.route selection 公路选线；路线选择
-6.travel routen.  旅运路线
+6.travel route 旅运路线
 [联]route (路线) + map (地图) ——> 路线图
 
 destiny / ˈdestəni /
@@ -2392,7 +2289,6 @@ n. 命运，定数；天意，命运之神
 1.manifest destiny 昭昭天命；天定命运；宿命；天定命运论
 2.War and Destiny 乱世佳人剧情介绍；经济版；特装
 3.My Destiny 幸福满贯；我的命运；爱你的宿命；日文单曲
-4.manifest destiny 天定命运
 [联]destiny (命运) + try (尝试) ——> 注定要尝试
 
 destined / ˈdestɪnd /
@@ -2420,8 +2316,6 @@ adj. 作为目的地的
 2.port of destination 水运  目的港；目地港；目的地；指运港
 3.airport of destination 目的地；目的站；货号；目的地机场
 4.tourist destination 旅游胜地；旅游目的地；旅游景点
-5.port of destination 目的港
-6.final destination 最终目的地
 [联]destin (命运) + ation (名词后缀) ——> 命中注定的地方
 
 destine / ˈdestɪn /
@@ -2458,7 +2352,6 @@ n.（船舶、飞机或火车上的）女服务员，女乘务员
 1.air stewardess 空中小姐；空中服务员；空中蜜斯；地面小姐
 2.married airline stewardess 空嫂
 3.The Stewardess 译；片
-4.air stewardess 空中小姐（空姐）；空中服务员
 [联]flight attendant (空乘人员) + -ess (女性后缀) ——> 空中小姐
 
 stewardship / ˈstjuːədʃɪp /
@@ -2485,8 +2378,7 @@ v. 邮寄；用电子邮件发送；给……披上铠甲
 2.E-mail 电子邮件；邮箱；电子邮箱；电子邮件地址
 3.Royal Mail 皇家邮政；英国皇家邮政；皇家邮政公司；皇家邮政集团
 4.by mail 邮寄；通过写信，通过邮递；按信件
-5.daily mail 每日邮报（英国伦敦的报刊）
-6.voice mail 语音邮件
+5.voice mail 语音邮件
 [联]postal (邮政的) + service (服务) ——> 邮政服务
 
 highway / ˈhaɪweɪ /
@@ -2496,7 +2388,7 @@ n. <美>公路，干道；公用通道
 2.Highway patrol officers closed the road. 公路巡警关闭了这条路。
 3.I crossed the highway, dodging the traffic. 我闪身避让着来往的车辆，穿过了公路。
 [搭]
-1.national highwayn.  国道
+1.national highway 国道
 2.highway engineering 公路工程；道路工程学
 3.highway bridge 公路桥
 [联]high (高) + way (路) ——> 高速公路
@@ -2511,9 +2403,8 @@ n. 有吸引力的事物；吸引力；（两性间的）吸引；（物体间�
 1.tourist attraction 旅游胜地；旅游景点；旅游景区
 2.Law of attraction 吸引力法则；吸引力；唱片名
 3.The Law Of Attraction 万有引力；吸引力法则；吸引力定律；冷水泡茶
-4.tourist attraction 观光胜地
-5.attraction for 对…的吸引力
-6.sexual attraction 性吸引力；性诱惑，性引诱
+4.attraction for 对…的吸引力
+5.sexual attraction 性吸引力；性诱惑，性引诱
 [联]at + traction ——> 向前 + 拉力 = 吸引
 
 liner / ˈlaɪnər /
@@ -2526,9 +2417,8 @@ n. 邮轮；衬里，内衬；细画笔，细漆刷；（不用渔网的海上�
 1.Liner terms 班轮条件； 水运  班轮条款；班轮前提；即船方负担装卸费
 2.Cylinder Liner 气缸套；缸套；汽缸衬套；汽缸衬筒
 3.liner transport 班轮运输；定期船运输
-4.cylinder liner 汽缸衬垫
-5.inner liner 内衬；橡胶密封层；气密层
-6.container liner 集装箱班轮
+4.inner liner 内衬；橡胶密封层；气密层
+5.container liner 集装箱班轮
 [联]lin (线) + er (名词后缀) ——> 线状物
 
 jet / dʒet /
@@ -2624,10 +2514,10 @@ adv. 用快递寄送
 [联]ex (向外) + press (按压，施压) ——> 表达，快递
 
 deliver / dɪˈlɪvər /
-v. 投递，运送；履行，兑现；交付，移交；发表，宣布；接生，分娩；解救，拯救；投掷，击打；（法官或法庭）宣布（判决）；拉（选票）；发行，发布（计算机程序）；处理
+v. 投递，运送；履行，兑现；交付，移交；发表，宣布；接生，分娩；解救，拯救；投掷，击打；（法官或法庭）宣布（判决）；拉（选票）；发行，发布（计算机程序）
 [例]
 1.We deliver the goods in batches. 我们分批交付货物。
-2.The question is, can he deliver?问题是他能履行吗？《柯林斯英汉双解大词典》。
+2.The question is, can he deliver?问题是他能履行吗？。
 3.We promise to deliver within 48 hours. 我们承诺在48小时内送到。
 [搭]
 1.Deliver Me 拯救我；忏魂曲；给我；解救我
@@ -2662,13 +2552,12 @@ adj. 运送的
 1.delivery order 提货单； 贸易  交货单；出货单；交割单
 2.Delivery time 贸易  交货时间；交期；交付时间；发货期
 3.time of delivery 交货时间；交货期；发货时间；交货时日
-4.delivery time 交货时间
-5.delivery system 传送系统；运载系统；分配系统
-6.prompt delivery 限时专送
+4.delivery system 传送系统；运载系统；分配系统
+5.prompt delivery 限时专送
 [联]deliver (递送) + y (表名词后缀) ——> 递送，交付
 
 coach / koʊtʃ /
-n. 教练；私人教师；长途客车，长途汽车；火车车厢；四轮大马车；（飞机）经济舱，（火车）普通车厢；<美>（体育队的）领队；（棒球运动中的）跑垒指挥员；教练
+n. 教练；私人教师；长途客车，长途汽车；火车车厢；四轮大马车；（飞机）经济舱，（火车）普通车厢；<美>（体育队的）领队；（棒球运动中的）跑垒指挥员
 v. 训练，指导；（尤指私人）辅导；指示，专门传授；乘火车（或汽车、马车）旅行
 adv. <美>乘（飞机、火车的）经济舱地
 [例]
@@ -2679,14 +2568,13 @@ adv. <美>乘（飞机、火车的）经济舱地
 1.head coach 主教练；总教练；主锻练；总锻练
 2.Coach Carter 卡特教练；铁血教练；铁血锻练
 3.Snow coach 冰原雪车；雪上巴士；雪地巴士；冰上雪车
-4.head coach 主教练；总教练
-5.assistant coach 助理教练
+4.assistant coach 助理教练
 [联]co + ach ——> 指导 + 马车，意为指导马车前进，引申为教练
 
 suitcase / ˈsuːtkeɪs /
 n.（旅行用的）手提箱，衣箱
 [例]
-1.Can you manage that suitcase?你弄得动那个箱子吗？《牛津词典》。
+1.Can you manage that suitcase?你弄得动那个箱子吗？。
 2.My suitcase was packed tight. 我的衣箱塞得满满的。
 3.My suitcase was full of books. 我的提箱装满了书。
 [搭]
@@ -2719,7 +2607,7 @@ v. 用车搬运
 1.Van Helsing 范海辛；凡赫辛；范·海辛；狙魔人
 2.Van Halen 范·海伦；范海伦；范·海伦乐队；范海伦乐队
 3.Pham Van Dong 范文同；酒店坐落在范文同
-4.van goghn.  梵高（荷兰画家）
+4.van gogh 梵高（荷兰画家）
 5.van der waals 范德瓦尔斯（荷兰物理学家， 曾获1910年诺贝尔物理学奖）
 6.vincent van gogh 文森特·梵高（荷兰画家）
 [联]v + an ——> 一辆车的形状像“v”，载着“an”人
@@ -2734,7 +2622,6 @@ n. 优势；有利情况；有利地位
 1.Vantage Point 刺杀据点；有利地形；有利位置
 2.Vantage Master 魔唤精灵；空之轨迹 x 魔唤精灵；魔幻精灵；空之轨迹
 3.Paramount Vantage 派拉蒙优势影业；派拉蒙优势；发行派拉蒙优势；派拉蒙
-4.vantage pointn.  有利位置；优势
 [联]无能为力
 
 vanity / ˈvænəti /
@@ -2747,7 +2634,7 @@ n. 虚荣（心），自负；（相对于非常严肃的事而言）无意义�
 1.Vanity Fair 名利场；浮华世界；名位利益场；浮华新世界
 2.Bathroom vanity 浴室盥洗台；浴室洗手洗脸台；浴室柜
 3.Vanity gallery 自费美术馆
-4.vanity mirrorn.  （妇女手提包中的）化妆镜
+4.vanity mirror（妇女手提包中的）化妆镜
 [联]vanity (虚荣) + ty (常见后缀) ——> 虚荣心
 
 vanish / ˈvænɪʃ /
@@ -2880,7 +2767,6 @@ n.（乡间）小路；（用于路名）道，路；车道；（比赛的）跑
 3.Lane Crawford 连卡佛；连卡佛百货；连卡佛百货公司
 4.fast lane 快车道
 5.park lane 柏宁酒店；花园弄
-6.bus lane（街道上的）公共汽车专用车道
 [联]lane (小路) + way (道路) ——> 小道
 
 way / weɪ /
@@ -2950,9 +2836,7 @@ n. 船，舰；（人或动物的）血管，（植物的）导管；（盛液�
 1.pressure vessel 制冷,化工  压力容器；加硫罐； 化工,物  高压容器；压力器皿
 2.blood vessel 解剖  血管；血液流通的管道
 3.Mother Vessel 主线船；母船；二程船名；宾线船
-4.pressure vessel 压力容器
-5.blood vessel 血管
-6.vessel wall 血管壁；器壁
+4.vessel wall 血管壁；器壁
 [联]vesse (容器) + l (表示小的后缀) ——> 容器
 
 safari / səˈfɑːri /
@@ -2964,8 +2848,7 @@ n.（尤指在东非的）观兽旅行，游猎；<东非>长途旅行，旅游�
 [搭]
 1.Night Safari 夜间野生动物园；夜狩；原野探奇之夜
 2.Ski Safari 滑雪大冒险；破解版；滑雪大冒险电脑版；雪山大逃亡
-3.SAFARI-JACKET 猎装；䥒
-4.safari park 野生动物园
+3.safari park 野生动物园
 [联]safari (游猎) + n (无实际意义，仅为词缀) ——> 肯尼亚 safari
 
 ferry / ˈferi /
@@ -3024,23 +2907,21 @@ v. 进展，表现；<古> 发生，结果；<古>出游，旅行
 2.FARE BASIS 运价基础；票价级别；票价基础；运价类别
 3.air fare 航空费用；飞机票价；航空票价；航空运费
 4.bus fare 公共汽车票钱；公车票；公车费率
-5.air fare 飞机票价；航空费用；航空票价
-6.taxi fare 的士收费；出租汽车费
+5.taxi fare 的士收费；出租汽车费
 [联]fare (费用) + well (好地) ——> 支付得好
 
 parachute / ˈpærəʃuːt /
 n. 降落伞
 v. 跳伞；伞降，空投；紧急任命，临危受命
 [例]
-1.What if the parachute doesn't open?降落伞打不开怎么办？《牛津词典》。
+1.What if the parachute doesn't open?降落伞打不开怎么办？。
 2.Planes dropped supplies by parachute. 飞机用降落伞空投补给。
 3.My first parachute jump was an exhilarating experience. 我第一次跳伞的经历很令人激动。
 [搭]
 1.golden parachute 金色降落伞；金降落伞；黄金降落伞；金降落
 2.Parachute Regiment 伞兵团
 3.Parachute Ninja 降落伞忍者；下降伞忍者；空中忍者
-4.golden parachute 金降落伞；黄金降落伞
-5.parachute jump 跳伞
+4.parachute jump 跳伞
 [联]para (类似) + chute (坠落) ——> 类似坠落的东西
 
 turbine / ˈtɜːrbaɪn /
@@ -3069,9 +2950,9 @@ v. 装饰，打扮；<非正式>用力击倒；装甲板
 1.flight deck 船  飞行甲板；驾驶舱；飞行驾驶台；战机甲板
 2.Deck cargo 水运  甲板货； 水运  甲板货物；舱面货条款； 水运  舱面货
 3.Main deck 船  主甲板；主桥面；主卡组
-4.double deckn.  楼中楼；双层甲板
+4.double deck 楼中楼；双层甲板
 5.bridge deck 桥面板；船桥甲板
-6.on the deck[俚]一文不名，贫困
+6.on the deck [俚]一文不名，贫困
 [联]de + ck ——> 船的甲板
 
 decker / ˈdekə(r) /
@@ -3095,7 +2976,7 @@ v. 发雁鸣；按汽车喇叭；（非正式）呕吐
 n.（Honk）（瑞、德、美、荷、英、印）洪（人名）
 [例]
 1.She pulled to the right with a honk. 她按了声喇叭，把车开到了右边。
-2.Why did he honk at me?他为什么对我按喇叭？《牛津词典》。
+2.Why did he honk at me?他为什么对我按喇叭？。
 3.Cars honk their horns in support. 汽车司机鸣笛表示支持。
 [搭]
 1.honk the horn 大声吹响笛子；按喇叭；洪的喇叭；摁喇叭
@@ -3114,9 +2995,7 @@ v. 乘坐筏子（度河），用筏子运送；（浮冰）随浮冰流淌；�
 1.The Raft of the Medusa 梅杜萨之筏；梅杜莎之筏；美杜莎之筏
 2.raft foundation 筏形基础； 建  筏式基础；板式基础
 3.life raft 水运,安全  救生筏；救生伐
-4.raft foundation 筏式地基，板式基础
-5.life raft 救生筏
-6.bamboo raft 竹筏；竹排
+4.bamboo raft 竹筏；竹排
 [联]raft (木筏) + build (建造) ——> 用木材建造的漂浮工具
 
 rafter / ˈræftər /
@@ -3143,9 +3022,8 @@ v. 刹车，用闸减速
 1.Brake System 刹车系统；制动系统；制动系
 2.parking brake 驻车制动；驻车制动器；停机制动
 3.brake drum 制动鼓；刹车鼓；制动轮；闸鼓
-4.brake system 煞车系统
-5.disc brake[汽车]盘式制动器
-6.brake pad 刹车片；盘式刹车片；制动衬块；闸垫
+4.disc brake [汽车]盘式制动器
+5.brake pad 刹车片；盘式刹车片；制动衬块；闸垫
 [联]break (打破) + take (拿走) ——> 刹车
 
 arrival / əˈraɪv(ə)l /
@@ -3159,8 +3037,7 @@ n. 到达，到来；到达者，加入者；产生，出现
 2.arrival time 交  到达时间；抵达时间
 3.port of arrival 到货港；抵达港；达到港
 4.on arrival 到达；抵达时
-5.arrival time 到达时间
-6.upon arrival 一到；在到达时
+5.upon arrival 一到；在到达时
 [联]arrival (到达) + station (车站) ——> 到达车站
 
 sternum / ˈstɜːrnəm /
@@ -3196,11 +3073,10 @@ v. 做园艺工作，种植花木
 3.Having a garden is therapeutic. 有个花园能让人放松心情。
 [搭]
 1.Garden City 花园城；花园城市； 建  田园城市；园林城市
-2.Covent Garden 科芬园；科文特花园；考文特花园；柯芬园
+2.tea garden 茶叶种植场；茶室
 3.The Garden 花园；庭院森森；世界花园
 4.in the garden 在花园里
-5.tea garden 茶叶种植场；茶室
-6.botanical garden 植物园
+5.botanical garden 植物园
 [联]back (背部) + garden (花园) ——> 背后的花园
 
 turbinate / ˈtɜːbɪnət /
@@ -3341,12 +3217,12 @@ v.（使）潜入水中，（使）没入水中，浸没；湮没，掩盖（思
 [联]sub (下面) + merge (融合) ——> 潜入水中
 
 crash / kræʃ /
-v. 撞车，坠毁；猛撞，发出巨响；破产，倒闭，暴跌；（计算机）瘫痪，死机；（在体育比赛中）惨败；过夜，入睡；心脏停止跳动；不请自来，偷偷混入（派对）；闯红灯
+v. 撞车，坠毁；猛撞，发出巨响；破产，倒闭，暴跌；（计算机）瘫痪，死机；（在体育比赛中）惨败；过夜，入睡；心脏停止跳动；不请自来，偷偷混入（派对）
 n. 撞车事故，失事；巨响，碰撞声；（计算机）瘫痪，死机；破产，暴跌；（做毛巾、窗帘等用的）粗布
 adj. 应急的，速成的
 adv. 哗啦一声地
 [例]
-1.We're going to crash, aren't we?我们要坠毁了，是不是？《牛津词典》。
+1.We're going to crash, aren't we?我们要坠毁了，是不是？。
 2.He escaped from the crash unhurt. 他平安逃过了这场车祸。
 3.The car crash claimed three lives. 那次撞车事故导致三人死亡。
 [搭]
@@ -3354,13 +3230,12 @@ adv. 哗啦一声地
 2.air crash 航  飞机失事；空难；航空失事；飞机出事
 3.crash landing 紧急着陆；紧急迫降； 航  摔机着陆
 4.car crash 车祸；汽车碰撞
-5.air crash 飞机失事
-6.stock market crash 股市崩盘；股市行情暴跌
+5.stock market crash 股市崩盘；股市行情暴跌
 [联]crash (碰撞，坠毁) + land (陆地，土地) ——> 飞机在陆地上发生碰撞坠毁
 
 traverse / trəˈvɜːs /
-v. 横穿，穿过；横越岩石面的攀爬；（滑雪时）横线下（坡）；<喻>整体考虑（问题），全面讨论；来回移动，斜向移动；转动（大炮等带轴设备）；<法律>否认（一项指控），反驳
-n.（爬陡坡时的）斜向攀上（下）；越过，穿过；滑雪横切运动；（逆风时轮船所作的）曲线航行，折航；横断物，横档；通廊，楼厢；（大炮等的）横转装置；机器部件的横转，横向运动；（测量用的）导线；（军）（壕沟的）土护墙，屏障
+v. 横穿，穿过；横越岩石面的攀爬；（滑雪时）横线下（坡）；<喻>整体考虑（问题），全面讨论；来回移动，斜向移动；转动（大炮等带轴设备）
+n.（爬陡坡时的）斜向攀上（下）；越过，穿过；滑雪横切运动；（逆风时轮船所作的）曲线航行，折航；横断物，横档；通廊，楼厢；（大炮等的）横转装置
 adj. 横贯的
 [例]
 1.They don't like dense forests either, so they traverse these high, open shoulders between the river and the woods, where they can see and run. 它们也不喜欢密集的树林，所以它们穿过河流和树林间这些高耸而开阔的山肩，在那里它们能够看到并奔跑。
@@ -3370,8 +3245,6 @@ adj. 横贯的
 1.traverse survey 测  导线测量
 2.rapid traverse 快速移位； 机  快移
 3.traverse point 测  导线点
-4.traverse survey 导线测量
-5.rapid traverse 快速移位；快速横动；快速行程
 [联]across (穿过) + verse (诗，韵文) ——> 穿越
 
 garment / ˈɡɑːrmənt /
@@ -3393,15 +3266,13 @@ vehicle / ˈviːəkl; ˈviːhɪkl /
 n. 交通工具，车辆；（实现目的的）工具，媒介；（为展露主演者才华而）度身定制的创作（电影、电视节目、歌曲等）；赋形药，调漆料；（个人，组织从事经营、尤指投资的）公司
 [例]
 1.The vehicle was engulfed in flames. 汽车被大火吞没。
-2.Was the vehicle insured?那辆车上保险了吗？《牛津词典》。
+2.Was the vehicle insured?那辆车上保险了吗？。
 3.The robbers drove off in a stolen vehicle. 劫匪驾驶着一辆偷来的汽车逃跑了。
 [搭]
 1.motor vehicle 机动车；汽车；机动车辆
 2.hybrid vehicle 混合动力车辆；混合动力汽车；混合动力车
-3.Electric vehicle 电动车；电动车辆；电动汽车；电瓶车
-4.motor vehicle 汽车；机动车辆
-5.electric vehicle 电动车辆
-6.vehicle maintenance 汽车维护，车辆保养
+3.electric vehicle 电动车；电动车辆；电动汽车；电瓶车
+4.vehicle maintenance 汽车维护，车辆保养
 [联]vehicle (车辆) + transport (运输) ——> 交通工具
 
 crush / krʌʃ /
@@ -3412,12 +3283,11 @@ n. 拥挤的人群；（对某人短暂的）热恋，迷恋；迷恋对象；�
 2.They crush the olives with a heavy wooden press. 他们用沉重的木制压榨机把橄榄压碎。
 3.The military operation was the first step in a plan to crush the uprising. 这次军事行动是镇压暴动计划的第一步。
 [搭]
-1.Crush syndrome 压伤综合症； 泌尿  挤压综合征；挤压综合症
+1.crush syndrome 压伤综合症； 泌尿  挤压综合征；挤压综合症
 2.Candy Crush Saga 糖果粉碎传奇；糖果传奇；糖果大爆险；电脑版
 3.Blue Crush 蓝色激情；碧海娇娃；蓝色征服；蓝色冲浪
 4.get a crush on 迷恋
 5.have a crush on 迷恋…
-6.crush syndromen.  【医】压挤综合症
 [联]crush (压碎) + izer (表工具的后缀) ——> 压碎机
 
 crusher / ˈkrʌʃər /
@@ -3430,17 +3300,16 @@ n. 压碎机，压榨机，破碎机；碎机操作工；毁灭性的打击；�
 1.ice crusher 刨冰机； 水产,制冷  碎冰机；破冰机；冷食机
 2.impact crusher 反击式破碎机； 矿业  冲击式破碎机；冲唤破碎机；冲击破碎机
 3.jaw crusher 矿业  颚式破碎机；鄂式破碎机；鄂式破机；腭式碎石机
-4.jaw crusher 颚式破碎机
-5.cone crusher 圆锥破碎机
-6.impact crusher[化]冲击式破碎机
+4.cone crusher 圆锥破碎机
+5.impact crusher[化]冲击式破碎机
 [联]crush (压碎) + er (表人或物的后缀) ——> 碾压者
 
 steam / stiːm /
 n. 蒸汽，水蒸气；水汽，雾气；蒸汽动力（压力）；力量，势头；蒸汽机车
-v. 散发蒸汽，冒热气；蒸（食物）；（以蒸汽为动力）行驶；快速行走，疾行；（使）蒙上水汽；蒸汽洗涤，蒸汽处理；用蒸汽软化（尤指胶水）；<英，非正式>开始战斗，投入战斗；<非正式>（一群贼）（在匆忙通过公共场所时）顺路盗窃（或抢劫）；用蒸汽开动（机车）
+v. 散发蒸汽，冒热气；蒸（食物）；（以蒸汽为动力）行驶；快速行走，疾行；（使）蒙上水汽；蒸汽洗涤，蒸汽处理；用蒸汽软化（尤指胶水）
 adj. 蒸汽的
 [例]
-1.Who invented the steam engine?谁发明了蒸汽机？《牛津词典》。
+1.Who invented the steam engine?谁发明了蒸汽机？。
 2.Steam had clouded the mirror. 水蒸气使镜子变得模糊不清。
 3.Steam rose from the boiling kettle. 壶里的水开了，冒着蒸汽。
 [搭]
@@ -3449,7 +3318,7 @@ adj. 蒸汽的
 3.superheated steam 热  过热蒸汽；热蒸汽；过热蒸气
 4.steam turbine 汽轮机；蒸汽轮机；蒸汽透平
 5.steam injection 蒸汽喷射，蒸汽注入；射汽法
-6.steam pressuren.  蒸汽压力
+6.steam pressure 蒸汽压力
 [联]steam (蒸汽) + engine (发动机) ——> 蒸汽机
 
 steamer / ˈstiːmər /
@@ -3475,7 +3344,7 @@ v. 在……开凿运河
 1.Suez Canal 苏伊士运河
 2.Erie Canal 伊利运河
 3.semicircular canal 解剖  半规管
-4.root canal[医]牙根管
+4.root canal [医]牙根管
 5.grand canal 大运河
 6.spinal canal[解]椎管；脊管
 [联]can (能够) + anal (相似的) ——> 能够相似
@@ -3493,7 +3362,7 @@ v. 游行；（使）列队行进，接受检阅；招摇过市，大摇大摆�
 3.King's Parade 国王街
 4.on parade 受检阅；在游行
 5.military parade 阅兵；军事博览
-6.join the parade[美国英语]学时髦；跟着大众行动
+6.join the parade [美国英语]学时髦；跟着大众行动
 [联]march (游行) + ade (抽象名词后缀) ——> 游行队伍
 
 lullaby / ˈlʌləbaɪ /
@@ -3510,7 +3379,7 @@ v. <罕>唱摇篮曲使（人）入睡
 [联]lull (哄骗，使入睡) + aby (无，虚构后缀) ——> 摇篮曲
 
 travel / ˈtræv(ə)l /
-v.（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍；（尤指车辆）快速行进；（消息）流传；盛行各地；（篮球运动中）走步；（目光）扫视，移动；交往；想象来到
+v.（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍
 n. 旅行；（出国）旅游；（机器部件的）运动范围，运动速度，运动模式
 [例]
 1.It's cheaper to travel midweek. 在星期中间旅行较便宜。
@@ -3539,7 +3408,7 @@ v. 用直升机运送；乘直升机飞至（某地）
 [联]helico (螺旋) + pter (翅膀) ——> 螺旋翅膀
 
 flight / flaɪt /
-n. 航班，班机；飞行；逃走，逃避；（两个楼层间的）一段楼梯；（一起飞行的）鸟群，机群；（货币或股票的）抛售，抽逃；<文>光阴的飞逝；（跑道）一组跨栏；（使运河水位逐级升高的）多级船闸；过分（或牵强）的想法（或描述）；镖尾
+n. 航班，班机；飞行；逃走，逃避；（两个楼层间的）一段楼梯；（一起飞行的）鸟群，机群；（货币或股票的）抛售，抽逃；<文>光阴的飞逝；（跑道）一组跨栏
 v. （足球、板球等）将（球）准确吊传；给（箭，镖）装羽毛（或箭翎）；射击（飞行中的野禽）
 [例]
 1.We're booked on the same flight. 我们订了同一班机的机票。
@@ -3550,7 +3419,7 @@ v. （足球、板球等）将（球）准确吊传；给（箭，镖）装羽�
 2.flight attendant 空中乘务员；空中服务员；乘务员；机组乘务员
 3.flight number 航班号；航班编号；班机号码；航班号码
 4.in flight 在飞行中；飞行状态
-5.flight controln.  飞行控制；飞行指挥
+5.flight control 飞行控制；飞行指挥
 6.space flight 航天；宇宙飞行
 [联]air (空气) + plane (飞机) ——> 飞机的飞行旅程
 
@@ -3595,9 +3464,8 @@ n.（飞机或轮船的）螺旋桨，推进器
 1.Propeller Shaft 传动轴； 航,船  螺旋桨轴；螺桨式轴；艉轴
 2.propeller pump 旋浆泵；螺桨泵；轴流泵；旋桨泵
 3.screw propeller 螺旋桨；螺旋推进器；螺桨；螺旋推进器螺旋桨
-4.propeller shaftn.  传动轴；螺旋轴
-5.propeller blade 螺旋桨叶片
-6.screw propellern.  螺旋桨
+4.propeller blade 螺旋桨叶片
+5.screw propeller 螺旋桨
 [联]pro (向前) + peller (类似推手的东西) ——> 像是向前推东西的装置
 
 oar / ɔːr /
@@ -3646,7 +3514,7 @@ n. 桨架
 [联]oarlock (桨架) + oar (桨) ——> 桨和桨架组合
 
 wreck / rek /
-v. 破坏，断送（计划、关系等）；（严重）破坏，毁坏（车辆或建筑物）；造成（船舶）失事，使遇难；<史>毁船打劫；<美>（为获取有用的零件、碎料而）拆，拆除（破汽车、旧建筑物等）；营救失事船只；失事
+v. 破坏，断送（计划、关系等）；（严重）破坏，毁坏（车辆或建筑物）；造成（船舶）失事，使遇难；<史>毁船打劫；<美>（为获取有用的零件、碎料而）拆，拆除（破汽车、旧建筑物等）
 n. 沉船，遇难船；遭到严重破坏的东西（尤指建筑物、车辆）；健康（或精神）严重受损的人；（船舶的）失事，遇难，交通事故；杂乱的地方；<法律>（船舶失事后被冲上岸的）残货，沉船漂浮物
 [例]
 1.He was killed in a car wreck. 他在一场车祸中丧生。
@@ -3656,7 +3524,6 @@ n. 沉船，遇难船；遭到严重破坏的东西（尤指建筑物、车辆�
 1.Wreck-It Ralph 无敌破坏王；破坏王拉尔夫；无敌粉碎王；无敌破坏王电影原声
 2.train wreck 火车事故；训练残骸；破碎的爱；生活残骸
 3.Wreck Beach 沉船滩；天体海滩；沉船海滩；烂船湾
-4.train wreck 失事列车；训练残骸
 [联]ship (船) + wreck (毁坏) ——> 船 wreckage
 
 wrecker / ˈrekə(r) /
@@ -3695,12 +3562,11 @@ adj. 乘客的，旅客的
 2.Passenger pigeon 旅鸽；候鸽
 3.passenger train 铁路  客运列车；客车；客运车； 铁路  旅客列车
 4.passenger transport 客运
-5.passenger car 客车；轿车；小客车
-6.passenger traffic 客运，旅客流量；旅客运输
+5.passenger traffic 客运，旅客流量；旅客运输
 [联]pass (通过) + enger (能量，力量) ——> 搭乘交通工具的人
 
 wheel / wiːl /
-n. 轮子，车轮；汽车（wheels）；机轮，齿轮，传动轮；（汽车、轮船等的）方向盘，转向盘；系统，机构；轮状物；轮盘（一种旋转的赌具）；轮；重要人物，大亨；轮式机械（或器具）；旋转，回旋；（诗歌等的）叠句；<史>（用于牵拉或分裂肢体的）轮式刑车（the wheel）
+n. 轮子，车轮；汽车（wheels）；机轮，齿轮，传动轮；（汽车、轮船等的）方向盘，转向盘；系统，机构；轮状物；轮盘（一种旋转的赌具）；轮；重要人物，大亨
 v. 推，拉（带轮运输工具）；用有轮之物推动（或拉动、移动）……；（鸟或飞机）盘旋；（使）迅速转身，猛然转身
 [例]
 1.The wheel is pulling to the left. 方向盘正在向左打。
@@ -3711,14 +3577,13 @@ v. 推，拉（带轮运输工具）；用有轮之物推动（或拉动、移�
 2.Ferris wheel 法利士巨轮；大观览车
 3.steering wheel 车辆  方向盘；转向盘； 车辆  驾驶盘；舵轮
 4.grinding wheel 磨轮，砂轮
-5.steering wheel 方向盘；驾驶盘；舵轮
-6.wheel in 把…推进来
+5.wheel in 把…推进来
 [联]wh (白) + ee (一双眼睛) + l (一根棍子) ——> 一个白色的棍子上长着一双眼睛，像轮子一样滚动
 
 wheelchair / ˈwiːltʃer /
 n. 轮椅
 [例]
-1.Does the hotel have wheelchair access ?这家旅馆有轮椅通道吗？《牛津词典》。
+1.Does the hotel have wheelchair access ?这家旅馆有轮椅通道吗？。
 2.Ramps should be provided for wheelchair users. 应该给轮椅使用者提供坡道。
 3.Many new trains have space for wheelchair users. 许多新火车都为坐轮椅者留有空间。
 [搭]
@@ -3750,10 +3615,9 @@ n. 包，包裹，捆；（尤指士兵或野外徒步者的）背包；（一�
 [搭]
 1.service pack 服务包；补丁包；服务补丁；效劳包
 2.expansion pack 资料片；扩展包；扩张资料片；首个拓展包
-3.BATTERY PACK 电  电池组；电池包； 电  蓄电池组；电池箱
+3.battery pack 电池组
 4.a pack of 一包；（野兽等的）一群；一盒
 5.pack up 整理；把…打包
-6.battery pack 电池组
 [联]pack (包，捆) + age (名词后缀) ——> 包裹
 
 package / ˈpækɪdʒ /
@@ -3767,9 +3631,8 @@ v. 把……打包，把……装箱（以便出售）；包装（产品或想�
 1.Package Design 包装  包装设计；产品包装设计；产品包装；包装计划
 2.Package size 包装尺寸；外箱尺寸；彩盒规格；捆包尺寸
 3.package tour 交  包价旅游；套餐游；包办游；跟团旅游
-4.software package[计]软件包；[计]程序包
+4.software package [计]软件包；[计]程序包
 5.stimulus package 刺激计划
-6.package design 包装设计
 [联]pack (打包) + age (时期，状态) ——> 包裹，包装的状态
 
 packaging / ˈpækɪdʒɪŋ /
@@ -3784,8 +3647,7 @@ v. 把……打包，把……装箱（以便出售）；包装（产品或想�
 2.product packaging 产品包装；包装附件；商品包装；包装
 3.packaging machine 包装  包装机；封装机；包装机械
 4.plastic packaging 塑料封装
-5.packaging machine 包装机，包装机械；打包机；封装机
-6.packaging materialn.  包装材料，包装物
+5.packaging material 包装材料，包装物
 [联]package (包裹) + ging (源于动词，意为处理) ——> 包装
 
 packet / ˈpækɪt /
@@ -3799,9 +3661,8 @@ v. 把. . ……打包
 1.packet switching 计  分组交换；报文分组交换； 计,通信  包交换
 2.packet loss 丢包；丢包率；封包遗失；包丢失
 3.packet filter 包过滤；封包过滤；包过滤技术
-4.data packet[计]数据包
-5.packet switching[通信]包交换技术
-6.packet radio 无线电分组交换网络
+4.data packet [计]数据包
+5.packet radio 无线电分组交换网络
 [联]pack (打包) + et (表示小的) ——> 小包装
 
 propellant / prəˈpelənt /
@@ -3827,12 +3688,10 @@ adj. 移动的，运动的
 2.Energy to drive a steam locomotive can be stored in other materials besides water. 驱动蒸汽机车的能量可以储存在除水以外的其他物质中。
 3.This was before the steam locomotive, and canal building was at its height. 这些事情都发生在蒸汽火车出现之前，而且，运河修建在那时正处于繁荣时期。
 [搭]
-1.steam locomotive 铁路  蒸汽机车；蒸气火车；汽机车
-2.diesel locomotive 铁路  柴油机车； 铁路  内燃机车；内燃机车头；内燃铁路起重机
-3.battery locomotive 铁路  蓄电池机车； 铁路  电瓶机车；运动的；火车头的
+1.steam locomotive 蒸汽机车；蒸气火车；汽机车
+2.diesel locomotive 柴油机车；内燃机车；内燃机车头；内燃铁路起重机
+3.battery locomotive 蓄电池机车；电瓶机车；运动的；火车头的
 4.electric locomotive 电气机车
-5.diesel locomotive 柴油机车；内油机车
-6.steam locomotive 蒸汽机车
 [联]loco (地方) + motive (动机，动力) ——> 机车，火车头
 
 memorial / məˈmɔːriəl /
@@ -3845,10 +3704,9 @@ n. 纪念碑，纪念馆；纪念品，纪念物；纪念仪式；请愿书；�
 [搭]
 1.Memorial Day 阵亡将士纪念日；纪念日；美国阵亡将士纪念日；阵亡烈士纪念日
 2.Lincoln Memorial 林肯纪念堂；林肯纪念碑；林肯纪念馆；林肯留念堂
-3.Sun Yat-sen Memorial Hall 国立国父纪念馆；中山纪念堂；国父纪念馆
+3.memorial service 追悼会；追思礼拜
 4.memorial hall 纪念馆；纪念堂
-5.memorial dayn.  （美国）阵亡将士纪念日
-6.memorial service 追悼会；追思礼拜
+5.memorial day （美国）阵亡将士纪念日
 [联]memory (记忆) + rial (形容词后缀) ——> 纪念的
 
 memorable / ˈmemərəb(ə)l /
@@ -3872,10 +3730,9 @@ v.（使船）靠码头，进港；（航天器）在太空对接；将电子设
 [搭]
 1.Dock receipt 场站收据；站场收据； 水运  码头收据；收货单
 2.dock pay 扣工资
-3.Dock Configuration 坞站配置；坞站配备布置；坞站设置；坞站设置装备摆设
+3.in the dock 在受审
 4.dock in 进坞
-5.loading dockn.  码头；灌油码头；装货码头
-6.in the dock 在受审
+5.loading dock 码头；灌油码头；装货码头
 [联]harbor (港口) + dock (码头) ——> 港口码头
 
 docket / ˈdɒkɪt /
@@ -3902,7 +3759,6 @@ n. 码头工人
 [搭]
 1.Docker Sokoban 码头工人推箱子；搬运工人；码头搬运工
 2.Color Docker Window 泊坞窗；色彩泊坞窗；颜色泊坞窗
-3.John Docker 道克尔；约翰·多克尔
 [联]dock (码头) + ter (来自拉丁语“earth”或“land”) ——> 码头陆地
 
 ferret / ˈferɪt /
@@ -3936,7 +3792,7 @@ visa / ˈviːzə /
 n. 签证
 v. 签发签证
 [例]
-1.Do you need a visa for the USA?你需要美国签证吗？《牛津词典》。
+1.Do you need a visa for the USA?你需要美国签证吗？。
 2.They overstayed their visa. 他们居留超过了签证期限。
 3.His visitor's visa expired. 他的访问签证过期了。
 [搭]
@@ -3975,7 +3831,6 @@ adj. 末棒的，最后一棒的
 3.Anchor Island 安克岛
 4.at anchor 停泊着；抛了锚
 5.anchor rod 锚杆；地脚螺栓
-6.anchor bolt 锚栓，地脚螺栓；锚定螺栓，基础螺栓
 [联]anc + hor ——> 古代人们用锚固定船只，防止其随波逐流
 
 arrive / əˈraɪv /
@@ -3988,9 +3843,7 @@ v. 到达，抵达；送达，寄到；发生，出现，诞生；开始，到�
 1.arrive at 达成；到达；得出
 2.arrive in 到达；抵达；达到某地
 3.arrive at a conclusion 得出结论；得出一个结论；得出的结论；在得出结论
-4.arrive at 达到，达成；到达某地
-5.arrive in 抵达，到达
-6.arrive from 从某地来（这里）
+4.arrive from 从某地来（这里）
 [联]ar +rive——>到达
 
 haunt / hɔːnt /

@@ -10,8 +10,8 @@ n. 非洲人（尤指黑人）；非洲黑人后裔
 2.African Buffalo 非洲水牛；非洲水牛属
 3.African Plate 非洲板块
 4.south african 南非；南非的；南非人；南非人的
-5.african american 非裔美国人（指美国黑人）；非裔美籍（等于 African American）
-6.central african republicn.  中非共和国
+5.african american 非裔美国人（指美国黑人）；非裔美籍
+6.central african republic 中非共和国
 [联]African (非洲的) + elephant (大象) ——> 非洲象
 
 Arabian / əˈreɪbiən /
@@ -26,7 +26,7 @@ n.（史）阿拉伯人（或居民）
 2.Arabian Desert 阿拉伯沙漠
 3.Arabian horse 阿拉伯名驹；唱片名
 4.arabian nights 一千零一夜（书名，又名天方夜谭）；不真实的故事
-5.saudi arabianadj.  沙特阿拉伯的；沙特阿拉伯人的
+5.saudi arabian 沙特阿拉伯的；沙特阿拉伯人的
 6.arabian peninsula 阿拉伯半岛
 [联]Arabian (阿拉伯的) ——> Arabia (阿拉伯半岛) + an (形容词后缀) ——> 阿拉伯半岛的
 
@@ -49,14 +49,12 @@ Britain / ˈbrɪt(ə)n /
 n. 英国，不列颠(包括英格兰、苏格兰及威尔士)；英国，不列颠(包括英格兰、苏格兰及威尔士)
 [例]
 1.Britain won five gold medals. 英国夺取了五块金牌。
-2.When did the Romans invade Britain?古罗马人是何时侵略英国的？《牛津词典》。
+2.When did the Romans invade Britain?古罗马人是何时侵略英国的？。
 3.Britain is a constitutional monarchy. 英国是个君主立宪制国家。
 [搭]
 1.Battle of Britain 不列颠战役；不列颠之战；伦敦上空的鹰；不列颠空战
 2.Great Britain 大不列颠岛；大不列颠；英国；大不列颠联合王国
 3.New Britain 新不列颠岛；新英国；新不列颠市
-4.great britain 英国
-5.battle of britain 不列颠之战（1940年7至10月英德空军的一系列战斗）；伦敦上空的鹰（电影名称）
 [联]Brit (不列颠人) + ain't (不是，非) ——> 不列颠人不是某个特定事物
 
 Canada / ˈkænədə /
@@ -69,9 +67,8 @@ n. 加拿大（北美洲国家）
 1.Air Canada 加拿大航空；加拿大航空公司；航空公司；枫叶航空
 2.Bank of Canada 加拿大银行；加拿大央行；央行；加拿大中央银行
 3.Health Canada 加拿大卫生部；卫生部；加拿大卫生署；加拿大健康署
-4.air canadan.  加拿大航空公司
+4.canada day 加拿大国庆日
 5.statistics canada 加拿大统计局
-6.canada day 加拿大国庆日
 [联]Cana (看啊) + da (达) ——> 看啊，达的地方
 
 European / ˌjʊərəˈpiːən /
@@ -85,9 +82,7 @@ n. 欧洲人；欧盟成员国国民；欧盟的拥护者
 1.European Union 欧洲联盟；欧盟；欧盟联军；欧洲同盟
 2.European Commission 欧盟委员会；欧洲委员会；欧盟执行委员会；欧盟执委会
 3.European Parliament 欧盟议会；欧洲国会；会大厦
-4.european union 欧洲联盟，欧盟
-5.european countries 欧洲国家
-6.european commission 欧洲委员会
+4.european countries 欧洲国家
 [联]Eu (you) + rope (绳子) + an (一个) ——> 你可以用绳子测量一个欧洲大陆的轮廓
 
 France / frɑːns /
@@ -100,8 +95,7 @@ n. 法国；法郎士（姓氏）
 1.Air France 法国航空；法国航空公司；法航；欧洲
 2.Tour de France 环法自行车赛；环法；环法自由车赛；环法赛
 3.France Football 法国足球；法国足球杂志
-4.tour de france 环法自行车赛
-5.france telecom 法国电信公司
+4.france telecom 法国电信公司
 [联]France ——> fr (发音类似“夫”) + ance (发音类似“安思”) ——> 夫妻安思处
 
 Germany / ˈdʒɜːməni /
@@ -116,7 +110,6 @@ n. 德国
 3.history of germany 德国历史；德国通史
 4.west germany 西德（原德意志联邦共和国的简称）
 5.made in germany 德国制造（商品标记）
-6.east germany 东德
 [联]German + y ——> 德国佬
 
 Greek / ɡriːk /
@@ -159,7 +152,6 @@ adj. 犹太人的；犹太族的；犹太教的；信犹太教的
 [搭]
 1.Jewish quarter 犹太区；犹太人区；犹太人居住区
 2.Jewish Museum 犹太人博物馆；犹太博物馆；博物馆；犹太纪念馆
-3.JEWISH STUDIES 犹太学；犹太研究；犹太语研究；犹太人研究
 [联]Jewish (犹太人的) + heritage (传统，遗产) ——> 犹太传统
 
 Latin / ˈlætɪn /
@@ -174,9 +166,7 @@ n. （Latin）（美）拉京（人名）
 1.Latin Square 拉丁方阵；拉丁方；希腊拉丁方；拉丁方块
 2.Latin Empire 拉丁帝国
 3.Latin America 拉丁美洲；拉关系；美地区；南美洲
-4.latin america 拉丁美洲
-5.latin american 拉丁美洲的
-6.latin square 拉丁方
+4.latin american 拉丁美洲的
 [联]Latin ——> 无明显拆分联想
 
 Marxism / ˈmɑːksɪzəm /
@@ -191,7 +181,7 @@ adj. 马克思的；马克思主义的
 2.Marxism Philosophy 马克思哲学；马克思哲学视界
 3.new-Marxism 否思
 4.principles of marxism 马克思主义原理
-5.philosophy of marxismn.  马克思主义哲学
+5.philosophy of marxism 马克思主义哲学
 [联]Marx (马克思) + ism (主义) ——> 马克思主义
 
 New Zealand / ˌnuː ˈziːlənd /
@@ -217,7 +207,7 @@ n. 葡萄牙语；葡萄牙人
 1.Portuguese India 葡属印度；葡印度
 2.Portuguese Empire 葡萄牙帝国
 3.Portuguese people 葡萄牙人
-[联]Portuguese (葡萄牙人，葡萄牙语) +uese (表示“……的人”) ——> 葡萄牙人
+[联]Portuguese (葡萄牙人，葡萄牙语) + uese (表示“……的人”) ——> 葡萄牙人
 
 Roman / ˈroʊmən /
 n. 罗马人；古罗马语
@@ -262,8 +252,7 @@ adj. 苏维埃的；苏联的；苏联人的
 1.Soviet Union 苏联；前苏联；制片国家
 2.Hungarian Soviet Republic 匈牙利苏维埃共和国
 3.Soviet Air Forces 苏联空军
-4.soviet union 前苏联（1922-1991，首都莫斯科 Moscow，位于欧、亚洲）
-5.soviet russian.  苏联
+4.soviet russian 苏联
 [联]so (如此，这么) + viet (联想为“胜利”) ——> 如此胜利
 
 Spanish / ˈspænɪʃ /
@@ -272,12 +261,12 @@ n. 西班牙语；西班牙人
 [例]
 1.Spanish is on the curriculum. 西班牙语已纳入课程内容。
 2.Spanish is in the curriculum. 西班牙语已纳入课程内容。
-3.Do you still keep up your Spanish?你还坚持说西班牙语吗？《牛津词典》。
+3.Do you still keep up your Spanish?你还坚持说西班牙语吗？。
 [搭]
 1.Spanish Armada 无敌舰队；西班牙无敌舰队；年西班牙无敌舰队
 2.Spanish sparrow 黑胸麻雀
 3.Spanish athlete 吹牛的人；爱吹牛的人；吹法螺的人
-4.spanish mackereln.  马加鱼
+4.spanish mackerel 马加鱼
 5.spanish flu 西班牙流感（等于 Spanish influenza）
 6.spanish civil war[历史]西班牙内战（1936-1939）
 [联]Spanish (西班牙语) + ing (表示语言的后缀) ——> 西班牙语
@@ -295,8 +284,7 @@ n.（美）史威史（人名）
 2.Swiss German 瑞士德语；德语区
 3.Swiss Franc 瑞士法郎；瑞典法郎；瑞郎；瑞朗
 4.swiss bank 瑞士银行
-5.swiss franc 瑞士法郎
-6.swiss cheese 蜂窝乳酪；瑞士硬干酪
+5.swiss cheese 蜂窝乳酪；瑞士硬干酪
 [联]Swiss (瑞士的) + knife (刀) ——> 螺丝刀
 
 abroad / əˈbrɔːd /
@@ -312,7 +300,6 @@ n. 外国
 3.Austrian Service Abroad 奥地利国外服务
 4.home and abroad 国内外，海内外
 5.at home and abroad 国内外
-6.study abroad 出国留学；海外学习
 [联]abroad (在国外，海外) + land (陆地，国家) ——> 海外陆地
 
 action / ˈækʃ(ə)n /
@@ -354,7 +341,6 @@ v. 管理，治理；执行，实施；给予（药物或治疗）；给予帮�
 1.comprehensively administer 综合治理；综合管理；分析治理
 2.Administer Standard 执行标准；执入标准；法兰式截止阀执行标准；锐茨自控阀门有限公司
 3.administer justice 执行审判；执行法律；执法；执行法律制裁
-4.administer justice 执法，执行审判
 [联]ad (广告) + minister (部长，大臣) ——> 管理，执行
 
 administration / ədˌmɪnɪˈstreɪʃn /
@@ -367,9 +353,8 @@ n. 管理，行政；管理部门，行政部门；（某一任期的）政府�
 1.business administration 工商管理；商务管理； 经管  商业管理
 2.Master of Business Administration 工商管理硕士；工商管理学硕士；工商管理硕士学位；工商管理
 3.Food and Drug Administration 美国食品和药物管理局；美国食品药品监督管理局；食品和药物管理局；美国食品药品管理局
-4.administration of◎(法律、惩罚等的)施行，执行，实行，实施；(药的)服用；用法；给与；(庄严的誓言或诺言的)提出，宣誓
-5.business administration 企业管理；经营管理
-6.public administration 公共行政；公共管理；行政管理
+4.administration of (法律、惩罚等的)施行，执行，实行，实施；(药的)服用；用法；给与；(庄严的誓言或诺言的)提出，宣誓
+5.public administration 公共行政；公共管理；行政管理
 [联]ad (广告) + ministration (服务，管理) ——> 管理、行政部门
 
 administrative / ədˈmɪnɪstreɪtɪv /
@@ -383,8 +368,7 @@ adj. 管理的，行政的
 2.Administrative Clerk 行政办事员；行政文员；行政公务员
 3.administrative assistant 行政助理；行政协理；行政助手；编审
 4.administrative region 行政区域；行政分区
-5.administrative law 行政法
-6.special administrative region 特别行政区
+5.special administrative region 特别行政区
 [联]admin (管理) + istrative (形容词后缀) ——> 行政的
 
 administrator / ədˈmɪnɪstreɪtər /
@@ -398,21 +382,18 @@ n.（公司、学校等的）管理者，行政人员；（死者）遗产管理
 2.database administrator 数据库管理员；数据库管理员考试认证
 3.network administrator 网络管理员；网络维护员；网络工程师；网络治理员
 4.system administrator[计]系统管理员
-5.network administrator 网络管理员
-6.database administrator 数据库管理员；数据库管理程序
 [联]ad + ministrator ——> 管理者
 
 admit / ædˈmɪt /
 v.（勉强）承认；招认，招供；准许进入（某处）；接纳，接收（入学）；收治，接收入院；承认……有效；容许，为……留有余地
 [例]
-1.Admit it! You were terrified!承认了吧！你吓坏了！《牛津词典》。
+1.Admit it! You were terrified!承认了吧！你吓坏了！。
 2.I must admit I am impressed. 我得承认我很佩服。
 3.I must admit I'm completely foxed. 我得承认我一点都不懂。
 [搭]
 1.I admit 我承认
 2.admit to 承认；让；通向
 3.admit of 容许有；容许；有…余地；允许有
-4.admit of 容许，有…的可能
 [联]admit (承认) + mit (送，放) ——> 承认
 
 admittance / ədˈmɪt(ə)ns /
@@ -426,7 +407,6 @@ n. 进入许可，加入许可；（物理）导纳；通道
 2.input admittance 电  输入导纳；入端导纳
 3.complex admittance 复数导纳； 电  复导纳；综合导纳
 4.admittance matrix 导纳矩阵
-5.no admittance 闲人免进；禁止入内
 [联]admit (承认) + tance (名词后缀) ——> 允许进入的状态
 
 admittedly / ədˈmɪtɪdli /
@@ -487,21 +467,20 @@ n. 顾问，指导者
 2.The media were still sniping at the president's adviser yesterday. 昨天媒体依旧在抨击总统的顾问。
 3.She refused to promote Colin above the low rank of "legal adviser. "她拒绝提升科林，只让他做低级别的“法律顾问”。
 [搭]
-1.legal adviser 法  法律顾问；法令参谋；法律参谋；执法顾问
+1.legal adviser 法律顾问；法令参谋；法律参谋；执法顾问
 2.Systems Adviser 系统顾问；体系参谋；系统参谋；体系顾问
 3.Honorary Adviser 名誉顾问；义务顾问
-4.legal adviser 法律顾问
-5.financial adviser 财务咨询师；财政顾问
-6.technical adviser 技术顾问
+4.financial adviser 财务咨询师；财政顾问
+5.technical adviser 技术顾问
 [联]advise (建议) + -er (表人) ——> 提供建议的人
 
 affect / əˈfekt /
 v. 影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼；<正式> 假装，佯装
 n.（尤指影响行为或行动的）情感，感情
 [例]
-1.How will these changes affect us?这些变化对我们会有什么影响？《牛津词典》。
+1.How will these changes affect us?这些变化对我们会有什么影响？。
 2.Your opinion will not affect my decision. 你的意见不会影响我的决定。
-3.Does television affect children's behaviour?电视对孩子的行为有影响吗？《牛津词典》。
+3.Does television affect children's behaviour?电视对孩子的行为有影响吗？。
 [搭]
 1.blunted affect 感情迟钝；情感迟钝
 2.Affect Region 面域影响；影响区域；影响地区范围；影响范围
@@ -540,11 +519,9 @@ adj. 情感的；表达感情的
 3.You may have the winterblues, or seasonal affective disorder (SAD). 也许你患上了冬季抑郁或者是季节性情感抑郁症（SAD）。
 [搭]
 1.affective disorder 情感障碍；情绪波动；情感性精神病；情感性精神障碍
-2.Affective Commitment 情感认同；感情承诺；情感承诺；感情认同
+2.affective commitment 情感认同；感情承诺；情感承诺；感情认同
 3.seasonal affective disorder 季节性情绪失调；季节性情感障碍；季节影响型症候群；季节性情感异常
-4.affective disorder 情感障碍；情感性精神病；燥狂抑郁性精神病
-5.affective commitment 感情承诺；情感认同
-6.affective tone 情调
+4.affective tone 情调
 [联]affect (影响) + ive (形容词后缀) ——> 有影响的
 
 affirm / əˈfɜːrm /
@@ -567,7 +544,7 @@ n. 肯定，维护；情感上的支持（或鼓励）；（因良心原因不�
 3.The North Atlantic Treaty begins with the affirmation that its parties "reaffirm their faith in the purposes and principles of the Charter of the United Nations. "《北大西洋公约》以公开肯定其成员“重申其对《联合国宪章》的目的以及原则的信念”开头。
 [搭]
 1.self-affirmation 自我肯定；定自身；而肯定本身；确认
-2.Words of Affirmation 肯定的言词；肯定的言辞
+2.words of affirmation 肯定的言词；肯定的言辞
 3.make an affirmation 断言
 [联]affirmation (肯定，确认) ——> affirm (断言，肯定) + ation (名词后缀) ——> 断言的状态或行为
 
@@ -581,11 +558,9 @@ int. <美>同意的，赞成的
 3.Her answer is in the affirmative. 她的回答是肯定的。
 [搭]
 1.affirmative action 平权法案；肯定性行动；平权措施；反优先雇佣行动
-2.affirmative vote 可决票
+2.affirmative vote 可决票；赞成票
 3.affirmative disclosure 明确表示；明确告示
 4.in the affirmative 以肯定方式，表示赞成
-5.affirmative action 肯定行动，平权行动
-6.affirmative vote 赞成票
 [联]af (向上的，类似的前缀) + firm (坚固的) + ative (形容词后缀) ——> 坚定的，肯定的
 
 agreeable / əˈɡriːəb(ə)l /
@@ -611,9 +586,8 @@ v. 同意；赞成（agree 的过去式）
 1.to be agreed 待同意；待通知；待安排；待宣布
 2.agreed upon 同意；商定；一致同意；特许的
 3.Schedule mutually agreed upon 双方商定的议程；双方约定的议程；两边约定的议程；单方商定的议程
-4.agreed upon 同意；商定
-5.as agreed 按照合同，照约定
-6.agreed price 议定价格
+4.as agreed 按照合同，照约定
+5.agreed price 议定价格
 [联]agree (同意) + ed (过去式后缀) ——> 同意的，达成一致的
 
 agreement / əˈɡriːmənt /
@@ -624,7 +598,7 @@ n. 协议，协定，契约；共识；应允，同意；（在数、性或人�
 3.The agreement was declared void. 该协议已宣布无效。
 [搭]
 1.prenuptial agreement 婚前协议书；婚前协议；婚前和谈；婚前协
-2.Munich agreement 慕尼黑公约；慕尼黑定
+2.munich agreement 慕尼黑公约；慕尼黑定
 3.forward rate agreement 远期利率协议；业务；期利率协议业务
 4.agreement with 同…达成协议
 5.agreement on 一致意见
@@ -644,7 +618,6 @@ v. 帮助，援助；促进，有助于
 3.hearing aid 耳鼻喉  助听器；耳环；以听协助听；传统式助听器
 4.with the aid of 在…的帮助下，在…援助下
 5.give aid to 给…予帮助
-6.first aid 急救；急救护理
 [联]a + id ——> 帮助 + 身份证 ——> 假如你的身份证丢了，别人帮助你补办
 
 aide / eɪd /
@@ -742,7 +715,7 @@ n. （球赛中的）助攻；资助，帮助
 assistance / əˈsɪstəns /
 n. 帮助，援助
 [例]
-1.Can I be of any assistance?我能有所帮助吗？《柯林斯英汉双解大词典》。
+1.Can I be of any assistance?我能有所帮助吗？。
 2.They rendered assistance to the disaster victims. 他们给灾民提供了援助。
 3.Despite his cries, no one came to his assistance. 尽管他喊叫，却没有人来帮助他。
 [搭]
@@ -750,8 +723,7 @@ n. 帮助，援助
 2.financial assistance 经济援助；财政资助；财政援助
 3.judicial assistance 司法协助；司法救助；司法补救；司法援肋
 4.technical assistance 技术援助
-5.financial assistance 财政资助
-6.mutual assistance 互相帮助；互相援助
+5.mutual assistance 互相帮助；互相援助
 [联]as + sist + ance ——> 援助 + 坚持 + 状态 → 在困难的状态下坚持获得援助
 
 assistant / əˈsɪstənt /
@@ -772,7 +744,7 @@ n. 协会，社团，联盟；交往，联合；联系，因果关系；联想
 [例]
 1.The association holds an annual reunion. 这个协会每年举行一次重聚会。
 2.The trade association promotes ethical business practices. 这个贸易协会提倡合乎道德标准的商业行为。
-3.Who is eligible to apply for membership of the association?谁有资格申请加入这个协会？《牛津词典》。
+3.Who is eligible to apply for membership of the association?谁有资格申请加入这个协会？。
 [搭]
 1.American Association 美国协会；美弓会；美国数学会
 2.Alumni Association 校友会；同学会；校友总会；校友协会
@@ -844,8 +816,6 @@ adj. 专断的，命令式的；可靠的，可信的，权威的
 1.authoritative source 权威人士；来源；权威来源；权威消息
 2.authoritative information 官方消息；权威发布；官方动静；什么意思及同义词
 3.authoritative parenting 权威型父母；权威型
-4.authoritative information 官方消息
-5.authoritative source 权威人士；权威来源
 [联]at + thor + itative ——> 与权力相关的，有权威的
 
 authoritatively / ɔːˈθɒrətətɪvli /
@@ -878,16 +848,15 @@ n. 专家，权威人士；行政管理机构；权利，权限；权威，威�
 authorization / ˌɔːθərəˈzeɪʃ(ə)n /
 n. 批准书，授权书；批准，授权
 [例]
-1.Can I see your authorization?我能看你的授权书吗？《牛津词典》。
-2.Who gave the authorization to release the data?谁授权发表这些资料的？《牛津词典》。
+1.Can I see your authorization?我能看你的授权书吗？。
+2.Who gave the authorization to release the data?谁授权发表这些资料的？。
 3.You may not enter the security area without authorization. 未经批准不得进入警戒地区。
 [搭]
 1.end use authorization 最终使用授权书
 2.Intelligence Authorization Act 情报授权法
-3.AUTHORIZATION PAGE 授权页；权力委托页
+3.letter of authorization 授权证书；委任证书
 4.authentication and authorization 鉴别与授权；验证和授权
 5.authorization letter 授权书；授权信
-6.letter of authorization 授权证书；委任证书
 [联]author (作者) + ity (名词后缀) + zation (动作名词后缀) ——> 授权，授权行为
 
 authorize / ˈɔːθəraɪz /
@@ -942,7 +911,6 @@ n. 代表（on behalf of）；因为，为了……的利益（in/on behalf of�
 3.on the behalf of 代表
 4.behalf of 代表
 5.on one's behalf 为…的利益；代表
-6.on behalf of 代表；为了
 [联]on + behalf ——> 代表， behalf of ——> 代表某人
 
 bilateral / ˌbaɪˈlætərəl /
@@ -955,9 +923,7 @@ adj. 双方的，双边的；（身体部位）两侧的，（大脑）两半球
 1.bilateral trade 贸易  双边贸易；双边；双边商业
 2.bilateral agreement 社科  双边协议； 社科  双边协定；双边和谈；双边协定配额
 3.bilateral relation 经  双边关系
-4.bilateral trade 双边贸易
-5.bilateral agreement 双边协定
-6.bilateral talks 双边会淡
+4.bilateral talks 双边会淡
 [联]bi (两) + lateral (侧面的) ——> 双侧的
 
 bilateralism / baɪˈlæt(ə)rəlɪz(ə)m /
@@ -1112,12 +1078,11 @@ adj. 公民的，国民的，国内的；平民的，民用的；文明的，有
 2.The prospect of civil war is very real. 内战爆发的可能性确实存在。
 3.The threat of renewed civil war looms ahead. 新一轮内战的威胁在逼近。
 [搭]
-1.civil law 法  民法；欧陆法系；民法学；大陆法系
+1.civil law 民法；欧陆法系；民法学；大陆法系
 2.civil society 公民社会；市民社会；民间团体
 3.civil war 内战；南北战争；美国内战；英超内战
-4.civil law 民法
-5.civil aviation 民用航空
-6.civil engineering 土木工程
+4.civil aviation 民用航空
+5.civil engineering 土木工程
 [联]civil (文明的，市民的) + ian (具有...性质的人) ——> 公民
 
 civilian / səˈvɪliən /
@@ -1182,10 +1147,9 @@ n. 声称，断言；索要，索赔；权利，所有权；要求得到的土�
 [搭]
 1.baggage claim 行李提领处；行李领取处；行李认领；领取行李
 2.insurance claim 保险  保险索赔；保险理赔；保险费回扣
-3.PATENT CLAIM 专利要求书；占有权；专利权限；专利申请范围
+3.lay claim to 要求；自以为
 4.claim for 要求；索取
 5.claim for compensation 索赔
-6.lay claim to 要求；自以为
 [联]claim (声称) + proof (证据) ——> 声称的证据
 
 claimant / ˈkleɪmənt /
@@ -1210,9 +1174,8 @@ v. 要求；主张（claim 的第三人称单数形式）
 [搭]
 1.claims adjuster 公证行；理赔人；索赔调查人；理赔理算人
 2.Claims Examiner 主考官；理赔审核员；保险理赔审核员；主考民
-3.claims settlement 理赔； 贸易  清理赔偿；沉降
+3.claims settlement 理赔；清理赔偿；沉降
 4.outstanding claims 未决赔款，货币索取权
-5.claims settlement 清理赔偿
 [联]claim (声称) + s (复数后缀) ——> 声称的事情
 
 clan / klæn /
@@ -1235,8 +1198,7 @@ adj. 秘密的，私下的；偷偷摸摸的
 3.Their clandestine mission: to get you to the fun faster. 他们的秘密使命就是使你尽快找到乐儿。
 [搭]
 1.National Clandestine Service 国家秘密行动处；动处；属于国家秘密行动处；属于国度机密举动处
-2.clandestine a 秘密的
-3.Clandestine Childhood 我的双面童年
+2.Clandestine Childhood 我的双面童年
 [联]clan (宗族) + destine (命定) ——> 秘密的、家族命运相关的
 
 clarification / ˌklærəfɪˈkeɪʃn /
@@ -1271,12 +1233,10 @@ n. 结肠；冒号；（哥斯达黎加和萨尔瓦多的标准货币单位）�
 2.In the U. S. , there are 60,000 deaths a year from colon cancer. 在美国，每年有６万人死于结肠癌。
 3.Berle was diagnosed with colon cancer last year and had been under hospice care for the past few weeks. 去年伯利被诊断患有结肠癌，在过去的几周里他一直受到临终关怀护理。
 [搭]
-1.Colon Cancer 结肠癌；大肠癌；结肠肿瘤
+1.colon cancer 结肠癌；大肠癌；结肠肿瘤
 2.sigmoid colon 解剖  乙状结肠；降结肠和直肠之间肠的缩窄弯曲部
 3.transverse colon 解剖  横结肠
-4.colon cancer 结肠癌；大肠癌；直肠癌
-5.sigmoid colon 乙状结肠
-6.colon bacillus 大肠杆菌；大肠埃希氏杆菌
+4.colon bacillus 大肠杆菌；大肠埃希氏杆菌
 [联]colon (结肠) + graph (书写，记录) ——> 结肠镜检查
 
 colonel / ˈkɜːrn(ə)l /
@@ -1289,7 +1249,6 @@ n.（陆军、空军或海军陆战队）上校
 1.Lieutenant Colonel 中校；陆军中校；副总警监；空军中校
 2.Senior Colonel 大校
 3.Colonel Redl 雷德尔上校
-4.lieutenant colonel[英]陆军中校；[美]陆军或空军、海军陆战队中校
 [联]coronet (军衔徽章) + el (缩suffix, 表示小的) ——> 军衔的小徽章
 
 colonial / kəˈloʊniəl /
@@ -1354,7 +1313,7 @@ n. 殖民地；殖民团，移民队；聚集人群，聚居地（区）；群�
 1.The Colony 重建人类社会；末世殖民地；殖民地；尊严殖民地
 2.Space colony 宇宙殖民地；太空殖民地；殖民卫星；宇宙殖官天
 3.Cape Colony 开普殖民地；殖民角；海角殖民地
-4.bacterial colonyn.  （细菌）菌落；细菌聚落
+4.bacterial colony（细菌）菌落；细菌聚落
 5.colony formation 群体形成；集落形成
 6.crown colony 英国直辖殖民地
 [联]colony (群体，聚居地) + -y (表性质或状态) ——> 群居地
@@ -1414,10 +1373,8 @@ v. 传递信息，通讯；传达，传递（想法或感情）；传染（疾�
 3.Now he can only communicate through a voice synthesizer. 如今他只能通过声音合成器来进行交流。
 [搭]
 1.communicate with sb 和某人交流；与某人交流；动词词组；以及或者人交流
-2.communicate with 交流；与某人联系；与……交际；沟通
+2.communicate in 用. . . 语言沟通
 3.Capacity to communicate orally 口头相互交流的能力；口头彼此交流的能力；口头交流
-4.communicate with 沟通；通话
-5.communicate in 用. . . 语言沟通
 [联]com (一起) + municate (交换) ——> 交流、沟通
 
 communication / kəˌmjuːnɪˈkeɪʃn /
@@ -1442,11 +1399,10 @@ adj. 爱说话的，健谈的；交际的，沟通的
 2.She has become a lot more tolerant and communicative. 她变成了一个更宽容，更健谈的人。
 3.We have a very communicative approach to teaching languages. 我们有一个交际能力很强的方法来教授语言。
 [搭]
-1.Communicative Approach 交际法；交际教学法；交流方式
+1.communicative approach 交际法；交际教学法；交流方式
 2.communicative competence 交际能力；沟通能力；语言交际能力；交际能力理论
 3.Communicative Language Teaching 交际法；交际语言教学；交际教学法
-4.communicative competence 交际能力
-5.communicative function 交际功能，交际职能
+4.communicative function 交际功能，交际职能
 [联]com (一起) + municate (交流) ——> 善于交流的
 
 communism /ˈkɑːmjunˌɪzəm/, /ˈkɑːmjəˌnɪzəm/
@@ -1503,7 +1459,7 @@ n. 社区，社会；（由同国籍、同宗教等构成的）群体，界；�
 3.The centre will serve the whole community. 这个中心将为整个社区提供服务。
 [搭]
 1.community college 社区学院；社区大学；两年制的社区大学
-2.European Community 欧洲共同体；欧共体；欧洲共同市场；欧洲团体
+2.european community 欧洲共同体；欧共体；欧洲共同市场；欧洲团体
 3.virtual community 虚拟社区；虚拟共同体
 4.international community 国际社会；国际共同体
 5.community health 社区卫生（健康）；公共卫生；社会健康
@@ -1518,8 +1474,8 @@ n. 行为，举止；经营方式，管理方法
 2.The sport has a strict code of conduct. 体育运动有严格的行为规范。
 3.Police will conduct random breath tests. 警察会随机进行吹气酒精测试。
 [搭]
-1.Conduct Disorder 品行疾患；行为障碍
-2.Code of Conduct 行为准则； 劳经  行为规范；行为规则
+1.conduct disorder 品行疾患；行为障碍
+2.code of conduct 行为准则； 劳经  行为规范；行为规则
 3.short-term conduct 短期行为；短期行动；短期举动；短时间举动
 4.conduct oneself（行为）表现
 5.code of conduct 行为准则；规范
@@ -1548,12 +1504,10 @@ n. 导电性；[物][生理] 传导性
 2.The electrical conductivity plummets about three orders of magnitude. 电导率突然下降,约3个数量级。
 3.The technician plotted the thermal conductivity versus mean temperature. 技术人员勾绘出导热率对应平均温度的曲线。
 [搭]
-1.thermal conductivity 热  热导率；导热系数； 物  导热性；热传导系数
+1.thermal conductivity 热导率；导热系数；导热性；热传导系数
 2.molar conductivity 克分子电导率；电导率；克分子导电率
 3.electric conductivity 电导率；电导；导电性；导电率
-4.thermal conductivity 导热系数；热导率
 5.electrical conductivity 导电性；导电率
-6.electric conductivity[化]电导率；电导性
 [联]con (一起) + duct (引导) + ivity (性质) ——> 导电性质
 
 conductor / kənˈdʌktər /
@@ -1563,12 +1517,11 @@ n.（乐队等的）指挥；售票员，检票员；导体；<英>传导教育�
 2.Graphite is a highly efficient conductor of electricity. 石墨是一种高效的电导体。
 3.Under its new conductor, the orchestra has established an international reputation. 在新指挥的领导下，这个乐团建立了国际声誉。
 [搭]
-1.electrical conductor 电导体
-2.Fast ion conductor 快离子导体
-3.conductor side 电  导线面
-4.bus conductorn.  公共汽车售票员
+1.electrical conductor 导电体，电导体；电导线
+2.fast ion conductor 快离子导体
+3.conductor side 导线面
+4.bus conductor 公共汽车售票员
 5.good conductor 良导体
-6.electrical conductor 导电体，电导体；电导线
 [联]con (一起) + duct (引导) + or (名词后缀，表示人) ——> 导演，指挥
 
 confer / kənˈfɜːr /
@@ -1580,9 +1533,8 @@ v. 授予，赋予；商讨，交换意见
 [搭]
 1.confer upon 封立；赋予
 2.CF Confer 比较；对照
-3.Confer On 授给；授予；赋予
+3.confer on 授给（授予）；授予；赋予
 4.confer with 协商；交换意见
-5.confer onvt.  授给（授予）
 [联]con (一起) + fer (带来) ——> 授予，赠与
 
 conference / ˈkɑːnfərəns /
@@ -1592,11 +1544,10 @@ n.（大型、正式的）会议，研讨会；（小型正式的）商讨，讨
 2.Such threats could scuttle the peace conference. 这样的威胁可能会破坏和平会议。
 3.There are daily conference calls with Washington. 与华盛顿方面有每日电话会议。
 [搭]
-1.video Conference 视频会议；视讯会议； 通信  电视会议；视像会议
-2.Eastern Conference 东部联盟；东区；东部同盟；东部
+1.video conference 视频会议；视讯会议； 通信  电视会议；视像会议
+2.eastern conference 东部联盟；东区；东部同盟；东部
 3.news conference 记者会；记者招待会；新闻发布会；发布会
 4.press conference 记者招待会，新闻发布会
-5.news conference 记者招待会
 6.international conference 国际会议
 [联]con (一起) + fer (带来) + ence (名词后缀) ——> 会议，讨论
 
@@ -1605,7 +1556,7 @@ n. 保守主义；守旧性
 [例]
 1.He was a vociferous opponent of Conservatism. 他是保守主义的强烈反对者。
 2.The author doesn't equate liberalism and conservatism. 该作者没有将自由主义等同于保守主义。
-3.Wherein lies the difference between conservatism and liberalism?保守主义和自由主义的区别在哪里？《牛津词典》。
+3.Wherein lies the difference between conservatism and liberalism?保守主义和自由主义的区别在哪里？。
 [搭]
 1.neo-conservatism 新保守主义
 2.Conservatism principle 稳健原则；谨慎性原则；稳健性原则
@@ -1623,9 +1574,8 @@ n. 保守者，因循守旧者；保守党党员，保守党支持者
 1.conservative party 保守党；英国保守党；守旧党
 2.Conservative force 力  保守力；守恒力；保守力
 3.Conservative Party of Canada 加拿大保守党；保守党；保守进步党
-4.conservative partyn.  保守党
-5.conservative estimate 审慎估计，保守估计
-6.conservative government 保守政权
+4.conservative estimate 审慎估计，保守估计
+5.conservative government 保守政权
 [联]con (一起) + servative (保存) ——> 保守的
 
 conservatively / kənˈsɜːvətɪvli /
@@ -1675,7 +1625,7 @@ v. 为……加冕，立……为王；形成……顶部，给……加顶；�
 1.Guilty Crown 罪恶王冠；罪恶王冠原声集；原罪之冠；壁纸
 2.crown ether 有化  冠醚；冠狀醚；巴豆基
 3.The Hollow Crown 空心王冠；空王冠玫瑰战争
-4.crown princen.  皇太子；皇储
+4.crown prince 皇太子；皇储
 5.crown ether 冠醚
 6.to crown it all 更妙的是；更糟糕的是；尤其是
 [联]crown (皇冠) + wit (智慧) ——> 有智慧的人才能戴上皇冠
@@ -1704,7 +1654,6 @@ n. 代表团；授权，委派
 1.delegation pattern 委托模式；代理模式
 2.delegation of authority 授权；官方代表团；委派授权；转授权力
 3.Chinese delegation 代表团；中国代表团；中方代表团
-4.delegation of authority 授权；委任权
 [联]delegate (委派) + ation (名词后缀) ——> 委派的事物
 
 democracy / dɪˈmɑːkrəsi /
@@ -1775,12 +1724,11 @@ n. （具有某种特征的）群体；人口统计数据
 2.There are substantial differences among consumers with similar demographic characteristics. 具有相似人口统计学特征的消费者之间存在实质性差异。
 3.By the mid-19th century most of Europe was in the first stage of the demographic transition. 到19世纪中叶，欧洲的大部分地区处于人口转变的第一阶段。
 [搭]
-1.demographic transition 人口转型； 社科  人口转变；人口过渡
+1.demographic transition 人口转型；人口转变；人口过渡
 2.demographic factor 人口因素
 3.demographic environment 人口统计环境；人口环境
 4.demographic characteristics 人口学特征；个人背景特征
 5.demographic data 人口数据，人口资料
-6.demographic transitionn.  人口转变，人口过渡
 [联]demo (人) + graphic (绘图的) ——> 人口统计学
 
 department / dɪˈpɑːrtmənt /
@@ -1790,12 +1738,11 @@ n.（组织或机构中的）部，司，系，处，科；（商场里的）部
 2.She resigned as head of department. 她辞去了部门主管的职务。
 3.His department will merge with mine. 他的部门将和我的合并。
 [搭]
-1.Department Store 贸易  百货公司； 贸易  百货商店；百货商场；百货店
+1.Department Store 百货公司；百货商店；百货商场；百货店
 2.Department of Justice 美国司法部；反不正当竞争部门
 3.planning department 企划部；计划司；计划部
-4.department store 百货公司；百货商店
-5.state departmentn.  （美国）国务院
-6.sales department 业务部，营业部
+4.state department（美国）国务院
+5.sales department 业务部，营业部
 [联]de (一) + part (部分) + ment (名词后缀) ——> 部门
 
 departmental / ˌdiːpɑːtˈment(ə)l /
@@ -1978,7 +1925,7 @@ n. 电，电流，电力；强烈感情
 1.electricity generation 产电；电力生产
 2.electricity meter 电度表；电表
 3.atmospheric electricity 气象  大气电学；天电；大气中的电荷
-4.static electricityn.  静电；静位觉
+4.static electricity 静电；静位觉
 5.generate electricity 发电
 6.electricity supply 供电；电力供应
 [联]electron (电子) + current (电流) ——> 电子流
@@ -2005,9 +1952,7 @@ v. 移居外国，移民；迫使（或帮助）……移居外国
 2.Everybody was flabbergasted when I announced I was going to emigrate to Australia. 当我宣布要移民去澳大利亚时，所有人都惊呆了。
 3.Certain formalities have to be gone through before you can emigrate. 必须办理一定的手续方能移居他国。
 [搭]
-1.emigrate vi 移居
-2.emigrate e 移居；永久移居国外；移出
-3.EMIGRATE TO SHANGHAI 移居上海
+1.EMIGRATE TO SHANGHAI 移居上海
 [联]e (向外) + migrate (迁移) ——> 移居国外
 
 emigration / ˌemɪˈɡreɪʃn /
@@ -2026,7 +1971,7 @@ encounter / ɪnˈkaʊntər /
 v. 遭遇；偶遇，邂逅
 n. 偶遇，邂逅；经历，体验；冲突；比赛，交锋
 [例]
-1.Did you encounter anyone in the building?你在那栋大楼里偶然遇到什么人了吗？《柯林斯英汉双解大词典》。
+1.Did you encounter anyone in the building?你在那栋大楼里偶然遇到什么人了吗？。
 2.In high school, I was very unpopular, and I did encounter a little prejudice. 在中学，我很不受欢迎，确实遇到了一点偏见。
 3.Every day of our lives we encounter major and minor stresses of one kind or another. 生活中的每一天，我们会遇到或大或小的这样那样的压力。
 [搭]
@@ -2095,10 +2040,9 @@ v. 建立，设立；证实，确定；发现，找出；使被接受，使得�
 [搭]
 1.to establish arrangement 达成协议；告竣和谈
 2.establish the entered value 确立报关单价格
-3.establish a business 建立
+3.establish a business 建立；创业；设立商店
 4.establish oneself in 在…落户，定居在
 5.establish as 确立为…；使成为…
-6.establish a business 创业；设立商店
 [联]e (出) + st (是) + ab (一个) + lish (建立) ——> 出是一个建立的標準
 
 establishment / ɪˈstæblɪʃmənt /
@@ -2127,9 +2071,7 @@ adj. （与）道德规范（有关）的，（与）伦理（有关）的（=et
 1.work ethic 职业道德；工作道德；工作理念；工作态度
 2.professional ethic 职业道德；良好的职业道德
 3.Cultivation of Ethic Thought 思想道德修养
-4.work ethic 职业道德；职业伦理
-5.professional ethic 职业道德
-6.protestant ethic 新教伦理；新教价值观
+4.protestant ethic 新教伦理；新教价值观
 [联]ethic (道德，伦理) + code (编码，代码) ——> 道德规范
 
 ethical / ˈeθɪk(ə)l /
@@ -2170,9 +2112,8 @@ n. 少数民族成员，某民族群体的人
 1.ethnic group 族群；民族；同种同文化之民族
 2.ethnic lines 种族；人种
 3.Ethnic Township 民族乡
-4.ethnic groupn.  同种同文化之民族
-5.ethnic minority 少数民族
-6.ethnic chinese 华裔人士
+4.ethnic minority 少数民族
+5.ethnic chinese 华裔人士
 [联]ethnic (种族的，民族的) + heritage (传统，遗产) ——> 民族传统
 
 ethnical / ˈeθnɪkəl /
@@ -2274,8 +2215,7 @@ n. 联邦政府，联邦；联合会；结成联邦（或联盟）
 1.Federation Square 联邦广场；联合广场；墨尔本联邦广场
 2.Mali Federation 马里联邦
 3.Russian Federation 俄罗斯联邦；俄罗斯；国家地区；国家
-4.russian federation 俄罗斯联邦
-5.women's federation 妇女联合会
+4.women's federation 妇女联合会
 [联]feder (联盟，联合会) + ation (名词后缀) ——> 联合会，联邦
 
 flag / flæɡ /
@@ -2289,8 +2229,8 @@ v. 给……做标记；示意……停下来，挥手示停；（裁判向场�
 1.false flag 伪旗行动；用冒充身份吸收对象；假旗行动
 2.Corner flag 角旗；角球旗；足球场角旗
 3.yellow flag 黄旗；检疫旗；黄菖蒲
-4.red flagn.  红旗；危险信号；[喻]惹人生气的事物
-5.national flagn.  国旗
+4.red flag 红旗；危险信号；[喻]惹人生气的事物
+5.national flag 国旗
 6.white flag 白旗（表示投降）；降旗
 [联]piece (碎片) + go (去) ——> 标志物
 
@@ -2305,9 +2245,6 @@ v. 悬旗于……；用标记表明；铺石板（flag 的过去分词）
 1.flagged write back 标记回写
 2.flagged variable 计  带标记变量；带标记变元
 3.flagged ropes 旗绳
-4.red flagn.  红旗；危险信号；[喻]惹人生气的事物
-5.national flagn.  国旗
-6.white flag 白旗（表示投降）；降旗
 [联]flag (旗子) + ged (过去分词后缀，表示动作的完成) ——> 表示用旗子标记或使...成为标记
 
 flagrant / ˈfleɪɡrənt /
@@ -2319,7 +2256,6 @@ adj. 骇人听闻的，公然的
 [搭]
 1.flagrant foul 故意犯规；恶性犯规；恶意犯规；没有必要或动作过大的犯规
 2.Flagrant provocation 公然挑衅
-3.flagrant l 像粪勺
 [联]flagrant (明显的，明目张胆的) +rant (咆哮，大声叫嚷) ——> 明目张胆的咆哮
 
 flagship / ˈflæɡʃɪp /
@@ -2332,8 +2268,6 @@ n. 旗舰；（作定语）一流；佼佼者
 1.flagship species 旗舰种；旗舰物种
 2.flagship store 旗舰店；总店；男左女右；旗舰商店
 3.flagship product 龙头产品；旗舰产品；主打产品；龙头商品
-4.flagship store 旗舰店
-5.flagship product 龙头产品
 [联]flag (旗帜) + ship (船) ——> 旗舰
 
 flourish / ˈflɜːrɪʃ /
@@ -2376,8 +2310,7 @@ v. 给予特许经销权；给予……公民权（或选举权）
 1.media franchise 科幻媒体授权经营
 2.franchise tax 税收  特许税； 税收  特许权税； 税收  特许经营税；专营税
 3.Franchise Chain 特许连锁；特许加盟；加盟连锁；连锁加盟
-4.franchise chain 特许连锁
-5.franchise rights 特许经营权
+4.franchise rights 特许经营权
 [联]free (自由的) + insist (坚持) + ence (名词后缀) ——> 特许经营权
 
 franchisee / ˌfræntʃaɪˈziː /
@@ -2399,9 +2332,8 @@ n. 赋予经销商经营权的人
 2.No franchiser may undertake illegal pyramid selling activities in the name of franchising. 特许人不得假借特许经营的名义，非法从事传销活动。
 3.The franchiser has to be reviewed, especially on the quality of its products and financial strength. 许多加盟商都必须考虑，尤其是在产品的是否质量信誉和是否有足够多的资金。
 [搭]
-1.franchiser r 授予特许经营权者
-2.Franchiser Chain 特许连锁
-3.dealer franchiser distributor seller 经销商
+1.Franchiser Chain 特许连锁
+2.dealer franchiser distributor seller 经销商
 [联]franchiser (特许经营商) + iser (表示从事某种职业或活动的人) ——> 从事特许经营的人
 
 global / ˈɡləʊbl /
@@ -2482,8 +2414,7 @@ n. 统治方式，管理方法
 1.Corporate Governance 公司治理；企业管治；公司治理结构；公司管治
 2.SOA GovernanceSOA 治理
 3.good governance 善政廉政；良好治理；好的治理；善治
-4.corporate governance 公司治理；企业管治，企业治理；公司管治
-5.governance structure 治理结构；统治结构；规制结构
+4.governance structure 治理结构；统治结构；规制结构
 [联]government (政府) + -ance (名词后缀) ——> 政权，治理
 
 government / ˈɡʌvərnmənt /
@@ -2498,7 +2429,7 @@ n. 政府，内阁；政体，国家体制；（国家等的）治理，管理�
 3.government school 官立学校；公立学校；国立学校；立中学
 4.chinese government 中国政府
 5.local government 地方政府；[总称]地方政府官员（或工作人员）
-6.central governmentn.  中央政府
+6.central government 中央政府
 [联]gov (走) + ern (管理) + ment (行为) ——> 政府的行为
 
 governmental / ˌɡʌvnˈmentl /
@@ -2526,7 +2457,7 @@ n. 州长，省长，总督；理事，董事；<英>主管，机构负责人；
 3.Governor of California 加利福尼亚州州长；加利福尼州州
 4.speed governor 调速器，限速器；蒂器
 5.vice governor 副省长
-6.lieutenant governorn.  副州长；副总督
+6.lieutenant governor 副州长；副总督
 [联]govern (管理) + nor (无实际意义，辅助拆分) ——> 州长
 
 guideline / ˈɡaɪdlaɪn /
@@ -2581,8 +2512,7 @@ vi. 协调；和谐；以和声唱
 3.Amid these scenes of savage brilliancy there dwells a race whose qualities seem to harmonize with their environment. 在这些壮烈的野蛮景象中居住着一个民族，他们的品质似乎与他们所处的环境是和谐的。
 [搭]
 1.to harmonize 调协；燮理；协调
-2.Harmonize e 和谐；协调
-3.harmonize with 与；相合
+2.harmonize with 与；相合
 [联]harmony (和谐) + ize (动词后缀) ——> 使和谐
 
 harmony / ˈhɑːrməni /
@@ -2595,7 +2525,7 @@ n. 和声，和弦；融洽，和睦；和谐，协调；（内心的）平静�
 1.vowel harmony 元音和谐律；元音和谐
 2.Harmony brings wealth 和气生财；家和万事兴；和睦生财；气生财
 3.New Harmony 新哈莫尼；新和谐；新协和村；协和村
-4.in harmonyadj.  和谐无间
+4.in harmony 和谐无间
 5.social harmony 社会和谐
 6.in harmony with 与…协调；与…一致
 [联]harmony (和谐，协调) + music (音乐) ——> 和声音乐
@@ -2665,11 +2595,9 @@ adj. 分等级的，等级制度的
 3.Although internally the XML is stored in a hierarchical format, logically in the database table it appears to be stored in a CLOB or BLOB. 尽管 XML 在内部存储为层次化格式，但逻辑上，在数据库表中，它似乎存储在 CLOB 或 BLOB 中。
 [搭]
 1.hierarchical organization 分层组织；分层结构；层次组织
-2.hierarchical structure 计  层次结构； 自  递阶结构；分层结构；层级结构
+2.hierarchical structure 层次结构；递阶结构；分层结构；层级结构
 3.Hierarchical Model 层次模型；分层模型；层系模型；分级模型
-4.hierarchical structure 分级结构，层级结构
-5.hierarchical clustering 分级群聚
-6.hierarchical model 分层模型；层级模型
+4.hierarchical clustering 分级群聚
 [联]hierarch (统治者，首领) + ical (形容词后缀) ——> 层级的、等级的
 
 hierarchically / ˌhaɪəˈrɑːkɪkli /
@@ -2681,23 +2609,8 @@ adv. 分层次，分等级地
 [搭]
 1.hierarchically synchronized network 分级同步网络
 2.hierarchically ordered 组织以层级秩序排列
-3.hierarchically intelligent control 自  分级智能控制；递阶智能控制
+3.hierarchically intelligent control 分级智能控制；递阶智能控制
 [联]hierarch (等级制度) + ical (形容词后缀) + ly (副词后缀) ——> 按照等级制度地
-
-hierarchies / ˈhaɪərɑːkɪz /
-n. 阶层，层级；[数] 分层，分类
-[例]
-1.Societies have always had their hierarchies, with some group perched at the top. 社会一直都有等级制度，有些群体居于顶端。
-2.In the classic, more widely accepted alternative ultimately derived from Weberian sociology, hierarchies of causes are treated as historically specific. 在经典的、更被广泛接受的、最终源自韦伯社会学的替代理论中，原因的等级被视为历史上特定的。
-3.In modern companies and democracies, power is increasingly diffused and traditional hierarchies are being undermined, making soft power ever more important. 在现代企业和民主国家，权力正日益分散，传统的等级制度正被削弱，这使得软实力变得更加重要。
-[搭]
-1.Parallel Inheritance Hierarchies 平行继承体系；平行继续体系；并行继承层次
-2.Agency markets and hierarchies 代理
-3.Class Hierarchies 类层次；阶层体系；类系统
-4.social hierarchy 社会等级；社会阶层
-5.hierarchy system 体系；分级系统
-6.inheritance hierarchy 继承层次；继承体系；继承阶层架构
-[联]hiero (祭司的) + archy (统治，管理) ——> 等级制度，阶层体系
 
 hierarchy / ˈhaɪərɑːrki /
 n. 等级制度；统治集团；等级体系
@@ -2714,6 +2627,18 @@ n. 等级制度；统治集团；等级体系
 6.inheritance hierarchy 继承层次；继承体系；继承阶层架构
 [联]hierarch (统治者) + y (表性质或状态) ——> 表示等级制度或层级结构的状态
 
+hierarchies / ˈhaɪərɑːkɪz /
+n. 阶层，层级；[数] 分层，分类
+[例]
+1.Societies have always had their hierarchies, with some group perched at the top. 社会一直都有等级制度，有些群体居于顶端。
+2.In the classic, more widely accepted alternative ultimately derived from Weberian sociology, hierarchies of causes are treated as historically specific. 在经典的、更被广泛接受的、最终源自韦伯社会学的替代理论中，原因的等级被视为历史上特定的。
+3.In modern companies and democracies, power is increasingly diffused and traditional hierarchies are being undermined, making soft power ever more important. 在现代企业和民主国家，权力正日益分散，传统的等级制度正被削弱，这使得软实力变得更加重要。
+[搭]
+1.Parallel Inheritance Hierarchies 平行继承体系；平行继续体系；并行继承层次
+2.Agency markets and hierarchies 代理
+3.Class Hierarchies 类层次；阶层体系；类系统
+[联]hiero (祭司的) + archy (统治，管理) ——> 等级制度，阶层体系
+
 immigrant / ˈɪmɪɡrənt /
 n.（外来）移民，侨民
 adj. 移民的，迁入的
@@ -2726,7 +2651,6 @@ adj. 移民的，迁入的
 2.immigrant visa 移民签证；入境居留签证；居留签证
 3.immigrant press 移民传媒
 4.illegal immigrant 非法移民；非法入境者
-5.immigrant visa 移民签证
 [联]immi (拉丁语前缀，意为“进入”) + grant (授予，准许) ——> 移民
 
 immigrate / ˈɪmɪɡreɪt /
@@ -2736,9 +2660,8 @@ v.（从外地）移居，移民；使移居入境
 2.They plan to immigrate to Finland next year. 他们计划明年移居芬兰。
 3.He decided to immigrate to Australia to find work. 他决定移居到澳大利亚找个工作。
 [搭]
-1.Immigrate e 移入；移居入境
+1.immigrate to 最近看到一则关于移居
 2.immigrate into 移民到
-3.immigrate to 最近看到一则关于移居
 [联]im + migrate ——> 移居国外
 
 impact / ˈɪmpækt /
@@ -2795,8 +2718,7 @@ n. 实施，执行
 2.strategy implementation 社科  战略实施；战略执行；策略实施；策略执行
 3.System Implementation 系统实施； 自  系统实现；系统导入；系统建置
 4.project implementation 项目执行；项目实现
-5.system implementation 系统实现
-6.trial implementation 试行
+5.trial implementation 试行
 [联]im (否定前缀) + plementation (完成) ——> 实施的反面（未完成）
 
 importance / ɪmˈpɔːt(ə)ns /
@@ -2811,7 +2733,6 @@ n. 重要，重要性；傲慢；名望
 3.The Importance of Living 生活的艺术；书名；糊口的艺术
 4.of great importance 有着重要意义，十分重要
 5.of importance 重要的；具有重要意义的
-6.attach importance to 重视；着重于…；对…给予重视
 [联]im (不译) + port (运输) + ance (名词后缀) ——> 重要性
 
 independence / ˌɪndɪˈpendəns /
@@ -2869,9 +2790,8 @@ v. 影响，对……起作用
 1.influence line 数  影响线
 2.influence on 影响；对；的影响；感化
 3.influence quantity 电  影响量
-4.influence on 对…的影响
-5.under the influence 酒醉的
-6.influence in 干涉；介入
+4.under the influence 酒醉的
+5.influence in 干涉；介入
 [联]in- (进入) + flu (流动) + ence (状态或性质) ——> 影响的状态或性质
 
 influencer / ˈɪnfluənsə(r) /
@@ -2897,9 +2817,8 @@ v. 制定（制度、规则等）；提出（诉讼）；任命，授予……�
 1.research institute 研究所；研究中心；研究院；研究机构
 2.Cato Institute 卡托研究所；加图研究所；凯托研究所；卡图研究所
 3.Pratt Institute 普瑞特艺术学院；普拉特学院；普瑞特学院
-4.research institute 研究机构，研究所
-5.institute of technology 理工学院；技术学院
-6.designing instituten.  设计院
+4.institute of technology 理工学院；技术学院
+5.designing institute 设计院
 [联]in- (向内) + stitut- (放置) + -e (名词后缀) ——> 学会、研究所
 
 institution / ˌɪnstɪˈtuːʃ(ə)n /
@@ -2912,9 +2831,8 @@ n. 机构，团体；社会收容机构；制度，习俗；建立，制定；�
 1.Brookings Institution 布鲁金斯学会；布鲁金斯研究所；布鲁金斯研究院；布鲁金斯学院
 2.financial institution 金融机构； 会计  财务机构；金融机构
 3.Hoover Institution 胡佛研究所；胡佛研究院；胡佛研究中心；胡佛学院
-4.financial institution 金融机构
-5.institution of higher learning 高等学校
-6.medical institution 医疗机构；医疗院所
+4.institution of higher learning 高等学校
+5.medical institution 医疗机构；医疗院所
 [联]insti (拉丁语"站") + tution (教导，培养) ——> 教导站
 
 institutional / ˌɪnstɪˈtjuːʃənl /
@@ -2924,12 +2842,11 @@ adj. 机构的，慈善机构的；制度的，惯例的；根深蒂固的；（
 2.Certain institutional and practical norms had become established as well. 一些体制和实际的准则也被建立起来了。
 3.This new NSF network attracted more and more institutional users, many of which had their own internal networks. 这个新的国家科学基金会网络吸引了越来越多的机构用户，其中很多都有自己的内部网络。
 [搭]
-1.institutional investor 经  机构投资者；机构投资人；金融机构投资者
-2.institutional economics 经  制度经济学；经济学；轨制经济学
+1.institutional investor 机构投资者；机构投资人；金融机构投资者
+2.institutional economics 制度经济学；经济学；轨制经济学
 3.Institutional Repository 机构知识库；机构库；机构典藏；机构仓储
-4.institutional economics 制度经济学
-5.institutional innovation 制度创新，体制创新
-6.institutional arrangement 制度安排；制序安排；机构安排
+4.institutional innovation 制度创新，体制创新
+5.institutional arrangement 制度安排；制序安排；机构安排
 [联]insti (建立) + tution (教育，训练) + al (形容词后缀) ——> 体制的、制度的
 
 institutionalize / ˌɪnstɪˈtjuːʃənəlaɪz /
@@ -2941,7 +2858,6 @@ vt. 使……制度化
 [搭]
 1.Over Institutionalize 度制度化
 2.Institutionalize it 制度化
-3.institutionalize e 使制度化；制度化
 [联]in (不，无) + stitution (宪法，章程) + al (形容词后缀) + ize (动词后缀) ——> 制度化
 
 institutionalized / ˌɪnstɪˈtjuːʃənəlaɪzd /
@@ -3051,8 +2967,7 @@ n. 自由，自由权；（某种）合法权利；冒犯行为（或言语）�
 2.Liberty Island 自由岛；自由女神岛
 3.Liberty Bell 自由钟；自在钟；自由之钟；自由铃
 4.at liberty 自由；随意；有空
-5.statue of libertyn.  自由女神
-6.individual liberty 个人自由
+5.individual liberty 个人自由
 [联]liberty (自由) + think (思考) ——> 自由思考
 
 material / məˈtɪriəl /
@@ -3063,12 +2978,11 @@ adj. 物质的，非精神上的；重要的，需予以考虑的；和推理内
 2.This material frays easily. 这布料容易磨损。
 3.The material is machined in a factory. 该材料在一家工厂用机器加工而成。
 [搭]
-1.raw material 材  原材料； 材  原料；原质料；原料部分
+1.raw material 原材料；原料；原质料；原料部分
 2.composite material 复合材料；合成粅料；合成材料；复合材质
 3.building material 建  建筑材料；建材；建材料
-4.raw material 原料
-5.teaching material 教学内容；教学资料
-6.new material 新材料
+4.teaching material 教学内容；教学资料
+5.new material 新材料
 [联]mate (伙伴) + rial (虚构的) ——> 想象中的伙伴
 
 materialism / məˈtɪəriəlɪzəm /
@@ -3082,7 +2996,7 @@ n. 唯物主义，唯物论；物质主义
 2.practical materialism 实践唯物主义；实践的唯物主义；实践唯物论
 3.french materialism 法国唯物主义
 4.historical materialism 历史唯物主义；历史唯物论
-5.dialectical materialismn.  辩证唯物主义
+5.dialectical materialism 辩证唯物主义
 [联]material (材料) + ism (主义) ——> 唯物主义
 
 materialize / məˈtɪriəlaɪz /
@@ -3123,12 +3037,11 @@ n.（英格兰、威尔士和北爱尔兰由议员选举产生的）镇长，市
 2.Michel Mayor 米歇尔·麦耶；马约尔；米歇尔·梅耶；耶教授
 3.Hato Mayor 阿托马约省
 4.deputy mayor 副市长
-5.lord mayorn.  （英国的）市长大人
+5.lord mayor（英国的）市长大人
 [联]major (市长) + may (可能) ——> 市长可能是最重要的决策者
 
 mayoral / ˈmeərəl /
 adj. 市长的
-n.（Mayoral）人名；（西）马约拉尔
 [例]
 1.In the recent mayoral election in Kiev, candidate of Tymoshenko League lost to the incumbent, despite her insistence that "he is me without the plait". 在最近的基辅市市长选举中，季莫申科联盟的候选人输给了现任市长，尽管她一直强调“他就是没有辫子的我”。
 2.The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. “超低排放新区（Ulez）”很可能是明年伦敦市长选举的重大议题。
@@ -3142,9 +3055,9 @@ n.（Mayoral）人名；（西）马约拉尔
 mayoralty / ˈmeərəlti /
 n. 市长职位；市长任期
 [例]
-1.. He oversaw substantial transport reforms, and the establishment of regional development agencies and the London mayoralty.  BBC: John Prescott。
-2.. In places like Newcastle and Manchester there is little enthusiasm for a Middlesbrough-type mayoralty.  ECONOMIST: Reshaping local government。
-3.. There are important differences between the ways Mr Johnson and Mr Livingstone have approached the mayoralty.  ECONOMIST: Londonism and its adherents。
+1.He oversaw substantial transport reforms, and the establishment of regional development agencies and the London mayoralty.  BBC: John Prescott。
+2.In places like Newcastle and Manchester there is little enthusiasm for a Middlesbrough-type mayoralty.  ECONOMIST: Reshaping local government。
+3.There are important differences between the ways Mr Johnson and Mr Livingstone have approached the mayoralty.  ECONOMIST: Londonism and its adherents。
 [搭]
 1.lord mayoralty 市场的职位
 [联]mayor (市长) + alty (形容词后缀，表示与...有关的) ——> 市长职权
@@ -3153,7 +3066,7 @@ meeting / ˈmiːtɪŋ /
 n. 会议，集会；偶遇，会面；与会者（the meeting）；<英>运动会，赛马会；宗教聚会；交锋，比赛；交汇处
 v. 会面；会合（meet 的现在分词形式）
 [例]
-1.Who's chairing the meeting?谁主持这次会议？《牛津词典》。
+1.Who's chairing the meeting?谁主持这次会议？。
 2.The meeting really dragged. 这会议开得真拖拉。
 3.The meeting went off well. 会议进行得很好。
 [搭]
@@ -3220,7 +3133,7 @@ adj. 部长的，公使的，内阁的；牧师的
 1.ministerial standard 部标准；部颁标准；行业标准
 2.ministerial crisis 内阁危机
 3.ministerial fire 相火
-4.ministerial meetingn.  部长级会议
+4.ministerial meeting 部长级会议
 [联]minister (部长) + ial (形容词后缀) ——> 涉及部长的，与部长相关的
 
 monitor / ˈmɑːnɪtər /
@@ -3288,7 +3201,7 @@ n. 国家，民族；国民；（美洲土著居民的）部落，部族
 3.Prozac Nation 少女初体验；我的忧郁青春；普罗萨克王国；忧郁症女人
 4.chinese nation 中华民族
 5.host nation 东道国
-6.developing nationn.  发展中国家
+6.developing nation 发展中国家
 [联]native (本地的) + -ation (名词后缀) ——> 国家，民族
 
 national / ˈnæʃ(ə)nəl /
@@ -3369,9 +3282,6 @@ n. 国籍，民族（nationality 的复数）
 1.Yunnan Nationalities University 云南民族大学
 2.Dalian Nationalities University 大连民族学院；大连民族大学
 3.Guangxi University for Nationalities 广西民族大学；广西民族学院；广西民院
-4.minority nationality 少数民族
-5.the han nationality 汉族
-6.dual nationalityn.  双重国籍
 [联]nations (国家) + alities (性质，状态) ——> 国家性质
 
 nationality / ˌnæʃəˈnæləti /
@@ -3383,10 +3293,9 @@ n. 族，民族；国籍
 [搭]
 1.nationality law 国籍法
 2.Chinese nationality 中国国籍；中国籍；国籍
-3.dual nationality 社科  双重国籍；指一个人兼有两国国籍；多重国籍
+3.dual nationality 双重国籍；指一个人兼有两国国籍；多重国籍
 4.minority nationality 少数民族
 5.the han nationality 汉族
-6.dual nationalityn.  双重国籍
 [联]nat (出生) + ion (行为的结果) + al (形容词后缀) + ity (名词后缀) ——> 国籍
 
 nationwide / ˌneɪʃ(ə)nˈwaɪd /
@@ -3410,9 +3319,9 @@ n.（车辆排挡的）空挡；中立者，中立国；素净色，中和色；
 2.Pure water is neutral with a pH of 7. 纯净水是中性的，PH 值为7。
 3.Switzerland was neutral during the war. 瑞士在战争期间保持了中立。
 [搭]
-1.neutral red 试剂  中性红；以中性红；红；或中兴红
-2.neutral packing 包装  中性包装；中立包装；性包装出
-3.neutral zone 中立区； 电  中性区；中间区；无控制酌的参数范围
+1.neutral red 中性红；以中性红；红；或中兴红
+2.neutral packing 中性包装；中立包装；性包装出
+3.neutral zone 中立区；中性区；中间区；无控制酌的参数范围
 4.neutral point 中性点；中和点
 5.neutral grounding 中性接地；中点接地
 6.neutral salt 中性盐；中式盐
@@ -3487,7 +3396,7 @@ n. 看法，态度；前景，展望；景色，风光；瞭望处
 2.He had a practical outlook on life. 他的人生观很实际。
 3.The immediate outlook remains bleak. 最近的前景依然很黯淡。
 [搭]
-1.economic outlook 经  经济展望；经济前景；经济展望报告；经济背景展望
+1.economic outlook 经济展望；经济前景；经济展望报告；经济背景展望
 2.The outlook magazine 新视线；刊物
 3.share a common outlook 有共同的观点；有独特的观点；有共同的看法；有共同的
 4.outlook on 对…的看法；对…眺望
@@ -3523,7 +3432,7 @@ n. 议会，国会；英国议会（包括下议院和上议院）（Parliament�
 3.Parliament House 国会大厦；布里斯班议会大厦；议会大厦；国会大楼
 4.european parliament 欧洲议会（缩写为 EP）
 5.member of parliament 国会议员；下院议员；下议院议员
-6.houses of parliamentn.  英国的国会大厦
+6.houses of parliament 英国的国会大厦
 [联]parlia (部分) + ment (名词后缀) ——> 议会
 
 parliamentarian / ˌpɑːləmənˈteəriən /
@@ -3545,7 +3454,6 @@ n. 议会政治；议会制度
 1.These characteristics shows that the Parliamentarism designed by the Chinese is progressive to a certain extent. 这些特点表明，民盟设计的议会制度有一定的进步性。
 2.Since 1884, parliamentarism has ensured that the cabinet must have the support of the parliament, so the appointment by the King is a formality. 自1884年以来，议会制度确保了内阁必须支持议会，而国王的任命只是一种形式。
 [搭]
-
 [联]parlia (谈话) + ment (后缀，表示行为或状态) + arism (抽象名词后缀，表示主义) ——> 议会主义
 
 parliamentary / ˌpɑːləˈmentri /
@@ -3558,8 +3466,7 @@ adj. 议会的，国会的，设有议会的
 1.parliamentary system 议会制；议会制度；议会内阁制
 2.Inter-Parliamentary Union 各国议会联盟；诸国会议同盟；诸国议会同盟；国际议会联盟
 3.Parliamentary sovereignty 议会至上；议会主权；议会主权制；国会主权
-4.parliamentary system 议会制；议会政体（等于 parliamentary government）
-5.parliamentary democracy 议会民主制
+4.parliamentary democracy 议会民主制
 [联]parlia (说话) + mentary (相关的) ——> 与说话相关的
 
 perspective / pərˈspektɪv /
@@ -3590,8 +3497,7 @@ v. 巡查，维护治安；监督，管制；执行（法律，协议，条约�
 2.police officer 警察；警官；警员；交警
 3.Military police 宪兵；宪兵队；军事警察；军警
 4.police station 派出所；警察局；公安局
-5.police officern.  警官；警员
-6.police force 警察；警察机关
+5.police force 警察；警察机关
 [联]police (警察) + force (力量) ——> 执法力量
 
 policeman / pəˈliːsmən /
@@ -3604,7 +3510,6 @@ n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）
 1.The Policeman 警察；饰中岛；这名警察
 2.Judicial Policeman 法警
 3.traffic policeman 交通警察；交通警员；交警
-4.traffic policemann.  交通警察
 [联]police (警察) + man (男人) ——> 警察男人
 
 policemen / pəˈli:smən /
@@ -3617,7 +3522,7 @@ n. 警察（policeman 的复数形式）
 1.International Policemen' Day 国际警察日
 2.Young Policemen In Love 新扎师兄追女仔；逃学战警
 3.retired policemen 退休警察
-4.traffic policemann.  交通警察
+4.traffic policeman 交通警察
 [联]police (警察) + men (人) ——> 警察们
 
 policewoman / pəˈliːswʊmən /
@@ -3644,7 +3549,6 @@ n. 政策，方针；(处事) 原则，策略；保险单
 3.Public Policy 公共政策；公共秩序；国家政策；大众政策
 4.monetary policy 货币政策
 5.economic policy 经济政策
-6.foreign policy 外交政策
 [联]policy (政策) + -cy (名词后缀) ——> 政策、方针
 
 policymaker / ˈpɒləsimeɪkə(r) /
@@ -3670,13 +3574,13 @@ v. 从事政治活动
 1.body politic 国家；族国度；国民
 2.World Politic 世界政区
 3.B Brand politic 策略的品牌
-4.body politicn.  国家（指在一个政府领导下组成一个政治集团的人民）
+4.body politic 国家（指在一个政府领导下组成一个政治集团的人民）
 [联]political (政治的) + strategy (策略) ——> 政治策略
 
 political / pəˈlɪtɪk(ə)l /
 adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的
 [例]
-1.What is his political creed?他的政治信仰是什么？《牛津词典》。
+1.What is his political creed?他的政治信仰是什么？。
 2.He claimed political asylum. 他要求政治避难。
 3.She enjoyed political life. 她喜爱政治生活。
 [搭]
@@ -3759,11 +3663,9 @@ n. 花粉
 3.Avoid trips to the country while the pollen count is high. 花粉计数高时，尽量避免去乡村旅行。
 [搭]
 1.bee pollen 蜂花粉；蜜蜂花粉；花粉；蜂蜜花粉
-2.pollen tube 植  花粉管
+2.pollen tube 花粉管
 3.Cattail Pollen 蒲黄；蒲黄粉末
-4.bee pollen 蜂花粉
-5.pollen tuben.  花粉管
-6.pine pollen 松花粉
+4.pine pollen 松花粉
 [联]pollen (花粉) + air (空气) ——> 花粉在空气中传播
 
 pollute / pəˈluːt /
@@ -3785,12 +3687,10 @@ n. 污染；污染物；噪音污染，（夜间扰人的）强烈灯光
 2.Pollution can harm marine life. 污染会危及海洋生物。
 3.We need more laws to stop pollution. 我们需要制定更多法律来防止污染。
 [搭]
-1.air pollution 环境  空气污染； 环境  大气污染；污浊空气；空气染污
-2.water pollution 环境  水污染；水源污染；水体污染
-3.noise pollution 环境  噪音污染； 环境  噪声污染；噪音公害
-4.environmental pollutionn.  环境污染
-5.air pollution 大气污染，空气污染
-6.water pollution 水污染
+1.air pollution 空气污染；大气污染；污浊空气；空气染污
+2.water pollution 水污染；水源污染；水体污染
+3.noise pollution 噪音污染；噪声污染；噪音公害
+4.environmental pollution 环境污染
 [联]air (空气) + pollution (污染) ——> 空气污染
 
 popular / ˈpɑːpjələr /
@@ -3842,9 +3742,8 @@ n. （地区、国家等的）人口，人口数量；（某领域的）生物�
 1.population pyramid 人口金字塔；人口年龄金字塔；金字塔图；人口金字塔图
 2.population growth 人口自然增长率；人口增长； 生物  种群增长；人口成长
 3.population genetics 遗  群体遗传学； 遗  种群遗传学；人口遗传学；集团遗传学
-4.population growth 人口的增长
-5.rural population 农村人口
-6.population density 人口密度；种群密度
+4.rural population 农村人口
+5.population density 人口密度；种群密度
 [联]pop (流行) + ulation (类似种子的意思) ——> 人口群体
 
 power / ˈpaʊər /
@@ -3856,10 +3755,10 @@ adj. 电力的，电动的；强大的；有重要人士参与的；（服装）
 2.They've switched off the power. 他们关掉了电源。
 3.He emanates power and confidence. 他表现出力量和信心。
 [搭]
-1.power station 电  发电厂；发电站
-2.power factor 电  功率因数；功率因素；功率因子；功率系数
+1.power station 发电厂；发电站
+2.power factor 功率因数；功率因素；功率因子；功率系数
 3.Power Forward 大前锋；大先锋；我国常称之为二中锋
-4.in poweradj.  执政的；掌权的；当权的
+4.in power 执政的；掌权的；当权的
 5.power supply 电源；电源供应器
 6.electric power 电力；电功率
 [联]power (力量，权力) + er (表示人或物) ——> 掌权者
@@ -3877,12 +3776,12 @@ vi. 快速前进（power 的过去式和过去分词）
 2.powered stacker 自走式电动堆高机；自走式电动堆垛机
 3.steam-powered car 蒸汽动力汽车；蒸汽机汽车；蒸汽轮机汽车
 4.powered by 技术支持；由…驱动
-5.battery poweredadj.  电池供电的
+5.battery powered 电池供电的
 6.high powered 高功率的；马力大的
 [联]power (力量) + ed (形容词后缀) ——> 有力量的
 
 powerful / ˈpaʊəf(ə)l /
-adj.（人，组织，国家）强大的，有影响力的；大功率的，高效能的；（文章、演讲或艺术品）极具感染力的，有震撼力的；（感情）强烈的，（效果）巨大的；强壮的，强健的；猛烈的，有力的；（毒品或化学品）强效的；刺耳的，刺眼的，刺鼻的
+adj.（人，组织，国家）强大的，有影响力的；大功率的，高效能的；（文章、演讲或艺术品）极具感染力的，有震撼力的；（感情）强烈的，（效果）巨大的
 adv. 非常，很
 [例]
 1.He had become too powerful for their liking. 对于他们来说，他已变得过于强大。
@@ -3967,12 +3866,10 @@ adj. 优先的，优待的，优惠的；（投票，选举）表明选择顺序
 2.Japan will remove five countries from a preferential framework in light of their economic development. 鉴于五个国家的经济发展情况，日本将把它们从优惠框架中剔除。
 3.The government encourages this practice, and provides many preferential policies and facilitation measures for college students. 政府鼓励这种做法，并为大学生提供了许多优惠政策和便利措施。
 [搭]
-1.preferential treatment 劳经  优惠待遇；特惠待遇；优待；优抚对象
+1.preferential treatment 优惠待遇；特惠待遇；优待；优抚对象
 2.preferential policy 倾斜政策；优惠政策；政策倾斜；优惠策略
 3.Preferential Rate 优惠税率；选择吸收；优惠差额；优惠率
 4.preferential price 优惠价，照顾价格
-5.preferential treatment 优待；特惠待遇
-6.preferential policy 优惠政策；倾斜政策
 [联]preferential (优先的) + treatment (待遇) ——> 优先待遇
 
 premier / ˈpremiə(r) /
@@ -3986,8 +3883,7 @@ n. 总理，首相；（加拿大的）省总理，地方总理；（澳大利�
 1.premier league 英格兰足球超级联赛；英超联赛；超级联赛；英格兰超级足球联赛
 2.scottish premier league 苏格兰足球超级联赛；苏格兰超级联赛；苏格兰超等联赛
 3.Indian Premier League 印度超级板球联赛；印度板球超级联赛；联赛；印度超级联赛
-4.premier league 超级联赛
-5.vice premier 副总理
+4.vice premier 副总理
 [联]prime (最初的) + ier(后缀，表示人或物) ——> 首相，总理
 
 premiere / ˈpremieə(r) /
@@ -4022,14 +3918,12 @@ n. 总统，国家主席；（机构、俱乐部、学院等的）负责人，�
 [例]
 1.His aim was to become president. 他的目的是当总统。
 2.The President hits town tomorrow. 总统明天到镇子上来。
-3.Who succeeded Kennedy as President?接替肯尼迪任总统的是谁？《牛津词典》。
+3.Who succeeded Kennedy as President?接替肯尼迪任总统的是谁？。
 [搭]
 1.vice-president 副校长；副总裁；大学副校长；副院长
-2.Vice President 副校长；副会长
-3.dead president 美钞；美元
-4.vice president 副总统；副主席
-5.former president 前任总统
-6.senior vice president 高级副总裁
+2.dead president 美钞；美元
+3.former president 前任总统
+4.senior vice president 高级副总裁
 [联]pre (之前) + sidere (星星) + ent (形容词后缀) ——> 之前的星星，比喻为首领或领袖
 
 presidential / ˌprezɪˈdenʃl /
@@ -4074,21 +3968,20 @@ n. 手续，步骤；（商业、法律或政治上的）程序；外科手术�
 3.Civil Procedure Law 法  民事诉讼法；民事诉讼法学；民事程序法
 4.working procedure 运行程序；办理手续
 5.criminal procedure 刑事诉讼程序
-6.civil procedure 民事诉讼；民事诉讼法；民事诉讼程序
 [联]process (过程) + edure (后缀，表示行为、状态) ——> 程序、手续、步骤
 
 process / ˈprɑːses /
 n. 步骤，程序；（自然或偶然的）变化过程；（为达到某目标的）过程，进程；制作方法，加工方法；<法律>传票；（生，剖）端突，突起
-adj. （印刷）三原色的，三色版的； 经过特殊加工的；照相板的
-v. （用化学物品或机器）处理，加工；审核，受理（正式文件或请求）；（计算机）处理（数据）；冲洗（照片）；加工（食品）；<正式>列队行进；把（头发）弄成直发
+adj.（印刷）三原色的，三色版的； 经过特殊加工的；照相板的
+v.（用化学物品或机器）处理，加工；审核，受理（正式文件或请求）；（计算机）处理（数据）；冲洗（照片）；加工（食品）；<正式>列队行进；把（头发）弄成直发
 [例]
 1.The process was needlessly slow. 进程过于缓慢了。
 2.History is an interpretive process. 历史是一个解释过程。
 3.The whole process started all over again. 整个过程又重新开始了。
 [搭]
 1.Business Process 业务流程；业务过程；业务处理
-2.adiabatic process 热  绝热过程；绝热历程；绝对过程；绝热进程
-3.Process Management 计  进程管理；过程管理；流程管理；程管理
+2.adiabatic process 绝热过程；绝热历程；绝对过程；绝热进程
+3.Process Management 进程管理；过程管理；流程管理；程管理
 4.process of…的过程
 5.in the process of 在…的过程中
 6.in the process 在过程中；在进行中
@@ -4104,7 +3997,6 @@ n. （人或车辆的）行列，队伍；一连串的人（或物）；（神�
 1.Meteor procession 流星串
 2.funeral procession 送葬行列；送葬队伍；出殡；出殡队伍
 3.Data Procession 数据处理测试
-4.funeral procession 送葬
 [联]pro (向前地) + cess (行走) + sion (名词后缀) ——> 队伍，行列
 
 processional / prəˈseʃənl /
@@ -4128,8 +4020,7 @@ v.（正式）宣告，（公开）声明；强调，声称；（标志或通知
 3.What better time to proclaim the good news?什么时间分享这个好消息比较好呢？。
 [搭]
 1.proclaim in court 宣告；声明
-2.proclaim m 宣告；宣布；声明；显示
-3.to proclaim 宣扬；宣告
+2.to proclaim 宣扬；宣告
 [联]pro (向前) + claim (声称) ——> 宣布
 
 prospect / ˈprɑːspekt /
@@ -4158,9 +4049,8 @@ adj. 有希望的，潜在的； 可能发生的，预期的
 1.Prospective study 前瞻性调查；前瞻性研究；前瞻研究；远景调查
 2.prospective earnings 远景收益
 3.prospective survey 前瞻调查；性调查；远景调查；前瞻性调查研究
-4.prospective study 前瞻研究；预期研究；远景调查
-5.prospective market 未来的市场
-6.prospective customer 潜在顾客
+4.prospective market 未来的市场
+5.prospective customer 潜在顾客
 [联]prospective (可能的，未来的) + spection (观察，视界) ——> 可观望的
 
 prospectively / prəˈspektɪvli /
@@ -4197,9 +4087,8 @@ n. 木偶；傀儡
 1.puppet show 木偶戏；木偶剧；人形剧
 2.sock puppet 马甲；袜子木偶
 3.puppet show theatre 木偶剧场
-4.puppet show 木偶剧，木偶表演
-5.hand puppetn.  布袋木偶
-6.puppet play 傀儡戏；木偶戏
+4.hand puppet 布袋木偶
+5.puppet play 傀儡戏；木偶戏
 [联]wooden (木头的) + pull (拉动) ——> 木偶
 
 puppeteer / ˌpʌpɪˈtɪr /
@@ -4239,7 +4128,6 @@ adj. 种族关系的，种族之间的；人种的，种族的
 3.Congress of Racial Equality 争取种族平等大会；种族平等大会；族平等大会；等协会
 4.racial discrimination 种族歧视
 5.racial prejudice 种族偏见
-6.racial segregation 种族隔离
 [联]race (种族) + ial (形容词后缀) ——> 与种族有关的
 
 racialism / ˈreɪʃəlɪzəm /
@@ -4300,7 +4188,7 @@ n. 改革家；改革运动者；改良者
 [例]
 1.Piaget said: "True adaptation to society comes automatically when the adolescent reformer attempts to put his ideas to work. "皮亚杰说：“当青少年改革家试图将他的想法付诸实践时，就自然而然地真正适应这个社会了。
 2.Nevertheless, Gerteis argues, these disparate party affiliations did not diminish the actuality of reformer unity, most prominent in the 1830s. 然而，格泰斯认为，这些不同的政党联盟并没有削弱改革者团结的现状，尤其是在19世纪30年代。
-3.How could he be a reformer and a defender of established interests at the same time?他怎么可能既是改革者，又是既得利益的维护者呢？《柯林斯英汉双解大词典》。
+3.How could he be a reformer and a defender of established interests at the same time?他怎么可能既是改革者，又是既得利益的维护者呢？。
 [搭]
 1.The Reformer 主义者；第一型完美主义者
 2.catalytic reformer 催化重整装置；触媒重组器；催化重组器
@@ -4324,9 +4212,9 @@ v. 拒绝，回绝（做某事）；不接受，拒绝（别人给的东西）�
 n. 垃圾，废弃物
 adj. 废弃的
 [例]
-1.I could hardly refuse, could I?我很难拒绝，是不是？《柯林斯英汉双解大词典》。
-2.Can I refuse to give testimony?我能拒绝作证吗？《牛津词典》。
-3.Am I to understand that you refuse?你是告诉我你拒绝了？《牛津词典》。
+1.I could hardly refuse, could I?我很难拒绝，是不是？。
+2.Can I refuse to give testimony?我能拒绝作证吗？。
+3.Am I to understand that you refuse?你是告诉我你拒绝了？。
 [搭]
 1.to refuse a cheque 拒付支票
 2.refuse to do sth 拒绝做某事；拒绝干某事；拒绝做；谢绝做某事
@@ -4406,8 +4294,7 @@ v. 为王，统治；支配，盛行；成为最佳，成为最重要的
 2.reign over 统治；盛行；接力
 3.Reign of Assassins 剑雨；剑雨江湖；片名
 4.reign over 统治；盛行
-5.reign of terror 恐怖统治
-6.reign supreme◎主宰；称雄
+5.reign supreme 主宰；称雄
 [联]reign (统治，支配) + rain (雨) ——> 在统治中如雨水般倾泻而下
 
 reignite / ˌriːɪɡˈnaɪt /
@@ -4445,8 +4332,6 @@ n. 共和主义者，拥护共和政体者；（美国）共和党人，共和�
 1.Republican Party 共和党；美国共和党
 2.Irish Republican Army 爱尔兰共和军
 3.French Republican Calendar 法国共和历；法共和；共和历
-4.republican party 共和党
-5.irish republican army 爱尔兰共和军
 [联]rep (重复) + ubl (公职人员) + ian (形容词后缀) ——> 共和国的
 
 resident / ˈrezɪdənt /
@@ -4458,11 +4343,9 @@ adj.（在某地）居住的，居留的；常驻的；属于（某个群体）�
 3.They cover preventative care for the local resident. 他们为当地居民提供预防保健服务。
 [搭]
 1.Resident Evil 生化危机；生化危机系列；恶灵古堡；生化危机之变种生还者
-2.Resident Evil 4生化危机；生化危机4欧洲版；生化危急
-3.permanent resident 永久居民；长期定居者
-4.permanent resident 永久性居民
-5.local resident 当地居民
-6.resident representative 居民代表；驻地代表
+2.permanent resident 永久居民；长期定居者
+3.local resident 当地居民
+4.resident representative 居民代表；驻地代表
 [联]reside (居住) + -ent (形容词后缀，表示...的) ——> 居住的、定居的
 
 residential / ˌrezɪˈdenʃ(ə)l /
@@ -4472,12 +4355,11 @@ adj. 住宅区的，居民区的 ；家庭的，住宅的；（为工作、学�
 2.Environmental organizations want to preserve the land surrounding the Wilgrinn Wilderness Area from residential development. 环保组织希望保护威尔格林荒野地区周围的土地不受住宅开发的影响。
 3.Training involves a two-year residential course. 培训包括两年的住校课程。
 [搭]
-1.residential density 人口毛密度； 统计  居住密度；栖身密度
+1.residential density 人口毛密度；居住密度；栖身密度
 2.residential building 住宅建筑；住宅楼；居住建筑；住宅建筑物
 3.Residential areas 居住区；住宅小区；居住区景观设计
 4.residential area 住宅区，居民区
-5.residential building 住宅建筑物
-6.residential property 住宅物业；住宅房地产
+5.residential property 住宅物业；住宅房地产
 [联]reside (居住) + nt (常见后缀) + ial (形容词后缀) ——> 住宅的
 
 respond / rɪˈspɒnd /
@@ -4546,8 +4428,8 @@ n. 革命者，革命家
 [搭]
 1.American Revolutionary War 美国独立战争；独立战争；游戏分类
 2.Revolutionary Road 真爱旅程；浮生路；唱片名；书名
-3.Revolutionary shell 力  旋转壳；旋转壳体；旋转薄壳
-4.revolutionary warn.  美国之革命战争
+3.Revolutionary shell 旋转壳；旋转壳体；旋转薄壳
+4.revolutionary war 美国之革命战争
 5.revolutionary committee 革命委员会
 [联]revolut (旋转) + ionary (形容词后缀) ——> 革命性的
 
@@ -4559,7 +4441,7 @@ v. 使发生革命性巨变，使彻底变革；发动革命，推翻原有政�
 3.There is huge potential for artificial intelligence and machine learning to revolutionize agriculture by integrating these technologies into critical markets on a global scale. 人工智能和机器学习有巨大的潜力，可以通过将这些技术整合到全球的关键市场来彻底改变农业。
 [搭]
 1.revolutionize the way we communicate 变革我们的沟通方式
-2.revolutionize theway we acquire information 彻底改变了我们获取信息的方式
+2.revolutionize the way we acquire information 彻底改变了我们获取信息的方式
 [联]revolve (旋转) + ize (使成为) ——> 使成为旋转的
 
 safety / ˈseɪfti /
@@ -4613,7 +4495,7 @@ n. 秘书；书记员，干事；部长，大臣；（英国大使、大臣的�
 1.Secretary of State 国务卿；国务大臣；外长
 2.Chief Secretary 布政司；主任秘书；首席秘书
 3.Financial Secretary 财政司；财政司司长；财务秘书；财务司司长
-4.secretary of staten.  （美）国务卿；（英）国务大臣；（美）州政府秘书长
+4.secretary of state（美）国务卿；（英）国务大臣；（美）州政府秘书长
 5.secretary general 秘书长
 6.treasury secretary 财政部长
 [联]sec (部分) + retary (类似reter,安排者) ——> 部门安排者
@@ -4630,7 +4512,7 @@ n. 参议院；大学理事会，大学评议会；（古罗马的）元老院
 3.The Senate 参议院；评议会
 4.senate finance committee 参议院财政委员会
 5.senate banking committee（美）参议院银行业委员会
-6.senate budget committeen.  美国参议院预算委员会
+6.senate budget committee 美国参议院预算委员会
 [联]senate (参议院) + power (权力) ——> 掌权的团体
 
 senator / ˈsenətə(r) /
@@ -4656,15 +4538,6 @@ adj. 参议院的；参议员的
 2.senatorial rank powers office 参议员的级别
 3.senatorial courtesy 参议院礼遇惯例；参议员礼貌
 [联]senatorial (参议员的，议会的) ——> senate (参议院) + torial (形容词后缀，与...有关) ——> 参议院相关的
-
-senatorship / ˈsenətəʃɪp /
-n. 参议员之职
-[例]
-1.adj. senatorial 参议院的；参议员的。
-2.n. senate 参议院，上院；（古罗马的）元老院 senator 参议员；（古罗马的）元老院议员；评议员，理事。
-[搭]
-
-[联]senator (参议员) + ship (身份，状态) ——> 参议员的身份
 
 service / ˈsɜːrvɪs /
 n. 公共服务系统，公共事业；（服务性行业或机构所提供的）服务；（对顾客的）接待，招待；工作，效劳；服务费；政府机构，公务部门；兵役，军队；（机器的）使用；<旧>仆人，佣人；<英> 服务站；宗教仪式；检修，保养；整套餐具；发球，发球方式；班车，车次；（法律文件的）送达
@@ -4706,8 +4579,6 @@ n. 重要性，意义；意思，含义
 2.Clinical significance 临床显着性；临床意义；床意义；床重要性
 3.statistical significance 统计显着性；统计数据；统计意义；有统计学意义
 4.economic significance 经济重要性
-5.statistical significance 统计显著性；统计数据
-6.significance test 显著性检验；显著性测定
 [联]sig (信号) + nificance (重要性) ——> 信号的重要性
 
 significant / sɪɡˈnɪfɪkənt /
@@ -4777,7 +4648,6 @@ n. （价格、销售额、利润等的）突然下跌；（经济的）不景�
 2.slump test 流动度试验；坍落试验；稠度试验； 建  坍落度试验
 3.slump structure 滑塌构造；滑移构造；崩塌构造
 4.economic slump 经济衰退
-5.slump test 稠度试验，坍落试验；流动度试验；重陷试验
 [联]economic situation (经济状况) + decline (下降，衰退) ——> 经济下滑
 
 socialisation / ˌsəʊʃəlaɪˈzeɪʃən /
@@ -4848,7 +4718,7 @@ n. 立场，观点，角度；观景点，观看位
 [联]stand (站立) + point (点) + -ment (名词后缀) ——> 立足点
 
 state / steɪt /
-n. 状态，状况；紧张，焦虑；政府；国家；州，邦；<非正式>美国（the States）；国事礼仪，隆重仪式；（物质的）形态，态；（物理学）量子态；泽西、根西和奥尔德尼三岛的立法机关（the States）；压印，印图；受公众瞻仰和吊唁
+n. 状态，状况；紧张，焦虑；政府；国家；州，邦；<非正式>美国（the States）；国事礼仪，隆重仪式；（物质的）形态，态；（物理学）量子态
 adj. 州的；国事的，国事礼仪的；国家提供（或控制）的
 v. 陈述，说明；规定，公布；表现（主题，旋律）
 [例]
@@ -4860,23 +4730,22 @@ v. 陈述，说明；规定，公布；表现（主题，旋律）
 2.Ohio State University 俄亥俄州立大学；美国俄亥俄州立大学；俄亥俄州州立大学；俄亥俄州大学
 3.Iowa State University 艾奥瓦州立大学；爱荷华州立大学；美国爱荷华州立大学；衣阿华州立大学
 4.state council 国务院
-5.in a state[口语]
-6.in stateadv.  庄重地；正式地
+5.in a state [口语]
+6.in state 庄重地；正式地
 [联]state (状态) + sman (虚构后缀) ——> 状态们
 
 statement / ˈsteɪtmənt /
-n. 声明，报告；说明，说法，表态；结算单，报表；（某观点的） 表达；（嫌犯或证人向警方提供的） 陈述，证词；（文字）陈述，表述；评估报告（英国地方教育主管部门针对儿童的特殊需要而提出意见）；（乐）（作品主题或旋律的）呈现；（计算机程序中的）语句
+n. 声明，报告；说明，说法，表态；结算单，报表；（某观点的） 表达；（嫌犯或证人向警方提供的） 陈述，证词；（文字）陈述，表述
 vt. 对儿童进行特殊教育评估认定
 [例]
 1.We've got her statement on tape. 我们已经把她的陈述录在磁带上了。
 2.The statement is really confusing. 该声明确实令人困惑。
 3.The White House has issued a statement. 白宫已经发表了一项声明。
 [搭]
-1.income statement 利润表； 会计  损益表； 会计  收益表；收入表
+1.income statement 利润表；损益表；收益表；收入表
 2.personal statement 人陈述；个人陈述；读书计划；自我陈述
 3.Cash Flow Statement 现金流量表；现金流动表；第三节；现金收支一览表
 4.financial statement 财务报表，财政报告；财政决算
-5.income statement[会计]损益表
 6.joint statement 联合声明
 [联]state (状态) + ments (名词后缀) ——> 状态的描述
 
@@ -4885,15 +4754,13 @@ n. 状态，状况；国家；州，邦（state 的复数）
 vt. 陈述，说明；规定，公布；表现（主题，旋律）（state 的第三人称单数）
 [例]
 1.I've never been to the States. 我从未去过美国。
-2.Have you ever been to the States?你去过美国吗？《牛津词典》。
+2.Have you ever been to the States?你去过美国吗？。
 3.In some states gambling was outlawed. 在一些州赌博被宣布为非法。
 [搭]
 1.United States 美国；合众国；未上市证券；国家
 2.Papal States 教皇国；教皇辖境；教宗国；教廷国
 3.united states of america 美国；美利坚合众国；美利坚联合众国；美国美国
-4.united states 美国
-5.united states of america 美利坚合众国（美国）
-6.warring states 战国（古代中国的一个时期）
+4.warring states 战国（古代中国的一个时期）
 [联]state (状态) + s (复数后缀) ——> 状态的复数形式
 
 statesman / ˈsteɪtsmən /
@@ -4915,13 +4782,12 @@ n. 政治才能；政治家的风度
 2.In the absence of statesmanship, the chances are that only a crisis in the bond markets will provide the necessary impetus. 在缺少治国之才的情况下，很可能只有债券市场的一次危机才能提供必要的动力。
 3.He built America, for what our Republic is today is largely due to the prudence, the forethought, the statesmanship, the enterprise, the wisdom, and the ability of Benjamin Franklin. 他缔造了美国，因为我们的共和国能有今天，在很大程度上归功于本杰明·富兰克林的深谋远虑、远见卓识、治国之术、进取精神、大睿大智和精明能干。
 [搭]
-
 [联]state (国家) + ship (身份，状态) + man (人) + ship (身份，状态) ——> 国家栋梁
 
 stead / sted /
 n. 代替；用处
 vt. 对……有利
-n. （Stead）人名；（英）斯特德
+n.（Stead）人名；（英）斯特德
 [例]
 1.You shall undertake this trip and visit Heidi in our stead. 你可以代替我们出去旅行一趟，去看看海蒂。
 2.To wit, that a spurious Prince of Wales was being feasted by the city in his stead. 也就是说，一个冒牌的威尔士王子代替他在城市里被宴饮祝贺着。
@@ -4971,9 +4837,6 @@ adv. 稳定地，持续地，稳固地
 1.steady state 物  稳态；稳定状态； 物  定态
 2.steady flow 稳流； 流  稳定流； 流  定常流；定常流动
 3.steady growth 增长平稳；稳定增长；稳步增添
-4.steady state 定态；恒稳态
-5.steady growth 稳步增长，增长平稳
-6.steady flow 稳定流
 [联]stead (稳定) + y (形容词后缀) ——> 稳定的
 
 succeed / səkˈsiːd /
@@ -4986,16 +4849,15 @@ v. 成功，达成；（学业、事业或其他活动）表现出色，有作�
 1.succeed in 做成；在；获得成功
 2.succeed in doing sth 成功做某事；成功地做成某事；成功的做了某事；成功作某事
 3.succeed with 在方面取得成功；在；在…上获得成功
-4.succeed in 成功；在…方面成功；顺利完成
-5.succeed someone as 接任某人的职务
-6.succeed at 成功方面，在…方面成功
+4.succeed someone as 接任某人的职务
+5.succeed at 成功方面，在…方面成功
 [联]success (成功) + -ed (形容词后缀，表示具备某种性质) ——> 成功的
 
 success / səkˈses /
 n. 成功，胜利；发财，成名；成功的人（或事物）
 [例]
 1.The book ensured his success. 这本书保证了他的成功。
-2.What's her recipe for success?她成功的秘诀是什么？《牛津词典》。
+2.What's her recipe for success?她成功的秘诀是什么？。
 3.She's jealous of my success. 她忌妒我的成功。
 [搭]
 1.Trimming Success 飞短留长父子兵；飞短流长父子兵；TVB 飞短留长父子兵；短留父子兵
@@ -5068,10 +4930,9 @@ adj. 连续的，依次的；接替的，继承的
 3.Successive governments have tried to tackle the problem. 历届政府都试图解决这个问题。
 [搭]
 1.three successive championships 三连冠
-2.successive approximation 数  逐次逼近法；逐次逼近；逐次趋近；连续近似
+2.successive approximation 逐次逼近法；逐次逼近；逐次趋近；连续近似
 3.successive contrast 连续对比；相继对比；继时对比； 生理  继时性对比
-4.successive approximation 连续的近似值；连续的学习步骤；逐次近似计算法
-5.successive elimination 逐次消元
+4.successive elimination 逐次消元
 [联]successive (连续的，接续的) + ive (形容词后缀) ——> 指一系列事物紧密相连，一个接一个地发生。
 
 successively / səkˈsesɪvli /
@@ -5115,7 +4976,7 @@ v. 提议，建议；推荐，举荐；显示，表明；暗示，暗指；使�
 suggestion / səˈdʒestʃən; səɡˈdʒestʃən /
 n. 建议，意见；提议；微量；征兆，细微的迹象；联想，启示；暗示；（尤指催眠术等疗法中的）心理暗示；（心理）心理暗示（或提示）；
 [例]
-1.Ahem, can I make a suggestion?呃哼，我可以提个建议吗？《牛津词典》。
+1.Ahem, can I make a suggestion?呃哼，我可以提个建议吗？。
 2.This suggestion dumbfounded Joe. 这个建议使乔伊惊呆了。
 3.He received my suggestion coolly. 他对我的建议反应冷淡。
 [搭]
@@ -5123,8 +4984,7 @@ n. 建议，意见；提议；微量；征兆，细微的迹象；联想，启�
 2.A Letter of Suggestion 倡议信；发起信
 3.policy suggestion 政策建议；对策建议；策建议
 4.make a suggestion 提出建议
-5.suggestion boxn.  意见箱
-6.at the suggestion of 在…的建议下
+5.at the suggestion of 在…的建议下
 [联]sug (糖) + gestion (管理) ——> 建议
 
 suggests / səˈdʒests /
@@ -5137,7 +4997,6 @@ v. 暗示，建议（suggest的suggest的第三人称单数）
 1.as the name suggests 顾名思义；正如这个名字所暗示的
 2.suggests quality work 表明质量工作；建议工作质量
 3.Anecdotal evidence suggests 大量的实例研究表明
-4.as the name suggests 顾名思义，就象这名字显示的一样
 [联]sug (糖) + gest (动作) ——> 提出建议的动作
 
 throne / θroʊn /
@@ -5187,7 +5046,7 @@ adj. 统一主义者的，统一主义的（Unionist）
 [联]union (联合) + ist (表示……的人) ——> 联合主义者
 
 unionized / ˈjuːniənaɪzd /
-v. （使）加入工会（unionize 的过去式及过去分词）
+v.（使）加入工会（unionize 的过去式及过去分词）
 adj. 加入公会的；未离子化的
 [例]
 1.The author also offers pointers for working with contractors, attorneys, and unionized employees, including both SAG and non-SAG actors. 作者还谈到了与一些其他的人员有效的合同，包括承包人、代理人、临时雇员（包括演员公会（SAG）和非演员公会的演员）。
@@ -5205,12 +5064,11 @@ n. 单位；一件（商品）；（公寓楼的）单元；部件，元件；�
 2.A Serb army unit took the town. 一支塞尔维亚部队夺取了这个镇。
 3.Unit sales of T-shirts increased 6%. T 恤衫的单位销售增加了6%。
 [搭]
-1.control unit 控制单元； 自  控制部件； 自  控制器；操纵单元
+1.control unit 控制单元；控制部件；控制器；操纵单元
 2.unit circle 出版者；单位图
 3.Unit Trust 单位信托基金； 金融  单位信托；信托投资公司；单位投资信托
 4.per unit 每单位
-5.control unit 控制器，控制部件
-6.basic unit 基本单元
+5.basic unit 基本单元
 [联]unit (单位) + -ary (形容词后缀，表示与...相关的) ——> 单位相关的
 
 unite / juˈnaɪt /
@@ -5218,7 +5076,7 @@ v.（使）联合，（使）团结；统一，使统一
 [例]
 1.His aim was to unite Italy. 他的目标是统一意大利。
 2.We need to unite against terrorism. 我们需要团结起来反对恐怖主义。
-3.Will they unite behind the new leader?他们会团结支持新领导人吗？《牛津词典》。
+3.Will they unite behind the new leader?他们会团结支持新领导人吗？。
 [搭]
 1.Unite as one 团结一心；团结一致；片尾曲；团结如一人
 2.Monster Hunter Freedom Unite 魔物猎人携带版2nd；怪物猎人自由联合；自由联合；怪物猎人多国语言版

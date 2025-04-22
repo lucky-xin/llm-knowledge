@@ -36,11 +36,8 @@ n. <旧>规定（或限制）的饮食
 2.The dietary guidelines suggest eating more vegetables and fruits. 饮食指南建议多吃蔬菜和水果。
 3.My doctor gave me a dietary plan to improve my digestion. 我的医生给了我一个饮食计划以改善我的消化。
 [搭] 
-1.dietary fiber 膳食纤维
-2.dietary supplement 营养补充剂
-3.dietary fiber 食用纤维；[机]食纤维质
-4.dietary supplement 食品强化剂；食物的补充
-5.dietary fibre 饮食纤维素
+1.dietary fiber 食用纤维；[机]食纤维质
+2.dietary supplement 营养补充剂；食品强化剂；食物的补充
 [联] dietary 可联想成 "diet" (饮食) + "ary" (形容词后缀)，表示与饮食相关的
 
 appetite / ˈæpɪtaɪt /
@@ -111,7 +108,7 @@ v. 为……提供所需物品（尤指食物）；（为已知债务）留出�
 5.general provision 普通准备金
 [联] provision 可联想成 "pro" (前) + "vision" (视力)，想象提前看到未来的需求
 
-edible  ˈedəb(ə)l /
+edible / ˈedəb(ə)l /
 adj. 可食用的
 n. 食物
 [例]
@@ -161,8 +158,7 @@ n. 餐馆，饭店
 1.fast food restaurant 快餐店
 2.family restaurant 家庭餐厅
 3.chinese restaurant 中餐厅；中餐馆
-4.fast food restaurant 速食店
-5.thai restaurant 泰式餐厅；泰国菜馆
+4.thai restaurant 泰式餐厅；泰国菜馆
 [联] rest (休息) + ant (表人或物) ——> 让人放松休息的地方
 
 refectory / rɪˈfektəri /
@@ -282,8 +278,7 @@ v. 吃点心，吃零食
 [搭] 
 1.snack bar 快餐店，小吃店
 2.snack food 小吃；零食；快餐食品
-3.snack bar 小吃店；快餐柜
-4.snack street 小吃街
+3.snack street 小吃街
 [联] 与“snap” (咬一口) 相关，意为快速吃一点东西
 
 appetiser / ˈæpəˌtaɪzər /
@@ -305,10 +300,9 @@ n. 烹饪，风味；饭菜，菜肴
 2.The restaurant offers a variety of Chinese cuisines. 这家餐馆提供多种中国菜系。  
 3.Italian cuisine is known for its pasta and pizza. 意大利菜以意大利面和披萨著称。  
 [搭] 
-1.fusion cuisine 融合菜系
+1.fusion cuisine 融合菜系；无国界的融合菜肴；世界料理
 2.cantonese cuisine 广东菜，粤菜
 3.french cuisine 法国菜
-4.fusion cuisine 无国界的融合菜肴；世界料理
 [联] 法语 cuisine (厨房) ——> 来自厨房的美食
 
 menu / ˈmenjuː /
@@ -389,7 +383,6 @@ adj.（食物）美味的；提供美食的
 1.gourmet food 美食
 2.gourmet powder 味精
 3.gourmet coffee 美食家咖啡，精制的咖啡
-4.gourmet food 美食
 [联] gour(me)(胃) + met(吃)
 
 vegetarian / ˌvedʒəˈteriən /
@@ -429,10 +422,9 @@ v. 镀（或包）银于；<文>使具有银色光泽，使变成银色；使（
 2.Silver jewelry is often associated with elegance. 银饰常与优雅联系在一起。
 3.The silver coins were minted in the 19th century. 这些银币是在19世纪铸造的。
 [搭]
-1.silver lining 一线希望
+1.silver lining（不幸或失望中的）一线希望；乌云周围的白光
 2.sterling silver 标准纯银，法定纯度银制成品
 3.silver medal 银质奖章；银牌奖
-4.silver lining（不幸或失望中的）一线希望；乌云周围的白光
 [联] silv(银) + er
 
 ceramic / səˈræmɪk /
@@ -542,10 +534,9 @@ v. 用刀伤害（或杀害）；如刀般划过
 2.Be careful when using a knife. 使用小刀时要小心。
 3.The chef used a sharp knife to slice the vegetables. 厨师用锋利的小刀切蔬菜。
 [搭] 
-1.kitchen knife 厨房小刀
+1.kitchen knife 厨房小刀；菜刀，厨刀；厨房刀
 2.knife and fork 刀叉
 3.under the knife 在外科手术中
-4.kitchen knife 菜刀，厨刀；厨房刀
 [联] knife (锋利工具) ——> 切割东西的利器
 
 spoon / spuːn /
@@ -558,8 +549,7 @@ vt. 用匙舀，使成匙状；高挑球
 [搭] 
 1.greasy spoon 低级小饭馆；经济小吃店
 2.silver spoon 财富（尤指继承的遗产）；电影（集合名词）；电影业
-3.wooden spoon 木匙；末名奖
-4.wooden spoon 木勺
+3.wooden spoon 木匙；末名奖；木勺
 [联] spoon 的形状像弯曲的手指，用来舀取东西
 
 spoonful / ˈspuːnfʊl /
@@ -594,9 +584,8 @@ n. 水壶；锅
 [搭] 
 1.electric kettle 电水壶
 2.whistling kettle 发哨声的水壶
-3.electric kettle 电热水壶
-4.kettle of fish 混乱；困境
-5.reaction kettle 反应釜
+5.kettle of fish 混乱；困境
+6.reaction kettle 反应釜
 [联] kettle 用来烧水，形状像金属容器
 
 pan / pæn /
@@ -797,11 +786,10 @@ n. 咖啡；咖啡豆；咖啡色
 2.Coffe is one of my favorite drinks. 咖啡是我最喜欢的饮料之一。  
 3.Do you take sugar in your coffe? 你喝咖啡时加糖吗？  
 [搭]  
-1.coffee shop 咖啡馆  
+1.coffee shop 咖啡店（等于coffee house）
 2.black coffee 黑咖啡
 3.cup of coffee 一杯咖啡的时间；短暂逗留
-4.coffee shop 咖啡店（等于coffee house）
-5.drink coffee 喝咖啡
+4.drink coffee 喝咖啡
 [联] coffe 与 coffee 发音相似，记住“e”在中间即可  
 
 liquor / ˈlɪkər /
@@ -1041,8 +1029,7 @@ adj. 蘑菇形的；蘑菇的；迅速生长的
 1.mushroom soup 蘑菇汤
 2.mushroom poisoning 蘑菇中毒
 3.straw mushroom 草菇
-4.mushroom soup 蘑菇汤
-5.mushroom cloud 蘑菇云（热核爆炸后升起的）
+4.mushroom cloud 蘑菇云（热核爆炸后升起的）
 [联] mushroom 的形状像一把伞
 
 eggplant / ˈeɡplænt /
@@ -1288,10 +1275,8 @@ adj. 橙红色的，橘黄色的；奥兰治党或社团的
 3.An orange is a type of citrus fruit. 橘子是一种柑橘类水果。
 [搭]
 1.orange juice 橙汁
-2.orange peel 橘皮
-3.orange juice 橘子汁
-4.orange peel 橙皮；橘皮皱
-5.methyl orange 甲基橙；甲橙
+2.orange peel 橘皮；橙皮；橘皮皱
+3.methyl orange 甲基橙；甲橙
 [联] orange 既是水果也是颜色，容易记住
 
 melon / ˈmelən /
@@ -1355,10 +1340,8 @@ adv. 沸腾
 3.Boiling temperatures can kill bacteria. 沸腾的温度可以杀死细菌。
 [搭]
 1.boiling point 沸点
-2.boiling water 沸水
-3.boiling point 沸点
-4.boiling water 沸水；麻烦事
-5.high boiling 高沸点的
+2.boiling water 沸水；麻烦事
+3.high boiling 高沸点的
 [联] boil(沸腾) + ing(形容词后缀) ——> 正在沸腾的状态
 
 crop / krɑːp /
@@ -1507,11 +1490,10 @@ v. <非正式>因害怕而放弃，胆怯（chicken out）
 2.Chickens lay eggs. 鸡会下蛋。
 3.The farmer raised chickens for meat. 农民养鸡是为了肉食。
 [搭]
-1.chicken soup 鸡汤
+1.chicken soup 鸡汤；心灵鸡汤
 2.spicy chicken wings 辣味鸡翅
 3.fried chicken 炸鸡
-4.chicken soup 鸡汤；心灵鸡汤
-5.chicken breast 鸡胸
+4.chicken breast 鸡胸
 [联] chicken 小巧可爱，联想小鸡
 
 turkey / ˈtɜːrki /
@@ -1522,10 +1504,9 @@ n. 火鸡；火鸡肉；<美，非正式>（电影或戏剧的）失败之作；
 3.Turkey is famous for its historical sites. 土耳其以其历史遗迹闻名。
 [搭]
 1.turkey sandwich 火鸡三明治
-2.roast turkey 烤火鸡
-3.roast turkey 烤火鸡；烧火鸡
-4.cold turkey 突然完全停止使用毒品
-5.wild turkey 野火鸡（威士忌品牌）
+2.roast turkey 烤火鸡；烧火鸡
+3.cold turkey 突然完全停止使用毒品
+4.wild turkey 野火鸡（威士忌品牌）
 [联] turkey 的外形像一只大鸟，联想火鸡
 
 beef / biːf /
@@ -1540,7 +1521,6 @@ v. <非正式>抱怨，发牢骚
 2.beef up 增强，加强（非字面意义为增强体力或肌肉）
 3.beef cattle 菜牛
 4.roast beef 烤牛肉
-5.beef up 加强（增援，充实）；补充（人数， 兵力）等
 [联] beef与“强壮”谐音，让人联想到健壮的牛
 
 beefy / ˈbiːfi /
@@ -1768,7 +1748,6 @@ v. 涂黄油于
 
 sala / ˈsɑːlə /
 n. 大厅
-n.（Sala）人名；（英、法、德、罗、瑞典、意、西、葡、芬、柬、尼日尔）萨拉；（泰）沙拉
 [例]
 1.I made a fresh salad for lunch. 我做了份新鲜沙拉当午餐。
 2.A salad usually contains vegetables and dressing. 沙拉通常包含蔬菜和调味酱。
@@ -1948,9 +1927,8 @@ adj. 巧克力的，巧克力味的
 [搭]
 1.dark chocolate 黑巧克力
 2.milk chocolate 牛奶巧克力
-3.dark chocolate 黑巧克力
-4.chocolate cake 巧克力蛋糕
-5.hot chocolate 热巧克力；巧克力热饮
+3.chocolate cake 巧克力蛋糕
+4.hot chocolate 热巧克力；巧克力热饮
 [联] “cho”像“吃”，“co”像“可可”，“late”像“延迟”，吃巧克力让人愉悦得不想离开
 
 ice cream / aɪs kriːm /
@@ -1987,7 +1965,6 @@ n. 芥末酱；芥末黄，深黄色；芥菜；强烈的兴趣
 2.spicy mustard 辣芥末
 3.mustard seed 芥菜籽
 4.mustard oil 芥子油
-5.mustard sauce 黄芥末酱
 [联] mustard (芥末) 来源于拉丁语 "mustum"，意为“新酒”
 
 wasabi / wəˈsɑːbi /
@@ -2782,7 +2759,7 @@ adj. <非正式>筋疲力尽，疲惫不堪；垮掉的一代的
 [联] beat 联想到 hit（打击）
 
 toss / tɔːs /
-v.（轻轻地或随意地）扔，抛，掷；向后甩（头发或身体部位）；（使）摇摆，挥动，颠簸；（在液体中）搅拌（食物），拌匀；（为……）掷硬币决定，掷币猜边儿；<英>把（煎饼）颠起翻面；<美，非正式>除掉，抛弃；（马）摔下（骑手）；<美，非正式>搜（某地）
+v.（轻轻地或随意地）扔，抛，掷；向后甩（头发或身体部位）；（使）摇摆，挥动，颠簸；（在液体中）搅拌（食物），拌匀；（为……）掷硬币决定，掷币猜边儿）
 n. 掷硬币决定；（轻轻的或随意的）扔，抛，掷；向上甩头，猛仰头；（尤指比赛或游戏中）投掷；<英>根本不在乎
 [例]
 1.He tossed the ball to his teammate. 他把球传给了他的队友。

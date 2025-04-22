@@ -203,8 +203,7 @@ n. 偶像，受到热爱和崇拜的人（或物）；圣像，神像；<美>幻
 [搭] 
 1.pop idol 流行偶像
 2.american idol 美国偶像（美国真人秀电视节目）
-3.pop idol 流行偶像
-4.idol worship 偶像崇拜
+3.idol worship 偶像崇拜
 [联] 来源于拉丁语 idolum (幻影，假象)
 
 luxury / ˈlʌkʃəri /
@@ -295,7 +294,6 @@ adj. 玉制的；绿玉色的
 2.jade green 玉绿色
 3.white jade 白玉
 4.green jade 翡翠；碧玉
-5.jade carving 玉雕
 [联] jade 和“玉”有关，想象中国传统的玉石制品
 
 adorn / əˈdɔːrn /
@@ -461,11 +459,10 @@ adj. 下流的；不礼貌的；不得体的
 2.The indecent behavior of the actor shocked the audience. 这位演员的不雅行为让观众震惊。
 3.The movie contained some indecent scenes. 这部电影包含了一些不雅场景。
 [搭]
-1.indecent exposure 不雅暴露
+1.indecent exposure 不恰当的暴露；露体；暴露狂；不雅暴露
 2.indecent language 下流语言
 3.indecent proposal 桃色交易；下流的建议
 4.indecent assault 非礼；非礼罪
-5.indecent exposure 不恰当的暴露；露体；暴露狂；不雅暴露
 [联] in-（否定前缀）+ decent（体面的）——> 不体面的
 
 exquisite / ɪkˈskwɪzɪt /
@@ -1197,11 +1194,9 @@ v.（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制
 2.He pinned the notice to the bulletin board. 他把通知别在布告栏上。
 3.A pin can hold two pieces of paper together. 别针可以将两张纸固定在一起。
 [搭]
-1.safety pin 安全别针
-2.hairpin 发夹
+1.safety pin 安全别针；扣针；插销；别针
+2.guide pin 导销；导正销；导梢；机 导柱
 3.rolling pin 擀面杖；杆面棍；面棍
-4.guide pin 导销；导正销；导梢；机 导柱
-5.safety pin 扣针；插销；别针
 [联] pin 可联想“钉住”
 
 string / strɪŋ /

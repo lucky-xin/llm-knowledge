@@ -7,8 +7,7 @@ n. 星系；银河，银河系（the Galaxy）；群英，人才荟萃
 [搭] 
 1.Milky Way 银河系
 2.galaxy cluster 星系团
-3.irregular galaxy 英文名为
-4. elliptical galaxy 椭圆星云
+3.elliptical galaxy 椭圆星云
 
 cosmos / ˈkɑːzmoʊs /
 n. 宇宙；完整和谐的一统体系；秋英属植物
@@ -63,14 +62,14 @@ adj. 天空的，天上的；天国的，天堂的；精美绝伦的
 1.Celestial bodies include planets and stars. 天体包括行星和恒星。
 2.The celestial sphere is an imaginary sphere surrounding the Earth. 天球是一个环绕地球的假想球体。
 3.Celestial music is said to soothe the soul. 天籁之音据说能抚慰灵魂。
-[搭] 
+[搭]
 1.celestial navigation 天文导航
 2.celestial body 天体
 3.celestial sphere 天球（一个想像假设的无限大球体）
 4.celestial equator [天]天球赤道（等于equator，equinoctial，equinoctial circle，equinoctial line）
 
 astronomy / əˈstrɑːnəmi /
-n. 天文学。
+n. 天文学
 [例]
 1.Astronomy is the study of celestial objects and phenomena. 天文学是研究天体和天文现象的学科。
 2.Astronomy has made great progress in recent years. 近年来天文学取得了巨大进步。
@@ -79,7 +78,7 @@ n. 天文学。
 1.observational astronomy 观测天文学
 2.radio astronomy 射电天文学
 3.physics and astronomy 物理学和天文学
-4. national radio astronomy observatory 国立射电天文台
+4.national radio astronomy observatory 国立射电天文台
 
 astrology / əˈstrɑːlədʒi /
 n. 占星术；占星学；星座
@@ -99,11 +98,9 @@ n. 宇航员，太空人
 1.An astronaut needs extensive training before going into space. 宇航员在进入太空前需要接受大量训练。
 2.The first American astronaut landed on the Moon in 1969. 第一位美国宇航员于1969年登上了月球。
 3.Astronauts conduct experiments in space. 宇航员在太空中进行实验。
-[搭] 
-1.spacewalk 太空行走
+[搭]
+1.lead astronaut 领航宇航员
 2.The Astronaut Farmer 农民宇航员；太空农夫；农夫宇航员
-3.lead astronaut 领航宇航员
-4.The Little Astronaut 小小太空人；播放小小太空人
 
 comet / ˈkɑːmɪt /
 n. 彗星
@@ -114,7 +111,18 @@ n. 彗星
 [搭] 
 1.Halley's Comet 哈雷彗星
 2.Great Comet 大彗星
-[联] com- (头发) + et (小的) ——> 像头发一样的尾巴。
+[联] com- (头发) + et (小的) ——> 像头发一样的尾巴
+
+meteor / ˈmiːtiər /
+n. 流星；大气现象
+[例]
+1.Like a flash of lightning, the meteor shot across the sky. 流星像一道闪光划过天空。
+2.Now astronomers think it was a meteor that burned up high in the atmosphere. 现在天文学家认为那是一颗在高空燃烧的流星。
+3.Some geoscientists think that this catastrophe involved a meteor striking the earth. 一些地球科学家认为这次灾难与一颗流星撞击地球有关。
+[搭]
+1.Meteor Shower 一起来看流星雨；流星火雨；陨石雨
+2.Meteor Garden 流星花园；你要的爱
+3.Meteor Crater 巴林杰陨石坑；陨石坑
 
 meteorite / ˈmiːtiəraɪt /
 n. 陨石，陨星；流星
@@ -122,7 +130,8 @@ n. 陨石，陨星；流星
 1.A meteorite struck a car in Russia. 一颗陨石击中了一辆汽车。
 2.Scientists study meteorites to learn more about the solar system. 科学家研究陨石以了解更多关于太阳系的信息。
 3.The meteorite left a crater in the ground. 这颗陨石在地上留下了一个陨石坑。
-[搭] meteorite shower 陨石雨
+[搭]
+1.meteorite shower 陨石雨
 [联] meta- (变化，超越) + -lite (石头) ——> 变化的石头
 
 crater / ˈkreɪtər /

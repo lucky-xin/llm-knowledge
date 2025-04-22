@@ -3,13 +3,13 @@ n. 入口，通道；获得的机会，使用权；（对计算机存储器的�
 v. 接近，进入；获取，访问（计算机信息）
 adj. <美>（电视节目或时间等）对外公开的
 [例]
-1.Does the hotel have wheelchair access ?这家旅馆有轮椅通道吗？《牛津词典》。
+1.Does the hotel have wheelchair access ?这家旅馆有轮椅通道吗？。
 2.She had unhindered access to the files. 她可任意使用档案。
 3.There is no vehicular access. 不通车。
 [搭]
-1.random access 计  随机存取；随机访问；随机接入；随机读取
-2.Access Control 访问控制； 计  存取控制；权限控制；门禁控制
-3.direct memory access 直接存储器访问；直接存储器存取； 计  直接内存存取；直接记忆体存取
+1.random access 随机存取；随机访问；随机接入；随机读取
+2.Access Control 访问控制；存取控制；权限控制；门禁控制
+3.direct memory access 直接存储器访问；直接存储器存取；直接内存存取；直接记忆体存取
 4.access control 访问控制
 5.have access to 使用；接近；可以利用
 6.internet access 互联网接入
@@ -47,12 +47,11 @@ n. 附件（accessory 的复数形式）；辅助程序
 2.One such partnership is with Elvis&Kresse, an accessories brand working with reclaimed materials. 其中一个合作伙伴是 Elvis&Kresse，一个使用再生材料的配件品牌。
 3.Some people bring along a lot of accessories like extra lenses, but there's really no need for this class. 有些人会带很多配件，比如额外的镜片，但对于这门课来说真的没有必要。
 [搭]
-1.Bathroom accessories 浴室配件；卫浴配件；浴室组成一套装配
+1.bathroom accessories 浴室配件；卫浴配件；浴室组成一套装配
 2.Hair Accessories 发饰；头饰；发饰品；假发配件
 3.apparel and accessories 服饰；衣饰；装饰品；装饰人体的物品总称
 4.fashion accessories 时尚饰品；流行配件
-5.bathroom accessories 浴室配件
-6.motorcycle accessories 摩托车配件
+5.motorcycle accessories 摩托车配件
 [联]ac (到达) + cess (行走) + ories (复数形式，表示类别或状态) ——> 可以到达行走类别或状态
 
 accessory / əkˈsesəri /
@@ -63,11 +62,10 @@ adj. 辅助的，副的；附属的；同谋的
 2.The company serves the national automotive aftermarket with a broad range of accessory and recreational-vehicle products. 该公司为全国机动车售后市场提供各种配件和休闲车产品。
 3.For this reason, the watch industry has become an accessory business in recent years. 正因如此，手表行业近年来已成为配件行业。
 [搭]
-1.accessory nerve 解剖  副神经；胸锁乳突肌
-2.accessory fruit 植  附果；假果；副果
-3.accessory pigment 生化  辅助色素；辅色素
+1.accessory nerve 副神经；胸锁乳突肌
+2.accessory fruit 附果；假果；副果
+3.accessory pigment 辅助色素；辅色素
 4.accessory equipment 辅助设备
-5.accessory nerve 副神经
 6.accessory ingredient 助剂；配合剂
 [联]ac (尖端) + cess (行走) + ory (场所) ——> 存放尖端行走工具的场所
 
@@ -93,7 +91,6 @@ n. 委派；信赖；鉴定合格
 1.International Accreditation Forum 国际认可论坛；国际认证论坛；国际授权论坛
 2.accreditation body 认可机构；认证机构；审定团体；巴西的国家认可机构
 3.accreditation system 认可体系；制证系统；认证制度
-4.accreditation system 制证系统；认可体系
 [联]accredit (授权) + ation (名词后缀) ——> 认证，官方许可
 
 accusation / ˌækjuˈzeɪʃ(ə)n /
@@ -118,7 +115,6 @@ v. 控告，指控；指责，谴责，归咎于
 1.accuse of 因某事控告某人；指控
 2.accuse sb of doing sth 指控某人做某事
 3.accuse sb of 指责；指责某人干某事；指控；指责某人
-4.accuse of 谴责，控告
 [联]accuse (指责，控告) + se (后缀，表示动作) ——> 指责
 
 accuser / əˈkjuːzə(r) /
@@ -128,9 +124,9 @@ n. 原告；控告者；指责者
 2.Everyone will know who the accuser is. 所有人都会知道原告是谁。
 3.But the accuser kept changing her story. 但原告一直在变换她的故事。
 [搭]
-1.Ronan the Accuser 指控者·罗南；指控者罗南；李培斯
+1.ronan the accuser 指控者·罗南；指控者罗南；李培斯
 2.attack accuser 反击对手；攻击原告；反击指控者
-3.Attack the accuser 攻击指控者
+3.attack the accuser 攻击指控者
 [联]accuser (控告者) + accuse (控告) ——> 提出指控的人
 
 accustom / əˈkʌstəm /
@@ -140,9 +136,8 @@ v. 使习惯于，使适应于
 2.It took him a while to accustom himself to the idea. 他过了一段时间才习惯这个想法。
 3.When one has been in a family circle one cannot accustom oneself to this life!当一个人已经在家庭圈子里，他无法习惯于这种生活！。
 [搭]
-1.accustom m 使习惯；使习惯于；习惯于
+1.accustom oneself 习惯于
 2.accustom custom 习惯风俗
-3.accustom oneself 习惯于
 [联]ac + custom ——> 习惯于
 
 admission / ədˈmɪʃ(ə)n /
@@ -168,11 +163,9 @@ v. 同意，赞成；答应，接受；达成一致意见；商定，约定；�
 3.I entirely agree with you. 我完全同意你的看法。
 [搭]
 1.agree with 适合；同意某人；符合
-2.I agree 我同意；我赞成；我接受；我愿意
+2.agree in 在…方面意见一致；在…相同
 3.agree to do sth 同意做某事；同意干某事；赞成做某事；批准做某事
-4.agree with 同意，和…意见一致
-5.agree on 对…取得一致意见
-6.agree in 在…方面意见一致；在…相同
+4.agree on 对…取得一致意见
 [联]a +gree (同意) ——> 同意
 
 agreeable / əˈɡriːəb(ə)l /
@@ -214,7 +207,6 @@ n. 配给量，划拨款，份额；分配，分派
 3.allocation layer 应用层
 4.resource allocation 资源分配
 5.allocation of resources 资源配置；资源分配
-6.resources allocation 资源分配
 [联]allocate (分配) + tion (名词后缀) ——> 分配，配置
 
 allow / əˈlaʊ /
@@ -227,15 +219,14 @@ v. 允许，准许；使有可能；任凭；<正式>接受，认可；促使；
 1.allow for 体谅；估计到
 2.Momma Don't Allow 妈妈不让
 3.Allow me 您的批准；让我来吧；请允许我
-4.allow for 考虑到，虑及
-5.allow of 容许
+4.allow of 容许
 [联]al (不) + low (低下，低的) ——> 不低下（引申为允许，认可）
 
 allowance / əˈlaʊəns /
 n. 津贴，补助；限额，定量；折价，折扣；免税额；<美>零花钱；考虑到的事情；体谅，原谅；允许，认可；（赛马）减载量
 v. 为（某人）提供津贴；定量供应（物品）
 [例]
-1.Do you get an allowance for clothing?你有服装补贴吗？《牛津词典》。
+1.Do you get an allowance for clothing?你有服装补贴吗？。
 2.She gets an allowance for taking care of Amy. 她照顾艾米是有津贴的。
 3.The budget made allowance for inflation. 预算考虑到了通货膨胀。
 [搭]
@@ -243,7 +234,7 @@ v. 为（某人）提供津贴；定量供应（物品）
 2.machining allowance 机械加工余量； 机  加工余量；切削裕度；加工公差
 3.food allowance 伙食补助；伙食补贴；挴；䗐
 4.allowance for…的留量；…的修正值
-5.housing allowancen.  住房津贴
+5.housing allowance 住房津贴
 6.make allowance 体谅；留余地
 [联]allow (允许) + ance (名词后缀) ——> 津贴，零用钱
 
@@ -254,9 +245,8 @@ n. 匿名者；假名，化名
 2.However, church may transfer such contributions to recipients you specified for the anonym purpose. 然而，教会可以为匿名的目的下代为转移奉献捐款给您指定的接收者。
 3.The investigation of CCTV reporter shows, cure of bad medicine, anonym appears in the search result of Baidu, and before the rank leans. 央视记者的调查显示，劣药、假名医出现在百度的搜索结果中，且排名靠前。
 [搭]
-1.anonym typ 匿名型别
-2.anonym type 匿名类型
-3.anonym pipe 匿名管道
+1.anonym type 匿名类型
+2.anonym pipe 匿名管道
 [联]anonymous (匿名的) + us ——> 匿名者
 
 anonymity / ˌænəˈnɪməti /
@@ -269,7 +259,6 @@ n. 匿名；无特色，无个性；匿名者
 1.illusion of anonymity 匿名幻想；匿名梦想；佚名玄想
 2.high anonymity 全匿名；高度匿名代理；高匿名；高度匿名
 3.on condition of anonymity 匿名；不愿透露姓名；要求不透露姓名
-4.on condition of anonymity 在匿名的情况下
 [联]anonymous (匿名的) + ty (谐音) ——> 匿名状态
 
 anonymous / əˈnɑːnɪməs /
@@ -279,10 +268,9 @@ adj. 匿名的，不知名的；不记名的，不具名的；无特色的
 2.The donor prefers to remain anonymous. 捐赠者希望不披露姓名。
 3.The man was arrested after an anonymous tip-off. 有人匿名举报后，那个人被抓了起来。
 [搭]
-1.Alcoholics Anonymous 匿名戒酒会；嗜酒者互诫协会；慝名戒毒会
+1.alcoholics anonymous 匿名戒酒会；嗜酒者互诫协会；慝名戒毒会
 2.anonymous function 匿名函数；匿名函式；佚名函数；匿名方法
 3.anonymous remailer 匿名邮件转发服务；匿名重邮器；匿名重发信者
-4.alcoholics anonymous 匿名戒酒互助社；慝名戒毒会
 [联]an + onymous ——> 不具名的
 
 anonymously / əˈnɒnɪməsli /
@@ -308,7 +296,7 @@ v. 呼吁，恳求；上诉，申诉；有吸引力，引起兴趣；启发，�
 1.appeal to 呼吁；吸引；要求；诉诸
 2.Court of Appeal 法  上诉法院；上诉庭；中级法院
 3.appeal to fear 诉诸恐惧
-4.appeal forvt.  恳求，请求；要求
+4.appeal for 恳求，请求；要求
 5.sex appeal 性感；吸引力
 6.appeal against 提出上诉
 [联]appeal (恳求，上诉) + ear (耳朵) ——> 向耳朵恳求
@@ -338,7 +326,7 @@ n. 露面，演出；出庭，到场；外表，外观；表面现象，假象�
 1.FINAL APPEARANCE 最终外观；终极外不雅；终极外观；终究概况
 2.FINISHED APPEARANCE 完成后的外观；完成后的外不雅；实现后的外观；竣事后的概况
 3.appearance quality 经管  外观质量；外观品质；表面质量；外不雅质量
-4.in appearanceadv.  在外表上
+4.in appearance 在外表上
 5.outward appearance 外观；外表
 6.elegant appearance 美观大方
 [联]ap + pear + ance ——> 像梨一样，形容外观像梨子的样子
@@ -354,9 +342,8 @@ n. 逮捕，拘留；停止，终止
 1.cardiac arrest 心脏骤停；心脏停搏；心搏骤停；心跳停止
 2.arrest warrant 法  逮捕证；逮捕令；通缉令；逮捕状
 3.respiratory arrest 临床  呼吸停止；呼吸中止；呼吸抑制；停止
-4.cardiac arrest[医]心搏停止
-5.under house arrest 在软禁中
-6.house arrest 软禁
+4.under house arrest 在软禁中
+5.house arrest 软禁
 [联]ar (陆地) + rest (休息) ——> 陆地休息
 
 bench / bentʃ /
@@ -371,8 +358,7 @@ v. 把（场上队员）换下；（在展览会上）展览（狗）；仰卧�
 2.bench press 仰卧推举；卧推；台式压力机；台式压机
 3.bench holdfast 台夹；固定夹；坚固夹
 4.on the bench 坐板凳；当法官
-5.test bench 试验台；测试台
-6.bench test 台架试验；小型试验（比实验室大，比中型试验小）
+5.bench test 台架试验；小型试验（比实验室大，比中型试验小）
 [联]bench (长凳) + ette (小的) ——> 小长凳
 
 benchmark / ˈbentʃmɑːk /
@@ -386,9 +372,8 @@ v.（根据某种标准）评估，衡量；基准问题检测结果为
 1.Benchmark Capital 标杆资本；基准资本；美国万宝环球基金；风险投资公司标杆资本
 2.Benchmark job 基准职位；基准工作；基准工作职务；基准岗位
 3.benchmark interest rate 基准利率；利率；基准费率；基准
-4.benchmark interest rate 基准利率
-5.benchmark system 基准系统
-6.benchmark test 基准测试
+4.benchmark system 基准系统
+5.benchmark test 基准测试
 [联]bench (长凳) + mark (标记) ——> 标准、基准
 
 bound / baʊnd /
@@ -417,7 +402,7 @@ n. 分界线，边界；界限，范围；（板球）击球超过边界线得�
 3.We crossed the county boundary into Devon. 我们越过郡界进入了德文。
 [搭]
 1.Decision boundary 决策边界；判别界线；决策面
-2.boundary scan 计  边界扫描；边界扫描硬件测试；边界扫描技术
+2.boundary scan 边界扫描；边界扫描硬件测试；边界扫描技术
 3.boundary element method 边界元法；边界元素法；边界要素法；边界单元法
 4.boundary condition 边界条件，界面条件
 5.boundary value 边值；边界值
@@ -433,7 +418,7 @@ n. 抵制行动
 3.A spokesman says the president has backed off from his threat to boycott the conference. 一位发言人说，总统已经撤回了他抵制这次会谈的威胁。
 [搭]
 1.Charles Boycott 查尔斯·杯葛；博伊科特
-2.secondary boycott 贸易  间接抵制；次级抵制
+2.secondary boycott 间接抵制；次级抵制
 3.boycott foreign goods 抵制外国货；抵制外货；抵制；杯葛
 [联]boycott (拒绝购买，抵制) + campaign (运动，活动) ——> 抵制运动
 
@@ -454,10 +439,7 @@ briber / ˈbraɪbər /
 n. [法] 行贿者
 [例]
 1.The briber described the tribe head's bribery. 行贿者描述了部落首领的受贿行为。
-2.The briber described the tribe head's bribery. 贿赂者描写了部降首级的纳贿行动。
-3.The briber described the tribe head 's bribery. 行贿者描述了部落首领的受贿行为。
 [搭]
-
 [联]briber (行贿者) + er (表人后缀) ——> 表示进行贿赂的人
 
 bribery / ˈbraɪbəri /
@@ -496,10 +478,9 @@ adj.（临时）租用的
 [搭]
 1.voyage charter 租赁  定程租船； 租赁,船  程租船；航次租赁；航次租船
 2.Royal Charter 皇家特许状；皇家特许；皇家令状；皇家特许证
-3.charter party 租赁  租船合同；租船提单
-4.charter party 佣船契约；包船契约；租船方
-5.olympic charter 奥林匹克宪章
-6.charter flight 包机
+3.charter party 佣船契约；包船契约；租船方
+4.olympic charter 奥林匹克宪章
+5.charter flight 包机
 [联]charter (宪章，特许状) + freedom (自由) ——> 特别授予的自由
 
 cheap / tʃiːp /
@@ -538,7 +519,7 @@ n. 骗子，作弊者；欺骗手段，欺诈行为；秘技，作弊软件
 2.He's a fraud and a cheat. 他是一个骗子。
 3.It is just not credible that she would cheat. 她会行骗简直难以置信。
 [搭]
-1.cheat onvt.  对. . . 不忠
+1.cheat on 对. . . 不忠
 2.cheat death 逃脱死亡
 3.cheat sheet 小抄；备忘单
 [联]cheat (欺骗) + at (在...) + home (家) ——> 在家里欺骗
@@ -595,12 +576,11 @@ n. 命令，指示；（计算机的）指令；控制，管辖；指挥权，�
 2.This command will invoke the HELP system. 这条指令将启用“帮助”系统。
 3.This command deletes files from the directory. 这一指令把文档从目录中删除。
 [搭]
-1.Command Prompt 命令提示符；命令行；命令提示字元；令终端
-2.Command & Conquer 命令与征服；命令与征服系列；命令与征服将军
-3.Command Line 计  命令行；命令列；指令行；命令栏
-4.command line 命令行
-5.command system 命令系统
-6.in command 领导
+1.command prompt 命令提示符；命令行；命令提示字元；令终端
+2.command & conquer 命令与征服；命令与征服系列；命令与征服将军
+3.command line 计  命令行；命令列；指令行；命令栏
+4.command system 命令系统
+5.in command 领导
 [联]com (一起，共同) + mand (命令) ——> 发布命令
 
 commandment / kəˈmɑːndmənt /
@@ -627,22 +607,19 @@ v. 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑�
 3.Commit No Nuisance 禁止小便；制止小便；克制小便；胁制小便
 4.commit oneself 承诺，答应负责
 5.commit suicide 自杀
-6.commit a crime 犯罪；犯下罪行
 [联]commit (承诺) + ment (名词后缀) ——> 承诺的结果或状态
 
 commitment / kəˈmɪtmənt /
 n. 忠诚，献身；承诺，保证；奉献，投入；热情，决心；义务，责任；花费，使用（资金、时间、人力）；需要定期支付的款项
 [例]
 1.We made a commitment to keep working together. 我们作了承诺要继续在一起工作。
-2.Will the president be able to hold to this commitment?总统能恪守这一承诺吗？《柯林斯英汉双解大词典》。
+2.Will the president be able to hold to this commitment?总统能恪守这一承诺吗？。
 3.His commitment has been unquestioned. 他的奉献是无可置疑的。
 [搭]
 1.the commitment principle 投入原则
 2.organizational commitment 组织承诺；组织认同感；组织的承诺
-3.Affective Commitment 情感认同；感情承诺；情感承诺；感情认同
-4.organizational commitment 组织承诺；组织认同感
-5.professional commitment 专业承诺
-6.make a commitment 承诺
+3.affective commitment 情感认同；感情承诺；情感承诺；感情认同
+4.make a commitment 承诺
 [联]commitment (承诺， commitment) ——> com (加强意义) + mit (送) + ment (名词后缀) ——> 将某物送出去并坚持到底的承诺
 
 committee / kəˈmɪti /
@@ -652,9 +629,9 @@ n. 委员会；<英>受托人，监护人；<美>精神病者监护人
 2.The committee meets fortnightly. 委员会两星期开一次会。
 3.The committee has been dissolved. 委员会被解散了。
 [搭]
-1.Election Committee 竞选委员会
-2.Steering Committee 指导委员会；筹划指导委员会；督导委员会；委员会
-3.Executive Committee 管理  执行委员会；执委会；常务委员会；理事会
+1.election committee 竞选委员会
+2.steering committee 指导委员会；筹划指导委员会；督导委员会；委员会
+3.executive committee 执行委员会；执委会；常务委员会；理事会
 4.party committee 党委
 5.standing committee 常务委员会
 6.central committee 中央委员会
@@ -665,11 +642,8 @@ n. 满足，自满；沾沾自喜
 [例]
 1.I argue that it is complacence. 我认为自满，就是心之凶德。
 2.What you’re hearing is the voice of complacence. 你听到的是沾沾自喜的声音。
-3.What you're hearing is the voice of complacence. 你听到的是沾沾自喜的声音。
 [搭]
 1.self-complacence 自满；自我陶醉；的中文意思
-2.complacence n 满足
-3.complacence E 自足；自满
 [联]complacence (自满，安于现状) ——> complacent (自满的) + -ence (名词后缀) ——> 表示一种自满的状态
 
 complacency / kəmˈpleɪs(ə)nsi /
@@ -700,13 +674,10 @@ v. 诉说 （病痛）；<文>悲叹，悲鸣；（构造，机械装置）（�
 [例]
 1.I was too cowardly to complain. 我胆小得都不敢抱怨。
 2.All she ever does is complain. 她就会抱怨。
-3.Then they had the gall to complain!而且他们居然还有脸抱怨！《牛津词典》。
+3.Then they had the gall to complain!而且他们居然还有脸抱怨！。
 [搭]
 1.complain of 诉苦；抗议；抱怨；主述
 2.complain about 抱怨；对他发牢骚；埋怨；投诉
-3.complain about sth 抱怨；抱怨某事；抱怨做某事
-4.complain about 抱怨
-5.complain ofn.  抱怨；抗议
 [联]complain (抱怨) ——> com (一起) + plain (平原) ——> 在平原上一起诉苦
 
 complaint / kəmˈpleɪnt /
@@ -716,8 +687,8 @@ n. 抱怨，投诉；不满的缘由，抱怨的问题；疾病，不适
 2.I can see no grounds for complaint. 我看没理由抱怨。
 3.He fired off a letter of complaint. 他奋笔写了一封投诉信。
 [搭]
-1.Complaint Box 意见箱；看法箱；投诉箱；定见箱
-2.Handling Complaint 投诉处理；赞扬处置；投诉处置；投诉解决
+1.complaint box 意见箱；看法箱；投诉箱；定见箱
+2.handling complaint 投诉处理；赞扬处置；投诉处置；投诉解决
 3.complaint handling 投诉处理
 4.complaint about 投诉；对…抱怨
 5.lodge a complaint 投诉；对…提出控告
@@ -755,12 +726,11 @@ n. 冷凝，凝结；凝结的水珠；（书等的）简缩；凝聚反应，�
 2.Except for condensation from a working air conditioner on a hot day, no car should ever drip anything, any time. 除了在炎热的天气里空调的冷凝物，任何时候任何汽车都不应该滴水。
 3.One of the most powerful of all weather systems, hurricanes are powered by the heat energy released by the condensation of water vapour. 作为所有天气系统中最强大的系统之一，飓风是由水蒸气凝结释放的热能所驱动的。
 [搭]
-1.condensation reaction 化学  缩合反应；缩聚反应；浓缩反应
-2.Acyloin Condensation 酮醇缩合； 有化  偶姻缩合
+1.condensation reaction 缩合反应；缩聚反应；浓缩反应
+2.acyloin condensation 酮醇缩合； 有化  偶姻缩合
 3.benzoin condensation 安息香缩合反应； 有化  安息香缩合； 有化  苯偶姻缩合
-4.condensation reaction 缩合反应
-5.condensation heat 冷凝热
-6.condensation polymerization 缩聚反应；缩聚合
+4.condensation heat 冷凝热
+5.condensation polymerization 缩聚反应；缩聚合
 [联]con (一起) + densation (变稠) ——> 凝结
 
 confess / kənˈfes /
@@ -807,9 +777,9 @@ n. 忏悔者；为信教而被迫害的教徒；听忏悔的神父，告解神�
 2.Might I your scribe and your confessor be. 我可以你和你的忏悔神父是抄写员。
 3.It is a foolish sheep that makes the Wolf his confessor. 蠢羊才向狼忏悔。
 [搭]
-1.Edward the Confessor 忏悔者爱德华；爱德华；忏悔者；德
+1.edward the confessor 忏悔者爱德华；爱德华；忏悔者；德
 2.father confessor 告解神父；听人吐露真情的人；听告解的神父
-3.Argent Confessor 银白告解者
+3.argent confessor 银白告解者
 [联]confess (承认) + or (名词后缀，表示人) ——> 坦白者，告解者
 
 confine / kənˈfaɪn /
@@ -833,10 +803,9 @@ n. 监禁，关押；分娩，生产
 3.It doesn't really mitigate against the confinement he has perpetrated on Lolita. 它没能减少他对洛丽塔的限制。
 [搭]
 1.Inertial confinement fusion 惯性约束聚变；惯性约束核聚变；惯性约束核熔合；二是惯性约束
-2.Color confinement 夸克禁闭；色禁闭；夸克禁
-3.inertial confinement 物  惯性约束；惯性束缚；惰性约束
-4.inertial confinement 惯性约束
-5.solitary confinement 单独拘禁（等于 solitary）
+2.color confinement 夸克禁闭；色禁闭；夸克禁
+3.inertial confinement 惯性约束；惯性束缚；惰性约束
+4.solitary confinement 单独拘禁（等于 solitary）
 [联]confinement (限制，监禁) + -ment (名词后缀) ——> 限制的状态或情形
 
 conform / kənˈfɔːrm /
@@ -848,7 +817,7 @@ v. 遵守，符合；顺从，随潮流；一致，相吻合
 [搭]
 1.conform to 遵守；依照；符合；遵照
 2.not conform to 不相合；不合；不符；不合于
-3.Conform Compound Object 包裹合成物体
+3.conform compound object 包裹合成物体
 4.conform with 符合；与…一致
 [联]conform (遵守，符合) + society (社会) ——> 符合社会
 
@@ -862,8 +831,6 @@ n. 一致性；顺应
 1.conformance testing 计  一致性测试；一致性试验
 2.non-conformance 不符合；不合格；不一致性；符合事项
 3.conformance test 合格试验；一致性测试；符合性测试；性测试
-4.conformance test 一致性测试；符合性测试
-5.conformance testing 一致性测试
 [联]conformance (符合，遵守) + standard (标准) ——> 符合标准
 
 conformation / ˌkɒnfɔːˈmeɪʃn /
@@ -874,7 +841,7 @@ n. 构造；一致，符合；构象
 3.The ORTEP diagram shows that the cation adopts an eclipsed conformation in the solid state. 从奥尔特普图可以看出，阳离子在固态时呈重叠式构象。
 [搭]
 1.cyclohexane conformation 环己烷构象
-2.chair conformation 有化  椅型构象；椅式构象
+2.chair conformation 椅型构象；椅式构象
 3.Sensor conformation 传感器安装方式；传感器；传感器装置方式
 [联]confor (符合) + mation (形成) ——> 符合形成
 
@@ -885,11 +852,10 @@ n. 遵守，依照；随大流，循规蹈矩；符合，一致；信奉英国�
 2.Increasingly, this apparent diversity is becoming a mask for a new type of conformity. 这种明显的多样性正日益成为一种新型一致性的面具。
 3.In fact, we are much more likely to notice departures from norms than conformity to them. 事实上，我们更可能注意到的是违反规范的例子，而往往忽视了遵守规范的行为。
 [搭]
-1.cettificate of conformity 致性证书；相符性证书；同等性
-2.certificate of conformity 经管  合格证书；证书；合格证；商品符合合同证明书
+1.certificate of conformity 致性证书；相符性证书；同等性
+2.conformity with 与…一致
 3.mark of conformity 管理  合格标志；合格标记；认证体系的利用；合格认证
 4.in conformity with 与…相符，符合；遵照；和…相适应
-5.conformity with 与…一致
 6.conformity assessment 合格评定；符合性评估；型式评价
 [联]conformity (一致性) + group (群体) ——> 群体一致性
 
@@ -901,11 +867,9 @@ n. 结果，后果；重要性，价值
 3.One consequence of global warming is extinction. 全球变暖的后果之一是物种灭绝。
 [搭]
 1.in consequence 因此；由于；因而
-2.as a consequence 因此；结果；因而；后果
-3.in consequence of 由于；因为；的缘故；因为…的缘故
-4.as a consequence 因此，结果
-5.in consequence 因此；结果
-6.as a consequence of 因此；由于…的结果
+2.in consequence of 由于；因为；的缘故；因为…的缘故
+3.as a consequence 因此；结果；因而；后果
+4.as a consequence of 因此；由于…的结果
 [联]cause (原因) + sequence (序列，连续) ——> 结果，后果
 
 consequent / ˈkɒnsɪkwənt /
@@ -916,10 +880,9 @@ n. 后件，推断；（音乐）答题，答句
 2.The reduction in bullying—and the consequent improvement in pupil happiness—is surely a worthwhile objective. 减少恃强凌弱现象——进而提高小学生的幸福感——无疑是一个值得追求的目标。
 3.Primary among the arguments against uniforms is their lack of variety and the consequent loss of individuality experienced by people who must wear them. 反对校服的主要理由是校服缺乏多样性，导致穿校服的人失去了个性。
 [搭]
-1.Affirming the Consequent 肯定后件；肯定；谬误
+1.affirming the consequent 肯定后件；肯定；谬误
 2.consequent on 随之而来；起因于
 3.consequent valley 地质  顺向谷
-4.consequent on 随之而来；跟着…发生的
 [联]consequence (结果，后果) + -ent (形容词后缀，表示...的) ——> 作为结果的，随之发生的
 
 consequential / ˌkɒnsɪˈkwenʃ(ə)l /
@@ -964,7 +927,7 @@ v. 限制，约束；强迫，迫使
 2.Reduced operation of the machinery should limit their production and thereby constrain the damage. 要减少机器的操作，就应该限制它们的生产，从而降低损害。
 3.Sometimes environments constrain those people and sometimes environments give those people opportunity. 有时环境会限制这些人，而有时环境会给这些人机会。
 [搭]
-1.Constrain to 约束到 Z 轴；约束到 Y 轴；约束到 X 轴；约束到
+1.Constrain to 约束到Z轴；约束到Y轴；约束到X轴；约束到
 2.Constrain to XY 约束到 XY 轴
 3.constrain to edges 约束到边
 [联]con (一起) + strain (拉紧，紧张) ——> 限制，约束
@@ -1010,8 +973,8 @@ v.（使）收缩，缩小；签合同，订立契约；患上，感染；订立
 2.contract law 法  合同法； 法  契约法；条约法
 3.sales contract 贸易  销售合同；货物出口合同；销货合同；销售确认书
 4.contract with 承包；与…订有合约
-5.contract in[法]保证承担义务
-6.labor contractn.  劳工合同
+5.contract in [法]保证承担义务
+6.labor contract 劳工合同
 [联]con (一起) + tract (拉，拖) ——> 合同
 
 contraction / kənˈtrækʃn /
@@ -1021,12 +984,10 @@ n. 收缩，缩小；痉挛，子宫收缩；缩约词，缩约形式；（疾�
 2.The sudden contraction of the markets left them with a lot of unwanted stock. 股票市场骤然收缩，让他们剩下了许多无人要的股票。
 3.The most common type of headache is a tension or muscle contraction. 最常见的头痛类型是紧张或肌肉收缩。
 [搭]
-1.lanthanide contraction 核  镧系收缩；镧族元素压缩；镧系反缩；镧系元素收缩
+1.contraction ratio 收缩比；收缩系数
 2.muscle contraction 肌肉收缩；肌肉紧缩；肌肉缩短
-3.length contraction 物  长度收缩；长度缩短；长度收缩效应
-4.muscle contraction 肌肉收缩；肌收缩
-5.economic contraction 经济萎缩
-6.contraction ratio 收缩比；收缩系数
+3.length contraction 长度收缩；长度缩短；长度收缩效应
+4.economic contraction 经济萎缩
 [联]contraction (收缩) + action (动作) ——> 收缩的动作
 
 contractor / ˈkɑːntræktər /
@@ -1037,9 +998,8 @@ n. 承包商，立约人
 3.We told the building contractor that we wanted a garage big enough for two cars. 我们告诉建筑承包商，我们想要一个可以停放两辆汽车的车库。
 [搭]
 1.SUB-CONTRACTOR 外发厂；分包商；外发加工厂
-2.general contractor 经  总承包商； 经  总承包者； 经  总承包人；总承包
+2.general contractor 总承包商；总承包者；总承包人；总承包
 3.CERTIFIED SUB-CONTRACTOR 认可加工厂；承认加工场；承认加工厂；认可加工场
-4.general contractor 总承包人；建筑公司
 5.project contractor 工程承包；项目承包人
 6.independent contractor 独立承揽人
 [联]con (一起) + tractor (拖拉机) ——> 一起拖拉的工人
@@ -1054,7 +1014,7 @@ adj. 依据合同的，合同规定的；合同性的，契约性的
 1.contractual income 会计  合同收入；固定收入；合同支出；合同收进
 2.contractual guarantee 法  合同规定的担保；合同划定的担保；合同规则的担保；条约划定的包管
 3.contractual claim 根据合同的债权；按合约索偿；合同内索赔；依据合同的债权
-4.contractual joint venturen.  契约式合营企业；合约式联营企业
+4.contractual joint venture 契约式合营企业；合约式联营企业
 5.contractual obligation 合同义务；契约责任
 6.contractual agreement 合约协议，合同
 [联]contractual (合同的，契约的) + agreement (协议) ——> 合同协议
@@ -1068,23 +1028,20 @@ v. 反驳，否认；相抵触，相矛盾；发生矛盾
 [搭]
 1.contradict oneself 自打嘴巴；出尔反尔；打自己嘴巴
 2.contradict with 矛盾与；矛盾
-3.contradict t 反驳；否认；与…矛盾；同…矛盾
-4.contradict oneself 自相矛盾
 [联]contra (相反) + dict (说) ——> 反驳
 
 contradiction / ˌkɒntrəˈdɪkʃ(ə)n /
 n. 矛盾，不一致；反驳，驳斥
 [例]
-1.How can we resolve this apparent contradiction?我们怎样才能解决这个明显的矛盾呢？《牛津词典》。
+1.How can we resolve this apparent contradiction?我们怎样才能解决这个明显的矛盾呢？。
 2.A 'nomad settlement' is a contradiction in terms. “游牧者的定居”是用词上的自相矛盾。
 3.There is a contradiction between the two sets of figures. 这两组数据相互矛盾。
 [搭]
 1.proof by contradiction 数  反证法；归谬法
 2.law of contradiction 数  矛盾律
 3.contradiction between 矛盾；不一致
-4.contradiction between 矛盾，不一致
-5.in contradiction to 同…相矛盾
-6.in contradiction with 与…相抵触；与…矛盾着
+4.in contradiction to 同…相矛盾
+5.in contradiction with 与…相抵触；与…矛盾着
 [联]contra (相反) + diction (说话) ——> 自相矛盾
 
 contradictory / ˌkɒntrəˈdɪktəri /
@@ -1095,7 +1052,7 @@ n. 矛盾命题
 2.We are faced with two apparently contradictory statements. 我们面前这两种说法显然是矛盾的。
 3.He is notorious for making unexpected, often self-contradictory, comments. 他因发表出人意料的，经常自相矛盾的观点，而臭名昭著。
 [搭]
-1.Contradictory Premises 矛盾前提
+1.contradictory premises 矛盾前提
 2.contradictory proposition 数  矛盾命题
 3.contradictory opposite 矛盾反方
 [联]contra (相反) + dictory (指示，引导) ——> 相反的指示
@@ -1109,7 +1066,7 @@ adj. 有争议的，引发争论的
 [搭]
 1.a controversial issue 有争议性的问题；有争议性的题目
 2.controversial issues 争议的问题；争论性问题
-3.Controversial Findings 争议性发现
+3.controversial findings 争议性发现
 [联]contro (反对) + versial (转向) ——> 引起争议的
 
 controversy / ˈkɑːntrəvɜːrsi /
@@ -1117,7 +1074,7 @@ n. 争论，争议
 [例]
 1.He is no stranger to controversy. 他对争论见得多了。
 2.The issue engendered controversy. 这个问题引起了争论。
-3.He is a lightning rod for controversy. 他是个富有争议的人物. 《柯林斯英汉双解大词典》。
+3.He is a lightning rod for controversy. 他是个富有争议的人物. 。
 [搭]
 1.Three-Chapter Controversy 三章案
 2.Native American mascot controversy 美洲原住民吉祥物争议
@@ -1139,16 +1096,14 @@ n. 版权，著作权
 adj. 版权的，受版权保护的
 v. 获得……的版权；保护……的版权
 [例]
-1.Who owns the copyright on this song?谁拥有这首歌曲的版权？《牛津词典》。
-2.Who owns the copyright on this movie?谁拥有这部电影的版权？《柯林斯英汉双解大词典》。
+1.Who owns the copyright on this song? 谁拥有这首歌曲的版权？。
+2.Who owns the copyright on this movie? 谁拥有这部电影的版权？。
 3.The agreement assigns copyright to the publisher. 协议规定将版权转让给出版商。
 [搭]
-1.copyright infringement 盗版；侵犯着作权；版权侵犯； 法  侵犯版权
-2.copyright law 法  版权法；着作权法；着作权
-3.Universal Copyright Convention 世界版权公约；国际版权公约；万国版权公约；世界着作权公约
-4.copyright law 著作权法；版权法
+1.copyright infringement 盗版；侵犯着作权；版权侵犯；侵犯版权
+2.copyright law 版权法；着作权法；着作权
+3.universal copyright convention 世界版权公约；国际版权公约；万国版权公约；世界着作权公约
 5.copyright owner 版权拥有人
-6.copyright infringement 版权侵犯
 [联]copy (复制) + right (权利) ——> 版权
 
 court / kɔːrt /
@@ -1161,7 +1116,7 @@ v. 奉承，讨好；设法取得，追求；招致，引起（不愉快的事�
 [搭]
 1.Supreme Court 最高法院；高等法院；最高法庭；最高裁判所
 2.tennis court 网球场；国度网球场；网球场图片；球场
-3.High Court 法  高等法院；高级法院；最高法院；高等法庭
+3.High Court 高等法院；高级法院；最高法院；高等法庭
 4.people's court 人民法院；人民法庭（美国一种电视节目）
 5.supreme court 最高法院
 6.in court 在法庭上
@@ -1176,8 +1131,8 @@ adj. 免费提供的；礼节性的
 3.Good customer relations require courtesy, professionalism and effective response. 良好的客户关系需要礼貌、专业和有效的回复。
 [搭]
 1.courtesy name 中国古代对男子的美称；多用于表字之后
-2.Language Courtesy 礼貌用语；规矩用语
-3.Courtesy calls for reciprocity 礼尚往来；投桃报李
+2.language courtesy 礼貌用语；规矩用语
+3.courtesy calls for reciprocity 礼尚往来；投桃报李
 4.courtesy of 经由…提供；蒙…好意
 5.by courtesy 礼貌起见
 6.by courtesy of 蒙…的好意；由于…的作用
@@ -1192,7 +1147,7 @@ n. 求爱；求婚；求爱期
 [搭]
 1.courtship display 求偶表态；示爱；求爱表示
 2.a cathedral courtship 教堂求婚记
-3.The Courtship 求爱；求爱时期
+3.the courtship 求爱；求爱时期
 [联]court (法庭) + ship (关系，状态) ——> 法庭关系
 
 courtyard / ˈkɔːrtjɑːrd /
@@ -1325,7 +1280,6 @@ v. 欺骗，蒙骗；使误信，误导；对（丈夫、妻子或伴侣）不�
 1.deceive oneself 自欺；骗自己；想错；欺骗自己
 2.to deceive 欺骗；糊弄；虚头；蒙混
 3.self-deceive 自欺
-4.deceive oneself 自欺；误解，想错
 [联]dis (否定前缀) + deceive (欺骗) ——> 不欺骗
 
 deceiver / dɪˈsiːvər /
@@ -1352,9 +1306,8 @@ adj. 默认的
 1.Default Gateway 默认网关；网关地址；缺省网关；预设闸道
 2.default route 默认路由；缺省路径； 计  缺省路由
 3.default constructor 缺省构造函数；默认构造函数；的建构操作；缺省构造器
-4.by default◎【体育】由于弃权而输掉；由于对方弃权而获胜
+4.by default【体育】由于弃权而输掉；由于对方弃权而获胜
 5.in default 违约，辅助动作；失职
-6.default valuen.  缺省值；省略补充
 [联]de (离开) + fault (过错，缺点) ——> 离开过错，放弃责任
 
 demand / dɪˈmænd /
@@ -1368,7 +1321,7 @@ n. 坚决的要求；需求，需求量；（困难的）要求
 1.supply and demand 供给和需求；供需
 2.Demand curve 经  需求曲线；必须曲线；即期汇票
 3.chemical oxygen demand 化学需氧量；化学耗氧量；即化学需氧量；耗氧量
-4.demand ofv.  要求；向…索取
+4.demand of 要求；向…索取
 5.demand for 对…的需求
 6.market demand 市场需求
 [联]de (强调) + mand (手) ——> 强有力的手，引申为要求
@@ -1389,14 +1342,13 @@ n.（Demander）人名；（瑞典）德曼德
 discriminate / dɪˈskrɪmɪneɪt /
 v. 区分，辨别；歧视，区别对待
 [例]
-1.When do babies learn to discriminate voices?婴儿什么时候学会辨别嗓音呢？《牛津词典》。
+1.When do babies learn to discriminate voices?婴儿什么时候学会辨别嗓音呢？。
 2.Employers cannot discriminate on grounds of age. 雇主不得有年龄歧视。
 3.The tests discriminate unfairly against older people. 这些测验使年纪较大的人受到歧视。
 [搭]
 1.discriminate against 歧视；区别对待
 2.discriminate validity 区分效度；区别效度；区别有效性
 3.discriminate verb 歧视；区别待遇
-4.discriminate against 歧视；排斥
 [联]dis (不) + crimin + ate (使成为) ——> 使不成为罪犯
 
 discrimination / dɪˌskrɪmɪˈneɪʃ(ə)n /
@@ -1406,9 +1358,9 @@ n. 歧视，区别对待；区分，辨别；辨别力，鉴赏力
 2.Women's groups denounced sexual discrimination. 妇女组织谴责性别歧视。
 3."This," huffed Mr.  Buthelezi, "was discrimination. "“这么做” 布特莱齐先生愤怒地说，“是歧视。
 [搭]
-1.Price Discrimination 物价  价格歧视；价格分歧；差别定价；差别价格
-2.Age Discrimination 年龄歧视；年纪轻视；年龄蔑视；年龄鄙视
-3.System Discrimination 系统辨识；体系辨识
+1.price discrimination 物价  价格歧视；价格分歧；差别定价；差别价格
+2.age discrimination 年龄歧视；年纪轻视；年龄蔑视；年龄鄙视
+3.system discrimination 系统辨识；体系辨识
 4.racial discrimination 种族歧视
 5.sex discrimination 性别歧视；雌雄鉴别
 6.price discrimination 价格歧视，差别取价
@@ -1423,7 +1375,7 @@ adj. 区别的，歧视的；有识别力的
 [搭]
 1.Discriminative Model 判别模型；判别式模型
 2.discriminative reaction time 辨别反应时
-3.discriminative stimulus 辨别刺激； 动  识别的刺激；差别性激励
+3.discriminative stimulus 辨别刺激；识别的刺激；差别性激励
 [联]dis (不) + crimin + ative (形容词后缀) ——> 排除犯罪的
 
 discriminatory / dɪˈskrɪmɪnətəri /
@@ -1448,7 +1400,7 @@ v. 制定，通过，颁布（法令）；扮演，表演；使发生，付诸�
 [搭]
 1.re-enact 重演；重新制定；重新颁布
 2.enact t 颁布；制定；使成为司法；制定法律
-3.Enact policies 出台相关政策
+3.enact policies 出台相关政策
 [联]e (出) + enact (实施，制定法律) ——> 出台（制定法律并实施）
 
 enactive / ɪˈnæktɪv /
@@ -1481,9 +1433,8 @@ v. 实施，执行（法律、规章）；强迫，迫使；<旧>竭力使人接
 3.Desegregation may be harder to enforce in rural areas. 废除种族隔离可能更难在乡村地区实施。
 [搭]
 1.enforce stockholding system 实行股份制；实施股份制；履行股份制
-2.Enforce the law 秉公执法；法律；执法；执行法律
+2.enforce the law 秉公执法；法律；执法；执行法律
 3.enforce laws impartially 秉公执法
-4.enforce the law 执法；执行法律
 [联]force (力量) + enforce (实施，强制执行) ——> 强制实施
 
 enforceable / ɪnˈfɔːsəbl /
@@ -1505,12 +1456,11 @@ n. 执行，实施
 2.In law enforcement, we have to make split-second decisions. 在执法中我们不得不做瞬间决定。
 3.We need to restore respect for the law enforcement agencies. 我们需要重建对于执法机关的尊重。
 [搭]
-1.Law Enforcement 执法；法律的实施； 法  法律实施；行政执法
-2.law enforcement agency 执法机构；执法代理； 法  执法机关；执法部门
-3.Drug Enforcement Administration 美国缉毒局；缉毒局；美国禁毒署；缉毒署
-4.law enforcement 法律的实施
-5.law enforcement agency 执法机构
-6.enforcement action 申请制执行判决的诉讼
+1.law enforcement 执法；法律的实施；法律实施；行政执法
+2.law enforcement agency 执法机构；执法代理；执法机关；执法部门
+3.drug enforcement administration 美国缉毒局；缉毒局；美国禁毒署；缉毒署
+4.law enforcement agency 执法机构
+5.enforcement action 申请制执行判决的诉讼
 [联]en (进入) + force (力量) ——> 强制执行
 
 enforcer / ɪnˈfɔːsə(r) /
@@ -1520,13 +1470,12 @@ n. 实施者；强制执行者
 2.He wasn't always a fearsome enforcer, however. 然而，他并非生来就是可怕的压迫者。
 3.A born warrior couldn't stay working as a smalltime enforcer for long. 一个天生的勇士不可能长时间安于做一个小喽罗。
 [搭]
-
 [联]enforcer (强制执行者) + law (法律) ——> 执行法律的人
 
 equitable / ˈekwɪtəb(ə)l /
 adj. 公平合理的，公正的；衡平法上有效的
 [例]
-1.Mr.  Roh's economic planners sought to achieve a more equitable distribution of wealth. 罗欧先生的经济规划者们努力实现更公平的财富分配。
+1.Mr. Roh's economic planners sought to achieve a more equitable distribution of wealth. 罗欧先生的经济规划者们努力实现更公平的财富分配。
 2.Sadoway isn't alone in trumpeting energy storage as a missing link to a cleaner, more efficient, and more equitable energy future. 萨多维鼓吹在通往更清洁、高效、公平的能源未来的过程中，能源储存是一个缺失环节。
 3.But Sadoway isn't alone in trumpeting energy storage as a missing link to a cleaner, more efficient, and more equitable energy future. 但萨多维并不是唯一一个鼓吹能源储存是通向更清洁、更高效、更公平的能源未来的缺失环节的人。
 [搭]
@@ -1557,14 +1506,14 @@ n. 公平，公正；资产净值；普通股；衡平法
 [搭]
 1.return on equity 股本回报率；净资产收益率
 2.equity theory 公平理论；平衡理论；公平理論；权益理论
-3.Equity capital 权益资本；股本金；股本；主权资本
+3.equity capital 权益资本；股本金；股本；主权资本
 4.private equity 私募股权；私人股本
 5.equity investment 产权投资；股本投资
 6.equity financing 发行股票筹资；产权筹资
 [联]equity (公平，公正) + ty (名词后缀，表性质、状态) ——> 公平性
 
 fair / fer /
-adj. 公平的；合理的，公正的；相当好的；（数量、大小）相当大的；浅色的，（肤色）白皙的，（头发）金色的；晴朗的；顺风的；普通的；美丽的；界内的；<旧>（手段，方法）温和的，非暴力的；<旧>（言语，谈话，许诺）花言巧语的
+adj. 公平的；合理的，公正的；相当好的；（数量、大小）相当大的；浅色的，（肤色）白皙的，（头发）金色的；晴朗的；顺风的；普通的；美丽的；界内的
 adv. 公平地，公正地；非常；正面地，直接地；清楚地
 n. 集市，展览会；露天游乐场；庙会；义卖会；牲畜市场；美女；职业介绍会
 v. 变得晴朗；使（车辆，船舶，飞机）具有流线型
@@ -1643,7 +1592,7 @@ n. 虚假，不真实；假话，谎言；说谎；谬误
 [搭]
 1.sheer cunning and falsehood 尔虞我诈；明争暗斗；钩心斗角
 2.malicious falsehood 恶意中伤；恶意的谎言
-3.Injurious Falsehood 致害诋毁；有害的诈欺；损害性虚假；损害性之虚伪行为
+3.injurious falsehood 致害诋毁；有害的诈欺；损害性虚假；损害性之虚伪行为
 [联]false (错误的) + hood (身份、状态) ——> 错误的状态或虚假
 
 falsely / ˈfɔːlsli /
@@ -1653,9 +1602,9 @@ adv. 错误地；虚伪地；不实地
 2.They smiled at one another, somewhat falsely. 他们相互微笑，有点假惺惺地。
 3.Thou wast under oath, and so swore falsely when thou saidst the value was but eightpence. 你是发过誓的，所以当你说那值八便士的时候，你就起了假誓。
 [搭]
-1.Falsely accuse 倒打一耙
-2.Falsely claim 冒领
-3.Mixes falsely 伪品和掺伪品
+1.falsely accuse 倒打一耙
+2.falsely claim 冒领
+3.mixes falsely 伪品和掺伪品
 [联]false (错误的) + ly (副词后缀) ——> 错误地
 
 fine / faɪn /
@@ -1695,16 +1644,15 @@ n. 傻瓜，笨蛋；<美，非正式>（对某物）有癖好的人，……迷
 v. 开玩笑，戏谑；愚弄，欺骗；瞎弄，瞎折腾（fool with）
 adj. <美，非正式>愚蠢的，傻的；愚蠢的，傻的
 [例]
-1.Oh you fool! You've blown it!傻瓜！你把它搞砸了！《柯林斯英汉双解大词典》。
-2.You made me look a complete fool!你弄得我像个十足的个傻瓜！《牛津词典》。
+1.Oh you fool! You've blown it!傻瓜！你把它搞砸了！。
+2.You made me look a complete fool!你弄得我像个十足的个傻瓜！。
 3.Art dealers fool a lot of people. 艺术品经销商会愚弄许多人。
 [搭]
 1.the Fool 愚者；愚人；装糊涂；傻瓜
 2.Nobody's Fool 大智若愚；不是任何人的玩偶；谁也不是傻子；艾薇儿
 3.April fool 愚人节；杉本有美；傻瓜；愚人节中的受愚弄者
-4.april fool 愚人节；愚人节中受愚弄者
-5.fool around 闲荡；游手好闲；干无用的事
-6.make a fool of 愚弄；欺骗
+4.fool around 闲荡；游手好闲；干无用的事
+5.make a fool of 愚弄；欺骗
 [联]fool (傻瓜) + proof (防护，保护) ——> 防傻货
 
 foolhardy / ˈfuːlhɑːdi /
@@ -1716,7 +1664,6 @@ adj. 有勇无谋的；蛮干的
 [搭]
 1.Foolhardy investors 投资者
 2.Foolhardy Waywardness 有勇无谋；勇往直前
-3.foolhardy y 有勇无谋的；愚勇的
 [联]foolhardy (愚蠢的，冒失的) + head (头) ——> 一个愚蠢的人总是脑袋发热
 
 foolish / ˈfuːlɪʃ /
@@ -1751,7 +1698,7 @@ v. 强迫；用力推；使发生；勉强做出
 2.Protesters turned out in force. 有很多抗议者出席。
 3.She managed to force a smile. 她勉强笑笑。
 [搭]
-1.Air Force 军  空军；空军一号；美国空军；空军基本款
+1.Air Force 空军；空军一号；美国空军；空军基本款
 2.force majeure 保险  不可抗力；人力不可抗力；不可抗力条款；不成抗力
 3.Air Force One 空军一号；美国空军一号；空中一号
 4.by force 强迫地；靠武力；凭藉暴力
@@ -1781,9 +1728,7 @@ adj. 真正的，非伪造的；真诚的，真心的
 1.genuine partnership 合伙企业；合伙契约
 2.genuine diamond 真钻石的；真宝石
 3.genuine leather 真皮；皮表带；表带；高档牛皮
-4.genuine leather 真皮
-5.genuine gold 纯金，赤金
-6.genuine diamond 真钻石的
+4.genuine gold 纯金，赤金
 [联]genuine (真正的，真诚的) + sphere (球体，球形) ——> 真理之球
 
 genuinely / ˈdʒenjuɪnli /
@@ -1808,7 +1753,6 @@ v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；�
 1.instruct me 见教
 2.instruct counsel 委托大律师
 3.instruct in 教导
-4.instruct in 指教；教导
 [联]instruct (指导，教导) + struct (建立，构造) ——> 构建知识体系
 
 instruction / ɪnˈstrʌkʃ(ə)n /
@@ -1819,9 +1763,9 @@ adj. 说明用法的
 2.This technique brings life to instruction and eases assimilation of knowledge. 这种技术给教学带来活力，并使知识的吸收更加容易。
 3.Two lawyers were told not to leave the building but no reason for this instruction was given. 两位律师被告知不要离开这座建筑，但没被告知这一指示的原因。
 [搭]
-1.Instruction Cycle 计,计  指令周期；指令循环；指令计数器
-2.direct instruction 直接教学法；直接教学； 计  直接指令；立即指令
-3.Programmed Instruction 计  程序教学； 计  程序指令；程式化教学
+1.Instruction Cycle 指令周期；指令循环；指令计数器
+2.direct instruction 直接教学法；直接教学；直接指令；立即指令
+3.Programmed Instruction 程序教学；程序指令；程式化教学
 4.classroom instruction 课堂教学；课程设计
 5.instruction set 指令组（表），指令系统
 6.work instruction 作业指导；工作指令
@@ -1847,10 +1791,9 @@ n. 教练，导师；<美>大学讲师
 3.She ran off with an intellectually challenged ski instructor. 她与一位有智力障碍的滑雪教练私奔了。
 [搭]
 1.flight instructor 飞行教员；飞行教官
-2.Technical Instructor 技能引导讲师；技术引导讲师
-3.Fitness Instructor 健身教练；健身指导；健身指导员
-4.fitness instructor 健美师；健身指导
-5.training instructor 训练教官；训练导师
+2.technical instructor 技能引导讲师；技术引导讲师
+3.fitness instructor 健美师；健身指导
+4.training instructor 训练教官；训练导师
 [联]in (不) + struct (建造) + or (名词后缀，指人) ——> 不建造的人，即指导者
 
 investigate / ɪnˈvestɪɡeɪt /
@@ -1901,7 +1844,7 @@ adv.（用于介绍清单上逐个项目之前）又，此外还有
 v. 逐条列出，记下
 [例]
 1.This item should be hand washed. 这件物品要用手洗。
-2.What's the next item on the agenda?议程的下一项是什么？《牛津词典》。
+2.What's the next item on the agenda?议程的下一项是什么？。
 3.Each student makes only one item themselves. 每个学生自己只做一项。
 [搭]
 1.ITEM NO 型号；产品标号；货号；产品编号
@@ -1923,8 +1866,7 @@ v. 逐条记载（itemize 的过去分词）
 1.itemized equipment 编位号设备；有位号设备；编位号装备
 2.non-itemized equipment 无位号设备
 3.itemized account 会计  明细帐；按项目列出的账目；明细账；详细帐目
-4.itemized account[经]明细帐
-5.itemized list 详细项目单
+4.itemized list 详细项目单
 [联]itemized (逐条列出的) ——> item (项目，条款) + -ize (动词后缀，使成为) + -ed (过去式或形容词后缀) ——> 将事物逐条列出的
 
 jail / dʒeɪl /
@@ -2004,8 +1946,8 @@ n. 意见；判断力；审判；评价（同 judgment）
 2.judgement of paris 帕里斯的评判；巴黎审判；巴黎评判
 3.default judgement 法  缺席判决；一造判决；缺席裁决；不应诉判决
 4.value judgement 价值判断
-5.subjective judgementn.  主观判断
-6.judgement dayn.  审判日；末日
+5.subjective judgement 主观判断
+6.judgement day 审判日；末日
 [联]judgement (判断力) + common (共同的) ——> 共同的判断力
 
 judgment / ˈdʒʌdʒmənt /
@@ -2032,7 +1974,7 @@ n. 司法权，审判权；管辖权；管辖区域，管辖范围
 [搭]
 1.universal jurisdiction 普遍管辖权；管辖权；普遍管辖
 2.territorial jurisdiction 领土管辖权；地区管辖；地域管辖；属地管辖权
-3.Appellate jurisdiction 上诉管辖权；上诉司法管辖权；上诉法院；上诉管辖权上述裁决权
+3.appellate jurisdiction 上诉管辖权；上诉司法管辖权；上诉法院；上诉管辖权上述裁决权
 4.competent jurisdiction 合法的管辖权
 5.exclusive jurisdiction 专属管辖；专属管辖权
 6.tax jurisdiction 税务管辖权
@@ -2055,10 +1997,9 @@ n. 法律体系；法学及其分支；法律知识；法院审判规程
 [例]
 1.The secrets of law and jurisprudence lie in philosophy. 法学、法理的奥秘在哲学之中。
 [搭]
-1.medical jurisprudence 特医  法医学；裁判医学；医事法学
+1.medical jurisprudence 法医学；裁判医学；医事法学
 2.positive jurisprudence 实证法学；实在法学
 3.positivist jurisprudence 实在主义法学； 法  实证主义法学
-4.medical jurisprudence 法医学
 [联]juris (法律) + prudence (审慎，智慧) ——> 法律智慧
 
 jury / ˈdʒʊri /
@@ -2066,16 +2007,15 @@ n. 陪审团；（竞赛的）裁判委员会
 adj.（航海时）应急的
 v. <美>鉴定，评审（艺术品、工艺品展览会或展品）
 [例]
-1.Has the jury reached a verdict ?陪审团作出裁定了吗？《牛津词典》。
+1.Has the jury reached a verdict ?陪审团作出裁定了吗？。
 2.The jury found for the defendant. 陪审团作出了对被告有利的裁决。
 3.The jury acquitted him of murder. 陪审团裁决他谋杀罪不成立。
 [搭]
-1.Runaway Jury 失控陪审团；幕后陪审团；审判在线
+1.runaway jury 失控陪审团；幕后陪审团；审判在线
 2.grand jury 大陪审团；陪审团；国际比赛
-3.Trial by Jury 陪审团的审判；陪审团的女人；陪审团；陪审团审判
+3.trial by jury 陪审团的审判；陪审团的女人；陪审团；陪审团审判
 4.grand jury[法]大陪审团
 5.jury trial 陪审团审案
-6.trial by jury 陪审审判
 [联]jury (陪审团) + group (小组，团体) ——> 评审团
 
 juryman / ˈdʒʊərimən /
@@ -2114,7 +2054,7 @@ n. 公平，正义；公道，合理；司法，法律制裁；<美>法官
 1.JUSTICE LEAGUE 正义联盟；超人正义联盟；公理同盟；正义同盟
 2.Justice Bao 包青天
 3.Department of Justice 美国司法部；反不正当竞争部门
-4.social justice[法]社会主义
+4.social justice [法]社会主义
 5.justice department 司法部门
 6.administration of justice 司法；司法行政；执法
 [联]justice (公正，正义) + sense (感觉，感知) ——> 正义感
@@ -2122,7 +2062,7 @@ n. 公平，正义；公道，合理；司法，法律制裁；<美>法官
 justifiable / ˌdʒʌstɪˈfaɪəb(ə)l /
 adj. 情有可原的，无可非议的
 [例]
-1.When, if ever, is it morally justifiable to allow a patient to die?假如可以的话，什么情况下允许病人放弃生命在道德上是正当的？《柯林斯英汉双解大词典》。
+1.When, if ever, is it morally justifiable to allow a patient to die?假如可以的话，什么情况下允许病人放弃生命在道德上是正当的？。
 2.At such times, winning may dominate one's intellect, and every action, no matter how gross, may be considered justifiable. 在这种情况下，胜利可能会影响一个人的判断能力，使得无论多么粗野的行为，都可能被正当化。
 3.At least two of the three other absentees also had justifiable reasons for being away. 其他三个缺席者中至少两个人也有合理的缺席理由。
 [搭]
@@ -2154,7 +2094,7 @@ adj. 辩护的；认为正当的
 justify / ˈdʒʌstɪfaɪ /
 v. 是……的正当理由；对……作出解释，为……辩解；使（文本）对齐；（在上帝的眼中）称义，使有义；证明合法；整理版面
 [例]
-1.How can they justify paying such huge salaries?他们怎能证明付这么大笔薪金是正当的呢？《牛津词典》。
+1.How can they justify paying such huge salaries?他们怎能证明付这么大笔薪金是正当的呢？。
 2.He made a half-hearted attempt to justify himself. 他没有尽力证明自己有理。
 3.No amount of rationalization could justify his actions. 无论怎么解释，他的行为都不能说是正当的。
 [搭]
@@ -2174,7 +2114,7 @@ v. 起诉，控告
 1.civil law 民法；欧陆法系；民法学；民法
 2.criminal law 刑法；刑事诉讼法；刑法；刑法学
 3.Law Enforcement 执法；法律的实施；法律实施；执法部门
-4.by lawn.  根据法律，在法律上；附则
+4.by law 根据法律，在法律上；附则
 5.criminal law 刑法
 6.law enforcement 法律的实施
 [联]law (法律) + right (权利) ——> 法律赋予的权利
@@ -2188,10 +2128,8 @@ n. 草坪，草地；上等细棉布，上等细麻布
 [搭]
 1.lawn tennis 草地网球运动；草地网球；草坪网球；草地网球活动
 2.public lawn 公共绿地；共公绿地；社交绿地
-3.lawn mower 农机  割草机；剪草机；引剪草机；剪草皮机
-4.lawn mower 割草机
-5.lawn tennis 草地网球
-6.lawn chair（美）草坪躺椅
+3.lawn mower 割草机；剪草机；引剪草机；剪草皮机
+4.lawn chair（美）草坪躺椅
 [联]lawn (草坪) + mower (割草机) ——> 割草机修剪后的草坪
 
 lawsuit / ˈlɔːsuːt /
@@ -2217,20 +2155,18 @@ v. 从事法律工作，当律师；（律师）处理法律事务
 1.lawyer lawyer 算死草；整人状元
 2.criminal lawyer 刑事律师；刑事状师；犯罪的律师
 3.The Lincoln Lawyer 林肯律师；下流正义；依法犯法；林肯状师
-4.criminal lawyer 刑事律师
 [联]law (法律) + yer (土地，地方) ——> 法律从业者
 
 legal / ˈliːɡ(ə)l /
 adj. 法律允许的，合法的；与法律有关的，法律的；（与衡平法相对）普通法或成文法确认的；神学律法的，与神学律法有关的；<美>（纸张）标准大小的
 [例]
 1.What I did was perfectly legal. 我做的事情完全合法。
-2.Should euthanasia be made legal?安乐死是否应定为合法？《牛津词典》。
+2.Should euthanasia be made legal?安乐死是否应定为合法？。
 3.The party was denied legal status. 那个党没有获得合法地位。
 [搭]
 1.legal system 法律体系；法律制度；法制
 2.legal deposit 法定送存；法定送样本；法定寄存
 3.legal case 案件；法律案件；法律案例；案子
-4.legal system 法律制度
 5.legal status 法律地位
 6.legal protection 法律保护；合法保护
 [联]legal (合法的) + right (权利) ——> 合法权利
@@ -2334,15 +2270,15 @@ n. 合法性，合理性
 3.Time, rather than intention, has given them legitimacy. 时间，而不是意图，赋予了他们合法性。
 [搭]
 1.legitimacy crisis 合法性危机；正当性危机
-2.The legitimacy 合法性；正当性
-3.Legitimacy theory 合法性理论；合理性理论；合法化理论；正当性理论
+2.the legitimacy 合法性；正当性
+3.legitimacy theory 合法性理论；合理性理论；合法化理论；正当性理论
 [联]legitimacy (合法性) + ity (名词后缀) ——> 合法性
 
 legitimate / lɪˈdʒɪtɪmət /
 adj. 正当的，合理的；合法的，依法的；合法婚姻所生的；（君主）有合法王位继承权的；（与音乐喜剧、滑稽剧相对）正剧的
 v. <美>使合法化，使正当化
 [例]
-1.Is his business strictly legitimate?他的生意是否绝对合法？《牛津词典》。
+1.Is his business strictly legitimate?他的生意是否绝对合法？。
 2.The empire could not cohere as a legitimate whole. 这个帝国无法凝聚成一个合法的整体。
 3.Many doctors recognize homeopathy as a legitimate form of medicine. 许多医生承认顺势疗法是一种合理的医疗形式。
 [搭]
@@ -2351,7 +2287,6 @@ v. <美>使合法化，使正当化
 3.legitimate income 合法收入；正当收入；正当收益；白色收入
 4.legitimate authority 法定职权；合法权威
 5.legitimate interest 合法权益；合法利益
-6.legitimate income[经]正当收入
 [联]legiti (合法的) + mate (伙伴) ——> 合法的伙伴
 
 legitimately / lɪˈdʒɪtɪmətli /
@@ -2404,7 +2339,7 @@ v. 强制执行，颁布；授权，委任；命令，指示；（领土）（�
 mandator / mænˈdeɪtə(r) /
 n. 命令者；委托人，托管人
 [例]
-1.n. 命令者；委托人，托管人 client  /  principal。
+1.n. 命令者；委托人，托管人 client/principal。
 [搭]
 1.Mandator r 委托人
 2.Mandator-class 命令者级
@@ -2421,7 +2356,7 @@ n. 受托人，代理人（=mandatary）
 1.mandatory access control 强制访问控制；命令进入控制；强制存取控制；控制
 2.mandatory plan 指令性计划；强制性计划；指令性打算；指令性规划
 3.Mandatory Provident Fund 强制性公积金；本港强积金
-4.mandatory standardn.  强制性标准，法定标准；推荐性标准
+4.mandatory standard 强制性标准，法定标准；推荐性标准
 5.mandatory provident fund 强制性公积金
 6.mandatory measures 指令性措施
 [联]mandate (命令) + ory (场所，机构) ——> 发布命令的机构
@@ -2447,7 +2382,7 @@ n. 调解，仲裁
 3.This rule is an exception to the above rule of not setting mediation properties during this phase. 本条规则是上述要求不在此阶段设置中介属性的那条规则的一个例外。
 [搭]
 1.mediation of dispute 商业纠纷调解；商业纠纷；商业纠缠调整；商业胶葛调停
-2.civil mediation 法  民事调解；民间纠纷调解
+2.civil mediation 民事调解；民间纠纷调解
 3.Grievance Mediation 埋怨调停；抱怨调剂；埋怨调剂
 4.mediation process 调解过程；中介过程
 [联]mediation (调解，斡旋) + negotiation (谈判) ——> 调停与协商
@@ -2488,9 +2423,8 @@ n. 死亡人数，死亡率；必死性，终有一死；死亡
 1.Infant mortality 婴儿死亡率；早期失效率；早期失效
 2.mortality rate 死亡率模型；病死率；率模型
 3.child mortality 统计  儿童死亡率
-4.mortality rate 死亡率
-5.infant mortality 婴儿死亡率，早期失效；早期故障期
-6.maternal mortality 产妇死亡率，母性死亡率；母死率
+4.infant mortality 婴儿死亡率，早期失效；早期故障期
+5.maternal mortality 产妇死亡率，母性死亡率；母死率
 [联]mortality (死亡，必死性) +ity (名词后缀) ——> 死亡的性质或状态
 
 mortgage / ˈmɔːɡɪdʒ /
@@ -2503,7 +2437,7 @@ v. 抵押；（为眼前好处）使承受（未来）风险
 [搭]
 1.mortgage loan 抵押贷款；按揭贷款；住房抵押贷款
 2.subprime mortgage crisis 次贷危机；危机；次级抵押贷款危机；次级房贷
-3.First mortgage 第一抵押权；第一按揭；第一抵押贷款
+3.first mortgage 第一抵押权；第一按揭；第一抵押贷款
 4.housing mortgage 住房按揭
 5.mortgage loan 按揭贷款；抵押借款
 6.subprime mortgage 次级房贷
@@ -2531,8 +2465,8 @@ v. 谋杀，凶杀；糟蹋，毁坏；<非正式>彻底击败；<非正式>对�
 2.She confessed to the murder. 她供认犯了谋杀罪。
 3.He pleaded guilty to murder. 他承认犯有谋杀罪。
 [搭]
-1.Memories of Murder 杀人回忆；谋杀记忆；片
-2.The Perfect Murder 完美的谋杀；完美谋杀；超完美谋杀
+1.memories of murder 杀人回忆；谋杀记忆
+2.the perfect murder 完美的谋杀；完美谋杀；超完美谋杀
 3.attempted murder 企图谋杀；谋杀未遂；企图谋杀罪；谋杀罪
 4.mass murder 大屠杀；大规模的谋杀；集体屠杀
 5.attempted murder 谋杀未遂
@@ -2584,7 +2518,7 @@ v. 低语，轻声地说；私下抱怨，发牢骚；发出持续轻柔的声�
 1.Murmur of the Heart 好奇心；心之呢喃；心脏杂音
 2.cardiac murmur 临床  心脏杂音； 临床  心杂音；心脏杂音的传导
 3.diastolic murmur 临床  舒张期杂音
-4.heart murmurn.  [医]心杂音
+4.heart murmur [医]心杂音
 [联]murmur (低声抱怨，低语) + sound (声音) ——> 低声的声音
 
 murmurous / ˈmɜːmərəs /
@@ -2637,8 +2571,6 @@ n. 社会准则，行为规范；标准，平均水平；常态，平常事物�
 1.social norm 社会规范；社会常模；社会标准；社会的规范
 2.matrix norm 数  矩阵范数；矩阵的范数；矩阵模量；最佳逼近
 3.dual norm 数  对偶范数
-4.social norm 社会规范
-5.matrix norm 矩阵范数
 [联]norm (准则，规范) + ing (后缀，表示行为) ——> 规范行为
 
 normal / ˈnɔːm(ə)l /
@@ -2680,8 +2612,7 @@ adv. 通常，平常；正常地；正交地
 1.Normally open 常开；正常断开的；通常是打开的；常开型
 2.Normally open type 常开式；常启式
 3.Normally closed type 常闭式
-4.normally open 常开的；正常断开的
-5.normally closed 常闭的；正常闭合的
+4.normally closed 常闭的；正常闭合的
 [联]normal (正常的) + ly (副词后缀) ——> 正常地
 
 normative / ˈnɔːmətɪv /
@@ -2696,7 +2627,6 @@ adj. 规范的，标准的
 3.normative commitment 规范承诺；规范性承诺；规范认同
 4.normative analysis 规范分析
 5.normative document 标准文件
-6.normative economics 规范经济学
 [联]normative + (正常的 + 形式/标准) ——> 规范的
 
 obey / əˈbeɪ /
@@ -2737,7 +2667,7 @@ n.（法律上或道义上的）义务，责任；恩惠，人情债；（承诺
 3.Potential obligation 负债；潜在义务
 4.no obligation 无义务
 5.moral obligation 道义上的责任
-6.legal obligationn.  法律义务
+6.legal obligation 法律义务
 [联]obliga (义务，责任) + tion (名词后缀) ——> 义务，责任
 
 obligatory / əˈblɪɡətri /
@@ -2836,13 +2766,12 @@ n. 所有权，物主身份
 penalize / ˈpiːnəlaɪz /
 v. 使处于不利地位，不公正地对待；处罚，惩罚，处以刑罚；（体育运动中）判罚
 [例]
-1.Mr.  Gill said the city could penalize the company if it did not complete the work on schedule. 吉尔先生说，如果该公司没有按时完成工作，市政府将对其进行处罚。
+1.Mr. Gill said the city could penalize the company if it did not complete the work on schedule. 吉尔先生说，如果该公司没有按时完成工作，市政府将对其进行处罚。
 2.The new law appears to penalize the poorest members of society. 新法规似乎不利于社会中的最贫困者。
 3.The professor will penalize lightly for late assignments. 教授会对迟交作业进行轻度惩罚。
 [搭]
-1.penalize e 处罚；是不利；惩罚；对
+1.to penalize 处罚
 2.penalize one touch 判罚一分
-3.to penalize 处罚
 [联]penalize (处罚，惩罚) + ize (动词后缀，使成为) ——> 使受到处罚
 
 penalties / ˈpenəltiz /
@@ -2864,7 +2793,7 @@ penalty / ˈpenəlti /
 n.（因违反法律、规定或合同而受到的）处罚，刑罚；（行为、环境带来的）不利后果，苦难；（体育运动中对犯规者的）判罚，处罚；（足球、橄榄球及类似运动中的）罚球；（桥牌）（叫牌者未完成定约时的）罚分
 [例]
 1.He was fouled inside the penalty area. 在罚球区内对方队员对他犯规。
-2.Are you for or against the death penalty?你赞成还是反对死刑？《牛津词典》。
+2.Are you for or against the death penalty?你赞成还是反对死刑？。
 3.The two men are facing the death penalty. 这二人面临死刑。
 [搭]
 1.penalty area 禁区；罚球区；大禁区
@@ -2900,10 +2829,9 @@ adj. 性能卓越的，高性能的
 [搭]
 1.performance art 行为艺术；表演艺术；戏剧表演艺术
 2.performance management 绩效管理；业绩管理；性能管理
-3.High Performance 科技  高性能；高性能模式；高效
-4.high performance 高性能；高效能的
-5.good performance 良好的性能；良好绩效
-6.performance evaluation 性能评估；性能赋值
+3.high performance 高性能；高效能的
+4.good performance 良好的性能；良好绩效
+5.performance evaluation 性能评估；性能赋值
 [联]per (每) + form (形状) + ance (状态) ——> 每种形状的状态
 
 performer / pərˈfɔːrmər /
@@ -2925,12 +2853,10 @@ adj. 允许的，许可的
 2.If it is permissible to interpolate a personal humble opinion, I may say that. . . 若允许陈述一下个人的管见，我则认为…。
 3.Environmental campaigns that tell us how many people drive SUVs unwittingly imply that this behaviour is widespread and thus permissible. 环保运动告诉我们有多少人不经意地驾驶 SUV，这意味着这种行为是普遍的，因此是允许的。
 [搭]
-1.permissible stress 许可应力；许用应力； 力  容许应力；允许应力
-2.permissible error 数  容许误差； 电子  允许误差；允许偏差；容许误差公差允许误差
-3.permissible load 容许荷载； 电  容许负载；容许负荷； 交  容许载荷
-4.permissible stress 许用应力
-5.permissible error 允许误差
-6.permissible value 容许值，允许值
+1.permissible stress 许可应力；许用应力；容许应力；允许应力
+2.permissible error 容许误差； 允许误差；允许偏差；容许误差公差允许误差
+3.permissible load 容许荷载；容许负载；容许负荷； 交  容许载荷
+5.permissible value 容许值，允许值
 [联]permissible (可允许的) + miss (错过) + ible (能够) ——> 能够错过的事情是可允许的
 
 permission / pəˈmɪʃ(ə)n /
@@ -2964,7 +2890,7 @@ permit / pəˈmɪt /
 v. 批准，许可；（使）成为可能；破例做，放纵
 n. 执照，许可证；古氏鲳鲹
 [例]
-1.Is your work permit in order?你的工作许可证有效吗？《牛津词典》。
+1.Is your work permit in order?你的工作许可证有效吗？。
 2.The work permit is not renewable. 这份工作许可证不能延期。
 3.The permit runs for three months. 许可证的有效期为三个月。
 [搭]
@@ -2983,7 +2909,7 @@ v. 允许；（使）有可能；批准；可能有；允许有（permit 的过�
 2.Mitchel's schedule had not permitted him to take time off. 米切尔的日程表已不允许他休假。
 3.The guards permitted me to bring my camera and tape recorder. 守卫允许我带上相机和录音机。
 [搭]
-1.Parking permitted 允许停车；答应停车；允许泊车；停车
+1.parking permitted 允许停车；答应停车；允许泊车；停车
 2.transhipment permitted 允许转运；答应转运；理睬转运；同意转运
 3.permitted rent 准许租金；核准租金；批准租金
 4.work permit 工作许可证
@@ -2998,17 +2924,16 @@ n. [电] 介电常数，[电] 电容率
 2.Epsilon zero is the permittivity of vacuum. 0是真空中的介电常数。
 3.There is the permittivity vacuum.  It is all up there. 这儿还有真空中的介电常数，看，全在这里。
 [搭]
-1.relative permittivity 电  相对电容率；介电常数
+1.relative permittivity 相对电容率；介电常数
 2.vacuum permittivity 真空电容率；真空介电常数
 3.absolute permittivity 绝对电容率；绝对介电常数；对电容率
-4.relative permittivity[电]相对介电常数
 [联]permi (允许) + ttiv (词缀) + ity (名词后缀) ——> 允许性
 
 persuade / pərˈsweɪd /
 v. 说服，劝服；使相信，使信服；（情形，事件）驱使，敦促
 [例]
 1.I did my damnedest to persuade her. 我已经全力以赴地去说服她了。
-2.How did you manage to persuade him?你是怎么说服他的？《牛津词典》。
+2.How did you manage to persuade him?你是怎么说服他的？。
 3.I failed in my attempt to persuade her. 我未能说服她。
 [搭]
 1.persuade sb to do sth 劝说；劝说某人做某事；说服某人干某事；说服某人做某事
@@ -3044,10 +2969,9 @@ n. 说服，劝服；说服力；（宗教或政治）信仰；教派；某种�
 2.After a little gentle persuasion, he agreed to come. 耐心劝说一下，他就同意来了。
 3.She agreed to come, after a little gentle persuasion. 经过一阵细心劝说，她表示愿意来。
 [搭]
-1.Pretty Persuasion 美丽坏姐妹；怪女孩出位；美丽坏宝贝
+1.pretty persuasion 美丽坏姐妹；怪女孩出位；美丽坏宝贝
 2.burden of persuasion 说服责任；证明责任
-3.Persuasion Engineering 说服工程学；压服工程学
-4.burden of persuasion 说服责任；举证责任
+3.persuasion engineering 说服工程学；压服工程学
 [联]per (每) + suasion (说服) ——> 每个人都被说服
 
 persuasive / pəˈsweɪsɪv /
@@ -3150,8 +3074,7 @@ n. 恳求，请求；（法庭上所作的）有罪（无罪）陈述；借口�
 1.Plea bargain 认罪协商；辩诉交易；认罪减刑
 2.plea bargaining 辩诉交易；认罪求情协议；认罪协商；诉辩交易
 3.Plea Agreement 辩诉协议；认罪协议；诉辩协议
-4.plea bargainingn.  [法]认罪求情协议
-5.plea for 恳求，请求
+4.plea for 恳求，请求
 [联]plea (请求，恳求) + a (一个) ——> 一个请求
 
 plead / pliːd /
@@ -3164,9 +3087,8 @@ v. 恳求，乞求；极力主张，极力为……辩护；（在法庭）申�
 1.plead guilty 服罪；认罪；认罪答辩
 2.plead not guilty 不服罪
 3.plead illness 称病；假托有病；托病；借口有病
-4.plead guilty 服罪；[经]被告服罪
-5.plead forv.  请求；为…辩护
-6.plead with 向…恳求；恳求…
+4.plead for 请求；为…辩护
+5.plead with 向…恳求；恳求…
 [联]plea (诉求) + d (这里可以联想为“决心”，d是英文单词"desire"的首字母，表示渴望得到的结果) ——> 为诉求而恳求
 
 pleasant / ˈplez(ə)nt /
@@ -3238,12 +3160,11 @@ n.（事物的）潜力，可能性；（人的）潜能，潜力；电势，电
 2.The boy has great potential. 这个男孩有很大的潜力。
 3.The house has a lot of potential. 这所房子颇具潜力。
 [搭]
-1.potential energy 力  位能；势场；能够转化成动能
-2.action potential 生理  动作电位；动诅位；动作电势；电活动
+1.potential energy 位能；势场；能够转化成动能
+2.action potential 动作电位；动诅位；动作电势；电活动
 3.potential flow 势流位流；位势流
 4.market potential[经]市场潜力；市场潜在需求量
-5.potential energy 势能
-6.development potential 发展潜力；发展前景
+5.development potential 发展潜力；发展前景
 [联]poten (可能) + tial (相关) ——> 潜在的
 
 potentially / pəˈtenʃəli /
@@ -3271,7 +3192,7 @@ v. 使有偏见，使有成见； 损害，不利于
 3.Pride & Prejudice 傲慢与偏见；狂妄与成见；刹那；傲慢与成见
 4.without prejudice 无偏见
 5.pride and prejudice《傲慢与偏见》
-6.prejudice againstvt.  对……的偏见
+6.prejudice against 对……的偏见
 [联]pre (前) + judg (判断) + ice (冰，霜) ——> 对某人或某事做出预先判断的状态
 
 prejudicial / ˌpredʒuˈdɪʃl /
@@ -3315,8 +3236,8 @@ pretentious / prɪˈtenʃəs /
 adj. 自命不凡的，做作的；（书、电影等）捏造的，矫饰的
 [例]
 1.Ironically, now that photography is securely established as fine art, many photographers find it pretentious or irrelevant to label it as such. 具有讽刺意味的是，现在摄影已被牢固地确立为美术，许多摄影师发现将其贴上标签是自命不凡或无关紧要的。
-2.That's a pretentious name for a dog!狗叫这个名字真够炫的！《牛津词典》。
-3.He's so pretentious!瞧他那副自命不凡的样儿！《牛津词典》。
+2.That's a pretentious name for a dog!狗叫这个名字真够炫的！。
+3.He's so pretentious!瞧他那副自命不凡的样儿！。
 [搭]
 1.Pretentious Game 自命不凡的游戏；方块真情大冒险；方块之恋
 2.pretentious a 自负的；虚伪的
@@ -3348,7 +3269,7 @@ v. <文>禁锢，关押
 3.Stanley Prison 赤柱监狱
 4.in prison 坐牢
 5.escape from prison 越狱
-6.prison sentencen.  徒刑
+6.prison sentence 徒刑
 [联]prison (监狱) + son (儿子) ——> 监狱里的儿子
 
 privilege / ˈprɪvəlɪdʒ /
@@ -3386,10 +3307,8 @@ n. 手续，步骤；（商业、法律或政治上的）程序；外科手术�
 [搭]
 1.criminal procedure 刑事诉讼法；刑事诉讼；刑事诉讼法学；刑事诉讼程序
 2.civil procedure 民事诉讼法；民事诉讼；民事诉讼程序；民事手段
-3.Civil Procedure Law 法  民事诉讼法；民事诉讼法学；民事程序法
+3.civil procedure law 法  民事诉讼法；民事诉讼法学；民事程序法
 4.working procedure 运行程序；办理手续
-5.criminal procedure 刑事诉讼程序
-6.civil procedure 民事诉讼；民事诉讼法；民事诉讼程序
 [联]pro (向前，代表过程) + ced (走，表示步骤) + ure (名词后缀，表示行为或状态) ——> 程序，步骤
 
 prose / prəʊz /
@@ -3404,7 +3323,7 @@ adj. 散文的，散文式的；平凡的，乏味的
 1.Prose Edda 散文埃达；散文艾达；古冰岛散文集
 2.Francine Prose 弗朗辛·普罗斯；弗朗辛·珀丝；普罗丝；普洛斯
 3.Prose Art 散文艺术
-4.prose poemn.  散文诗
+4.prose poem 散文诗
 5.descriptive prose 描写性散文
 [联]prose (散文) + verse (韵文) ——> 散文与韵文
 
@@ -3435,15 +3354,14 @@ n. 起诉，诉讼；原告，控方；从事，进行
 prosecutor / ˈprɑːsɪkjuːtər /
 n. 检察官，公诉人；（刑事庭的）原告律师
 [例]
-1.How much longer does the independent prosecutor have a mandate to pursue this investigation?这名独立检察官获得授权去调查这件事情的权限还有多长？《柯林斯英汉双解大词典》。
+1.How much longer does the independent prosecutor have a mandate to pursue this investigation?这名独立检察官获得授权去调查这件事情的权限还有多长？。
 2.The prosecutor told the judge in mitigation that the offences had been at the lower end of the scale. 公诉人对法官说这些罪行情节较轻，希望能够从宽判决。
 3.His chances do not seem good in view of the fact that the Chief Prosecutor has already voiced his public disapproval. 鉴于首席检察官已公开表示反对这一事实，他的机会看起来不好。
 [搭]
-1.Vampire Prosecutor 吸血鬼检察官
-2.Prosecutor Princess 检察官公主；检察官公主剧情介绍；韩剧检察官公主
-3.public prosecutor 法  公诉人；检察官；检查官；公职检控官
-4.public prosecutor 检察官；公诉人
-5.chief prosecutor 首席检察官，主任检察官；检察长
+1.vampire prosecutor 吸血鬼检察官
+2.prosecutor princess 检察官公主；检察官公主剧情介绍；韩剧检察官公主
+3.public prosecutor 公诉人；检察官；检查官；公职检控官
+4.chief prosecutor 首席检察官，主任检察官；检察长
 [联]pro (向前) + secut (跟随) + or (名词后缀) ——> 前往追随真相的人，即检察官
 
 proto / ˈprəʊtəʊ /
@@ -3486,7 +3404,6 @@ n.（Proton）人名；（法）普罗东
 1.proton pump 植  质子泵
 2.proton decay 质子衰变；质子蜕变
 3.Proton Synchrotron 核  质子同步加速器
-4.proton pump 质子泵
 [联]hydro (水) + gen (产生) ——> 氢气
 
 prototype / ˈproʊtətaɪp /
@@ -3497,10 +3414,10 @@ v. 制作（产品的）原型
 2.The prototype is, by all accounts, athletic, good-natured and supersmart. 所有人都说，它的原型体格健壮、性情温和、非常聪明。
 3.We broke up into groups, and each group designed its own toy and made an alpha prototype. 我们分成几个小组，每个小组都设计了自己的玩具并制作了一个 alpha 原型。
 [搭]
-1.Prototype Pattern 原型模式；原型形式；原始模型模式；原型设计模式
+1.prototype pattern 原型模式；原型形式；原始模型模式；原型设计模式
 2.prototype mold 雏形试验模具；雏形模具；原型模具；雏形测验模具
 3.international prototype metre 国际米原器
-4.prototype system[计]原型系统
+4.prototype system [计]原型系统
 5.prototype theory 原型理论；原型说
 6.prototype test 原型测试，样机试验
 [联]pro (向前) + type (类型) + mate (同伴) ——> 原型
@@ -3513,11 +3430,10 @@ adj. 有道理的，合情理的；（人）通情达理的，讲道理的；适
 3.Public spending must be kept within reasonable bounds. 公共开支必须控制在合理的范围内。
 [搭]
 1.reasonable price 价格公道；合理的价格； 物价  合理价格；价格合理
-2.Reasonable Doubt 合理怀疑；合理的怀疑；合理疑点；合理质疑
+2.reasonable doubt 合理怀疑；合理的怀疑；合理疑点；合理质疑
 3.reasonable quantity 相当的数量；相当数量；相应的数量；相称的数量
-4.reasonable price 合理价格；价格公道
-5.reasonable distribution 合理级配
-6.reasonable time 合理期限；适当的时间
+4.reasonable distribution 合理级配
+5.reasonable time 合理期限；适当的时间
 [联]reason (理由) + able (能够) ——> 合乎情理的
 
 reasonably / ˈriːz(ə)nəbli /
@@ -3541,7 +3457,7 @@ v. 调和，使协调一致；（使）和解，（使）恢复友好关系；�
 [搭]
 1.reconcile to 使顺从；甘心；使一致
 2.reconcile with 与和解；与某人和好；使一致；使同…和好
-3.Reconcile Differences 调和差异；调解分歧；使一致
+3.reconcile differences 调和差异；调解分歧；使一致
 4.reconcile with 与…和解
 [联]re- (再次) + concile (和解，调和) ——> 使和好，使协调
 
@@ -3579,8 +3495,8 @@ adj.（使用或穿戴）符合规定的，正规的；<非正式> 公式化的�
 2.Some in the market now want government regulation in order to reduce costs. 市场上现在有人想要政府来管理以降低成本。
 3.The results prove that regulation of the salmon farming industry is inadequate. 结果证明，大马哈鱼养殖业的管理是失当的。
 [搭]
-1.Line regulation 电源调整率；电源电压调整率；线性调整率；电压调整率
-2.Allosteric regulation 别构调节；变构调节；别构调控
+1.line regulation 电源调整率；电源电压调整率；线性调整率；电压调整率
+2.allosteric regulation 别构调节；变构调节；别构调控
 3.traffic regulation 交通法则
 4.speed regulation 速度调节；速度调整
 5.regulation and control 调控
@@ -3612,9 +3528,8 @@ adj. 管理的，控制的，监管的
 1.regulatory capture 规制俘虏；监管俘获；管制俘获；规制俘获
 2.regulatory sequence 调节序列
 3.regulatory system 监管体系；监管制度
-4.regulatory system 调节系统
-5.china banking regulatory commission 中国银行业监督管理委员会
-6.regulatory agency[计]管理机构；调节机构
+4.china banking regulatory commission 中国银行业监督管理委员会
+5.regulatory agency [计]管理机构；调节机构
 [联]regu (规则) + latory (相关) ——> 监管相关的
 
 reject / rɪˈdʒekt /
@@ -3639,8 +3554,8 @@ n.（对提议、建议或请求的）拒绝接受；（对求职者、求学等
 2.These feelings of rejection and hurt remain. 这些遭到拒绝和伤害的感觉仍然存在。
 3.of a rejection process, especially when they were first introduced in Europe. 拒绝的过程，特别是当它们第一次被引入欧洲的时候。
 [搭]
-1.transplant rejection 免疫  移植排斥；移植排斥反应；移植器官排斥
-2.Rejection Risk 拒收险； 保险  货物拒收险
+1.transplant rejection 移植排斥；移植排斥反应；移植器官排斥
+2.Rejection Risk 拒收险；货物拒收险
 3.power supply rejection ratio 电源电压抑制比；电源抑制比；电源供应抑制比率；的电源抑制比
 4.rejection rate 废品率；报废率
 5.load rejection 甩负荷
@@ -3666,7 +3581,7 @@ v. <正式>请求，要求；要求（某人）做……，请求（某人）做
 require / rɪˈkwaɪər /
 v. 需要；要求做（某事），规定
 [例]
-1.Does Your Ladyship require anything?夫人你需要点什么？《牛津词典》。
+1.Does Your Ladyship require anything?夫人你需要点什么？。
 2.All decisions would require unanimity. 所有决定都需要全体一致同意。
 3.Bitmapped maps require huge storage space. 位元映射地图需要巨大的存储空间。
 [搭]
@@ -3678,7 +3593,7 @@ v. 需要；要求做（某事），规定
 requirement / rɪˈkwaɪəmənt /
 n. 要求，必要条件；需要（要求）的事物
 [例]
-1.What is the minimum entrance requirement for this course?这个学程的基本入学条件是什么？《牛津词典》。
+1.What is the minimum entrance requirement for this course?这个学程的基本入学条件是什么？。
 2.Evidence of basic proficiency in English is part of the admissions requirement. 基本英语水平的证明是录取条件的一部分。
 3.Could you tell me the requirement for my term paper?你能告诉我写学期论文的要求吗？。
 [搭]
@@ -3699,9 +3614,7 @@ v. 制止，阻止；克制，抑制；控制（某事物）；剥夺……的�
 [搭]
 1.restrain from 制止
 2.restrain oneself 约束自己；收聚；自制；约束
-3.Sartorial Restrain 新绅士味道
-4.restrain oneself 自制，约束自己
-5.restrain fromv.  抑制；制止；阻止…去…
+3.sartorial restrain 新绅士味道
 [联]re- (再次，重复) + strain (拉紧，用力) ——> 重新拉紧
 
 restraint / rɪˈstreɪnt /
@@ -3715,8 +3628,7 @@ n. 克制，抑制；控制，限制；管制措施，制约因素；<正式>（
 2.self-restraint 自我设限；自我约束；自我克制
 3.lateral restraint 侧向约束；侧向束缚；横向限制
 4.without restraint 无拘无束地；自由自在地
-5.restraint of traden.  贸易管制
-6.lateral restraint 侧向约束
+5.restraint of trade 贸易管制
 [联]re- (再次，重复) + strain (拉紧，束缚) ——> 约束，克制
 
 restrict / rɪˈstrɪkt /
@@ -3741,9 +3653,7 @@ n. 限制规定，限制法规；（受）限制（状态），（受）约束�
 1.restriction enzyme 遗  限制酶； 遗  限制性内切酶；限制酵素；限制性内切
 2.Export Restriction 出口限制；出口限度
 3.restriction endonuclease 限制性核酸内切酶；限制性内切酶；限制性内切核酸酶；限制酶
-4.restriction enzyme 限制性内切酶；限制酶
-5.restriction fragment 限制酶断片
-6.restriction endonuclease 限制酶，限制性内切核酸酶
+4.restriction fragment 限制酶断片
 [联]re (再次) + strict (严格的) + ion (名词后缀) ——> 再次严格化的过程
 
 restrictive / rɪˈstrɪktɪv /
@@ -3754,7 +3664,7 @@ adj. 限制（性）的，约束（性）的；（语法）  限定性的
 3.With such restrictive conditions attached to government aid, the bank is doing its best to wriggle out from under it. 在政府资助所附带的限制性条件下，该银行现在不得不想法设法摆脱它的影响。
 [搭]
 1.restrictive endorsement 会计  限制性背书；限制背书；限定背书；限制转让的背书
-2.Restrictive Covenant 限制性的约言；限制性条款；约束性规定； 经  限制盟约
+2.restrictive covenant 限制性的约言；限制性条款；约束性规定； 经  限制盟约
 3.restrictive cardiomyopathy 限制型心肌病；限制性心肌病；限制型心脏病；较少见的窄缩性心肌症
 4.restrictive condition 限制条件
 [联]re + strict + ive ——> 再严格一点的，带有约束性的
@@ -3794,7 +3704,7 @@ n. 机器人，自动操作装置；机器般的人；<南非>自动交通信号
 3.Robot Jox 机械威龙；机器人战士
 4.mobile robot 移动式遥控装置
 5.robot arm 机械手臂；机器手
-6.humanoid robotn.  人形机器人
+6.humanoid robot 人形机器人
 [联]rob (偷窃) + ot (无特定含义，仅为字母组合) ——> 机器人像是会偷走人类工作的助手
 
 robotic / rəʊˈbɒtɪk /
@@ -3807,7 +3717,6 @@ adj. 机器人的，机械的；像机器人的，机械呆板的；机器人舞
 1.robotic arm 机械手臂；机器臂
 2.robotic welding 机扑焊接；机器人焊接
 3.robotic technology 机扑学；机器人学；机器人技术；机器人科技
-4.robotic welding 机扑焊接
 [联]robotic (机器人般的) + ic (形容词后缀) ——> 与机器人相关的
 
 routine / ruːˈtiːn /
@@ -3841,7 +3750,7 @@ adv. 例行公事地，常规地；惯常地，毫不意外地
 
 rule / ruːl /
 n. 规章，条例；（语言、科学等的）规则，法则；行事准则，指导方针；常规，惯常做法；统治，管辖；尺，直尺；铅线印出的线，破折号；<澳> 澳大利亚式橄榄球规则（两队各18人参赛）
-v. 统治，管辖；支配，控制；占首要地位；（尤指对法律问题）判定，裁定；（用尺等）划（线）；<非正式> 好极了，非常棒；（行星）对（黄道十二宫图的宫，房子，生活等）有影响；（价格或贸易商品的价格）普遍处于某一水平（或坚挺趋势）
+v. 统治，管辖；支配，控制；占首要地位；（尤指对法律问题）判定，裁定；（用尺等）划（线）；<非正式> 好极了，非常棒；（行星）对（黄道十二宫图的宫，房子，生活等）有影响
 [例]
 1.His rule was ordained by heaven. 他的统治是天命的。
 2.That's a good rule to go by. 那是要遵守的好规则。
@@ -3883,11 +3792,11 @@ sentence / ˈsentəns /
 n. 句子，句；判决，判刑；命题
 v. 判决，宣判，判刑
 [例]
-1.What does this sentence mean?这个句子是什么意思？《牛津词典》。
+1.What does this sentence mean?这个句子是什么意思？。
 2.That sentence is not grammatical. 那个句子不合语法。
 3.This sentence doesn't make sense. 这个句子不通。
 [搭]
-1.suspended sentence 法  缓刑；缓期处刑；暂缓监禁；缓期执行
+1.suspended sentence 缓期处刑；暂缓监禁；缓期执行
 2.topic sentence 主题句；正题句；三种主题句表达模板
 3.compound sentence 复合句子；复合句；并列复合句
 [联]sent (送) + ence (名词后缀) ——> 发送的状态
@@ -3900,7 +3809,7 @@ adj.（音乐家）伴奏的
 2.The Arab League is meeting in emergency session today. 阿拉伯国家联盟今天正在举行紧急会议。
 3.From September until December, Congress remained in session. 9月到12月国会一直处在开会期。
 [搭]
-1.session layer 计  会话层； 计  对话层；会议层；会晤层
+1.session layer 会话层；对话层；会议层；会晤层
 2.Session Hijacking 会话劫持；连线劫持；联机截夺；连线截夺
 3.morning session 上午班；上午市；早盘
 4.plenary session 全体大会
@@ -3947,7 +3856,6 @@ n. [机] 消音器；使沉默的人
 1.noise silencer 消音器； 航  消声器； 电子  静噪器
 2.air silencer 空气消音器； 声  空气消声器
 3.exhaust silencer 排气消声器；消声器；减音器；消音器
-4.exhaust silencer 排气消声器
 [联]silence (沉默) + -er (表人或物) ——> 消声器
 
 silent / ˈsaɪlənt /
@@ -4005,11 +3913,9 @@ n.（Since）（法、美）新斯（人名）
 3.She's been off work since Tuesday. 星期二以来她一直没上班。
 [搭]
 1.ever since 从那时起；从那时起一直到现在；自从；此后一直
-2.Since then 从此以后；从那以后；自从那时起；从那之后
+2.since then 从此以后；从那以后；自从那时起；从那之后
 3.long since 很久以前；早已
-4.ever sinceadv.  从那时到现在
-5.long since 很久以前；从前
-6.since when 自什么时候起，打什么时候开始
+4.since when 自什么时候起，打什么时候开始
 [联]since (从……以后) + ever (曾经) ——> 从曾经
 
 sincere / sɪnˈsɪə(r) /
@@ -4022,7 +3928,6 @@ adj. 衷心的，诚挚的；（人）真诚的，诚恳的
 1.sincere desire 诚心诚意；诚恳诚意；披肝沥胆；屏气凝神
 2.Sincere-Home 贝尔莱德；盛熙；莱德；泡网
 3.Sincere Watch 先施表行；钟表销售公司先施钟表
-4.sincere desire 诚心诚意
 [联]sincere (真诚的，诚挚的) + sincere (真诚的，诚挚的) ——> 由自身含义联想，强调真诚的重要性
 
 sincerely / sɪnˈsɪəli /
@@ -4033,9 +3938,8 @@ adv. 由衷地，真诚地
 3.I sincerely hope you will soon recover. 我诚恳地盼望你早日康复。
 [搭]
 1.sincerely to you 狼少女辛希雅
-2.Yours Sincerely 您忠诚的；您真诚的；忠实于你的；谨启
-3.SINCERELY YOURS 您非常真挚的朋友；结束语；你的真挚的
-4.sincerely yours 你的真挚的；您忠诚的；谨致问候
+2.yours sincerely 您忠诚的；您真诚的；忠实于你的；谨启
+3.sincerely yours 你的真挚的；您忠诚的；谨致问候
 [联]sincere (真诚的) + ly (副词后缀) ——> 真诚地
 
 sincerity / sɪnˈserəti /
@@ -4045,32 +3949,32 @@ n. 真诚，真挚
 2.He impressed her with his sincerity. 他的真诚打动了她。
 3.I was impressed with his deep sincerity. 让我铭记在心的是他深切的诚意。
 [搭]
-1.Sincerity Tone 真情专辑
-2.disappearance of Sincerity 诚信缺失
-3.Love and Sincerity 爱与诚
+1.sincerity tone 真情专辑
+2.disappearance of sincerity 诚信缺失
+3.love and Sincerity 爱与诚
 4.in all sincerity 非常真诚地；衷心地
 [联]sincerity (真诚，诚挚) + city (城市) ——> 一座充满真诚的城市
 
 single / ˈsɪŋɡ(ə)l /
 adj. 单一的，单个的；单身的，未婚的；各自的，分别的；单人的，单人用的；<英>（票）单程的；统一的；由一个部分构成的；（花）单瓣的；唯一的；（酒的）一份
-n. 单曲唱片；（板球中的）一分打，（棒球中的）一垒打；单身者，未婚者；<英> 单程票；（旅馆等的）单人房间；单打（比赛）；<美，非正式> 一元纸币；（鸣钟术）不同次序鸣钟法；<美>（影剧院的）一张票，一个座位；一份酒
+n. 单曲唱片；（板球中的）一分打，（棒球中的）一垒打；单身者，未婚者；<英> 单程票；（旅馆等的）单人房间；单打（比赛）；<美，非正式> 一元纸币
 v. 挑选，选出；（棒球）击出一垒打；对（幼苗，幼树）进行间苗；将（铁轨）变成单线；以一垒打使（跑垒）得分
 [例]
 1.The single is titled "White Love. "这支单曲名为《白色之恋》。
-2.Are you still single?你还是单身吗？《牛津词典》。
-3.When will the single currency be operable?什么时候实行单一货币？《牛津词典》。
+2.Are you still single?你还是单身吗？。
+3.When will the single currency be operable?什么时候实行单一货币？。
 [搭]
 1.single room 单人房；单人间
 2.A Single Man 单身男人；单身男子；单身汉
 3.single market 统一市场；北京单场；单一市场；同一市场
-4.every single[口语][加强语气]每一个
+4.every single [口语][加强语气]每一个
 5.single chip 单晶片
 6.single crystal 单晶
 [联]single (单一的) + room (房间) ——> 单人间
 
 stand / stænd /
-v. 站，站立；起立，站起来；使直立，竖放；位于（某处或某位置）；高度为，高达；处于（某种状态）；停，停靠；搁，不流动；很可能会；持有（某种态度或看法）；达特定水平（或数量、高度等）；保持有效，维持不变；忍受，容忍；经得起，经受；请（某人吃饭、喝酒）；竞选，当候选人；屹立，矗立；走，迈（一小步）；具有……地位，排在第……位；（不小心）踩到；承担……职责；担任（板球赛）裁判员
-n. 架，座，台；立场，见解；货摊，售货亭；反抗，抵抗；看台；摊位，展台；证人席；坚守时间，总计得分；停车处，站；林分；<南非>地块；舞台，讲台，演奏台；通常站立（或坐）的位置；停止，停住；<罕>一群猎鸟
+v. 站，站立；起立，站起来；使直立，竖放；位于（某处或某位置）；高度为，高达；处于（某种状态）；停，停靠；搁，不流动；很可能会；持有（某种态度或看法）
+n. 架，座，台；立场，见解；货摊，售货亭；反抗，抵抗；看台；摊位，展台；证人席；坚守时间，总计得分；停车处，站；林分；<南非>地块；舞台，讲台，演奏台
 [例]
 1.I couldn't stand that yowling. 我无法忍受那种哀嚎。
 2.She was barely able to stand. 她勉强能站立。
@@ -4079,18 +3983,17 @@ n. 架，座，台；立场，见解；货摊，售货亭；反抗，抵抗；�
 1.stand by 袖手旁观；支持；站在旁边
 2.stand for 代表；代替；象征；主张
 3.stand up 站起来；起立；站得住脚；耐用
-4.stand upv.  站起来；坚持；竖立；站得住脚；拥护
-5.stand in 定位替身；代演员站位
-6.stand on 坚持；依靠；位于；拘泥于；[航]持续向同一方向航行
+4.stand in 定位替身；代演员站位
+5.stand on 坚持；依靠；位于；拘泥于；[航]持续向同一方向航行
 [联]standard (标准) + -ard (表示做某事的人) ——> 坚持标准的人
 
 standard / ˈstændəd /
-n.（品质的）标准，水平，规范；正常的水平，应达到的标准；行为标准，道德水准（standards）；<英，史>（小学）（考试达到的）级别；法定度量衡标准；旗杆；流行曲调（或歌曲）；茎干挺直的树（或灌木）；（植）（蝶形花的）旗瓣；（植）（鸢尾属植物的）直立花瓣；直立水管（或煤气管）
-adj. 普通的，标准的；（大小、尺寸、式样等）常规的，一般性的；权威的，广泛认可的；（语言）合乎规范的，符合标准的；茎干挺直的树（或灌木）；（整成树形并嫁接于挺直茎干上的）灌木
+n.（品质的）标准，水平，规范；正常的水平，应达到的标准；行为标准，道德水准（standards）；<英，史>（小学）（考试达到的）级别；法定度量衡标准
+adj. 普通的，标准的；（大小、尺寸、式样等）常规的，一般性的；权威的，广泛认可的；（语言）合乎规范的，符合标准的；茎干挺直的树（或灌木）
 [例]
 1.The paper was of non-standard size. 这种纸的大小不标准。
 2.Their standard of living is very low. 他们的生活水平很低。
-3.Who sets the standard for water quality?水质标准由谁来制订？《牛津词典》。
+3.Who sets the standard for water quality?水质标准由谁来制订？。
 [搭]
 1.standard deviation 统计  标准差； 物  标准偏差； 统计  标准离差；标准方差
 2.Standard & Poor's 标准普尔；标普；标准普尔公司；普尔
@@ -4123,7 +4026,6 @@ v. 使合乎标准；按标准校准；制定标准（standardize 的过去式�
 1.Standardized test 标准化考试；标准化测试；标准测试
 2.standardized rate 标化率；标准化率
 3.standardized signal 电子  标准化信号；标准化
-4.standardized test 标准化考试；标准化测验
 [联]stan (站立) + dard (标准) + ized (动词后缀，使成为) ——> 标准化
 
 standby / ˈstændbaɪ /
@@ -4135,12 +4037,11 @@ adv. 凭剩余廉价票地
 2.Canned varieties of beans and peas are a good standby. 各种豆类罐装食品是很好的备用食品。
 3.The emergency services were put on standby after a bomb warning. 接到炸弹警报后，各紧急救助部门进入待命状态。
 [搭]
-1.standby mode 待机模式；待命模式； 计  备用方式；候命状态
+1.standby mode 待机模式；待命模式；备用方式；候命状态
 2.on standby 待命；待命状态；严阵以待；等退票
-3.standby valve 机  应急阀门； 机  备用阀门；应急阀门备用阀门
-4.on standby 待命；待命状态；严阵以待
-5.standby power 备用电源；储用功率
-6.standby letter of credit 备用信用证
+3.standby valve 应急阀门；备用阀门；应急阀门备用阀门
+4.standby power 备用电源；储用功率
+5.standby letter of credit 备用信用证
 [联]stand (站立) + by (旁边) ——> 做好准备，待命
 
 standing / ˈstændɪŋ /
@@ -4149,19 +4050,18 @@ n. 地位，身份，声望；（党派或个人的）受欢迎程度，支持�
 v. 站立，直立；起立，站起来；使直立，竖放（stand 的现在分词）
 [例]
 1.Lee was standing right behind her. 李就站在她身后。
-2.Who's the girl standing behind Jan?站在简身后的女孩是谁？《牛津词典》。
+2.Who's the girl standing behind Jan?站在简身后的女孩是谁？。
 3.We waited, standing up, for an hour. 我们站着等了一个小时。
 [搭]
 1.Standing ovation 起立鼓掌；长时间起立鼓掌
 2.Last One Standing 与敌同行；TVB 与敌同行；明争暗斗；最后一个常设
 3.credit standing 信用地位；信誉情况
-4.credit standing 信用状况；商业信誉
-5.standing up 站着；起立
-6.standing by 准备战斗
+4.standing up 站着；起立
+5.standing by 准备战斗
 [联]standing (站立) + -ing (动名词后缀) ——> 站立的状态
 
 steal / stiːl /
-v. 偷窃，盗窃；剽窃，窃取（观点）；悄悄地移动；（在棒球比赛中）偷（垒）；（在篮球或冰球比赛中）断（球），截（球）；偷偷做；偷拿，私自拿；抢（镜头、戏等）；（体育运动中）意外赢得；骗走
+v. 偷窃，盗窃；剽窃，窃取（观点）；悄悄地移动；（在棒球比赛中）偷（垒）；（在篮球或冰球比赛中）断（球），截（球）；偷偷做；偷拿，私自拿
 n. 极廉价的物品，低价；（尤指篮球比赛中的）断球；（棒球比赛中的）偷垒；<美>偷窃，行窃；剽窃
 [例]
 1.Hunger drove her to steal. 饥饿迫使她去偷窃。
@@ -4188,7 +4088,6 @@ adj. 隐形的；秘密的
 3.stealth fighter 隐形战机；隐形战斗机；空中悍将；隐型战斗机
 4.by stealth 偷偷地；暗中
 5.stealth aircraft 隐形飞机
-6.stealth bomber 隐形轰炸机
 [联]stealth (潜行，隐蔽) + art (艺术，技巧) ——> 隐形艺术
 
 stealthy / ˈstelθi /
@@ -4313,7 +4212,7 @@ adj. 自杀的，与自杀有关的
 v. 自杀
 [例]
 1.He's bent on suicide. 他一心想自杀。
-2.What are the signs that foreshadow a suicide?自杀有什么前兆？《柯林斯英汉双解大词典》。
+2.What are the signs that foreshadow a suicide?自杀有什么前兆？。
 3.You write very movingly of your sister Amy's suicide. 你把你妹妹埃米的自杀写得非常令人感伤。
 [搭]
 1.Suicide SquadX 特遣队；自杀小队；敢死队
@@ -4347,8 +4246,7 @@ adj. 适宜的，合适的
 2.Suitable temperature 适用温度；合用温度；舒适温度；运用温度
 3.Suitable film thickness 适应薄膜厚度
 4.suitable for 适合…的，适合于…
-5.suitable temperature 适用温度；舒适温度
-6.suitable candidate 合适人选
+5.suitable candidate 合适人选
 [联]suit (适合的) + able (能够) ——> 适合的、能够的
 
 superintendence / ˌsuːpərɪnˈtendəns; ˌsjuːpərɪnˈtendəns /
@@ -4393,12 +4291,11 @@ n. 上级，上司；<正式>优胜者，高手；修道院院长（或其他宗
 2.He always looks so superior. 他总是显得那么有优越感。
 3.The enemy was tactically superior. 敌人拥有战术上的优势。
 [搭]
-1.Lake Superior 苏必利尔湖；苏必略湖；苏比利尔湖；位于苏必利
-2.Superior Room 高级房；高级间；高级套房
+1.lake superior 苏必利尔湖；苏必略湖；苏比利尔湖；位于苏必利
+2.superior room 高级房；高级间；高级套房
 3.superior quality 优等的质量；质量上乘；优等品；质地考究
-4.superior quality 优质，上等品；高级货品
-5.superior performance 性能优越
-6.superior in 在…方面优越
+4.superior performance 性能优越
+5.superior in 在…方面优越
 [联]super (极好的) + ior (后缀，表示人或物) ——> 优越的
 
 superiority / suːˌpɪəriˈɒrəti /
@@ -4412,8 +4309,7 @@ n. 优越，优势；优越感，骄傲自大
 2.superiority complex 优越情结；优越感；自傲情结
 3.Our superiority 我们的优势；纳薇优势
 4.air superiority 空中优势；空优战斗机；空优
-5.superiority complex 优越感；自尊情结；过于自尊
-6.overwhelming superiority 绝对优势
+5.overwhelming superiority 绝对优势
 [联]super (超级) + iority (来源于拉丁语 "ire" 意为“去”，在这里表示状态或性质) ——> 优越感
 
 superiorly / sjuːˈpɪərɪəlɪ /
@@ -4452,7 +4348,6 @@ adj. 至上主义者的
 1.White supremacist 白人至上主义者；白人至上论者
 2.White Supremacist Movement 白人至上主义运动
 3.male supremacist 大男人主义者
-4.white supremacist 白人至上主义者
 [联]super (超过) + male (男性) + -ist (表示...的人) ——> 极端男性主义者
 
 supremacy / suːˈpreməsi; sjuːˈpreməsi /
@@ -4480,9 +4375,7 @@ v. 用工具处理水果（尤指柑橘类）以达到最佳效果
 1.Supreme Court 最高法院；高等法院；最高法庭；最高裁判所
 2.Supreme Commander 最高指挥官；超级指挥官；最高批示官；最高统帅
 3.Supreme Court of Canada 加拿大最高法院；加拿大最高法庭；加拿大联邦法院；最高法院
-4.supreme court 最高法院
-5.supreme commander 最高指挥官；最高统帅；最高司令官
-6.supreme being 上帝；至高无上的力量
+4.supreme being 上帝；至高无上的力量
 [联]supreme (最重要的，最高的) + power (权力) ——> 最高权力
 
 supremely / suːˈpriːmli; sjuːˈpriːmli /
@@ -4504,7 +4397,7 @@ adj. 不可靠的，不可信的；可疑的，可能有危险的；有问题的
 [例]
 1.Police suspect a local gang. 警方怀疑当地的一个不良帮派。
 2.I suspect he's a closet fascist. 我怀疑他是秘密的法西斯分子。
-3.Whom do the police suspect?警方怀疑谁？《牛津词典》。
+3.Whom do the police suspect?警方怀疑谁？。
 [搭]
 1.Prime Suspect 重案真凶；头号嫌疑犯；头号疑犯；头号嫌犯
 2.Suspect Zero 零号嫌疑犯；头号通缉犯；洛城特警
@@ -4533,11 +4426,10 @@ n. 暂停，中止；暂令停职（或停学、停赛等）；（车辆的）�
 3.The active suspension system gives the car a very smooth ride. 活动的悬挂系统使汽车行驶起来非常平稳。
 [搭]
 1.suspension bridge 交  悬索桥；吊桥；悬伺；悬桥
-2.Active suspension 主动悬架；主动式悬吊；主动式悬架
-3.Rear Suspension 后悬吊；后避震；后悬架；后悬吊系统
-4.suspension bridge 吊桥
-5.suspension system 悬架系统；悬挂装置；悬浮体系；悬置系统
-6.in suspension 悬浮中
+2.active suspension 主动悬架；主动式悬吊；主动式悬架
+3.rear suspension 后悬吊；后避震；后悬架；后悬吊系统
+4.suspension system 悬架系统；悬挂装置；悬浮体系；悬置系统
+5.in suspension 悬浮中
 [联]sus (怀疑) + pension (养老金) ——> 对养老金的怀疑
 
 thief / θiːf /
@@ -4587,8 +4479,7 @@ n. 对待，待遇；处理，讨论；治疗，医治；（净化或防治）�
 2.Water treatment 建,环境  水处理；给水处理；水净化
 3.national treatment 经  国民待遇；国民待遇原则；国家待遇；国民待遇条款
 4.heat treatment 热处理
-5.water treatment 水处理；水的处理
-6.wastewater treatment 污水处理
+5.wastewater treatment 污水处理
 [联]medicine + ment ——> 医疗，疗法
 
 treaty / ˈtriːti /
@@ -4634,10 +4525,8 @@ adj. 骗人的，使人产生错觉的；<美>（身体部位）虚弱的，有�
 [搭]
 1.hat-trick 帽子戏法；球中指连续使三个击球员退场；同一人连进三球
 2.do the trick 达到理想的结果；做成功；做胜利；到达幻想的成果
-3.trick or treat 不给糖就捣蛋；不给糖就捣乱；不请吃就捣乱
+3.trick or treat 不招待就使坏（指万圣节孩子们挨家逐户要糖果等礼物，如不遂愿便恶作剧一番的风俗）
 4.do the trick 获得成功
-5.trick or treat 不招待就使坏（指万圣节孩子们挨家逐户要糖果等礼物，如不遂愿便恶作剧一番的风俗）
-6.hat trick 帽子戏法（指连入三球），[板球]连中三柱（使对方三击球手退场）
 [联]deceive (欺骗) + craft (技巧，手艺) ——> 欺骗的技巧
 
 trickle / ˈtrɪkl /
@@ -4652,7 +4541,6 @@ n. 慢速移动；滴，淌，细流
 2.trickle charge 电  涓流充电；小电流充电； 电  连续补充充电；点滴式充电
 3.Trickle-down Effect 涓滴效应；滴流效应；滴漏效应
 4.trickle down 向下滴流
-5.trickle irrigation 滴灌；滴灌系统
 [联]trickle (细流，滴流) + leak (泄漏) ——> 细微的泄漏
 
 trickster / ˈtrɪkstər /
@@ -4692,9 +4580,8 @@ prep. 代替
 1.Miami Vice 迈阿密风云；迈阿密风暴；迈阿密天龙；迈阿密罪恶
 2.vice-president 副校长；副总裁；大学副校长；副院长
 3.vice admiral 海军中将
-4.vice president 副总统；副主席
-5.vice versa 反之亦然
-6.vice director 副处长；副主任；副院长；副会长
+4.vice versa 反之亦然
+5.vice director 副处长；副主任；副院长；副会长
 [联]vice (副的) + principal (校长，校长) ——> 副校长
 
 whisper / ˈwɪspə(r) /
@@ -4734,8 +4621,7 @@ v. <古>知道；即，就是
 1.wit and beauty 才色兼备；花语才色兼备
 2.Stick Wit U 无条件完美结局；肯定是快乐结局；结局；无条件幸福结局
 3.mother wit 天赋智力；天资；常识
-4.mother witn.  天生的智力
-5.at one's wit's end 不知所措；智穷力竭
+4.at one's wit's end 不知所措；智穷力竭
 [联]wit (智慧) + -ness (名词后缀) ——> 聪明才智
 
 withdraw / wɪðˈdrɔː /
@@ -4747,10 +4633,8 @@ v. 提，取（银行账户中的钱款）；停止提供，不再给予； 退�
 [搭]
 1.to withdraw an offer 撤回报盘；撤消报盘；撤销报盘；撤报答盘
 2.withdraw cash 取钱；提取现金；取现；取现金
-3.Withdraw Money 取钱；提款；提钱；取回存款
-4.withdraw fromv.  退出；离开
-5.withdraw money 取钱
-6.withdraw cash 取现；取钱
+3.withdraw money 取钱；提款；提钱；取回存款
+4.withdraw from 退出；离开
 [联]with (带有）+ draw (拉回）——> 撤回
 
 withdrawal / wɪðˈdrɔːəl /

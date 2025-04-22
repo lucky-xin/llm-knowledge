@@ -53,9 +53,8 @@ v. <非正式>把……作为纪念品
 [搭]
 1.souvenir shop 纪念品商店
 2.keep a souvenir 留作纪念
-3.souvenir shop 纪念品商店
-4.Expo Souvenir 世博会留念品；世博会怀念品；世博会回忆品
-5.expo-themed souvenir 世博会纪念品
+3.Expo Souvenir 世博会留念品；世博会怀念品；世博会回忆品
+4.expo-themed souvenir 世博会纪念品
 [联] souvenir 可以联想成“souvenir”（记住）+ “venir”（来），即带来回忆的东西
 
 artefact / ˈɑːrtɪfækt /
@@ -81,8 +80,8 @@ n. 手工制品，人造物；[医]假象，人为现象
 [搭]
 1.artificial intelligence 人工智能
 2.artificial light 人造光
-3.Artefact of Glory 人工制品的荣耀
-4.Artefact Studies 人工制品的研究；人工制品研究
+3.artefact of glory 人工制品的荣耀
+4.artefact studies 人工制品的研究；人工制品研究
 5.artefact pollution 人工污染；人为污染
 [联] artificial 可以联想成“art”（艺术）+ “ificial”（制作的）——> 人造的
 
@@ -295,11 +294,9 @@ v. <非正式>抛弃，丢掉（废旧物品）
 2.Junk mail fills up my mailbox every day. 垃圾邮件每天塞满我的邮箱。
 3.We should clear out the junk in our room. 我们应该清理房间里的杂物。
 [搭]
-1.junk food 垃圾食品
-2.scrap junk 回收废品
-3.junk food 垃圾食物；无营养的速食；华而不实的东西
-4.junk mail 垃圾邮件；邮寄宣传品
-5.space junk 太空垃圾，空间垃圾
+1.junk food 垃圾食物；无营养的速食；华而不实的东西
+2.space junk 太空垃圾，空间垃圾
+3.junk mail 垃圾邮件；邮寄宣传品
 [联] junk和jump谐音，想象跳跃着去捡垃圾
 
 landfill / ˈlændfɪl /
@@ -349,11 +346,10 @@ n. 洁肤液，护肤液，润肤乳
 2.This lotion is good for dry skin. 这种乳液对干性皮肤很好。
 3.I use aloe vera lotion after sun exposure. 我在日晒后使用芦荟乳液。
 [搭]
-1.body lotion 身体乳
+1.body lotion 身体乳；润肤露；身体乳液；润肤霜
 2.face lotion 面部乳液
-3.body lotion 润肤露；身体乳液；润肤霜
+3.hand lotion 护手霜
 4.moisturizing lotion 保湿美颜乳；保湿营养乳液
-5.hand lotion 护手霜
 [联] lotion由“lot”（许多）+ “ion”（名词后缀）构成，想象许多液体涂抹在皮肤上
 
 shampoo / ʃæmˈpuː /
@@ -496,10 +492,9 @@ n. 打扫，清扫；挥动；巡行，扫荡；绵延弯曲的地带； 广度�
 2.The wind swept across the desert. 风横扫过沙漠。  
 3.The storm swept through the village, leaving destruction behind. 风暴席卷村庄，留下一片狼藉。  
 [搭]  
-1.sweep away 清除
+1.sweep away 清除；一扫而空
 2.sweep under the rug 掩盖，隐瞒
 3.sweep the floor 扫地；清洁地面；清扫地板，拖地板
-4.sweep away 清除；一扫而空
 [联] sweep 象征“快速清除”
 
 mattress / ˈmætrəs /
@@ -573,7 +568,7 @@ abbr.（PAD）外周动脉疾病（peripheral arterial disease）
 3.The doctor padded the wound with gauze. 医生用纱布填充伤口。
 [搭] 
 1.note pad 笔记本
-diaper pad 尿布垫
+2.diaper pad 尿布垫
 [联] pad 和“薄片”或“护垫”有关，想象一片用来保护的东西。
 
 blanket / ˈblæŋkɪt /
@@ -659,10 +654,9 @@ v. 用订书钉订住；把……分级
 3.Staple the documents together for easy transport. 将文件订在一起便于携带。
 [搭] 
 1.staple gun 订书枪
-2.staple food 主食
-3.staple food 主食；主粮
+2.staple food 主食；主粮
+3.staple fibre 人造短纤维
 4.staple fiber 纺纱用的人造短纤维
-5.staple fibre 人造短纤维
 [联] staple 和“固定”或“主要”有关，想象用来固定东西的订书钉
 
 nail / neɪl /
@@ -794,7 +788,7 @@ adj.（职业类型）短期合同制的，兼职的
 2.She manages her investment portfolio carefully. 她仔细管理着自己的投资组合。
 3.His portfolio has been very successful this year. 他今年的投资组合表现非常成功。
 [搭] 
-investment portfolio 投资组合
+1.investment portfolio 投资组合
 [联] port(携带) + folio(页码) ——> 携带文件的工具
 
 paperback / ˈpeɪpərbæk /
@@ -818,7 +812,7 @@ v. 向……散发小册子
 2.They distributed pamphlets to promote their product. 他们分发小册子来推广他们的产品。
 3.The pamphlet provides useful information for tourists. 这本小册子为游客提供了有用的信息。
 [搭] 
-information pamphlet 信息小册子
+1.information pamphlet 信息小册子
 [联] pan(广泛) + phlet(小) ——> 广泛传播的小东西
 
 booklet / ˈbʊklət /
@@ -866,7 +860,7 @@ v. 用化妆纸揩去；饰以薄纱
 3.The tissue is made from recycled paper. 这种纸巾是由再生纸制成的。
 [搭] 
 1.tissue paper 纸巾
-2.tissue engineering组织工程学
+2.tissue engineering 组织工程学
 3.soft tissue 软组织
 4.tissue culture 组织培养；体素培养
 [联] tiss(编织) + ue(名词后缀) ——> 编织而成的薄物
@@ -1050,8 +1044,7 @@ n. 基本部分，要素；元素；有点，少量；一群人；恶劣天气�
 1.elementary school 小学  
 2.periodic table 元素周期表
 3.finite element 有限元
-4.finite element method (fem) 有限元素法
-5.finite element method [计]有限元法；[化]有限单元法
+4.finite element method [计]有限元法；[化]有限单元法
 [联] ele (一) + ment (物) ——> 基本单元
 
 factor / ˈfæktər /
@@ -1078,9 +1071,8 @@ v. <英> 强制（精神病人）入院；将……制成切片；切开，切�
 [搭]  
 1.section line 截面线  
 2.cross-section 截面图
-3.cross section 横截面
+3.cesarean section 剖腹产术
 4.in this section 在这部分；本节内容
-5.cesarean section 剖腹产术
 [联] sec (切) + tion (名词后缀)——> 切开的部分
 
 tag / tæɡ /
@@ -1193,9 +1185,8 @@ v. 给（窗户或房间）装上帘子；（用帘子）隔开，覆盖
 [搭] 
 1.curtain call 谢幕；谢幕时的掌声
 2.draw the curtain 拉开窗帘；开始行动
-3.curtain wall 幕墙；护墙
+3.behind the curtain 幕后；秘密
 4.glass curtain wall 玻璃幕墙
-5.behind the curtain 幕后；秘密
 [联] curtain 像屏障一样挡住视线的东西
 
 pane / peɪn /
@@ -1367,10 +1358,9 @@ n. 灯笼，提灯；（灯塔上的）灯室；天窗
 [搭]  
 1.lantern festival 元宵节  
 2.paper lantern 纸灯笼
-3.lantern festival 元宵节，灯节
+3.palace lantern 宫灯
 4.chinese lantern 可以折叠起来的灯笼
-5.palace lantern 宫灯
-[联] lan (光) + tern (形式) ——> 发光的形式  
+[联] lan (光) + tern (形式) ——> 发光的形式
 
 bulb / bʌlb /
 n. 电灯泡；（植物的）鳞茎，球茎；球状物
@@ -1634,7 +1624,6 @@ v.（用磨粉机）碾碎，磨成粉；（一大群人）闲逛，转悠；碾
 2.grain mill 谷物磨坊
 3.rolling mill 轧钢厂；辊轧机
 4.ball mill 球磨；[机]球磨机
-5.paper mill 造纸厂
 [联] mill (工厂) 与 production (生产) 相关联
 
 forge / fɔːrdʒ /
@@ -1646,8 +1635,7 @@ n. 锻铁炉，锻造车间
 3.The document was forged by someone who wanted to deceive. 文件是被想要欺骗的人伪造的。
 [搭]
 1.blacksmith forge 铁匠锻造车间
-2.forge ahead 努力前进
-3.forge ahead 继续进行，取得进展
+2.forge ahead 努力前进；继续进行，取得进展
 [联] forge (锻造) 与 metal (金属) 相关联
 
 alloy / ˈælɔɪ /
@@ -1716,11 +1704,10 @@ n. 黄铜；铜管乐器；黄铜器，黄铜饰品；<非正式>高级官员，
 2.The soldier wore his brass on his uniform. 士兵在他的制服上佩戴着军衔标志。
 3.The music band played on brass instruments. 铜管乐队演奏了铜管乐器。
 [搭]
-1.brass band 铜管乐队
+1.brass band 铜管乐队；军乐队；黄铜带；吹奏乐队
 2.brasserie 餐厅
 3.top brass [口]高级军官；[口]要员；[航海]顶部轴衬
 4.brass wire 黄铜丝，铜丝
-5.brass band 军乐队；黄铜带；吹奏乐队
 [联] brass (黄铜) 与 durability (耐用性) 相关联
 
 bronze / brɑːnz /
@@ -1871,7 +1858,6 @@ v. 用帆布覆盖
 [搭]
 1.canvas shoes 帆布鞋
 2.cotton canvas 棉帆布；棉质油画布
-3.canvas shoes 帆布鞋
 [联] canv-as(e) -（表示布料）
 
 linen / ˈlɪnɪn /

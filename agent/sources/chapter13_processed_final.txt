@@ -44,15 +44,12 @@ installment / ɪnˈstɔːlmənt /
 n. 安装；分期付款；部分；就职
 [例]
 1.Martine puts it down to, among other things, soap operas and installment plans introduced in the 1970s. 此外，玛蒂娜将其归因于20世纪70年代推出的肥皂剧和分期付款计划。
-2.Martine puts it down to, among other things, soap operas and installment plans introduced in the 1970s.  Both played an important, although indirect, role in lowering the birth rate. 玛蒂娜将其归因于20世纪70年代推出的肥皂剧和分期付款计划。
-3.After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. 在第一期之后，狄更斯写信给这位画家，请他修改一幅狄更斯认为和自己的散文不那么相符的画。
+2.After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. 在第一期之后，狄更斯写信给这位画家，请他修改一幅狄更斯认为和自己的散文不那么相符的画。
 [搭]
 1.installment payment 会计  分期付款；分期付款的支付
 2.payment by installment 分期付款；合期付款；支付汇票
 3.pay by installment 分期付款
-4.installment plann.  分期付款方式；分期付款购物法
-5.installment payment 分期付款；分期付款帐户
-6.payment by installment 分期付款
+4.installment plan 分期付款方式；分期付款购物法
 [联]install (安装) + ment (名词后缀，表示状态或行为) ——> 安装的状态或行为
 
 storey / ˈstɔːri /
@@ -78,9 +75,8 @@ n. 高背扶手木长椅
 1.settle down 定居；安下心来；安家；成家
 2.settle down to 逐渐习惯于；专心致力于；专心致志于
 3.settle up 付清；清偿；付帐
-4.settle down 定居；安定下来；专心于
-5.settle inv.  迁入
-6.settle for 满足于
+4.settle in 迁入
+5.settle for 满足于
 [联]settle (解决，安定) + le (小的) ——> 小的解决
 
 inhabit / ɪnˈhæbɪt /
@@ -123,7 +119,6 @@ v. 以木工活制作；做木工
 [搭]
 1.John Carpenter 约翰·卡朋特；约翰·卡彭特；卡彭特
 2.Scott Carpenter 斯科特·卡彭特；卡彭特；标签
-3.Russell Carpenter 罗素·卡彭特；卡朋特；拉塞尔·卡朋特；标签
 [联]carpenter (木匠) + enter (进入) ——> 木匠开始进入工作状态
 
 install / ɪnˈstɔːl /
@@ -164,9 +159,8 @@ n. 体形，体格；（尤指车辆的）造型，构造；构件
 1.build up 增强；逐步建立
 2.Build to order 接单生产；订单生产；接单后生产
 3.Build to stock 存货生产；面向库存生产；计划式生产
-4.build up 增进，加强
-5.build on 依赖，依靠…；建立于；把…建立于…；以…为基础
-6.build in 插入；嵌入
+4.build on 依赖，依靠…；建立于；把…建立于…；以…为基础
+5.build in 插入；嵌入
 [联]buil (建筑) + d(过去式后缀) ——> 建筑的过去式或相关概念
 
 design / dɪˈzaɪn /
@@ -177,16 +171,16 @@ v. 设计，制图，构思；筹划，制订；预定，指定
 2.The product is at the design stage. 产品处于设计阶段。
 3.It was a simple but pleasing design. 这是一项简单但令人满意的设计。
 [搭]
-1.Web design 网页设计；网站设计；网站建设；网站设计要素
-2.Industrial Design 工业  工业设计； 专利  工业品外观设计；外观设计；企业策划
-3.Fashion Design 时装设计；时尚设计；服装设计；服装设计专业
+1.web design 网页设计；网站设计；网站建设；网站设计要素
+2.industrial design 工业  工业设计； 专利  工业品外观设计；外观设计；企业策划
+3.fashion design 时装设计；时尚设计；服装设计；服装设计专业
 4.design method 设计方法，设计法
 5.design for 设计来作
 6.system design 系统设计；制度设计
 [联]de (去掉) + sign (标志、符号) ——> 去掉符号
 
 receptive / rɪˈseptɪv /
-adj. （对观点、建议等）愿意倾听的，乐于接受的；能容纳的，可以接受的；（对治疗）反应良好的；（雌性动物）处于发情期的
+adj.（对观点、建议等）愿意倾听的，乐于接受的；能容纳的，可以接受的；（对治疗）反应良好的；（雌性动物）处于发情期的
 [例]
 1.She was always receptive to new ideas. 她总是愿意接受新观点。
 2.The voters had seemed receptive to his ideas. 选民似乎愿意接受他的想法。
@@ -195,7 +189,6 @@ adj. （对观点、建议等）愿意倾听的，乐于接受的；能容纳的
 1.receptive field 自  感受野；感受域；接收域
 2.receptive aphasia 感觉性失语症；感觉性失语；感受型失语症；失语症
 3.receptive relaxation 生理  容受性舒张；胃的容受性舒张；性松弛
-4.receptive field 感受野；接受域
 [联]receptive (愿意接受的，能接收的) + minded (心态) ——> 愿意接受的心态
 
 living room / ˈlɪvɪŋ ruːm /
@@ -211,7 +204,7 @@ n. 客厅：住宅中用于居住者共同社交活动的房间
 [联]living (生活) + room (房间) ——> 客厅
 
 settlement / ˈset(ə)lmənt /
-n. （解决争端的）协议，和解；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷
+n.（解决争端的）协议，和解；定居点，聚居地 ；殖民，开拓； <法律>（关于钱财转让的）协议（书）；（欠款的）支付，偿付；（地面或建筑物的）下沉，下陷
 [例]
 1.They mediated a settlement. 他们找到了一个解决方案。
 2.An amicable settlement was reached. 已达成和解。
@@ -219,8 +212,8 @@ n. （解决争端的）协议，和解；定居点，聚居地 ；殖民，开�
 [搭]
 1.international settlement 金融  国际结算；国际清算；国际贸易结算；国际结算课件 PPT
 2.cash settlement 金融  现金结算； 金融  现汇结算；现金交收；现金交割
-3.Settlement Price 结算价格； 物价  结算价；平仓价格；算价格
-4.differential settlementn.  不均匀沉降；[化]沉降差
+3.settlement price 结算价格； 物价  结算价；平仓价格；算价格
+4.differential settlement 不均匀沉降；[化]沉降差
 5.foundation settlement 地基沉降；基础沉降；地基沉陷
 6.final settlement 最终沉降；[法]最后的授与财产清算；最终结算
 [联]settle (解决，安定) + ment (表状态或结果的名词后缀) ——> 定居地，解决方案
@@ -283,7 +276,7 @@ n. 楼梯；<英>（尤指中小学和大学建筑物中的）楼梯间
 1.access staircase 通道楼梯；螺旋式回旋通道
 2.moving staircase 自动升降梯；活动楼梯；自动梯
 3.enclosed staircase 建  封闭楼梯间；防烟楼梯间；楼梯间
-4.spiral staircasen.  螺旋梯
+4.spiral staircase 螺旋梯
 [联]stair (楼梯) + case (情况，实例) ——> 楼梯的实例
 
 modification / ˌmɒdɪfɪˈkeɪʃ(ə)n /
@@ -297,8 +290,7 @@ n. 修改的行为（过程）；修改，更改；修饰
 2.post-transcriptional modification 转录后修饰
 3.chemical modification 化学  化学修饰；化学修饰调节
 4.surface modification 表面改质；表面饰变
-5.chemical modification 化学修饰；化学改质
-6.profile modification 齿形修整
+5.profile modification 齿形修整
 [联]modi (修改) + fication (名词后缀，表行为过程) ——> 修改的过程或行为
 
 inhabited / ɪnˈhæbɪtɪd /
@@ -364,7 +356,7 @@ v. 找到，找回；发现，发觉；（经过研究）找出，查明（find 
 [例]
 1.I found his amiability charming. 我发现他和蔼可亲温柔迷人。
 2.His new-found optimism dissolved. 他刚刚建立的乐观情绪消失了。
-3.Look what I've found!看我发现了什么！《牛津词典》。
+3.Look what I've found!看我发现了什么！。
 [搭]
 1.Lost and Found 失物招领处；失物招领；远在天边；天涯海角
 2.Lost & Found 失物招领；迷途探索；失物招领处；失去与得到
@@ -383,10 +375,9 @@ adj. 城市的，城镇的；黑人音乐的；住在都市的
 [搭]
 1.urban design 城市设计；城区设计；都市设计；城市规划
 2.urban legend 都会传奇；下一个就是你；都市传说；都市传奇
-3.urban planning 建  城市规划；城镇规划；都市规划；都市计划
-4.urban planning 城市规划；城镇规划
-5.urban construction 城市建设；城市工程
-6.urban development 城市发展；城市开发
+3.urban planning 城市规划；城镇规划；都市规划；都市计划
+4.urban construction 城市建设；城市工程
+5.urban development 城市发展；城市开发
 [联]u (你) + rb (日本游戏公司) + an (一个) ——> 你玩的一个日本游戏
 
 complicated / ˈkɑːmplɪkeɪtɪd /
@@ -427,7 +418,7 @@ n. 扶手；（楼梯等的）栏杆
 [搭]
 1.tubular handrail 管状荧光灯
 2.rectangular handrail 矩形扶手；游憩用地；长方形扶手；康乐用地
-3.Stair handrail 楼梯扶手
+3.stair handrail 楼梯扶手
 [联]hand (手) + rail (扶手) ——> 扶手
 
 bathing / ˈbeɪðɪŋ /
@@ -442,7 +433,7 @@ v. 洗浴（bath 的现在进行式）
 2.forest bathing 颐养身心的“森林浴
 3.Bathing Beauty 出水芙蓉
 4.bathing suit 泳衣
-5.bathing beachn.  海水浴场
+5.bathing beach 海水浴场
 [联]bat (蝙蝠) + hing (无实际意义，用作辅助记忆) ——> 蝙蝠在水中飞翔的场景可以帮助记忆 bathing (洗澡)
 
 compliance / kəmˈplaɪəns /
@@ -499,9 +490,8 @@ n. 扩大，扩张；扩充，展开；扩张物；膨胀
 1.expansion joint 建  伸缩缝； 机  伸缩接头；伸缩接缝
 2.expansion pack 资料片；扩展包；扩张资料片；首个拓展包
 3.thermal expansion 热  热膨胀；热膨胀系数；热力膨胀
-4.thermal expansion 热膨胀
+4.expansion coefficient 膨胀系数，膨胀率；展开系数
 5.business expansion 业务扩张，营业扩充；经济高涨
-6.expansion coefficient 膨胀系数，膨胀率；展开系数
 [联]ex (向外) + pansion (爱恋，情欲，盛怒，激愤) ——> 扩张，扩展
 
 saw / sɔː /
@@ -513,12 +503,10 @@ v. 看见；观看（电影、电视节目等）；理解，领会（see 的过�
 2.I saw Jack the other day. 我前几天看到杰克了。
 3.I saw yet another doctor. 我还看了另一位医生。
 [搭]
-1.Saw II 电锯惊魂；恐惧斗室；你死我活；电锯惊魂 II
-2.Saw III 电锯惊魂；恐惧斗室；恐惧斗室3死神在齿；电锯惊魂 III
+1.circular saw 圆锯
+2.diamond saw 金刚石锯；钻石圆锯
 3.Saw IV 电锯惊魂；回头是岸；夺魂锯
 4.saw blade 锯片；锯条
-5.circular saw 圆锯
-6.diamond saw 金刚石锯；钻石圆锯
 [联]saw (锯子) + tool (工具) ——> 锯子是一种工具
 
 basin / ˈbeɪs(ə)n /
@@ -561,8 +549,7 @@ adj. 幼儿教育的
 2.nursery rhyme 儿歌；童谣；摇篮曲；儿童佛乐
 3.Nursery Room 哺乳室；育婴室；托儿室
 4.nursery stock 苗木
-5.nursery schooln.  幼儿园
-6.nursery tale 童话
+5.nursery tale 童话
 [联]nur (养育) + sery (谐音“瑟”) ——>  nursery (托儿所，苗圃)
 
 modifier / ˈmɒdɪfaɪə(r) /
@@ -586,11 +573,9 @@ n. 妨碍物；障碍物
 2.Of course she can do it.  She's just being deliberately obstructive. 这事她当然能做。
 3.Xanthomata and xanthelasmas are more common in lipid disorders than in obstructive jaundice. 黄瘤症和黄斑瘤与阻塞性黄疸相比更易出现在脂类代谢紊乱中。
 [搭]
-1.obstructive jaundice 临床  梗阻性黄疸；恶性梗阻性黄疸；阻塞性黄胆
+1.obstructive jaundice 梗阻性黄疸；恶性梗阻性黄疸；阻塞性黄胆
 2.chronic obstructive pulmonary disease 慢性阻塞性肺病；慢性阻塞性肺疾病；慢性阻塞性肺疾；肺疾病
 3.obstructive pulmonary emphysema 阻塞性肺气肿；梗阻性肺气肿；探讨老年阻塞性肺气肿
-4.obstructive jaundice 梗阻性黄疸；阻塞性黄疸
-5.obstructive pulmonary emphysema 阻塞性肺气肿
 [联]ob (反对) + struct (建造) + ive (形容词后缀) ——> 阻碍的
 
 external / ɪkˈstɜːrn(ə)l /
@@ -635,9 +620,8 @@ n. 内部，内里；靶子内圈；命中靶子内圈的一发
 1.inner mongolia 内蒙古自治区；翱翔雄鹰·内蒙古
 2.inner class 内部类；内部类别；内隐类别；内嵌类
 3.inner ear 解剖  内耳；出版者
-4.inner mongolian.  中国内蒙古
+4.inner wall 内壁；内衬墙
 5.inner surface 内表面
-6.inner wall 内壁；内衬墙
 [联]inner (内在的) + self (自我) ——> 内心
 
 tile / taɪl /
@@ -651,9 +635,8 @@ v. 铺瓦，铺砖；（计算机）平铺（窗口）
 1.glazed tile 建  琉璃瓦； 建  釉面瓦； 建  有釉砖；玻璃砖
 2.roof tile 瓦；天台地砖；屋顶瓦；屋瓦
 3.ceramic tile 建  瓷砖；陶瓷砖；磁砖；瓷陶砖
-4.ceramic tilen.  瓷砖（有釉或无釉的）
+4.floor tile 地砖；铺地瓷砖
 5.tile in 用砖片围住
-6.floor tile 地砖；铺地瓷砖
 [联]tile (瓷砖) + floor (地板) ——> 地砖覆盖的地板
 
 stair / ster /
@@ -667,8 +650,7 @@ n. 楼梯，阶梯（stairs）；梯级；<文>（建筑物内的）楼梯
 2.SPIRAL STAIR 螺旋楼梯；旋转楼梯；旋转梯；螺旋式楼梯
 3.stair well 楼梯间；楼梯阱
 4.below stairs 在地下室；在楼下
-5.stair railing 楼梯栏杆
-6.winding stair 盘旋柱，旋梯
+5.winding stair 盘旋柱，旋梯
 [联]stair (楼梯) + well (井) ——> 通往井的楼梯
 
 receptor / rɪˈseptər /
@@ -681,7 +663,7 @@ n. 受体；接受器；感觉器官
 1.receptor antagonist 受体拮抗剂；受体抗结剂
 2.acetylcholine receptor 乙酰胆碱受体；抗乙酰胆碱受体；上乙酰胆碱受体；是由乙酰胆碱受体
 3.chemokine receptor 趋化因子受体；趋化性细胞因子受体；探讨趋化因子受体；趋化因子
-4.insulin receptorn.  胰岛素受体
+4.insulin receptor 胰岛素受体
 5.hormone receptor[医]激素受体；[医]荷尔蒙受体
 6.receptor protein 受体蛋白质
 [联]re + cept + or ——> 再接收者
@@ -698,12 +680,12 @@ adj. 内阁的
 2.filing cabinet 家具  文件柜； 社科  档案柜；公文柜
 3.Kitchen Cabinet 厨房内阁；餐具柜；橱柜；厨房绸
 4.control cabinet 控制柜；操纵室
-5.kitchen cabinetn.  政府首脑的参谋团；厨房的餐具柜
+5.kitchen cabinet 政府首脑的参谋团；厨房的餐具柜
 6.cabinet meeting 内阁会议；大臣会议
 [联]cupboard (橱柜) + -et (小的) ——> 小型橱柜
 
 venue / ˈvenjuː /
-n. （事件的）发生地点，（活动的）场所；<英，法律>审判地（指郡或区）
+n.（事件的）发生地点，（活动的）场所；<英，法律>审判地（指郡或区）
 [例]
 1.We're still trying to decide on a venue. 我们仍然在设法选定一个会场。
 2.The venue was packed with 3 000 clubbers. 会场被3 000名俱乐部会员挤得满满的。
@@ -724,7 +706,7 @@ n. 故障，失灵
 [搭]
 1.acoustic malfunction 声失效
 2.DE Video Malfunction 电视故障；电视机妨碍
-3.malfunction routine 计  查找故障程序；失灵例程； 计  故障查找程序
+3.malfunction routine 查找故障程序；失灵例程；故障查找程序
 [联]mal (坏的) + function (功能) ——> 功能失灵
 
 dampen / ˈdæmpən /
@@ -752,7 +734,6 @@ n. 内部部件，内部特征；内脏
 3.internal medicine 内科；内科医学；内服药
 4.internal control 内部控制；内控
 5.internal force 内力
-6.internal audit 内部审计，内部稽核
 [联]inter (内部) + nal (形容词后缀) ——> 内部的、内在的
 
 complement / ˈkɑːmplɪment /
@@ -766,9 +747,8 @@ n. 补足物，衬托物；足数，足额；补语；余角；补体，防御�
 1.complement system 补体系统；第六章；是补体系统
 2.Complement receptor 补体受体；红细胞膜表面补体受体；细胞表面补体受体；表面补体受体
 3.complement fixation test 免疫,性病  补体结合试验；补体结合反应；补体固定试验；补体结合
-4.complement system 求补系统
+4.object complement 宾语补足语；宾补
 5.complement activation 补体激活；补体的激活
-6.object complement 宾语补足语；宾补
 [联]complement (补足物，补充) ——> com (共同) + plement (种植，栽种) ——> 共同种植
 
 modify / ˈmɒdɪfaɪ /
@@ -793,7 +773,7 @@ v.（使）集合，（使）聚集；装配，组装
 1.to assemble 安装；汇编；衬套；装置
 2.Assemble Insert 怪力少女；结城正美
 3.assemble-to-order 定货组装；按订单装配；组装；订单组装
-4.assemble languagen.  汇编语言
+4.assemble language 汇编语言
 5.assemble line 作业的装配线
 [联]as - seem (看起来) + ble (形容词后缀) ——> 组装，集合
 
@@ -828,12 +808,9 @@ n. 石工；石工行业；石造建筑
 2.When the blocks of masonry with which they built were not in scale with the projected scheme, the real joints were concealed and false ones introduced. 当他们所建造的石方与规划方案不成比例的时候，他们会将真正的接合处隐藏起来，引入假的接合处。
 3.In California we retrofit all of the masonry building. 在加州，我们已经翻新了所有的砖石结构房屋。
 [搭]
-1.masonry structure 砌体结构；砖石结构
+1.masonry structure 砌体结构；砖石建筑物；石工结构
 2.masonry wall 砌石墙；砌筑墙；转砌墙；圬工墙
-3.brick masonry 砖石圬工
-4.masonry structure 砌体结构；砖石建筑物；石工结构
-5.brick masonry 砖砌体；砖砌圬工
-6.masonry wall 砌石墙；砌筑墙
+3.brick masonry 砖石圬工；砖砌体；砖砌圬工
 [联]mason (石匠) + ry (表性质、状态) ——> 石匠工艺、石工
 
 expansionist / ɪkˈspænʃənɪst /
@@ -887,7 +864,6 @@ v. 放置；使处于某种境地；以某种态度对待（或看待）；认�
 3.Melrose Place 飞越情海；新飞越情海；飞跃情海；新飞跃情海
 4.in place 适当，适当的；在适当的地方，在恰当的位置
 5.place in 安排，放置
-6.take place 发生；举行
 [联]place (地点) + card (卡片) ——> 地点卡
 
 beam / biːm /
@@ -930,7 +906,6 @@ n. 布局，设计；版面编排，版面设计；布置的东西，陈列品
 3.PLANTS LAYOUT 厂房布置；厂房安排；厂房安插；车间安插
 4.layout design 布图设计；布局设计；布线设计
 5.general layout 总体设计；总布置图
-6.page layout 页面布局
 [联]lay (放置) + out (外面) ——> 布局、设计
 
 toilet / ˈtɔɪlət /
@@ -941,12 +916,10 @@ v. 照料（人，尤其是婴儿或伤病人士）上厕所；上厕所；梳�
 2.I knelt by the toilet and gagged. 我跪在马桶边作呕。
 3.She had gone in to use the toilet. 她已经去上洗手间了。
 [搭]
-1.Public Toilet 人民公厕；公共厕所；公厕；公共卫生间
+1.public toilet 人民公厕；公共厕所；公厕；公共卫生间
 2.toilet paper 卫生纸；手纸；厕纸；草纸
 3.flush toilet 建  抽水马桶；冲水马桶；缩水搪瓷马桶；冲水式的厕所
-4.toilet paper 卫生纸，厕纸
-5.toilet seat 马桶座圈
-6.public toilet 公厕；人民公厕
+4.toilet seat 马桶座圈
 [联]loo (房间) + let (让) ——> 厕所
 
 obstruction / əbˈstrʌkʃ(ə)n /
@@ -959,8 +932,6 @@ n. 阻挠，妨碍；堵塞；障碍物；阻塞，梗阻；（体育项目中�
 1.intestinal obstruction 内科  肠梗阻；肠阻塞；急性肠梗阻
 2.obstruction of justice 阻碍司法；妨碍司法；妨碍正义；障碍法律
 3.esophageal obstruction 食管梗阻；食道阻塞；食道梗阻
-4.intestinal obstruction 肠梗阻
-5.obstruction of justice 妨碍司法公正；阻碍司法
 [联]occlusion (阻塞) + obstruction (阻碍，阻挡) ——> 阻塞和阻碍
 
 sheltering / ˈʃeltərɪŋ /
@@ -973,7 +944,7 @@ v. 掩蔽；收容，提供庇护所（shelter 的现在分词）；隐蔽；提
 1.The Sheltering Sky 遮蔽的天空；情陷撒哈拉；掩蔽的天际；遮蔽的天空专辑
 2.sheltering coefficient 遮蔽系数；风速风压衰减系数
 3.Sheltering Sky 遮蔽的天空；遮天蔽日；情陷撒哈拉
-4.shelter oneself◎为自己辩解；给自己找借口
+4.shelter oneself 为自己辩解；给自己找借口
 5.shelter from 保护某人不受打击
 6.take shelter 寻求庇护；避难
 [联]shel (遮蔽) + tering (动名词后缀) ——> 提供遮蔽的，掩护的
@@ -993,18 +964,17 @@ adj. 建设性的，有助益的；<法律>推定的；（与）推断（有关�
 
 peripheral / pəˈrɪfərəl /
 adj. 次要的，附带的；外围的，周边的；（计算机设备）外围的；（剖）体表的；周围神经系统的，末梢的
-n. （计算机的）外部设备
+n.（计算机的）外部设备
 [例]
 1.Fund-raising is peripheral to their main activities. 对他们的主要活动而言，筹集资金是次要的。
 2.Companies are increasingly eager to contract out peripheral activities like training. 公司越来越渴望把像培训这样的次要活动外包出去。
 3.The curriculum then becomes peripheral and is dealt with by the reserve capacity of the brain. 然后，课程就变成了次要的，就可以被大脑的备用容量所接收了。
 [搭]
-1.peripheral equipment 计  外部设备；物流周边设备
+1.peripheral equipment 外部设备；物流周边设备
 2.peripheral nervous system 解剖  周围神经系统；外周神经系统；末梢神经系统；外围神经系统
 3.peripheral nerve injury 周围神经损伤；外周神经损伤
 4.peripheral blood 周边血液
 5.peripheral nerve 末梢神经，外周神经
-6.peripheral equipment 外部设备，外围设备
 [联]peripheral (周边的，次要的) + sphere (球体，球形) ——> 球的周边
 
 void / vɔɪd /
@@ -1019,7 +989,7 @@ v. 使无效，使作废；排泄，排放（大小便）；排放（水、气�
 1.Dark Void 黑暗虚空；黑暗虚无；黑暗空隙；暗黑空隙
 2.null and void 无效的；宣告无效； 法  失效；有效的
 3.Fill the Void 填房
-4.void ofadj.  没有的，缺乏的；没有…的
+4.void of 没有的，缺乏的；没有…的
 5.void fraction 空隙率；空隙分数；空隙组分
 6.void ratio 孔隙比；空隙比
 [联]void (空的，无效的) + space (空间，空白) ——> 空间，真空
@@ -1040,7 +1010,7 @@ weld / weld /
 v. 焊接，熔接，锻接；使紧密结合，使形成整体
 n. 焊接节点；淡黄木犀草；（淡黄木犀草制的）黄色植物染料；焊接
 [例]
-1.Where did you learn to weld?你在哪里学会的焊接技术？《柯林斯英汉双解大词典》。
+1.Where did you learn to weld?你在哪里学会的焊接技术？。
 2.The crisis helped to weld the party together. 这场危机促使整个党紧密地团结在一起。
 3.It's possible to weld stainless steel to ordinary steel. 将不锈钢和普通钢焊接在一起是可能的。
 [搭]
@@ -1081,7 +1051,7 @@ n.（某地的）居民，栖息动物
 
 lodge / lɑːdʒ /
 v.（使）固定，（使）卡住；（通常付住宿费地）借住，寄住，（为某人）提供住宿；存放，寄放（贵重物品）；正式提出（投诉、要求等）；铭记，留存
-n.（公园或宅第的）门口小屋，门房；（大学、机构等的）门房，管理员室；（乡村或山间供狩猎者等使用的）小屋，小舍；（地方分会会员的）集会地，活动地；（河狸或水獭的）穴，窝；印第安锥形棚屋；（剑桥的）学院院长住宅；用于名字中宅，舍，旅馆
+n.（公园或宅第的）门口小屋，门房；（大学、机构等的）门房，管理员室；（乡村或山间供狩猎者等使用的）小屋，小舍；（地方分会会员的）集会地，活动地
 [例]
 1.He has four weeks in which to lodge an appeal. 他有4周时间来正式提出上诉。
 2.I drove out of the gates, past the keeper's lodge. 我开车出了大门，经过看门人的门房。
@@ -1123,7 +1093,7 @@ v. 组织；构成（structure 的过去分词）；建造
 3.Structured Query Language 结构化查询语言；语言；构造化查询言语；结构式询问语言
 4.structured programming 结构化程序设计
 5.structured data 结构化资料；结构数据
-6.structured design[计]结构化设计
+6.structured design [计]结构化设计
 [联]structure (结构) + -ed (形容词后缀，表示具有某种特性) ——> 具有特定结构的
 
 grid / ɡrɪd /
@@ -1134,12 +1104,10 @@ v. 使……构成网格状，布置成网格结构
 2.The project is designed to generate around 30 megawatts of power for the national grid. 该工程规划为国家电网发电约3千万瓦。
 3.The television screens of the next century will be linked up to an emerging world telecommunications grid. 下个世纪的电视屏幕将与一种新兴的世界电信网格相连。
 [搭]
-1.Grid computing 网格计算；网格计较
-2.Power Grid 发电厂；电力网；电力公司；电网
-3.State Grid 国家电网公司；国家电网；电网公司；中国国家电网
-4.power grid 电力网；强信号栅极
-5.grid computing 网格计算
-6.grid system 坐标制；方格网制；电力网
+1.grid computing 网格计算；网格计较
+2.power grid 发电厂；电力网；电力公司；电网
+3.state grid 国家电网公司；国家电网；电网公司；中国国家电网
+4.grid system 坐标制；方格网制；电力网
 [联]grid (网格) + iron (铁) ——> 铁网
 
 construct / kənˈstrʌkt /
@@ -1168,7 +1136,6 @@ n. 建筑设计，建筑风格；建筑学；结构；计算机的体系结构�
 3.software architecture 软件架构； 计  软件体系结构；软件构架
 4.system architecture 系统架构
 5.landscape architecture 造园术，园林建筑学；造景建筑业
-6.modern architecture 现代建筑
 [联]archi (主要的) + tecture (建造) ——> 主要的建造
 
 periphery / pəˈrɪfəri /
@@ -1185,7 +1152,7 @@ n. 外围，边缘；圆周；圆柱体表面
 
 parlour / ˈpɑːrlər /
 n. 客厅；会客室；雅座
-n. （Parlour）人名；（英）帕勒
+n.（Parlour）人名；（英）帕勒
 [例]
 1.This is the parlour?这就是客厅？。
 2.They began to run, rushed into the parlour, and threw themselves round their father's neck. 他们开始跑，冲进客厅，扑到父亲的脖子上。
@@ -1194,8 +1161,7 @@ n. （Parlour）人名；（英）帕勒
 1.beauty parlour 美容室；美容院；抒情号美容院
 2.Ray Parlour 帕洛尔；柏奴亚；雷柏劳亚
 3.parlour magic 沙龙魔术；聚会厅魔术组
-4.beauty parlour 美容院；美容室
-5.funeral parlourn.  殡仪馆
+4.funeral parlour 殡仪馆
 [联]par (部分) + lour (阴影) ——> 阴影中的部分
 
 bath / bæθ /
@@ -1210,7 +1176,7 @@ v. 给……洗澡；洗澡，沐浴
 2.fixing bath 定影槽；定影液；定影冲洗；固着浴
 3.electrolytic bath 电解槽；电解浴；电解池；电槽
 4.take a bath 洗个澡
-5.water bath[医]水浴
+5.water bath [医]水浴
 6.plating bath 电镀槽
 [联]bat (蝙蝠) + h (无意义符号) ——> 蝙蝠在夜晚飞过浴室的灯光下
 
@@ -1248,7 +1214,7 @@ vt. 构造，建造；创立，构筑；搭建（construct 的过去分词）
 [例]
 1.He eventually constructed a huge business empire. 他最终构建了一个庞大的商业王国。
 2.His company recently constructed an office building in downtown Denver. 他的公司最近在丹佛市中心建造了一座办公楼。
-3.When was the bridge constructed?那座桥是何时修建的？《牛津词典》。
+3.When was the bridge constructed?那座桥是何时修建的？。
 [搭]
 1.constructed language 人工语言；人造语言
 2.CONSTRUCTED SPECIFICATION 结构细节；构造细节；布局细节；机关细节
@@ -1279,12 +1245,11 @@ n. 家具；装置；惯常的见解；贮藏物，内容；步枪底托；（�
 2.We specialize in quality furniture. 我们专营高档家具。
 3.They've moved all the furniture round. 他们把所有的家具搬动了一遍。
 [搭]
-1.Office furniture 办公家具； 家具  办公室家具；办公众具
-2.Furniture Shop 家具店；野具店；家私铺；家庭用具店
-3.Folding furniture 家具  折叠家具；折叠式家具；折叠家庭用具；折叠
-4.office furniture 办公器具；办公室设备
-5.furniture design 家具设计
-6.wood furniture 木制家具
+1.office furniture 办公家具； 家具  办公室家具；办公众具
+2.furniture shop 家具店；野具店；家私铺；家庭用具店
+3.folding furniture 家具  折叠家具；折叠式家具；折叠家庭用具；折叠
+4.furniture design 家具设计
+5.wood furniture 木制家具
 [联]furn (做家具的工厂) + iture (名词后缀，表状态或性质) ——> 家具的状态或性质
 
 urbane / ɜːˈbeɪn /
@@ -1300,9 +1265,9 @@ adj. 彬彬有礼的，温文尔雅的；都市化的
 [联]elegant (文雅的) + manner (举止) ——> 洋洋得意的举止
 
 flat / flæt /
-adj. 平的，水平的；平坦的；（水面）平静的，波澜不兴的；平滑的；平放的，平躺的，平卧的；足弓平坦的；扁平的；（鞋）平跟的，低跟的；断然的，直截了当的；（费率、价格等）统一的，固定的；（市场、价格等）疲软的，萧条的；枯燥的，无趣的，缺乏热情的；（饮品）走了气的；（轮胎）没气的，瘪的；（电池）电力不足的，没电的；平淡的，无变化的；（音符）降半音的；音调偏低的；色彩单调的，无反差的，无景深的；无光泽的；（图表上的线）平的，无变化的；（组织或系统）内部层次不多的；（关于）无障碍平地赛马的；（面包）未发酵的
+adj. 平的，水平的；平坦的；（水面）平静的，波澜不兴的；平滑的；平放的，平躺的，平卧的；足弓平坦的；扁平的；（鞋）平跟的，低跟的；断然的，直截了当的
 adv. 水平地；平整地；平贴着；正好；完全地，彻底地；音调偏低地
-n. <英>公寓，单元房；（通常指近水的）浅滩，洼地；（某物的）平面部份；（音符的）降半音；降半音符号；<美>浅箱，浅苗床；平底鞋，低跟鞋（flats）；漏气轮胎；平板列车，敞车，平台货车；平面布景，布景屏；无障碍平地赛马季节（the Flat）
+n. <英>公寓，单元房；（通常指近水的）浅滩，洼地；（某物的）平面部份；（音符的）降半音；降半音符号；<美>浅箱，浅苗床；平底鞋，低跟鞋（flats）
 v. 住公寓，伙住公寓；<美>（乐）把（音调）降半音
 [例]
 1.The cloth should be laid flat. 布应展开平放。
@@ -1313,24 +1278,22 @@ v. 住公寓，伙住公寓；<美>（乐）把（音调）降半音
 2.The World Is Flat 世界是平的；世界是平坦的；地球是平的；英文版
 3.flat tire 爆胎；没精打采；漏了气的车胎；车胎漏气
 4.flat surface 平面；平整表面
-5.flat outv.  竭尽全力；用全速；疲惫
+5.flat out 竭尽全力；用全速；疲惫
 6.flat panel 扁平面板
 [联]flat (平面的) + roof (屋顶) ——> 平顶房
 
 resident / ˈrezɪdənt /
 n. 居民，住户；（旅馆的）住宿者；<美>住院医生；<美> 寄宿制学校学生；<史>（英国政府派驻半独立国家的） 特派代表；驻外特工；留鸟，无迁徙习性的蝴蝶（或其他动物）
-adj. （在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的
+adj.（在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的
 [例]
 1.Local resident groups have united in opposition to the plan. 当地居民团体已联合起来反对这项计划。
 2.A resident of his neighbourhood had let off fireworks to celebrate the revolution. 他邻里的一个居民燃放了烟花来庆祝革命。
 3.They cover preventative care for the local resident. 他们为当地居民提供预防保健服务。
 [搭]
 1.Resident Evil 生化危机；生化危机系列；恶灵古堡；生化危机之变种生还者
-2.Resident Evil 4生化危机；生化危机4欧洲版；生化危急
+2.local resident 当地居民
 3.permanent resident 永久居民；长期定居者
-4.permanent resident 永久性居民
-5.local resident 当地居民
-6.resident representative 居民代表；驻地代表
+4.resident representative 居民代表；驻地代表
 [联]reside (居住) + -ent (形容词后缀，表示...的) ——> 居住的
 
 residents / ˈrezɪdənts /
@@ -1340,10 +1303,9 @@ n. 居民；（旅店）房客；住院医生，（美国的）高级专科住�
 2.Residents are anxiously awaiting a decision. 居民焦虑地期待决定。
 3.The residents formed a community action group. 居民组成了社区行动组。
 [搭]
-1.Urban residents 城市居民；城镇居民；都市居民；都会居民
+1.urban residents 城市居民；城镇居民；都市居民；都会居民
 2.The Residents 居民乐队；表演者；居民
 3.residents' committee 居委会
-4.urban residents 城市居民
 [联]resident (居民) + -s (复数后缀) ——> 居民们
 
 apparatus / ˌæpəˈrætəs /
@@ -1381,8 +1343,7 @@ n. 接待处，服务台；欢迎会，招待会；欢迎，反响；（收音�
 2.reception desk 接待处；前台；总服务台；服务台
 3.reception room 接待室；会客室；舍客室；传达室
 4.warm reception 热情接待
-5.reception desk 接待处（等于 front desk）
-6.reception area 接待处；接待室
+5.reception area 接待处；接待室
 [联]hotel + reception ——> 酒店前台
 
 leverage / ˈliːvərɪdʒ /
@@ -1396,9 +1357,6 @@ v. <英>举债经营；充分利用（资源、观点等）
 1.leverage ratio 杠杆率；杠杆比率；杠杆借贷比率
 2.financial leverage 会计  财务杠杆；财务杠杆作用；举债经营；金融杠杆
 3.leverage effect 杠杆效应；杠杆作用；举债经营效果
-4.financial leverage 财务杠杆；财务杠杆作用
-5.leverage ratio 杠杆比率；杠杆率；资本充足率
-6.leverage effect 杠杆效应，举债经营效果
 [联]lever (杠杆) + age (状态，总称) ——> 杠杆状态
 
 residence / ˈrezɪdəns /
@@ -1411,7 +1369,7 @@ n. 住宅，住所；居住，定居；（在某国的）居住权，居留许�
 1.official residence 官邸；官舍
 2.Permanent Residence 永久居留；常住；永久居民；永世居留
 3.Residence Oasis 蔚蓝湾畔
-4.residence time[物理]停留时间；[化]逗留时间（等于 residence）
+4.residence time [物理]停留时间；[化]逗留时间（等于 residence）
 5.permanent residence 长期居留
 6.residence permit 居留证
 [联]reside (居住) + nce (名词后缀) ——> 居住地
@@ -1442,7 +1400,7 @@ n. 障碍，阻碍；障碍物
 1.obstacle to sth 纪念碑；形成阻碍
 2.obstacle race 障碍赛跑；竞走项目；障碍赛；越障碍物比赛
 3.obstacle detection 电子  障碍探测；故障探测；难点检测
-4.obstacle coursen.  超越障碍训练场
+4.obstacle course 超越障碍训练场
 [联]ob (鸟) + sta (站) + cle (小的) ——> 阻碍物
 
 brickwork / ˈbrɪkwɜːrk /
@@ -1467,29 +1425,26 @@ n. 小屋，村舍，乡间别墅
 1.Cottage Garden 村舍花园；花园小屋度假屋；屋花园；农舍花园
 2.Cottage Cheese 茅屋芝士；农家干酪；白干酪；茅屋
 3.Du Fu Thatched Cottage 杜甫草堂
-4.cottage cheese（由脱脂凝乳制成的）白软干酪，松软干酪
+4.thatched cottage 茅草屋
 5.cottage industry 家庭手工业
-6.thatched cottage 茅草屋
 [联]cottage (小屋) + age (状态，性质) ——> 小屋的状态或性质
 
 hostel / ˈhɑːst(ə)l /
-n. （免费或廉价的）旅社，招待所；青年旅舍；无家可归者收容所，临时收容所；<古>（提供食宿的）客栈
+n.（免费或廉价的）旅社，招待所；青年旅舍；无家可归者收容所，临时收容所；<古>（提供食宿的）客栈
 v. 留宿于招待所，旅行时住在招待所
 [例]
-1."What a dump!" Christabel said, standing in the doorway of the youth hostel. 克丽丝特布尓站在青年旅舍的门口说道：“真是个肮脏的地方！”《柯林斯英汉双解大词典》。
+1."What a dump!" Christabel said, standing in the doorway of the youth hostel. 克丽丝特布尓站在青年旅舍的门口说道：“真是个肮脏的地方！”。
 2.I've never stayed in a hostel before. 我以前从未住过招待所。
 3.Someone told me there's another hostel called Gum Tree something. 有人告诉我那儿还有家招待所，叫“桉树”什么的。
 [搭]
-1.Youth Hostel 青年旅舍；青年招待所
-2.Moon Hostel 月亮客栈；玉轮客栈；月球旅馆；月亮旅馆
+1.youth hostel 青年旅舍；青年招待所
+2.moon hostel 月亮客栈；玉轮客栈；月球旅馆；月亮旅馆
 3.student hostel 学生公寓；学生宿舍；青年公寓
-4.youth hostel 青年招待所；青年（学生）宿舍
-5.student hostel 学生宿舍
-6.hostel accommodation 宿舍单位
+4.hostel accommodation 宿舍单位
 [联]host (主人) + el ( suffix 表示小的) ——> 小型的主人
 
 terrace / ˈterəs /
-n. （风格相同、互相连接的）排屋；（尤指房屋或餐馆外的）露天平台，阳台；<英>（足球场的）阶梯看台；梯田，阶地；<英>排屋中的一栋房屋；（地质）沿岸阶地，阶面
+n.（风格相同、互相连接的）排屋；（尤指房屋或餐馆外的）露天平台，阳台；<英>（足球场的）阶梯看台；梯田，阶地；<英>排屋中的一栋房屋；（地质）沿岸阶地，阶面
 v. 使成阶地（或梯田）
 [例]
 1.All rooms have a balcony or terrace. 所有的房间都有阳台或露台。
@@ -1504,8 +1459,8 @@ v. 使成阶地（或梯田）
 [联]ter (三) + race (种族，竞赛) ——> 三族竞赛
 
 trim / trɪm /
-v. 修剪，修整；削减，减少；修饰，点缀（尤指某物的边缘）；切除，剪掉（不规则或不需要的部分）；调整（船帆）利用风力；使（飞机）配平；调整负载以保持（船，飞机）的平衡；使（身体某一部分）变结实，变瘦；（为个人升迁而在政治上）随大流，见风使舵
-n. （尤指毛发的）修剪；额外装饰，边饰，点缀物；汽车装饰（尤指车内座椅铺面或内垫衬料）；（电影剪辑后的）废片；（船在水中的）水平位势；（飞机）配平；良好的状态（或情况）；机翼的位置
+v. 修剪，修整；削减，减少；修饰，点缀（尤指某物的边缘）；切除，剪掉（不规则或不需要的部分）；调整（船帆）利用风力；使（飞机）配平
+n.（尤指毛发的）修剪；额外装饰，边饰，点缀物；汽车装饰（尤指车内座椅铺面或内垫衬料）；（电影剪辑后的）废片；（船在水中的）水平位势
 adj. 整齐的，整洁美观的；修长的，苗条而健康的
 [例]
 1.The hedge needs a trim. 这树篱得修剪了。
@@ -1526,7 +1481,7 @@ v. 计划，组织，安排
 [例]
 1.Your essay needs (a) structure. 你这篇文章组织不好。
 2.This structure must be stable. 这种结构一定很稳固。
-3.How well does the teacher structure the lessons?老师对课程组织安排得如何？《牛津词典》。
+3.How well does the teacher structure the lessons?老师对课程组织安排得如何？。
 [搭]
 1.Data Structure 计  数据结构；数据构造；电子科技大学
 2.organizational structure 组织结构；项目管理
@@ -1573,9 +1528,8 @@ v. 钻孔；训练，演习；条播
 1.drill pipe 油气  钻杆； 油气  钻管；钻探管；方钻杆
 2.hand drill 机  手摇钻； 机  手钻；煤电钻；手电钻
 3.twist drill 机  麻花钻；旋钻；麻花钻头
-4.drill pipe 钻杆，钻管；钻探管
-5.drill string[机械]钻柱
-6.drill bit 钻头，钎头；强钻头
+4.drill string [机械]钻柱
+5.drill bit 钻头，钎头；强钻头
 [联]drill (钻头， drills训练)——> 钻头可以用来进行 drills训练
 
 establish / ɪˈstæblɪʃ /
@@ -1587,10 +1541,9 @@ v. 建立，设立；证实，确定；发现，找出；使被接受，使得�
 [搭]
 1.to establish arrangement 达成协议；告竣和谈
 2.establish the entered value 确立报关单价格
-3.establish a business 建立
+3.establish a business 建立；创业；设立商店
 4.establish oneself in 在…落户，定居在
 5.establish as 确立为…；使成为…
-6.establish a business 创业；设立商店
 [联]e (出来) + stablish (建立) ——> 建立起来
 
 radiator / ˈreɪdieɪtər /
@@ -1603,9 +1556,9 @@ n. 暖气片，散热器；（暖气片型）燃油炉，电热器；（车辆�
 1.radiator grille 水箱；水箱饰罩；发动机散热窗； 车辆  前面罩
 2.Radiator Fan 水箱风扇；散热器风扇；散热风扇；盛水的箱子电扇
 3.Radiator Hose 水箱水管；盛水的箱子水管；水箱橡皮管；散热器软管
-4.heat radiatorn.  散热器；热辐射器；散热片
+4.heat radiator 散热器；热辐射器；散热片
 5.heating radiator 供暖散热片；热辐射器
-6.electric radiatorn.  电暖气
+6.electric radiator 电暖气
 [联]rad + i + tor ——> 辐射器
 
 established / ɪˈstæblɪʃt /
@@ -1619,13 +1572,13 @@ v. 建立，设立；证实，确定；发现，找出（establish 的过去式�
 1.clearly-established ownership 产权清晰；产权清楚；产权明白
 2.established practice 法则；成例；标准；惯例
 3.Stick to established facts 坚持已确立的观点；已确立的观点；观点；坚持已经确立的观点
-4.be established inv.  立足于；开业于
+4.be established in 立足于；开业于
 5.established company 知名公司
 6.established practice 惯例；成规
 [联]est (东方) +ablish (建立) + ished (形容词后缀) ——> 在东方建立起来的
 
 studio / ˈstuːdioʊ /
-n. 录音室，播音室，演播室；（电影）摄影棚，电影公司，电影制片厂；（画家、摄影师、雕塑家等的）工作室；（舞蹈）练习室；单室公寓房；（公司新产品的）设计室，工作室
+n. 录音室，播音室，演播室；（电影）摄影棚，电影公司，电影制片厂；（画家、摄影师、雕塑家等的）工作室；（舞蹈）练习室；单室公寓房
 [例]
 1.The studio isn't soundproof. 该录音室不隔音。
 2.Hemingway's studio is to the right. 海明威的工作室在右边。
@@ -1634,9 +1587,8 @@ n. 录音室，播音室，演播室；（电影）摄影棚，电影公司，�
 1.Studio Ghibli 吉卜力工作室；吉卜力；宫崎骏与吉卜力工作室作品合辑；宫崎骏
 2.film studio 电影制片厂；电影厂；电影公司
 3.studio album 录音室专辑；版本特性；专辑类型
-4.film studio 电影制片厂
-5.photo studio 照相馆；摄像工作室
-6.recording studio 录音室；录音棚
+4.photo studio 照相馆；摄像工作室
+5.recording studio 录音室；录音棚
 [联]studio (工作室) + light (光线) ——> 光线明亮的工作室
 
 vicinity / vəˈsɪnəti /
@@ -1679,7 +1631,7 @@ n. 厨房；一套厨具；<非正式>管弦乐队中的打击乐器组；（语
 3.Magic Kitchen 魔幻厨房；片；魔幻庖厨；魔法厨房
 4.kitchen table 餐桌；案桌；厨房台
 5.kitchen knife 菜刀，厨刀；厨房刀
-6.kitchen cabinetn.  政府首脑的参谋团；厨房的餐具柜
+6.kitchen cabinet 政府首脑的参谋团；厨房的餐具柜
 [联]kitch (厨房的小物件) + en (动词后缀) ——> 激发厨房活力
 
 entrance / ˈentrəns /
@@ -1703,14 +1655,12 @@ n. 浴室，盥洗室；<美>卫生间，厕所；（尤指成套出售的）浴
 [例]
 1.The bathroom floor was awash. 浴室地板浸在水中。
 2.I went next door to the bathroom. 我进了隔壁的洗手间。
-3.Are you done hogging the bathroom?你要霸占浴室到什么时候？《柯林斯英汉双解大词典》。
+3.Are you done hogging the bathroom?你要霸占浴室到什么时候？。
 [搭]
 1.Bathroom vanity 浴室盥洗台；浴室洗手洗脸台；浴室柜
 2.Bathroom accessories 浴室配件；卫浴配件；浴室组成一套装配
 3.bathroom cabinet 浴室柜；浴室柜系列
-4.bathroom accessories 浴室配件
-5.go to the bathroom 上厕所
-6.bathroom cabinet 浴室柜
+4.go to the bathroom 上厕所
 [联]bath (洗澡) + room (房间) ——> 浴室
 
 shelter / ˈʃeltər /
@@ -1724,13 +1674,13 @@ v. 提供庇护，提供保护；躲避，避难；使（某人）免遭（困�
 1.Fallout Shelter 辐射避难所；避难所；沉降物掩蔽所；辐射庇护所
 2.Port Shelter 牛尾海
 3.air-raid shelter 防空洞；防空避难处；防空掩蔽部；防空壕
-4.shelter oneself◎为自己辩解；给自己找借口
+4.shelter oneself 为自己辩解；给自己找借口
 5.shelter from 保护某人不受打击
 6.take shelter 寻求庇护；避难
 [联]shelter (庇护所) + elter (父母) ——> 在庇护所里，父母会保护孩子
 
 spacious / ˈspeɪʃəs /
-adj. （房间或建筑物）宽敞的；无边无际的
+adj.（房间或建筑物）宽敞的；无边无际的
 [例]
 1.They specified a spacious entrance hall. 他们明确要求门厅要宽敞。
 2.The accommodation is simple but spacious. 住处简朴但宽敞。
@@ -1766,7 +1716,7 @@ n. 接待员
 [联]re (再，又) + cept (接受) + ion (行为，结果) + ist (从事者) ——> 接待员
 
 immigrate / ˈɪmɪɡreɪt /
-v. （从外地）移居，移民；使移居入境
+v.（从外地）移居，移民；使移居入境
 [例]
 1.10,000 people are expected to immigrate in the next two years. 在今后两年里，一万人有望移民。
 2.They plan to immigrate to Finland next year. 他们计划明年移居芬兰。
@@ -1788,7 +1738,7 @@ v. 庇护（shelter 的过去分词）
 1.Sheltered Bay 避风港；避风河湾
 2.sheltered waters 海洋  掩护水域；遮蔽水域；隐蔽水域
 3.sheltered anchorage 有掩护的锚地；有遮蔽的锚地
-4.shelter oneself◎为自己辩解；给自己找借口
+4.shelter oneself 为自己辩解；给自己找借口
 5.shelter from 保护某人不受打击
 6.take shelter 寻求庇护；避难
 [联]shel (遮挡) + tered (过去分词后缀，表示被动) ——> 被遮挡的
@@ -1811,7 +1761,7 @@ n. 城镇的中心区，商业区，闹市区
 [联]down (向下) + town (城镇) ——> 城市中心区域
 
 migrate / ˈmaɪɡreɪt /
-v. （候鸟或动物）迁徙；（尤指为找工作）移居，迁移；转移（从一个部位移到另一部位）；把（程序，硬件）从一系统转移到另一系统；改用操作系统
+v.（候鸟或动物）迁徙；（尤指为找工作）移居，迁移；转移（从一个部位移到另一部位）；把（程序，硬件）从一系统转移到另一系统；改用操作系统
 [例]
 1.Swallows migrate south in winter. 燕子在冬天迁徙到南方。
 2.What caused the monsoon to migrate?是什么导致了季风的迁移呢？。
@@ -1834,7 +1784,7 @@ v. 用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；
 1.reinforced concrete 钢筋混凝土；增强剂；被加固的混凝土；钢筋水泥
 2.concrete mixer 混凝土搅拌车； 建  混凝土搅拌机；混凝土机
 3.Concrete grey 混凝土灰；水泥灰
-4.reinforced concreten.  钢筋混凝土
+4.reinforced concrete 钢筋混凝土
 5.in the concrete 实际上，具体的
 6.concrete structure 混凝土结构；具体结构；混凝土建造物
 [联]con (一起) + crete (生长) ——> 混凝土
@@ -1851,8 +1801,7 @@ n. 棚屋，小屋；（工业上用于生产或存放设备的）厂房，工�
 2.Heroes Shed No Tears 英雄无泪
 3.shed crocodile tears 假装哭泣；猫哭老鼠；鳄鱼的眼泪；流鳄鱼眼泪
 4.shed light on 阐明；使…清楚地显出
-5.shed crocodile tears[谚]猫哭老鼠；假慈悲
-6.shed skin 蜕皮
+5.shed skin 蜕皮
 [联]shed (小屋) + out (向外) ——> 小屋向外 (指小屋的布局或结构)
 
 suspension / səˈspenʃ(ə)n /
@@ -1863,11 +1812,10 @@ n. 暂停，中止；暂令停职（或停学、停赛等）；（车辆的）�
 3.The active suspension system gives the car a very smooth ride. 活动的悬挂系统使汽车行驶起来非常平稳。
 [搭]
 1.suspension bridge 交  悬索桥；吊桥；悬伺；悬桥
-2.Active suspension 主动悬架；主动式悬吊；主动式悬架
-3.Rear Suspension 后悬吊；后避震；后悬架；后悬吊系统
-4.suspension bridge 吊桥
-5.suspension system 悬架系统；悬挂装置；悬浮体系；悬置系统
-6.in suspension 悬浮中
+2.active suspension 主动悬架；主动式悬吊；主动式悬架
+3.rear suspension 后悬吊；后避震；后悬架；后悬吊系统
+4.suspension system 悬架系统；悬挂装置；悬浮体系；悬置系统
+5.in suspension 悬浮中
 [联]sus + pend + sion ——> 拉起的东西悬在空中
 
 reservoir / ˈrezərvwɑːr /
@@ -1895,15 +1843,14 @@ v. 把（场上队员）换下；（在展览会上）展览（狗）；仰卧�
 [搭]
 1.test bench 测试平台；试验台； 试验  测试台；测试向量
 2.bench press 仰卧推举；卧推；台式压力机；台式压机
-3.bench holdfast 台夹；固定夹；坚固夹
+3.bench hold fast 台夹；固定夹；坚固夹
 4.on the bench 坐板凳；当法官
-5.test bench 试验台；测试台
-6.bench test 台架试验；小型试验（比实验室大，比中型试验小）
+5.bench test 台架试验；小型试验（比实验室大，比中型试验小）
 [联]bench (长凳) + work (工作) ——> 工作台
 
 lever / ˈlevər /
-n. （车辆或机器的）操纵杆，控制杆；杠杆；（用于达到某一目的的）手段，方法
-v. （用杠杆）撬动；挤走（某人）；（均衡地用力）移动；把……作为杠杆
+n.（车辆或机器的）操纵杆，控制杆；杠杆；（用于达到某一目的的）手段，方法
+v.（用杠杆）撬动；挤走（某人）；（均衡地用力）移动；把……作为杠杆
 [例]
 1.He pulled the lever and set the machine in motion. 他扳动操纵杆，启动了机器。
 2.I put the coin in the machine and pulled the lever. 我把硬币投进机器，然后拉了控制杆。
@@ -1928,7 +1875,7 @@ n. 圆柱，纪念柱；柱状物；纵队，纵行（列）；（报纸、杂�
 2.Trajan's Column 图拉真圆柱；纪功柱；图拉真纪念柱
 3.column density 柱密度
 4.column chromatography 柱层析法；柱色谱法
-5.capillary column[化]毛细管柱
+5.capillary column [化]毛细管柱
 6.distillation column 蒸馏柱
 [联]col (管子) + um (名词后缀) ——> 柱，列
 
@@ -1937,7 +1884,7 @@ v. 修理，维修；确定（时间、地点、价格等）；安排，组织�
 n. 解决方案（或措施）；窘境，困境；（毒品或致瘾物的）一次用量；方位确定，定位；理解，了解；受操纵的事，勾当
 [例]
 1.He cannot fix the electricity. 他不会修理电路。
-2.Did you fix the gutter?你修过排水槽了吗？《柯林斯英汉双解大词典》。
+2.Did you fix the gutter?你修过排水槽了吗？。
 3.I'll fix a meeting. 我要安排一次会议。
 [搭]
 1.fix up 修补；修理；解决；安顿
@@ -1957,14 +1904,13 @@ n. 布置，摆放；（某人的）安置，安顿；实习工作；收容所�
 [搭]
 1.Advanced Placement 大学先修课程
 2.Product Placement 植入式广告；置入性行销；产品置入；置入式广告
-3.Private placement 私募；私募配售；私人配售；私募发行
-4.private placement 发行债券时的直接销售；私人配售
-5.job placement 就业；工作安置；介绍工作
-6.concrete placement 混凝土浇注
+3.Private placement 私募；私募配售；私人配售；私募发行； 发行债券时的直接销售；
+4.job placement 就业；工作安置；介绍工作
+5.concrete placement 混凝土浇注
 [联]place (放置) + ment (名词后缀) ——> 放置的状态或位置
 
 damage / ˈdæmɪdʒ /
-n. （有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价
+n.（有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价
 v. 损坏，损害；对……造成坏影响
 [例]
 1.The fire caused extensive damage. 火灾造成了巨大的损失。
@@ -1975,8 +1921,7 @@ v. 损坏，损害；对……造成坏影响
 2.brain damage 脑损伤；脑部损伤；大脑损伤
 3.damage control 破坏性控制；损害控制；损伤控制
 4.serious damage 严重损害；严重损坏
-5.brain damage 脑损伤
-6.formation damage 地层损害，油层损害；生产层损坏
+5.formation damage 地层损害，油层损害；生产层损坏
 [联]dam + age ——> 损害
 
 reserved / rɪˈzɜːrvd /
@@ -1991,8 +1936,7 @@ v. 预订，预约；保留，贮备；拥有（某种权利等）（reserve 的
 2.all rights reserved 保留所有权利；版权所有；所有的权力保留；不得翻印
 3.Reserved seating 预定的座位；预定座位；预定的坐位
 4.rights reserved 保留权利
-5.all rights reserved 版权所有
-6.all right reserved 保留一切权力
+5.all rights reserved 版权所有；保留一切权力
 [联]reserve (保留) + d (变形符号，无实际意义) ——> 保守的
 
 dwelling / ˈdwelɪŋ /
@@ -2007,8 +1951,7 @@ v. 居住（dwell 的现在分词形式）
 2.Dwelling in the Fuchun Mountains 富春山居图
 3.dwelling place 居住的处所；住所；处所；住宅所在地
 4.dwelling house 住宅
-5.dwelling placen.  住处；寓所
-6.dwelling environment 居住环境
+5.dwelling environment 居住环境
 [联]house (房屋) + hold (持有，容纳) ——> 居所
 
 situated / ˈsɪtʃueɪtɪd /
@@ -2022,12 +1965,11 @@ v. 使（某物）位于，建于；置于环境中，描述（某物）周围�
 1.situated learning 情境性学习；情境学习理论；情景学习
 2.situated cognition 情境认知；情境认知理论；情境
 3.situated knowledge 情境知识；情境化知识；情景知识
-4.situated learning 情境学习
 [联]sit - u - ate - d ——> 坐 - 置于 - 动词后缀 - 完成时 → 处于坐姿的状态
 
 castle / ˈkæs(ə)l /
 n. 城堡，堡垒；（国际象棋中的）车；豪宅
-v. （国际象棋中）王车易位；置……于城堡中
+v.（国际象棋中）王车易位；置……于城堡中
 [例]
 1.The castle was bathed in moonlight. 城堡沐浴在月光里。
 2.We visited the ruins of a Norman castle. 我们参观了一座诺曼式城堡的遗迹。
@@ -2036,9 +1978,8 @@ v. （国际象棋中）王车易位；置……于城堡中
 1.Edinburgh Castle 爱丁堡城堡；爱丁堡古堡；爱丁堡；爱丁古堡
 2.Prague Castle 布拉格城堡；城堡区；布拉格堡；布拉格古堡
 3.Windsor Castle 温莎城堡；温莎堡；温莎古堡；英国温莎城堡
-4.windsor castle 温莎城堡（英国著名城堡）
-5.castle in the air 空中楼阁；白日梦
-6.new castle 纽卡斯尔（城市名，位于美国宾夕法尼亚州西部）
+4.castle in the air 空中楼阁；白日梦
+5.new castle 纽卡斯尔（城市名，位于美国宾夕法尼亚州西部）
 [联]castle (城堡) + let (让) ——> 让人建造的坚固堡垒
 
 infraction / ɪnˈfrækʃn /
@@ -2064,7 +2005,7 @@ n. 走廊，过道；（教堂）耳堂，侧堂
 2.very narrow aisle truck 窄巷道电动堆高机
 3.single-aisle 单过道
 4.down the aisle[口语] 沿教堂走道而去(至圣坛举行婚礼)
-5.aisle seatn.  靠道座位
+5.aisle seat 靠道座位
 [联]air (空气) + isle (小岛) ——> 空中之岛
 
 booth / buːθ /
@@ -2078,8 +2019,7 @@ n. 电话亭，投票间；售货棚，摊位；岗亭；（隔开的）小间
 2.William Booth 卜威廉；卜维廉；威廉·布斯；廉将军
 3.Douglas Booth 道格拉斯·布斯；道格拉斯；道格拉斯·布思；道格拉斯·布特
 4.telephone booth 电话亭
-5.phone booth 公用电话亭
-6.spray booth 喷漆柜
+5.spray booth 喷漆柜
 [联]booth (摊位) + market (市场) ——> 市场摊位
 
 obstructing / əbˈstrʌktɪŋ /
@@ -2113,14 +2053,13 @@ apparent / əˈpærənt /
 adj. 显而易见的，易懂的；貌似的，表面上的
 [例]
 1.She received the news with apparent unconcern. 她接到这消息时显然无动于衷。
-2.How can we resolve this apparent contradiction?我们怎样才能解决这个明显的矛盾呢？《牛津词典》。
+2.How can we resolve this apparent contradiction?我们怎样才能解决这个明显的矛盾呢？。
 3.Their devotion was apparent. 他们的忠诚显而易见。
 [搭]
 1.apparent expansion 物  表观膨胀；视膨胀；虚表膨胀；视在膨胀
-2.apparent density 冶  表观密度； 物化  视密度；堆积密度； 冶  松装密度
+2.apparent density 表观密度； 物化  视密度；堆积密度； 冶  松装密度
 3.heir apparent 法定继承人；继承人； 法  当然继承人；准继承人
 4.apparent viscosity 表观粘度
-5.apparent density 表观密度；松装密度
 6.apparent activation energy 表观活化能
 [联]obvious (明显的) + ly (副词后缀) ——> 显然地
 
@@ -2150,7 +2089,7 @@ adv. 周边地；外围地；次要地
 
 eaves / iːvz /
 n. 屋檐；凸出的边缘
-n. （Eaves）人名；（英）伊夫斯
+n.（Eaves）人名；（英）伊夫斯
 [例]
 1.There were icicles hanging from the eaves. 屋檐下挂着冰柱。
 2.The rain water drips from the eaves. 雨水从屋檐滴下。
@@ -2176,7 +2115,7 @@ n. 游泳，洗浴
 [联]bathe (洗澡) + sea (海洋) ——> 在海洋中沐浴
 
 plaza / ˈplɑːzə /
-n. （城市中的露天）广场；<美>购物中心，商业区；<美>（城际干道沿线的）服务区；<美>（进入城际干道的）收费站
+n.（城市中的露天）广场；<美>购物中心，商业区；<美>（城际干道沿线的）服务区；<美>（进入城际干道的）收费站
 [例]
 1.Their rendezvous would be the Plaza Hotel. 他们的会面地点将是广场大酒店。
 2.Across the busy plaza, vendors sell hot dogs and croissant sandwiches. 忙碌的露天广场对面，小贩们在卖热狗和新月形面包三明治。
@@ -2185,9 +2124,7 @@ n. （城市中的露天）广场；<美>购物中心，商业区；<美>（城�
 1.Plaza Hotel 广场饭店；广场酒店；广场大饭店；广场宾馆
 2.Plaza Accord 广场协议；广场协定；广场和谈
 3.CITIC Plaza 中信广场；中信广场大厦；中疑狭场
-4.plaza hotel 广场饭店
-5.crowne plaza 皇冠假日酒店（五星级酒店品牌）
-6.shopping plazan.  购物广场
+4.shopping plaza 购物广场
 [联]plaza (广场) + area (区域，面积) ——> 广场区域
 
 architect / ˈɑːkɪtekt /
@@ -2197,12 +2134,10 @@ n. 建筑师；设计师，缔造者
 2.The architect stepped back to admire his handiwork. 建筑师向后退了退，欣赏着自己的作品。
 3.The architect is drawing up plans for the new offices. 建筑师正在绘制新办公楼的设计图。
 [搭]
-1.landscape architect 景观建筑师；建筑师；景观设计师；园林建筑师
+1.landscape architect 景观建筑师；建筑师；景观设计师；园林建筑师；造园技师；环境美化设计家
 2.My Architect 我的建筑师
-3.Chief Architect 总建筑师；首席建筑师；首席架构师；主创建筑师
-4.landscape architectn.  造园技师；环境美化设计家
-5.chief architect 总建筑师
-6.system architect 系统架构师；系统结构设计员
+3.chief architect 总建筑师；首席建筑师；首席架构师；主创建筑师
+5.system architect 系统架构师；系统结构设计员
 [联]arc (弓，弦) + hit (打击) + e + ctor (表示人) ——> 设计师
 
 obstruct / əbˈstrʌkt /
@@ -2225,12 +2160,11 @@ v. 贮存，储藏；（在头脑或计算机中）储存（事实或信息）
 2.You pay less for the store brand. 商店品牌的东西要便宜些。
 3.I need a few things from the store. 我需要从商店买些东西。
 [搭]
-1.Department Store 贸易  百货公司； 贸易  百货商店；百货商场；百货店
-2.Apple Store 苹果商店；苹果零售店；苹果店；苹果直营店
-3.App Store 应用商店；苹果应用商店；苹果商店；应用程序商店
-4.department store 百货公司；百货商店
-5.in store 贮藏着；准备着；将要发生
-6.chain store 连锁商店
+1.department store 百货公司；百货商店；百货商场；百货店
+2.apple store 苹果商店；苹果零售店；苹果店；苹果直营店
+3.app store 应用商店；苹果应用商店；苹果商店；应用程序商店
+4.in store 贮藏着；准备着；将要发生
+5.chain store 连锁商店
 [联]stor (强壮) + e ——> 储存力量的地方
 
 concretely / ˈkɒŋkriːtli /
@@ -2287,8 +2221,7 @@ v. 用螺丝固定；拧紧，旋紧；（物体）旋上，旋开；把（纸�
 2.screw pump 螺杆泵； 机  螺旋泵；三螺杆泵；螺旋式泵
 3.set screw 止付螺丝；定位螺丝；紧定螺钉；固定螺钉
 4.twin screw 双螺旋桨；双推进器；双驱动桥
-5.screw pump 螺旋泵，螺杆泵
-6.screw threadn.  螺纹
+5.screw thread 螺纹
 [联]screw (螺丝，螺钉) + driver (驱动器，司机) ——> 螺丝刀
 
 residency / ˈrezɪdənsi /
@@ -2304,11 +2237,11 @@ n. 住处；住院医生实习期
 [联]reside (居住) + ncy (名词后缀) ——> 居住地
 
 hut / hʌt /
-n. （简陋的）小屋；（花园中的）木屋，（建筑工人等住的）临时工棚
+n.（简陋的）小屋；（花园中的）木屋，（建筑工人等住的）临时工棚
 v. 供给……小屋
 [例]
 1.The little prefabricated hut was lifted away by a huge crane. 那间小小的预制棚屋被一台巨大的起重机吊走了。
-2.You haven't lived till you've learned how to yodel at a tea dance in a mountain hut!你要是还未学会在山间小屋的下午茶舞会上用约德尔调歌唱的话，那你就白活了！《柯林斯英汉双解大词典》。
+2.You haven't lived till you've learned how to yodel at a tea dance in a mountain hut!你要是还未学会在山间小屋的下午茶舞会上用约德尔调歌唱的话，那你就白活了！。
 3.Heidi just now came out of the hut. 海蒂刚刚从小屋出来。
 [搭]
 1.Pizza Hut 必胜客；南方商城店；平路店；富利食品股份有限公司
@@ -2327,9 +2260,8 @@ n. 游说团体，活动集团；大堂，大厅；（旨在对政治家施加�
 1.Sky Lobby 空中大厅；空中走廊；天空大厅
 2.hotel lobby 饭店大堂；宾馆大厅；酒店大堂；饭馆大堂
 3.Lobby Bar 大堂吧；大堂酒吧；大厅酒吧；希尔顿酒店大堂酒吧
-4.hotel lobby 饭店大堂；宾馆大厅
+4.lobby for 游说议员；为…游说
 5.lobby lounge 大堂酒廊；大堂酒吧
-6.lobby for 游说议员；为…游说
 [联]lobby (大厅) + y (字母) ——> 大厅里有字母
 
 cabin / ˈkæbɪn /
@@ -2344,7 +2276,7 @@ v. <旧>使身居斗室
 2.Cabin Fever 尸骨无存；幽居病
 3.Uncle Tom's Cabin 汤姆叔叔的小屋；汤姆大伯的小屋
 4.cabin crew 航班空服人员
-5.log cabinn.  小木屋
+5.log cabin 小木屋
 6.cabin fever 幽居病
 [联]cabin (小屋) + ette (表示小的后缀) ——> 小木屋
 
@@ -2360,9 +2292,8 @@ n. 外表，外面；外部世界，物质世界
 1.Outward Bound 拓展训练；外展训练；拓展培训；英文名
 2.outward journey 外出的旅行
 3.Outward cargo 出港货； 贸易  出口货物；外运货物出口货
-4.outward appearance 外观；外表
+4.outward appearance 外观；外表；[经]汇出汇款
 5.outward processing 外发加工
-6.outward remittance[经]汇出汇款
 [联]outward (向外的，外部的) + -ard (表示具有某种倾向的人或物) ——> 表示倾向于外面的
 
 erection / ɪˈrekʃn /
@@ -2402,8 +2333,8 @@ adj. 建筑结构的；建筑用的；结构（或构造）上的
 3.It's a structural revolution. 这是一场结构革命。
 [搭]
 1.Structural Biology 结构生物学；分析技术相结合；生物构造学
-2.Structural Engineering 建  结构工程； 建  结构工程学；建筑工程；布局工程
-3.structural formula 化学  结构式；分子式；化学结构式；构造式
+2.Structural Engineering 结构工程； 结构工程学；建筑工程；布局工程
+3.structural formula 结构式；分子式；化学结构式；构造式
 4.structural adjustment 结构调整，薪级结构调整
 5.structural design 结构设计
 6.structural analysis 结构分析
@@ -2466,7 +2397,7 @@ v. 伸长（脖子）看，探头看；（用起重机）吊运；（行动前�
 1.Gantry crane 机  门式起重机； 机  龙门起重机；龙门吊；高架起重机
 2.Hart Crane 哈特·克莱恩；哈特·克兰；克莱恩；克兰
 3.Sarus Crane 赤颈鹤
-4.tower crane[机]塔式起重机
+4.tower crane [机]塔式起重机
 5.gantry crane 龙门起重机
 6.bridge crane 桥式起重机；桥式吊车
 [联]construction (建筑，建造) + vehicle (车辆) ——> 起重机
@@ -2482,7 +2413,6 @@ v.（用手支撑或撑杆）跳跃，跃过；跃升，蹿升；给…. . . 盖
 1.pole vault 撑竿跳高；撑杆跳高；撑杆跳；撑竿跳
 2.cable vault 通信,电  电缆进线室；电缆地下室；电缆窖； 通信,电  电缆室
 3.annular vault 建  环形穹顶；筒形拱顶
-4.pole vault 撑竿跳，撑杆跳高
 [联]strong (强壮的) + hold (持有，握住) ——> 保险库，地窖
 
 maintenance / ˈmeɪntənəns /
@@ -2494,10 +2424,9 @@ n. 维护，保养；保持，维持；（依法应负担的）生活费，抚�
 [搭]
 1.Maintenance Engineer 维修工程师；维护工程师；设备维护工程师；设备维修工程师
 2.preventive maintenance 科技  预防性维护； 科技  预防性维修； 科技  预防性保养
-3.MACHINE MAINTENANCE 机械保养；机器保养；机疲养；机械调养
+3.maintenance cost 维护费用
 4.operation and maintenance 使用和维护
 5.equipment maintenance 设备维修；设备保养
-6.maintenance cost 维护费用
 [联]main (主要的) + tain (保持) + ance (名词后缀) ——> 维持、保养
 
 establishing / ɪˈstæblɪʃɪŋ /
@@ -2536,7 +2465,6 @@ v. <正式>居住，定居；<正式>存在于；<正式>（权利、权力等�
 1.reside in 存在于；居住；属于；居住在
 2.John Reside Hykes 海格思
 3.reside on 居住在；位于；属于；驻留在上
-4.reside in 居住；存在于
 [联]re (再，又) + side (边，侧) ——> 再次位于一边，意指居住
 
 viaduct / ˈvaɪədʌkt /
@@ -2621,15 +2549,13 @@ adj. 整洁干净的，照管得很好的（spick and span）
 1.attention span 心理  注意广度；注意力的持续时间；注意力
 2.Maximum life span 最长寿命；寿限；最大寿命
 3.life span 寿命；使用期限；使用寿命；生存期
-4.life span 寿命；使用期限
+4.time span 时间跨度
 5.long span 长跨度
-6.time span 时间跨度
 [联]span (跨度，范围) + an (不定冠词，用于辅音前，这里作为联想辅助) ——> 描述一个跨越某个范围的空间概念
 
 reserve / rɪˈzɜːrv /
 v. 预订；保留，预留；拥有，保留（某种权利）；留作，用于（特定场合）；保留（意见），推迟作出（决定或判断）；贮存，贮藏；（教会用语）弥撒仪式后保留部分圣餐
-n. 储备（量），储藏（量）；含蓄，寡言；保留意见，异议；（野生生物）保护区；替补队员，后备队员；后备队，替补队（the reserves）；预备役部队，后备部队；（尤指拍卖时的）底价，最低价；（美洲土著居民的）居留地；（陶瓷装饰或纺织品印染中保留原色的）防染本色区
-；（陶瓷装饰或纺织品印染中保留原色的）防染本色区
+n. 储备（量），储藏（量）；含蓄，寡言；保留意见，异议；（野生生物）保护区；替补队员，后备队员；后备队，替补队（the reserves）；预备役部队，后备部队
 [例]
 1.I'll reserve a table for five. 我要预订一个5人的餐位。
 2.You can reserve seats over the telephone. 你可以打电话预订座位。
@@ -2637,10 +2563,8 @@ n. 储备（量），储藏（量）；含蓄，寡言；保留意见，异议�
 [搭]
 1.nature reserve 林,环境  自然保护区；自然护理区；自然保留地；天然保护区
 2.reserve fund 储备基金； 金融  准备金；备用资金； 财政  后备基金
-3.Federal Reserve 联邦储备委员会；美国联邦储备委员会
-4.federal reserve（美国）联邦储备系统
-5.nature reserven.  自然保护区
-6.in reserve 备用的；留下的
+3.federal reserve 联邦储备委员会；美国联邦储备委员会；（美国）联邦储备系统
+4.in reserve 备用的；留下的
 [联]re (再次，回) + serve (服务) ——> 再次服务
 
 expanse / ɪkˈspæns /
@@ -2648,7 +2572,6 @@ n. 宽阔；广阔的区域；苍天；膨胀扩张
 [例]
 1.Its expanse of red Indian sandstone and wavy ribbons of glass is beautiful. 它广阔的红色印度砂岩和波浪状的玻璃带是美丽的。
 2.The grass was like an expanse of gold, and below her the valley swam in golden mist. 草地都是金色的，她脚下的山谷笼罩在金色的薄雾中。
-3.She began to address more ambitious themes in her dances such as The Sea, in which her dancers invisibly agitated a huge expanse of silk, played upon by colored lights. 她开始在她的舞蹈中表现出更宏大的主题，比如《大海》，在此作品中，她的舞者挥舞着一大片隐形的丝绸，这是通过彩色灯光创造出来的。
 [搭]
 1.The Expanse 太空无垠；无垠的太空；浩瀚天穹；苍穹浩瀚
 2.Shimmering Expanse 闪光瀚洋；闪光瀚土
@@ -2688,10 +2611,10 @@ v. 阻塞，堵塞（道路、管道等）；遮住（视线）；封锁，挡�
 [联]brick (砖块) + lock (锁住) ——> 一块被锁住的砖头
 
 site / saɪt /
-n. （建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位
+n.（建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位
 v. 使坐落在，为. . . . . . 选址
 [例]
-1.Do you want to bookmark this site?你想给这个站点做书签吗？《牛津词典》。
+1.Do you want to bookmark this site?你想给这个站点做书签吗？。
 2.This site is definitely worth bookmarking. 这个网站绝对值得设电子书签。
 3.The monument was moved bodily to a new site. 整个纪念碑被迁到了新的地点。
 [搭]
@@ -2729,15 +2652,14 @@ vt. 虐待；滥用；粗暴对待
 [联]mal (坏) + treat (对待) ——> 殴打、虐待
 
 infra / ˈɪnfrə /
-adv. （文书用语）在下；下文
+adv.（文书用语）在下；下文
 [例]
 1.It's hard to get attacks against the cloud infra-structure. 这种攻击对云基础设施很难奏效。
 2.In the case of lidar, the waves are in the form of an infra-red laser beam. 至于激光雷达，电磁波是以红外激光束的形式发射的。
 3.Quartz is simply infra dig, so keep that for your throwaway or unbreakable casual watch. 石英手表实在有失身份，所以只能暂时使用，或者是当作一种牢固的休闲手表来使。
 [搭]
-1.infra-在；下；在下；低于
+1.vide infra 参见下文；见下页；见下
 2.infra-red lamp 红外灯；红外线灯；红外线照明器；线照冥具
-3.vide infra 参见下文；见下页；见下
 [联]infra (下面) + structure (结构) ——> 基础结构
 
 lavatory / ˈlævətri /
@@ -2762,7 +2684,6 @@ v. 为（房间或房屋）配备家具；提供，供应
 1.furnish roll 送料辊；供料辊
 2.Spanish furnish 色彩装饰
 3.furnish with 供给；提供；用…装饰；给…提供
-4.furnish with 供给，提供；用…装饰
 [联]furnish (提供，装备) + ish (形容词后缀) ——> 提供家具的
 
 airtight / ˈeətaɪt /
@@ -2822,8 +2743,7 @@ n. 好转，复苏；修理过的地方，补丁
 1.Time can never mend 时光永远无法弥补；时间无法弥补；时间永远都无法弥补；时间也无法弥补
 2.mend or end 不改则废；要么改；或者改进
 3.on the mend 在好转中；恢复健康；康复中；好转
-4.on the mend 在好转中
-5.mend one's fences 修补篱笆；争取重新建立好关系
+4.mend one's fences 修补篱笆；争取重新建立好关系
 [联]men (男人) + d (助记符号“的”) ——> 男人的补丁
 
 entry / ˈentri /
@@ -2835,10 +2755,8 @@ n. 进入，加入；出场，莅临；门，入口；进入权，进入许可�
 [搭]
 1.No Entry 禁止入内；不准驶入；禁止驶人；不准入内
 2.entry point 入口点；切入点；进入点；入水点
-3.EXPRESS ENTRY 快速通道；快速移民；快速移民通道
-4.entry into 进入，加入
-5.data entry[计]数据输入；资料登录
-6.entry point[计]入口点；入职薪点；入水点
+3.entry into 进入，加入
+4.data entry[计]数据输入；资料登录
 [联]entry (入口) + point (点) ——> 入口点
 
 layer / ˈleɪər /
@@ -2850,11 +2768,10 @@ v. 分层放置；把（头发）分层剪短；用压条培育（植物）
 3.I could see a thick layer of dust on the stairs. 我能看见楼梯上厚厚的一层灰尘。
 [搭]
 1.network layer 计  网络层；网路层；收集层
-2.PHYSICAL LAYER 通信,计  物理层；实体层；实体
-3.session layer 计  会话层； 计  对话层；会议层；会晤层
-4.boundary layer 边界层
-5.thin layer 薄层；薄膜层
-6.surface layer 表层
+2.session layer 计  会话层； 计  对话层；会议层；会晤层
+3.boundary layer 边界层
+4.thin layer 薄层；薄膜层
+5.surface layer 表层
 [联]atmo (水汽) + sphere (球体，球形) ——> 大气圈
 
 maltreatment / ˌmælˈtriːtmənt /
@@ -2879,7 +2796,6 @@ n. 肤色，气色；概貌，局势
 1.complexion soap 美肤皂；美肤香皂
 2.sallow complexion 面色萎黄
 3.Elasticity & Complexion 提升紧致；晋升紧致
-4.sallow complexion 面色萎黄
 [联]complex (复杂的) + ion (名词后缀) ——> 复杂的状态或情况
 
 residential / ˌrezɪˈdenʃ(ə)l /
@@ -2893,8 +2809,7 @@ adj. 住宅区的，居民区的 ；家庭的，住宅的；（为工作、学�
 2.residential building 住宅建筑；住宅楼；居住建筑；住宅建筑物
 3.Residential areas 居住区；住宅小区；居住区景观设计
 4.residential area 住宅区，居民区
-5.residential building 住宅建筑物
-6.residential property 住宅物业；住宅房地产
+5.residential property 住宅物业；住宅房地产
 [联]reside (居住) + nt (常见后缀) + ential (常见后缀) ——> 住宅的
 
 modifiable / ˈmɒdɪfaɪəbl /
@@ -2920,7 +2835,7 @@ n. 大厦，宅邸；<英>公寓楼
 2.Prince Gong Mansion 恭王府
 3.Kiu Kwan Mansion 侨冠大厦
 4.mansion house 大厦之屋，民信大厦；府邸
-5.executive mansionn.  白宫；州长官邸
+5.executive mansion 白宫；州长官邸
 [联]man (人) + sion (抽象名词后缀) ——> 大型建筑， Mansion通常指代富丽堂皇的大型建筑，与“人”和“抽象概念”结合，表示一种宏伟的居住场所。
 
 porch / pɔːrtʃ /
@@ -2943,9 +2858,7 @@ n. 议会，代表大会；集会，集会者；装配，组装；（计算机�
 3.The furniture comes complete with tools and instructions for assembly. 这件家具备有组装工具和说明书。
 [搭]
 1.National Assembly 国民大会；国民议会；国民会议；韩国国民大会
-2.assembly line 机  装配线；组装线；生产流水线
-3.assembly language 计  汇编语言；组合语言；汇编；汇编说话
-4.assembly line 装配线；流水作业线
-5.general assembly 联合国大会
-6.assembly languagen.  汇编语言
+2.assembly line 装配线；组装线；生产流水线
+3.assembly language 汇编语言；组合语言；汇编；汇编说话
+4.general assembly 联合国大会
 [联]assemble (集合) + y (表名词后缀) ——> 聚集、集合

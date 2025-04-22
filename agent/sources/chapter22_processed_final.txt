@@ -18,7 +18,7 @@ adj. 一年一度的；年度的；（植物）一年生的
 n. 一年生植物；年刊，年鉴
 [例]
 1.Annual boarding fees are $10,350. 每年的住校费是10,350美元。
-2.How much annual leave do you get?你们的年假有多长？《牛津词典》。
+2.How much annual leave do you get?你们的年假有多长？。
 3.All roses require annual pruning. 玫瑰都要年年修剪。
 [搭]
 1.annual report 会计  年报； 图情  年度报告；决算书
@@ -297,7 +297,7 @@ n. 结尾，结局；（赛跑、比赛的）终点；最后精细加工；饰�
 [例]
 1.I can easily finish it tonight. 我今晚能毫不费力地把它完成。
 2.Listen, I finish at one. 听着，我一点钟结束。
-3.I thought you'd never finish!我还以为你会完成不了呢！《牛津词典》。
+3.I thought you'd never finish!我还以为你会完成不了呢！。
 [搭]
 1.Surface finish 机  表面光洁度；表面处理； 建  表面修饰；表面粗糙度
 2.CLEAN FINISH 还口；卷边；原身较结；还嘴
@@ -358,7 +358,7 @@ adv. 直接地
 firstly / ˈfɜːstli /
 adv. （用于引出一系列陈述）首先，第一
 [例]
-1.There are two reasons for this decision: firstly. . . 做此决定理由有二：第一…《牛津词典》。
+1.There are two reasons for this decision: firstly. . . 做此决定理由有二：第一…。
 2.It makes you look firstly at how you're treated and secondly how you treat everybody else. 它让你首先看别人怎样对待你，其次看你怎样对待别人。
 3.No, firstly, I am superman. 不，首先，我是超人。
 [搭]
@@ -468,7 +468,7 @@ adv. 紧急地，迫切地
 incidentally / ˌɪnsɪˈdent(ə)li /
 adv. 顺便说一句；偶然地；附带地，伴随地
 [例]
-1.Incidentally, have you heard the news about Sue?顺便问一句，你听说过休的事了吗？《牛津词典》。
+1.Incidentally, have you heard the news about Sue?顺便问一句，你听说过休的事了吗？。
 2.The information was only discovered incidentally. 这个信息只是偶然得到的。
 3."I didn't ask you to come.  Incidentally, why have you come?"“我没有叫你来。
 [搭]
@@ -652,7 +652,7 @@ adj. 半夜的，午夜的
 millennium / mɪˈleniəm /
 n. 一千年；千周年纪念日，千禧年（the millennium）；世界末日前基督治理世界的一千年（the millennium）；（作为乌托邦的）美满时期，太平盛世（the millennium）
 [例]
-1.How did you celebrate the millennium?你们是如何欢庆千禧年的？《牛津词典》。
+1.How did you celebrate the millennium?你们是如何欢庆千禧年的？。
 2.Managing ecosystems sustainably is more profitable than exploiting them, according to the Millennium Ecosystem Assessment. 根据千禧生态系统评估报告，可持续地管理生态系统比掠夺消耗它更有好处。
 3.Kofi Annan's staff devised the millennium development goals. 科菲安南的工作人员策划了千年发展目标。
 [搭]
@@ -687,7 +687,7 @@ adj. 每分钟的
 [例]
 1.The agreement has been examined minutely. 协议经过了细致入微的审查。
 2.The metal is then minutely examined to ensure there are no cracks. 之后金属被详细地检查来确保没有裂缝。
-3.The benefit of an x-ray far outweighs the minutely increased risk of cancer. x 射线的好处要远远超过细小增加地癌症风险《柯林斯英汉双解大词典》。
+3.The benefit of an x-ray far outweighs the minutely increased risk of cancer. x 射线的好处要远远超过细小增加地癌症风险。
 [搭]
 1.Minutely create 微创
 2.minutely ad 详细地

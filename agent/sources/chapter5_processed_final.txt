@@ -1,5 +1,5 @@
 education / ˌedʒuˈkeɪʃn /
-n. （尤指学校）教育；培养，训练；教育机构，教育界人士；教育学；有教益的经历
+n.（尤指学校）教育；培养，训练；教育机构，教育界人士；教育学；有教益的经历
 [例]
 1.Education is the key to success. 教育是成功的关键。
 2.The education system needs reform. 教育体制需要改革。
@@ -889,7 +889,7 @@ n. 科学家
 [联] sci (science) + entist (表示从事某职业的人) ——> 科学从业者
 
 mento / ˈmentəʊ /
-n. （电影、音乐等的）配乐
+n.（电影、音乐等的）配乐
 [例]
 1.The film's soundtrack was composed by a famous mento. 这部电影的配乐是由一位著名的作曲家创作的。
 2.The mento gave the movie a unique emotional tone. 配乐为这部电影赋予了独特的感情基调。
@@ -963,7 +963,7 @@ n. 度，度数（温度单位）；（角的）度，度数；学位课程，�
 5.bachelor degree 学士学位；大学本科学位证书
 
 qualify / ˈkwɑːlɪfaɪ /
-v. （使）有权去做；取得资格，达到标准；获得参赛资格；使合格，胜任；符合，可算作；具体说明，使语气缓和；修饰，限定
+v.（使）有权去做；取得资格，达到标准；获得参赛资格；使合格，胜任；符合，可算作；具体说明，使语气缓和；修饰，限定
 [例]
 1.He qualified for the marathon after months of training. 经过几个月的训练，他取得了参加马拉松的资格。
 2.Lawyers must qualify for admission to the bar. 律师必须取得执业资格。
@@ -1127,8 +1127,8 @@ v. 篡改，伪造；将有害物掺入（食物或饮料）中；阉割（动�
 [联] doc (表示有能力) + tor (表示从事某职业的人)——> 有能力治病救人的人。
 
 fresher / ˈfreʃər /
-n. （非正式）大学一年级新生
-adj. （尤指食物）更新鲜的；更新的；（水）更淡的；（天气）清凉的；更洁净的
+n.（非正式）大学一年级新生
+adj.（尤指食物）更新鲜的；更新的；（水）更淡的；（天气）清凉的；更洁净的
 adv. 更新鲜地；更新地
 [例]
 1.As a fresher, he was excited to start university life. 作为一名新生，他对开始大学生活感到兴奋。
@@ -2227,7 +2227,7 @@ n. 总数；总额；全体
 [联] 与“sum”意思相近
 
 merger / ˈmɜːrdʒər /
-n. （公司、组织的）合并；<法律>兼并，吸收
+n.（公司、组织的）合并；<法律>兼并，吸收
 [例]
 1.The merger of two companies will create a stronger entity. 两家公司的合并将创建一个更强大的实体。
 2.The merger proposal has been approved by shareholders. 兼并提议已获股东批准。
@@ -3201,7 +3201,7 @@ religious doctrine 宗教教义
 [联] doc-（教）+ -trine（名词后缀）——> 传授的东西
 
 principle / ˈprɪnsəp(ə)l /
-n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素
+n.（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素
 [例]
 1.Honesty is one of the basic principles of life. 诚实是人生的基本原则之一。
 2.The principle of conservation of energy is fundamental in physics. 能量守恒原理在物理学中是基本的。

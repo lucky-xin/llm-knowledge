@@ -84,7 +84,7 @@ v. 行动；举动，表现；假装；表演，演出；担任；起作用；�
 n. 行为，行动；法案；装模作样；（戏剧、歌剧等的）一幕；一段表演；节目；表演者，演出团体；发现某人正在（做某事）；判决书；<旧>会议记录，公报
 [例]
 1.She doesn't go on until Act 2. 她要到第2幕才出场。
-2.Can you act as interpreter?你能担任口译吗？《牛津词典》。
+2.Can you act as interpreter?你能担任口译吗？。
 3.You must act boldly and confidently. 你必须表现得大胆、自信。
 [搭]
 1.Clean Air Act 清洁空气法案；清洁空气法；空气清洁法；净化空气法案
@@ -222,7 +222,7 @@ n. 诱惑，诱惑物
 amaze / əˈmeɪz /
 v. 使惊奇，使惊愕
 [例]
-1.You never cease to amaze me!你总能让我感到惊奇！《牛津词典》。
+1.You never cease to amaze me!你总能让我感到惊奇！。
 2.He never ceases to amaze me. 他总让我惊喜不断。
 3.It never ceases to amaze me what some people will do for money. 有些人为了钱什么都干得出来，这一直使我惊愕不已。
 [搭]
@@ -315,7 +315,7 @@ n. 广度，阔度，量；（物理）波幅，振幅；（天文）（天体�
 annoy / əˈnɔɪ /
 v. 使恼怒，使烦恼；打扰，骚扰；<古>侵扰
 [例]
-1.Does it annoy you if others don't seem to try hard enough?如果其他人做得似乎不够努力，这会使你烦恼吗？《柯林斯英汉双解大词典》。
+1.Does it annoy you if others don't seem to try hard enough?如果其他人做得似乎不够努力，这会使你烦恼吗？。
 2.They incidentally annoy their friends. 他们无意间惹恼了他们的朋友。
 3.She tends to annoy people. 她的举止往往惹人烦。
 [搭]
@@ -391,7 +391,7 @@ argumentative / ˌɑːɡjuˈmentətɪv /
 adj. 好争辩的，好争吵的；系统化推理的，按部就班地论证的；争辩的，辩论的
 [例]
 1.It was because he was of an argumentative mind that in their cabin at night he permitted himself to carp. 正是因为他爱争辩，所以晚上在他们的船舱里，他才允许自己吹毛求疵。
-2.You're in an argumentative mood today!你今天的劲头就是找人吵架的！《柯林斯英汉双解大词典》。
+2.You're in an argumentative mood today!你今天的劲头就是找人吵架的！。
 3.He was polite, less argumentative, more thoughtful, and much happier. 他变得彬彬有礼，少了些争辩，多了些体贴周到，也变得更快乐了。
 [搭]
 1.Argumentative Writing 议论文写作；议论文；议论之文
@@ -416,7 +416,7 @@ v. 引起，激起；叫醒，唤醒；激起……的性欲
 arrange / əˈreɪndʒ /
 v. 安排，筹备；整理，布置，排列；改编；商定
 [例]
-1.Can I arrange an appointment for Monday?我可以安排星期一约见吗？《牛津词典》。
+1.Can I arrange an appointment for Monday?我可以安排星期一约见吗？。
 2.I will arrange for someone to take you around. 我会安排好人领你转转。
 3.The hotel manager will arrange for a babysitter. 宾馆经理会安排一位保姆。
 [搭]
@@ -431,7 +431,7 @@ n. 安排，筹备；商定，约定；整理，排列，布置；改编
 [例]
 1.That arrangement suits me fine. 那种安排对我很合适。
 2.Visits are by prior arrangement. 参观需要事先安排。
-3.Are you happy with that arrangement?你对这一安排感到满意吗？《牛津词典》。
+3.Are you happy with that arrangement?你对这一安排感到满意吗？。
 [搭]
 1.tour arrangement 旅行安排；旅行部署；旅行放置
 2.course arrangement 课程安排；课程按排；排课管理
@@ -671,7 +671,7 @@ v. 吸引；（物体间）产生引力；引起；有吸引力
 [例]
 1.She tried to attract the waiter's attention. 她试图引起服务员的注意。
 2.She gave a little cough to attract my attention. 她轻轻地咳了一声以引起我的注意。
-3.How can we attract more visitors to our website?我们如何才能吸引更多人访问我们的网站呢？《牛津词典》。
+3.How can we attract more visitors to our website?我们如何才能吸引更多人访问我们的网站呢？。
 [搭]
 1.attract foreign investment 对外招商；吸引外资；吸收外资；招商引资
 2.Opposites attract 异性相吸；冤家不聚头；同性相呼；异相吸
@@ -923,7 +923,7 @@ n. 持票人；[建] 承木；[机] 托架；送信人；搬运工人；不记�
 behave / bɪˈheɪv /
 v. 行为，表现；起反应，起作用；守规矩，举止得体
 [例]
-1.Will you kids just behave!孩子们，规矩点！《牛津词典》。
+1.Will you kids just behave!孩子们，规矩点！。
 2.Boys and girls may behave differently. 男孩儿和女孩儿的表现可能不同。
 3.Children must learn to behave at table. 小孩必须学会吃饭时的规矩。
 [搭]
@@ -1165,7 +1165,7 @@ v. 取消（计划好的事情）；终止，废除；盖销，注销；（因�
 n. 取消，撤销；邮票注销章，戳记；经修正的版面
 [例]
 1.The customer called to cancel. 顾客打电话来取消了。
-2.Is it too late to cancel my order?我现在取消订单是不是太晚了？《牛津词典》。
+2.Is it too late to cancel my order?我现在取消订单是不是太晚了？。
 3.You may cancel or rearrange the appointment. 你可以取消或重新安排这次预约。
 [搭]
 1.cancel an order 撤消订单；撤销订单；取消；取消订单
@@ -1194,9 +1194,9 @@ catch / kætʃ /
 v. 接住；抓住，握住；逮住，捕获；发现，撞见；钩住，绊住；击中，碰到；得病，染病；引起，吸引（注意或兴趣）；（对某事）感到兴奋；搭乘，赶上；及时做（或谈等）；出席，观看；表现，再现；使措手不及；察觉，瞥见；听清，理解；突然意识到；盛住（液体）；（板球）使被接杀出局；（棒球中）当接球手；受（光）照射；（风或水）裹挟，推动；着火，燃烧；遭遇，陷入（困境）；固定，系牢；被（悬浮物）覆盖
 n. 接（球等）；（鱼的）捕获量，捕获物；<旧>理想的对象；门闩，吊扣；（声息）哽塞；隐患，隐藏的困难；（乐）轮唱片段；传接球游戏；捉人游戏
 [例]
-1.You'll be sorry if I catch you!要是让我抓着，你会后悔的！《牛津词典》。
+1.You'll be sorry if I catch you!要是让我抓着，你会后悔的！。
 2.We can catch the early morning train. 我们能赶上清晨的那班火车。
-3.Where did you catch the fish?你在哪儿捕到了这条鱼？《柯林斯英汉双解大词典》。
+3.Where did you catch the fish?你在哪儿捕到了这条鱼？。
 [搭]
 1.catch up with 赶上；追上；迎头赶上；遇上
 2.Catch Me If You Can 我知道你是谁；逍遥法外；猫鼠游戏
@@ -1238,8 +1238,8 @@ celebrate / ˈselɪbreɪt /
 v. 庆祝，庆贺；赞扬，赞美；主持（宗教仪式）
 [例]
 1.I was in a mood to celebrate. 我很想庆祝一番。
-2.Scottish champs celebrate victory!苏格兰的冠军庆祝胜利！《牛津词典》。
-3.Let's celebrate and damn the expense!管它花多少钱，咱们先庆祝一番再说！《牛津词典》。
+2.Scottish champs celebrate victory!苏格兰的冠军庆祝胜利！。
+3.Let's celebrate and damn the expense!管它花多少钱，咱们先庆祝一番再说！。
 [搭]
 1.Tonight i celebrate my love 今夜庆祝我俩的爱；今晚我庆祝爱情；今夜燃亮爱；今夜庆祝我的爱
 2.celebrate the spring festival 过年；春节；庆祝春节
@@ -1407,7 +1407,7 @@ v. 诉说 （病痛）；<文>悲叹，悲鸣；（构造，机械装置）（�
 [例]
 1.I was too cowardly to complain. 我胆小得都不敢抱怨。
 2.All she ever does is complain. 她就会抱怨。
-3.Then they had the gall to complain!而且他们居然还有脸抱怨！《牛津词典》。
+3.Then they had the gall to complain!而且他们居然还有脸抱怨！。
 [搭]
 1.complain of 诉苦；抗议；抱怨；主述
 2.complain about 抱怨；对他发牢骚；埋怨；投诉
@@ -2296,7 +2296,7 @@ n. 漠视，轻视
 distinguish / dɪˈstɪŋɡwɪʃ /
 v. 使有别于；看清，认出；区别，分清
 [例]
-1.Could he distinguish right from wrong?他能辨别是非吗？《柯林斯英汉双解大词典》。
+1.Could he distinguish right from wrong?他能辨别是非吗？。
 2.It's important to distinguish fact from fiction. 区别真实和虚构是重要的。
 3.It was hard to distinguish one twin from the other. 很难分辨出一对孪生儿谁是谁。
 [搭]
@@ -2594,7 +2594,7 @@ n. 借口，托词；正当理由；宽恕，赦免；拙劣样品，蹩脚货�
 v. 原谅，宽恕；辩解，开脱；准许……离开；同意免除
 [例]
 1.She served up the usual excuse. 她给出的借口还是老一套。
-2.Excuse me, is this your seat?对不起，这是您的座位吗？《牛津词典》。
+2.Excuse me, is this your seat?对不起，这是您的座位吗？。
 3.Excuse my interrupting you. 对不起，打扰你一下。
 [搭]
 1.Excuse me 对不起；请原谅；打扰一下；打扰了
@@ -2684,7 +2684,7 @@ v. 解释，说明；说明（……的）原因，解释（……的）理由
 [例]
 1.It's pretty hard to explain. 这事很难解释清楚。
 2.Explain why you didn't telephone. 解释一下你为什么不打电话。
-3.Can you explain that point again?你能再解释一下那一点吗？《牛津词典》。
+3.Can you explain that point again?你能再解释一下那一点吗？。
 [搭]
 1.EXPLAIN PLAN 执行计划；阅读；单独使用；解释计划
 2.No Time To Explain 没空解释；没时间解释；激光男孩；没空说明
@@ -2867,7 +2867,7 @@ n. 扣件；钮扣；按钮；使系牢之物
 flatter / ˈflætə(r) /
 v. 奉承，讨好；使高兴，使感到荣幸；使显得更漂亮；使（某物）显得更重要（更好）
 [例]
-1.Are you trying to flatter me?你是想讨好我？《牛津词典》。
+1.Are you trying to flatter me?你是想讨好我？。
 2.That colour doesn't flatter many people. 那种颜色很多人都不适宜。
 3.Clever tailoring can flatter your figure. 巧妙的裁剪可以使你的身材显得优美。
 [搭]
@@ -3357,7 +3357,7 @@ v. 匆忙，急忙；催促；（朝某方向）迅速移动；迅速处理
 n. 急忙；紧急，赶紧的理由
 [例]
 1.Take your time—there's no hurry. 悠着点—不用急。
-2.Hurry— there's no time to lose !快点—抓紧时间吧！《牛津词典》。
+2.Hurry— there's no time to lose !快点—抓紧时间吧！。
 3.Hurry up or else you'll be late. 快点，否则你就要迟到了。
 [搭]
 1.in a hurry 急于；立即；急忙
@@ -3372,7 +3372,7 @@ ignorance / ˈɪɡnərəns /
 n. 无知，愚昧
 [例]
 1.She was reluctant to confess her ignorance. 她不愿意承认自己无知。
-2.Pardon my ignorance, but what is a 'duplex'?请原谅我无知，duplex 是什么呢？《牛津词典》。
+2.Pardon my ignorance, but what is a 'duplex'?请原谅我无知，duplex 是什么呢？。
 3.Ignorance of roaming call charges is common. 不知道漫游电话收费情况很普遍。
 [搭]
 1.Veil of ignorance 无知之幕；无知的面纱；无知面纱；无
@@ -3678,7 +3678,7 @@ invite / ɪnˈvaɪt /
 v. 邀请，约请；征求，请求；引起，招致
 n. <非正式>请柬，请帖
 [例]
-1.Who did you invite to the party?你邀请了哪些人来参加聚会？《牛津词典》。
+1.Who did you invite to the party?你邀请了哪些人来参加聚会？。
 2.It was nice of them to invite us. 他们真好，邀请了我们。
 3.I'm in a dither about who to invite. 我拿不定主意邀请谁。
 [搭]
@@ -3861,7 +3861,7 @@ v. 用膝盖顶（撞）
 [例]
 1.She fell and scraped her knee. 她摔了一跤，把膝盖蹭破了。
 2.The water was only knee-deep. 水只有齐膝深。
-3.Is your knee still painful?你的膝盖还疼吗？《牛津词典》。
+3.Is your knee still painful?你的膝盖还疼吗？。
 [搭]
 1.knee joint 膝关节；铰链关节；肘接；弯头接合
 2.Left Knee 左膝
@@ -4193,7 +4193,7 @@ n. 提及，说起，写上一笔；提名表扬
 [例]
 1.He made no mention of her work. 他根本没提她的工作。
 2.Sorry, I won't mention it again. 对不起，我再也不提它了。
-3.I mention it only as an aside. . . 我只是顺便提及…《牛津词典》。
+3.I mention it only as an aside. . . 我只是顺便提及…。
 [搭]
 1.Not to mention 且不说；更不用说；谈不上
 2.Honorable Mention 二等奖；国际二等奖；荣誉奖；优秀奖
@@ -4265,7 +4265,7 @@ n. <英>模拟考试（mocks）；<旧>嘲笑对象，笑柄；嘲笑；模仿�
 adv. 虚假地，不诚实地
 [例]
 1.You can mock, but at least I'm willing to have a try!你可以嘲笑我，但我至少愿意试一试。
-2.What did you get in the mock?你的模拟考试得了多少分？《牛津词典》。
+2.What did you get in the mock?你的模拟考试得了多少分？。
 3.He frowned with mock severity. 他沉下脸来，装出一副严厉的样子。
 [搭]
 1.mock strawberry 蛇莓
@@ -4278,7 +4278,7 @@ adv. 虚假地，不诚实地
 mockery / ˈmɑːkəri /
 n. 嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲
 [例]
-1.Was there a glint of mockery in his eyes?他的眼里是不是有一丝嘲讽？《柯林斯英汉双解大词典》。
+1.Was there a glint of mockery in his eyes?他的眼里是不是有一丝嘲讽？。
 2.It was a mockery of a trial. 这次审判实在可笑。
 3.The trial made a mockery of justice. 这次审判是对正义的嘲弄。
 [搭]
@@ -4398,7 +4398,7 @@ neglectful / nɪˈɡlektfl /
 adj. 马虎的，不重视的，忽视的；不负责的，不尽职的
 [例]
 1.She became neglectful of her appearance. 她变得不修边幅起来。
-2.Have I been neglectful of my friend, taking him for granted?我忽视了我的朋友、没有把他当回事吗？《柯林斯英汉双解大词典》。
+2.Have I been neglectful of my friend, taking him for granted?我忽视了我的朋友、没有把他当回事吗？。
 3.He points out bringing it up with the parent first may make them feel neglectful, which could cause problems. 他指出，首先向父母提出这个可能会让他们觉得自己被忽视了，这可能会导致问题。
 [搭]
 1.Neglectful Parenting 忽略型
@@ -4489,7 +4489,7 @@ objective / əbˈdʒektɪv /
 n. 目的，目标；出击目标（尤指在军事攻击中)；（望远镜或显微镜中的）物镜；出击目标（尤指在军事攻击中）；宾格
 adj. 客观的，不带个人情感的；客观存在的；宾格的；目标的
 [例]
-1.What is the main objective of this project?这个项目的主要目标是什么？《牛津词典》。
+1.What is the main objective of this project?这个项目的主要目标是什么？。
 2.Winning is not the prime objective in this sport. 获胜不是这项体育运动的主要目的。
 3.Our objective must be to secure a peace settlement. 我们的目标必须是确保达成一个和平协议。
 [搭]
@@ -4504,7 +4504,7 @@ adj. 客观的，不带个人情感的；客观存在的；宾格的；目标的
 objectively / əbˈdʒektɪvli /
 adv. 客观地
 [例]
-1.Can these effects be objectively measured?这些结果能客观地衡量吗？《牛津词典》。
+1.Can these effects be objectively measured?这些结果能客观地衡量吗？。
 2.Looked at objectively, the situation is not too bad. 客观地看，局面并不算太糟。
 3.He has had time to cool down and look at what happened more objectively. 他有时间平静下来，并且更加客观地考虑发生的一切。
 [搭]
@@ -4578,7 +4578,7 @@ obtain / əbˈteɪn /
 v.（尤指通过艰难的过程）得到，获得；<正式>（规则或情况）存在，通用
 [例]
 1.He admitted conspiring to obtain property by deception. 他承认曾密谋通过欺骗获取财产。
-2.Can plants obtain adequate nourishment from such poor soil?土壤这样贫瘠，植物能获得足够的养分吗？《牛津词典》。
+2.Can plants obtain adequate nourishment from such poor soil?土壤这样贫瘠，植物能获得足够的养分吗？。
 3.Underage youths can obtain alcohol from their older friends. 未到法定年龄的孩子可以从他们年长的朋友那里得到酒。
 [搭]
 1.obtain employment 就业；从业；参加工作
@@ -4817,7 +4817,7 @@ n.（水果、蔬菜的）皮，外皮；去角质；（16世纪时建在英格�
 [例]
 1.The walls have begun to peel. 墙壁开始破皮了。
 2.The paint is starting to peel off. 油漆开始起皮剥落了。
-3.Will you peel the potatoes for me?你给我削土豆皮好不好？《牛津词典》。
+3.Will you peel the potatoes for me?你给我削土豆皮好不好？。
 [搭]
 1.orange peel 柑桔皮；橘皮状表面缺陷；桔皮；陈皮
 2.Robert Peel 罗伯特·皮尔；罗伯特；皮尔爵士；罗伯特·比尔
@@ -4846,7 +4846,7 @@ n. 一瞥；<非正式>说话，声音；吱吱声，啾啾声；（汽车的）
 [例]
 1.Children came to peep at him around the doorway. 孩子们来到门口偷看他。
 2.They crept to the door and took a trembling peep. 他们蹑手蹑脚地走到门口，哆哆嗦嗦地偷看了一眼。
-3.Could I just peep inside?我能不能看一眼里边？《牛津词典》。
+3.Could I just peep inside?我能不能看一眼里边？。
 [搭]
 1.Peep Show 窥视秀；西洋景；西洋镜；偷窥秀
 2.peep hole 猫眼
@@ -5033,7 +5033,7 @@ adj.（Polish）波兰的
 [例]
 1.Her father was a Polish count. 她父亲是波兰的一位伯爵。
 2.The room smelt strongly of polish. 那个房间里散发着浓浓的上光剂的气味。
-3.Can you polish the top of the table?请把桌面擦亮好吗？《牛津词典》。
+3.Can you polish the top of the table?请把桌面擦亮好吗？。
 [搭]
 1.Polish Requiem 波兰安魂曲
 2.shoe polish 鞋油；鞋擦亮剂
@@ -5309,8 +5309,8 @@ raise / reɪz /
 v. 提起，举起；（使）直立，站立；建造，树立（塑像等）；增加，提高；筹募，征集；提出，提起；引起，使出现；饲养，种植；抚养，养育；使自乘……次；比（对手）多下赌注；叫醒；使复活；终止，解除；与……取得联系；（海上人员）驶近能看见（陆地或其他船只）的地方；（免疫）刺激（抗血清、抗体等的）生成
 n. <美>加薪；（扑克牌或勃莱格牌用语）赌注加码；（举重）（持杠铃时的）提，举
 [例]
-1.How can we raise standards in schools?我们怎样才能提高学校的水平？《牛津词典》。
-2.Don't you raise your voice to me!别对我高声大气！《柯林斯英汉双解大词典》。
+1.How can we raise standards in schools?我们怎样才能提高学校的水平？。
+2.Don't you raise your voice to me!别对我高声大气！。
 3.We were forced to raise the price. 我们被迫提价。
 [搭]
 1.You Raise Me Up 你鼓舞了我；你激励了我；你的鼓励；一切因你
@@ -5475,7 +5475,7 @@ recall / rɪˈkɔːl /
 v. 记起，回想起；使想起，使想到；召回，叫回（某人）；召回（运动员），使归队； 收回（有问题的产品）；检索，调用（计算机储存的数据）；<美> 罢免；使重新集中注意力；<古> 撤销，废止（行动，决定）
 n. 记忆力，记性；召回；（因产品有问题的）收回；（将运动员的）召回归队；<美>（请愿后经投票对政府官员的）罢免；回索率，检索率；撤销
 [例]
-1.Can you recall exactly what happened?你能记起到底发生了什么事吗？《牛津词典》。
+1.Can you recall exactly what happened?你能记起到底发生了什么事吗？。
 2.He tried to recall the layout of the farmhouse. 他想回忆那农舍的布局。
 3.I recall many discussions with her on these and kindred topics. 我回想起多次同她就这些问题及类似话题进行的讨论。
 [搭]
@@ -5665,7 +5665,7 @@ reflect / rɪˈflekt /
 v. 反射（光、热或声音）；反映，照出（影像）；显示，表明；深思，反省；深思后认为，深思后说；引起（某种）看法，带来影响
 [例]
 1.We should all give ourselves time to reflect. 我们都应该给自己时间来深思。
-2.Does such an attitudinal change reflect real experiences in daily life?人生观的这种转变是否反映了日常生活中的真实经历？《柯林斯英汉双解大词典》。
+2.Does such an attitudinal change reflect real experiences in daily life?人生观的这种转变是否反映了日常生活中的真实经历？。
 3.The risqué headlines don't necessarily reflect a new sexual libertinism. 该淫猥的标题并不一定就反映一种新的性自由思潮。
 [搭]
 1.reflect on 反省；回忆；思考
@@ -5723,9 +5723,9 @@ v. 拒绝，回绝（做某事）；不接受，拒绝（别人给的东西）�
 n. 垃圾，废弃物
 adj. 废弃的
 [例]
-1.I could hardly refuse, could I?我很难拒绝，是不是？《柯林斯英汉双解大词典》。
-2.Can I refuse to give testimony?我能拒绝作证吗？《牛津词典》。
-3.Am I to understand that you refuse?你是告诉我你拒绝了？《牛津词典》。
+1.I could hardly refuse, could I?我很难拒绝，是不是？。
+2.Can I refuse to give testimony?我能拒绝作证吗？。
+3.Am I to understand that you refuse?你是告诉我你拒绝了？。
 [搭]
 1.to refuse a cheque 拒付支票
 2.refuse to do sth 拒绝做某事；拒绝干某事；拒绝做；谢绝做某事
@@ -5769,7 +5769,7 @@ remind / rɪˈmaɪnd /
 v. 提醒，使想起；（因相像）使联想起（remind sb.  of）
 [例]
 1.Remind me to phone Alan before I go out. 提醒我在出去之前给艾伦打电话。
-2.Can you remind me to buy a bottle of wine?你能提醒我买一瓶葡萄酒吗？《柯林斯英汉双解大词典》。
+2.Can you remind me to buy a bottle of wine?你能提醒我买一瓶葡萄酒吗？。
 3.I'm sorry, I've forgotten your name.  Can you remind me?对不起，我忘了你的名字。
 [搭]
 1.remind me 来提醒我；智能提醒；提醒我
@@ -5864,7 +5864,7 @@ adv. 重复地，再三地
 replace / rɪˈpleɪs /
 v. 取代；（用……）替换，（以……）接替；更换， 赔还；把. . . . . . 放回原处
 [例]
-1.Have they found anyone to replace her yet?他们找到了代替她的人没有？《牛津词典》。
+1.Have they found anyone to replace her yet?他们找到了代替她的人没有？。
 2.He headed off efforts to replace him as leader. 他挫败了要取代他的领导地位的企图。
 3.New laws will soon replace existing legislation. 新法律即将取代现行法规。
 [搭]
@@ -6415,7 +6415,7 @@ n.（某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦
 ；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱
 adj.（球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
 [例]
-1.Does the cat scratch?这只猫抓人吗？《牛津词典》。
+1.Does the cat scratch?这只猫抓人吗？。
 2.Scratch my back – I've got an itch. 给我挠挠背–我痒痒。
 3.His work simply isn't up to scratch. 他的工作根本达不到要求。
 [搭]
@@ -6489,7 +6489,7 @@ n. 摇动，摇晃；奶昔；（摇动容器后的）撒出物；<非正式>哆
 [例]
 1.Her hands had started to shake. 她的手早已哆嗦起来。
 2.She gave him a shake to wake him. 她摇摇他，把他叫醒。
-3.Do people in Italy shake hands when they meet?在意大利，人们见面时握手吗？《牛津词典》。
+3.Do people in Italy shake hands when they meet?在意大利，人们见面时握手吗？。
 [搭]
 1.Shake It Up 舞动青春；舞动芝加哥；幸田来未；赶紧
 2.Harlem Shake 哈林摇；哈莱姆摇摆舞；屌丝舞；哈林摇摆
@@ -6668,7 +6668,7 @@ snatch / snætʃ /
 v. 一把抓住，立马夺下；夺去，抢走；抓住机会做（某事）；侥幸获得（胜利），险胜
 n. 抢夺，偷窃；（歌曲或谈话的）片段；片刻，一会儿；（举重）抓举；<非正式>（女性的）阴部
 [例]
-1.Hey, you kids! Don't all snatch!嗨，孩子们！别抢啊！《牛津词典》。
+1.Hey, you kids! Don't all snatch!嗨，孩子们！别抢啊！。
 2.I managed to snatch an hour's sleep. 我偷空儿睡了一小时的觉。
 3.She managed to snatch the gun from his hand. 她设法从他手里夺过了枪。
 [搭]
@@ -6683,7 +6683,7 @@ n. 种类，品种；某一种（或某一类）人；（计算机对信息的�
 v. 整理，把……分类，拣选；妥善处理，安排妥当；交往；协调
 [例]
 1.He's a reasonable sort of person. 他是那种通情达理的人。
-2.So that's twenty of each sort, right?那么，每一种都是二十个，对不对？《牛津词典》。
+2.So that's twenty of each sort, right?那么，每一种都是二十个，对不对？。
 3.Let's try to sort out the mess. 我们来收拾一下残局吧。
 [搭]
 1.merge sort 计  归并排序；合并排序；二路归并排序；合并排序法
@@ -6829,7 +6829,7 @@ v. 凝视，盯着看；瞪眼看，茫然地看；（事物）惹眼，显眼
 n. 凝视，注视
 [例]
 1.He fixed her with an angry stare. 他生气地盯着她。
-2.Don't stare at me – it's impolite!不要盯着我 - 这很无礼！《柯林斯英汉双解大词典》。
+2.Don't stare at me – it's impolite!不要盯着我 - 这很无礼！。
 3.Hlasek gave him a long, cold stare. 赫拉塞克冷冷地盯着他看了很久。
 [搭]
 1.stare at 凝视；盯着；目不转睛地看
@@ -6845,7 +6845,7 @@ v. 驾驶（交通工具），掌方向盘；引导，指导（某人的行为�
 n.（车辆的）驱动方式；<非正式> 建议，忠告；阉公牛，食用公牛
 [例]
 1.You row and I'll steer. 你划桨，我来掌舵。
-2.What is it like to steer a ship this size?驾驶这样大小的船会怎么样呢？《柯林斯英汉双解大词典》。
+2.What is it like to steer a ship this size?驾驶这样大小的船会怎么样呢？。
 3.The book tries to steer you through the maze of alternative therapies. 这本书试图引导你穿越替代疗法的迷雾。
 [搭]
 1.Ricardo Steer 里卡多·斯蒂尔
@@ -7045,9 +7045,9 @@ adj. 支持的，拥护的，给予帮助的
 suppose / səˈpoʊz /
 v. 推断，料想，猜想；假设，假定，设想；预期，需要，以……为条件；相信，认为（某事物是可能的）；（婉转表达）我看，要我说，要不；（因处于某种境地或因约定）必须做（be supposed to do sth. ）；我看（用于生气地表示预料某事属实）
 [例]
-1.Suppose him dead—what then?假如他死了—那怎么办？《牛津词典》。
+1.Suppose him dead—what then?假如他死了—那怎么办？。
 2.I suppose you think you're funny. 我想你认为自己很有趣。
-3.Suppose we take a later train?要不我们坐晚一点的火车？《牛津词典》。
+3.Suppose we take a later train?要不我们坐晚一点的火车？。
 [搭]
 1.suppose that 假如
 2.I Suppose 我想；以及我想；我猜想
@@ -7182,7 +7182,7 @@ v. 咒骂，诅咒；郑重承诺，发誓；保证（所说属实）；使起�
 n. 宣誓；诅咒
 [例]
 1.I swear I've told you all I know. 我发誓我已经把我所知道的都告诉你了。
-2.I swear by Almighty God. . . 我以全能上帝之名发誓…《牛津词典》。
+2.I swear by Almighty God. . . 我以全能上帝之名发誓…。
 3.I could kill you! I swear I could!我要杀了你！我发誓我要。
 [搭]
 1.I SWEAR 我宣誓；我发誓；誓言；林忆莲
@@ -7229,9 +7229,9 @@ tap / tæp /
 v. 轻拍，轻扣，轻敲；敲出节奏，打拍子；凿孔装（龙头或旋塞）；旋开（桶等容器）放出液体；在（树）上切口（导出液体）；（在电话上）装窃听器，窃听；开发，发掘，利用（资源、形势）；<美> 委任，指定（某人做某事）；<英，非正式> 非法劝说（运动员）转会（到另一俱乐部）；向（某人）索取， 从……处获得钱（或信息）；（使用键盘）输入；给……攻丝；发出轻拍音
 n. 水龙头，阀门，旋塞；轻拍（声），轻敲（声）；窃听，窃听器；踢踏舞；（踢踏舞鞋尖或鞋跟上的）金属片；（军营里晚上的）熄灯号，（军队的）葬礼号；<英>（女童子军活动中）篝火晚会上（或集会上）唱的结束曲；<英> 酒吧；螺丝攻；<英>（电） 分接头；轻拍音
 [例]
-1.Is the tap water safe to drink?这自来水喝了不会闹病吧？《牛津词典》。
+1.Is the tap water safe to drink?这自来水喝了不会闹病吧？。
 2.A tap in the kitchen was dripping. 厨房的水龙头在滴水。
-3.Who left the tap running?谁没关水龙头？《牛津词典》。
+3.Who left the tap running?谁没关水龙头？。
 [搭]
 1.tap dance 踢踏舞；美式踢踏；踢跶舞；轻拍舞
 2.tap water 自来水；饮用水；非蒸馏水；水喉水
@@ -7316,7 +7316,7 @@ n. 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the T
 [例]
 1.An expensive bicycle is a temptation to thieves. 高档自行车对窃贼是个诱惑。
 2.I yielded to temptation and had a chocolate bar. 我经不住诱惑，吃了一大块巧克力。
-3.Will they be able to resist the temptation to buy?他们能抵抗得住购买的诱惑吗？《柯林斯英汉双解大词典》。
+3.Will they be able to resist the temptation to buy?他们能抵抗得住购买的诱惑吗？。
 [搭]
 1.Within Temptation 致命诱惑；女主唱哥特金属
 2.The Last Temptation of Christ 基督的最后诱惑；基督最后的诱惑；基督最后诱惑
@@ -7329,7 +7329,7 @@ terrific / təˈrɪfɪk /
 adj. 极好的，了不起的；极大的，惊人的
 [例]
 1.I am completely energized and feeling terrific. 我现在充满了活力，感觉棒极了。
-2.I feel absolutely terrific today!我今天的感觉真是好极了！《牛津词典》。
+2.I feel absolutely terrific today!我今天的感觉真是好极了！。
 3.She's doing a terrific job. 她活儿干得真棒。
 [搭]
 1.terrific value 大贱卖；大甩卖
@@ -7409,7 +7409,7 @@ n. 触觉，触感；触摸，碰；触摸时的感觉；润色，装点；作�
 [例]
 1.No! Don't touch it! It's hot. 别！别碰它！很烫。
 2.She recoiled from his touch. 她躲开他的触摸。
-3.Don't touch that plate—it's hot!别碰那个盘子，烫手！《牛津词典》。
+3.Don't touch that plate—it's hot!别碰那个盘子，烫手！。
 [搭]
 1.Multi-Touch 多点触摸；多触点；技术
 2.Touch Panel 触摸屏；触控面板；触控屏

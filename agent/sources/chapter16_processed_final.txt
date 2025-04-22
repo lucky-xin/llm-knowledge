@@ -1,14 +1,14 @@
 abortion / əˈbɔːrʃ(ə)n /
 n. 流产，堕胎；失败；（生）（器官，尤其是种子或水果的）败育，停止发育；流产的胎儿
 [例]
-1.Is abortion morally defensible?堕胎从道德上讲合乎情理吗？《牛津词典》。
+1.Is abortion morally defensible?堕胎从道德上讲合乎情理吗？。
 2.I've always been anti-abortion. 我一直反对堕胎。
 3.Abortion is a very emotional issue. 堕胎是个令人情绪十分激动的问题。
 [搭]
 1.threatened abortion 妇产  先兆流产；安胎；胎动不安；前兆小产
 2.Forced abortion 强制引产；强制引产的英文
 3.missed abortion 妇产  稽留流产；稽留小产
-4.induced abortionn.  [医]人工流产
+4.induced abortion [医]人工流产
 5.spontaneous abortion 自然流产；自发性流产
 6.threatened abortion 先兆流产
 [联]abortion (堕胎) + discussion (讨论) ——> 堕胎讨论
@@ -35,9 +35,7 @@ v. 缺席，离开
 1.absent from 不在缺席
 2.be absent from 缺勤；缺席；不在；制度
 3.absent-minded 心不在焉；健忘；恍惚的；意为“心不在焉的
-4.absent from 缺席
-5.absent minded 健忘的
-6.absent from work 旷工；缺勤
+4.absent from work 旷工；缺勤
 [联]absent (缺席的) + mind (思维，头脑) ——> 心不在焉
 
 absentee / ˌæbsənˈtiː /
@@ -75,7 +73,6 @@ n. 缺席；（拉）[内科] 失神；失踪
 1.promotion in absentia 缺席擢升；缺席提升
 2.in absentia 缺席；不在场
 3.absentia epileptic 癫痫性失神
-4.in absentia（拉）缺席
 [联]absentia (缺席) + in (在...) ——> 缺席中
 
 accelerate / əkˈseləreɪt /
@@ -100,9 +97,8 @@ n. 加速，加快；（车辆）加速能力，加速幅度；加速度
 1.angular acceleration 力  角加速度；角加快度；加速度
 2.Hardware Acceleration 硬件加速
 3.fermi acceleration 费米加速；费密加速
-4.angular acceleration 角加速度
+4.constant acceleration 等加速度
 5.peak acceleration 峰值加速度；最大加速度值
-6.constant acceleration 等加速度
 [联]accelera (加速) + tion (名词后缀) ——> 加速度
 
 accelerator / əkˈseləreɪtər /
@@ -116,8 +112,7 @@ n. 油门；催化剂；[机] 加速装置
 2.accelerator pedal 机  加速踏板；油门踏板；加速皮板
 3.vulcanization accelerator 助剂  硫化促进剂；硫化增进剂；交联加速剂；硫化加速剂
 4.linear accelerator 直线加速器
-5.accelerator pedal（汽车等的）油门踏板；[机]加速踏板
-6.electron accelerator[物]电子加速器
+5.electron accelerator[物]电子加速器
 [联]accel (加速) + er (名词后缀，表人或物) ——> 加速器
 
 accompany / əˈkʌmpəni /
@@ -139,8 +134,8 @@ n. 账户，户头；客户，老主顾；网络账号；描述，报道；账�
 v. 把……视作，认为；解释，说明（account for）；占（一定数量或比例）（account for）；<古>报账
 [例]
 1.I don't have a bank account. 我没有银行账户。
-2.What's your account number please?请问你的账户号码？《牛津词典》。
-3.Does your current account pay interest?你的活期存款账户计息吗？《柯林斯英汉双解大词典》。
+2.What's your account number please?请问你的账户号码？。
+3.Does your current account pay interest?你的活期存款账户计息吗？。
 [搭]
 1.account for 说明；解释；占；报账
 2.account sales 销货账；承销清单；销货；售货清单
@@ -287,10 +282,9 @@ n. 富人；<古>支流
 
 afford / əˈfɔːrd /
 v. 买得起；有（时间）做某事；承担得起；<正式>提供，给予
-n.（Afford）（英、美）阿福德（人名）
 [例]
 1.He could barely afford the fare. 他几乎付不起车费。
-2.Can we afford a new car?我们买得起一辆新车吗？《牛津词典》。
+2.Can we afford a new car?我们买得起一辆新车吗？。
 3.We can't afford to wait. 我们等不起。
 [搭]
 1.afford to 得起；做；付得起
@@ -321,9 +315,7 @@ adj. 便宜的，付得起的
 1.Affordable Care Act 平价医疗法案；平价医疗法；合理医疗费用法案；法案
 2.affordable housing 经济适用房；经适房；可负担住房
 3.Affordable price 可承受价；可蒙受价；大众化价格；可接受的价位
-4.affordable price 可承受价
-5.affordable housing 经济适用房；可支付住宅
-6.economically affordable housing 经济适用房
+4.economically affordable housing 经济适用房
 [联]affordable (支付得起的) + able (能够) ——> 有能力支付的
 
 agent / ˈeɪdʒənt /
@@ -349,8 +341,7 @@ adj. 代理人的；代理商的
 3.We are just starting up to develop the agential hiring in China which accounts for to 10% in the human resource outsourcing services in foreign countries. 代理招聘在国外人力资源外包业务量中占10％以上，而在这方面国内只是刚刚起步。
 [搭]
 1.Agential Equipment 代理销售
-2.agential -ial 形容词后缀
-3.agential cache 代理缓存
+2.agential cache 代理缓存
 [联]agent (代理人) + ial (形容词后缀) ——> 与代理相关的特点
 
 agentive / ˈeɪdʒəntɪv /
@@ -368,7 +359,7 @@ adj. 施事的；施事格的
 attend / əˈtend /
 v. 随同，陪同；经常去，定期去(学校、教堂等)；伴随……而至，（作为结果）伴随；出席，参加；注意，专心；处理，照料；致力于
 [例]
-1.Which school do they attend?他们上的是哪一所学校？《牛津词典》。
+1.Which school do they attend?他们上的是哪一所学校？。
 2.It was incumbent on them to attend. 他们必须出席。
 3.Our children attend the same school. 我们的孩子上同一所学校。
 [搭]
@@ -378,7 +369,7 @@ v. 随同，陪同；经常去，定期去(学校、教堂等)；伴随……而
 4.attend a meeting 参加会议
 5.attend school 上学；去上学
 6.attend class 上课
-[联]at + tend ——> 在 + 照顾、照料 → 出席、参加
+[联]at + tend ——> 在 + 照顾、照料 ——> 出席、参加
 
 attendance / əˈtendəns /
 n. 出席人数；出席，出勤；考勤情况；提供帮助（in attendance）
@@ -406,9 +397,8 @@ adj. 伴随的，随之产生的；伺候的；陪伴的；到场的
 1.flight attendant 空中乘务员；空中服务员；乘务员；机组乘务员
 2.Room Attendant 客房服务员；楼层服务员；客房部服务员
 3.vehicular attendant 乘务员
-4.flight attendant 空中服务人员
-5.room attendant 客房服务员
-6.train attendant 列车服务员
+4.room attendant 客房服务员
+5.train attendant 列车服务员
 [联]at + tend + ant ——> 在旁边照顾的人员
 
 attendee / əˌtenˈdiː /
@@ -458,9 +448,8 @@ adj. 慈善的；善行的
 2.Unfortunately history offers no guarantee that a more humane and beneficent style of life inevitably prevails. 可惜历史并没有保证那更人道、更慈善的生活方式必然获胜。
 3.Unfortunately, history offers no guarantee that a more humane and beneficent style of life inevitably prevails. 可惜历史并没有保证那更人道，更慈善的生活方式必须获胜。
 [搭]
-1.beneficent t 多多行善的；行善的；慈善的；有益的
+1.beneficent bacteria 有益的细菌
 2.circle beneficent 金融危机
-3.beneficent bacteria 有益的细菌
 [联]bene (好) + fic (做) + ient (形容词后缀) ——> 仁慈的、慈善的
 
 beneficial / ˌbenɪˈfɪʃ(ə)l /
@@ -474,15 +463,14 @@ adj. 有益的，有利的；<法律>（与）权益（有关）的，有财产�
 2.beneficial holding 实益持股量；实益股份
 3.be beneficial to 有利于；对；有益于；利益
 4.mutually beneficial 互利的；双赢的
-5.beneficial owner 受益所有人
-6.beneficial use 享用，有权使用
+5.beneficial use 享用，有权使用
 [联]bene (好) + ficial (形状类似“figure”的词根，意为形状、外形) ——> 有益的形状
 
 beneficiary / ˌbenɪˈfɪʃəri /
 n. 受益者，受惠人；遗嘱受益人；封臣
 adj. 拥有封地的，受圣俸的
 [例]
-1.Who will be the main beneficiary of the cuts in income tax?削减所得税的主要受益者将是谁？《牛津词典》。
+1.Who will be the main beneficiary of the cuts in income tax?削减所得税的主要受益者将是谁？。
 2.The protagonist Emily is endowed with the images of protecter of the tradition, and its convict, beneficiary and revolter. 主人公爱米丽同时具有传统的维护者、囚徒、受益人和反抗者多个身份。
 3.One major beneficiary will be gold. 一个主要的受益者是黄金。
 [搭]
@@ -504,8 +492,7 @@ v. 对（某人）有用，使受益；得益于，得利于
 2.benefit from 从中得到；受益于；得益于；从中受益
 3.social benefit 社科  社会效益；社会收益；社会利益
 4.economic benefit 经济效益
-5.benefit from 得益于；得利于；因…而得到好处
-6.mutual benefit 互惠互利
+5.mutual benefit 互惠互利
 [联]bene (好) + fit (适合) ——> 有益的、好处
 
 bid / bɪd /
@@ -564,11 +551,10 @@ n.（船或飞机装载的）货物
 2.A fire had been reported in the cargo hold. 据报告货舱失火了。
 3.You can contract with us to deliver your cargo. 你们可以和我们签订合同，由我们负责运输你们的货物。
 [搭]
-1.Bulk cargo 贸易  散装货； 贸易  大宗货物； 贸易  散货； 贸易  散装货物
+1.Bulk cargo 散装货；大宗货物；散货；散装货物
 2.cargo ship 货轮；水运货船；干货船
 3.cargo insurance 货物保险；货物运输保险；货运险；货运保险
 4.air cargo 空运货物
-5.bulk cargo 散装货
 6.cargo transport 货运；运货船/机
 [联]car + go ——> 装载货物的车辆行驶
 
@@ -577,15 +563,14 @@ n. 现款，现金；金钱，资金
 v. 兑现（支票）；支付现款
 [例]
 1.I'm short of cash right now. 我眼下正缺钱。
-2.How are you fixed for cash?你有多少现金？《牛津词典》。
+2.How are you fixed for cash?你有多少现金？。
 3.Buyers are offered a cash rebate. 购买者享受现金折扣。
 [搭]
 1.cash flow 会计  现金流量；现金流；银根；现金流量表
 2.cash register 收银机； 会计  现金出纳机；手银机； 会计  出纳机
 3.cash cow 金牛；摇钱树
-4.cash flow 资金流动
-5.in cash 用现金，有现款
-6.cash in 兑现；收到……货款
+4.in cash 用现金，有现款
+5.cash in 兑现；收到……货款
 [联]bank + note ——> 支票
 
 cashew / ˈkæʃuː /
@@ -599,7 +584,6 @@ adj. 漆树科的
 1.cashew chicken 腰果鸡丁；腰果鸡球；腰果鸡；腰不美观鸡丁
 2.Cashew nuts 腰果；腰；腰果海产类；腰因
 3.Cashew Nuts Chicken 腰果鸡
-4.cashew nutn.  腰果
 [联]cashew (腰果) + ew (像...一样) ——> 像腰果一样的东西
 
 cashier / kæˈʃɪr /
@@ -640,7 +624,6 @@ n. 链锯
 [搭]
 1.Lollipop Chainsaw 电锯甜心；电锯糖心；链锯棒棒糖
 2.The Texas Chainsaw Massacre 德州电锯杀人狂；德州链锯杀人狂；惨无人道；德州电锯灭口狂
-3.The Texas Chainsaw Massacre 2德州电锯杀人狂
 [联]chain (链条) + saw (锯子) ——> 链锯
 
 chance / tʃæns /
@@ -657,12 +640,11 @@ adj. 偶然的，碰巧的
 3.clifford chance 高伟绅律师事务所；高伟绅；高伟绅律师行；英国高伟绅律师事务所
 4.by chance 偶然；意外地
 5.have a chance 有机会；有希望
-6.take a chancevt.  冒险
+6.take a chance 冒险
 [联]opportunity (机会) + port (港口) ——> 在港口遇到的机会
 
 chancel / ˈtʃænsl /
 n. 高坛
-n.（Chancel）人名；（英）钱斯尔；（法）尚塞尔
 [例]
 1.Could keep a chancel cool. 可以围住一团清凉。
 2.The left pillar closest to the chancel is installed with a gold-plated marble pulpit. 左列最靠近祭台的一根柱子上设有大理石镏金讲道坛。
@@ -703,9 +685,9 @@ n.（英国）财政大臣；（德国或奥地利）总理；（英国大学）
 chancellorship / ˈtʃɑːnsələʃɪp /
 n. 长官之职位或任期；财政部长的职位；大学名誉校长的职位
 [例]
-1.. Hence the second reason why next year's budget is so important for Mr Brown's chancellorship.  ECONOMIST: His next trick。
-2.. The CDU has also admitted operating a system of secret accounts during Mr Kohl's chancellorship.  BBC: Kohl raid foiled by leak。
-3.. It had been reported that Mr Balls blamed Lord Mandelson for blocking his move to the chancellorship.  BBC: Leaked Brown e-mail 'not hostile'。
+1.Hence the second reason why next year's budget is so important for Mr Brown's chancellorship.  ECONOMIST: His next trick。
+2.The CDU has also admitted operating a system of secret accounts during Mr Kohl's chancellorship.  BBC: Kohl raid foiled by leak。
+3.It had been reported that Mr Balls blamed Lord Mandelson for blocking his move to the chancellorship.  BBC: Leaked Brown e-mail 'not hostile'。
 [搭]
 1.chancellorship detail 长官之职
 [联]chancellor (首相) + ship (身份，状态) ——> 首相的身份或职位
@@ -715,15 +697,14 @@ v. 改变，变化；更换，替换；换乘；兑换，找零；交换，互�
 n. 变化，变革；找回的钱，零钱；换乘；替代物，替换衣物；全新体验；转成新月；钟乐敲打的一种套路
 [例]
 1.Leaves change colour in autumn. 树叶在秋天改变颜色。
-2.Can we change seats?咱们可以交换一下座位吗？《牛津词典》。
+2.Can we change seats?咱们可以交换一下座位吗？。
 3.A change in the money supply brings a corresponding change in expenditure. 货币供应量的改变随即引起支出的相应改变。
 [搭]
 1.climate change 气候  气候变化；气候改变；天气变化
 2.change management 应变管理；变革管理；变更管理；变革管理计划
 3.phase change 物  相变；相变化；相位变换；相转移
 4.change in 在…方面改变
-5.climate change 气候变化；气候变迁
-6.for a change 为了改变一下；为了换换口味
+5.for a change 为了改变一下；为了换换口味
 [联]currency (货币) + exchange (交换) ——> 货币兑换
 
 changeable / ˈtʃeɪndʒəb(ə)l /
@@ -744,14 +725,13 @@ n. 电量，电荷；炸药量；掌管，照管；费用，价钱；控告，�
 [例]
 1.She left her assistant in charge. 她委托助手来负责。
 2.We can charge $50 a pop. 我们可以每个收费50元。
-3.If I were in charge. . . 假若由我负责…《牛津词典》。
+3.If I were in charge. . . 假若由我负责…。
 [搭]
 1.in charge of 负责；掌管；总管；主管
 2.Free of charge 免费；不收费；收费；不免费
 3.color charge 色荷；粒子物理学中
 4.in charge 负责，主管；在…看管下
-5.in charge of 负责；主管
-6.charge of 负责；管理
+5.charge of 负责；管理
 [联]electric (电的) + current (电流) ——> 电荷
 
 cheap / tʃiːp /
@@ -798,15 +778,13 @@ cheque / tʃek /
 n. 支票
 [例]
 1.At long last the cheque arrived. 支票终于到了。
-2.How did you come by that cheque?你怎么得到那张支票的？《柯林斯英汉双解大词典》。
+2.How did you come by that cheque?你怎么得到那张支票的？。
 3.Your cheque is in the mail. 你的支票在邮递途中。
 [搭]
 1.cheque book 支票薄；支票；支票厚
 2.order cheque 金融  记名支票； 金融  抬头支票；头支票；定名支票
 3.crossed cheque 金融  划线支票；横线支票；纵线支票；横线收票
-4.crossed cheque 划线支票
-5.cheque book[经]支票簿
-6.pay by cheque 以支票偿付
+4.pay by cheque 以支票偿付
 [联]cheque (支票) + book (书本) ——> 支票簿
 
 chequebook / ˈtʃekbʊk /
@@ -844,7 +822,6 @@ v. 选择，挑选；情愿，决定
 3.choose to do sth 决定做某事；选择做某事；选择优选用做某事；愿意
 4.choose from 挑选，从…中选择
 5.as you choose 随你的便
-6.choose to do 选择去做某事
 [联]cho (秋千) + ose (做作的) ——> 选择
 
 choosy / ˈtʃuːzi /
@@ -871,8 +848,7 @@ v. 当职员（或文书、书记员）
 2.Office Clerk 职员；办公室文员
 3.desk clerk 值班服务员；值班办事员
 4.bank clerk 银行办事人员
-5.desk clerk 接待员，接待人员
-6.sales clerk 售货员
+5.sales clerk 售货员
 [联]clerk (职员，办事员) + er (表人后缀) ——> 职员
 
 coin / kɔɪn /
@@ -887,7 +863,7 @@ v. 创造新词，首次使用；铸币，造币；<英，非正式>迅速而轻
 2.COIN POCKET 表袋；零钱袋；硬币口袋
 3.coin watches 硬币腕表；软币手表；软币腕表
 4.gold coin 金币；小钱
-5.false coinn.  假币
+5.false coin 假币
 6.silver coin 银币
 [联]metal (金属) + earn (赚得) ——> 硬币
 
@@ -912,9 +888,9 @@ n. 巧合，同时发生；相符，一致；符合
 2.By a happy coincidence , we arrived at exactly the same time. 碰巧运气好，我们刚好同时到达。
 3.What an odd coincidence that he should have known your family. 他已认识你的家人，多么不寻常的巧合。
 [搭]
-1.accidental coincidence 计划  偶然符合；偶然重合；偶然切合
-2.coincidence detector 电子  符合检波器；重合检测器；符合探测器；探测器
-3.coincidence counter 符合计数器；符合计数管；同步计数器； 计  重合计数器
+1.accidental coincidence 偶然符合；偶然重合；偶然切合
+2.coincidence detector 符合检波器；重合检测器；符合探测器；探测器
+3.coincidence counter 符合计数器；符合计数管；同步计数器；重合计数器
 4.coincidence rate 符合率；符合计数率
 5.by coincidence 碰巧
 [联]coincidence (巧合) ——> coin (硬币) + side (边，面) + dance (跳舞) ——> 想象一下抛硬币时它边旋转边落下，这种随机的结果就像是生活的巧合一样。
@@ -934,7 +910,7 @@ adj. 一致的；符合的；同时发生的
 coined / kɔɪnd /
 v. 创造（新词等）；铸造（硬币）（coin 的过去式和过去分词）
 [例]
-1.Who coined the phrase 'desktop publishing'?谁创造了 desktop publishing（桌面出版）这个词组？《牛津词典》。
+1.Who coined the phrase 'desktop publishing'?谁创造了 desktop publishing（桌面出版）这个词组？。
 2.Jaron Lanier coined the term "virtual reality" and pioneered its early development. 加隆·雷尼尔首创“虚拟现实”一词，并率先进行早期开发。
 3.The term 'cardboard city' was coined to describe communities of homeless people living in cardboard boxes. 人们创造了 cardboard city 一词，用来指居住在纸板棚屋里无家可归者的居住区。
 [搭]
@@ -942,7 +918,7 @@ v. 创造（新词等）；铸造（硬币）（coin 的过去式和过去分词
 2.coined marks 创造性商标
 3.coined money 铸币
 4.gold coin 金币；小钱
-5.false coinn.  假币
+5.false coin 假币
 6.silver coin 银币
 [联]coin (铸造) + ned (无实际意义，作为后缀补充) ——> 创造新词
 
@@ -981,11 +957,8 @@ adj. 合作的，协作的
 3.The collaborative trend is true across scientific disciplines. 跨科学领域的协作趋势是真实存在的。
 [搭]
 1.collaborative filtering 协同过滤；协作过滤；协同过滤算法；协作筛选
-2.Collaborative Learning 合作学习；协作学习；协同学习
+2.collaborative learning 合作学习；协作学习；协同学习
 3.collaborative commerce 协同商务；合作式商业；协作商务；合作商务
-4.collaborative learning 协作学习；合作学习
-5.collaborative filtering 协同过滤；协作筛选
-6.collaborative commerce 协同商务
 [联]co (一起) + labor (劳动) + ative (形容词后缀) ——> 合作的
 
 collaboratively / kəˈlæbərətɪvli /
@@ -1035,12 +1008,11 @@ n. 电视广告，电台广告
 2.The proposal makes sound commercial sense. 这项建议从营利的角度看是完全合情合理的。
 3.Their more recent music is far too commercial. 他们最近的音乐过分商业化了。
 [搭]
-1.COMMERCIAL INVOICE 会计  商业发票；发票；商业；扫描件
-2.commercial bank 金融  商业银行；储蓄信贷银行；商业；新竹商银
-3.Commercial Law 法  商法；经济法；商法学； 法  商业法
-4.commercial bank 商业银行
-5.industrial and commercial bank 工商银行
-6.commercial value 市场价值；经济价值；出售价格
+1.COMMERCIAL INVOICE 商业发票；发票；商业；扫描件
+2.commercial bank 商业银行；储蓄信贷银行；商业；新竹商银
+3.Commercial Law 商法；经济法；商法学；商业法
+4.industrial and commercial bank 工商银行
+5.commercial value 市场价值；经济价值；出售价格
 [联]commerce (商业) + -al (形容词后缀) ——> 商业的
 
 commercialism / kəˈmɜːʃəlɪzəm /
@@ -1092,9 +1064,8 @@ v. <古>结交，交往；<古>陪伴
 1.public company 上市公司；公众公司；股份上市公司
 2.listed company 上市公司；挂牌公司；股票上市公司；上市企业
 3.limited liability company 股份有限公司；有限责任公司；株式会社
-4.limited company 有限公司；（英）股份有限公司（等于 limited-liability company）
-5.in company 一起；当众
-6.company with 奉陪；与…一起
+4.in company 一起；当众
+5.company with 奉陪；与…一起
 [联]com (一起) + pany (陪伴) ——> 公司
 
 consume / kənˈsuːm /
@@ -1108,7 +1079,6 @@ v. 消耗，消费；吃，喝；吞噬，烧毁；使……着迷，充满
 2.consume away 憔悴；消耗掉；枯萎凋谢；毁掉
 3.average propensity to consume 平均消费倾向
 4.propensity to consume 消费倾向
-5.marginal propensity to consume[经]边际消费倾向
 [联]con (一起) + sume (拿走) ——> 消耗、消费
 
 consumerism / kənˈsjuːmərɪzəm /
@@ -1128,7 +1098,7 @@ v. 合作，协作；配合，协助
 [例]
 1.He indicated his willingness to cooperate. 他暗示愿意合作。
 2.He agreed to cooperate with the police investigation. 他同意配合警方调查。
-3.Are you going to cooperate or do we have to get physical?你是合作呢，还是要我们动手？《牛津词典》。
+3.Are you going to cooperate or do we have to get physical?你是合作呢，还是要我们动手？。
 [搭]
 1.cooperate with 合作；和；与合作；协作
 2.learn to cooperate and comprise 学习合作和妥协
@@ -1163,8 +1133,7 @@ n. 合作性组织
 2.Cooperative Game 合作博弈；合作对策弈；合自策
 3.cooperative education 合作教育；合作办学
 4.cooperative relationship 合作关系
-5.cooperative learning 合作学习，共同学习
-6.cooperative system 合作制度
+5.cooperative system 合作制度
 [联]cooperate (合作) + ive (形容词后缀) ——> 表示具有合作性质的
 
 coordinate / kəʊˈɔːdɪneɪt /
@@ -1176,12 +1145,11 @@ adj. 地位相当的，同等重要的；（语法）并列的；（化学）配
 2.They appointed a new manager to coordinate the work of the team. 为协调这个队的工作，他们任用了一位新经理。
 3.You need to coordinate legs, arms, and breathing for the front crawl. 匍匐前进时，你要协调双腿、胳膊和呼吸。
 [搭]
-1.coordinate system 数,物  坐标系；座标系；坐标系系定理；推论
+1.coordinate system 坐标系；座标系；坐标系系定理；推论
 2.galactic coordinate system 银道座标系； 天  银道坐标系；标系
 3.spherical coordinate system 坐标系；标系统；球面坐标系
-4.coordinate system[数]坐标系
-5.coordinate with 使协调；配合
-6.coordinate transformation 坐标变换
+4.coordinate with 使协调；配合
+5.coordinate transformation 坐标变换
 [联]co- (共同) + ordinate (排列) ——> 协调
 
 coordination / koʊˌɔːrdɪˈneɪʃ(ə)n /
@@ -1191,12 +1159,11 @@ n. 协调，配合；身体的协调性；配位；同一等级（或类别）
 2.Intoxication interferes with speech and coordination. 醉酒影响言语能力和协调性。
 3.You need good hand-eye coordination to play ball games. 玩球类游戏，手和眼的动作要协调好。
 [搭]
-1.coordination number 物  配位数；配位值；共位值；配位數
+1.coordination number 配位数；配位值；共位值；配位數
 2.coordination complex 配位化合物
 3.coordination isomerism 物化  配位异构；配位异构现象
 4.coordination chemistry 配位化学
-5.coordination compound[化]配位化合物
-6.coordination number 配位数
+5.coordination compound [化]配位化合物
 [联]co- (共同) + ordination (组织) ——> 协调
 
 copper / ˈkɑːpər /
@@ -1329,9 +1296,7 @@ n. 赠券，优惠券；（剪自报刊的）参赛表，订货单；（债券�
 1.Coupon rate 孳息率；票面利率；息票利率； 金融  息票率
 2.Zero coupon bonds 零息债券；零息票债券；它在到期日是以面值赎回的
 3.Coupon code 优惠码；折扣代码；折扣码；优惠代码
-4.coupon rate 票面利率；息票利率
-5.coupon bond 附息票债券
-6.coupon code 优惠码；折扣代码
+4.coupon bond 附息票债券
 [联]coupon (优惠券) + use (使用) ——> 可以用来使用的优惠凭证
 
 crisis / ˈkraɪsɪs /
@@ -1342,12 +1307,10 @@ adj. 用于处理危机的
 2.The fever has passed its crisis. 发烧已过危险期。
 3.There was a crisis looming. 危机迫在眉睫。
 [搭]
-1.Financial crisis 金融  金融危机； 财政  财政危机；财务危机；经济危机
-2.Dino Crisis 恐龙危机；恐龙危机2简体中文版；恐龙危机 I
-3.Crisis Management 危机管理；危机处理；危机公关
-4.financial crisis 金融危机；财政危机
-5.economic crisis 经济危机
-6.crisis management 危机管理，处理危急的办法
+1.financial crisis 金融危机；财政危机；财务危机；经济危机
+2.dino crisis 恐龙危机；恐龙危机2简体中文版；恐龙危机 I
+3.crisis management 危机管理；危机处理；危机公关
+4.economic crisis 经济危机
 [联]chromosome (染色体) + crisis (危机) ——> 染色体危机
 
 currency / ˈkɜːrənsi /
@@ -1355,14 +1318,13 @@ n. 通货，货币；通用，流行；现时性
 [例]
 1.British currency went metric in 1971. 英国的货币于1971年实行公制。
 2.Its currency is pegged to the dollar. 其货币与美元的汇率固定了。
-3.When will the single currency be operable?什么时候实行单一货币？《牛津词典》。
+3.When will the single currency be operable?什么时候实行单一货币？。
 [搭]
 1.hard currency 金融  硬通货；硬货币；硬币
 2.reserve currency 金融  储备货币；准备货币；准备通货；基准利率
 3.European Currency Unit 欧洲通货单位；欧洲货币单位；欧洲共同体货币单位；币单位
-4.foreign currencyn.  外币
-5.reserve currency 储备货币
-6.currency exchange 货币兑换；外汇兑换
+4.foreign currency 外币
+5.currency exchange 货币兑换；外汇兑换
 [联]current (当前的) + cy (表示状态或性质) ——> 当前的状态或性质
 
 current / ˈkɜːrənt /
@@ -1371,7 +1333,7 @@ n. 水流，气流；电流；思潮，趋势
 [例]
 1.We were rowing against the current. 我们划船逆流而上。
 2.The canoe found the current and swung around. 独木舟遇上了急流，打着转。
-3.What is the current thinking on this question?目前对这个问题的看法是什么？《牛津词典》。
+3.What is the current thinking on this question?目前对这个问题的看法是什么？。
 [搭]
 1.alternating current 电  交流电；交流；交流电流；交流交变电流
 2.direct current 电  直流电；直流电流；直流电源；直流接地
@@ -1383,7 +1345,7 @@ n. 水流，气流；电流；思潮，趋势
 
 deal / diːl /
 n. 大量；交易；坏运气，不公平的对待；发牌；冷衫木；优惠的价格，划算的价格；牌戏的一局；一手牌
-v. 应对（难缠的人，困难局面）（deal with）；（以某种方式）对付，对待（deal with）；论及，讨论（deal with）；买卖，交易；给予；贩卖（毒品、艺术品等）；与……有关；发牌
+v. 应对（难缠的人，困难局面）（deal with）；（以某种方式）对付，对待（deal with）；论及，讨论（deal with）；买卖，交易；给予；贩卖（毒品、艺术品等）
 [例]
 1.They shook on the deal. 他们达成了协议，相互握手祝贺。
 2.We lost on that deal. 我们那笔交易做亏了。
@@ -1415,7 +1377,7 @@ n. 商人，交易商；<非正式>毒品贩子
 dealt / delt /
 v. 处理（deal 的过去式和过去分词）
 [例]
-1.Have you dealt with these letters yet?这些信件你处理了吗？《牛津词典》。
+1.Have you dealt with these letters yet?这些信件你处理了吗？。
 2.He dealt me two aces. 他给我发了两张 A 牌。
 3.Dalton dealt out five cards to each player. 多尔顿给每个玩牌的人发了5张牌。
 [搭]
@@ -1437,9 +1399,8 @@ n. 欠款，债务；负债情况；人情债
 1.bad debt 会计  呆帐；坏账；死账
 2.external debt 会计  外债；内债；黛色参天二千尺；外部成本
 3.in debt 负债；欠债；欠情；欠钱
-4.in debt 负债；欠情
-5.national debt 国债
-6.debt financing[经]债务资金筹措；举债筹资
+4.national debt 国债
+5.debt financing [经]债务资金筹措；举债筹资
 [联]owe (欠) + t (标记) ——> 欠款
 
 debtor / ˈdetə(r) /
@@ -1493,8 +1454,7 @@ n. 减少，降低
 1.Decrease to 减少到
 2.population decrease 人口减少；种群减少；人口削减；人口不足
 3.on the decrease 在减少中；正在减少；在减少
-4.on the decrease 在减少中
-5.decrease by 减少了…
+4.decrease by 减少了…
 [联]de- (否定前缀) + crease (增长) ——> 减少
 
 deficit / ˈdefɪsɪt /
@@ -1507,9 +1467,8 @@ n. 亏损，赤字，不足额；（体育用语）失分数；缺乏，缺陷
 1.trade deficit 贸易赤字；贸易逆差；入超
 2.financial deficit 财政赤字；财务赤字；资金缺口
 3.cognitive deficit 认知障碍；认知缺陷；认知赤字
-4.trade deficitn.  贸易逆差；贸易赤字
-5.budget deficit 预算赤字
-6.fiscal deficit 财政赤字
+4.budget deficit 预算赤字
+5.fiscal deficit 财政赤字
 [联]deficit (赤字，逆差) + deficit ——> 财政赤字
 
 deposit / dɪˈpɑːzɪt /
@@ -1525,7 +1484,6 @@ n. 沉积物，沉积层；订金；押金；存款；竞选保证金
 3.alluvial deposit 地质  冲积物；冲积砂矿；冲积土层
 4.ore deposit 矿床；矿层
 5.deposit insurance 存款保险
-6.deposit account 存款帐户；储蓄存款
 [联]de (一) + posit (放) + e (表名词) ——> 一放一的东西
 
 deposition / ˌdepəˈzɪʃn /
@@ -1562,12 +1520,9 @@ n. 抑郁，沮丧；萧条（期），不景气；低气压；凹陷，浅坑�
 2.I slid into a depression. 我渐渐陷入了抑郁之中。
 3.Depression is treatable. 抑郁症是可治愈的。
 [搭]
-1.Great Depression 经  大萧条；经济大萧条；大萧森
-2.economic depression 经  经济萧条；经济衰退；经济萧森；经济冷落
-3.Postpartum Depression 产后抑郁症；产后抑郁；产褥期抑郁症
-4.great depression 大萧条（美国经济大萧条时期）
-5.economic depression[经]经济萧条
-6.postpartum depression 产后忧郁症，产后抑郁
+1.great depression 大萧条；经济大萧条；大萧森
+2.economic depression 经济萧条；经济衰退；经济萧森；经济冷落
+3.postpartum depression 产后抑郁症；产后抑郁；产褥期抑郁症
 [联]de- (否定前缀) + pression (压力) ——> 去除压力
 
 descend / dɪˈsend /
@@ -1580,9 +1535,7 @@ v. 下来，下降；下倾，下斜；降临，来临；（情绪、气氛等�
 1.descend on 突然访问；突然袭击；指捕食的鹰俯冲下来捕捉牺牲品
 2.descend to 沦为；传给；转而提到；沦落为
 3.descend from 从；传下来；从天而降
-4.descend from 由…传下来的；起源于
-5.descend on 袭击
-6.descend uponvt.  突然到达）；袭击（突然降临
+6.descend upon 突然到达）；袭击（突然降临
 [联]de (离开) + scend (爬，攀爬) ——> 下降
 
 descendant / dɪˈsendənt /
@@ -1609,14 +1562,14 @@ n. 下降，降落；斜坡，斜面；出身，血统；堕落，沦落；突�
 2.descent stage 下降段；下降阶段；降落段
 3.The Descent 黑暗侵袭；深入绝地；黑暗侵袭两部
 4.gradient descent 梯度下降
-5.descent methodn.  下降法
+5.descent method 下降法
 6.chinese descent 中国血统；炎黄子孙
 [联]de (向下) + scent (气味) ——> 向下的气味
 
 develop / dɪˈveləp /
 v.（使）成长，发育，发展；逐渐形成，逐渐养成；开发，研制；出现，产生；修建，开发土地；提高，加强；患病；阐释，展开；冲洗，使底片显影；（修改旋律、和声或节奏以）展开（音乐主题）；（棋）出子
 [例]
-1.How fast would the disease develop?这种疾病发展有多快？《柯林斯英汉双解大词典》。
+1.How fast would the disease develop?这种疾病发展有多快？。
 2.We need to develop local industries. 我们需要发展地方工业。
 3.These clashes could develop into open warfare. 这些冲突可能会发展成公开的战争。
 [搭]
@@ -1666,8 +1619,7 @@ v. 减弱，降低，减少；贬低，轻视
 [搭]
 1.Diminish light switch 减光开关
 2.Diminish Retinol Treatment 夜间紧肤抗皱精华露
-3.diminish h 减少；减小；指因为不断消耗；变小
-4.diminish inflammation 消炎
+3.diminish inflammation 消炎
 [联]di (一) + minish (减少) ——> 减少一点点
 
 discharge / dɪsˈtʃɑːrdʒ /
@@ -1678,10 +1630,10 @@ n. 允许出院，释放；任务的执行，债务的偿还；解雇；退伍�
 2.There was a watery discharge from her ear. 她的耳朵里有水状物流出。
 3.He received an honourable discharge from the army. 他获准体面退伍。
 [搭]
-1.corona discharge 物  电晕放电；冠状放电；电晕
-2.Port of Discharge 水运  卸货港；目的港；卸运港；卸港
-3.discharge valve 机  排出阀；吐出阀； 机  排气阀
-4.discharge ofv.  卸下
+1.corona discharge 电晕放电；冠状放电；电晕
+2.Port of Discharge 卸货港；目的港；卸运港；卸港
+3.discharge valve 排出阀；吐出阀；排气阀
+4.discharge of 卸下
 5.discharge standard 排放标准
 6.partial discharge 局部放电；部分放电；部份履行
 [联]dis (分开) + charge (电荷) ——> 放电
@@ -1691,16 +1643,15 @@ n. 减价，折扣；（汇票或期票到期前转手的）贴现率
 adj. 打折的，减价出售的
 v. 打折，减价；不重视，忽视；贴现；（持票人或受票人）把（票据）贴现
 [例]
-1.Do you give any discount?你们打折吗？《牛津词典》。
+1.Do you give any discount?你们打折吗？。
 2.They are often available at a discount. 它们经常可以以折扣价买到。
 3.All full-time staff get a 20 percent discount. 所有全职员工都可以享受8折优惠。
 [搭]
 1.discount rate 金融  贴现率； 会计  折现率； 贸易  折扣率；扣减率
 2.cash discount 会计  现金折扣；现金支付折扣；现金贴现；现金扣头
 3.at a discount 折扣；打折扣；按贴水价格计算；按赔价计算
-4.at a discount 打折扣；不受欢迎，没销路
-5.special discount 特别折扣
-6.discount price 折扣价格
+4.special discount 特别折扣
+5.discount price 折扣价格
 [联]dis (不) + count (计算) ——> 不计算
 
 dismiss / dɪsˈmɪs /
@@ -1733,7 +1684,7 @@ dismissive / dɪsˈmɪsɪv /
 adj. 轻蔑的，鄙视的，不加考虑的，不屑一顾的
 [例]
 1.They were sneeringly dismissive. 他们态度轻蔑，不屑一顾。
-2.Mr.  Jones was dismissive of the report, saying it was riddled with inaccuracies. 琼斯先生对那份报告不屑一顾，说那里面充斥着不准确的信息。
+2.Mr. Jones was dismissive of the report, saying it was riddled with inaccuracies. 琼斯先生对那份报告不屑一顾，说那里面充斥着不准确的信息。
 3.Your gut reaction and dismissive rejection, even of a worthless idea, might not qualify as systematic or fair. 你的本能反应和轻蔑的拒绝，即使是一个毫无价值的想法，可能也不符合系统或公平。
 [搭]
 [联]dis- (否定前缀) + miss (派遣) + -ive (形容词后缀) ——> 否定派遣的，不予理会的
@@ -1763,7 +1714,6 @@ v. 捐赠，赠送；献（血），捐献（器官）
 1.donate blood 义务献血；捐血
 2.Donate Life 捐赠生命
 3.donate money 捐钱；捐款；资金补给
-4.donate money 捐款
 [联]donate (捐赠) + ate (动词后缀) ——> 捐赠行为
 
 donation / doʊˈneɪʃ(ə)n /
@@ -1796,16 +1746,15 @@ dump / dʌmp /
 v. 丢弃，扔掉；乱堆，乱放；丢下，抛弃；分手，甩掉；倾销，抛售；转储，转存（计算机数据）；（尤指系统发生故障后内存的）打印输出，卸出
 n. 垃圾场；废料堆场；（金矿开采作业堆积而成的）矿山废石堆；<非正式>脏地方；军需品临时存放处；转存；<美，非正式>拉屎
 [例]
-1.How can you live in this dump?你怎么会住在这种肮脏地方？《牛津词典》。
+1.How can you live in this dump?你怎么会住在这种肮脏地方？。
 2.The place was, if you'll pardon the expression , a dump. 那个地方，请恕我直言，简直是个垃圾场。
 3.With bonfires outlawed in urban areas, gardeners must cart their refuse to a dump. 市区禁止户外焚烧垃圾，园林工人必须用推车把垃圾运到垃圾场。
 [搭]
 1.dump truck 自动倾卸卡车； 车辆  自卸车；自卸卡车；自卸汽车
 2.Garbage Dump 垃圾场；垃圾堆；垃圾堆放处；代替垃圾处理站
 3.core dump 核心转储；内核转储；磁心信息转储；转储文件
-4.dump truck 自动倾卸卡车
-5.waste dump 废石堆，废料堆
-6.garbage dump 垃圾场；垃圾堆
+4.waste dump 废石堆，废料堆
+5.garbage dump 垃圾场；垃圾堆
 [联]dum (笨的) + p (字母p) ——> 笨拙地放下
 
 dumpling / ˈdʌmplɪŋ /
@@ -1816,8 +1765,8 @@ n. 汤团，饺子；水果布丁，水果馅点心；矮胖的人
 3.Let's do a dumpling party!我们来办个饺子派对吧！。
 [搭]
 1.fried dumpling 煎贴；锅贴；煎饺；煎揭
-2.Dumpling Soup 上汤水饺；扁食汤；面球汤；馄饨
-3.Taro dumpling 芋角；芋饺；芋圆
+2.dumpling soup 上汤水饺；扁食汤；面球汤；馄饨
+3.taro dumpling 芋角；芋饺；芋圆
 4.rice dumpling 粽子
 5.boiled dumpling 水饺
 6.chinese dumpling 中国饺子
@@ -1830,8 +1779,8 @@ adj. 应纳税的；应征税的；（输入品）应课关税的
 2.All the articles listed here are dutiable. 这儿所列的物品都要缴税。
 3.No, I haven't got any dutiable things with me. 不，我没有带任何需要交应征税的东西。
 [搭]
-1.dutiable goods 税收  应税货物；需课税商品； 税收  应完税货品；应纳税的货物
-2.dutiable value 税收  完税价值；完税价格；计税价值；应税价格
+1.dutiable goods应税货物；需课税商品；应完税货品；应纳税的货物
+2.dutiable value完税价值；完税价格；计税价值；应税价格
 3.entry for dutiable goods 应纳税商品进口报关单
 4.dutiable goods 征税货物
 [联]duty (责任，义务) + -able (能够……的) ——> 有义务的
@@ -1853,14 +1802,12 @@ n. 责任，义务；上班，值班；职责，任务；税，关税；兵役�
 [例]
 1.He was recalled to military duty. 他被召回执行军事任务。
 2.It was his duty to obey. 服从是他的职责。
-3.Who's on duty today?今天谁值班？《牛津词典》。
+3.Who's on duty today?今天谁值班？。
 [搭]
 1.Call of Duty 决胜时刻；使命的召唤
-2.Customs Duty 税收  关税；第六节；关税税率
+2.Customs Duty 关税；第六节；关税税率
 3.on duty 值班；值日；上班；在上班
-4.on duty 值班，上班
-5.heavy duty 重型；重载；重税
-6.custom duty 关税
+4.heavy duty 重型；重载；重税
 [联]responsibility (责任) + obligation (义务) ——> 职责
 
 dwindle / ˈdwɪnd(ə)l /
@@ -1879,15 +1826,14 @@ earn / ɜːrn /
 v. 赚得，挣钱；盈（利），生（利）；赢得，博得
 [例]
 1.He doesn't earn as much as me. 他挣的钱比我少。
-2.'How much (money) does she earn?“她挣多少（钱）？”《牛津词典》。
+2.'How much (money) does she earn?“她挣多少（钱）？”。
 3.He must earn an absolute fortune. 他准会赚一大笔钱。
 [搭]
 1.earn money 挣钱；赚钱；利用爱美之心赚钱；赚钱这一项
 2.earn one's living 谋生；挣钱维持生计；营生；所得
 3.Earn to Die 死亡战车；战车撞僵尸；赚到死；死了都要赚
-4.earn money 赚钱
-5.earn a living 谋生；活命
-6.earn interest 赚取利息
+4.earn a living 谋生；活命
+5.earn interest 赚取利息
 [联]earn (赚取) + ing (动名词后缀) ——> earning (挣钱的，收益的)
 
 earnest / ˈɜːnɪst /
@@ -1901,15 +1847,14 @@ n. 预示，象征；严肃，认真（in earnest）
 1.earnest money 贸易  定金；保证金；不收定金；诚意金
 2.Josh Earnest 厄尼思特；欧内斯特；乔希
 3.in earnest 认真地；诚挚地；认真的；严肃地
-4.in earnest 认真的；诚挚地；正经的
-5.in real earnestadv.  认真地
-6.in sad earnest[古语]十分严肃地，一本正经地
+4.in real earnest 认真地
+5.in sad earnest[古语]十分严肃地，一本正经地
 [联]earnest (认真的，诚挚的) + ing (现在分词后缀) ——> 认真地
 
 earnestly / ˈɜːnɪstli /
 adv. 认真地；诚挚地
 [例]
-1.She looked at him earnestly.  "You don't mind?"她诚挚地看着他说：“你不介意吧？”《柯林斯英汉双解大词典》。
+1.She looked at him earnestly.  "You don't mind?"她诚挚地看着他说：“你不介意吧？”。
 2.She always listened earnestly as if this might help her to understand. 她总是认真地听，好像这样会帮她听懂一样。
 3."Take some more tea," the March Hare said to Alice, very earnestly. “再喝点茶吧。
 [搭]
@@ -1927,10 +1872,9 @@ adj. 经济的，经济学的；有利可图的；节约的
 [搭]
 1.Economic Geography 经济地理；经济地舆
 2.world economic forum 世界经济论坛；全球经济论坛；天下经济论坛；界经济论坛
-3.Economic Growth 经  经济增长；经济成长；经济波动；经济增加
+3.economic system 经济体制；经济体系，经济系统；经济制度
 4.economic development 经济发展；经济开发
-5.economic growth[经]经济增长，经济成长
-6.economic system 经济体制；经济体系，经济系统；经济制度
+5.economic growth [经]经济增长，经济成长
 [联]econo (经济的) + mic (小的) ——> 经济学家
 
 economical / ˌiːkəˈnɒmɪk(ə)l /
@@ -1988,7 +1932,6 @@ n. 经济学家
 2.Economist Intelligence Unit 经济学人智库；经济学人信息社；经济学人信息部；经济学人资讯社
 3.Economist Group 经济学人集团；经济学人团体；经济学人；经济学家集团
 4.senior economist 高级经济师
-5.economist intelligence unit 经济学人智库
 [联]eco (生态) + nomist (熟悉规则的人) ——> 经济学家
 
 economy / ɪˈkɑːnəmi /
@@ -2000,9 +1943,9 @@ adj. 经济实惠的
 3.The economy continues to grow. 经济持续增长。
 [搭]
 1.knowledge economy 知识经济；常识经济；学问经济；知识科学
-2.mixed economy 经  混合经济；混合型经济；混淆经济；混杂经济
-3.Economy Class 水运,航  经济舱；经济仓；经济舱位；经济类
-4.market economy[经]市场经济
+2.mixed economy 混合经济；混合型经济；混淆经济；混杂经济
+3.Economy Class 水运,经济舱；经济仓；经济舱位；经济类
+4.market economy [经]市场经济
 5.national economy 国民经济
 6.socialist market economy 社会主义市场经济
 [联]eco (家园) + nomy (规律，规则) ——> 规律家园
@@ -2011,7 +1954,7 @@ employ / ɪmˈplɔɪ /
 v. 雇用；使用，利用；忙于，从事（be employed in）
 n. 受雇（in the employ of）
 [例]
-1.How many people does the company employ?这个公司雇用了多少人？《牛津词典》。
+1.How many people does the company employ?这个公司雇用了多少人？。
 2.We employ an expert to advise on new technology. 我们聘用了一位专家担任新技术顾问。
 3.We'll have to check him out before we employ him. 我们得先调查一下再雇用他。
 [搭]
@@ -2019,7 +1962,7 @@ n. 受雇（in the employ of）
 2.Employ Letter 录用函
 3.out of employ 失业
 4.employ in 被…雇佣；受聘于
-5.in the employ ofadv.  受雇于
+5.in the employ of 受雇于
 [联]employee (雇员) + ment (名词后缀) ——> 雇佣的人员
 
 employee / ɪmˈplɔɪiː /
@@ -2143,9 +2086,7 @@ n. 实体，独立存在体
 1.legal entity 法人；法律实体；法定个体；法人实体
 2.business entity 企业个体；业务实体
 3.named entity 命名实体；已命名实体；具名实体
-4.legal entity 法人实体
-5.economic entity 经济实体；经济单位
-6.business entity 营业单位；企业单位
+4.economic entity 经济实体；经济单位
 [联]en (进入) + tity (城市) ——> 进入城市
 
 entrepreneur / ˌɑːntrəprəˈnɜːr /
@@ -2157,8 +2098,7 @@ n. 企业家，创业者；主办者，提倡者
 [搭]
 1.social entrepreneur 社会企业家；社会创业家；社会创业者
 2.entrepreneur magazine 企业家杂志；创业家杂志；企业家；创业杂志
-3.serial entrepreneur 连续创业者；连续创业家；连环企业家；创业家
-4.entrepreneur spirit 企业家精神；事业心
+3.entrepreneur spirit 企业家精神；事业心
 [联]en (向后) + tre (进入) + preneur (掌握者) ——> 企业家
 
 entrepreneurial / ˌɒntrəprəˈnɜːriəl /
@@ -2171,7 +2111,6 @@ adj. 具有企业家素质的，富于企业家精神的
 1.entrepreneurial strategy 企业家战略；创业战略；创业型战略；企业家计谋
 2.Entrepreneurial Management 创业管理；企业管理；企业；企业家管理
 3.Entrepreneurial Studies 企业研究；企业学研究
-4.entrepreneurial management 创业管理；企业家管理
 [联]entrepreneurial (有企业家精神的) +ial(形容词后缀) ——> 与企业家精神相关的
 
 entrepreneurship / ˌɑːntrəprəˈnɜːrʃɪp /
@@ -2208,7 +2147,7 @@ n. 财产，遗产；大片私有土地，庄园；<英>住宅区，工业区；
 1.Real Estate 经  房地产； 经  不动产；基板面；房地产专业
 2.fourth estate 第四等级；第四极；记者或新闻界
 3.Crown Estate 英国皇家财产局；皇家财产局；皇冠地产；财富局
-4.real estaten.  不动产，房地产
+4.real estate 不动产，房地产
 5.real estate market 房地产市场；不动产市场
 6.real estate development 房地产开发
 [联]estate (房产，地产) + think (思考，认为) ——> 认为是房产
@@ -2251,9 +2190,6 @@ v. 调换，更换；交流，交谈；交换，互换；兑换，交易
 1.exchange rate 金融  汇率； 金融  兑换率；外汇率； 金融  汇价
 2.stock exchange 证券交易所；证券营业部；股票交易所
 3.foreign exchange 金融  外汇；外汇交易；国际汇兑；外币兑换
-4.exchange rate 汇率；兑换率
-5.foreign exchange 外汇；国际汇兑；外国汇票
-6.stock exchange 证券交易所
 [联]ex (前缀，向外) + change (改变) ——> 交换、交流
 
 expand / ɪkˈspænd /
@@ -2277,7 +2213,7 @@ v. <非正式>把……记入费用账户；向……收取费用；被花掉
 [例]
 1.He can comfortably afford the extra expense. 他支付这些额外的费用毫无问题。
 2.Running a car is a big expense. 养一辆车开销很大。
-3.Let's celebrate and damn the expense!管它花多少钱，咱们先庆祝一番再说！《牛津词典》。
+3.Let's celebrate and damn the expense!管它花多少钱，咱们先庆祝一番再说！。
 [搭]
 1.depreciation expense 折旧费
 2.operating expense 营运成本；营业费用
@@ -2297,7 +2233,7 @@ adj. 花钱多的，昂贵的；（错误或决定）代价高的
 1.Big expensive 大富大贵
 2.Too expensive 太贵了；太贵；买不起；太便宜了
 3.very expensive 买得起；很贵；非常昂贵
-4.less expensiveadj.  比较便宜的
+4.less expensive 比较便宜的
 5.expensive thing 昂贵的东西
 6.a bit expensive 有点贵
 [联]cost (成本) + ence (名词后缀) ——> 高成本的
@@ -2350,11 +2286,10 @@ n. 失败；失败的人（或企业、事物）；未做到；缺乏，不足�
 2.I felt foolish and a failure. 我自觉是个愚蠢的失败者。
 3.Failure can demotivate students. 失败会挫伤学生的积极性。
 [搭]
-1.heart failure 内科  心力衰竭；心脏衰竭；心衰
-2.kidney failure 泌尿  肾功能衰竭；肾衰竭；肾脏衰竭；肾衰
-3.failure rate 计  失效率； 科技  故障率；失败率；事故率
-4.failure in…的失败
-5.heart failuren.  心力衰竭
+1.heart failure 心力衰竭；心脏衰竭；心衰
+2.kidney failure 肾功能衰竭；肾衰竭；肾脏衰竭；肾衰
+3.failure rate 失效率；故障率；失败率；事故率
+4.failure in …的失败
 6.renal failure 肾衰竭
 [联]failure (失败) + analysis (分析) ——> 失败分析
 
@@ -2369,9 +2304,8 @@ v. 提供资金；贷款购买，赊购
 1.Ministry of Finance 财政部；财务省；国家财政部；财务部
 2.Finance ministry 财政部；日本财务省；财务省；大藏省
 3.mathematical finance 金融数学；数理金融学；数理金融
-4.ministry of finance 财政部
-5.public finance 财政学
-6.international finance 国际金融
+4.public finance 财政学
+5.international finance 国际金融
 [联]fi (纤维) + nance (音译) ——> 纤维金融
 
 financial / faɪˈnænʃ(ə)l /
@@ -2383,11 +2317,10 @@ n.（组织或个人的）财务状况；金融公司股票
 3.She had got into financial difficulties. 她陷入了财务困境。
 [搭]
 1.Financial Times 金融时报；英国金融时报；财经时报
-2.Financial crisis 金融  金融危机； 财政  财政危机；财务危机；经济危机
-3.Financial Market 金融  金融市场；财务市场；金融市场学；融市场
-4.financial crisis 金融危机；财政危机
-5.financial management 财务管理；金融管理
-6.financial system 金融体系；财务系统
+2.Financial crisis  金融危机；财政危机；财务危机；经济危机
+3.Financial Market 金融市场；财务市场；金融市场学；融市场
+4.financial management 财务管理；金融管理
+5.financial system 金融体系；财务系统
 [联]finance (财务) + -al (形容词后缀) ——> 与财务相关的
 
 financially / faɪˈnænʃəli; fəˈnænʃəli /
@@ -2410,12 +2343,11 @@ v. 射击，开火；射（箭）；扔，抛；点火，启动；连珠炮似�
 2.Police marksmen opened fire. 警察中的神枪手开了火。
 3.The fire flared into life. 火旺了起来。
 [搭]
-1.fire 很酷；火灾；火焰；开火
+1.fire control 消防；火力控制；射击控制
 2.Chariots of Fire 烈火战车；火之战车；火战车；火的战车
 3.Man on Fire 怒火救援；火线救援；肝火救济；愤怒复仇
-4.on fireadv.  着火；起火；在兴头上；非常激动
+4.on fire 着火；起火；在兴头上；非常激动
 5.on the fire 在审议中；在考虑中
-6.fire control 消防；火力控制；射击控制
 [联]fire (火) + works (工厂，作品) ——> 工厂、熔炉
 
 firefighter / ˈfaɪərfaɪtər /
@@ -2489,7 +2421,7 @@ firmness / ˈfɜːmnəs /
 n. 坚定；坚固；坚度
 [例]
 1.He was a man of intelligence and of firmness of will. 他是个聪明而又意志坚定的人。
-2.Mrs.  Darling left the room to get a chocolate for him, and Mr.  Darling thought this showed want of firmness. 达琳太太离开房间去给他拿一块巧克力，达琳先生认为这是不够坚定的表现。
+2.Mrs.  Darling left the room to get a chocolate for him, and Mr. Darling thought this showed want of firmness. 达琳太太离开房间去给他拿一块巧克力，达琳先生认为这是不够坚定的表现。
 3.During the senescence of Xue Hua Pears, the fruit firmness declined with the flesh developing the squarrose and browning. 雪梨衰老时，硬度下降，果肉褐变糠化。
 [搭]
 1.firmness meter 坚固度测定计；果实硬度测定计；坚实度计
@@ -2562,7 +2494,7 @@ n. 商品；动产，私人财产；<英>（公路、铁路等运输的）货物
 3.These goods are priced too high. 这些货品定价过高。
 [搭]
 1.Public Goods 公共物品；公共财；公共品
-2.Dangerous goods 交  危险品；危险性物质； 交  危险货物； 交  危险物品
+2.Dangerous goods 危险品；危险性物质；危险货物；危险物品
 3.dry goods 谷物；服装；纺织品；干货
 4.leather goods 皮革制品；皮件
 5.consumer goods 生活消费品，日用消费品
@@ -2578,11 +2510,9 @@ n. 弥撒升阶圣歌集
 3.The greatest hope for reform is the gradual spread of information. 改革的最大希望就是信息的逐渐传播。
 [搭]
 1.gradual transition 缓变结；渐变；逐次跃迁；慢换景
-2.gradual change 科技  逐渐变化；渐变
+2.gradual change 逐渐变化；渐变
 3.gradual settlement 逐渐下沉；逐步下沉
-4.gradual change 渐变柔光，渐变
-5.gradual transition 渐变；逐次跃迁；缓变结
-6.gradual advance 逐渐上升，渐升
+4.gradual advance 逐渐上升，渐升
 [联]gradual (逐渐的) + change (变化) ——> 渐变
 
 grocer / ˈɡroʊsər /
@@ -2594,7 +2524,6 @@ n. 食品杂货商；食品杂货店
 [搭]
 1.The Grocer 食品商；杂货店老板的儿子；杂货店主；杂货商
 2.natural grocer 天然食品杂货商；自然杂货商
-3.grocer r 杂货商；食品店；零售商人；食品商
 [联]grocer (食品杂货商) + store (商店) ——> 食品杂货商店
 
 grocery / ˈɡroʊsəri /
@@ -2605,10 +2534,9 @@ n. 食品杂货店，食品杂货业；食品杂货（groceries）
 3.In the first movie Tony Curtis ever made he played a grocery clerk. 在托尼·柯蒂斯制作的第一部影片中，他出演一名杂货店店员。
 [搭]
 1.grocery store 杂货店；小卖部；杂货铺；食品杂货店
-2.Green Grocery 蔬菜水果店；蔬菜店水果店；水果蔬菜店；蔬菜生果店
+2.green grocery 蔬菜水果店；蔬菜店水果店；水果蔬菜店；蔬菜生果店
 3.grocery shopping 买菜；去杂货店；买食品杂货
-4.grocery store 杂货店
-5.grocery bag 食品杂货袋
+4.grocery bag 食品杂货袋
 [联]grocery (杂货) + store (商店) ——> 杂货店
 
 gross / ɡrəʊs /
@@ -2619,14 +2547,11 @@ n. 一罗（144个）；毛收入，总收入
 [例]
 1.Gross sales reached nearly $2 million a year. 全年总销售额达到近二百万美元。
 2.Interest is paid gross, rather than having tax deducted. 利息按总额来付，没有扣除税收。
-3.They eat flies? What a gross-out!他们吃苍蝇？真恶心！《牛津词典》。
+3.They eat flies? What a gross-out!他们吃苍蝇？真恶心！。
 [搭]
-1.BILL GROSS 比尔·格罗斯；格罗斯；葛洛斯；比尔格罗斯
-2.gross profit 贸易  毛利； 会计  毛利润；溢利总额； 贸易  总利润
-3.Gross Weight 交  毛重；总重； 科技  总重量；装箱毛重
-4.gross domestic product (gdp)国内生产总值
-5.gross domestic product 国内生产总值
-6.gross domestic product (GDP)国内生产总值
+1.gross domestic product (gdp)国内生产总值
+2.gross profit 毛利；毛利润；溢利总额；总利润
+3.Gross Weight 毛重；总重；总重量；装箱毛重
 [联]gross (总的，全部的) + revenue (收入) ——> 毛收入
 
 grossly / ˈɡrəʊsli /
@@ -2651,9 +2576,8 @@ v. 长大，成长；成活，生长；发展，增加；逐渐变得；产生�
 1.grow up 长大；成年；成熟
 2.To Grow with Love 肥田囍事；肥田喜事；肥田事
 3.grow roses 种玫瑰；莳植玫瑰
-4.grow up 成长，逐渐形成
-5.grow in 增加；在……方面成长
-6.grow old 变老
+4.grow in 增加；在……方面成长
+5.grow old 变老
 [联]grow (生长) + n (名词后缀) ——> 生长过程
 
 growth / ɡroʊθ /
@@ -2667,9 +2591,7 @@ adj. 发展的，增长的
 1.Economic Growth 经  经济增长；经济成长；经济波动；经济增加
 2.growth factor 生长因子； 数  增长因子；生长因素； 经  成长因子
 3.growth hormone 生长激素；生长素；成长激素；发育内分泌
-4.economic growth[经]经济增长，经济成长
-5.growth rate 增长率；生长速率
-6.growth factor 增长因子；增长系数；放大因子；经济增长因素
+4.growth rate 增长率；生长速率
 [联]grow (生长) + th (名词后缀) ——> 生长的过程或结果
 
 guarantee / ˌɡærənˈtiː /
@@ -2680,8 +2602,8 @@ n. 保证，担保；保修单，质量保证书；担保金，抵押品
 2.The ticket will guarantee you free entry. 这张票可保证你免费入场。
 3.Career success is no guarantee of happiness. 事业成功并不是幸福的保证。
 [搭]
-1.letter of guarantee 保证书； 贸易  保函；银行保函； 贸易  信用保证书
-2.Bank Guarantee 银行保函； 金融  银行担保；银行保证书；信用保证书
+1.letter of guarantee 保证书；保函；银行保函；信用保证书
+2.Bank Guarantee 银行保函；银行担保；银行保证书；信用保证书
 3.Performance Guarantee 履约保函；履约保证书；履约保证金
 4.quality guarantee 品质保证，质量保证
 5.credit guarantee 信用担保；信贷保证
@@ -2704,7 +2626,7 @@ hire / ˈhaɪər /
 v. <英>租用，租借；聘用，录用
 n. 租借，租金；<美>被雇用的人
 [例]
-1.Do you hire out bikes?你们出租自行车吗？《牛津词典》。
+1.Do you hire out bikes?你们出租自行车吗？。
 2.We had to hire maids through an agency. 我们得通过代理公司雇用女佣。
 3.The price includes the hire of the hall. 费用包括礼堂租金。
 [搭]
@@ -2712,7 +2634,7 @@ n. 租借，租金；<美>被雇用的人
 2.car hire 租车处；汽车出租；汽车租赁；租车费
 3.hire order 租用单；出租单
 4.for hire 供出租
-5.hire purchasen.  分期付款购买
+5.hire purchase 分期付款购买
 6.on hire 出租的；雇用
 [联]hire (雇佣) + - (短横线，表示连接) ——> 雇佣关系
 
@@ -2724,11 +2646,11 @@ v. 进口，输入，引进；导入（计算机）；<旧>意味，表明
 2.Such arguments are of little import. 这种争论几乎不具重要性。
 3.The country has to import most of its raw materials. 这个国家大多数原料均依赖进口。
 [搭]
-1.import duty 税收  进口税；进口关税；入口税；进口关税险
+1.import duty 进口税；进口关税；入口税；进口关税险
 2.Import quota 进口配额；进口限额；进口配额证明；入口配额
-3.import surcharge 税收  进口附加税；进口附加费；入口附加税；出口附加税
+3.import surcharge 进口附加税；进口附加费；入口附加税；出口附加税
 4.import and export 进出口；导入和导出；输入和输出
-5.import and export corporation[经]进出口公司
+5.import and export corporation [经]进出口公司
 6.import license 进口许可证
 [联]im (加强意义) + port (运输) ——> 从国外运输进来的东西
 
@@ -2744,7 +2666,6 @@ n. 重要，重要性；傲慢；名望
 3.The Importance of Living 生活的艺术；书名；糊口的艺术
 4.of great importance 有着重要意义，十分重要
 5.of importance 重要的；具有重要意义的
-6.attach importance to 重视；着重于…；对…给予重视
 [联]im (不译) + portance (类似"搬运的重量") ——> 重要性
 
 important / ɪmˈpɔːrt(ə)nt /
@@ -2758,21 +2679,19 @@ adj. 重要的，重大的；（人）影响很大的，权威的；大量的，
 2.Important Bird Area 重点鸟区；重要鸟区；重要鸟类保护区
 3.You're Important 你非常重要；你很有分量的；你十分主要；你非常
 4.most important 最重要的；首要的；最关键的
-5.more important 更加重要
-6.play an important role 起到重要作用
+5.play an important role 起到重要作用
 [联]im (不) + portant (重要的) ——> 不重要的
 
 importantly / ɪmˈpɔːtntli /
 adv. 重要地，重要的是；自命不凡地
 [例]
-1.More importantly, can he be trusted?更重要的是，他值得信任吗？《牛津词典》。
+1.More importantly, can he be trusted?更重要的是，他值得信任吗？。
 2.I was hungry, and, more importantly, my children were hungry. 我饿了，更重要的是，我的孩子们饿了。
 3.More importantly, gays have proved themselves to be style leaders. 更重要的是，同性恋们证实了他们是时尚的引导者。
 [搭]
-1.more importantly 更重要的是；而且；更有甚者
-2.most importantly 最重要的是；最为重要；最重要；最为重要的是
+1.more importantly 最重要的是；最为重要；最重要；最为重要的是
 3.Finally and most importantly 最后而且最重要的是；最后的也是最重要的；最后并最重要
-[联]in + port + antly ——> 不愿意运输 → 显得不重要 → 重要地
+[联]in + port + antly ——> 不愿意运输 ——> 显得不重要 ——> 重要地
 
 impose / ɪmˈpoʊz /
 v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦；把（活字页）拼版；欺骗
@@ -2784,8 +2703,6 @@ v. 强制推行，强制实行；把（自己的观点、信仰等）强加于�
 1.impose on 把；利用；欺骗
 2.impose a fine 处以罚款；课以罚金
 3.to impose credit ceiling 贷款限额管理
-4.impose on 利用；欺骗；施加影响于
-5.impose a fine 处以罚款
 [联]im- (不，无) + pose (放置，安置) ——> 强加，施加
 
 improve / ɪmˈpruːv /
@@ -2814,8 +2731,7 @@ n. 改善；改进之处
 2.Home Improvement 家居装修；家居装饰
 3.continuous improvement 持续改进；持续改善；进取不懈；连续改进
 4.improvement in 好转；表示原物有改进
-5.continuous improvement 持续改进；进取不懈
-6.quality improvement 质量改进
+5.quality improvement 质量改进
 [联]improve (改进) + ment (名词后缀) ——> 改进的结果或过程
 
 incent / ɪnˈsent /
@@ -2850,9 +2766,9 @@ n. 收入，收益
 2.Income from sales tax went down. 来自销售税的收入下降了。
 3.Income per head rose perceptibly. 各人的收入明显提高了。
 [搭]
-1.income tax 税收  所得税； 税收  入息税；薪俸税；收入税
-2.income statement 利润表； 会计  损益表； 会计  收益表；收入表
-3.net income 劳经  净收入； 会计  净收益；净利润
+1.income tax 所得税；入息税；薪俸税；收入税
+2.income statement 利润表；损益表；收益表；收入表
+3.net income 净收入；净收益；净利润
 4.income tax 所得税
 5.income gap 收入差距
 6.income distribution[经]收入分配
@@ -2919,9 +2835,8 @@ n. <美>（学业成绩评分）未修毕，未完成
 1.incomplete abortion 妇产  不全流产；不全小产
 2.incomplete dominance 遗  不完全显性；半显性；称不完全外显
 3.incomplete antigen 不完全抗原；半抗原
-4.incomplete combustion[化]不完全燃烧
+4.incomplete combustion [化]不完全燃烧
 5.incomplete fusion 未焊透，不完全焊透；未完全熔合
-6.incomplete abortion 不全流产，不完全流产
 [联]incomplete (不完整的) ——> in (不) + complete (完整的) ——> 不完整的
 
 incomprehensible / ɪnˌkɒmprɪˈhensəb(ə)l /
@@ -2949,7 +2864,6 @@ n. 增长；增长量
 3.to increase a credit 增加信用证面额；渐增信用证面额；信用证面额
 4.increase in（使）在…增加；（使）在…增大
 5.increase production 增产
-6.increase by 增加了；按…增长
 [联]in- (向内) + crease (增长) ——> 增加
 
 increment / ˈɪŋkrəmənt /
@@ -2962,7 +2876,7 @@ v.（计算机）使（数字值）各自增加
 [搭]
 1.Gauss increment 高斯增量
 2.loan increment 新增贷款
-3.Increment tax on land value 税收  土地增值税；土地增殖税；地盘升值税
+3.Increment tax on land value土地增值税；土地增殖税；地盘升值税
 4.temperature increment 温度增量，温度升高值
 5.rate of increment 增长率
 6.load increment 载重增加；载荷增量
@@ -2979,8 +2893,7 @@ adj. 增加的，递增的；逐渐的，逐步的
 2.incremental cost 增量成本；增值成本；增支成本；边际成本
 3.incremental credit 新增贷款；递加增薪点；递加增薪
 4.incremental learning 逐步积累的学习，增量学习；渐进式学习
-5.incremental cost 增量成本
-6.incremental encoder 增量编码器
+5.incremental encoder 增量编码器
 [联]in (不) + crement (增长) + al (形容词后缀) ——> 不增长的
 
 incrementally / ˌɪŋkrəˈmentəli /
@@ -3046,8 +2959,7 @@ n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
 2.film industry 电影工业；电影业；电影界；电影产业
 3.food industry 食品产业； 食品  食品工业；食品行业；食品业
 4.industry and commerce 工商业
-5.chemical industry 化学工业
-6.manufacturing industry 制造业，制造工业
+5.manufacturing industry 制造业，制造工业
 [联]indu (引导) + stry (努力，斗争) ——> 工业，产业
 
 inflation / ɪnˈfleɪʃ(ə)n /
@@ -3058,11 +2970,10 @@ n. 通货膨胀，通胀率；充气，膨胀，增大；（宇宙论某些理�
 3.Inflation is in double figures. 通货膨胀率达两位数。
 [搭]
 1.inflation rate 通货膨胀率；通胀率；通货膨胀；通货收缩率
-2.Inflation tax 税收  通货膨胀税；通胀税
+2.Inflation tax 通货膨胀税；通胀税
 3.Chronic inflation 慢性通货膨胀；长期通货膨胀
-4.inflation rate 通货膨胀率
-5.price inflation 物价膨胀
-6.inflation pressure 膨胀压力；充气压力；轮胎压力
+4.price inflation 物价膨胀
+5.inflation pressure 膨胀压力；充气压力；轮胎压力
 [联]price (价格) + rise (上升) ——> 物价上涨
 
 inflationary / ɪnˈfleɪʃən(ə)ri /
@@ -3075,7 +2986,6 @@ adj. 通货膨胀的；通货膨胀倾向的；通货膨胀引起的
 1.Inflationary pressure 通货膨胀压力；通胀压力；膨胀压力
 2.inflationary spiral 螺旋式上升的通货膨胀；恶性循环的通货膨胀；恶性通胀；恶性通货膨胀
 3.counter-inflationary policy 反通货膨胀政策
-4.inflationary pressure 通货膨胀压力；通胀压力
 [联]inflation (通货膨胀) + ary (形容词后缀) ——> 通货膨胀的
 
 influx / ˈɪnflʌks /
@@ -3099,11 +3009,11 @@ v. 输入（信息）
 2.This program accepts input from most word processors. 这个程序可接受大多数文字处理系统输入的信息。
 3.There has been a big input of resources into the project from industry. 工业界对这个项目投入了大量资源。
 [搭]
-1.Input Power 电  输入功率；输入电源；电源输入；电压输入
-2.Input voltage 电  输入电压；输入电源；电压
-3.input impedance 电子  输入阻抗；输入电阻；输出阻抗；天线接口阻抗测试
+1.Input Power 输入功率；输入电源；电源输入；电压输入
+2.Input voltage 输入电压；输入电源；电压
+3.input impedance 输入阻抗；输入电阻；输出阻抗；天线接口阻抗测试
 4.input data 输入数据；输入资料
-5.input signal[电]输入信号
+5.input signal [电]输入信号
 6.input method 输入法
 [联]in (不) + put (放置) ——> 不放置，禁止放入
 
@@ -3144,9 +3054,7 @@ n. 安装；分期付款；部分；就职
 1.installment payment 会计  分期付款；分期付款的支付
 2.payment by installment 分期付款；合期付款；支付汇票
 3.pay by installment 分期付款
-4.installment plann.  分期付款方式；分期付款购物法
-5.installment payment 分期付款；分期付款帐户
-6.payment by installment 分期付款
+4.installment plan 分期付款方式；分期付款购物法
 [联]install (安装) + ment (名词后缀) ——> 安装的过程或部分
 
 insurance / ɪnˈʃʊrəns /
@@ -3174,7 +3082,6 @@ v. 为……投保；为……提供保险；保证，确保；获得（赔偿�
 1.to insure promptness 确保迅速；确保快速
 2.Words and Phrases insure 投保；保险；保证
 3.insure against 保险；免除；投保…险；给……保险
-4.insure againstv.  给……保险以防
 [联]in (不) + sure (确定) ——> 使确定
 
 insurer / ɪnˈʃʊrər /
@@ -3227,15 +3134,14 @@ v. 使感兴趣，引起……的关注；劝说（某人）做（或参与）
 3.compound interest 金融  复利；复息；复利息；利滚利
 4.interest in 对…有兴趣
 5.of interest 有…兴趣；权益的转易
-6.interest rate[经]利率
 [联]in + ter + est ——> 对...感兴趣
 
 interesting / ˈɪntrəstɪŋ /
 adj. 有趣的，有吸引力的；怪异的
 v. 使感兴趣，引起……的关注；劝说（某人）做（或参与）（interest 的现在分词形式）
 [例]
-1.Did you go anywhere interesting?你去过任何有趣的地方吗？《牛津词典》。
-2.Can't we do something more interesting?我们就不能做点更有意思的事情吗？《牛津词典》。
+1.Did you go anywhere interesting?你去过任何有趣的地方吗？。
+2.Can't we do something more interesting?我们就不能做点更有意思的事情吗？。
 3.I collect shells and interesting seaside items. 我收集贝壳以及海边有趣的东西。
 [搭]
 1.He found my lecture interesting 他觉得我讲课有趣；他觉得我讲课滑稽；他感觉我授课有趣儿；他感到我讲课有趣
@@ -3257,15 +3163,14 @@ n. 面试，面谈；采访，访谈；问讯，口头审讯；接见，会见
 1.Interview with the Vampire 夜访吸血鬼；造访吸血鬼；夜访吸血鬼专辑；拜访吸血鬼
 2.Job Interview 面试；求职面试； 劳经  求职面谈
 3.exclusive interview 独家采访；独家专访；专访；名家专访
-4.job interview 求职面试
-5.telephone interview 电话面试，电话访问
-6.personal interview 个人面谈；面谈调查；私人的会谈
+4.telephone interview 电话面试，电话访问
+5.personal interview 个人面谈；面谈调查；私人的会谈
 [联]inter (在之间) + view (看) ——> 面对面地看
 
 interviewee / ˌɪntəvjuːˈiː /
 n. 接受面试者，受接见者，被采访者
 [例]
-1.Is there any interviewee who stands out as memorable?参加面试的人中有没有特别值得注意的？《柯林斯英汉双解大词典》。
+1.Is there any interviewee who stands out as memorable?参加面试的人中有没有特别值得注意的？。
 2.The success depends on good rapport between interviewer and interviewee. 成功取决于采访者和被采访者之间的融洽。
 3.The question was vague, giving the interviewee enough rope to hang herself. 这个问题模棱两可，让面试者胡乱发挥而自毙吧。
 [搭]
@@ -3296,8 +3201,7 @@ v. 投资；投入（时间或精力）；赋予，授予；<旧>给……穿衣
 1.Invest in Relationships 在人际关系上投入；人际关系上投入
 2.emotion invest 感情投资
 3.invest with 授予
-4.invest inv.  投资于；[口]买进；寄希望于
-5.invest with 授予
+4.invest in 投资于；[口]买进；寄希望于
 [联]in (里面) + vest (衣服) ——> 投资
 
 investigate / ɪnˈvestɪɡeɪt /
@@ -3386,14 +3290,12 @@ n. 失业者
 1.jobless rate 失业率
 2.jobless recovery 无就业复苏；失业型复苏；失业型经济复苏；无就业的复苏
 3.jobless growth 无工作的增长；无就业增长；无工作增长；无就业的经济成长
-4.jobless rate[经]失业率
 [联]job (工作) + less (没有) ——> 无业的
 
 labor / ˈleɪbər /
 n. 劳动；工作；劳工；分娩
 vi. 劳动；努力；苦干
 vt. 详细分析；使厌烦
-n.（Labor）人名；（德、塞、法）拉博尔；（英）拉博
 [例]
 1.The developments leave the airline with several problems, including an unsettled labor situation. 事情的发展给航空公司带来了一些问题，其中包括不安定的劳工状况。
 2.The fruit of labor is sweetest. 劳动的果实最甜美。
@@ -3455,10 +3357,10 @@ adj. 工党的，支持工党的
 2.She belongs to the Labour Party. 她是工党党员。
 3.Labour swept to victory in 2001. 工党在2001年轻松取胜。
 [搭]
-1.division of labour 分工； 劳经  劳动分工；分工合作；社会分工
+1.division of labour 分工；劳动分工；分工合作；社会分工
 2.Labour Department 劳工处；劳工局；劳工署
 3.labour movement 劳工运动
-4.labour forcen.  劳动力
+4.labour force 劳动力
 5.surplus labour【政治经济学】剩余劳动(力)
 6.labour party 劳工党
 [联]labour (劳动) + or (名词后缀，表示人) ——> 劳动者
@@ -3486,9 +3388,8 @@ v. 缺乏，不足；需要
 1.for lack of 因缺乏；缺少；因没有；缺乏
 2.lack of 没有；不够；缺乏；不足
 3.lack of painting 烤漆不到位；烤漆不良；烤漆没有到位
-4.lack of 没有，缺乏；不足，不够
-5.for lack of 因缺乏…；因缺少…；因没有…
-6.lack in 缺少…；在…缺乏
+4.for lack of 因缺乏…；因缺少…；因没有…
+5.lack in 缺少…；在…缺乏
 [联]lack (缺乏) + water (水) ——> 缺水
 
 lackluster / ˈlæklʌstə(r) /
@@ -3563,15 +3464,14 @@ legal / ˈliːɡ(ə)l /
 adj. 法律允许的，合法的；与法律有关的，法律的；（与衡平法相对）普通法或成文法确认的；神学律法的，与神学律法有关的；<美>（纸张）标准大小的
 [例]
 1.What I did was perfectly legal. 我做的事情完全合法。
-2.Should euthanasia be made legal?安乐死是否应定为合法？《牛津词典》。
+2.Should euthanasia be made legal?安乐死是否应定为合法？。
 3.The party was denied legal status. 那个党没有获得合法地位。
 [搭]
 1.legal system 法律体系；法律制度；法制
 2.legal deposit 法定送存；法定送样本；法定寄存
 3.legal case 案件；法律案件；法律案例；案子
-4.legal system 法律制度
-5.legal status 法律地位
-6.legal protection 法律保护；合法保护
+4.legal status 法律地位
+5.legal protection 法律保护；合法保护
 [联]legal (合法的) + right (权利) ——> 合法权利
 
 legality / lɪˈɡæləti /
@@ -3596,10 +3496,9 @@ n. 征收额，税款；（为执行判决而进行的）财产扣押；征兵
 [搭]
 1.Shawn Levy 肖恩·利维；导演肖恩·利维；导
 2.Maximilian Levy 马克西米利安·莱维；英国
-3.Marc Levy 马克·李维；马克·莱维；作者
+3.levy tax 征税
 4.tax levy 纳税；征收税款
 5.levy on 征税；扣押
-6.levy tax 征税
 [联]levy (征收，征税) + tax (税) ——> 征收税款
 
 loss / lɒs /
@@ -3613,8 +3512,7 @@ n. 失去，丧失；亏损；死亡，去世；失落，伤感；（因某人�
 2.at a loss 困惑；不知所措；茫然；困惑不解
 3.deadweight loss 无谓损失；净损失； 经  无谓的损失；损失
 4.weight loss 失重；重量减轻
-5.at a loss 亏本地；困惑不解
-6.water loss 失水量；水耗
+5.water loss 失水量；水耗
 [联]loss (丧失) + gain (获得) ——> 收支平衡
 
 losses / ˈlɒsɪz /
@@ -3654,23 +3552,20 @@ adj. 有损耗的
 1.lossy compression 有损压缩；坏性资料压缩；失真压缩；损耗式压缩
 2.lossy medium 损耗式媒介；有损耗媒质；损耗介质
 3.lossy flow 损耗怜
-4.lossy compression 有损压缩
-5.lossy medium 损耗介质；有损耗媒质；损耗式媒介
 [联]lossy (有损的) + y (后缀，表示形容词) ——> 有损的，损失性的
 
 manage / ˈmænɪdʒ /
 v. 管理，处理；操纵，控制；设法做到，勉力完成；腾出时间参加；凑合着活下去，支撑；调教（人或动物）；竟搞得，竟做出
 [例]
 1.We'll manage as best we can. 我们将尽力处理。
-2.How did she manage to struggle free ?她是如何设法逃脱的？《牛津词典》。
-3.Can you manage that suitcase?你弄得动那个箱子吗？《牛津词典》。
+2.How did she manage to struggle free ?她是如何设法逃脱的？。
+3.Can you manage that suitcase?你弄得动那个箱子吗？。
 [搭]
 1.Manage Workflow 管理工作流程；治理工作流程；工作流程管理；办理工做流程
 2.Manage Your Server 配置你的服务器；管理你的服务器；服务器；管理你的伺服器
 3.manage to do sth 设法做某事；设法做到；设法做成某事；想法做某事
 4.manage with 用…设法对付
-5.manage to do 挣扎做某事；设法完成某事
-6.can manage it 可以设法帮这个忙
+5.can manage it 可以设法帮这个忙
 [联]man (手) + age (状态，状态物) ——> 管理状态
 
 management / ˈmænɪdʒmənt /
@@ -3693,24 +3588,23 @@ n.（公司、部门等的）经理；（艺人或运动员的）经纪人；（
 [例]
 1.The manager was fat and jolly. 经理胖乎乎乐呵呵的。
 2.I wish to speak to the manager. 我想跟经理说话。
-3.Did you see the manager himself?你见到经理本人了吗？《牛津词典》。
+3.Did you see the manager himself?你见到经理本人了吗？。
 [搭]
 1.General Manager 总经理；总经理介绍；总司理；总经理室
 2.Project Manager 项目经理；项目管理器；专案经理；工程管理器
 3.Business Manager 经管  业务经理；商务经理；营业部经理；业务经理〔公司注册处
-4.general manager 总经理
-5.project manager 项目经理
-6.sales manager 销售经理；营业主任
+4.project manager 项目经理
+5.sales manager 销售经理；营业主任
 [联]man (男人) + age (时期，状态) + r (字母r，代表角色) ——> 男人的状态中的角色
 
 managerial / ˌmænəˈdʒɪriəl /
 adj. 经营上的，管理上的；经理的，管理人的
 [例]
-1.Does she have any managerial experience?她有没有什么管理经验？《牛津词典》。
+1.Does she have any managerial experience?她有没有什么管理经验？。
 2.Williams worked at a managerial level, while only 38. 威廉姆斯在管理层工作，而他只有38岁。
 3.All the managerial personnel at the factory are hired on contract. 工厂所有管理人员都是聘用的。
 [搭]
-1.Managerial Economics 经  管理经济学；办理经济学；治理经济学
+1.Managerial Economics 管理经济学；办理经济学；治理经济学
 2.Managerial Psychology 管理心理学；管理心思学；管理心理
 3.managerial function 管理职能；治理职能；治理功能
 4.managerial system 管理系统
@@ -3730,7 +3624,7 @@ adj. 市场的，由市场决定的
 1.stock market 股市；股票市场； 金融  证券市场；绿茵股市
 2.market share 贸易  市场份额；市场据有率
 3.market research 贸易  市场调查；市场调研； 贸易  市场研究；市场调查报告
-4.market economy[经]市场经济
+4.market economy [经]市场经济
 5.socialist market economy 社会主义市场经济
 6.in the market 在市场里；想买的
 [联]market (市场) + ette (小的) ——> 小型市场
@@ -3742,7 +3636,7 @@ adj. 市场的；可销售的；有销路的
 2.Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. 另外，一旦他们成功地生产出畅销的平板玻璃，为了让机器准备好连续几年的生产，这台机器会被停用以进行维护。
 3.The type of computer may be very marketable in my. 这种型号的电脑可能很有销路。
 [搭]
-1.Marketable securities 有价证券；有价债券； 金融  适销证券
+1.Marketable securities 有价证券；有价债券；适销证券
 2.readily marketable products 适销对路的产品；适销对路的商品；适销对路的产物；适销对路的产品的
 3.marketable security 有价证券；可转让证券；流通证券
 4.marketable products 适销产品；有市场的产品；畅销产品
@@ -3773,7 +3667,6 @@ adj. 海上货运的；商业的，商人的
 3.Merchant Taylors' School 麦钱特泰勒斯学校
 4.merchant ship 商船
 5.merchant marine（一个国家的）商船，商船队
-6.merchant bank 商业银行
 [联]merch (商品) + ant (蚂蚁) ——> 经商的蚂蚁
 
 negotiable / nɪˈɡəʊʃiəb(ə)l /
@@ -3799,8 +3692,7 @@ v.（尤指在商业或政治上）谈判，磋商，洽谈；商定，达成协
 [搭]
 1.negotiate exportation 出口结汇
 2.Auto Negotiate 自动协商
-3.negotiate e 谈判；交涉；商议；商谈
-4.negotiate about 协商；谈判
+3.negotiate about 协商；谈判
 [联]ne (否定) + got + iate (动词后缀) ——> 不被拥有，不被获取
 
 negotiation / nɪˌɡoʊʃiˈeɪʃ(ə)n /
@@ -3813,9 +3705,8 @@ n. 谈判，协商；转让
 1.business negotiation 交易磋商；商务谈判；商业谈判；商务洽谈
 2.negotiation bank 议付银行；议付行；议付银止；议付止
 3.content negotiation 内容协商；内部实质意义协商；内容协商机制；内容谈判
-4.business negotiation 商务谈判，商业谈判；交易磋商
-5.contract negotiation 合同谈判
-6.negotiation skill 谈判技巧
+4.contract negotiation 合同谈判
+5.negotiation skill 谈判技巧
 [联]negotiation (谈判) + ation (名词后缀) ——> 谈判过程
 
 occupancy / ˈɑːkjəpənsi /
@@ -3828,7 +3719,6 @@ n. 居住，占用；占用人数，容纳人数；（尤指酒店的）入住�
 1.occupancy rate 入住率；租用率；居住率；占用率
 2.occupancy costs 房屋占用成本；租用成本；房屋占用本钱
 3.occupancy position 租用情况；住用情况
-4.occupancy rate 居住率；租用率
 [联]occupation (职业) + cy (后缀，表状态或性质) ——> 占有状态或性质
 
 occupation / ˌɑːkjuˈpeɪʃ(ə)n /
@@ -3840,7 +3730,7 @@ adj. <英>仅供土地占有者使用的
 3.The areas under occupation contained major industrial areas. 被占领地区拥有主要的工业区。
 [搭]
 1.non-occupation 空置；无人住用；丢空
-2.occupation tax 税收  开业税； 税收  职业税；占租
+2.occupation tax 开业税；职业税；占租
 3.Present Occupation 目前职业；现任职务；现行职业；当前的职业
 4.take up an occupation 就业
 [联]occupation (职业，占用) + tion (名词后缀) ——> 职业、占用状态
@@ -3879,8 +3769,6 @@ adj. 机会主义的；投机取巧的
 [搭]
 1.Opportunistic infection 机会性感染；机会感染；伺机性感染；机遇性感染
 2.opportunistic practice 投机行为；投契行为；谋利举动；投契行动
-3.opportunistic infections 机会性感染；机遇性感染；伺机性感染；机遇性传染
-4.opportunistic infection 机会性感染
 [联]oppor (机会) + tunity (时机) + istic (形容词后缀) ——> 机会主义的
 
 opportunity / ˌɒpəˈtjuːnəti /
@@ -3890,21 +3778,20 @@ n. 时机，机会
 2.Here is your opportunity. 你的机会来了。
 3.It was too good an opportunity to miss. 这个机会太好了，不容错过。
 [搭]
-1.opportunity cost 会计  机会成本；时机成本；机会成；时机本钱
+1.opportunity cost 机会成本；时机成本；机会成；时机本钱
 2.Business Opportunity 商业机会；商机；事业机会；招商引资
 3.equal opportunity 平等机会； 经管  机会均等；机会平等；均等机会
 4.seize the opportunity 抓住机遇，抓住机会
 5.rare opportunity 稀有机会，难得机会
-6.equal opportunity 机会均等
 [联]opp (反义prefix，表示反对) + ortunity (机会) ——> 反义的机遇
 
 pay / peɪ /
-v. 支付，付；偿还，缴纳；给予，致以；给……付工资；（投资等）产生……利润，（工作等）有……报酬；划算，有好处；付出代价；盈利；用沥青（或焦油）填塞（甲板或木船接缝）以防止漏水；（政府或机构通过提高价格、税率等使某人）为. . . . . . 买单；储蓄
+v. 支付，付；偿还，缴纳；给予，致以；给……付工资；（投资等）产生……利润，（工作等）有……报酬；划算，有好处；付出代价；盈利；用沥青（或焦油）
 n. 工资，薪水；付款；回报
 adj.（电视节目）付费的，收费的
 [例]
 1.She stubbornly refused to pay. 她怎么都不肯付钱。
-2.You'll pay for that remark!你要为你的话付出代价的！《牛津词典》。
+2.You'll pay for that remark!你要为你的话付出代价的！。
 3.They always pay punctually. 他们一向按时付款。
 [搭]
 1.pay back 偿还；回报；还钱给；报复
@@ -3934,10 +3821,9 @@ n. 支付款项，支付额；付款，支付；报答，报复
 [搭]
 1.down payment 首期；头期款；预付金
 2.Payment Terms 支付条款； 金融  付款条件；付款方式；支付条件
-3.Terms of Payment 付款方式； 金融  付款条件；支付条款；支付方式
-4.terms of payment 付款条件
-5.payment system 支付系统；付酬制度
-6.tax payment 纳税；完税
+3.terms of payment 付款条件
+4.payment system 支付系统；付酬制度
+5.tax payment 纳税；完税
 [联]pay (支付) + ment (名词后缀) ——> 付款，支付的东西
 
 payroll / ˈpeɪroʊl /
@@ -3956,7 +3842,7 @@ vt. 资助，补贴
 [联]pay (支付) + roll (名单) ——> 工资单
 
 person / ˈpɜːrs(ə)n /
-n. 人；自然人，法人；（用于不知其人是谁时）某人，家伙；（语法）人称；（用于复合词）从事……工作（或担任……职务）的人；人品，为人；身体，人身；喜爱（某事物）的人；（戏剧或故事中的）人物，角色；（基督教神学）（圣父、圣子、圣灵三位一体的）位；容貌，外表
+n. 人；自然人，法人；（用于不知其人是谁时）某人，家伙；（语法）人称；（用于复合词）从事……工作（或担任……职务）的人；人品，为人；身体，人身
 [例]
 1.She's quite a chatty person. 她是个颇爱聊天的人。
 2.He's a fascinating person. 他是个魅力十足的人。
@@ -3983,7 +3869,6 @@ n.（报纸私人广告栏内的）私人信息发布，私人广告；（报纸
 3.Personal Income 劳经  个人所得； 劳经  个人收入；人收入；小我支出
 4.personal information 个人信息，个人情况；个人资料，个人资讯
 5.personal data 个人资料
-6.personal computer 个人电脑；个人计算机
 [联]person (人) + al (形容词后缀) ——> 个人的
 
 personality / ˌpɜːrsəˈnæləti /
@@ -4029,7 +3914,6 @@ v. <正式> 拥有，持有；具有（品质或能力）；（尤指邪恶的�
 3.Nothing You Can Possess 你不能拥有任何东西；拥有任何东西
 4.possess oneself 自制，镇静
 5.possess someone of something 使某人拥有某物
-6.possess of 拥有；占有
 [联]pos (可能) + sess (抓住) ——> 可能抓住
 
 possession / pəˈzeʃn /
@@ -4076,7 +3960,7 @@ n. 产品，制品；（自然、化学或工业过程的）生成物；（特�
 [联]product (产品) + development (发展) ——> 产品研发
 
 production / prəˈdʌkʃn /
-n.（以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
+n.（以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作
 [例]
 1.Demand is outpacing production. 需求正在超过生产。
 2.Production costs began to spiral. 生产成本开始加速上涨。
@@ -4086,12 +3970,11 @@ n.（以销售为目的的）生产，制造；（对自然物的）加工，采
 2.Factors of production 生产要素；生产因素；要素；产要荤
 3.production line 工经  生产线；流水线；产品线；生产输送机
 4.production process 生产流程
-5.production line 生产线
-6.production equipment 生产设备；生产装备
+5.production equipment 生产设备；生产装备
 [联]pro (向前) + duction (引导) ——> 生产，产品
 
 productive / prəˈdʌktɪv /
-adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、庄稼或财富）的，生产性的；产生……的，引起……的（productive of）；有构词能力的；（咳嗽）生痰的，分泌黏液的
+adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、庄稼或财富）的，生产性的；产生……的，引起……的（productive of）；有构词能力的
 [例]
 1.He was hopeful that the next round of talks would also be productive. 他对下一轮会谈也会富有成效充满了希望。
 2.Too much spending on rearmament would place an insupportable burden on the nation's productive capacity. 过于庞大的重整军备开支会给国家的生产力带来难以承受的负担。
@@ -4100,9 +3983,7 @@ adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、
 1.productive forces 生产力；出产力
 2.productive capacity 生产能力；生产率；处理能力；生产效率
 3.productive resistance 生产阻力
-4.productive forces 生产力
-5.productive capacity 生产能力
-6.productive efficiency 生产效率；生产效能
+4.productive efficiency 生产效率；生产效能
 [联]pro (向前) + ductive (引导的) ——> 有生产力的
 
 productivity / ˌprɒdʌkˈtɪvəti /
@@ -4115,13 +3996,12 @@ n. 生产率，生产力
 1.total factor productivity 全要素生产率；全要素生产力；生产率
 2.Asian Productivity Organization 亚洲生产力组织
 3.labor productivity 劳动生产率；劳动生产力；劳动生产率系数；劳动生产性
-4.labor productivity 劳动生产率
-5.labour productivity 劳动生产率
-6.primary productivity 初级生产力；第一性生产力；基础生产力；初级生产率
+4.labour productivity 劳动生产率
+5.primary productivity 初级生产力；第一性生产力；基础生产力；初级生产率
 [联]pro (向前) + duct (引导，带领) + ility (性质，状态) ——> 生产力的状态
 
 profession / prəˈfeʃ(ə)n /
-n.（尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教
+n.（尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）
 [例]
 1.They're both doctors by profession. 他们两人的职业都是医生。
 2.Harper was a teacher by profession. 哈珀的职业是教师。
@@ -4131,8 +4011,7 @@ n.（尤指需要长期训练和正规资格的）职业；（某）职业界同
 2.accounting profession 会计  会计职业；会计专业；社会需求；会计行业
 3.caring profession 护理行业；照顾他人的职业
 4.profession of 宣称(感情、信念等)；表白
-5.legal profession 法律界；法律专业
-6.medical profession 医疗职业
+5.medical profession 医疗职业
 [联]pro (向前) + fession (说法) ——> 职业
 
 professional / prəˈfeʃən(ə)l /
@@ -4160,7 +4039,7 @@ n. 专业主义；专家的地位；特性或方法
 [搭]
 1.medical professionalism 医疗专业；医学职业精神
 2.new professionalism 新专业主义
-3.non-profesSionalism 非专业主义
+3.non-professionalism 非专业主义
 [联]professional (专业的) + ism (性质、状态) ——> 专业精神
 
 professionally / prəˈfeʃənəli /
@@ -4176,18 +4055,16 @@ adv. 专业地；内行地
 [联]professional (专业的) + -ly (副词后缀) ——> 专业地
 
 promote / prəˈmoʊt /
-v. 促进，提倡；升职，晋升；促销，推广； 将（运动队）晋级；使（学生）升年级；负责筹办，主办（大型活动，如音乐会或体育比赛）；促使（议会私法议案）通过；使（卒）升格为（尤指后等）；<英>（先打大牌）使（小牌）赢得一墩；使（催化剂）更活泼
+v. 促进，提倡；升职，晋升；促销，推广； 将（运动队）晋级；使（学生）升年级；负责筹办，主办（大型活动，如音乐会或体育比赛）；促使（议会私法议案）通过
 [例]
-1.Is it ethical to promote cigarettes through advertising?通过广告推销香烟合乎道德吗？《牛津词典》。
+1.Is it ethical to promote cigarettes through advertising?通过广告推销香烟合乎道德吗？。
 2.We need to promote an open exchange of ideas and information. 我们需要促进思想和信息的公开交流。
 3.She refused to promote Colin above the low rank of "legal adviser. "她拒绝提升科林，只让他做低级别的“法律顾问”。
 [搭]
 1.promote sales 促销；推销商品；促进销售；推销
 2.promote reform 促进改革；推进改革；增进改造；促进改造
 3.Can promote 能促进
-4.promote sales 促销；推销商品
-5.promote reform 促进改革
-6.promote cooperation 促进合作
+4.promote cooperation 促进合作
 [联]pro (向前) + mote (驱赶) ——> 促进
 
 promotion / prəˈmoʊʃ(ə)n /
@@ -4200,9 +4077,7 @@ n. 提拔，晋升；促销，推销； 促进，提倡；（体育运动队的�
 1.sales promotion 促销；促销活动；销售促进；销售推广
 2.health promotion 健康促进；健康促进学；健康提升
 3.Health Promotion Board 保健促进局；进委员会；健康促进局；新加坡健康促进委员会
-4.sales promotion 促销
-5.health promotion 健康促进；养生、保健
-6.website promotion 网站推广
+4.website promotion 网站推广
 [联]pro (向前) + motion (移动，活动) ——> 推动，促销
 
 promotional / prəˈmoʊʃən(ə)l /
@@ -4230,12 +4105,10 @@ adv. 准时地
 2.You have been so prompt in carrying out all these commissions. 你执行所有这些任务非常迅速。
 3.There are many emergencies which need prompt first aid treatment. 有很多紧急情况需要迅速的急救治疗。
 [搭]
-1.Command Prompt 命令提示符；命令行；命令提示字元；令终端
-2.prompt shipment 水运  即期装运；即刻装运； 水运  迅速装船；即期装船
-3.prompt delivery 贸易  即期交货；即时交货；实时交货；交货迅速
-4.prompt delivery 限时专送
-5.command prompt 命令提示符
-6.prompt attention 从速办理
+1.command prompt 命令提示符；命令行；命令提示字元；令终端
+2.prompt shipment 即期装运；即刻装运；迅速装船；即期装船
+3.prompt delivery 即期交货；即时交货；实时交货；交货迅速
+4.prompt attention 从速办理
 [联]pro (向前) + mpt (移动) ——> prompt
 
 promptly / ˈprɒmptli /
@@ -4258,12 +4131,10 @@ v. <正式> 购买，采购；<古>（努力或艰难地）获得，得到；（
 2.It was decided (that) the school should purchase new software. 已经决定学校要购买新软件。
 3.Investors can borrow an amount equal to the property's purchase price. 投资者可以借与房地产购买价相等数额的款项。
 [搭]
-1.Hire Purchase 租赁  租购；分期付款购物法； 贸易  分期付款购买；留购
-2.purchase contract 贸易  购货合同；购买合同；货合同；订货合同
-3.purchase price 物价  买价；购买价； 物价  进货价格；进价
-4.purchase price 买价，进货价格
+1.Hire Purchase 租购；分期付款购物法；分期付款购买；留购
+2.purchase contract 购货合同；购买合同；货合同；订货合同
+3.purchase price 买价；购买价； 物价  进货价格；进价
 5.purchase order 订购单，采购订单
-6.purchase contract 购货合同
 [联]pur (买) + chase (追逐) ——> 购买
 
 quota / ˈkwoʊtə /
@@ -4276,7 +4147,7 @@ n. 定额，限额；（人对事情、品质或属性拥有的）份额；定�
 1.Tariff Quota 关税配额；关税限额；税配额
 2.Import quota 进口配额；进口限额；进口配额证明；入口配额
 3.Disk quota 磁盘定额；磁盘限额
-4.quota systemn.  配额制；定额分配制
+4.quota system 配额制；定额分配制
 5.quota management 定额管理；配额管理
 6.above quota 超额
 [联]quota (配额) + system (系统) ——> 配额系统
@@ -4288,9 +4159,9 @@ n. 引语，引文；音乐（或艺术品）片段的引用；引用，引述�
 2.But I still use the word "event" anyway, use it carefully with quotation marks. 但是无论如何我还是使用“事件”这个词，小心谨慎地带引号使用它。
 3.Each chapter begins with a quotation. 每一章的开头都有一条引语。
 [搭]
-1.direct quotation 直接标价； 贸易  直接标价法； 贸易  直接报价
-2.quotation mark 语  引号；双引号；设置引用标志；引用符号
-3.actual quotation 实际报价；实际价位；实盘； 金融  暗盘
+1.direct quotation 直接标价；直接标价法；直接报价
+2.quotation mark 引号；双引号；设置引用标志；引用符号
+3.actual quotation 实际报价；实际价位；实盘；暗盘
 4.quotation sheet 报价单；报价量
 5.price quotation 报价；价格报价法；价目
 6.market quotation[经]市场行情
@@ -4300,12 +4171,12 @@ receipt / rɪˈsiːt /
 n. 发票，收据；<正式>收到，接收；(企业、银行、政府等）收到的款项，收入（receipts）
 v. 在（账单）上注明收讫字样
 [例]
-1.Can I have a receipt, please?请给我开个收据，好吗？《牛津词典》。
+1.Can I have a receipt, please?请给我开个收据，好吗？。
 2.I wrote her a receipt for the money. 我为那笔钱给她开了张收据。
 3.The buyer has to sign a delivery note as proof of receipt. 购买者必须签收送货单表明货已收到。
 [搭]
-1.Dock receipt 场站收据；站场收据； 水运  码头收据；收货单
-2.trust receipt 金融  信托收据；留交电报；信用付款收据；担保书
+1.Dock receipt 场站收据；站场收据；码头收据；收货单
+2.trust receipt 信托收据；留交电报；信用付款收据；担保书
 3.mate's receipt 大副收据；大副据；大副收据大副收据；年夜副收据
 4.on receipt of 在收到…后
 5.official receipt 正式收据
@@ -4335,9 +4206,8 @@ n.（经济的）衰退（期）；<正式>退后，撤回；（天文）退行�
 3.The economy is in recession. 经济处于衰退之中。
 [搭]
 1.Great Recession 大衰退；经济大衰退；大萧条；大阑珊
-2.economic recession 经  经济衰退；经济萧条；经济不景气；经济阑珊
+2.economic recession 经济衰退；经济萧条；经济不景气；经济阑珊
 3.recession curve 水文  退水曲线；递减曲线；下降曲线
-4.economic recession 经济衰退
 [联]economic (经济的) + contraction (收缩) ——> 经济衰退
 
 recessional / rɪˈseʃ(ə)n(ə)l /
@@ -4369,7 +4239,7 @@ v. 建议，劝告 ；推荐，介绍；使显得吸引人，使受欢迎；<古
 [例]
 1.I recommend (that) he see a lawyer. 我建议他去找个律师。
 2.I recommend the book to all my students. 我向我所有的学生都推荐这本书。
-3.What course of action would you recommend?你想推荐什么办法呢？《牛津词典》。
+3.What course of action would you recommend?你想推荐什么办法呢？。
 [搭]
 1.Recommend products 推荐产品
 2.Channel recommend 频道推荐
@@ -4385,15 +4255,12 @@ n. 正式建议，提议；推荐，介绍；<美>推荐信
 3.Nearly 60% of our bookings come from repeat business and personal recommendation. 我们近60％的预订来自于回头客生意或个人推荐。
 [搭]
 1.recommendation letter 推荐信；引荐信；保举信
-2.SPECIAL RECOMMENDATION 特别推荐；特别介绍；特品推荐；专题推荐
-3.Letters of Recommendation 推荐信；引荐信；保举信；介绍信
-4.letter of recommendation 保荐信，介绍信
-5.recommendation letter 推荐信
-6.on the recommendation of 通过…的推荐
+2.on the recommendation of 通过…的推荐
+3.letter of recommendation 保荐信，介绍信
 [联]recommend (推荐) + -ation (名词后缀) ——> 推荐的内容
 
 reduce / rɪˈduːs /
-v. 减少，降低；（烹调中）使变浓稠，收汁；<美>节食减肥；使沦为，使陷入（不好的境地）；迫使，使不得不（做）；（通过破裂、燃烧等）使变成，使化为；归纳，简化；将分数约到（最小项）；（使）进行还原反应；减薄（底片或图片）；（语音）弱化；使（脱臼，断骨）复位；<古>攻克，征服（尤指围攻并占领城镇或要塞）
+v. 减少，降低；（烹调中）使变浓稠，收汁；<美>节食减肥；使沦为，使陷入（不好的境地）；迫使，使不得不（做）；（通过破裂、燃烧等）使变成，使化为
 [例]
 1.The packets are measured to reduce waste. 测量包裹尺寸以减少浪费。
 2.The government is looking to reduce inflation. 政府正在力求降低通货膨胀率。
@@ -4408,7 +4275,7 @@ v. 减少，降低；（烹调中）使变浓稠，收汁；<美>节食减肥；
 [联]re (回) + duce (引导) ——> 引导回来
 
 reduction / rɪˈdʌkʃ(ə)n /
-n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）；浓汤，浓汁；脱臼（或断骨）复位；（化学）还原，被还原；（语音）弱化
+n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）
 [例]
 1.There has been some reduction in unemployment. 失业人数有所减少。
 2.This represents a reduction of 5% in real terms. 这相当于实际减少了5%。
@@ -4416,10 +4283,9 @@ n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩�
 [搭]
 1.Data reduction 数据缩减； 计  数据压缩； 计,数  数据简化；数据整理
 2.Dimensionality reduction 数  降维；维数约减；维数约简；维归约
-3.Clemmensen reduction 克莱门森还原反应；克莱门森还原
-4.noise reduction 噪声降低，噪声消减
-5.cost reduction 成本降低
-6.reduction method 还原法；设置限制方法
+3.noise reduction 噪声降低，噪声消减
+4.cost reduction 成本降低
+5.reduction method 还原法；设置限制方法
 [联]re- (再次，向后) + duction (引导) ——> 减少，减小
 
 redundance / rɪˈdʌndəns /
@@ -4441,12 +4307,10 @@ n. <英> （因劳动力过剩而造成的）裁员，解雇；多余，累赘�
 2.Avoid redundancy: Define an item in the glossary or in the domain model, but not in both. 避免冗余：在术语表或域模型中定义一个条目，但是不要在两者里面都下定义。
 3.If there's enough redundancy in the brain so that even if your right hemisphere got destroyed, your left hemisphere still has all the same memories. 如果大脑有足够冗余，即使你的右半球被破坏了，你的左半球仍然有相同的记忆。
 [搭]
-1.cyclic redundancy check 计  循环冗余校验；循环冗余检验；资料错误
-2.data redundancy 计  数据冗余；资料重复；数据冗余度；资料重复性
+1.cyclic redundancy check 循环冗余校验；循环冗余检验；资料错误
+2.data redundancy 数据冗余；资料重复；数据冗余度；资料重复性
 3.Triple modular redundancy 三重模块冗余；冗余；或三倍冗余判决；三倍冗余判决
-4.data redundancy 数据冗余
-5.redundancy check 冗余核对；过剩信息校验
-6.cyclic redundancy check[计]循环冗赘核对
+4.redundancy check 冗余核对；过剩信息校验
 [联]redundancy (多余，过剩) + redundancy (重复) ——> 表示冗余、重复的多余状态
 
 redundant / rɪˈdʌndənt /
@@ -4457,11 +4321,10 @@ adj. <英> 被解雇的，被裁员的；多余的，累赘的；（为预防机
 3.Rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. 这棵树并没有在整个冬天都保留现在多余的叶子，而是储存了宝贵的资源并抛弃了多余的树叶。
 [搭]
 1.redundant publlication 行为称之为多余发表
-2.redundant member 冗余构件； 机  多余杆件；赘杆；多余构件
-3.Redundant code 计  冗余码； 计  多余电码；冗余吗；冗
+2.redundant member 冗余构件；多余杆件；赘杆；多余构件
+3.Redundant code 冗余码；多余电码；冗余吗
 4.redundant information 冗余信息
-5.redundant system[计]冗余系统
-6.redundant code 冗余码
+5.redundant system [计]冗余系统
 [联]red + undant ——> 表示多余的、不必要的
 
 refund / ˈriːfʌnd /
@@ -4487,7 +4350,7 @@ adj. 可退还的；可偿还的
 [搭]
 1.Refundable deposits 存出投资款；存出保证金；存入保证金；存出包管金
 2.refundable deposit 存出保证金；可退还的定金
-3.tax refundable 可发还的税款； 税收  可获发还之税款
+3.tax refundable 可发还的税款；可获发还之税款
 4.refundable deposit 存出保证金；可退还的定金
 [联]re (回) + fund (基金，资金) + able (能够) ——> 可以退回的资金
 
@@ -4529,9 +4392,8 @@ adj. 管理的，控制的，监管的
 1.regulatory capture 规制俘虏；监管俘获；管制俘获；规制俘获
 2.regulatory sequence 调节序列
 3.regulatory system 监管体系；监管制度
-4.regulatory system 调节系统
-5.china banking regulatory commission 中国银行业监督管理委员会
-6.regulatory agency[计]管理机构；调节机构
+4.china banking regulatory commission 中国银行业监督管理委员会
+5.regulatory agency [计]管理机构；调节机构
 [联]regu (规则) + latory (相关) ——> 监管相关的
 
 reimburse / ˌriːɪmˈbɜːs /
@@ -4543,7 +4405,6 @@ v. <正式>偿还，付还（钱款）
 [搭]
 1.reimburse loan 归还贷款出口
 2.reimburse dues 补偿税
-3.reimburse e 偿还；赔偿；报销
 [联]re- (再次) + imburse (钱包) ——> 重新装入钱包
 
 reimbursement / ˌriːɪmˈbɜːrsmənt /
@@ -4557,8 +4418,7 @@ n. 赔付，偿付，赔偿；赔偿金额
 2.Reimbursement Bank 偿付行；偿付银行；清算银行
 3.apply for reimbursement 报销；报帐
 4.tax reimbursement 退税
-5.apply for reimbursement 报销
-6.claim reimbursement 索赔，要求付款
+5.claim reimbursement 索赔，要求付款
 [联]re (再次) + imburse (钱包，钱袋) ——> 再次从钱包中支付，赔偿金
 
 reliable / rɪˈlaɪəb(ə)l /
@@ -4572,9 +4432,8 @@ n. 可靠的人（或物）
 1.Safe and reliable 安全可靠；安全可；安定靠得住
 2.reliable quality 质量可靠；至为可靠的质量；可靠的质量；可靠质量
 3.reliable reputation 信誉可靠；澴
-4.reliable quality 质量可靠
-5.reliable data 可靠数据
-6.reliable information 可靠的信息
+4.reliable data 可靠数据
+5.reliable information 可靠的信息
 [联]re - ly - able (可以依赖的) ——> 可以依靠的事物或人
 
 reliably / rɪˈlaɪəbli /
@@ -4636,7 +4495,6 @@ v. 辞（职），放弃（工作或职位）；（使）听任，（使）顺�
 1.Resign to fate 认命
 2.resign to 托付给；辞职；放弃；辞去
 3.resign from 辞去；从辞职
-4.resign from 辞职
 [联]re (再次) + sign (标志，符号) ——> 递交辞呈
 
 resignation / ˌrezɪɡˈneɪʃ(ə)n /
@@ -4657,7 +4515,7 @@ v. 发生，产生；导致，造成（注明的结局或结果）
 int. <非正式> 成功了！（Result!）
 [例]
 1.They were elated at the result. 他们对这一结果感到欢欣鼓舞。
-2.Are you pleased with the result?你对结果满意吗？《牛津词典》。
+2.Are you pleased with the result?你对结果满意吗？。
 3.She was delighted at the result. 对这个结果她感到高兴。
 [搭]
 1.as a result 因此；结果是；作为结果
@@ -4665,7 +4523,6 @@ int. <非正式> 成功了！（Result!）
 3.as a result of 由于；作为；因为；作为结果
 4.result of 是…结果；由于…结果
 5.as a result 结果
-6.as a result ofadv.  因此，由于；作为…的结果
 [联]result (结果) + ant (蚂蚁) ——> 蚂蚁的结果
 
 resultant / rɪˈzʌltənt /
@@ -4677,9 +4534,9 @@ n. 合力，合成速率，合成矢量；结果
 3.The resultant diploma or degree should also be the same whether distance learning or on-campus study is employed. 无论是远程学习还是在校学习，所获的文凭或学位也应相同。
 [搭]
 1.resultant movement of cutting 合成切削运动；合成磨削运动；合成切削活动；合成切削运动方向
-2.resultant vector 物  合成矢量；合向量；合矢量；综合心电向量
+2.resultant vector 合成矢量；合向量；合矢量；综合心电向量
 3.resultant velocity 合速度；净速度；合成速度
-4.resultant forcen.  [机]合力
+4.resultant force [机]合力
 [联]resultant (结果的，合成的) + ant (蚂蚁) ——> 描述蚂蚁活动后留下的结果
 
 resume / rɪˈzuːm /
@@ -4710,8 +4567,6 @@ adj. 零售的
 2.Retail Banking 零售银行；零售银行业务；零售性银行业务；售业务
 3.retail trade 贸易  零售业；零售业平熙；批发业
 4.retail business 零售业务；小生意
-5.retail price 零售价
-6.retail trade 零售业
 [联]retail (零售) + sale (销售) ——> 零售销售
 
 retailer / ˈriːteɪlər /
@@ -4743,7 +4598,7 @@ v. 零售（retail 的 ing 形式）
 [联]retail (零售) + ing (动词后缀，表示动作正在进行) ——> 零售业
 
 retire / rɪˈtaɪə(r) /
-v.（令）退职，（使）退休；（专业运动员）退役；（因受伤、生病而）退出比赛；使（击球手）出局；<正式> 退出，离开（去安静的地方）；<文> 睡觉，就寝；（陪审团）退庭表决；<正式>（军队）撤退；命令（部队）撤退；停止使用，使报废；收回（票据，纸币），使停止流通；清偿，付清（债务）
+v.（令）退职，（使）退休；（专业运动员）退役；（因受伤、生病而）退出比赛；使（击球手）出局；<正式> 退出，离开（去安静的地方）；<文> 睡觉，就寝
 n. 退休，退隐
 [例]
 1.He has announced his intention to retire. 他已经宣布他打算退休。
@@ -4780,8 +4635,7 @@ n. 退休，退职；退休生活，退休期间；（运动员）停止参赛�
 2.Retirement allowance 劳经  退职金；退休金；在职金；养老金
 3.early retirement 劳经  提前退休；提早退休；内退；及早退休
 4.retirement age 退休年龄
-5.early retirement 提前退休；内退
-6.retirement plan 退休计划；养老金计划
+5.retirement plan 退休计划；养老金计划
 [联]retire (退休) + -ment (名词后缀) ——> 退休状态
 
 revenant / ˈrevənənt /
@@ -4809,7 +4663,7 @@ v. 复仇，报复；替（人）报仇；报（被冤枉，被伤害）之仇�
 2.Sweet Revenge 寄生人；张家辉饰张小春；甜蜜的复仇；甜蜜的报复
 3.Custer's Revenge 卡斯特的复仇；卡斯特复仇记
 4.take revenge on someone 向某人进行报复
-5.have one's revenge◎向…报复
+5.have one's revenge 向…报复
 6.revenge for 为…报复
 [联]re- (再次) + venge (报复) ——> 报复，复仇
 
@@ -4822,14 +4676,13 @@ n.（企业、组织的）收入，收益；（政府的）税收；税务局，
 [搭]
 1.Revenue Tower 税务大楼
 2.marginal revenue 边际收益； 会计  边际收入；边际误差；边岸收益
-3.Sales revenue 产品销售收入；销货收入； 会计  销售收入；销售额
+3.sales revenue 产品销售收入；销货收入； 会计  销售收入；销售额
 4.tax revenue 税收；赋税收入
-5.sales revenue 产品销售收入
-6.revenue and expenditure 收支
+5.revenue and expenditure 收支
 [联]re (再，又) + venue (归来) ——> 收回 again + venue (地点) ——> 再次回到场地
 
 sack / sæk /
-n. 麻布（或厚纸、塑料等）大袋；一袋（的量）；<非正式> 解雇（the sack）；<非正式> 床（the sack）；（通常指在战争中）洗劫，劫掠；<非正式>（棒球）垒；（在争球线后对四分卫的）擒杀；宽松直筒连衣裙（=sack dress）；<史>宽松女袍；<史>（流行于18世纪、系于礼服裙裙肩上的）宽褶后拖曳地裙裾；<史>萨克葡萄酒
+n. 麻布（或厚纸、塑料等）大袋；一袋（的量）；<非正式> 解雇（the sack）；<非正式> 床（the sack）；（通常指在战争中）洗劫，劫掠；<非正式>（棒球）垒
 v. <非正式> 解雇，开除；（军队或军事集团）劫掠，洗劫；（在美式足球中）擒抱（四分卫）；<美，非正式>把……装进袋里；<美，非正式>上床睡觉（sack out）
 [例]
 1.Four hundred workers face the sack. 四百名工人面临解雇的危险。
@@ -4854,9 +4707,7 @@ n. 出售，销售；销售额（sales）；销售活动，（尤指）拍卖；
 1.on sale 贸易  出售；打折；贱卖
 2.for sale 出售；待售；可销售的房子；廉价出售
 3.Not for Sale 恕不出售； 贸易  非卖品；纯收益；不外售
-4.for sale 出售；待售
-5.on sale 廉价出售；贱价抛售
-6.after sale service 售后服务
+4.after sale service 售后服务
 [联]store (商店) + sale (出售) ——> 商店促销
 
 salesman / ˈseɪlzmən /
@@ -4870,8 +4721,6 @@ n. 推销员；售货员
 2.traveling salesman problem 货郎担问题；TSP 问题；货郎行程问题；旅行商
 3.The Death of A Salesman 推销员之死
 4.traveling salesman 旅行推销员
-5.traveling salesman problem 旅行商问题；货郎担问题
-6.travelling salesman 旅行推销员
 [联]sale (销售) + sman (类似man的缩写) ——> 销售员
 
 sanction / ˈsæŋkʃn /
@@ -4885,8 +4734,7 @@ v. 认可，准许；对……实施制裁，处罚
 1.economic sanction 经济制裁；经济造裁；财经制裁；经济体裁
 2.administrative sanction 行政处分；行政制裁；行政处分
 3.general sanction 全面制裁
-4.legal sanctionn.  法律制裁
-5.economic sanction[经]经济制裁
+4.legal sanction 法律制裁
 [联]sanction (制裁，许可) ——> sanction (许可) + can (能够) + tion (名词后缀) ——> 可以做的事情变成禁止的事情就是制裁
 
 saving / ˈseɪvɪŋ /
@@ -4901,10 +4749,8 @@ v. 救援，挽救；节省；保存（save 的现在分词形式）
 [搭]
 1.Saving Private Ryan 拯救大兵瑞恩
 2.energy-saving 节能；节能型；节约能源
-3.SAVING MYSELF -ERIA FACHIN 将好的留给你
-4.energy saving 节能，能源节省
-5.cost savingn.  节省费用；成本节约
-6.time saving 节约时间
+3.cost saving 节省费用；成本节约
+4.time saving 节约时间
 [联]savings (储蓄) + ing (现在分词后缀) ——> 储蓄的过程
 
 secure / sɪˈkjʊr /
@@ -4944,7 +4790,6 @@ n. 证券化，资产证券化；安全化
 [搭]
 1.asset securitization 资产证券化；资产；证券化；所谓资产证券化
 2.Asset-backed Securitization 资产证券化；资产支持的证券化；券化；的证券化
-3.assets securitization 资产证券化；来说
 [联]security (安全) + -ization (名词后缀，表动作或状态) ——> 证券化
 
 security / sɪˈkjʊrəti /
@@ -4955,9 +4800,8 @@ n. 保护措施，安全工作；保安部门；安检处；保障，保证；�
 3.They had penetrated airport security. 他们已打入机场保安组织。
 [搭]
 1.information security 信息安全；资讯安全；情报安全性；资讯保安
-2.Social Security 保险  社会保障；社会安全；社会福利；社保
+2.social security 社会保障；社会安全；社会福利；社保
 3.network security 网络安全；网路安全；网络保密； 计  网络安全性
-4.social security 社会保险，社会保障
 5.public security 公共安全
 6.security system 安全系统
 [联]secu (安全) + rity (状态) ——> 安全状态
@@ -4973,9 +4817,8 @@ n. 股份，股票；（共有财产的）部分所有权；责任，贡献；�
 1.market share 贸易  市场份额；市场据有率
 2.earnings per share 金融  每股收益；每股盈馀；每股盈余；每股盈利
 3.share capital 股本； 金融  股份资本；股份
-4.market share 市场占有率
-5.share of…的份额；…的部份
-6.share with 分与，分配；和…分享
+4.share of …的份额；…的部份
+5.share with 分与，分配；和…分享
 [联]share (分享) + holder (持有者) ——> 分享持有者
 
 shareholder / ˈʃerhoʊldər /
@@ -4988,14 +4831,11 @@ n. 股东，股票持有者
 1.controlling shareholder 控股股东；持有控股权的股东；控制股东；有控制权的股东
 2.shareholder value 股东价值；股东利益；股东代价；股东增值
 3.major shareholder 大股东；主要股东
-4.shareholder value 股东价值；股东利益
-5.majority shareholder 大股东；多数股东
-6.minority shareholder 小股东；少数股东
+4.majority shareholder 大股东；多数股东
 [联]share (分享) + holder (持有者) ——> 持有者，股东
 
 shilling / ˈʃɪlɪŋ /
 n. 先令
-n.（Shilling）人名；（英）希林
 [例]
 1.Mrs.  Medlock said I was to have a shilling a week to spend. 梅德洛克太太说我每星期有一先令可以花。
 2.There's twelve of us an' my father only gets sixteen shilling a week. 我们家有十二口人，我父亲一星期只挣十六先令。
@@ -5076,9 +4916,7 @@ n. 溶剂；（对处境的某种态度）起削弱（或瓦解）作用的事�
 1.organic solvent 有化  有机溶剂；无机溶剂；有机溶液；涌溶剂
 2.protic solvent 分化  质子溶剂；质子性溶剂
 3.solvent extraction 溶剂萃取；溶剂提取；溶剂萃取法；溶剂抽提
-4.organic solvent 有机溶剂
-5.solvent extraction 溶剂萃取；溶剂抽提
-6.solvent resistance 耐溶剂性
+4.solvent resistance 耐溶剂性
 [联]solvent (溶剂) + -ent (形容词后缀，表示具有...性质的) ——> 具有溶解能力的物质
 
 spare / sper /
@@ -5087,14 +4925,13 @@ v. 抽出，拿出（时间、金钱等）；饶恕，赦免；省得，免去�
 n. 备用品；（车辆或机器的）零件，备件；（十柱保龄球戏中的）二击全倒
 [例]
 1.He could have taken a spare key. 他原本可以带上一把备用钥匙的。
-2.How do you spend your spare time?你在业余时间干什么？《牛津词典》。
+2.How do you spend your spare time?你在业余时间干什么？。
 3.He's studying music in his spare time. 他在空闲时间学音乐。
 [搭]
 1.spare parts 备件；备品备件；零配件；配件
 2.Spare time 业余时间；余暇；闲暇时间；空闲时间
 3.spare no effort 不遗余力；竭尽全力；不惜一切代价；不惜血本
 4.spare oneself 偷懒
-5.spare timen.  消遣时间
 6.spare part 备件
 [联]spare (备用的) + time (时间) ——> 空闲时间
 
@@ -5111,8 +4948,7 @@ n. 预算
 2.How to Spend Sundays 如何度过星期天；如何消度星期日；怎样度过星期天；星期天如何度过
 3.spend time 消磨时间；度过时光；花时间；消磨时光
 4.spend oneself 精疲力竭，耗尽精力
-5.spend time 花时间；消磨时间
-6.spend money 花钱；破费
+5.spend money 花钱；破费
 [联]spent (花费) + end (末端，尽头) ——> 花费的尽头是指资源的消耗完毕
 
 spendthrift / ˈspendθrɪft /
@@ -5129,13 +4965,13 @@ adj. 挥霍无度的；浪费的
 [联]spendthrift (挥霍者) + spend (花费) + thrift (节俭) ——> 挥霍者
 
 stock / stɑːk /
-n. 现货，存货；储备物，备用物；股本，资本；股份，股票；<英>公债，公债券；家畜，牲畜；种族，家系；高汤，原汤；手足枷（stocks）；柄，枪托；名声，声望；紫罗兰；接穗，砧木；根茎，根状茎；<美>保留剧目轮演剧团；信任，相信；铁路上使用的所有车辆；（胶卷）原片；发剩下的牌；（商品的）原材料；锚杆；主轴台，主轴箱（headstock 的简写）；尾架，尾座（tailstock 的简写）；白色领结，白色领带；（牧师衣领下系的）黑色领带；船台（stocks）
+n. 现货，存货；储备物，备用物；股本，资本；股份，股票；<英>公债，公债券；家畜，牲畜；种族，家系；高汤，原汤；手足枷（stocks）；柄，枪托
 v. 备有，存有；摆满，供应；为（枪等火器）装枪托；出新芽
 adj. 老一套的，陈腐的；（商店）库存的，常备的；（有关）电影资料镜头的
 [例]
 1.The stock market is in a tailspin. 股票市场一蹶不振。
 2.Stock prices took a dive. 股票价格暴跌。
-3.Do you stock green tea?你们的库存有绿茶吗？《牛津词典》。
+3.Do you stock green tea?你们的库存有绿茶吗？。
 [搭]
 1.stock market 股市；股票市场； 金融  证券市场；绿茵股市
 2.Safety Stock 计  安全库存；安全储备；安全库存量
@@ -5195,9 +5031,7 @@ adj. 次要的，附属的；子公司的
 1.subsidiary ledger 分户帐； 会计  明细分类帐；明细分类账簿；辅助分类帐
 2.subsidiary company 子公司；附属公司；再附属公司；从属公司
 3.subsidiary money 辅币
-4.subsidiary company 附属公司，子公司
-5.wholly owned subsidiary 全资子公司；全资附属机构；全资拥有子公司
-6.wholly-owned subsidiary 全资附属公司；全部控股子公司
+4.wholly owned subsidiary 全资子公司；全资附属机构；全资拥有子公司
 [联]sub (下面的) + sidial (侧面的) + ary (形容词后缀) ——> 次要的
 
 subsidize / ˈsʌbsɪdaɪz /
@@ -5219,11 +5053,10 @@ n. 补贴，津贴，补助金；<史>（议会发给王室的）特别津贴；
 2.There were also pledges to soften the impact of the subsidy cuts on the poorer regions. 也有保证要减轻消减给较贫困地区补贴所造成的冲击。
 3.The subsidy of 45 cents per gallon remains. 每加仑45美分的补贴仍然在存在。
 [搭]
-1.export subsidy 贸易  出口补贴； 贸易  出口津贴；出口补助；出口货架作业
+1.export subsidy 出口补贴；出口津贴；出口补助；出口货架作业
 2.information subsidy 信息补贴
 3.Direct Subsidy Scheme 直接资助计划；直资
 4.government subsidy 政府补助金，政府补贴
-5.export subsidy 出口补贴
 [联]sub (下面) + sid (坐) + dy (代词you的发音变化) ——> 对你下方坐着提供支持
 
 subsistence / səbˈsɪstəns /
@@ -5250,30 +5083,28 @@ v. 足够，足以；满足……的需求；有能力
 [搭]
 1.why this should suffice 为什么会这样；你如何才肯说；已经到了尽头
 2.suffice the need of 迎合或者满足
-3.suffice e 足够；有能力
-4.suffice for 满足……的需要
+3.suffice for 满足……的需要
 [联]suffice (足够，满足) + ice (冰，冰块) ——> 如果有足够的冰块，就可以制作饮料
 
 sufficient / səˈfɪʃ(ə)nt /
 adj. 足够的，充足的；（理由、条件）充足的，充分的
 [例]
-1.Is it available in sufficient quantity?这东西能不能足量供应？《牛津词典》。
+1.Is it available in sufficient quantity?这东西能不能足量供应？。
 2.The country is totally self-sufficient in food production. 在粮食生产上，这个国家完全做到了自给自足。
 3.The bank had sufficient liquid assets to continue operations. 该银行拥有足够的流动资产来继续运转。
 [搭]
 1.self-sufficient 自给自足；自立的；自给
 2.sufficient condition 充足条件；充要条件；丰裕前提
 3.more than sufficient 绰绰有馀
-4.sufficient condition 充分条件
-5.sufficient for oneself 不靠他人，不受他人影响
-6.necessary and sufficient condition 充要条件；必要且充分的条件
+4.sufficient for oneself 不靠他人，不受他人影响
+5.necessary and sufficient condition 充要条件；必要且充分的条件
 [联]suffi (足够) + cient (相关的) ——> 足够的
 
 sustain / səˈsteɪn /
 v. 维持，保持；维持……的生命；遭受，经受；（在体力或精神方面）支持，支撑；承受住……的重量；证实，证明；认可，赞成，确认；（演员）充分表演（角色，人物），扮演
 n.（乐）延音
 [例]
-1.Which planets can sustain life?哪些行星可以维持生命的存在？《牛津词典》。
+1.Which planets can sustain life?哪些行星可以维持生命的存在？。
 2.The ice will not sustain your weight. 这冰承受不了你的体重。
 3.The cash dividends they get from the cash crop would sustain them during the lean season. 他们从经济作物中得到的那些现金红利能支撑他们度过歉收季节。
 [搭]
@@ -5303,11 +5134,10 @@ adj.（计划、方法、体制）可持续的，持续性的；（自然资源�
 3.We've talked recently about the importance of sustainable energy. 最近我们谈到了可持续能源的重要性。
 [搭]
 1.sustainable development 可持续发展；可连续成长；可持续性展；可连续性成长
-2.Sustainable Design 永续设计；可持续性设计；环保设计
+2.sustainable design 永续设计；可持续性设计；环保设计
 3.sustainable economic growth 可维持经济增长；可维持经济增添
-4.sustainable development 可持续发展
-5.sustainable growth 可持续增长
-6.strategy of sustainable development 可持续发展战略
+4.sustainable growth 可持续增长
+5.strategy of sustainable development 可持续发展战略
 [联]sus (怀疑) + tain (保持) + able (能够) ——> 能够持续保持的
 
 sustainably / səˈsteɪnəbli /
@@ -5345,11 +5175,9 @@ v. 按税率定……的价格；征收关税
 3.Kernland imposes a high tariff on the export of unprocessed cashew nuts in order to ensure that the nuts are sold to domestic processing plants. 克兰对出口未经加工的腰果征收高额关税，以确保腰果销往国内加工厂。
 [搭]
 1.Tariff Quota 关税配额；关税限额；税配额
-2.Import tariff 税收  进口关税； 税收  进口税则；进口税；进口税率
-3.tariff barrier 税收  关税壁垒；关税普遍优惠制；关税；关税障碍
-4.import tariff 进口关税
-5.tariff barrier 关税壁垒
-6.tariff rate 关税税率；协定费率
+2.import tariff 进口关税；进口税则；进口税；进口税率
+3.tariff barrier 关税壁垒；关税普遍优惠制；关税；关税障碍
+4.tariff rate 关税税率；协定费率
 [联]tariff (关税) + system (系统) ——> 关税系统
 
 tax / tæks /
@@ -5358,11 +5186,11 @@ v. 对……征税；缴纳车辆牌照税；使负重担，使费力气；责�
 [例]
 1.This tax should be abolished. 这种税应该取消。
 2.Income from sales tax went down. 来自销售税的收入下降了。
-3.Does the price include tax?这个价钱是否包括税款？《牛津词典》。
+3.Does the price include tax?这个价钱是否包括税款？。
 [搭]
-1.income tax 税收  所得税； 税收  入息税；薪俸税；收入税
-2.Sales Tax 消费税； 税收  销售税；营业税；主营业务税金及附加
-3.property tax 物业税； 税收  财产税；房产税；房地产税
+1.income tax所得税；入息税；薪俸税；收入税
+2.Sales Tax 消费税；销售税；营业税；主营业务税金及附加
+3.property tax 物业税；财产税；房产税；房地产税
 4.income tax 所得税
 5.tax system 税制，课税制度
 6.tax revenue 税收；赋税收入
@@ -5375,7 +5203,7 @@ n. 征税，税制；税款
 2.Taxation is not popular in principle, merely acceptable in context. 征税原则上不受大众欢迎，只是联系背景看是可接受的。
 3.Employment and taxation are the bread-and-butter issues of politics. 就业和征税是很重要的政治问题。
 [搭]
-1.Business Taxation 企业税务； 税收  商业课税；企业税法；商业税务
+1.Business Taxation 企业税务；商业课税；企业税法；商业税务
 2.Advanced Taxation 高级税务；高级公司财务报告；初级税务；高级征税收入工作
 3.Taxation Management 税务管理；税收管理；税务治理；税收治理
 4.double taxation[经]双重征税；[经]重复课税
@@ -5391,12 +5219,11 @@ v.（飞机）缓慢滑行；（飞行员）驾驶（飞机）缓慢滑行；乘
 2.We'd better take a taxi. 我们最好乘出租车。
 3.They dived into a taxi. 他们冲进了出租车。
 [搭]
-1.Taxi Driver 出租车司机；计程车司机；的士司机
+1.taxi driver 出租车司机；计程车司机；的士司机
 2.Crazy Taxi 疯狂出租车；疯狂的士；疯狂计程车；疯狂对于外租赁车
 3.water taxi 水上出租车；水上巴士
-4.taxi driver 出租车司机；的士司机
-5.take a taxi 乘出租车，搭出租车；打的
-6.by taxi 坐计程车
+4.take a taxi 乘出租车，搭出租车；打的
+5.by taxi 坐计程车
 [联]taxi (出租汽车) + i (我) ——> 我的出租汽车
 
 taxonomy / tækˈsɒnəmi /
@@ -5435,12 +5262,11 @@ v. 给……标上商标；认出（某种习惯、品质或生活方式）为�
 2.She has registered a trademark for a new range of perfumes. 她已为一个新系列的香水注册了商标。
 3.Please identify the registered trademark. 请认明注册商标。
 [搭]
-1.TRADEMARK LAW 法  商标法
+1.TRADEMARK LAW 商标法
 2.registered trademark 注册商标；商标注册；登录商标；注册牌号
 3.generic trademark 通用商标
-4.registered trademark 注册商标
-5.trademark law 商标法
-6.famous trademark 著名商标；驰名商标
+4.trademark law 商标法
+5.famous trademark 著名商标；驰名商标
 [联]trade (交易) + mark (标志) ——> 商标
 
 transact / trænˈzækt /
@@ -5506,9 +5332,9 @@ v. 珍爱，珍藏；珍惜，珍视
 1.National Treasure 国家宝藏； 古  国宝；惊天夺宝；国家财宝
 2.Treasure Planet 星银岛；宝藏星球；星空夺宝；星银岛专辑
 3.The Treasure Hunter 刺陵
-4.treasure housen.  宝库；宝藏室
+4.treasure house 宝库；宝藏室
 5.priceless treasure 无价之宝
-6.treasure troven.  无主珍宝，无主埋藏物
+6.treasure trove 无主珍宝，无主埋藏物
 [联]treasure (财宝，财富) + ure (名词后缀) ——> 财富的东西
 
 treasurer / ˈtreʒərə(r) /
@@ -5543,12 +5369,11 @@ adj. 翻过来的，可翻转的
 2.My turnover increased spectacularly. 我的营业额大幅上升。
 3.Our turnover actually increased last year. 去年我们的营业额竟然增加了。
 [搭]
-1.turnover tax 营业税；流转税； 税收  周转税；按营业额征收的税项
-2.turnover rate 换手率；转换率； 会计  周转率；流动率
+1.turnover tax 营业税；流转税；周转税；按营业额征收的税项
+2.turnover rate 换手率；转换率；周转率；流动率
 3.Turnover ratio 周转率；成交额比率
-4.turnover rate[经]周转率，换手率
-5.annual turnover 年营业额，年成交量；年总生物量
-6.employee turnover 员工流动；职工离职
+4.annual turnover 年营业额，年成交量；年总生物量
+5.employee turnover 员工流动；职工离职
 [联]turnover (营业额，翻转) + business (商业，业务) ——> 企业营业额
 
 undertaken / ˌʌndəˈteɪkən /
@@ -5593,7 +5418,7 @@ adj. 值钱的，贵重的；有益的，宝贵的；重要的，珍贵的；可
 n. 贵重品
 [例]
 1.Luckily, nothing valuable was stolen. 幸运的是，没有贵重物品失窃。
-2.Did the burglars take anything valuable?入室窃贼偷走了贵重的东西没有？《牛津词典》。
+2.Did the burglars take anything valuable?入室窃贼偷走了贵重的东西没有？。
 3.We're wasting valuable time, time we can ill afford. 我们是在浪费宝贵的时间，我们浪费不起的时间。
 [搭]
 1.Most Valuable Player 最有价值球员；最有价值选手；最有价值的运动员
@@ -5601,7 +5426,6 @@ n. 贵重品
 3.valuable natural resources 宝贵的自然资源；可贵的天然资源；可贵的自然资源；名贵的天然资源
 4.valuable experience 宝贵的经验
 5.valuable information 有价值的情报
-6.most valuable player 最有价值球员；最优秀选手
 [联]valuable (有价值的) + -able (能够...) ——> 能够被重视的
 
 valuate / ˈvæljʊˌeɪt /
@@ -5653,9 +5477,6 @@ adj. 职业的，职业技术的，业务知识的
 1.vocational training 职业培训；职业训练；职业教育；职业练习
 2.vocational education 社科  职业教育；高职教育；中职教育；职业
 3.Vocational school 职业学校；职校；专科学校；中职校
-4.vocational education 职业教育
-5.vocational schooln.  职业学校
-6.vocational training 职业训练
 [联]vocational (职业的) + education (教育) ——> 职业教育
 
 vocative / ˈvɒkətɪv /
@@ -5675,14 +5496,13 @@ vouch / vaʊtʃ /
 vt. 担保；证明；传出庭作证
 vi. 保证；证明；确定
 [例]
-1.Are you willing to vouch for him?你愿意为他担保吗？《牛津词典》。
+1.Are you willing to vouch for him?你愿意为他担保吗？。
 2.I can vouch for her ability to work hard. 我保证她能够努力工作。
 3.He cannot vouch for the accuracy of the story. 他不能证明报道的准确性。
 [搭]
 1.vouch for somebody 打保票
 2.vouch for 保证；担保；表示负责；保证做到或保证不出问题
 3.Vouch Number 付费号码
-4.vouch for 担保；保证
 [联]vouch (主张，为...担保) + support (支持) ——> 为某人或某事提供支持和担保
 
 voucher / ˈvaʊtʃər /
@@ -5707,7 +5527,7 @@ v. 进行，发动（战争，运动）
 [例]
 1.Some of them earn below the minimum wage. 他们中的一些人挣的钱低于最低工资。
 2.Wage rates depend on levels of productivity. 工资水平取决于生产量的多寡。
-3.How can anyone live on such a miserable wage?这么少的工资让人怎么活呀？《牛津词典》。
+3.How can anyone live on such a miserable wage?这么少的工资让人怎么活呀？。
 [搭]
 1.minimum wage 最低工资；最低工资标准
 2.basic wage 基本工资；基础工资；底薪；根基工资
@@ -5758,9 +5578,8 @@ n. 财富；富有；大量
 1.The Wealth of Nations 亚当斯密；原富论；英文版
 2.wealth management 财富管理；财产管理；财富办理；理财
 3.wealth tax 财产税；富人税
-4.a wealth ofadj.  很多的
-5.wealth management 财富管理
-6.wealth of society 社会财富
+4.a wealth of  很多的
+5.wealth of society 社会财富
 [联]rich (富有的) + th (抽象名词后缀) ——> 财富
 
 wealthy / ˈwelθi /
@@ -5790,8 +5609,7 @@ v. 批发销售；以……价格批发
 2.wholesale banking 批发银行；批发银行业务；企业银行
 3.COSTCO WHOLESALE 好又多；美国好事多；好事多
 4.wholesale market 批发市场
-5.wholesale price 批发价格
-6.wholesale business 批发业务，批发生意
+5.wholesale business 批发业务，批发生意
 [联]whole (全部的) + sale (销售) ——> 批发
 
 wholesaler / ˈhoʊlseɪlər /
@@ -5868,9 +5686,9 @@ adj. 价值……的，值……钱的；值得的，具有……价值的；拥
 n. 价格，价值；重要性，作用；能用（一个星期、一个月等）的东西
 prep. 价值……；值得
 [例]
-1.How much is this painting worth?这幅画值多少钱？《牛津词典》。
+1.How much is this painting worth?这幅画值多少钱？。
 2.It's not worth losing sleep over. 那件事不值得焦虑。
-3.Was it worth the effort?这值得花费力气吗？《牛津词典》。
+3.Was it worth the effort?这值得花费力气吗？。
 [搭]
 1.Fort Worth 沃思堡；沃斯堡；沃斯堡市；福和市
 2.net worth 资产净值； 会计  净值；资本净值；净资产
@@ -5915,5 +5733,4 @@ n. 知名人士，要人（常为玩笑或贬义）
 1.James Worthy 詹姆斯·沃西；詹姆斯；洛杉矶湖人队；詹姆斯沃西
 2.worthy of 值得的；名副其实的；配得上；配作
 3.cargo worthy 适宜货运；装货的集装箱；适货标准；适货的
-4.worthy of 值得，配得上
 [联]worth (值得的) + y (形容词后缀) ——> 值得的、有价值的
