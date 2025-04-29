@@ -170,6 +170,7 @@ def process(src: str, sur_path: str, dst_path: str):
             dst_file.write(block)
             dst_file.write('\n\n')
 
+
 def extract_html():
     start = 21
     end = 23
@@ -201,4 +202,24 @@ def extract_html():
         with open(dp, 'a', encoding='utf-8') as dst_file:
             for block in blocks:
                 dst_file.write(block)
-extract_html()
+
+
+keywords = [
+    "ashamedly",
+    "biorhythmic",
+    "detrimentally",
+    "distressful",
+    "dumbass",
+    "hurtless",
+    "indifferentism",
+    "injurer",
+    "insomnious",
+    "loveliest",
+    "mundaneness",
+    "operationalize",
+    "slothfully",
+    "zealotic",
+]
+
+res = chain.invoke(input={"vocabularies": ",".join(keywords)})
+print(res)

@@ -265,20 +265,8 @@ n. 事情，事务；私事，私通；(复数)事件，事件集合。
 3.The scandal involved several high-ranking officials in the affair. 这次丑闻涉及了好几位高层官员。
 [搭] 
 1.state affairs 国事
-private affairs 私事
+2.private affairs 私事
 [联] af- (加强意义) + -fair (源自拉丁语 "facere"，意为“做”) ——> 做的事情
-
-controversial / ˌkɑːntrəˈvɜːrʃ(ə)l /
-adj. 有争议的，引发争论的
-[例]  
-1.The controversial policy caused public debate. 这项有争议的政策引发了公众辩论。  
-2.His controversial remarks sparked outrage. 他有争议的言论激起了愤怒。  
-3.The controversial issue remains unresolved. 这个有争议的问题仍未解决。  
-[搭]  
-1.controversial debate 有争议的辩论
-2.controversial figure 有争议的人物
-3.controversial issues 争议的问题；争论性问题
-[联] contro-（反对）+ vers（转）+ -ial（形容词后缀）——> 转向对立面，引发争议  
 
 puzzle / ˈpʌz(ə)l /
 v. 使困惑，使迷惑；（因迷惑而）苦思，冥思苦想；（通过苦苦思索）解决（或弄清楚），理出头绪（puzzle sth. out）
@@ -381,7 +369,7 @@ v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或�
 2.The painting inspired me to write a poem. 这幅画激发了我的灵感，让我写了一首诗。
 3.His kindness inspires everyone who meets him. 他的善良让每一个遇见他的人深受感动。
 [搭]
-1.inspire sb. with sth. 给某人以某种启发或鼓舞。
+1.inspire sb. with sth 给某人以某种启发或鼓舞。
 2.Inspire A Generation 激励一代人；鼓励一代人；激励一世代；伦敦奥运会
 3.Inspire force 激振力
 [联] in- (进入) + spir (呼吸) ——> 吸入精神力量
@@ -408,7 +396,7 @@ v. 促进，激发（某事物）；激发，鼓励；使（身体，生物系�
 3.stimulate domestic demand 刺激国内需求
 [联] stimul- (刺激) + -ate (动词后缀) ——> 产生刺激效果
 
-spur /spɜːr/
+spur / spɜːr /
 n. 一时冲动之下，心血来潮；刺激，激励；山嘴，尖坡；（公路或铁路的）支线，岔线；马刺，靴刺
 v. 激励，鼓励；促进，加速，刺激（某事发生）；用马刺策（马）前进；紧贴主干剪短（副梢）
 [例]
@@ -578,13 +566,15 @@ n. 白痴，笨蛋；<古>弱智者，低能儿
 [联] idio (个人) + t (表示人) ——> 个性独特的人（贬义）
 
 wisdom / ˈwɪzdəm /
-1.wisdom tooth 解剖 智齿；解剖 智牙；智慧齿；解剖 迟牙
-2.Wisdom King 明王；不动明王
+n. 智慧，才智；明智；学问，知识；普遍看法
 [例]
 1.Wisdom comes with age. 智慧随着年龄增长而增长。
 2.His wisdom guided him through difficult times. 他的智慧帮助他度过了艰难时期。
 3.Wisdom is the reward for a life lived well. 智慧是过好生活的回报。
-[搭] the wisdom of the ages 古往今来的智慧
+[搭]
+1.the wisdom of the ages 古往今来的智慧
+2.wisdom tooth 解剖 智齿；解剖 智牙；智慧齿；解剖 迟牙
+3.Wisdom King 明王；不动明王
 [联] wise (聪明的) + -dom (状态或性质) ——> 聪明的状态
 
 wit / wɪt /
