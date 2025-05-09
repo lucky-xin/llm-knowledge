@@ -1,5 +1,7 @@
 import os
 
+from langchain_community.document_transformers.openai_functions import create_metadata_tagger
+
 
 def process_txt_files(src_dir, dst_dir):
     # 确保目标目录存在
