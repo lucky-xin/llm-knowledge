@@ -5,7 +5,7 @@ n. 星系；银河，银河系（the Galaxy）；群英，人才荟萃
 2.The Hubble Space Telescope has captured images of distant galaxies. 哈勃太空望远镜拍摄到了遥远星系的照片。
 3.A galaxy of stars appeared in the sky. 天空中出现了满天繁星。
 [搭] 
-1.Milky Way 银河系
+1.milky way galaxy 银河系
 2.galaxy cluster 星系团
 3.elliptical galaxy 椭圆星云
 
@@ -492,11 +492,10 @@ v. 使加重，使恶化；合成，混合；以复利计算支付；和解，�
 2.The pharmacist compounded the medicine. 药剂师调配了药。
 3.The compound interest is calculated annually. 复利每年计算一次。
 [搭]
-1.compound fertilizer 化肥
+1.compound fertilizer 化肥；复合肥料
 2.compound sentence 复合句
-3.compound fertilizer 复合肥料
-4.organic compound 有机化合物
-5.chemical compound [化]化合物
+3.organic compound 有机化合物
+4.chemical compound [化]化合物
 [联] com-(共同) + pound(重量) ——> 共同重量
 
 fossil / ˈfɑːs(ə)l /
@@ -535,10 +534,9 @@ n. 样品，标本；（尤指动植物的）实例；（化验的）抽样，�
 3.The botanist collected several plant specimens from the field. 植物学家从野外收集了几种植物标本。
 [搭]
 1.specimen collection 标本收集
-2.specimen preparation 标本准备
+2.specimen preparation 标本准备；试片制作；样品制备
 3.test specimen 试样；试棒；试块
 4.specimen signature 签字样本；印鉴样本
-5.specimen preparation 试片制作；样品制备
 [联] specimen (标本) ——> 供研究或展示的小物件
 
 particle / ˈpɑːrtɪkl /
@@ -600,9 +598,8 @@ n. 电子
 [搭]
 1.electron beam 电子束
 2.electron microscope 电子显微镜
-3.electron microscope 电子显微镜
-4.electron microscopy 电子显微镜学，电子显微镜
-5.scanning electron microscope 扫描电子显微镜
+3.electron microscopy 电子显微镜学，电子显微镜
+4.scanning electron microscope 扫描电子显微镜
 [联] electron (电子) ——> 微小的带负电粒子
 
 quantum / ˈkwɑːntəm /
@@ -632,7 +629,7 @@ adj. 液态的；流动的
 2.liquid asset 流动资产
 [联] liquid (液体) ——> 流动性强的东西。
 
-fluid / ˈlɪkwɪd /
+fluid / ˈfluːɪd /
 n. 液体，液态物；流音
 adj. 液态的，液化的；（资金等）流动的，易变为现金的；流畅自如的，舒展的；明亮的，清澈的；清脆的，流畅的；（市场）活跃的；液态的，液化的
 [例]
@@ -896,7 +893,7 @@ n. 碎片，碎块；片段，节选；v. 破碎；分裂；使成碎片
 [联] frag-(破碎) + -ment(名词后缀) ——> 碎片
 
 cataclysmic / ˌkætəˈklɪzmɪk /
-adj. 大灾难性的；毁灭性的。
+adj. 大灾难性的；毁灭性的
 [例]
 1.The earthquake had cataclysmic effects on the city. 地震对该城市造成了毁灭性的破坏。
 2.A cataclysmic event reshaped the landscape. 一场大灾难重塑了地貌。
